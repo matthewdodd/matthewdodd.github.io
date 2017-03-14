@@ -2,10 +2,13 @@ body {
 	background-color: powderblue;
 	background-image: url("matthewdodd.github.io/images/grey_box.png");
     background-repeat: no-repeat;
-    background-position: left top;
+    background-position: center top;
     background-attachment: fixed;
 }
-div {
+div.1 {
+	text-align: center;
+}
+div.2 {
 	padding-top: 50px;
 	padding-left: 20px;
 }
