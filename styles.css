@@ -19,7 +19,5 @@ div.nav {
 div.content {
 	margin-left: 240px;
 	padding: 20px;
-	border-left: solid;
-	border-color: gray;
-	border-width: 3px;
+	border-left: solid gray 3px;
 }
