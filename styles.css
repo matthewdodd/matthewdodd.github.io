@@ -15,7 +15,9 @@ div.nav {
 	margin-left: 20px;
 	float: left;
 	width: 200px;
-	border: 1px solid gray;
+	border-style: solid;
+	border-width: 3px;
+	border-color: gray;
 }
 div.content {
 	margin-left: 240px;
