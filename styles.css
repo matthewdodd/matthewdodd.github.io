@@ -11,8 +11,13 @@ h1 {
 	font-size: 4em;
 	padding-top: -10px;
 }
-div {
+div.nav {
 	padding-left: 20px;
 	float: left;
-	margin: 30px;
+	width: 
+}
+div.content {
+	margin-left: 220px;
+	border-left: 1px solid gray;
+	padding: 20px;
 }
