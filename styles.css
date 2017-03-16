@@ -15,12 +15,11 @@ div.nav {
 	margin-left: 20px;
 	float: left;
 	width: 200px;
-	border-style: solid;
-	border-width: 3px;
-	border-color: gray;
-	border-spacing: 10px;
 }
 div.content {
 	margin-left: 240px;
 	padding: 20px;
+	border-left: solid;
+	border-color: gray;
+	border-width: 3px;
 }
