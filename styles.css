@@ -1,11 +1,6 @@
 body {
 }
 h1 {
-	background-image: url("/images/carleton.png");
-	background-position: Left;
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-	background-size: 150px;
 	margin-left: 170px;
 	text-align: Left;
 	font-size: 4em;
@@ -28,4 +23,11 @@ div.footer {
 	padding: 5px;
 	position: absolute;
 	bottom: 0;
+}
+div.header {
+	background-image: url("/images/carleton.png");
+	background-position: Left;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 150px;
 }
