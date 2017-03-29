@@ -1,17 +1,15 @@
 body {
 }
 h1 {
-	border-radius: 25px;
-	text-align: center;
+	background-image: url("/images/carleton.png");
+	background-position: Left;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	text-align: Left;
 	font-size: 4em;
 	margin-top: -5px;
-	border: solid #223a60 3px;
-	background-color: #7e8ea8;
 }
 div.nav {
-	border-radius: 25px;
-	border: solid #7e8ea8 1px;
-	background-color: #7e8ea8;
 	margin-left: 20px;
 	float: left;
 	width: 150px;
