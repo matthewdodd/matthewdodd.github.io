@@ -1,6 +1,6 @@
 body {
 	background-image: url("/images/md.png");
-	background-position: 40px 40px;
+	background-position: 20px 20px;
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: 100px;
@@ -30,5 +30,5 @@ div.footer {
 	bottom: 0;
 }
 div.header {
-
+	padding: 20px;
 }
