@@ -4,6 +4,7 @@ body {
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: 100px;
+	background: linear-gradient(to bottom right, white, #6C92E5);
 }
 h1 {
 	margin-left: 120px;
@@ -20,7 +21,6 @@ div.content {
 	margin-left: 180px;
 	padding: 40px;
 	border-left: solid #2d64db 3px;
-	background: linear-gradient(to right, #6C92E5, white);
 }
 div.footer {
 	float: bottom;
