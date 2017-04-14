@@ -4,16 +4,18 @@ h1 {
 	margin-left: 120px;
 	text-align: Left;
 	font-size: 4em;
+	background-color: #C0C0C0;
+	border-radius: 50px 5px 5px 50px
 }
 div.nav {
-	margin-left: 20px;
-	float: left;
+	margin-right: 20px;
+	float: right;
 	width: 150px;
 }
 div.content {
-	margin-left: 180px;
+	margin-left: 80px;
 	padding: 40px;
-	border-left: solid #2d64db 3px;
+	border-right: solid #2d64db 3px;
 }
 div.footer {
 	float: bottom;
@@ -25,8 +27,6 @@ div.footer {
 }
 div.header {
 	padding: 20px;
-	background-color: #C0C0C0;
-	border-radius: 50px 5px 5px 50px;
 	background-image: url("/images/md_2.png");
 	background-position: 20px 20px;
 	background-repeat: no-repeat;
