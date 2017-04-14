@@ -10,18 +10,16 @@ h1 {
 	margin-top: -20px;
 	text-align: Left;
 	font-size: 4em;
-	background-color: #C0C0C0;
-	border-radius: 50px 5px 5px 50px
 }
 div.nav {
 	margin-right: 20px;
 	float: right;
 	width: 150px;
+	border-left: solid #2d64db 3px;
 }
 div.content {
 	margin-left: 80px;
 	padding: 40px;
-	border-right: solid #2d64db 3px;
 }
 div.footer {
 	float: bottom;
@@ -38,4 +36,7 @@ div.header {
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: 100px;
+	float: top-left;
+	background-color: #C0C0C0;
+	border-radius: 50px 5px 5px 50px
 }
