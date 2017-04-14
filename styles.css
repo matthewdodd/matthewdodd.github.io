@@ -1,6 +1,11 @@
+@font-face {
+    font-family: headerFont;
+    src: url("/sgt_gorila.ttf");
+}
 body {
 }
 h1 {
+	font-family: headerFont;
 	margin-left: 120px;
 	text-align: Left;
 	font-size: 4em;
