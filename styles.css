@@ -6,12 +6,13 @@ body {
 }
 h1 {
 	font-family: headerFont;
-	margin-left: 120px;
+	margin-left: 200px;
 	margin-top: -20px;
 	text-align: Left;
 	font-size: 4em;
 }
 div.nav {
+	margin-top: 20px;
 	margin-right: 20px;
 	float: right;
 	width: 150px;
@@ -35,7 +36,7 @@ div.header {
 	background-position: 20px 20px;
 	background-repeat: no-repeat;
     background-attachment: fixed;
-	background-size: 100px;
+	background-size: 80px;
 	background-color: #C0C0C0;
 	border-radius: 50px 5px 5px 50px
 }
