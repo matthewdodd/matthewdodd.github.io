@@ -6,7 +6,7 @@ body {
 }
 h1 {
 	font-family: headerFont;
-	margin-left: 200px;
+	margin-left: 240px;
 	text-align: Left;
 	font-size: 4em;
 	margin-top: -0.5em;
@@ -14,7 +14,7 @@ h1 {
 div.header {
 	padding: 20px;
 	background-image: url("/images/md_2.png");
-	background-position: 20px 20px;
+	background-position: 40px 20px;
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: 10%;
