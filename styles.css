@@ -14,7 +14,8 @@ h1 {
 	color: white;
 }
 div.header {
-	border-bottom: solid #2d64db 3px;
+	border-bottom: solid #2d64db 1px;
+	padding: 10px;
 }
 div.nav {
 	margin-top: 60px;
@@ -22,7 +23,7 @@ div.nav {
 	float: right;
 	width: 170px;
 	padding-left: 20px;
-	border-left: solid #2d64db 3px;
+	border-left: solid #2d64db 1px;
 }
 div.content {
 	margin-left: 80px;
