@@ -8,7 +8,6 @@ body {
 h1 {
 	font-family: headerFont;
 	font-size: 2em;
-	margin-top: -1em;
 }
 div.header {
 	border-bottom: solid #2d64db 1px;
@@ -38,8 +37,10 @@ img {
 	margin-left: 10%;
 }
 a.headerLeft {
+	margin-top: -1em;
 	margin-left: 30%;
 }
 a.headerRight {
+	margin-top: -1em;
 	margin-left: 10%;
 }
