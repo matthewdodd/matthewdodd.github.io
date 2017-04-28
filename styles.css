@@ -3,7 +3,6 @@
     src: url("/sgt_gorila.ttf");
 }
 body {
-	background-color: #BEBEBE;
 }
 h1 {
 	font-family: headerFont;
@@ -12,14 +11,7 @@ h1 {
 div.header {
 	border-bottom: solid #2d64db 1px;
 	padding: 10px;
-}
-div.nav {
-	margin-top: 60px;
-	margin-right: 20px;
-	float: right;
-	width: 170px;
-	padding-left: 20px;
-	border-left: solid #2d64db 1px;
+	background-color: #BEBEBE;
 }
 div.content {
 	margin-left: 80px;
