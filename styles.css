@@ -10,6 +10,9 @@ h1 {
 	padding: 0.5px;
 }
 div.header {
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
 	border-bottom: solid #2d64db 1px;
 	padding: 0.5px;
 	background-color: #BEBEBE;
@@ -35,4 +38,9 @@ a.headerLeft {
 a.headerRight {
 	margin-top: -10px;
 	margin-left: 10%;
+}
+span {
+	display: inline-block;
+	vertical-align: center;
+	line-height: normal;
 }
