@@ -1,0 +1,16 @@
+<html>
+<title>A Second Look at the Old Bailey API</title>
+<head>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<p align=right>Return <a href="/notes/notes.html">Home</a></p>
+<h2>05 June 2017 - A Second Look at the Old Bailey API</h2>
+<p>- After taking another look at the link that I used as part of my "I can only get 1000 records?" issue, I noticed that I can stipulate a begin and an end point.</p>
+<p>- Given this I quickly jumped into Excel and Notepad++ to generate the required links for wget to gather all the possible identifiers that matched my search criteria: "sentence: transportation."</p>
+<p>- I quickly wrote the parameter file for wget with those links (a whopping 46 of them to b precise - I used 900 records per link to be on the safe side) and began my wget - ing.</p>
+<p>- The first issue: I needed to use the "--no-check-certificate" flag because of this:</p>
+<p>-- "ERROR: certificate common name `hri.shef.ac.uk' doesn't match requested host name `www.oldbaileyonline.org'."</p>
+<p>- Once I did that, it worked perfectly and generated all 46 files. According to wget: "Downloaded: 46 files, 768K in 0.05s (14.0 MB/s)"</p>
+<p>- From here it seems like it should be trivial to clean up all of the files and concatenate them into one larger parameter file again so that I can gather all of the transcripts from The Old Bailey.</p>
+<p>- The big thing here, though, is that I will have to be kind and set a limiter on how much and how fast I download all of the information from The Old Bailey. I don't want to overload them or their server.</p>
+</html>
