@@ -11,17 +11,17 @@
 	<li>All of the files being grabbed by wget had the prefix "text@div=" as part of their name and I prefer not having that as it doesn't help anything and so a quick way to deal with that (given that I am primarily in a windows environment) is to use PowerShell:
 	<ul>
 	<li>Change directory to the relevent file location:</li>
-<p class="script">Windows PowerShell</p>
-<p class="script2">Windows PowerShell</p>
-<p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
-<p class="script2"><br /></p>
-<p class="script3">> cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</p>
+		<p class="script">Windows PowerShell</p>
+		<p class="script2">Windows PowerShell</p>
+		<p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
+		<p class="script2"><br /></p>
+		<p class="script3">> cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</p>
 	<li>-- Rename the files using this script:</li>
-<p class="script">Windows PowerShell</p>
-<p class="script2">Windows PowerShell</p>
-<p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
-<p class="script2"><br /></p>
-<p class="script3">> dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</p>
+		<p class="script">Windows PowerShell</p>
+		<p class="script2">Windows PowerShell</p>
+		<p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
+		<p class="script2"><br /></p>
+		<p class="script3">> dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</p>
 	</ul></li>
 </ul>
 </html>
