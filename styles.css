@@ -2,40 +2,6 @@
     font-family: headerFont;
     src: url("/sgt_gorila.ttf");
 }
-p.script {
-    font-family: "Arial", Arial, sans-serif;
-	margin-left: 80px;
-	border-top: solid rgb(150, 150, 150) 5px;
-    border-left: solid rgb(150, 150, 150) 5px;
-    border-right: solid rgb(150, 150, 150) 5px;
-	background-color: rgb(150, 150, 150);
-	color: black;
-    width: 850px;
-    border-radius: 5px 5px 0px 0px;
-}
-p.script2 {
-	margin-top: -18px;
-    font-family: "Courier New", Courier, serif;
-	margin-left: 80px;
-    border-left: solid rgb(150, 150, 150) 5px;
-    border-right: solid rgb(150, 150, 150) 5px;
-	background-color: rgb(1,36,86);
-	color: white;
-    width: 850px;
-    border-radius: 0px 0px 5px 5px;
-}
-p.script3 {
-	margin-top: -18px;
-    font-family: "Courier New", Courier, serif;
-	margin-left: 80px;
-	border-bottom: solid rgb(150, 150, 150) 5px;
-    border-left: solid rgb(150, 150, 150) 5px;
-    border-right: solid rgb(150, 150, 150) 5px;
-	background-color: rgb(1,36,86);
-	color: white;
-    width: 850px;
-    border-radius: 0px 0px 5px 5px;
-}
 body {
 }
 h1 {
@@ -76,4 +42,41 @@ span {
 	display: inline-block;
 	vertical-align: center;
 	line-height: normal;
+}
+p.script {
+    font-family: "Arial", Arial, sans-serif;
+	margin-left: 80px;
+	border-top: solid rgb(150, 150, 150) 5px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(150, 150, 150);
+	color: black;
+    width: 850px;
+    border-radius: 5px 5px 0px 0px;
+}
+p.script2 {
+	margin-top: -18px;
+    font-family: "Courier New", Courier, serif;
+	margin-left: 80px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(1,36,86);
+	color: white;
+    width: 850px;
+    border-radius: 0px 0px 5px 5px;
+}
+p.script3 {
+	margin-top: -18px;
+    font-family: "Courier New", Courier, serif;
+	margin-left: 80px;
+	border-bottom: solid rgb(150, 150, 150) 5px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(1,36,86);
+	color: white;
+    width: 850px;
+    border-radius: 0px 0px 5px 5px;
+}
+p.highlight{
+	color: yellow;
 }
