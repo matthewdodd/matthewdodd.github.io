@@ -1,4 +1,5 @@
 body {
+	height: 100%;
 }
 h1 {
 	font-family: "Arial", Arial, sans-serif;
@@ -15,8 +16,16 @@ div.header {
 div.content {
 	margin-left: 80px;
 	padding: 40px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto 50px;
+}
+div.push {
+    height: 80px;
 }
 div.footer {
+	height: 142px;
 	float: bottom;
 	border-top: solid rgb(0,180,200) 1px;
 	text-align: left;
