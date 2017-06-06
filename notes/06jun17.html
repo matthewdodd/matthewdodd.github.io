@@ -8,6 +8,6 @@
 <p>- I began gathering the data using wget to grab over 40,000 records. Weirdly enough, despite The Old Bailey API informing me that there were 40,521 records, I have over that many unique identifiers.</p>
 <p>- I will need to confirm that all of the cases/trials actually resulted in the consequence of transportation before going forward.</p>
 <p>- All of the files being grabbed by wget had the prefix "text@div=" as part of their name and I prefer not having that as it doesn't help anything and so a quick way to deal with that (given that I am primarily in a windows environment) is to use PowerShell:</p>
-<p>-- Change directory to the relevent file location: <div class="script">cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</div></p>
-<p>-- Rename the files using this script: <div class="script">dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</div></p>
+<p>-- Change directory to the relevent file location: <div class="script">> cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</div></p>
+<p>-- Rename the files using this script: <div class="script">> dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</div></p>
 </html>
