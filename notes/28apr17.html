@@ -5,12 +5,16 @@
 </head>
 <p align=right>Return <a href="/notes/notes.html">Home</a></p>
 <h2>28 April 2017 - Looking at the Old Bailey API</h2>
-<p>- The <a href="https://www.oldbaileyonline.org/static/API.jsp">Old Bailey API</a> seems to be the starting point for this project.</p>
-<p>- The first issue, however, is that when <a href="https://www.oldbaileyonline.org/obapi/ob?term0=puncat_transport&&start=0&count=40600&inputFormat=OBapiSearchJson">the initial query</a> is run it appears to show that there are some 40,521 cases where the sentence was "transportation."</p>
-<p>- The API will only allow generation of up to 1,000 case numbers which leaves over 39,000 not being pulled.</p>
-<p>- The first issue to be solved, therefore, is how to get all 40,521 case numbers for later data mining?</p>
-<p>-- Once we have the case numbers it will be simple to <a href="https://www.gnu.org/software/wget/">Wget</a> all of the cases because we can generate them all based on the API.</p>
-<p>- All of the cases are formatted in XML / JSON which leads me to believe that the data should be straightforward enough to deal with.</p>
-<p>- What exactly has been tagged in the JSON, though? Is it enough for me to perform my research? Will I need to do additional tagging?</p>
-<p>- <a href="https://www.londonlives.org/">London Lives</a> is another matter entirely, however. They have no built in API and so I'll have to look and see if I can cobble something together that does the searching for me.</p>
+<ul>
+	<li>The <a href="https://www.oldbaileyonline.org/static/API.jsp">Old Bailey API</a> seems to be the starting point for this project.</li>
+	<li>The first issue, however, is that when <a href="https://www.oldbaileyonline.org/obapi/ob?term0=puncat_transport&&start=0&count=40600&inputFormat=OBapiSearchJson">the initial query</a> is run it appears to show that there are some 40,521 cases where the sentence was "transportation."</li>
+	<li>The API will only allow generation of up to 1,000 case numbers which leaves over 39,000 not being pulled.</li>
+	<li>The first issue to be solved, therefore, is how to get all 40,521 case numbers for later data mining?
+	<ul>
+		<li>Once we have the case numbers it will be simple to <a href="https://www.gnu.org/software/wget/">Wget</a> all of the cases because we can generate them all based on the API.</li>
+	</ul></li>
+	<li>All of the cases are formatted in XML / JSON which leads me to believe that the data should be straightforward enough to deal with.</li>
+	<li>What exactly has been tagged in the JSON, though? Is it enough for me to perform my research? Will I need to do additional tagging?</li>
+	<li><a href="https://www.londonlives.org/">London Lives</a> is another matter entirely, however. They have no built in API and so I'll have to look and see if I can cobble something together that does the searching for me.</li>
+</ul>
 </html>

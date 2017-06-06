@@ -5,19 +5,23 @@
 </head>
 <p align=right>Return <a href="/notes/notes.html">Home</a></p>
 <h2>06 June 2017 - All the Data</h2>
-<p>- I began gathering the data using wget to grab over 40,000 records. Weirdly enough, despite The Old Bailey API informing me that there were 40,521 records, I have over that many unique identifiers.</p>
-<p>- I will need to confirm that all of the cases/trials actually resulted in the consequence of transportation before going forward.</p>
-<p>- All of the files being grabbed by wget had the prefix "text@div=" as part of their name and I prefer not having that as it doesn't help anything and so a quick way to deal with that (given that I am primarily in a windows environment) is to use PowerShell:</p>
-<p>-- Change directory to the relevent file location:</p>
+<ul>
+	<li>I began gathering the data using wget to grab over 40,000 records. Weirdly enough, despite The Old Bailey API informing me that there were 40,521 records, I have over that many unique identifiers.</li>
+	<li>I will need to confirm that all of the cases/trials actually resulted in the consequence of transportation before going forward.</li>
+	<li>All of the files being grabbed by wget had the prefix "text@div=" as part of their name and I prefer not having that as it doesn't help anything and so a quick way to deal with that (given that I am primarily in a windows environment) is to use PowerShell:
+	<ul>
+	<li>Change directory to the relevent file location:</li>
+	</ul></li>
 <p class="script">Windows PowerShell</p>
 <p class="script2">Windows PowerShell</p>
 <p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
 <p class="script2"><br /></p>
 <p class="script3">> cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</p>
-<p>-- Rename the files using this script:</p>
+	<li>-- Rename the files using this script:</li>
 <p class="script">Windows PowerShell</p>
 <p class="script2">Windows PowerShell</p>
 <p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
 <p class="script2"><br /></p>
 <p class="script3">> dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</p>
+</ul>
 </html>
