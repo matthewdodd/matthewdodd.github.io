@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17611209-32">
+               <interp inst="t17611209-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17611209-32" type="year" value="1761"></interp>
+               <interp inst="t17611209-32" type="uri" value="sessionsPapers/17611209"></interp>
+               <interp inst="t17611209-32" type="date" value="17611209"></interp>
+               <join result="criminalCharge" id="t17611209-32-off178-c303" targOrder="Y" targets="t17611209-32-defend364 t17611209-32-off178 t17611209-32-verdict182"></join>
+         
+               <p>34. (M.) 
+               
+                  <persName id="t17611209-32-defend364" type="defendantName">
+                     John 
+                     Roach 
+                  <interp inst="t17611209-32-defend364" type="surname" value="Roach"></interp>
+                     <interp inst="t17611209-32-defend364" type="given" value="John"></interp>
+                     <interp inst="t17611209-32-defend364" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17611209-32-off178" type="offenceDescription">
+                     <interp inst="t17611209-32-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17611209-32-off178" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one hand-saw, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17611209-32-victim366" type="victimName">
+                     John 
+                     Robinson 
+                  <interp inst="t17611209-32-victim366" type="surname" value="Robinson"></interp>
+                     <interp inst="t17611209-32-victim366" type="given" value="John"></interp>
+                     <interp inst="t17611209-32-victim366" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17611209-32-off178 t17611209-32-victim366"></join>
+                  </persName>
+                
+            , <rs id="t17611209-32-cd179" type="crimeDate">Nov. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17611209-32-off178 t17611209-32-cd179"></join>. +</p>
+               <p>The prosecutor is a <rs id="t17611209-32-viclabel180" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17611209-32-victim366 t17611209-32-viclabel180"></join>, and lives in <placeName id="t17611209-32-crimeloc181">Princes Square, Ratcliff highway</placeName>
+                  <interp inst="t17611209-32-crimeloc181" type="placeName" value="Princes Square, Ratcliff highway"></interp>
+                  <interp inst="t17611209-32-crimeloc181" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17611209-32-off178 t17611209-32-crimeloc181"></join>. The prisoner was observed to come out of the Shop with a saw under his coat; he was stopped, and the saw found upon him.</p>
+               <p>
+                  <rs id="t17611209-32-verdict182" type="verdictDescription">
+                     <interp inst="t17611209-32-verdict182" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17611209-32-verdict182" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17611209-32-punish183" type="punishmentDescription">
+                     <interp inst="t17611209-32-punish183" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17611209-32-defend364 t17611209-32-punish183"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

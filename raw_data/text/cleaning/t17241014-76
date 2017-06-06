@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17241014-76">
+               <interp inst="t17241014-76" type="collection" value="BAILEY"></interp>
+               <interp inst="t17241014-76" type="year" value="1724"></interp>
+               <interp inst="t17241014-76" type="uri" value="sessionsPapers/17241014"></interp>
+               <interp inst="t17241014-76" type="date" value="17241014"></interp>
+               <join result="criminalCharge" id="t17241014-76-off386-c238" targOrder="Y" targets="t17241014-76-defend366 t17241014-76-off386 t17241014-76-verdict388"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17241014-76-defend366" type="defendantName">
+                     John 
+                     Corney 
+                  <interp inst="t17241014-76-defend366" type="surname" value="Corney"></interp>
+                     <interp inst="t17241014-76-defend366" type="given" value="John"></interp>
+                     <interp inst="t17241014-76-defend366" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17241014-76-defloc385">St. Bennet's Gracechurch</placeName>
+                  <interp inst="t17241014-76-defloc385" type="placeName" value="St. Bennet's Gracechurch"></interp>
+                  <interp inst="t17241014-76-defloc385" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17241014-76-defend366 t17241014-76-defloc385"></join>, was indicted for <rs id="t17241014-76-off386" type="offenceDescription">
+                     <interp inst="t17241014-76-off386" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17241014-76-off386" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 3 Pounds of Glue, value 1 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17241014-76-victim368" type="victimName">
+                     Thomas 
+                     Plumstead 
+                  <interp inst="t17241014-76-victim368" type="surname" value="Plumstead"></interp>
+                     <interp inst="t17241014-76-victim368" type="given" value="Thomas"></interp>
+                     <interp inst="t17241014-76-victim368" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17241014-76-off386 t17241014-76-victim368"></join>
+                  </persName>
+                
+            , the <rs id="t17241014-76-cd387" type="crimeDate">4th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17241014-76-off386 t17241014-76-cd387"></join> last. The Fact being plainly prov'd, the Jury found him <rs id="t17241014-76-verdict388" type="verdictDescription">
+                     <interp inst="t17241014-76-verdict388" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17241014-76-verdict388" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs> 
+                  <rs id="t17241014-76-punish389" type="punishmentDescription">
+                     <interp inst="t17241014-76-punish389" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17241014-76-defend366 t17241014-76-punish389"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

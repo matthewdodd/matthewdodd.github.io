@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210419-59">
+               <interp inst="t17210419-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210419-59" type="year" value="1721"></interp>
+               <interp inst="t17210419-59" type="uri" value="sessionsPapers/17210419"></interp>
+               <interp inst="t17210419-59" type="date" value="17210419"></interp>
+               <join result="criminalCharge" id="t17210419-59-off301-c210" targOrder="Y" targets="t17210419-59-defend330 t17210419-59-off301 t17210419-59-verdict308"></join>
+               <join result="criminalCharge" id="t17210419-59-off301-c211" targOrder="Y" targets="t17210419-59-defend332 t17210419-59-off301 t17210419-59-verdict308"></join>
+               <join result="criminalCharge" id="t17210419-59-off303-c210" targOrder="Y" targets="t17210419-59-defend330 t17210419-59-off303 t17210419-59-verdict308"></join>
+               <join result="criminalCharge" id="t17210419-59-off303-c211" targOrder="Y" targets="t17210419-59-defend332 t17210419-59-off303 t17210419-59-verdict308"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17210419-59-defend330" type="defendantName">
+                     Benjamin 
+                     Pettit 
+                  <interp inst="t17210419-59-defend330" type="surname" value="Pettit"></interp>
+                     <interp inst="t17210419-59-defend330" type="given" value="Benjamin"></interp>
+                     <interp inst="t17210419-59-defend330" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17210419-59-defend332" type="defendantName">
+                     Thomas 
+                     Millard 
+                  <interp inst="t17210419-59-defend332" type="surname" value="Millard"></interp>
+                     <interp inst="t17210419-59-defend332" type="given" value="Thomas"></interp>
+                     <interp inst="t17210419-59-defend332" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17210419-59-defloc300">St. Giles in the Fields</placeName>
+                  <interp inst="t17210419-59-defloc300" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17210419-59-defloc300" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210419-59-defend330 t17210419-59-defloc300"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210419-59-defend332 t17210419-59-defloc300"></join>, were indicted for <rs id="t17210419-59-off301" type="offenceDescription">
+                     <interp inst="t17210419-59-off301" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210419-59-off301" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 Iron Streaks. value 18 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17210419-59-victim334" type="victimName">
+                     Thomas 
+                     Foulker 
+                  <interp inst="t17210419-59-victim334" type="surname" value="Foulker"></interp>
+                     <interp inst="t17210419-59-victim334" type="given" value="Thomas"></interp>
+                     <interp inst="t17210419-59-victim334" type="gender" value="male"></interp>
+                  </persName>
+                
+            , on the <rs id="t17210419-59-cd302" type="crimeDate">19th of this Instant April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210419-59-off301 t17210419-59-cd302"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210419-59-off303 t17210419-59-cd302"></join>. They were a second time indicted for <rs id="t17210419-59-off303" type="offenceDescription">
+                     <interp inst="t17210419-59-off303" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210419-59-off303" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 60 pound weight of Iron Streaks value 16 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17210419-59-victim336" type="victimName">
+                     Thomas 
+                     Salisbury 
+                  <interp inst="t17210419-59-victim336" type="surname" value="Salisbury"></interp>
+                     <interp inst="t17210419-59-victim336" type="given" value="Thomas"></interp>
+                     <interp inst="t17210419-59-victim336" type="gender" value="male"></interp>
+                  </persName>
+                
+            . It appeared that Pettit was <rs id="t17210419-59-deflabel304" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17210419-59-defend330 t17210419-59-deflabel304"></join> to Mr. Salisbury (<rs id="t17210419-59-viclabel305" type="occupation">Coach maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17210419-59-victim336 t17210419-59-viclabel305"></join>) and Millard <rs id="t17210419-59-deflabel306" type="occupation">Apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17210419-59-defend332 t17210419-59-deflabel306"></join> to Mr. Foulker who <rs id="t17210419-59-viclabel307" type="occupation">makes Wheels</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17210419-59-victim334 t17210419-59-viclabel307"></join> in Mr. Salisbury's Yard, and that they took the Goods and sold them for a Penny a Pound. The Jury found them <rs id="t17210419-59-verdict308" type="verdictDescription">
+                     <interp inst="t17210419-59-verdict308" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17210419-59-punish309" type="punishmentDescription">
+                     <interp inst="t17210419-59-punish309" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210419-59-defend330 t17210419-59-punish309"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210419-59-defend332 t17210419-59-punish309"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

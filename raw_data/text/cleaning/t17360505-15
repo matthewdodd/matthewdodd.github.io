@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-15">
+               <interp inst="t17360505-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-15" type="year" value="1736"></interp>
+               <interp inst="t17360505-15" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-15" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-15-off83-c92" targOrder="Y" targets="t17360505-15-defend123 t17360505-15-off83 t17360505-15-verdict85"></join>
+         
+               <p>17. 
+               
+                  <persName id="t17360505-15-defend123" type="defendantName">
+                     Mary 
+                     Goodman 
+                  <interp inst="t17360505-15-defend123" type="surname" value="Goodman"></interp>
+                     <interp inst="t17360505-15-defend123" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-15-defend123" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360505-15-off83" type="offenceDescription">
+                     <interp inst="t17360505-15-off83" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-15-off83" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing seven Yards of Cambrick, value 14 s. the Goods of 
+                     
+                        <persName id="t17360505-15-victim125" type="victimName">
+                           John 
+                           Evans 
+                        <interp inst="t17360505-15-victim125" type="surname" value="Evans"></interp>
+                        <interp inst="t17360505-15-victim125" type="given" value="John"></interp>
+                        <interp inst="t17360505-15-victim125" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-15-off83 t17360505-15-victim125"></join>
+                     </persName>
+                      
+                  , out of his Shop
+            </rs>, in the Parish of <placeName id="t17360505-15-crimeloc84">St. Alban Wood-Street</placeName>
+                  <interp inst="t17360505-15-crimeloc84" type="placeName" value="St. Alban Wood-Street"></interp>
+                  <interp inst="t17360505-15-crimeloc84" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360505-15-off83 t17360505-15-crimeloc84"></join>.</p>
+               <p>The Goods being taken upon her: The Jury found her <rs id="t17360505-15-verdict85" type="verdictDescription">
+                     <interp inst="t17360505-15-verdict85" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360505-15-verdict85" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty. 4s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-15-punish86" type="punishmentDescription">
+                     <interp inst="t17360505-15-punish86" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-15-defend123 t17360505-15-punish86"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

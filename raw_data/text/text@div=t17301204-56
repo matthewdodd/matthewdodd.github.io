@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17301204-56">
+               <interp inst="t17301204-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17301204-56" type="year" value="1730"></interp>
+               <interp inst="t17301204-56" type="uri" value="sessionsPapers/17301204"></interp>
+               <interp inst="t17301204-56" type="date" value="17301204"></interp>
+               <join result="criminalCharge" id="t17301204-56-off293-c203" targOrder="Y" targets="t17301204-56-defend322 t17301204-56-off293 t17301204-56-verdict295"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17301204-56-defend322" type="defendantName">
+                     Matth.ew 
+                     Goodwin 
+                  <interp inst="t17301204-56-defend322" type="surname" value="Goodwin"></interp>
+                     <interp inst="t17301204-56-defend322" type="given" value="Matth.ew"></interp>
+                     <interp inst="t17301204-56-defend322" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17301204-56-defloc292">St. Giles's Cripplegate</placeName>
+                  <interp inst="t17301204-56-defloc292" type="placeName" value="St. Giles's Cripplegate"></interp>
+                  <interp inst="t17301204-56-defloc292" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17301204-56-defend322 t17301204-56-defloc292"></join>, was indicted for <rs id="t17301204-56-off293" type="offenceDescription">
+                     <interp inst="t17301204-56-off293" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17301204-56-off293" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Tar-pawlin
+            </rs>, the Property of 
+               
+                  <persName id="t17301204-56-victim324" type="victimName">
+                     Mary 
+                     Whitehead 
+                  <interp inst="t17301204-56-victim324" type="surname" value="Whitehead"></interp>
+                     <interp inst="t17301204-56-victim324" type="given" value="Mary"></interp>
+                     <interp inst="t17301204-56-victim324" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17301204-56-off293 t17301204-56-victim324"></join>
+                  </persName>
+                
+            , the <rs id="t17301204-56-cd294" type="crimeDate">13th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17301204-56-off293 t17301204-56-cd294"></join> last; the Fact being fully prov'd, the Jury found him <rs id="t17301204-56-verdict295" type="verdictDescription">
+                     <interp inst="t17301204-56-verdict295" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17301204-56-verdict295" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty to the value of 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17301204-56-punish296" type="punishmentDescription">
+                     <interp inst="t17301204-56-punish296" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17301204-56-defend322 t17301204-56-punish296"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

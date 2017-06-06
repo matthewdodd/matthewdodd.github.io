@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510417-61">
+               <interp inst="t17510417-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510417-61" type="year" value="1751"></interp>
+               <interp inst="t17510417-61" type="uri" value="sessionsPapers/17510417"></interp>
+               <interp inst="t17510417-61" type="date" value="17510417"></interp>
+               <join result="criminalCharge" id="t17510417-61-off292-c460" targOrder="Y" targets="t17510417-61-defend580 t17510417-61-off292 t17510417-61-verdict296"></join>
+         
+               <p>342. (L) 
+               
+                  <persName id="t17510417-61-defend580" type="defendantName">
+                     Henry 
+                     Fistone 
+                  <interp inst="t17510417-61-defend580" type="surname" value="Fistone"></interp>
+                     <interp inst="t17510417-61-defend580" type="given" value="Henry"></interp>
+                     <interp inst="t17510417-61-defend580" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510417-61-off292" type="offenceDescription">
+                     <interp inst="t17510417-61-off292" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510417-61-off292" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three coarse linen bags, value two shillings and six pence, two yards and a half of coarse linen cloth, value one shilling and four pence
+            </rs>, the goods of <rs id="t17510417-61-viclabel293" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510417-61-victim581 t17510417-61-viclabel293"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510417-61-person582 t17510417-61-viclabel293"></join> 
+            
+                  <persName id="t17510417-61-victim581" type="victimName">
+                  
+                     <persName id="t17510417-61-person582" type="victimName">
+                        John 
+                        Bosworth 
+                     <interp inst="t17510417-61-person582" type="surname" value="Bosworth"></interp>
+                        <interp inst="t17510417-61-person582" type="given" value="John"></interp>
+                        <interp inst="t17510417-61-person582" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17510417-61-off292 t17510417-61-person582"></join>
+                     </persName>
+                   
+                     <rs id="t17510417-61-viclabel294" type="occupation">and Co</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17510417-61-victim581 t17510417-61-viclabel294"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17510417-61-person582 t17510417-61-viclabel294"></join>.<interp inst="t17510417-61-victim581" type="surname" value="Bosworth"></interp>
+                     <interp inst="t17510417-61-victim581" type="given" value="John"></interp>
+                     <interp inst="t17510417-61-victim581" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510417-61-off292 t17510417-61-victim581"></join>
+                  </persName>
+            
+               </p>
+               <p>
+                  <rs id="t17510417-61-cd295" type="crimeDate">April 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510417-61-off292 t17510417-61-cd295"></join>.  ++ <rs id="t17510417-61-verdict296" type="verdictDescription">
+                     <interp inst="t17510417-61-verdict296" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17510417-61-punish297" type="punishmentDescription">
+                     <interp inst="t17510417-61-punish297" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510417-61-defend580 t17510417-61-punish297"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

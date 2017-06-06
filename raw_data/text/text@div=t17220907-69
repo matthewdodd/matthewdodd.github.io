@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17220907-69">
+               <interp inst="t17220907-69" type="collection" value="BAILEY"></interp>
+               <interp inst="t17220907-69" type="year" value="1722"></interp>
+               <interp inst="t17220907-69" type="uri" value="sessionsPapers/17220907"></interp>
+               <interp inst="t17220907-69" type="date" value="17220907"></interp>
+               <join result="criminalCharge" id="t17220907-69-off379-c253" targOrder="Y" targets="t17220907-69-defend393 t17220907-69-off379 t17220907-69-verdict381"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17220907-69-defend393" type="defendantName">
+                     William 
+                     Robinson 
+                  <interp inst="t17220907-69-defend393" type="surname" value="Robinson"></interp>
+                     <interp inst="t17220907-69-defend393" type="given" value="William"></interp>
+                     <interp inst="t17220907-69-defend393" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17220907-69-defloc378">Pancrass</placeName>
+                  <interp inst="t17220907-69-defloc378" type="placeName" value="Pancrass"></interp>
+                  <interp inst="t17220907-69-defloc378" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17220907-69-defend393 t17220907-69-defloc378"></join>, was indicted for <rs id="t17220907-69-off379" type="offenceDescription">
+                     <interp inst="t17220907-69-off379" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17220907-69-off379" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing an Iron Coal-Rake, val. 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17220907-69-victim395" type="victimName">
+                     Edward 
+                     Tow 
+                  <interp inst="t17220907-69-victim395" type="surname" value="Tow"></interp>
+                     <interp inst="t17220907-69-victim395" type="given" value="Edward"></interp>
+                     <interp inst="t17220907-69-victim395" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17220907-69-off379 t17220907-69-victim395"></join>
+                  </persName>
+                
+            , on the <rs id="t17220907-69-cd380" type="crimeDate">24th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17220907-69-off379 t17220907-69-cd380"></join> last; of which Indictment he was found <rs id="t17220907-69-verdict381" type="verdictDescription">
+                     <interp inst="t17220907-69-verdict381" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17220907-69-verdict381" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17220907-69-punish382" type="punishmentDescription">
+                     <interp inst="t17220907-69-punish382" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17220907-69-defend393 t17220907-69-punish382"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17710220-25">
+               <interp inst="t17710220-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17710220-25" type="year" value="1771"></interp>
+               <interp inst="t17710220-25" type="uri" value="sessionsPapers/17710220"></interp>
+               <interp inst="t17710220-25" type="date" value="17710220"></interp>
+               <join result="criminalCharge" id="t17710220-25-off133-c296" targOrder="Y" targets="t17710220-25-defend340 t17710220-25-off133 t17710220-25-verdict136"></join>
+         
+               <p>151. (M.) 
+               
+                  <persName id="t17710220-25-defend340" type="defendantName">
+                     Joseph
+                      Lashley
+                  <interp inst="t17710220-25-defend340" type="surname" value="Lashley"></interp>
+                     <interp inst="t17710220-25-defend340" type="given" value="Joseph"></interp>
+                     <interp inst="t17710220-25-defend340" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17710220-25-off133" type="offenceDescription">
+                     <interp inst="t17710220-25-off133" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17710220-25-off133" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cotton gown, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17710220-25-victim342" type="victimName">
+                     Catherine
+                      Morgan
+                  <interp inst="t17710220-25-victim342" type="surname" value="Morgan"></interp>
+                     <interp inst="t17710220-25-victim342" type="given" value="Catherine"></interp>
+                     <interp inst="t17710220-25-victim342" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17710220-25-off133 t17710220-25-victim342"></join>
+                  </persName>
+               
+            , <rs id="t17710220-25-viclabel134" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17710220-25-victim342 t17710220-25-viclabel134"></join>, <rs id="t17710220-25-cd135" type="crimeDate">Jan. 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17710220-25-off133 t17710220-25-cd135"></join>. +</p>
+               <p>
+                  <rs id="t17710220-25-verdict136" type="verdictDescription">
+                     <interp inst="t17710220-25-verdict136" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17710220-25-punish137" type="punishmentDescription">
+                     <interp inst="t17710220-25-punish137" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17710220-25-defend340 t17710220-25-punish137"></join>
+               T
+            </rs>. </p>
+            </div1>

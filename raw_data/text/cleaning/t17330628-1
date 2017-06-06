@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17330628-1">
+               <interp inst="t17330628-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17330628-1" type="year" value="1733"></interp>
+               <interp inst="t17330628-1" type="uri" value="sessionsPapers/17330628"></interp>
+               <interp inst="t17330628-1" type="date" value="17330628"></interp>
+               <join result="criminalCharge" id="t17330628-1-off1-c28" targOrder="Y" targets="t17330628-1-defend29 t17330628-1-off1 t17330628-1-verdict4"></join>
+         
+               <p>1. 
+               
+                  <persName id="t17330628-1-defend29" type="defendantName">
+                     John 
+                     Dominicus 
+                  <interp inst="t17330628-1-defend29" type="surname" value="Dominicus"></interp>
+                     <interp inst="t17330628-1-defend29" type="given" value="John"></interp>
+                     <interp inst="t17330628-1-defend29" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17330628-1-off1" type="offenceDescription">
+                     <interp inst="t17330628-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17330628-1-off1" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing 2 Gold-Rings, value 50 s. the Goods of 
+                     <persName id="t17330628-1-victim30" type="victimName">
+                        Cornelius 
+                        Herbert 
+                     <interp inst="t17330628-1-victim30" type="surname" value="Herbert"></interp>
+                        <interp inst="t17330628-1-victim30" type="given" value="Cornelius"></interp>
+                        <interp inst="t17330628-1-victim30" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17330628-1-off1 t17330628-1-victim30"></join>
+                     </persName>
+                  , in his Shop
+            </rs>, <rs id="t17330628-1-cd2" type="crimeDate">June 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17330628-1-off1 t17330628-1-cd2"></join>.</p>
+               <p>Cornelins Herbert. The Prisoner came to my Shop on <placeName id="t17330628-1-crimeloc3">London-Bridge</placeName>
+                  <interp inst="t17330628-1-crimeloc3" type="placeName" value="London-Bridge"></interp>
+                  <interp inst="t17330628-1-crimeloc3" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17330628-1-off1 t17330628-1-crimeloc3"></join>, and desired to see some weighty Gold-Rings. I shew'd him two that were very heavy. He seem'd to be well pleas'd with them, and call'd for Pen and Ink to set down the Weight and Value. I began to suspect that he wanted to make off, and I happen'd to think right, for he took up the two Rings and ran out; I follow'd, as well as the Gout would let me, and cry'd, Stop Thief! He was soon seiz'd, and when I came up to him he had the two Rings in his Hand, and I took them out my self.</p>
+               <p>Prisoner. I had bought a Rings of the Prosecutor some time before, and I afterwards found that he had charged me 5 s. more than they were worth, and so because I would not be cheated again, I took these two Rings to shew to a Friend before I paid for them.</p>
+               <p>Mr. Herbert. I don't know that I ever saw him before. <rs id="t17330628-1-verdict4" type="verdictDescription">
+                     <interp inst="t17330628-1-verdict4" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17330628-1-verdict4" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17330628-1-punish5" type="punishmentDescription">
+                     <interp inst="t17330628-1-punish5" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17330628-1-defend29 t17330628-1-punish5"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

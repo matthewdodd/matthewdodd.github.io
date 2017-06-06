@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17211206-35">
+               <interp inst="t17211206-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17211206-35" type="year" value="1721"></interp>
+               <interp inst="t17211206-35" type="uri" value="sessionsPapers/17211206"></interp>
+               <interp inst="t17211206-35" type="date" value="17211206"></interp>
+               <join result="criminalCharge" id="t17211206-35-off177-c161" targOrder="Y" targets="t17211206-35-defend243 t17211206-35-off177 t17211206-35-verdict179"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17211206-35-defend243" type="defendantName">
+                     Charles 
+                     Graystock 
+                  <interp inst="t17211206-35-defend243" type="surname" value="Graystock"></interp>
+                     <interp inst="t17211206-35-defend243" type="given" value="Charles"></interp>
+                     <interp inst="t17211206-35-defend243" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17211206-35-defloc176">St. Gregory</placeName>
+                  <interp inst="t17211206-35-defloc176" type="placeName" value="St. Gregory"></interp>
+                  <interp inst="t17211206-35-defloc176" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17211206-35-defend243 t17211206-35-defloc176"></join>, was indicted for <rs id="t17211206-35-off177" type="offenceDescription">
+                     <interp inst="t17211206-35-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17211206-35-off177" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a silk Handkerchief value 2 s. 6 d. from 
+                     
+                        <persName id="t17211206-35-victim245" type="victimName">
+                           Robert 
+                           Atchcomb 
+                        <interp inst="t17211206-35-victim245" type="surname" value="Atchcomb"></interp>
+                        <interp inst="t17211206-35-victim245" type="given" value="Robert"></interp>
+                        <interp inst="t17211206-35-victim245" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17211206-35-off177 t17211206-35-victim245"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs> on the <rs id="t17211206-35-cd178" type="crimeDate">13th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17211206-35-off177 t17211206-35-cd178"></join> last. The Prisoner was apprehended in the fact, and the Handkerchief upon him. <rs id="t17211206-35-verdict179" type="verdictDescription">
+                     <interp inst="t17211206-35-verdict179" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17211206-35-verdict179" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17211206-35-punish180" type="punishmentDescription">
+                     <interp inst="t17211206-35-punish180" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17211206-35-defend243 t17211206-35-punish180"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

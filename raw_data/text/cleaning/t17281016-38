@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17281016-38">
+               <interp inst="t17281016-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17281016-38" type="year" value="1728"></interp>
+               <interp inst="t17281016-38" type="uri" value="sessionsPapers/17281016"></interp>
+               <interp inst="t17281016-38" type="date" value="17281016"></interp>
+               <join result="criminalCharge" id="t17281016-38-off188-c171" targOrder="Y" targets="t17281016-38-defend255 t17281016-38-off188 t17281016-38-verdict190"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17281016-38-defend255" type="defendantName">
+                     John 
+                     Start , alias <rs id="t17281016-38-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17281016-38-defend255 t17281016-38-alias-4"></join>Starkey</rs>
+                     <interp inst="t17281016-38-defend255" type="surname" value="Start"></interp>
+                     <interp inst="t17281016-38-defend255" type="given" value="John"></interp>
+                     <interp inst="t17281016-38-defend255" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17281016-38-defloc187">St. Giles's in the Fields</placeName>
+                  <interp inst="t17281016-38-defloc187" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t17281016-38-defloc187" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17281016-38-defend255 t17281016-38-defloc187"></join>, was indicted for <rs id="t17281016-38-off188" type="offenceDescription">
+                     <interp inst="t17281016-38-off188" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17281016-38-off188" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Cock and Six Ducks
+            </rs> on the <rs id="t17281016-38-cd189" type="crimeDate">24th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17281016-38-off188 t17281016-38-cd189"></join> last, the Goods of 
+               
+                  <persName id="t17281016-38-victim257" type="victimName">
+                     Thomas 
+                     Burbridge 
+                  <interp inst="t17281016-38-victim257" type="surname" value="Burbridge"></interp>
+                     <interp inst="t17281016-38-victim257" type="given" value="Thomas"></interp>
+                     <interp inst="t17281016-38-victim257" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17281016-38-off188 t17281016-38-victim257"></join>
+                  </persName>
+                
+            : It appear'd that he being apprehended, confess'd the Fact, and sign'd his Confession, which was read in Court.</p>
+               <p>He said in his Defence, That he was Drunk, and did not know what he did; the Jury found him <rs id="t17281016-38-verdict190" type="verdictDescription">
+                     <interp inst="t17281016-38-verdict190" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17281016-38-verdict190" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17281016-38-punish191" type="punishmentDescription">
+                     <interp inst="t17281016-38-punish191" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17281016-38-defend255 t17281016-38-punish191"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

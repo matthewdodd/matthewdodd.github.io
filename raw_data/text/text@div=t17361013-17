@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17361013-17">
+               <interp inst="t17361013-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17361013-17" type="year" value="1736"></interp>
+               <interp inst="t17361013-17" type="uri" value="sessionsPapers/17361013"></interp>
+               <interp inst="t17361013-17" type="date" value="17361013"></interp>
+               <join result="criminalCharge" id="t17361013-17-off85-c130" targOrder="Y" targets="t17361013-17-defend172 t17361013-17-off85 t17361013-17-verdict87"></join>
+         
+               <p>24 
+               
+                  <persName id="t17361013-17-defend172" type="defendantName">
+                     Thomas 
+                     Martin 
+                  <interp inst="t17361013-17-defend172" type="surname" value="Martin"></interp>
+                     <interp inst="t17361013-17-defend172" type="given" value="Thomas"></interp>
+                     <interp inst="t17361013-17-defend172" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17361013-17-off85" type="offenceDescription">
+                     <interp inst="t17361013-17-off85" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17361013-17-off85" type="offenceSubcategory" value="other"></interp>
+               stealing a Pick-ax, 7 Chissels, and 6 lb. of Iron
+            </rs>, the Goods of 
+               
+                  <persName id="t17361013-17-victim174" type="victimName">
+                     Henry 
+                     Mitchell 
+                  <interp inst="t17361013-17-victim174" type="surname" value="Mitchell"></interp>
+                     <interp inst="t17361013-17-victim174" type="given" value="Henry"></interp>
+                     <interp inst="t17361013-17-victim174" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17361013-17-off85 t17361013-17-victim174"></join>
+                  </persName>
+                
+            , <rs id="t17361013-17-cd86" type="crimeDate">October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17361013-17-off85 t17361013-17-cd86"></join>. <rs id="t17361013-17-verdict87" type="verdictDescription">
+                     <interp inst="t17361013-17-verdict87" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17361013-17-verdict87" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17361013-17-punish88" type="punishmentDescription">
+                     <interp inst="t17361013-17-punish88" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17361013-17-defend172 t17361013-17-punish88"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

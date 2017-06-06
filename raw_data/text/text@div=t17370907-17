@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370907-17">
+               <interp inst="t17370907-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370907-17" type="year" value="1737"></interp>
+               <interp inst="t17370907-17" type="uri" value="sessionsPapers/17370907"></interp>
+               <interp inst="t17370907-17" type="date" value="17370907"></interp>
+               <join result="criminalCharge" id="t17370907-17-off95-c109" targOrder="Y" targets="t17370907-17-defend148 t17370907-17-off95 t17370907-17-verdict97"></join>
+         
+               <p>20. 
+               
+                  <persName id="t17370907-17-defend148" type="defendantName">
+                     Ann 
+                     Read 
+                  <interp inst="t17370907-17-defend148" type="surname" value="Read"></interp>
+                     <interp inst="t17370907-17-defend148" type="given" value="Ann"></interp>
+                     <interp inst="t17370907-17-defend148" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370907-17-defloc94">St. Clement Danes</placeName>
+                  <interp inst="t17370907-17-defloc94" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17370907-17-defloc94" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370907-17-defend148 t17370907-17-defloc94"></join>, was indicted for <rs id="t17370907-17-off95" type="offenceDescription">
+                     <interp inst="t17370907-17-off95" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370907-17-off95" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Copper Stew-pan, value 3 s. and a Brass Kettle, value 2s.
+            </rs> the Goods of 
+               
+                  <persName id="t17370907-17-victim150" type="victimName">
+                     John 
+                     Trow 
+                  <interp inst="t17370907-17-victim150" type="surname" value="Trow"></interp>
+                     <interp inst="t17370907-17-victim150" type="given" value="John"></interp>
+                     <interp inst="t17370907-17-victim150" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17370907-17-off95 t17370907-17-victim150"></join>
+                  </persName>
+                
+            , <rs id="t17370907-17-cd96" type="crimeDate">July 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370907-17-off95 t17370907-17-cd96"></join>. <rs id="t17370907-17-verdict97" type="verdictDescription">
+                     <interp inst="t17370907-17-verdict97" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370907-17-punish98" type="punishmentDescription">
+                     <interp inst="t17370907-17-punish98" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370907-17-defend148 t17370907-17-punish98"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

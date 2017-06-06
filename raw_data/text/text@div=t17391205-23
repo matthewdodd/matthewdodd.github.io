@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391205-23">
+               <interp inst="t17391205-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391205-23" type="year" value="1739"></interp>
+               <interp inst="t17391205-23" type="uri" value="sessionsPapers/17391205"></interp>
+               <interp inst="t17391205-23" type="date" value="17391205"></interp>
+               <join result="criminalCharge" id="t17391205-23-off104-c105" targOrder="Y" targets="t17391205-23-defend150 t17391205-23-off104 t17391205-23-verdict106"></join>
+         
+               <p>23. 
+               
+                  <persName id="t17391205-23-defend150" type="defendantName">
+                     John 
+                     Plumber 
+                  <interp inst="t17391205-23-defend150" type="surname" value="Plumber"></interp>
+                     <interp inst="t17391205-23-defend150" type="given" value="John"></interp>
+                     <interp inst="t17391205-23-defend150" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17391205-23-off104" type="offenceDescription">
+                     <interp inst="t17391205-23-off104" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-23-off104" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Half-hundred Iron Weight, value 4 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17391205-23-victim152" type="victimName">
+                     Daniel 
+                     Marcon 
+                  <interp inst="t17391205-23-victim152" type="surname" value="Marcon"></interp>
+                     <interp inst="t17391205-23-victim152" type="given" value="Daniel"></interp>
+                     <interp inst="t17391205-23-victim152" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17391205-23-off104 t17391205-23-victim152"></join>
+                  </persName>
+                
+            , <rs id="t17391205-23-cd105" type="crimeDate">Oct. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-23-off104 t17391205-23-cd105"></join>. <rs id="t17391205-23-verdict106" type="verdictDescription">
+                     <interp inst="t17391205-23-verdict106" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17391205-23-punish107" type="punishmentDescription">
+                     <interp inst="t17391205-23-punish107" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17391205-23-defend150 t17391205-23-punish107"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

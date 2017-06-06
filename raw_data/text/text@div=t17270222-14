@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17270222-14">
+               <interp inst="t17270222-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17270222-14" type="year" value="1727"></interp>
+               <interp inst="t17270222-14" type="uri" value="sessionsPapers/17270222"></interp>
+               <interp inst="t17270222-14" type="date" value="17270222"></interp>
+               <join result="criminalCharge" id="t17270222-14-off75-c74" targOrder="Y" targets="t17270222-14-defend97 t17270222-14-off75 t17270222-14-verdict78"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17270222-14-defend97" type="defendantName">
+                     John 
+                     Edmunds 
+                  <interp inst="t17270222-14-defend97" type="surname" value="Edmunds"></interp>
+                     <interp inst="t17270222-14-defend97" type="given" value="John"></interp>
+                     <interp inst="t17270222-14-defend97" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17270222-14-off75" type="offenceDescription">
+                     <interp inst="t17270222-14-off75" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17270222-14-off75" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Cock, value 1 s. 4 Hens, 1.s. each
+            </rs>, the <rs id="t17270222-14-cd76" type="crimeDate">first of Feb.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17270222-14-off75 t17270222-14-cd76"></join> last, the Property of 
+               
+                  <persName id="t17270222-14-victim99" type="victimName">
+                     Edward 
+                     Clark 
+                  <interp inst="t17270222-14-victim99" type="surname" value="Clark"></interp>
+                     <interp inst="t17270222-14-victim99" type="given" value="Edward"></interp>
+                     <interp inst="t17270222-14-victim99" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17270222-14-off75 t17270222-14-victim99"></join>
+                  </persName>
+                
+             of <placeName id="t17270222-14-crimeloc77">Harrow-on-the-Hill</placeName>
+                  <interp inst="t17270222-14-crimeloc77" type="placeName" value="Harrow-on-the-Hill"></interp>
+                  <interp inst="t17270222-14-crimeloc77" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17270222-14-off75 t17270222-14-crimeloc77"></join>. <rs id="t17270222-14-verdict78" type="verdictDescription">
+                     <interp inst="t17270222-14-verdict78" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17270222-14-verdict78" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17270222-14-punish79" type="punishmentDescription">
+                     <interp inst="t17270222-14-punish79" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17270222-14-defend97 t17270222-14-punish79"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

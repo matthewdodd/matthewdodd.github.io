@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17430223-25">
+               <interp inst="t17430223-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17430223-25" type="year" value="1743"></interp>
+               <interp inst="t17430223-25" type="uri" value="sessionsPapers/17430223"></interp>
+               <interp inst="t17430223-25" type="date" value="17430223"></interp>
+               <join result="criminalCharge" id="t17430223-25-off129-c258" targOrder="Y" targets="t17430223-25-defend306 t17430223-25-off129 t17430223-25-verdict131"></join>
+         
+               <p>161. 
+               
+                  <persName id="t17430223-25-defend306" type="defendantName">
+                     Mary 
+                     Riley 
+                  <interp inst="t17430223-25-defend306" type="surname" value="Riley"></interp>
+                     <interp inst="t17430223-25-defend306" type="given" value="Mary"></interp>
+                     <interp inst="t17430223-25-defend306" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17430223-25-crimeloc128">St Clement-Danes</placeName>
+                  <interp inst="t17430223-25-crimeloc128" type="placeName" value="St Clement-Danes"></interp>
+                  <interp inst="t17430223-25-crimeloc128" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17430223-25-off129 t17430223-25-crimeloc128"></join>, was indicted for <rs id="t17430223-25-off129" type="offenceDescription">
+                     <interp inst="t17430223-25-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17430223-25-off129" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Coat and Skirt, val. 2 s. 2 Petticoats, val. 2 s. and 2 Clouts, val. 1 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17430223-25-victim308" type="victimName">
+                     John 
+                     Robinson 
+                  <interp inst="t17430223-25-victim308" type="surname" value="Robinson"></interp>
+                     <interp inst="t17430223-25-victim308" type="given" value="John"></interp>
+                     <interp inst="t17430223-25-victim308" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17430223-25-off129 t17430223-25-victim308"></join>
+                  </persName>
+                
+            , <rs id="t17430223-25-cd130" type="crimeDate">January 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17430223-25-off129 t17430223-25-cd130"></join>. <rs id="t17430223-25-verdict131" type="verdictDescription">
+                     <interp inst="t17430223-25-verdict131" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17430223-25-punish132" type="punishmentDescription">
+                     <interp inst="t17430223-25-punish132" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17430223-25-defend306 t17430223-25-punish132"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

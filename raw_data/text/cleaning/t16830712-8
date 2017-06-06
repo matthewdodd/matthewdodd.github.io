@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16830712-8">
+               <interp inst="t16830712-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t16830712-8" type="year" value="1683"></interp>
+               <interp inst="t16830712-8" type="uri" value="sessionsPapers/16830712"></interp>
+               <interp inst="t16830712-8" type="date" value="16830712"></interp>
+               <join result="criminalCharge" id="t16830712-8-off28-c21" targOrder="Y" targets="t16830712-8-defend21 t16830712-8-off28 t16830712-8-verdict31"></join>
+               <join result="criminalCharge" id="t16830712-8-off28-c22" targOrder="Y" targets="t16830712-8-defend22 t16830712-8-off28 t16830712-8-verdict32"></join>
+         
+               <p>
+            
+                  <persName id="t16830712-8-defend21" type="defendantName">
+                  William 
+                  Barret
+               <interp inst="t16830712-8-defend21" type="surname" value="Barret"></interp>
+                     <interp inst="t16830712-8-defend21" type="given" value="William"></interp>
+                     <interp inst="t16830712-8-defend21" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16830712-8-defend22" type="defendantName">
+                  Elizabeth 
+                  Attwell
+               <interp inst="t16830712-8-defend22" type="surname" value="Attwell"></interp>
+                     <interp inst="t16830712-8-defend22" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16830712-8-defend22" type="gender" value="female"></interp>
+                  </persName>
+             were indicted for <rs id="t16830712-8-off28" type="offenceDescription">
+                     <interp inst="t16830712-8-off28" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16830712-8-off28" type="offenceSubcategory" value="robbery"></interp>
+               Robbing one 
+                     <persName id="t16830712-8-victim23" type="victimName">
+                        <rs id="t16830712-8-viclabel29" type="occupation">Mr.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16830712-8-victim23 t16830712-8-viclabel29"></join> 
+                        Cuttler
+                     <interp inst="t16830712-8-victim23" type="surname" value="Cuttler"></interp>
+                        <interp inst="t16830712-8-victim23" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16830712-8-off28 t16830712-8-victim23"></join>
+                     </persName>
+                   of <placeName id="t16830712-8-crimeloc30">Hornzey</placeName>
+                     <interp inst="t16830712-8-crimeloc30" type="placeName" value="Hornzey"></interp>
+                     <interp inst="t16830712-8-crimeloc30" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16830712-8-off28 t16830712-8-crimeloc30"></join> of 100 pounds in money
+            </rs>, which Robbery Barret <rs id="t16830712-8-verdict31" type="verdictDescription">
+                     <interp inst="t16830712-8-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16830712-8-verdict31" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               confessed
+            </rs>, and declared that none but himself was concerned in the Robbery, whereupon the other was <rs id="t16830712-8-verdict32" type="verdictDescription">
+                     <interp inst="t16830712-8-verdict32" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16830712-8-punish33" type="punishmentDescription">
+                     <interp inst="t16830712-8-punish33" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16830712-8-defend21 t16830712-8-punish33"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

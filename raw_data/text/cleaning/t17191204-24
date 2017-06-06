@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17191204-24">
+               <interp inst="t17191204-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17191204-24" type="year" value="1719"></interp>
+               <interp inst="t17191204-24" type="uri" value="sessionsPapers/17191204"></interp>
+               <interp inst="t17191204-24" type="date" value="17191204"></interp>
+               <join result="criminalCharge" id="t17191204-24-off131-c82" targOrder="Y" targets="t17191204-24-defend131 t17191204-24-off131 t17191204-24-verdict133"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17191204-24-defend131" type="defendantName">
+                     William 
+                     Lanney 
+                  <interp inst="t17191204-24-defend131" type="surname" value="Lanney"></interp>
+                     <interp inst="t17191204-24-defend131" type="given" value="William"></interp>
+                     <interp inst="t17191204-24-defend131" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17191204-24-defloc130">Hornsey</placeName>
+                  <interp inst="t17191204-24-defloc130" type="placeName" value="Hornsey"></interp>
+                  <interp inst="t17191204-24-defloc130" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17191204-24-defend131 t17191204-24-defloc130"></join> was indicted for <rs id="t17191204-24-off131" type="offenceDescription">
+                     <interp inst="t17191204-24-off131" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17191204-24-off131" type="offenceSubcategory" value="animalTheft"></interp>
+               feloniously stealing 12 Geese and 14 Ducks
+            </rs>, the Goods of 
+               
+                  <persName id="t17191204-24-victim133" type="victimName">
+                     Joseph 
+                     Townsend 
+                  <interp inst="t17191204-24-victim133" type="surname" value="Townsend"></interp>
+                     <interp inst="t17191204-24-victim133" type="given" value="Joseph"></interp>
+                     <interp inst="t17191204-24-victim133" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17191204-24-off131 t17191204-24-victim133"></join>
+                  </persName>
+                
+            , on the <rs id="t17191204-24-cd132" type="crimeDate">11th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17191204-24-off131 t17191204-24-cd132"></join> last. To which Indictiment he <rs id="t17191204-24-verdict133" type="verdictDescription">
+                     <interp inst="t17191204-24-verdict133" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17191204-24-verdict133" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>. <rs id="t17191204-24-punish134" type="punishmentDescription">
+                     <interp inst="t17191204-24-punish134" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17191204-24-defend131 t17191204-24-punish134"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

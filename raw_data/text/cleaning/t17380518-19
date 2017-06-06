@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380518-19">
+               <interp inst="t17380518-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380518-19" type="year" value="1738"></interp>
+               <interp inst="t17380518-19" type="uri" value="sessionsPapers/17380518"></interp>
+               <interp inst="t17380518-19" type="date" value="17380518"></interp>
+               <join result="criminalCharge" id="t17380518-19-off87-c124" targOrder="Y" targets="t17380518-19-defend170 t17380518-19-off87 t17380518-19-verdict89"></join>
+         
+               <p>22. 
+               
+                  <persName id="t17380518-19-defend170" type="defendantName">
+                     Richard 
+                     Sanders 
+                  <interp inst="t17380518-19-defend170" type="surname" value="Sanders"></interp>
+                     <interp inst="t17380518-19-defend170" type="given" value="Richard"></interp>
+                     <interp inst="t17380518-19-defend170" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380518-19-off87" type="offenceDescription">
+                     <interp inst="t17380518-19-off87" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380518-19-off87" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 11 Pewter Plates, value 6 s. and 3 Pewter Dishes, value 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17380518-19-victim172" type="victimName">
+                     John 
+                     Malard 
+                  <interp inst="t17380518-19-victim172" type="surname" value="Malard"></interp>
+                     <interp inst="t17380518-19-victim172" type="given" value="John"></interp>
+                     <interp inst="t17380518-19-victim172" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380518-19-off87 t17380518-19-victim172"></join>
+                  </persName>
+                
+            , <rs id="t17380518-19-cd88" type="crimeDate">May 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380518-19-off87 t17380518-19-cd88"></join>. <rs id="t17380518-19-verdict89" type="verdictDescription">
+                     <interp inst="t17380518-19-verdict89" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17380518-19-punish90" type="punishmentDescription">
+                     <interp inst="t17380518-19-punish90" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380518-19-defend170 t17380518-19-punish90"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

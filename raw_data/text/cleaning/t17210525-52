@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210525-52">
+               <interp inst="t17210525-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210525-52" type="year" value="1721"></interp>
+               <interp inst="t17210525-52" type="uri" value="sessionsPapers/17210525"></interp>
+               <interp inst="t17210525-52" type="date" value="17210525"></interp>
+               <join result="criminalCharge" id="t17210525-52-off263-c188" targOrder="Y" targets="t17210525-52-defend298 t17210525-52-off263 t17210525-52-verdict265"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17210525-52-defend298" type="defendantName">
+                     William 
+                     Raine 
+                  <interp inst="t17210525-52-defend298" type="surname" value="Raine"></interp>
+                     <interp inst="t17210525-52-defend298" type="given" value="William"></interp>
+                     <interp inst="t17210525-52-defend298" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17210525-52-defloc262">St. Andrew in Holbourn</placeName>
+                  <interp inst="t17210525-52-defloc262" type="placeName" value="St. Andrew in Holbourn"></interp>
+                  <interp inst="t17210525-52-defloc262" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210525-52-defend298 t17210525-52-defloc262"></join>, was indicted for <rs id="t17210525-52-off263" type="offenceDescription">
+                     <interp inst="t17210525-52-off263" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210525-52-off263" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 9 s.
+            </rs> the Money, of 
+               
+                  <persName id="t17210525-52-victim300" type="victimName">
+                     John 
+                     Harburst 
+                  <interp inst="t17210525-52-victim300" type="surname" value="Harburst"></interp>
+                     <interp inst="t17210525-52-victim300" type="given" value="John"></interp>
+                     <interp inst="t17210525-52-victim300" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17210525-52-off263 t17210525-52-victim300"></join>
+                  </persName>
+                
+            , on the <rs id="t17210525-52-cd264" type="crimeDate">21st of this Instant May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210525-52-off263 t17210525-52-cd264"></join>, which being fully proved upon him, the Jury found him <rs id="t17210525-52-verdict265" type="verdictDescription">
+                     <interp inst="t17210525-52-verdict265" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17210525-52-punish266" type="punishmentDescription">
+                     <interp inst="t17210525-52-punish266" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210525-52-defend298 t17210525-52-punish266"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370420-32">
+               <interp inst="t17370420-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370420-32" type="year" value="1737"></interp>
+               <interp inst="t17370420-32" type="uri" value="sessionsPapers/17370420"></interp>
+               <interp inst="t17370420-32" type="date" value="17370420"></interp>
+               <join result="criminalCharge" id="t17370420-32-off168-c190" targOrder="Y" targets="t17370420-32-defend266 t17370420-32-off168 t17370420-32-verdict170"></join>
+         
+               <p>38. 
+               
+                  <persName id="t17370420-32-defend266" type="defendantName">
+                     Sarah 
+                     Silly 
+                  <interp inst="t17370420-32-defend266" type="surname" value="Silly"></interp>
+                     <interp inst="t17370420-32-defend266" type="given" value="Sarah"></interp>
+                     <interp inst="t17370420-32-defend266" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370420-32-defloc167">Norton-Falgate</placeName>
+                  <interp inst="t17370420-32-defloc167" type="placeName" value="Norton-Falgate"></interp>
+                  <interp inst="t17370420-32-defloc167" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370420-32-defend266 t17370420-32-defloc167"></join>, was indicted for <rs id="t17370420-32-off168" type="offenceDescription">
+                     <interp inst="t17370420-32-off168" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370420-32-off168" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Linnen Gown, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17370420-32-victim268" type="victimName">
+                     Sarah 
+                     Riley 
+                  <interp inst="t17370420-32-victim268" type="surname" value="Riley"></interp>
+                     <interp inst="t17370420-32-victim268" type="given" value="Sarah"></interp>
+                     <interp inst="t17370420-32-victim268" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17370420-32-off168 t17370420-32-victim268"></join>
+                  </persName>
+                
+            , <rs id="t17370420-32-cd169" type="crimeDate">April 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370420-32-off168 t17370420-32-cd169"></join>. <rs id="t17370420-32-verdict170" type="verdictDescription">
+                     <interp inst="t17370420-32-verdict170" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17370420-32-verdict170" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17370420-32-punish171" type="punishmentDescription">
+                     <interp inst="t17370420-32-punish171" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370420-32-defend266 t17370420-32-punish171"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

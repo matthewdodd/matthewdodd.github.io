@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18300114-72">
+               <interp inst="t18300114-72" type="collection" value="BAILEY"></interp>
+               <interp inst="t18300114-72" type="year" value="1830"></interp>
+               <interp inst="t18300114-72" type="uri" value="sessionsPapers/18300114"></interp>
+               <interp inst="t18300114-72" type="date" value="18300114"></interp>
+               <join result="criminalCharge" id="t18300114-72-off396-c482" targOrder="Y" targets="t18300114-72-defend571 t18300114-72-off396 t18300114-72-verdict400"></join>
+               <join result="criminalCharge" id="t18300114-72-off396-c483" targOrder="Y" targets="t18300114-72-defend573 t18300114-72-off396 t18300114-72-verdict401"></join>
+         
+               <p>306. 
+               <persName id="t18300114-72-defend571" type="defendantName">
+                  WILLIAM 
+                  JONES
+               <interp inst="t18300114-72-defend571" type="surname" value="JONES"></interp>
+                     <interp inst="t18300114-72-defend571" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18300114-72-defend571" type="gender" value="male"></interp>
+                     <interp inst="t18300114-72-defend571" type="age" value="18"></interp>
+                  </persName>
+             and 
+               
+                  <persName id="t18300114-72-defend573" type="defendantName">
+                     THOMAS 
+                     WARD
+                  <interp inst="t18300114-72-defend573" type="surname" value="WARD"></interp>
+                     <interp inst="t18300114-72-defend573" type="given" value="THOMAS"></interp>
+                     <interp inst="t18300114-72-defend573" type="gender" value="male"></interp>
+                     <interp inst="t18300114-72-defend573" type="age" value="14"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18300114-72-off396" type="offenceDescription">
+                     <interp inst="t18300114-72-off396" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18300114-72-off396" type="offenceSubcategory" value="simpleLarceny"></interp>
+               stealing, on the <rs id="t18300114-72-cd397" type="crimeDate">17th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18300114-72-off396 t18300114-72-cd397"></join>, 8lbs. weight of bacon, value 3s.
+            </rs>, the goods of 
+               <persName id="t18300114-72-victim574" type="victimName">
+                  Henry 
+                  Hornblower
+               <interp inst="t18300114-72-victim574" type="surname" value="Hornblower"></interp>
+                     <interp inst="t18300114-72-victim574" type="given" value="Henry"></interp>
+                     <interp inst="t18300114-72-victim574" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18300114-72-off396 t18300114-72-victim574"></join>
+                  </persName>
+            .</p>
+               <p>HENRY HORNBLOWER. I am a <rs id="t18300114-72-viclabel398" type="occupation">cheesemonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18300114-72-victim574 t18300114-72-viclabel398"></join> in <placeName id="t18300114-72-crimeloc399">Hatton-Wall</placeName>
+                  <interp inst="t18300114-72-crimeloc399" type="placeName" value="Hatton-Wall"></interp>
+                  <interp inst="t18300114-72-crimeloc399" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18300114-72-off396 t18300114-72-crimeloc399"></join>. I lost about 9lbs. of bacon on the 17th of December - the officer brought it back, and then I missed it; I knew it to be mine - I know nothing of the prisoner.</p>
+               <p>EDWARD BELL. I took this bacon from the prisoners in Hatton-garden, about two o'clock in the afternoon of the 17th of December - Jones had it under his great coat; he said Ward gave it him, and Ward said they got it from a woman on Saffron-hill, but they would not go with me to the place.</p>
+               <p>Jones' Defence. I was going up Hatton-wall, and went to a woman to buy a pennyworth of apples; this boy stood there, and asked me to carry it for him - the officer came and took me with it; I said Ward gave it to me, but I did not know him before.</p>
+               <p>Ward's Defence. I bought it of a woman for 14d. - this lad said, "It is a cheap bargain;" and I gave it to him to hold while I tied it up in my neckerchief - there were others standing by; I was tired of carrying it.</p>
+               <p>JONES - <rs id="t18300114-72-verdict400" type="verdictDescription">
+                     <interp inst="t18300114-72-verdict400" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 18.</p>
+
+
+               <p>WARD - <rs id="t18300114-72-verdict401" type="verdictDescription">
+                     <interp inst="t18300114-72-verdict401" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 14.</p>
+               <p>
+                  <rs id="t18300114-72-punish402" type="punishmentDescription">
+                     <interp inst="t18300114-72-punish402" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18300114-72-defend571 t18300114-72-punish402"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18300114-72-defend573 t18300114-72-punish402"></join>
+               Transported for Seven Years
+            </rs>.</p>
+            </div1>

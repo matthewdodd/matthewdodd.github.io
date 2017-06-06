@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18250217-44">
+               <interp inst="t18250217-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t18250217-44" type="year" value="1825"></interp>
+               <interp inst="t18250217-44" type="uri" value="sessionsPapers/18250217"></interp>
+               <interp inst="t18250217-44" type="date" value="18250217"></interp>
+               <join result="criminalCharge" id="t18250217-44-off267-c322" targOrder="Y" targets="t18250217-44-defend322 t18250217-44-off267 t18250217-44-verdict271"></join>
+               <join result="criminalCharge" id="t18250217-44-off267-c323" targOrder="Y" targets="t18250217-44-defend323 t18250217-44-off267 t18250217-44-verdict272"></join>
+         
+               <p>426. 
+               <persName id="t18250217-44-defend322" type="defendantName">
+                  WILLIAM 
+                  WILLIAMS
+               <interp inst="t18250217-44-defend322" type="surname" value="WILLIAMS"></interp>
+                     <interp inst="t18250217-44-defend322" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18250217-44-defend322" type="gender" value="male"></interp>
+                     <interp inst="t18250217-44-defend322" type="age" value="14"></interp>
+                  </persName>
+             and 
+               <persName id="t18250217-44-defend323" type="defendantName">
+                  MORRIS 
+                  LITTLETON
+               <interp inst="t18250217-44-defend323" type="surname" value="LITTLETON"></interp>
+                     <interp inst="t18250217-44-defend323" type="given" value="MORRIS"></interp>
+                     <interp inst="t18250217-44-defend323" type="gender" value="male"></interp>
+                     <interp inst="t18250217-44-defend323" type="age" value="15"></interp>
+                  </persName>
+             were indicted for <rs id="t18250217-44-off267" type="offenceDescription">
+                     <interp inst="t18250217-44-off267" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18250217-44-off267" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18250217-44-cd268" type="crimeDate">18th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18250217-44-off267 t18250217-44-cd268"></join>, 3 lbs. of bacon, value 2 s.
+            </rs>; the goods of 
+               <persName id="t18250217-44-victim324" type="victimName">
+                  John 
+                  Knight
+               <interp inst="t18250217-44-victim324" type="surname" value="Knight"></interp>
+                     <interp inst="t18250217-44-victim324" type="given" value="John"></interp>
+                     <interp inst="t18250217-44-victim324" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18250217-44-off267 t18250217-44-victim324"></join>
+                  </persName>
+            .</p>
+               <p>JOHN KNIGHT. I am a <rs id="t18250217-44-viclabel269" type="occupation">cheesemonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18250217-44-victim324 t18250217-44-viclabel269"></join>, and live in <placeName id="t18250217-44-crimeloc270">High Holborn</placeName>
+                  <interp inst="t18250217-44-crimeloc270" type="placeName" value="High Holborn"></interp>
+                  <interp inst="t18250217-44-crimeloc270" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18250217-44-off267 t18250217-44-crimeloc270"></join>. I lost 3 lbs. of bacon on the 18th of January, about ten o'clock in the morning. I had seen it about half an hour before; the officer brought in the prisoners with it; they were strangers.</p>
+               <p>
+            
+                  <persName id="t18250217-44-person325">
+                  CHARLES 
+                  REED
+               <interp inst="t18250217-44-person325" type="surname" value="REED"></interp>
+                     <interp inst="t18250217-44-person325" type="given" value="CHARLES"></interp>
+                     <interp inst="t18250217-44-person325" type="gender" value="male"></interp>
+                  </persName>
+            . I am an officer. I saw the two prisoners next door to Mr. Knight's, at a linen-draper's shop, it was very wet and a window had been broken; they were trying to get something out of that shop but could not; they then went to Mr. Knight's; Williams took the bacon, he gave it to Littleton; I pursued and took them.</p>
+               <p>WILLIAM's Defence. I was going to look for some work with the other prisoner, and the officer took us.</p>
+               <p>LITTLETON's Defence. I saw the piece of bacon laying on the ground, and took it up.</p>
+               <p>WILLIAMS - <rs id="t18250217-44-verdict271" type="verdictDescription">
+                     <interp inst="t18250217-44-verdict271" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 14.</p>
+               <p>LITTLETON - <rs id="t18250217-44-verdict272" type="verdictDescription">
+                     <interp inst="t18250217-44-verdict272" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 15.</p>
+               <p>
+                  <rs id="t18250217-44-punish273" type="punishmentDescription">
+                     <interp inst="t18250217-44-punish273" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18250217-44-defend322 t18250217-44-punish273"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18250217-44-defend323 t18250217-44-punish273"></join>
+               Transported for Seven Years
+            </rs>.</p>
+            </div1>

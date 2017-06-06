@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831212-32">
+               <interp inst="t16831212-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831212-32" type="year" value="1683"></interp>
+               <interp inst="t16831212-32" type="uri" value="sessionsPapers/16831212"></interp>
+               <interp inst="t16831212-32" type="date" value="16831212"></interp>
+               <join result="criminalCharge" id="t16831212-32-off129-c81" targOrder="Y" targets="t16831212-32-defend133 t16831212-32-off129 t16831212-32-verdict131"></join>
+         
+               <p>
+            
+                  <persName id="t16831212-32-defend133" type="defendantName">
+                  Roger 
+                  Wixley
+               <interp inst="t16831212-32-defend133" type="surname" value="Wixley"></interp>
+                     <interp inst="t16831212-32-defend133" type="given" value="Roger"></interp>
+                     <interp inst="t16831212-32-defend133" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16831212-32-off129" type="offenceDescription">
+                     <interp inst="t16831212-32-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831212-32-off129" type="offenceSubcategory" value="shoplifting"></interp>
+               Stealing a 
+                     <persName id="t16831212-32-victim134" type="victimName">
+                        <rs id="t16831212-32-viclabel130" type="occupation">Goldsmith</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16831212-32-victim134 t16831212-32-viclabel130"></join>
+                        <interp inst="t16831212-32-victim134" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16831212-32-off129 t16831212-32-victim134"></join>
+                     </persName>
+                  s Glass out of his Shop; wherein was 48 Gold Rings, several Necklaces, Silver Spoons, and other things of value
+            </rs>; was found <rs id="t16831212-32-verdict131" type="verdictDescription">
+                     <interp inst="t16831212-32-verdict131" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16831212-32-punish132" type="punishmentDescription">
+                     <interp inst="t16831212-32-punish132" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-32-defend133 t16831212-32-punish132"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

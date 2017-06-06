@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-93">
+               <interp inst="t17350911-93" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-93" type="year" value="1735"></interp>
+               <interp inst="t17350911-93" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-93" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-93-off404-c448" targOrder="Y" targets="t17350911-93-defend653 t17350911-93-off404 t17350911-93-verdict406"></join>
+         
+               <p>115. 
+               
+                  <persName id="t17350911-93-defend653" type="defendantName">
+                     Mary 
+                     Smith 
+                  <interp inst="t17350911-93-defend653" type="surname" value="Smith"></interp>
+                     <interp inst="t17350911-93-defend653" type="given" value="Mary"></interp>
+                     <interp inst="t17350911-93-defend653" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350911-93-off404" type="offenceDescription">
+                     <interp inst="t17350911-93-off404" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-93-off404" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing three Shirts, an Apron, and other Linnen, value forty Shillings, the Goods of several Persons, in the House of 
+                     
+                        <persName id="t17350911-93-victim655" type="victimName">
+                           Robert 
+                           Pearse 
+                        <interp inst="t17350911-93-victim655" type="surname" value="Pearse"></interp>
+                        <interp inst="t17350911-93-victim655" type="given" value="Robert"></interp>
+                        <interp inst="t17350911-93-victim655" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350911-93-off404 t17350911-93-victim655"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17350911-93-cd405" type="crimeDate">July 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-93-off404 t17350911-93-cd405"></join>. <rs id="t17350911-93-verdict406" type="verdictDescription">
+                     <interp inst="t17350911-93-verdict406" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17350911-93-verdict406" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17350911-93-punish407" type="punishmentDescription">
+                     <interp inst="t17350911-93-punish407" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350911-93-defend653 t17350911-93-punish407"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

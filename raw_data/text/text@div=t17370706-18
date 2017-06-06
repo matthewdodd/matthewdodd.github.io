@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370706-18">
+               <interp inst="t17370706-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370706-18" type="year" value="1737"></interp>
+               <interp inst="t17370706-18" type="uri" value="sessionsPapers/17370706"></interp>
+               <interp inst="t17370706-18" type="date" value="17370706"></interp>
+               <join result="criminalCharge" id="t17370706-18-off92-c138" targOrder="Y" targets="t17370706-18-defend178 t17370706-18-off92 t17370706-18-verdict94"></join>
+               <join result="criminalCharge" id="t17370706-18-off92-c139" targOrder="Y" targets="t17370706-18-defend180 t17370706-18-off92 t17370706-18-verdict94"></join>
+         
+               <p>22, 23. 
+               
+                  <persName id="t17370706-18-defend178" type="defendantName">
+                     Mary 
+                     Middleton 
+                  <interp inst="t17370706-18-defend178" type="surname" value="Middleton"></interp>
+                     <interp inst="t17370706-18-defend178" type="given" value="Mary"></interp>
+                     <interp inst="t17370706-18-defend178" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17370706-18-defend180" type="defendantName">
+                     Mary 
+                     Smith 
+                  <interp inst="t17370706-18-defend180" type="surname" value="Smith"></interp>
+                     <interp inst="t17370706-18-defend180" type="given" value="Mary"></interp>
+                     <interp inst="t17370706-18-defend180" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17370706-18-off92" type="offenceDescription">
+                     <interp inst="t17370706-18-off92" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370706-18-off92" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Pair of Silver Buckles, value 11 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17370706-18-victim182" type="victimName">
+                     William 
+                     West 
+                  <interp inst="t17370706-18-victim182" type="surname" value="West"></interp>
+                     <interp inst="t17370706-18-victim182" type="given" value="William"></interp>
+                     <interp inst="t17370706-18-victim182" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17370706-18-off92 t17370706-18-victim182"></join>
+                  </persName>
+                
+            , <rs id="t17370706-18-cd93" type="crimeDate">June 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370706-18-off92 t17370706-18-cd93"></join>. Both <rs id="t17370706-18-verdict94" type="verdictDescription">
+                     <interp inst="t17370706-18-verdict94" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370706-18-punish95" type="punishmentDescription">
+                     <interp inst="t17370706-18-punish95" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370706-18-defend178 t17370706-18-punish95"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370706-18-defend180 t17370706-18-punish95"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -8,6 +8,7 @@
 <ul>
 	<li>I began gathering the data using wget to grab over 40,000 records. Weirdly enough, despite The Old Bailey API informing me that there were 40,521 records, I have over that many unique identifiers.</li>
 	<li>I will need to confirm that all of the cases/trials actually resulted in the consequence of transportation before going forward.</li>
+	<li>The whole process took around four and a half (4.5) hours to complete with a "-w" flag set to "0.05" so that I didn't overload their server with requests.</li>
 	<li>All of the files being grabbed by wget had the prefix "text@div=" as part of their name and I prefer not having that as it doesn't help anything and so a quick way to deal with that (given that I am primarily in a windows environment) is to use PowerShell:
 	<ul>
 	<li>Change directory to the relevent file location:</li>
@@ -17,13 +18,20 @@
 		<p class="script2"><br /></p>
 		<p class="script2">PS C:> <span style="color: yellow">cd C:\users\doddm\Documents\Personal\ma_public\raw_data\text</span></p>
 		<p class="script3">PS C:\users\doddm\Documents\Personal\ma_public\raw_data\text></p>
-	<li>-- Rename the files using this script:</li>
+	<li>Rename the files using this script:</li>
 		<p class="script">Windows PowerShell</p>
 		<p class="script2">Windows PowerShell</p>
 		<p class="script2">Copyright (C) 2009 Microsoft Corporation. All rights reserved.</p>
 		<p class="script2"><br /></p>
 		<p class="script2">PS C:\users\doddm\Documents\Personal\ma_public\raw_data\text> <span style="color: yellow">dir | rename-item -NewName {$_.name -replace [Regex]::Escape("text@div="),""}</span></p>
 		<p class="script3">PS C:\users\doddm\Documents\Personal\ma_public\raw_data\text></p>
+	</ul></li>
+	<li>Renaming over 44,000 files, even using Powershell, is still not a particularly fast task. It took around ten minutes to do.</li>
+	<li>For the curious, my computer's sepcifications doing this are as follows: (HP Z420 Workstation)
+	<ul>
+		<li>CPU: Intel Xeon E5-1650 v2 @ 3.5GHz / 6 Cores \ 12 Threads</li>
+		<li>RAM: 18GB 1600 MHz DDR3 Unbuffered SDRAM</li>
+		<li>Graphics: Nvidia Quadro K2000</li>
 	</ul></li>
 </ul>
 </html>

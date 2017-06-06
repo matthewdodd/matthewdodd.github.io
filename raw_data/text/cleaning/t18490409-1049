@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18490409-1049">
+               <interp inst="t18490409-1049" type="uri" value="sessionsPapers/18490409"></interp>
+               <interp inst="t18490409-1049" type="date" value="18490409"></interp>
+               <join result="criminalCharge" id="t18490409-1049-charge-1" targOrder="Y" targets="def1-1049-18490409 t18490409-1049-offence-1 t18490409-1049-verdict-1"></join>
+               <join result="criminalCharge" id="t18490409-1049-charge-2" targOrder="Y" targets="def2-1049-18490409 t18490409-1049-offence-1 t18490409-1049-verdict-2"></join>
+               <p>1049. <persName id="def1-1049-18490409" type="defendantName">
+                     <interp inst="def1-1049-18490409" type="gender" value="male"></interp>
+                     <interp inst="def1-1049-18490409" type="age" value="21"></interp>
+                     <interp inst="def1-1049-18490409" type="surname" value="M'LOCHLIN"></interp>
+                     <interp inst="def1-1049-18490409" type="given" value="JAMES"></interp>
+                     <hi rend="largeCaps">JAMES M'LOCHLIN</hi>
+                  </persName> and <persName id="def2-1049-18490409" type="defendantName">
+                     <interp inst="def2-1049-18490409" type="gender" value="male"></interp>
+                     <interp inst="def2-1049-18490409" type="surname" value="KEOGH"></interp>
+                     <interp inst="def2-1049-18490409" type="given" value="MATTHEW"></interp>
+                     <hi rend="largeCaps">MATTHEW KEOGH</hi>
+                  </persName>
+                  <rs id="t18490409-1049-offence-1" type="offenceDescription">
+                     <interp inst="t18490409-1049-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18490409-1049-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>, stealing 1 copper boiler, 25lbs. weight of copper pipe, and 100lbs. weight of lead pipe; the goods of <persName id="t18490409-name-1268" type="victimName">
+                        <interp inst="t18490409-name-1268" type="gender" value="male"></interp>
+                        <interp inst="t18490409-name-1268" type="surname" value="FERRINA PINTS"></interp>
+                        <interp inst="t18490409-name-1268" type="given" value="THEODORE"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18490409-1049-offence-1 t18490409-name-1268"></join>Theodore Ferrina Pints</persName> and another.</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">M'LOCHLIN</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18490409-1049-verdict-1" type="verdictDescription">
+                        <interp inst="t18490409-1049-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18490409-1049-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 21.—<hi rend="italic">
+                     <rs id="t18490409-1049-punishment-207" type="punishmentDescription">
+                        <interp inst="t18490409-1049-punishment-207" type="punishmentCategory" value="transport"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-1049-18490409 t18490409-1049-punishment-207"></join>Transported for Seven Years</rs>.</hi>
+               </p>
+               <p>
+                  <hi rend="largeCaps">KEOGH</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18490409-1049-verdict-2" type="verdictDescription">
+                        <interp inst="t18490409-1049-verdict-2" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18490409-1049-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 19.—<hi rend="italic">
+                     <rs id="t18490409-1049-punishment-208" type="punishmentDescription">
+                        <interp inst="t18490409-1049-punishment-208" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18490409-1049-punishment-208" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-1049-18490409 t18490409-1049-punishment-208"></join>Confined Nine Months</rs>.</hi>
+               </p>
+            </div1>

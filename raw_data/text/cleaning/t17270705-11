@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17270705-11">
+               <interp inst="t17270705-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17270705-11" type="year" value="1727"></interp>
+               <interp inst="t17270705-11" type="uri" value="sessionsPapers/17270705"></interp>
+               <interp inst="t17270705-11" type="date" value="17270705"></interp>
+               <join result="criminalCharge" id="t17270705-11-off51-c59" targOrder="Y" targets="t17270705-11-defend75 t17270705-11-off51 t17270705-11-verdict53"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17270705-11-defend75" type="defendantName">
+                     Thomas 
+                     Hoskins 
+                  <interp inst="t17270705-11-defend75" type="surname" value="Hoskins"></interp>
+                     <interp inst="t17270705-11-defend75" type="given" value="Thomas"></interp>
+                     <interp inst="t17270705-11-defend75" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17270705-11-defloc50">St. Michael Cornhill</placeName>
+                  <interp inst="t17270705-11-defloc50" type="placeName" value="St. Michael Cornhill"></interp>
+                  <interp inst="t17270705-11-defloc50" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17270705-11-defend75 t17270705-11-defloc50"></join>, was indicted for <rs id="t17270705-11-off51" type="offenceDescription">
+                     <interp inst="t17270705-11-off51" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17270705-11-off51" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately picking the Pocket of 
+                     
+                        <persName id="t17270705-11-victim77" type="victimName">
+                           Thomas 
+                           Gastrill 
+                        <interp inst="t17270705-11-victim77" type="surname" value="Gastrill"></interp>
+                        <interp inst="t17270705-11-victim77" type="given" value="Thomas"></interp>
+                        <interp inst="t17270705-11-victim77" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17270705-11-off51 t17270705-11-victim77"></join>
+                     </persName>
+                      
+                  , on the <rs id="t17270705-11-cd52" type="crimeDate">20th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17270705-11-off51 t17270705-11-cd52"></join> last, of a Silk Handkerchief
+            </rs>, which appearing plain the Jury found him <rs id="t17270705-11-verdict53" type="verdictDescription">
+                     <interp inst="t17270705-11-verdict53" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17270705-11-verdict53" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17270705-11-punish54" type="punishmentDescription">
+                     <interp inst="t17270705-11-punish54" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17270705-11-defend75 t17270705-11-punish54"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

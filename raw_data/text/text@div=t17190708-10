@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17190708-10">
+               <interp inst="t17190708-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17190708-10" type="year" value="1719"></interp>
+               <interp inst="t17190708-10" type="uri" value="sessionsPapers/17190708"></interp>
+               <interp inst="t17190708-10" type="date" value="17190708"></interp>
+               <join result="criminalCharge" id="t17190708-10-off49-c46" targOrder="Y" targets="t17190708-10-defend63 t17190708-10-off49 t17190708-10-verdict51"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17190708-10-defend63" type="defendantName">
+                     James 
+                     Kettle 
+                  <interp inst="t17190708-10-defend63" type="surname" value="Kettle"></interp>
+                     <interp inst="t17190708-10-defend63" type="given" value="James"></interp>
+                     <interp inst="t17190708-10-defend63" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17190708-10-defloc48">St.Giles Cripplegate</placeName>
+                  <interp inst="t17190708-10-defloc48" type="placeName" value="St.Giles Cripplegate"></interp>
+                  <interp inst="t17190708-10-defloc48" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17190708-10-defend63 t17190708-10-defloc48"></join> was indicted for <rs id="t17190708-10-off49" type="offenceDescription">
+                     <interp inst="t17190708-10-off49" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17190708-10-off49" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four Iron Hoops value 3 s.
+            </rs> the Goods of 
+               <persName id="t17190708-10-victim64" type="victimName">
+                     <interp inst="t17190708-10-victim64" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17190708-10-off49 t17190708-10-victim64"></join>
+                  </persName>
+             on the <rs id="t17190708-10-cd50" type="crimeDate">4th of this Instant July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17190708-10-off49 t17190708-10-cd50"></join>. The Fact being fully prov'd upon him, and that he robb'd the Prosecutors two Years ago, who did not Prosecute him then, the Jury found him <rs id="t17190708-10-verdict51" type="verdictDescription">
+                     <interp inst="t17190708-10-verdict51" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17190708-10-verdict51" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs> 
+                  <rs id="t17190708-10-punish52" type="punishmentDescription">
+                     <interp inst="t17190708-10-punish52" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17190708-10-defend63 t17190708-10-punish52"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340424-3">
+               <interp inst="t17340424-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340424-3" type="year" value="1734"></interp>
+               <interp inst="t17340424-3" type="uri" value="sessionsPapers/17340424"></interp>
+               <interp inst="t17340424-3" type="date" value="17340424"></interp>
+               <join result="criminalCharge" id="t17340424-3-off8-c36" targOrder="Y" targets="t17340424-3-defend42 t17340424-3-off8 t17340424-3-verdict10"></join>
+         
+               <p>4. 
+               
+                  <persName id="t17340424-3-defend42" type="defendantName">
+                     Nathaniel 
+                     Snape 
+                  <interp inst="t17340424-3-defend42" type="surname" value="Snape"></interp>
+                     <interp inst="t17340424-3-defend42" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17340424-3-defend42" type="gender" value="male"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17340424-3-off8" type="offenceDescription">
+                     <interp inst="t17340424-3-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340424-3-off8" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing a Firkin of Soap, val. 20. s. the Property of 
+                     
+                        <persName id="t17340424-3-victim44" type="victimName">
+                           John 
+                           Barret 
+                        <interp inst="t17340424-3-victim44" type="surname" value="Barret"></interp>
+                        <interp inst="t17340424-3-victim44" type="given" value="John"></interp>
+                        <interp inst="t17340424-3-victim44" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340424-3-off8 t17340424-3-victim44"></join>
+                     </persName>
+                      
+                  , in his Shop
+            </rs>, <rs id="t17340424-3-cd9" type="crimeDate">April, 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340424-3-off8 t17340424-3-cd9"></join>. <rs id="t17340424-3-verdict10" type="verdictDescription">
+                     <interp inst="t17340424-3-verdict10" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17340424-3-verdict10" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17340424-3-punish11" type="punishmentDescription">
+                     <interp inst="t17340424-3-punish11" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340424-3-defend42 t17340424-3-punish11"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

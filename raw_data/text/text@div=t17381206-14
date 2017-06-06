@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381206-14">
+               <interp inst="t17381206-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381206-14" type="year" value="1738"></interp>
+               <interp inst="t17381206-14" type="uri" value="sessionsPapers/17381206"></interp>
+               <interp inst="t17381206-14" type="date" value="17381206"></interp>
+               <join result="criminalCharge" id="t17381206-14-off64-c85" targOrder="Y" targets="t17381206-14-defend117 t17381206-14-off64 t17381206-14-verdict66"></join>
+         
+               <p>17. 
+               
+                  <persName id="t17381206-14-defend117" type="defendantName">
+                     Rebecca 
+                     Seveire 
+                  <interp inst="t17381206-14-defend117" type="surname" value="Seveire"></interp>
+                     <interp inst="t17381206-14-defend117" type="given" value="Rebecca"></interp>
+                     <interp inst="t17381206-14-defend117" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17381206-14-off64" type="offenceDescription">
+                     <interp inst="t17381206-14-off64" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381206-14-off64" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Gown made of Silk and Cotton, value 18 s. and a Pair of Stays, value 18 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17381206-14-victim119" type="victimName">
+                     Jane 
+                     Luteman 
+                  <interp inst="t17381206-14-victim119" type="surname" value="Luteman"></interp>
+                     <interp inst="t17381206-14-victim119" type="given" value="Jane"></interp>
+                     <interp inst="t17381206-14-victim119" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17381206-14-off64 t17381206-14-victim119"></join>
+                  </persName>
+                
+            , <rs id="t17381206-14-cd65" type="crimeDate">Nov. 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381206-14-off64 t17381206-14-cd65"></join>. <rs id="t17381206-14-verdict66" type="verdictDescription">
+                     <interp inst="t17381206-14-verdict66" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17381206-14-punish67" type="punishmentDescription">
+                     <interp inst="t17381206-14-punish67" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381206-14-defend117 t17381206-14-punish67"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

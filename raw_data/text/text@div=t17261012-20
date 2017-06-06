@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17261012-20">
+               <interp inst="t17261012-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17261012-20" type="year" value="1726"></interp>
+               <interp inst="t17261012-20" type="uri" value="sessionsPapers/17261012"></interp>
+               <interp inst="t17261012-20" type="date" value="17261012"></interp>
+               <join result="criminalCharge" id="t17261012-20-off85-c121" targOrder="Y" targets="t17261012-20-defend159 t17261012-20-off85 t17261012-20-verdict87"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17261012-20-defend159" type="defendantName">
+                     Judith 
+                     Flaningham 
+                  <interp inst="t17261012-20-defend159" type="surname" value="Flaningham"></interp>
+                     <interp inst="t17261012-20-defend159" type="given" value="Judith"></interp>
+                     <interp inst="t17261012-20-defend159" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17261012-20-off85" type="offenceDescription">
+                     <interp inst="t17261012-20-off85" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17261012-20-off85" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing a Gold enameld George with a Ruby set in Gold, value 30 s
+            </rs>, the Goods of 
+               
+                  <persName id="t17261012-20-victim161" type="victimName">
+                     Margaret 
+                     Gascoin 
+                  <interp inst="t17261012-20-victim161" type="surname" value="Gascoin"></interp>
+                     <interp inst="t17261012-20-victim161" type="given" value="Margaret"></interp>
+                     <interp inst="t17261012-20-victim161" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17261012-20-off85 t17261012-20-victim161"></join>
+                  </persName>
+                
+            , <rs id="t17261012-20-cd86" type="crimeDate">Octob. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17261012-20-off85 t17261012-20-cd86"></join>. <rs id="t17261012-20-verdict87" type="verdictDescription">
+                     <interp inst="t17261012-20-verdict87" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17261012-20-punish88" type="punishmentDescription">
+                     <interp inst="t17261012-20-punish88" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17261012-20-defend159 t17261012-20-punish88"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

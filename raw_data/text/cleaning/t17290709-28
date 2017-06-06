@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17290709-28">
+               <interp inst="t17290709-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17290709-28" type="year" value="1729"></interp>
+               <interp inst="t17290709-28" type="uri" value="sessionsPapers/17290709"></interp>
+               <interp inst="t17290709-28" type="date" value="17290709"></interp>
+               <join result="criminalCharge" id="t17290709-28-off124-c100" targOrder="Y" targets="t17290709-28-defend154 t17290709-28-off124 t17290709-28-verdict127"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17290709-28-defend154" type="defendantName">
+                     John 
+                     Barrow 
+                  <interp inst="t17290709-28-defend154" type="surname" value="Barrow"></interp>
+                     <interp inst="t17290709-28-defend154" type="given" value="John"></interp>
+                     <interp inst="t17290709-28-defend154" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17290709-28-defloc123">St. Andrew's Holborn</placeName>
+                  <interp inst="t17290709-28-defloc123" type="placeName" value="St. Andrew's Holborn"></interp>
+                  <interp inst="t17290709-28-defloc123" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17290709-28-defend154 t17290709-28-defloc123"></join>, was indicted for <rs id="t17290709-28-off124" type="offenceDescription">
+                     <interp inst="t17290709-28-off124" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17290709-28-off124" type="offenceSubcategory" value="other"></interp>
+               stealing Goods
+            </rs>, the Property of 
+               
+                  <persName id="t17290709-28-victim156" type="victimName">
+                     Edward 
+                     Beecher 
+                  <interp inst="t17290709-28-victim156" type="surname" value="Beecher"></interp>
+                     <interp inst="t17290709-28-victim156" type="given" value="Edward"></interp>
+                     <interp inst="t17290709-28-victim156" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17290709-28-off124 t17290709-28-victim156"></join>
+                  </persName>
+                
+            , <rs id="t17290709-28-viclabel125" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17290709-28-victim156 t17290709-28-viclabel125"></join>; the <rs id="t17290709-28-cd126" type="crimeDate">13th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17290709-28-off124 t17290709-28-cd126"></join> last. The Fact being plainly prov'd the Jury found him <rs id="t17290709-28-verdict127" type="verdictDescription">
+                     <interp inst="t17290709-28-verdict127" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17290709-28-verdict127" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17290709-28-punish128" type="punishmentDescription">
+                     <interp inst="t17290709-28-punish128" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17290709-28-defend154 t17290709-28-punish128"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,20 +1,16 @@
-@font-face {
-    font-family: headerFont;
-    src: url("/sgt_gorila.ttf");
-}
 body {
 }
 h1 {
-	font-family: headerFont;
+	font-family: "Arial", Arial, sans-serif;
 	font-size: 2em;
 	padding: 0.5px;
+    background-color: rgb(0,180,200);
+    text-align: center;
 }
 div.header {
 	height: 150px;
 	line-height: 200px;
-	border-bottom: solid #2d64db 1px;
 	padding: 0.5px;
-	background-color: #BEBEBE;
 }
 div.content {
 	margin-left: 80px;
@@ -22,25 +18,31 @@ div.content {
 }
 div.footer {
 	float: bottom;
-	border-top: solid #2d64db 1px;
+	border-top: solid rgb(0,180,200) 1px;
 	text-align: left;
 	margin-bottom: 5px;
 	bottom: 0;
 }
 img {
-	margin-left: 10%;
+	margin-left: 5%;
+    margin-top: 5%;
 }
-a.headerLeft {
+a.header1 {
 	margin-top: -10px;
-	margin-left: 30%;
+	margin-left: 5%;
+    padding-right: 5%;
+    border-right: solid white 5px;
+    border-left: solid white 5px;
+    padding-left: 5%;
 }
-a.headerRight {
+a.header2 {
 	margin-top: -10px;
-	margin-left: 10%;
+	margin-left: 5%;
+    padding-right: 5%;
+    border-right: solid white 5px;
 }
 span {
 	display: inline-block;
-	vertical-align: center;
 	line-height: normal;
 }
 p.script {

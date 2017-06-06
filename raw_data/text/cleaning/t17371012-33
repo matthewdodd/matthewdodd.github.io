@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17371012-33">
+               <interp inst="t17371012-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17371012-33" type="year" value="1737"></interp>
+               <interp inst="t17371012-33" type="uri" value="sessionsPapers/17371012"></interp>
+               <interp inst="t17371012-33" type="date" value="17371012"></interp>
+               <join result="criminalCharge" id="t17371012-33-off148-c170" targOrder="Y" targets="t17371012-33-defend240 t17371012-33-off148 t17371012-33-verdict151"></join>
+               <join result="criminalCharge" id="t17371012-33-off148-c171" targOrder="Y" targets="t17371012-33-defend242 t17371012-33-off148 t17371012-33-verdict152"></join>
+         
+               <p>38, 39. 
+               
+                  <persName id="t17371012-33-defend240" type="defendantName">
+                     Mary 
+                     Broad 
+                  <interp inst="t17371012-33-defend240" type="surname" value="Broad"></interp>
+                     <interp inst="t17371012-33-defend240" type="given" value="Mary"></interp>
+                     <interp inst="t17371012-33-defend240" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17371012-33-defend242" type="defendantName">
+                     Sarah 
+                     Wharton 
+                  <interp inst="t17371012-33-defend242" type="surname" value="Wharton"></interp>
+                     <interp inst="t17371012-33-defend242" type="given" value="Sarah"></interp>
+                     <interp inst="t17371012-33-defend242" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17371012-33-off148" type="offenceDescription">
+                     <interp inst="t17371012-33-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17371012-33-off148" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a blue calamancoe Pocket, value 2 d and 4 s. in Money, from the Person of 
+                     
+                        <persName id="t17371012-33-victim244" type="victimName">
+                           Mary 
+                           Newman 
+                        <interp inst="t17371012-33-victim244" type="surname" value="Newman"></interp>
+                        <interp inst="t17371012-33-victim244" type="given" value="Mary"></interp>
+                        <interp inst="t17371012-33-victim244" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17371012-33-off148 t17371012-33-victim244"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, in the Parish of <placeName id="t17371012-33-crimeloc149">St. Catherine Cree Church</placeName>
+                  <interp inst="t17371012-33-crimeloc149" type="placeName" value="St. Catherine Cree Church"></interp>
+                  <interp inst="t17371012-33-crimeloc149" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17371012-33-off148 t17371012-33-crimeloc149"></join>, <rs id="t17371012-33-cd150" type="crimeDate">Oct. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17371012-33-off148 t17371012-33-cd150"></join>.</p>
+               <p>Broad <rs id="t17371012-33-verdict151" type="verdictDescription">
+                     <interp inst="t17371012-33-verdict151" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17371012-33-verdict151" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs> Wharton <rs id="t17371012-33-verdict152" type="verdictDescription">
+                     <interp inst="t17371012-33-verdict152" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17371012-33-punish153" type="punishmentDescription">
+                     <interp inst="t17371012-33-punish153" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17371012-33-defend240 t17371012-33-punish153"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

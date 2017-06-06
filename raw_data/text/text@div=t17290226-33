@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17290226-33">
+               <interp inst="t17290226-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17290226-33" type="year" value="1729"></interp>
+               <interp inst="t17290226-33" type="uri" value="sessionsPapers/17290226"></interp>
+               <interp inst="t17290226-33" type="date" value="17290226"></interp>
+               <join result="criminalCharge" id="t17290226-33-off144-c127" targOrder="Y" targets="t17290226-33-defend191 t17290226-33-off144 t17290226-33-verdict145"></join>
+               <join result="criminalCharge" id="t17290226-33-off144-c128" targOrder="Y" targets="t17290226-33-defend193 t17290226-33-off144 t17290226-33-verdict145"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17290226-33-defend191" type="defendantName">
+                     Thomas 
+                     Bowls 
+                  <interp inst="t17290226-33-defend191" type="surname" value="Bowls"></interp>
+                     <interp inst="t17290226-33-defend191" type="given" value="Thomas"></interp>
+                     <interp inst="t17290226-33-defend191" type="gender" value="male"></interp>
+                  </persName>
+                
+            . and 
+               
+                  <persName id="t17290226-33-defend193" type="defendantName">
+                     Thomas 
+                     Turner 
+                  <interp inst="t17290226-33-defend193" type="surname" value="Turner"></interp>
+                     <interp inst="t17290226-33-defend193" type="given" value="Thomas"></interp>
+                     <interp inst="t17290226-33-defend193" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17290226-33-defloc143">St. Dunstan's Stepney</placeName>
+                  <interp inst="t17290226-33-defloc143" type="placeName" value="St. Dunstan's Stepney"></interp>
+                  <interp inst="t17290226-33-defloc143" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17290226-33-defend191 t17290226-33-defloc143"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17290226-33-defend193 t17290226-33-defloc143"></join>, were indicted for <rs id="t17290226-33-off144" type="offenceDescription">
+                     <interp inst="t17290226-33-off144" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17290226-33-off144" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 40 Pieces of Beef, and a considerable Quantity of Sewet, the Property of 
+                     
+                        <persName id="t17290226-33-victim195" type="victimName">
+                           Henry 
+                           Fowler 
+                        <interp inst="t17290226-33-victim195" type="surname" value="Fowler"></interp>
+                        <interp inst="t17290226-33-victim195" type="given" value="Henry"></interp>
+                        <interp inst="t17290226-33-victim195" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17290226-33-off144 t17290226-33-victim195"></join>
+                     </persName>
+                      
+                  , in the Warehouse of 
+                     <persName id="t17290226-33-person196">
+                        John 
+                        Staples 
+                     <interp inst="t17290226-33-person196" type="surname" value="Staples"></interp>
+                        <interp inst="t17290226-33-person196" type="given" value="John"></interp>
+                        <interp inst="t17290226-33-person196" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>. 
+               <persName id="t17290226-33-person197">
+                  Henry 
+                  Newman 
+               <interp inst="t17290226-33-person197" type="surname" value="Newman"></interp>
+                     <interp inst="t17290226-33-person197" type="given" value="Henry"></interp>
+                     <interp inst="t17290226-33-person197" type="gender" value="male"></interp>
+                  </persName>
+            , who was concern'd with them was admitted an Evidence, and by his Deposition and other Proofs they were both found <rs id="t17290226-33-verdict145" type="verdictDescription">
+                     <interp inst="t17290226-33-verdict145" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17290226-33-verdict145" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty to the Value of 4 s. and 10 d.
+            </rs> each.</p>
+               <p>
+                  <rs id="t17290226-33-punish146" type="punishmentDescription">
+                     <interp inst="t17290226-33-punish146" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17290226-33-defend191 t17290226-33-punish146"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17290226-33-defend193 t17290226-33-punish146"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

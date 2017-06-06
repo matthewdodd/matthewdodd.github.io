@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17231204-38">
+               <interp inst="t17231204-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17231204-38" type="year" value="1723"></interp>
+               <interp inst="t17231204-38" type="uri" value="sessionsPapers/17231204"></interp>
+               <interp inst="t17231204-38" type="date" value="17231204"></interp>
+               <join result="criminalCharge" id="t17231204-38-off201-c125" targOrder="Y" targets="t17231204-38-defend191 t17231204-38-off201 t17231204-38-verdict204"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17231204-38-defend191" type="defendantName">
+                     John 
+                     Tailor 
+                  <interp inst="t17231204-38-defend191" type="surname" value="Tailor"></interp>
+                     <interp inst="t17231204-38-defend191" type="given" value="John"></interp>
+                     <interp inst="t17231204-38-defend191" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17231204-38-defloc200">St. Olave Hart-Street</placeName>
+                  <interp inst="t17231204-38-defloc200" type="placeName" value="St. Olave Hart-Street"></interp>
+                  <interp inst="t17231204-38-defloc200" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231204-38-defend191 t17231204-38-defloc200"></join>, was indicted for <rs id="t17231204-38-off201" type="offenceDescription">
+                     <interp inst="t17231204-38-off201" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17231204-38-off201" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 Half Peck Loaves, value 19 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17231204-38-victim193" type="victimName">
+                     Joseph 
+                     Booth 
+                  <interp inst="t17231204-38-victim193" type="surname" value="Booth"></interp>
+                     <interp inst="t17231204-38-victim193" type="given" value="Joseph"></interp>
+                     <interp inst="t17231204-38-victim193" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17231204-38-off201 t17231204-38-victim193"></join>
+                  </persName>
+                
+            , the <rs id="t17231204-38-cd202" type="crimeDate">20th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17231204-38-off201 t17231204-38-cd202"></join>
+                  <xptr type="pageFacsimile" doc="172312040007"></xptr> last. It appear'd by the Evidence, That the Baker's Man Set down his Basket in <placeName id="t17231204-38-crimeloc203">Mark Lane</placeName>
+                  <interp inst="t17231204-38-crimeloc203" type="placeName" value="Mark Lane"></interp>
+                  <interp inst="t17231204-38-crimeloc203" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17231204-38-off201 t17231204-38-crimeloc203"></join>, to carry some Bread into an Alley, and the Loaves were taken out of the Basket, and were found upon the Prisoner. The Prisoner pleaded, That he met a Man with the Loaves, and he gave them him to carry to the Mag-pie Alehouse. The Jury found him <rs id="t17231204-38-verdict204" type="verdictDescription">
+                     <interp inst="t17231204-38-verdict204" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17231204-38-verdict204" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs> 
+                  <rs id="t17231204-38-punish205" type="punishmentDescription">
+                     <interp inst="t17231204-38-punish205" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17231204-38-defend191 t17231204-38-punish205"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

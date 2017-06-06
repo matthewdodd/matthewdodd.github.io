@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410405-35">
+               <interp inst="t17410405-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410405-35" type="year" value="1741"></interp>
+               <interp inst="t17410405-35" type="uri" value="sessionsPapers/17410405"></interp>
+               <interp inst="t17410405-35" type="date" value="17410405"></interp>
+               <join result="criminalCharge" id="t17410405-35-off148-c188" targOrder="Y" targets="t17410405-35-defend259 t17410405-35-off148 t17410405-35-verdict150"></join>
+         
+               <p>38. 
+               
+                  <persName id="t17410405-35-defend259" type="defendantName">
+                     William 
+                     Hale 
+                  <interp inst="t17410405-35-defend259" type="surname" value="Hale"></interp>
+                     <interp inst="t17410405-35-defend259" type="given" value="William"></interp>
+                     <interp inst="t17410405-35-defend259" type="gender" value="male"></interp>
+                  </persName>
+               
+             , was indicted for <rs id="t17410405-35-off148" type="offenceDescription">
+                     <interp inst="t17410405-35-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410405-35-off148" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Spoon, Value 6 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17410405-35-victim261" type="victimName">
+                     Elizabeth 
+                     Dawson 
+                  <interp inst="t17410405-35-victim261" type="surname" value="Dawson"></interp>
+                     <interp inst="t17410405-35-victim261" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17410405-35-victim261" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17410405-35-off148 t17410405-35-victim261"></join>
+                  </persName>
+                
+            , <rs id="t17410405-35-cd149" type="crimeDate">March 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410405-35-off148 t17410405-35-cd149"></join>. <rs id="t17410405-35-verdict150" type="verdictDescription">
+                     <interp inst="t17410405-35-verdict150" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17410405-35-punish151" type="punishmentDescription">
+                     <interp inst="t17410405-35-punish151" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17410405-35-defend259 t17410405-35-punish151"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

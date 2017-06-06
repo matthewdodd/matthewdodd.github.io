@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510227-42">
+               <interp inst="t17510227-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510227-42" type="year" value="1751"></interp>
+               <interp inst="t17510227-42" type="uri" value="sessionsPapers/17510227"></interp>
+               <interp inst="t17510227-42" type="date" value="17510227"></interp>
+               <join result="criminalCharge" id="t17510227-42-off211-c360" targOrder="Y" targets="t17510227-42-defend439 t17510227-42-off211 t17510227-42-verdict214"></join>
+         
+               <p>238. (L.) 
+               
+                  <persName id="t17510227-42-defend439" type="defendantName">
+                     James 
+                     Beaton 
+                  <interp inst="t17510227-42-defend439" type="surname" value="Beaton"></interp>
+                     <interp inst="t17510227-42-defend439" type="given" value="James"></interp>
+                     <interp inst="t17510227-42-defend439" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510227-42-off211" type="offenceDescription">
+                     <interp inst="t17510227-42-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510227-42-off211" type="offenceSubcategory" value="other"></interp>
+               stealing twenty-seven pounds weight of tobacco
+            </rs>, the property of <rs id="t17510227-42-viclabel212" type="occupation">
+               
+                     <persName id="t17510227-42-victim440" type="victimName">
+                     
+                        <persName id="t17510227-42-person441" type="victimName">
+                           Robert 
+                           Carey 
+                        <interp inst="t17510227-42-person441" type="surname" value="Carey"></interp>
+                           <interp inst="t17510227-42-person441" type="given" value="Robert"></interp>
+                           <interp inst="t17510227-42-person441" type="gender" value="male"></interp>
+                           <join result="offenceVictim" targOrder="Y" targets="t17510227-42-off211 t17510227-42-person441"></join>
+                        </persName>
+                      and Co.<interp inst="t17510227-42-victim440" type="surname" value="Carey"></interp>
+                        <interp inst="t17510227-42-victim440" type="given" value="Robert"></interp>
+                        <interp inst="t17510227-42-victim440" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17510227-42-off211 t17510227-42-victim440"></join>
+                     </persName>
+               
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510227-42-victim440 t17510227-42-viclabel212"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510227-42-person441 t17510227-42-viclabel212"></join> 
+                  <rs id="t17510227-42-cd213" type="crimeDate">Feb. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510227-42-off211 t17510227-42-cd213"></join>.</p>
+               <p>+ <rs id="t17510227-42-verdict214" type="verdictDescription">
+                     <interp inst="t17510227-42-verdict214" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17510227-42-verdict214" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17510227-42-punish215" type="punishmentDescription">
+                     <interp inst="t17510227-42-punish215" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510227-42-defend439 t17510227-42-punish215"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

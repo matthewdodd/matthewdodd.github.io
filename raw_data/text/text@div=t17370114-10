@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370114-10">
+               <interp inst="t17370114-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370114-10" type="year" value="1737"></interp>
+               <interp inst="t17370114-10" type="uri" value="sessionsPapers/17370114"></interp>
+               <interp inst="t17370114-10" type="date" value="17370114"></interp>
+               <join result="criminalCharge" id="t17370114-10-off43-c59" targOrder="Y" targets="t17370114-10-defend81 t17370114-10-off43 t17370114-10-verdict45"></join>
+         
+               <p>11. 
+               
+                  <persName id="t17370114-10-defend81" type="defendantName">
+                     Joseph 
+                     Lillyman 
+                  <interp inst="t17370114-10-defend81" type="surname" value="Lillyman"></interp>
+                     <interp inst="t17370114-10-defend81" type="given" value="Joseph"></interp>
+                     <interp inst="t17370114-10-defend81" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370114-10-defloc42">Stepney</placeName>
+                  <interp inst="t17370114-10-defloc42" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17370114-10-defloc42" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370114-10-defend81 t17370114-10-defloc42"></join>, was indicted for <rs id="t17370114-10-off43" type="offenceDescription">
+                     <interp inst="t17370114-10-off43" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370114-10-off43" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a pair of Linnen Sheets, value 2 s. the Goods of 
+                     
+                        <persName id="t17370114-10-victim83" type="victimName">
+                           Joseph 
+                           Meage 
+                        <interp inst="t17370114-10-victim83" type="surname" value="Meage"></interp>
+                        <interp inst="t17370114-10-victim83" type="given" value="Joseph"></interp>
+                        <interp inst="t17370114-10-victim83" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370114-10-off43 t17370114-10-victim83"></join>
+                     </persName>
+                      
+                  , out of his Lodging
+            </rs>, <rs id="t17370114-10-cd44" type="crimeDate">January 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370114-10-off43 t17370114-10-cd44"></join>. <rs id="t17370114-10-verdict45" type="verdictDescription">
+                     <interp inst="t17370114-10-verdict45" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17370114-10-verdict45" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17370114-10-punish46" type="punishmentDescription">
+                     <interp inst="t17370114-10-punish46" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-10-defend81 t17370114-10-punish46"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

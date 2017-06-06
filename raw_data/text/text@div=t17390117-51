@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390117-51">
+               <interp inst="t17390117-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390117-51" type="year" value="1739"></interp>
+               <interp inst="t17390117-51" type="uri" value="sessionsPapers/17390117"></interp>
+               <interp inst="t17390117-51" type="date" value="17390117"></interp>
+               <join result="criminalCharge" id="t17390117-51-off225-c240" targOrder="Y" targets="t17390117-51-defend361 t17390117-51-off225 t17390117-51-verdict228"></join>
+         
+               <p>130. 
+               
+                  <persName id="t17390117-51-defend361" type="defendantName">
+                     Mary 
+                     Parson 
+                  <interp inst="t17390117-51-defend361" type="surname" value="Parson"></interp>
+                     <interp inst="t17390117-51-defend361" type="given" value="Mary"></interp>
+                     <interp inst="t17390117-51-defend361" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390117-51-off225" type="offenceDescription">
+                     <interp inst="t17390117-51-off225" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390117-51-off225" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing three Ells of Holland, val. 27 s. a Holland Shirt, val. 10 s. and two Silk Handkerchiefs, val. 8 s. the Goods of 
+                     
+                        <persName id="t17390117-51-victim363" type="victimName">
+                           Richard 
+                           Coote 
+                        <interp inst="t17390117-51-victim363" type="surname" value="Coote"></interp>
+                        <interp inst="t17390117-51-victim363" type="given" value="Richard"></interp>
+                        <interp inst="t17390117-51-victim363" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17390117-51-off225 t17390117-51-victim363"></join>
+                     </persName>
+                      
+                  , <rs id="t17390117-51-viclabel226" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17390117-51-victim363 t17390117-51-viclabel226"></join>; in the Dwelling-house of 
+                     <persName id="t17390117-51-person364">
+                        Rowland 
+                        Allen 
+                     <interp inst="t17390117-51-person364" type="surname" value="Allen"></interp>
+                        <interp inst="t17390117-51-person364" type="given" value="Rowland"></interp>
+                        <interp inst="t17390117-51-person364" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17390117-51-cd227" type="crimeDate">Dec. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390117-51-off225 t17390117-51-cd227"></join>. <rs id="t17390117-51-verdict228" type="verdictDescription">
+                     <interp inst="t17390117-51-verdict228" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17390117-51-verdict228" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty, 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17390117-51-punish229" type="punishmentDescription">
+                     <interp inst="t17390117-51-punish229" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390117-51-defend361 t17390117-51-punish229"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

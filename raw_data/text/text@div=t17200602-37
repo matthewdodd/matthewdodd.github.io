@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17200602-37">
+               <interp inst="t17200602-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17200602-37" type="year" value="1720"></interp>
+               <interp inst="t17200602-37" type="uri" value="sessionsPapers/17200602"></interp>
+               <interp inst="t17200602-37" type="date" value="17200602"></interp>
+               <join result="criminalCharge" id="t17200602-37-off180-c139" targOrder="Y" targets="t17200602-37-defend214 t17200602-37-off180 t17200602-37-verdict183"></join>
+         
+               <p>
+            
+                  <persName id="t17200602-37-defend214" type="defendantName">
+                  Joseph 
+                  Hill 
+               <interp inst="t17200602-37-defend214" type="surname" value="Hill"></interp>
+                     <interp inst="t17200602-37-defend214" type="given" value="Joseph"></interp>
+                     <interp inst="t17200602-37-defend214" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17200602-37-defloc179">St. James at Clerkenwell</placeName>
+                  <interp inst="t17200602-37-defloc179" type="placeName" value="St. James at Clerkenwell"></interp>
+                  <interp inst="t17200602-37-defloc179" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17200602-37-defend214 t17200602-37-defloc179"></join>, was indicted for <rs id="t17200602-37-off180" type="offenceDescription">
+                     <interp inst="t17200602-37-off180" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17200602-37-off180" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing an Ax value 2 s. and a Hammer value 2 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17200602-37-victim216" type="victimName">
+                     John 
+                     Oakley 
+                  <interp inst="t17200602-37-victim216" type="surname" value="Oakley"></interp>
+                     <interp inst="t17200602-37-victim216" type="given" value="John"></interp>
+                     <interp inst="t17200602-37-victim216" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17200602-37-off180 t17200602-37-victim216"></join>
+                  </persName>
+                
+            , on the <rs id="t17200602-37-cd181" type="crimeDate">24th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17200602-37-off180 t17200602-37-cd181"></join> last. It appeared that the prisoner came up to make Hay, and took the Goods out of the <placeName id="t17200602-37-crimeloc182">White Lyon Inn Yard at Islington</placeName>
+                  <interp inst="t17200602-37-crimeloc182" type="placeName" value="White Lyon Inn Yard at Islington"></interp>
+                  <interp inst="t17200602-37-crimeloc182" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17200602-37-off180 t17200602-37-crimeloc182"></join>. The Jury found him <rs id="t17200602-37-verdict183" type="verdictDescription">
+                     <interp inst="t17200602-37-verdict183" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17200602-37-punish184" type="punishmentDescription">
+                     <interp inst="t17200602-37-punish184" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17200602-37-defend214 t17200602-37-punish184"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

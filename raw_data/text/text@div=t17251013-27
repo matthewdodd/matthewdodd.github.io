@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17251013-27">
+               <interp inst="t17251013-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17251013-27" type="year" value="1725"></interp>
+               <interp inst="t17251013-27" type="uri" value="sessionsPapers/17251013"></interp>
+               <interp inst="t17251013-27" type="date" value="17251013"></interp>
+               <join result="criminalCharge" id="t17251013-27-off128-c127" targOrder="Y" targets="t17251013-27-defend184 t17251013-27-off128 t17251013-27-verdict132"></join>
+               <join result="criminalCharge" id="t17251013-27-off128-c128" targOrder="Y" targets="t17251013-27-defend186 t17251013-27-off128 t17251013-27-verdict131"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17251013-27-defend184" type="defendantName">
+                     Edward 
+                     Wilks 
+                  <interp inst="t17251013-27-defend184" type="surname" value="Wilks"></interp>
+                     <interp inst="t17251013-27-defend184" type="given" value="Edward"></interp>
+                     <interp inst="t17251013-27-defend184" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17251013-27-defend186" type="defendantName">
+                     Thomas 
+                     Wilks 
+                  <interp inst="t17251013-27-defend186" type="surname" value="Wilks"></interp>
+                     <interp inst="t17251013-27-defend186" type="given" value="Thomas"></interp>
+                     <interp inst="t17251013-27-defend186" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17251013-27-off128" type="offenceDescription">
+                     <interp inst="t17251013-27-off128" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17251013-27-off128" type="offenceSubcategory" value="other"></interp>
+               stealing a Gun, eleven Plates, a Bed, two Quilts, two Blankets, a Pair of Tongs, a Pot, a Candlestick, a Saucepan, and other Things
+            </rs>, the Goods of 
+               
+                  <persName id="t17251013-27-victim188" type="victimName">
+                     William 
+                     Knight 
+                  <interp inst="t17251013-27-victim188" type="surname" value="Knight"></interp>
+                     <interp inst="t17251013-27-victim188" type="given" value="William"></interp>
+                     <interp inst="t17251013-27-victim188" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17251013-27-off128 t17251013-27-victim188"></join>
+                  </persName>
+                
+            , <rs id="t17251013-27-cd129" type="crimeDate">Oct. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17251013-27-off128 t17251013-27-cd129"></join>.</p>
+               <p>It appeared that Edward Wilks was <rs id="t17251013-27-deflabel130" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17251013-27-defend184 t17251013-27-deflabel130"></join> to the Prosecutor; that he stole the Goods, and carry'd them to the Lodgings of his Brother Thomas Wilks, in Shadwell where they were found. There being no Evidence against Thomas, the Jury <rs id="t17251013-27-verdict131" type="verdictDescription">
+                     <interp inst="t17251013-27-verdict131" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> him; and found Edward <rs id="t17251013-27-verdict132" type="verdictDescription">
+                     <interp inst="t17251013-27-verdict132" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17251013-27-punish133" type="punishmentDescription">
+                     <interp inst="t17251013-27-punish133" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17251013-27-defend184 t17251013-27-punish133"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

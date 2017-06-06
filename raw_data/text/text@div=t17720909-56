@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17720909-56">
+               <interp inst="t17720909-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17720909-56" type="year" value="1772"></interp>
+               <interp inst="t17720909-56" type="uri" value="sessionsPapers/17720909"></interp>
+               <interp inst="t17720909-56" type="date" value="17720909"></interp>
+               <join result="criminalCharge" id="t17720909-56-off309-c524" targOrder="Y" targets="t17720909-56-defend659 t17720909-56-off309 t17720909-56-verdict314"></join>
+               <join result="criminalCharge" id="t17720909-56-off309-c525" targOrder="Y" targets="t17720909-56-defend661 t17720909-56-off309 t17720909-56-verdict316"></join>
+         
+               <p>675, 676. (M.) 
+               
+                  <persName id="t17720909-56-defend659" type="defendantName">
+                     CATHERINE
+                      CONOLLY
+                  <interp inst="t17720909-56-defend659" type="surname" value="CONOLLY"></interp>
+                     <interp inst="t17720909-56-defend659" type="given" value="CATHERINE"></interp>
+                     <interp inst="t17720909-56-defend659" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17720909-56-deflabel308" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17720909-56-defend659 t17720909-56-deflabel308"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17720909-56-defend661 t17720909-56-deflabel308"></join>, and 
+               
+                  <persName id="t17720909-56-defend661" type="defendantName">
+                     ANN
+                      HAMMOND
+                  <interp inst="t17720909-56-defend661" type="surname" value="HAMMOND"></interp>
+                     <interp inst="t17720909-56-defend661" type="given" value="ANN"></interp>
+                     <interp inst="t17720909-56-defend661" type="gender" value="female"></interp>
+                  </persName>
+               
+            , spinster, were indicted for <rs id="t17720909-56-off309" type="offenceDescription">
+                     <interp inst="t17720909-56-off309" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17720909-56-off309" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a cotton gown, value<xptr type="pageFacsimile" doc="177209090050"></xptr> 4 s. a laced sattin cloak, value 20 s. a cloath cloak, value 1 s. a laced white sattin hat, value 2 s. a pair of lawn sleeves, value 6 d. and a black silk handkerchief, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17720909-56-victim663" type="victimName">
+                     Samuel
+                      Farmer
+                  <interp inst="t17720909-56-victim663" type="surname" value="Farmer"></interp>
+                     <interp inst="t17720909-56-victim663" type="given" value="Samuel"></interp>
+                     <interp inst="t17720909-56-victim663" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17720909-56-off309 t17720909-56-victim663"></join>
+                  </persName>
+               
+            , <rs id="t17720909-56-cd310" type="crimeDate">July 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17720909-56-off309 t17720909-56-cd310"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17720909-56-person664">
+                  Carolina
+                   Farmer
+               <interp inst="t17720909-56-person664" type="surname" value="Farmer"></interp>
+                     <interp inst="t17720909-56-person664" type="given" value="Carolina"></interp>
+                     <interp inst="t17720909-56-person664" type="gender" value="female"></interp>
+                  </persName>
+            . I <rs id="t17720909-56-viclabel311" type="occupation">keep a <placeName id="t17720909-56-crimeloc312">lodging house in Tothill-street</placeName>
+                     <interp inst="t17720909-56-crimeloc312" type="placeName" value="lodging house in Tothill-street"></interp>
+                     <interp inst="t17720909-56-crimeloc312" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17720909-56-off309 t17720909-56-crimeloc312"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17720909-56-victim663 t17720909-56-viclabel311"></join>. The two prisoners came to lodge at my house; I agreed to take Conolly as a <rs id="t17720909-56-deflabel313" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17720909-56-defend659 t17720909-56-deflabel313"></join>; she continued about a fortnight. On the 1st of July I went out and left her at work in her shift sleeves; when I returned home she and Hammond were gone, and I missed the things mentioned in the indictment; I went after them and found them in a cellar among some soldiers; Conolly had my cotton gown and hat on; Hammond sat by her with my cloth cloak on.</p>
+               <p>CONOLLY <rs id="t17720909-56-verdict314" type="verdictDescription">
+                     <interp inst="t17720909-56-verdict314" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17720909-56-punish315" type="punishmentDescription">
+                     <interp inst="t17720909-56-punish315" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17720909-56-defend659 t17720909-56-punish315"></join>
+               T
+            </rs>.</p>
+               <p>HAMMOND <rs id="t17720909-56-verdict316" type="verdictDescription">
+                     <interp inst="t17720909-56-verdict316" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

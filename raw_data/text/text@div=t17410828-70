@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410828-70">
+               <interp inst="t17410828-70" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410828-70" type="year" value="1741"></interp>
+               <interp inst="t17410828-70" type="uri" value="sessionsPapers/17410828"></interp>
+               <interp inst="t17410828-70" type="date" value="17410828"></interp>
+               <join result="criminalCharge" id="t17410828-70-off335-c335" targOrder="Y" targets="t17410828-70-defend491 t17410828-70-off335 t17410828-70-verdict337"></join>
+         
+               <p>85. 
+               
+                  <persName id="t17410828-70-defend491" type="defendantName">
+                     Joseph 
+                     Girle 
+                  <interp inst="t17410828-70-defend491" type="surname" value="Girle"></interp>
+                     <interp inst="t17410828-70-defend491" type="given" value="Joseph"></interp>
+                     <interp inst="t17410828-70-defend491" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17410828-70-defloc334">St. Leonard Shoreditch</placeName>
+                  <interp inst="t17410828-70-defloc334" type="placeName" value="St. Leonard Shoreditch"></interp>
+                  <interp inst="t17410828-70-defloc334" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17410828-70-defend491 t17410828-70-defloc334"></join> was indicted for <rs id="t17410828-70-off335" type="offenceDescription">
+                     <interp inst="t17410828-70-off335" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410828-70-off335" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a brass saucepan, val. 8 d. and a pair of nets, val. 6 s.
+            </rs> the goods of 
+               
+                  <persName id="t17410828-70-victim493" type="victimName">
+                     Robert 
+                     Stone 
+                  <interp inst="t17410828-70-victim493" type="surname" value="Stone"></interp>
+                     <interp inst="t17410828-70-victim493" type="given" value="Robert"></interp>
+                     <interp inst="t17410828-70-victim493" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17410828-70-off335 t17410828-70-victim493"></join>
+                  </persName>
+                
+            , <rs id="t17410828-70-cd336" type="crimeDate">August 10th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410828-70-off335 t17410828-70-cd336"></join>. <rs id="t17410828-70-verdict337" type="verdictDescription">
+                     <interp inst="t17410828-70-verdict337" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17410828-70-punish338" type="punishmentDescription">
+                     <interp inst="t17410828-70-punish338" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17410828-70-defend491 t17410828-70-punish338"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

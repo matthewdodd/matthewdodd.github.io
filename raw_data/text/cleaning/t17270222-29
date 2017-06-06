@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17270222-29">
+               <interp inst="t17270222-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17270222-29" type="year" value="1727"></interp>
+               <interp inst="t17270222-29" type="uri" value="sessionsPapers/17270222"></interp>
+               <interp inst="t17270222-29" type="date" value="17270222"></interp>
+               <join result="criminalCharge" id="t17270222-29-off154-c105" targOrder="Y" targets="t17270222-29-defend155 t17270222-29-off154 t17270222-29-verdict156"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17270222-29-defend155" type="defendantName">
+                     Edward 
+                     Crisp 
+                  <interp inst="t17270222-29-defend155" type="surname" value="Crisp"></interp>
+                     <interp inst="t17270222-29-defend155" type="given" value="Edward"></interp>
+                     <interp inst="t17270222-29-defend155" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17270222-29-defloc152">St. Sepulchre's</placeName>
+                  <interp inst="t17270222-29-defloc152" type="placeName" value="St. Sepulchre's"></interp>
+                  <interp inst="t17270222-29-defloc152" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17270222-29-defend155 t17270222-29-defloc152"></join> 
+                  <rs id="t17270222-29-deflabel153" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17270222-29-defend155 t17270222-29-deflabel153"></join>; was indicted for <rs id="t17270222-29-off154" type="offenceDescription">
+                     <interp inst="t17270222-29-off154" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17270222-29-off154" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Peruke, value 14 s. 3 Rasors, value 7 s.
+            </rs> on the <rs id="t17270222-29-cd155" type="crimeDate">28th of Jan.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17270222-29-off154 t17270222-29-cd155"></join> last, the Goods of 
+               
+                  <persName id="t17270222-29-victim157" type="victimName">
+                     William 
+                     Bird 
+                  <interp inst="t17270222-29-victim157" type="surname" value="Bird"></interp>
+                     <interp inst="t17270222-29-victim157" type="given" value="William"></interp>
+                     <interp inst="t17270222-29-victim157" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17270222-29-off154 t17270222-29-victim157"></join>
+                  </persName>
+                
+            . It appear'd by the Evidence of the Prosecutor, that the Prisoner had taken and sold the Goods aforesaid. The Jury found him <rs id="t17270222-29-verdict156" type="verdictDescription">
+                     <interp inst="t17270222-29-verdict156" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17270222-29-verdict156" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17270222-29-punish157" type="punishmentDescription">
+                     <interp inst="t17270222-29-punish157" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17270222-29-defend155 t17270222-29-punish157"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17251208-59">
+               <interp inst="t17251208-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17251208-59" type="year" value="1725"></interp>
+               <interp inst="t17251208-59" type="uri" value="sessionsPapers/17251208"></interp>
+               <interp inst="t17251208-59" type="date" value="17251208"></interp>
+               <join result="criminalCharge" id="t17251208-59-off289-c197" targOrder="Y" targets="t17251208-59-defend319 t17251208-59-off289 t17251208-59-verdict291"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17251208-59-defend319" type="defendantName">
+                     Edward 
+                     Lee 
+                  <interp inst="t17251208-59-defend319" type="surname" value="Lee"></interp>
+                     <interp inst="t17251208-59-defend319" type="given" value="Edward"></interp>
+                     <interp inst="t17251208-59-defend319" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17251208-59-off289" type="offenceDescription">
+                     <interp inst="t17251208-59-off289" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17251208-59-off289" type="offenceSubcategory" value="other"></interp>
+               stealing 2 pair of Shoes
+            </rs>, the Goods of 
+               
+                  <persName id="t17251208-59-victim321" type="victimName">
+                     Joseph 
+                     Preston 
+                  <interp inst="t17251208-59-victim321" type="surname" value="Preston"></interp>
+                     <interp inst="t17251208-59-victim321" type="given" value="Joseph"></interp>
+                     <interp inst="t17251208-59-victim321" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17251208-59-off289 t17251208-59-victim321"></join>
+                  </persName>
+                
+            . <rs id="t17251208-59-cd290" type="crimeDate">November 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17251208-59-off289 t17251208-59-cd290"></join> 
+                  <rs id="t17251208-59-verdict291" type="verdictDescription">
+                     <interp inst="t17251208-59-verdict291" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17251208-59-verdict291" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17251208-59-punish292" type="punishmentDescription">
+                     <interp inst="t17251208-59-punish292" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17251208-59-defend319 t17251208-59-punish292"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420428-52">
+               <interp inst="t17420428-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420428-52" type="year" value="1742"></interp>
+               <interp inst="t17420428-52" type="uri" value="sessionsPapers/17420428"></interp>
+               <interp inst="t17420428-52" type="date" value="17420428"></interp>
+               <join result="criminalCharge" id="t17420428-52-off232-c349" targOrder="Y" targets="t17420428-52-defend456 t17420428-52-off232 t17420428-52-verdict234"></join>
+               <join result="criminalCharge" id="t17420428-52-off232-c350" targOrder="Y" targets="t17420428-52-defend458 t17420428-52-off232 t17420428-52-verdict234"></join>
+         
+               <p>59, 60. + 
+               
+                  <persName id="t17420428-52-defend456" type="defendantName">
+                     Ann 
+                     Macdonel 
+                  <interp inst="t17420428-52-defend456" type="surname" value="Macdonel"></interp>
+                     <interp inst="t17420428-52-defend456" type="given" value="Ann"></interp>
+                     <interp inst="t17420428-52-defend456" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17420428-52-defend458" type="defendantName">
+                     Sarah 
+                     Miller 
+                  <interp inst="t17420428-52-defend458" type="surname" value="Miller"></interp>
+                     <interp inst="t17420428-52-defend458" type="given" value="Sarah"></interp>
+                     <interp inst="t17420428-52-defend458" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17420428-52-off232" type="offenceDescription">
+                     <interp inst="t17420428-52-off232" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420428-52-off232" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a Stay, Value 8 s. the Goods of 
+                     
+                        <persName id="t17420428-52-victim460" type="victimName">
+                           Mary 
+                           Poulter 
+                        <interp inst="t17420428-52-victim460" type="surname" value="Poulter"></interp>
+                        <interp inst="t17420428-52-victim460" type="given" value="Mary"></interp>
+                        <interp inst="t17420428-52-victim460" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17420428-52-off232 t17420428-52-victim460"></join>
+                     </persName>
+                      
+                  , in her Shop
+            </rs>, <rs id="t17420428-52-cd233" type="crimeDate">April 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420428-52-off232 t17420428-52-cd233"></join>. Both <rs id="t17420428-52-verdict234" type="verdictDescription">
+                     <interp inst="t17420428-52-verdict234" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17420428-52-verdict234" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17420428-52-punish235" type="punishmentDescription">
+                     <interp inst="t17420428-52-punish235" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420428-52-defend456 t17420428-52-punish235"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420428-52-defend458 t17420428-52-punish235"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

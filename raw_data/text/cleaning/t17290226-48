@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17290226-48">
+               <interp inst="t17290226-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17290226-48" type="year" value="1729"></interp>
+               <interp inst="t17290226-48" type="uri" value="sessionsPapers/17290226"></interp>
+               <interp inst="t17290226-48" type="date" value="17290226"></interp>
+               <join result="criminalCharge" id="t17290226-48-off204-c178" targOrder="Y" targets="t17290226-48-defend272 t17290226-48-off204 t17290226-48-verdict209"></join>
+               <join result="criminalCharge" id="t17290226-48-off206-c178" targOrder="Y" targets="t17290226-48-defend272 t17290226-48-off206 t17290226-48-verdict209"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17290226-48-defend272" type="defendantName">
+                     Samuel 
+                     Adams 
+                  <interp inst="t17290226-48-defend272" type="surname" value="Adams"></interp>
+                     <interp inst="t17290226-48-defend272" type="given" value="Samuel"></interp>
+                     <interp inst="t17290226-48-defend272" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17290226-48-off204" type="offenceDescription">
+                     <interp inst="t17290226-48-off204" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17290226-48-off204" type="offenceSubcategory" value="other"></interp>
+               stealing 600 weight of Tobacco
+            </rs>, out of the Ship <placeName id="t17290226-48-crimeloc205">Philip</placeName>
+                  <interp inst="t17290226-48-crimeloc205" type="placeName" value="Philip"></interp>
+                  <interp inst="t17290226-48-crimeloc205" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17290226-48-off204 t17290226-48-crimeloc205"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17290226-48-off206 t17290226-48-crimeloc205"></join>. He was a 2d Time indicted for <rs id="t17290226-48-off206" type="offenceDescription">
+                     <interp inst="t17290226-48-off206" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17290226-48-off206" type="offenceSubcategory" value="other"></interp>
+               stealing 200 weight of Tobacco
+            </rs> out of the Ship <placeName id="t17290226-48-crimeloc207">Hopewell</placeName>
+                  <interp inst="t17290226-48-crimeloc207" type="placeName" value="Hopewell"></interp>
+                  <interp inst="t17290226-48-crimeloc207" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17290226-48-off204 t17290226-48-crimeloc207"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17290226-48-off206 t17290226-48-crimeloc207"></join>, he being employed by the Merchants to work as a <rs id="t17290226-48-deflabel208" type="occupation">Cooper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17290226-48-defend272 t17290226-48-deflabel208"></join> on Board, and fit the Hogsheads to be brought on Shore; he was found <rs id="t17290226-48-verdict209" type="verdictDescription">
+                     <interp inst="t17290226-48-verdict209" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony on each Indictment.</p>
+               <p>
+                  <rs id="t17290226-48-punish210" type="punishmentDescription">
+                     <interp inst="t17290226-48-punish210" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17290226-48-defend272 t17290226-48-punish210"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880222-13">
+               <interp inst="t16880222-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880222-13" type="year" value="1688"></interp>
+               <interp inst="t16880222-13" type="uri" value="sessionsPapers/16880222"></interp>
+               <interp inst="t16880222-13" type="date" value="16880222"></interp>
+               <join result="criminalCharge" id="t16880222-13-off63-c44" targOrder="Y" targets="t16880222-13-defend65 t16880222-13-off63 t16880222-13-verdict66"></join>
+               <join result="criminalCharge" id="t16880222-13-off63-c45" targOrder="Y" targets="t16880222-13-defend67 t16880222-13-off63 t16880222-13-verdict65"></join>
+               <join result="criminalCharge" id="t16880222-13-off63-c46" targOrder="Y" targets="t16880222-13-defend69 t16880222-13-off63 t16880222-13-verdict65"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880222-13-defend65" type="defendantName">
+                     Robert 
+                     Browne
+                  <interp inst="t16880222-13-defend65" type="surname" value="Browne"></interp>
+                     <interp inst="t16880222-13-defend65" type="given" value="Robert"></interp>
+                     <interp inst="t16880222-13-defend65" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16880222-13-defend67" type="defendantName">
+                     Elizabeth 
+                     Browne
+                  <interp inst="t16880222-13-defend67" type="surname" value="Browne"></interp>
+                     <interp inst="t16880222-13-defend67" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16880222-13-defend67" type="gender" value="female"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16880222-13-defend69" type="defendantName">
+                     Walter 
+                     Hunt
+                  <interp inst="t16880222-13-defend69" type="surname" value="Hunt"></interp>
+                     <interp inst="t16880222-13-defend69" type="given" value="Walter"></interp>
+                     <interp inst="t16880222-13-defend69" type="gender" value="male"></interp>
+                  </persName>
+               
+            , all of the Parish of <placeName id="t16880222-13-defloc62">Stepney</placeName>
+                  <interp inst="t16880222-13-defloc62" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16880222-13-defloc62" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-13-defend65 t16880222-13-defloc62"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-13-defend67 t16880222-13-defloc62"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-13-defend69 t16880222-13-defloc62"></join>, were Indicted for <rs id="t16880222-13-off63" type="offenceDescription">
+                     <interp inst="t16880222-13-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880222-13-off63" type="offenceSubcategory" value="burglary"></interp>
+               Breaking open the House of 
+                     
+                        <persName id="t16880222-13-victim71" type="victimName">
+                           Thomas 
+                           Merrit
+                        <interp inst="t16880222-13-victim71" type="surname" value="Merrit"></interp>
+                        <interp inst="t16880222-13-victim71" type="given" value="Thomas"></interp>
+                        <interp inst="t16880222-13-victim71" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880222-13-off63 t16880222-13-victim71"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16880222-13-cd64" type="crimeDate">31st. of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880222-13-off63 t16880222-13-cd64"></join> last, between the Hours of Ten and One in the Night of the same day, and stealing thence one Silver Candle-Cup, value 40 s. two Silver Spoons, value 20 s. one Amber Necklace, value 14 s. three pair of Sleeves, value 8 s. Thirty six pound of Beef, value 8 s. and five shillings in Money
+            </rs>. The main Evidence against them was the Prosecutor's wife, who deposed, that Browne came into her House in the Night and Broke open a Trunk, out of which he took the fore-mentioned goods; but little of Evidence appearing against his Wife or the other, they were <rs id="t16880222-13-verdict65" type="verdictDescription">
+                     <interp inst="t16880222-13-verdict65" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and 
+               <persName id="t16880222-13-person72">
+                  Robert 
+                  Browne
+               <interp inst="t16880222-13-person72" type="surname" value="Browne"></interp>
+                     <interp inst="t16880222-13-person72" type="given" value="Robert"></interp>
+                     <interp inst="t16880222-13-person72" type="gender" value="male"></interp>
+                  </persName>
+             was brought in <rs id="t16880222-13-verdict66" type="verdictDescription">
+                     <interp inst="t16880222-13-verdict66" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880222-13-verdict66" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t16880222-13-punish67" type="punishmentDescription">
+                     <interp inst="t16880222-13-punish67" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880222-13-defend65 t16880222-13-punish67"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

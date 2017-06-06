@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17280717-22">
+               <interp inst="t17280717-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17280717-22" type="year" value="1728"></interp>
+               <interp inst="t17280717-22" type="uri" value="sessionsPapers/17280717"></interp>
+               <interp inst="t17280717-22" type="date" value="17280717"></interp>
+               <join result="criminalCharge" id="t17280717-22-off103-c107" targOrder="Y" targets="t17280717-22-defend127 t17280717-22-off103 t17280717-22-verdict106"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17280717-22-defend127" type="defendantName">
+                     Thomas 
+                     Pearce 
+                  <interp inst="t17280717-22-defend127" type="surname" value="Pearce"></interp>
+                     <interp inst="t17280717-22-defend127" type="given" value="Thomas"></interp>
+                     <interp inst="t17280717-22-defend127" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17280717-22-defloc102">St. Bride's</placeName>
+                  <interp inst="t17280717-22-defloc102" type="placeName" value="St. Bride's"></interp>
+                  <interp inst="t17280717-22-defloc102" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17280717-22-defend127 t17280717-22-defloc102"></join>, was indicted for <rs id="t17280717-22-off103" type="offenceDescription">
+                     <interp inst="t17280717-22-off103" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17280717-22-off103" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a Silk Handkerchief, value 18 d. from the Person of 
+                     
+                        <persName id="t17280717-22-victim129" type="victimName">
+                           James 
+                           Butler 
+                        <interp inst="t17280717-22-victim129" type="surname" value="Butler"></interp>
+                        <interp inst="t17280717-22-victim129" type="given" value="James"></interp>
+                        <interp inst="t17280717-22-victim129" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17280717-22-off103 t17280717-22-victim129"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, on the <rs id="t17280717-22-cd104" type="crimeDate">9th Day of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17280717-22-off103 t17280717-22-cd104"></join> last.</p>
+               <p>The Prosecutor depos'd, That it being about 10 o'Clock at Night, as he was coming over <placeName id="t17280717-22-crimeloc105">London Bridge</placeName>
+                  <interp inst="t17280717-22-crimeloc105" type="placeName" value="London Bridge"></interp>
+                  <interp inst="t17280717-22-crimeloc105" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17280717-22-off103 t17280717-22-crimeloc105"></join>, there was a great Mob, and running amongst the rest to see what was the Matter, felt his Handkerchief slip out of his Pocket, when immediately he caught hold of the Prisoner's Hand, which had the Handkerchief in it: This being very plain, the Jury found him <rs id="t17280717-22-verdict106" type="verdictDescription">
+                     <interp inst="t17280717-22-verdict106" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17280717-22-verdict106" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17280717-22-punish107" type="punishmentDescription">
+                     <interp inst="t17280717-22-punish107" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17280717-22-defend127 t17280717-22-punish107"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

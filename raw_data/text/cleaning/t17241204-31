@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17241204-31">
+               <interp inst="t17241204-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17241204-31" type="year" value="1724"></interp>
+               <interp inst="t17241204-31" type="uri" value="sessionsPapers/17241204"></interp>
+               <interp inst="t17241204-31" type="date" value="17241204"></interp>
+               <join result="criminalCharge" id="t17241204-31-off172-c133" targOrder="Y" targets="t17241204-31-defend180 t17241204-31-off172 t17241204-31-verdict174"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17241204-31-defend180" type="defendantName">
+                     Ann 
+                     Allington , alias <rs id="t17241204-31-alias-14" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17241204-31-defend180 t17241204-31-alias-14"></join>Aldrington</rs>
+                     <interp inst="t17241204-31-defend180" type="surname" value="Allington"></interp>
+                     <interp inst="t17241204-31-defend180" type="given" value="Ann"></interp>
+                     <interp inst="t17241204-31-defend180" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17241204-31-defloc171">S. Giles's in the Fields</placeName>
+                  <interp inst="t17241204-31-defloc171" type="placeName" value="S. Giles's in the Fields"></interp>
+                  <interp inst="t17241204-31-defloc171" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17241204-31-defend180 t17241204-31-defloc171"></join>, was indicted for <rs id="t17241204-31-off172" type="offenceDescription">
+                     <interp inst="t17241204-31-off172" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17241204-31-off172" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Hoop-Petticoat, value 3 s. 6 d .
+            </rs> the Goods of 
+               
+                  <persName id="t17241204-31-victim182" type="victimName">
+                     Tho.
+                      Farmer
+                  <interp inst="t17241204-31-victim182" type="surname" value="Farmer"></interp>
+                     <interp inst="t17241204-31-victim182" type="given" value="Tho."></interp>
+                     <interp inst="t17241204-31-victim182" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17241204-31-off172 t17241204-31-victim182"></join>
+                  </persName>
+               
+             on the <rs id="t17241204-31-cd173" type="crimeDate">10th of Nov.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17241204-31-off172 t17241204-31-cd173"></join> last. It appeared that the Prisoner worked at the Prosecutor's Shop, took away the Petticoat, and was stopt in offering it to Sale. <rs id="t17241204-31-verdict174" type="verdictDescription">
+                     <interp inst="t17241204-31-verdict174" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17241204-31-verdict174" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17241204-31-punish175" type="punishmentDescription">
+                     <interp inst="t17241204-31-punish175" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17241204-31-defend180 t17241204-31-punish175"></join>
+               Transportation
+            </rs>
+               </p>
+            </div1>

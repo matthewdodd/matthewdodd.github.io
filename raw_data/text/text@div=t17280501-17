@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17280501-17">
+               <interp inst="t17280501-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17280501-17" type="year" value="1728"></interp>
+               <interp inst="t17280501-17" type="uri" value="sessionsPapers/17280501"></interp>
+               <interp inst="t17280501-17" type="date" value="17280501"></interp>
+               <join result="criminalCharge" id="t17280501-17-off91-c101" targOrder="Y" targets="t17280501-17-defend134 t17280501-17-off91 t17280501-17-verdict93"></join>
+               <join result="criminalCharge" id="t17280501-17-off91-c102" targOrder="Y" targets="t17280501-17-defend136 t17280501-17-off91 t17280501-17-verdict92"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17280501-17-defend134" type="defendantName">
+                     Elizabeth 
+                     Waters 
+                  <interp inst="t17280501-17-defend134" type="surname" value="Waters"></interp>
+                     <interp inst="t17280501-17-defend134" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17280501-17-defend134" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17280501-17-defend136" type="defendantName">
+                     Thomas 
+                     Yellop 
+                  <interp inst="t17280501-17-defend136" type="surname" value="Yellop"></interp>
+                     <interp inst="t17280501-17-defend136" type="given" value="Thomas"></interp>
+                     <interp inst="t17280501-17-defend136" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17280501-17-defloc90">St. Andrew's Holborn</placeName>
+                  <interp inst="t17280501-17-defloc90" type="placeName" value="St. Andrew's Holborn"></interp>
+                  <interp inst="t17280501-17-defloc90" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17280501-17-defend134 t17280501-17-defloc90"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17280501-17-defend136 t17280501-17-defloc90"></join>, were indicted for <rs id="t17280501-17-off91" type="offenceDescription">
+                     <interp inst="t17280501-17-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17280501-17-off91" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing two Pair of Velvet Breeches, and other Goods
+            </rs>, the Property of 
+               <persName id="t17280501-17-victim137" type="victimName">
+                  Moses 
+                  Kendale 
+               <interp inst="t17280501-17-victim137" type="surname" value="Kendale"></interp>
+                     <interp inst="t17280501-17-victim137" type="given" value="Moses"></interp>
+                     <interp inst="t17280501-17-victim137" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17280501-17-off91 t17280501-17-victim137"></join>
+                  </persName>
+              and other Persons. The Fact appearing plain upon Yellop, he was found <rs id="t17280501-17-verdict92" type="verdictDescription">
+                     <interp inst="t17280501-17-verdict92" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17280501-17-verdict92" type="verdictSubcategory" value="theftunder40s"></interp>
+               guilty to the Value of 39 s
+            </rs> but Elizabeth Waters was <rs id="t17280501-17-verdict93" type="verdictDescription">
+                     <interp inst="t17280501-17-verdict93" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17280501-17-punish94" type="punishmentDescription">
+                     <interp inst="t17280501-17-punish94" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17280501-17-defend136 t17280501-17-punish94"></join>
+               
+                     <note>Transportation. See summary</note>
+               
+                  </rs>
+               </p>
+            </div1>
