@@ -1,0 +1,79 @@
+@font-face {
+    font-family: headerFont;
+    src: url("/sgt_gorila.ttf");
+}
+body {
+}
+h1 {
+	font-family: headerFont;
+	font-size: 2em;
+	padding: 0.5px;
+}
+div.header {
+	height: 150px;
+	line-height: 200px;
+	border-bottom: solid #2d64db 1px;
+	padding: 0.5px;
+	background-color: #BEBEBE;
+}
+div.content {
+	margin-left: 80px;
+	padding: 40px;
+}
+div.footer {
+	float: bottom;
+	border-top: solid #2d64db 1px;
+	text-align: left;
+	margin-bottom: 5px;
+	bottom: 0;
+}
+img {
+	margin-left: 10%;
+}
+a.headerLeft {
+	margin-top: -10px;
+	margin-left: 30%;
+}
+a.headerRight {
+	margin-top: -10px;
+	margin-left: 10%;
+}
+span {
+	display: inline-block;
+	vertical-align: center;
+	line-height: normal;
+}
+p.script {
+    font-family: "Arial", Arial, sans-serif;
+	margin-left: 80px;
+	border-top: solid rgb(150, 150, 150) 5px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(150, 150, 150);
+	color: black;
+    width: 850px;
+    border-radius: 5px 5px 0px 0px;
+}
+p.script2 {
+	margin-top: -18px;
+    font-family: "Courier New", Courier, serif;
+	margin-left: 80px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(1,36,86);
+	color: white;
+    width: 850px;
+    border-radius: 0px 0px 5px 5px;
+}
+p.script3 {
+	margin-top: -18px;
+    font-family: "Courier New", Courier, serif;
+	margin-left: 80px;
+	border-bottom: solid rgb(150, 150, 150) 5px;
+    border-left: solid rgb(150, 150, 150) 5px;
+    border-right: solid rgb(150, 150, 150) 5px;
+	background-color: rgb(1,36,86);
+	color: white;
+    width: 850px;
+    border-radius: 0px 0px 5px 5px;
+}
