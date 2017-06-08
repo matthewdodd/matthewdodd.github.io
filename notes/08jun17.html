@@ -1,0 +1,17 @@
+<html>
+<title>Dealing with the Data</title>
+<head>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<p align=right>Return <a href="/notes/notes.html">Home</a></p>
+<h2>08 June 2017 - Dealing with the Data</h2>
+<ul>
+	<li>The XML that these cases are formatted with is actually kind of a pain to work with. It's ridiculously detailed, and while this appears at first to be a good thing, it's quickly becoming a nuisance.</li>
+	<li>How do I actually work with all of this? I'm beginning with the assumption that I'll need to get this XML data into some form of database and I think I'll go with MySQL/MariaDB on a linux distribution, probably Ubuntu.</li>
+	<li>I've made some progress on figuring out exactly what data I really care about for loading into a database and it ebgins with loading in a primary reference table which has the unique ID from which I can join every other table.</li>
+	<li>From here I'm going to try and load in people's information: their names, what they are in a trial (victim, accused, etc.), and occupation if I can find it.</li>
+	<li>The next biggest/most critical aspect of all of this is to actually map it all out. There's already one working way of doing this provided by the same researchers that built The Old Bailey: <a href='https://www.locatinglondon.org/'>Locating London</a>.</li>
+	<li>But this tool only maps out the first 2000 hits. It claims that it has some 13,000 locations, so I'd like to get them all mapped out if possible.</li>
+	<li>Furthermore, the tool only gives rough information. To get any more you have to go back to the Old Bailey. I'd like to get all of the data a little more cleanly loaded together for my purposes.</li>
+</ul>
+</html>
