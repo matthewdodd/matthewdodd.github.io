@@ -16,7 +16,7 @@
 	<p class="script3">mysql></p>
 	<li>I then ran the import against a single file just to test that it would function as I expected:</li>
 	<p class="script">matt@matt-VirtualBox: ~</p>
-	<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/Documents/t18170416-51' INTO TABLE prime ROWS IDENTIFIED BY "\<interp\>";</span></p>
+	<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/Documents/t18170416-51' INTO TABLE prime ROWS IDENTIFIED BY '\<interp\>';</span></p>
 	<p class="script2">Query OK, 10 rows affected (0.07 sec)</p>
 	<p class="script2">Records: 10  Deleted: 0  Skipped: 0  Warnings: 0)</p>
 	<p class="script2"><br /></p>
@@ -48,7 +48,7 @@
 		</ul>
 		<li>This import had the following result:</li>
 			<p class="script">matt@matt-VirtualBox: ~</p>
-			<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/hold/full.xml' INTO TABLE prime ROWS IDENTIFIED BY "\<interp\>";</span></p>
+			<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/hold/full.xml' INTO TABLE prime ROWS IDENTIFIED BY '\<interp\>';</span></p>
 			<p class="script2">Query OK, 1132794 rows affected (12.83 sec)</p>
 			<p class="script2">Records: 1132794  Deleted: 0  Skipped: 0  Warnings: 0</p>
 			<p class="script2"><br /></p>
