@@ -8,5 +8,37 @@
 <ul>
 	<li>The first step is to actually begin building the database. I chose to user MySql on Linux (Ubuntu 16.04 LTS) as it has a built in XML Loader.</li>
 	<li>I used <a href="https://www.linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04">Linode's creation document</a> as my starting place and created the database <span style="font-family: Courier, serif;">'ma_public'</span> with a default user <span style="font-family: Courier, serif;">'doddm'</span>.</li>
+	<li>It seems that the best way forward is to create a base table just to get the data loaded in and from there manipulate it/massage it/normalize it.</li>
+	<li>To do this I created a table as the following:</li>
+	<p class="script">matt@matt-VirtualBox: ~</p>
+	<p class="script2">mysql> <span style="color: yellow">create table prime(inst varchar(100), type varchar(100), value varchar(100));</span></p>
+	<p class="script2">Query OK, 0 rows affected (0.09 sec)</p>
+	<p class="script3">mysql></p>
+	<li>I then ran the import against a single file just to test that it would function as I expected:</li>
+	<p class="script">matt@matt-VirtualBox: ~</p>
+	<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/Documents/t18170416-51'</span></p>
+	<p class="script2">    -> <span style="color: yellow">INTO TABLE prime</span></p>
+	<p class="script2">    -> <span style="color: yellow">ROWS IDENTIFIED BY '<interp>';</span></p>
+	<p class="script2">Query OK, 10 rows affected (0.07 sec)</p>
+	<p class="script2">Records: 10  Deleted: 0  Skipped: 0  Warnings: 0)</p>
+	<p class="script2"><br /></p>
+	<p class="script2">mysql> <span style="color: yellow">select * from prime;</span></p>
+	<p class="script2">+-------------------------+--------------------+-------------------------+</p>
+	<p class="script2">| inst                    | type               | value                   |</p>
+	<p class="script2">+-------------------------+--------------------+-------------------------+</p>
+	<p class="script2">| t18170416-51            | collection         | BAILEY                  |</p>
+	<p class="script2">| t18170416-51            | year               | 1817                    |</p>
+	<p class="script2">| t18170416-51            | uri                | sessionsPapers/18170416 |</p>
+	<p class="script2">| t18170416-51            | date               | 18170416                |</p>
+	<p class="script2">| t18170416-51-defend423  | surname            | JACOBSON                |</p>
+	<p class="script2">| t18170416-51-defend423  | given              | NESSEN                  |</p>
+	<p class="script2">| t18170416-51-defend423  | gender             | male                    |</p>
+	<p class="script2">| t18170416-51-verdict267 | verdictCategory    | guilty                  |</p>
+	<p class="script2">| t18170416-51-verdict267 | verdictSubcategory | pleadedGuilty           |</p>
+	<p class="script2">| t18170416-51-punish268  | punishmentCategory | transport               |</p>
+	<p class="script2">+-------------------------+--------------------+-------------------------+</p>
+	<p class="script2">10 rows in set (0.00 sec)</p>
+	<p class="script2"><br /></p>
+	<p class="script3">mysql></p>
 </ul>
 </html>
