@@ -1,0 +1,41 @@
+create database ma_public;
+grant all on ma_public.* to 'doddm' identified by '';
+
+create table key_table(type varchar(100), id varchar(100));
+create table prime(inst varchar(100), type varchar(100), value varchar(150));
+
+/home/matt/Desktop/share
+
+LOAD XML LOCAL INFILE '/home/matt/Desktop/share/cleaning/combine_interp.xml' INTO TABLE prime ROWS IDENTIFIED BY '<interp>';
+
+LOAD XML LOCAL INFILE '/home/matt/Desktop/share/cleaning/combine_divl.xml' INTO TABLE key_table ROWS IDENTIFIED BY '<divl>';
+
+create table subprime(first_inst varchar(100), second_inst varchar(100), inst varchar(100), type varchar(100), value varchar(150)) as (select * from prime where inst not like 't%');
+
+update subprime s set s.first_inst = substring_index(s.inst, '-', '-1');
+update subprime s set s.second_inst = substring_index(substring_index(s.inst, '-', '-2'), '-', '1');
+
+alter table subprime add column id varchar(100);
+alter table subprime add column third_inst varchar(100);
+
+update subprime s set s.third_inst = substring_index(s.inst, '-', '1');
+
+update subprime s set s.id = CONCAT('t',s.first_inst,'-',s.second_inst,'-',s.third_inst);
+
+SELECT k.id AS PRIMARY_ID
+      ,(SELECT CONCAT(SUBSTRING(p.value, 5, 2),'/',SUBSTRING(p.value, 7, 2),'/',SUBSTRING(p.value, 1, 4))
+        FROM prime p
+        WHERE p.type = 'date' 
+          AND p.inst = pr.inst) AS DATE
+      ,(SELECT p.value
+        FROM prime p
+        WHERE p.type = 'given' 
+          AND p.inst = pr.inst) AS GIVEN_NAME
+	  ,(SELECT p.value
+        FROM prime p
+        WHERE p.type = 'surname' 
+          AND p.inst = pr.inst) AS SURNAME
+FROM key_table k
+    ,prime pr
+WHERE k.id LIKE pr.inst
+ORDER BY 1,2
