@@ -1,6 +1,8 @@
 create database ma_public;
 grant all on ma_public.* to 'doddm' identified by '';
 
+use ma_public;
+
 create table key_table(type varchar(100), id varchar(100));
 create table prime(inst varchar(100), type varchar(100), value varchar(150));
 
