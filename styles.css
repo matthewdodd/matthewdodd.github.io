@@ -54,6 +54,10 @@ span {
 	display: inline-block;
 	line-height: normal;
 }
+p.sql {
+	margin-left: 80px;
+	font-style: italic;
+}
 p.script {
     font-family: "Arial", Arial, sans-serif;
 	margin-left: 80px;

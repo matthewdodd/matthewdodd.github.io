@@ -1,0 +1,46 @@
+<html>
+<title>Building a Database from XML</title>
+<head>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<p align=right>Return <a href="/notes/notes.html">Home</a></p>
+<h2>13 June 2017 - Building a Database from XML</h2>
+<ul>
+	<li>I began to just see if it was possible to load the xml with a little bit of cleanup. This is what I ran (basically):</li>
+	<p class="script">matt@matt-VirtualBox: ~</p>
+	<p class="script2">mysql> <span style="color: yellow">create database ma_public;</span></p>
+	<p class="script2">mysql> <span style="color: yellow">grant all on ma_public.* to 'doddm' identified by '';</span></p>
+	<p class="script2">mysql> <span style="color: yellow">use ma_public;</span></p>
+	<p class="script2">mysql> <span style="color: yellow">create table key_table(type varchar(100), id varchar(100));</span></p>
+	<p class="script2">mysql> <span style="color: yellow">create table prime(inst varchar(100), type varchar(100), value varchar(150));</span></p>
+	<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/Desktop/share/cleaning/combine_interp.xml' INTO TABLE prime ROWS IDENTIFIED BY '\<\interp\>\';</span></p>
+	<p class="script2">mysql> <span style="color: yellow">LOAD XML LOCAL INFILE '/home/matt/Desktop/share/cleaning/combine_divl.xml' INTO TABLE key_table ROWS IDENTIFIED BY '\<\divl\>\';</span></p>
+	<p class="script2">mysql> <span style="color: yellow">create table subprime(first_inst varchar(100), second_inst varchar(100), inst varchar(100), type varchar(100), value varchar(150)) as (select * from prime where inst not like 't%');</span></p>
+	<p class="script2">mysql> <span style="color: yellow">update subprime s set s.first_inst = substring_index(s.inst, '-', '-1');</span></p>
+	<p class="script2">mysql> <span style="color: yellow">update subprime s set s.second_inst = substring_index(substring_index(s.inst, '-', '-2'), '-', '1');</span></p>
+	<p class="script2">mysql> <span style="color: yellow">alter table subprime add column id varchar(100);</span></p>
+	<p class="script2">mysql> <span style="color: yellow">alter table subprime add column third_inst varchar(100);</span></p>
+	<p class="script2">mysql> <span style="color: yellow">update subprime s set s.third_inst = substring_index(s.inst, '-', '1');</span></p>
+	<p class="script2">mysql> <span style="color: yellow">update subprime s set s.id = CONCAT('t',s.first_inst,'-',s.second_inst,'-',s.third_inst);</span></p>
+	<p class="script2"><br /></p>
+	<p class="script3">mysql></p>
+	<li>As a way to try and connect the different tables and deal with the primary/foreign keys I developed the following select statement, however I haven't tried to run it as of yet.</li>
+<p class="sql">SELECT k.id AS PRIMARY_ID</p>
+<p class="sql">      ,(SELECT CONCAT(SUBSTRING(p.value, 5, 2),'/',SUBSTRING(p.value, 7, 2),'/',SUBSTRING(p.value, 1, 4))</p>
+<p class="sql">        FROM prime p</p>
+<p class="sql">        WHERE p.type = 'date' </p>
+<p class="sql">          AND p.inst = pr.inst) AS DATE</p>
+<p class="sql">      ,(SELECT p.value</p>
+<p class="sql">        FROM prime p</p>
+<p class="sql">        WHERE p.type = 'given' </p>
+<p class="sql">          AND p.inst = pr.inst) AS GIVEN_NAME</p>
+<p class="sql">	  ,(SELECT p.value</p>
+<p class="sql">        FROM prime p</p>
+<p class="sql">        WHERE p.type = 'surname' </p>
+<p class="sql">          AND p.inst = pr.inst) AS SURNAME</p>
+<p class="sql">FROM key_table k</p>
+<p class="sql">    ,prime pr</p>
+<p class="sql">WHERE k.id LIKE pr.inst</p>
+<p class="sql">ORDER BY 1,2;</p>
+</ul>
+</html>
