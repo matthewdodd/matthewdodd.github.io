@@ -1,5 +1,5 @@
 load data
-infile C:\Users\doddm\Documents\Personal\git\xml\combine_interp.csv
+infile 'Z:\Temp\dodd\combine_interp.csv'
 into table dodd.interp
-fields terminated by ','
+fields terminated by ',' optionally enclosed by '"'
 (ID,TYPE,VALUE)
