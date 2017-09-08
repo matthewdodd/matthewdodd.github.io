@@ -1,0 +1,27 @@
+<html>
+<title>Fixing Bad Data</title>
+<head>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<p align=right>Return <a href="/notes/notes.html">Home</a></p>
+<h2>08 September 2017 - Fixing Bad Data</h2>
+<ul>
+	<li>After somewhere in the relam of 20+ hours all of the data was loaded. This time into an Oracle Database. I chose Oracle (this time) for a few reasons:</li>
+	<ul>
+		<li>I have the greatest familiarilty with Oracle databases over any other SQL database system.</li>
+		<li>I have access to Oracle databases at school, home, and work (giving me the wiggle room/free time to actually do some of this work).</li>
+		<li>Oracle's system is robust, fast, recoverable, and powerful.</li>
+	</ul>
+	<li>The CSV files should be uploaded at some point that correspond to all of the normalized tables, and a Datapump Export file will be inlcuded along with a control/parameter file.</li>
+	<li>At this point it was becoming increasingly obvious that there was bad data in the mix.</li>
+	<li>This data was ages, places, occupations, names, etc. It would have to be cleaned. Thankfully there wasn't much bad data. Only 175 rows contained bad ages (words or approximations).</li>
+	<li>To deal with these cases I performed manual intervention:</li>
+	<ul>
+		<li>If there were three or more numbers they were averaged.</li>
+		<li>If there were two numbers the greater was used.</li>
+		<li>If it was phrased as: "upwards of 70", then "70" was used.</li>
+		<li>If it was phrased as: "will be 13 in July", then "13" was used.</li>
+	</ul>
+	<li>I attempted to be as commonsense as I could be with the caveat that ages should be numerical and so forth. I've recorded all times in which I've had to manipulate data.</li>
+</ul>
+</html>
