@@ -1,0 +1,22 @@
+<html>
+<title>Place Names to GeoData</title>
+<head>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<p align=right>Return <a href="/notes/notes.html">Home</a></p>
+<h2>15 September 2017 - Place Names to GeoData</h2>
+<ul>
+	<li>Data isn't clean. It isn't messy. It doesn't just exist. And it most certainly isn't without its prejudices, biases, perspectives, or other affectations.</li>
+	<li>But this doesn't mean it can't be used, manipulated, or trusted to find some sort of semblance of reliability.</li>
+	<li>To do this I began with the only part of the data that wasn't really complete: the location of the crimes/defendent homes.</li>
+	<li>These place names were incredibly useful from a human perspective on understanding the actual places and how people recorded those places.</li>
+	<li>But they were beyond useless when it came to actually mapping things. Computers just don't get the plain english names.</li>
+	<li>Computers do, however, get geodata. So, logically, I had to take this <i>string</i> data and convert it to <i>geo</i> data.</li>
+	<li>I'd used <a href="http://nominatim.openstreetmap.org/">Nominatum</a> before and started there. But of c ourse, I have usage limits if I don't want to pay. And I don't.</li>
+	<li>So I went searching and found a Nominatum based Geocoding website called <a href="https://geocoder.opencagedata.com/">OpenCage Geocoder</a> which had a free tier (limited to 2500 requests/day).</li>
+	<li>This would mean some twelve (12) days to get all the geodata converted, but at least it would be legal and I could trust the data (at least as far as getting it into a mapping visualization).</li>
+	<li>I used the API and key from when I signed up (and the key has been scrubbed from my uploads, can't be giving that out) and used Python to do the work for me.</li>
+	<li>Of course, I've hit the daily rate limit, but the nice thing is: it just errors out and tells you exactly that. No need to feel dumb because of any error. I only fear that it didn't write to the file....</li>
+	<li>It writes it out with every record, no loss at all. Well, that's fantastic. Looks like I should have the data before ther end of September. Now to think about how I'm actually going to write all of this...</li>
+</ul>
+</html>
