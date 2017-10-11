@@ -1,0 +1,6 @@
+$ git lfs install
+$ git lfs track "*.tif"
+$ git lfs track "*.tiff"
+$ git lfs track "*.TIF"
+$ git lfs track "*.TIFF"
+$ git config http.sslverify false
