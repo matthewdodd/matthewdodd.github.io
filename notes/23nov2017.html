@@ -1,0 +1,35 @@
+with x as 
+(select p.id
+      ,(select max(pc_c.place_name)
+        from dodd.place_corrected pc_c
+        where pc_c.correct_prim_id = pc.correct_prim_id
+        and pc_c.correct_prim_id = p.id
+        and pc_c.place_type = 'crimeLocation') as CRIME_LOCATION
+      ,(select pc_c_2.latitude||','||pc_c_2.longitude
+        from dodd.place_corrected pc_c_2
+        where pc_c_2.correct_prim_id = pc.correct_prim_id
+        and pc_c_2.correct_prim_id = p.id
+        and pc_c_2.place_type = 'crimeLocation'
+        FETCH FIRST 1 ROWS ONLY) as CRIME_LATLONG
+      ,(select max(pc_d.place_name)
+        from dodd.place_corrected pc_d
+        where pc_d.correct_prim_id = pc.correct_prim_id
+        and pc_d.correct_prim_id = p.id
+        and pc_d.place_type = 'defendantHome') as DEFENDANT_HOME
+      ,(select pc_d_2.latitude||','||pc_d_2.longitude
+        from dodd.place_corrected pc_d_2
+        where pc_d_2.correct_prim_id = pc.correct_prim_id
+        and pc_d_2.correct_prim_id = p.id
+        and pc_d_2.place_type = 'defendantHome'
+        FETCH FIRST 1 ROWS ONLY) as DEFENDANT_HOME_LATLONG
+from dodd.primary p
+left outer join dodd.place_corrected pc on pc.correct_prim_id = p.id
+order by 1),
+gr as
+(select distinct x.*
+from x
+)
+select gr.*
+from gr
+where gr.crime_latlong is not null
+and gr.defendant_home_latlong is not null
