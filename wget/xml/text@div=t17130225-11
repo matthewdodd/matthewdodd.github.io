@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17130225-11">
+               <interp inst="t17130225-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17130225-11" type="year" value="1713"></interp>
+               <interp inst="t17130225-11" type="uri" value="sessionsPapers/17130225"></interp>
+               <interp inst="t17130225-11" type="date" value="17130225"></interp>
+               <join result="criminalCharge" id="t17130225-11-off48-c50" targOrder="Y" targets="t17130225-11-defend72 t17130225-11-off48 t17130225-11-verdict50"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17130225-11-defend72" type="defendantName">
+                     Elizabeth 
+                     Stiles
+                  <interp inst="t17130225-11-defend72" type="surname" value="Stiles"></interp>
+                     <interp inst="t17130225-11-defend72" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17130225-11-defend72" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17130225-11-off48" type="offenceDescription">
+                     <interp inst="t17130225-11-off48" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17130225-11-off48" type="offenceSubcategory" value="grandLarceny"></interp>
+               robbing her Master, <rs id="t17130225-11-viclabel49" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17130225-11-victim73 t17130225-11-viclabel49"></join> 
+                  
+                     <persName id="t17130225-11-victim73" type="victimName">
+                        Samuel 
+                        Walters
+                     <interp inst="t17130225-11-victim73" type="surname" value="Walters"></interp>
+                        <interp inst="t17130225-11-victim73" type="given" value="Samuel"></interp>
+                        <interp inst="t17130225-11-victim73" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17130225-11-off48 t17130225-11-victim73"></join>
+                     </persName>
+                   of Plate to a considerable Value
+            </rs>. To which she <rs id="t17130225-11-verdict50" type="verdictDescription">
+                     <interp inst="t17130225-11-verdict50" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17130225-11-verdict50" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17130225-11-punish51" type="punishmentDescription">
+                     <interp inst="t17130225-11-punish51" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17130225-11-punish51" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17130225-11-defend72 t17130225-11-punish51"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

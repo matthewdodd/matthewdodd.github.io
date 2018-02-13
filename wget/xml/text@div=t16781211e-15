@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16781211e-15">
+               <interp inst="t16781211e-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16781211e-15" type="year" value="1678"></interp>
+               <interp inst="t16781211e-15" type="uri" value="sessionsPapers/16781211E"></interp>
+               <interp inst="t16781211e-15" type="date" value="16781211"></interp>
+               <join result="criminalCharge" id="t16781211e-15-off73-c49" targOrder="Y" targets="t16781211e-15-defend49 t16781211e-15-off73 t16781211e-15-verdict75"></join>
+               <join result="criminalCharge" id="t16781211e-15-off73-c50" targOrder="Y" targets="t16781211e-15-defend50 t16781211e-15-off73 t16781211e-15-verdict75"></join>
+         
+               <p>9. 
+               <persName id="t16781211e-15-defend49" type="defendantName">
+                  John 
+                  Johnson
+               <interp inst="t16781211e-15-defend49" type="surname" value="Johnson"></interp>
+                     <interp inst="t16781211e-15-defend49" type="given" value="John"></interp>
+                     <interp inst="t16781211e-15-defend49" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16781211e-15-defend50" type="defendantName">
+                  Thomas 
+                  Johnson
+               <interp inst="t16781211e-15-defend50" type="surname" value="Johnson"></interp>
+                     <interp inst="t16781211e-15-defend50" type="given" value="Thomas"></interp>
+                     <interp inst="t16781211e-15-defend50" type="gender" value="male"></interp>
+                  </persName>
+             Indicted, for <rs id="t16781211e-15-off73" type="offenceDescription">
+                     <interp inst="t16781211e-15-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16781211e-15-off73" type="offenceSubcategory" value="theftFromPlace"></interp>
+               taking away 950 l. weight of Lead from off the Parish Church of Stepney, being thereto fastned
+            </rs>. To this Trespass they pleaded Not Guilty, and put themselves upon the Countrey.</p>
+               <p>Thomas and John Johnson Indicted for the unlawful taking the Lead off from <placeName id="t16781211e-15-crimeloc74">Stepney-Church</placeName>
+                  <interp inst="t16781211e-15-crimeloc74" type="placeName" value="Stepney-Church"></interp>
+                  <interp inst="t16781211e-15-crimeloc74" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16781211e-15-off73 t16781211e-15-crimeloc74"></join>; the Evidence was this:</p>
+               <p>Knight, a Head-borough, was with his Watch going the round, saw a Ladder standing on the side of the Church, and enquiring of the Clerk and the Sexton whether it were there by their Order, found it was not; and therefore taking away the Ladder, got up another way to the top of the Leads. But at the side of the wall, they found three parcels of Lead rolled up, and which was thrown down. When they came up, they found these two men there; being asked what they did there at that time, all they would answer, was, It was their fortune to be there. But going onward, they found some more parcels of Lead, which they acknowledged they had cut up with a knife; the whole was about 950 l. weight, but none was removed away. They said the Ladder was theirs, which was afterwards found to be another mans, and not left by him neither.</p>
+               <p>The Prisoners said, They heard a noise on the top of the Church, and went up to see what was the matter; but before they could go down, the Watch had taken away the Ladder: and they denied the taking away of the Lead. The Court left it to the Jury upon the Evidence.</p>
+               <p>That Thomas and John Johnson, are <rs id="t16781211e-15-verdict75" type="verdictDescription">
+                     <interp inst="t16781211e-15-verdict75" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Trespass, in taking away the Lead from Stepney Church.</p>
+               <p>
+                  <rs id="t16781211e-15-punish76" type="punishmentDescription">
+                     <interp inst="t16781211e-15-punish76" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16781211e-15-punish76" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16781211e-15-defend49 t16781211e-15-punish76"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16781211e-15-defend50 t16781211e-15-punish76"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

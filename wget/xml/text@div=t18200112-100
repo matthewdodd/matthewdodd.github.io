@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18200112-100">
+               <interp inst="t18200112-100" type="collection" value="BAILEY"></interp>
+               <interp inst="t18200112-100" type="year" value="1820"></interp>
+               <interp inst="t18200112-100" type="uri" value="sessionsPapers/18200112"></interp>
+               <interp inst="t18200112-100" type="date" value="18200112"></interp>
+               <join result="criminalCharge" id="t18200112-100-off555-c743" targOrder="Y" targets="t18200112-100-defend1004 t18200112-100-off555 t18200112-100-verdict560"></join>
+         
+               <p>309. 
+               
+                  <persName id="t18200112-100-defend1004" type="defendantName">
+                     WILLIAM 
+                     SMITH
+                  <interp inst="t18200112-100-defend1004" type="surname" value="SMITH"></interp>
+                     <interp inst="t18200112-100-defend1004" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18200112-100-defend1004" type="gender" value="male"></interp>
+                     <interp inst="t18200112-100-defend1004" type="age" value="27"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18200112-100-off555" type="offenceDescription">
+                     <interp inst="t18200112-100-off555" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18200112-100-off555" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18200112-100-cd556" type="crimeDate">6th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18200112-100-off555 t18200112-100-cd556"></join>, one bedstead, value 30 s.
+            </rs>, the goods of 
+               
+                  <persName id="t18200112-100-victim1006" type="victimName">
+                     Richard 
+                     Bentley
+                  <interp inst="t18200112-100-victim1006" type="surname" value="Bentley"></interp>
+                     <interp inst="t18200112-100-victim1006" type="given" value="Richard"></interp>
+                     <interp inst="t18200112-100-victim1006" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18200112-100-off555 t18200112-100-victim1006"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18200112-100-person1007">
+                  RICHARD 
+                  BENTLEY
+               <interp inst="t18200112-100-person1007" type="surname" value="BENTLEY"></interp>
+                     <interp inst="t18200112-100-person1007" type="given" value="RICHARD"></interp>
+                     <interp inst="t18200112-100-person1007" type="gender" value="male"></interp>
+                  </persName>
+            . I am an <rs id="t18200112-100-viclabel557" type="occupation">upholder</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18200112-100-victim1006 t18200112-100-viclabel557"></join>, and live in <placeName id="t18200112-100-crimeloc558">Tottenham-court-road</placeName>
+                  <interp inst="t18200112-100-crimeloc558" type="placeName" value="Tottenham-court-road"></interp>
+                  <interp inst="t18200112-100-crimeloc558" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18200112-100-off555 t18200112-100-crimeloc558"></join>. On the 6th of December, between five and six o'clock, I was at the door, and saw the prisoner come by - he was my <rs id="t18200112-100-deflabel559" type="occupation">journeyman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18200112-100-defend1004 t18200112-100-deflabel559"></join>, but had not been at work that day - a bedstead was stolen from the shop soon after; he went to work next day. I told him I had lost a bedstead, and that he had been hanging about all day. I went with him after some bed furniture which he had lost. He took me to a woman in Pulteney-street, she said he had not got it. He then took me to the Cock, public-house - the landlord said he had brought a bedstead there, and two men sold it in Castle-street.</p>
+               <p>
+            
+                  <persName id="t18200112-100-person1008">
+                  JOHN 
+                  GRANT
+               <interp inst="t18200112-100-person1008" type="surname" value="GRANT"></interp>
+                     <interp inst="t18200112-100-person1008" type="given" value="JOHN"></interp>
+                     <interp inst="t18200112-100-person1008" type="gender" value="male"></interp>
+                  </persName>
+            . I am a furniture-broker, and live in Castle-street. I bought the bedstead of the prisoner. Bentley afterwards saw and claimed it.</p>
+               <p>Prisoner's Defence. Another man asked me to sell it.</p>
+               <p>
+                  <rs id="t18200112-100-verdict560" type="verdictDescription">
+                     <interp inst="t18200112-100-verdict560" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 27.</p>
+               <p>
+                  <rs id="t18200112-100-punish561" type="punishmentDescription">
+                     <interp inst="t18200112-100-punish561" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18200112-100-defend1004 t18200112-100-punish561"></join>
+               Confined One Month
+            </rs>, and <rs id="t18200112-100-punish562" type="punishmentDescription">
+                     <interp inst="t18200112-100-punish562" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18200112-100-punish562" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18200112-100-defend1004 t18200112-100-punish562"></join>
+               Whipped
+            </rs>.</p>
+               <p>Second Middlesex Jury, before Mr. Recorder.</p>
+            </div1>

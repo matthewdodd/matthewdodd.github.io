@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18290910-306">
+               <interp inst="t18290910-306" type="collection" value="BAILEY"></interp>
+               <interp inst="t18290910-306" type="year" value="1829"></interp>
+               <interp inst="t18290910-306" type="uri" value="sessionsPapers/18290910"></interp>
+               <interp inst="t18290910-306" type="date" value="18290910"></interp>
+               <join result="criminalCharge" id="t18290910-306-off1680-c2154" targOrder="Y" targets="t18290910-306-defend2852 t18290910-306-off1680 t18290910-306-verdict1684"></join>
+         
+               <p>1836. 
+               
+                  <persName id="t18290910-306-defend2852" type="defendantName">
+                     JOHN 
+                     LANE
+                  <interp inst="t18290910-306-defend2852" type="surname" value="LANE"></interp>
+                     <interp inst="t18290910-306-defend2852" type="given" value="JOHN"></interp>
+                     <interp inst="t18290910-306-defend2852" type="gender" value="male"></interp>
+                     <interp inst="t18290910-306-defend2852" type="age" value="21"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18290910-306-off1680" type="offenceDescription">
+                     <interp inst="t18290910-306-off1680" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18290910-306-off1680" type="offenceSubcategory" value="simpleLarceny"></interp>
+               stealing, on the <rs id="t18290910-306-cd1681" type="crimeDate">10th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18290910-306-off1680 t18290910-306-cd1681"></join>, 4lbs. of cheese, value 2s.
+            </rs>, the goods of 
+               
+                  <persName id="t18290910-306-victim2854" type="victimName">
+                     Thomas 
+                     Sutch
+                  <interp inst="t18290910-306-victim2854" type="surname" value="Sutch"></interp>
+                     <interp inst="t18290910-306-victim2854" type="given" value="Thomas"></interp>
+                     <interp inst="t18290910-306-victim2854" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18290910-306-off1680 t18290910-306-victim2854"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18290910-306-person2855">
+                  THOMAS 
+                  SUTCH
+               <interp inst="t18290910-306-person2855" type="surname" value="SUTCH"></interp>
+                     <interp inst="t18290910-306-person2855" type="given" value="THOMAS"></interp>
+                     <interp inst="t18290910-306-person2855" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18290910-306-viclabel1682" type="occupation">cheesemonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18290910-306-victim2854 t18290910-306-viclabel1682"></join>, and live in <placeName id="t18290910-306-crimeloc1683">West-Street, Smithfield</placeName>
+                  <interp inst="t18290910-306-crimeloc1683" type="placeName" value="West-Street, Smithfield"></interp>
+                  <interp inst="t18290910-306-crimeloc1683" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18290910-306-off1680 t18290910-306-crimeloc1683"></join>. On the 10th of September, a little after nine o'clock, my wife told me this cheese was taken; I turned, and saw the prisoner going with it out of the shop; I called him back; he came back, put it down on the step, then came in, and said he had got nothing - he had got about five or six yards from the place he had taken it from when I saw him - he begged pardon, and said he would never do so again.</p>
+               <p>
+                  <rs id="t18290910-306-verdict1684" type="verdictDescription">
+                     <interp inst="t18290910-306-verdict1684" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 21.</p>
+               <p>
+                  <rs id="t18290910-306-punish1685" type="punishmentDescription">
+                     <interp inst="t18290910-306-punish1685" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18290910-306-defend2852 t18290910-306-punish1685"></join>
+               Confined Fourteen Days
+            </rs>, and <rs id="t18290910-306-punish1686" type="punishmentDescription">
+                     <interp inst="t18290910-306-punish1686" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18290910-306-punish1686" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18290910-306-defend2852 t18290910-306-punish1686"></join>
+               Whipped
+            </rs>.</p>
+            </div1>

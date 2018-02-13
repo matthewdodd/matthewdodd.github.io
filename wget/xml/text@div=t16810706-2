@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16810706-2">
+               <interp inst="t16810706-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16810706-2" type="year" value="1681"></interp>
+               <interp inst="t16810706-2" type="uri" value="sessionsPapers/16810706"></interp>
+               <interp inst="t16810706-2" type="date" value="16810706"></interp>
+               <join result="criminalCharge" id="t16810706-2-off7-c5" targOrder="Y" targets="t16810706-2-defend7 t16810706-2-off7 t16810706-2-verdict10"></join>
+               <join result="criminalCharge" id="t16810706-2-off7-c6" targOrder="Y" targets="t16810706-2-defend9 t16810706-2-off7 t16810706-2-verdict10"></join>
+               <join result="criminalCharge" id="t16810706-2-off7-c7" targOrder="Y" targets="t16810706-2-defend11 t16810706-2-off7 t16810706-2-verdict10"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16810706-2-defend7" type="defendantName">
+                     Elizabeth 
+                     Wolf
+                  <interp inst="t16810706-2-defend7" type="surname" value="Wolf"></interp>
+                     <interp inst="t16810706-2-defend7" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16810706-2-defend7" type="gender" value="female"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16810706-2-defend9" type="defendantName">
+                     Ann 
+                     Smith
+                  <interp inst="t16810706-2-defend9" type="surname" value="Smith"></interp>
+                     <interp inst="t16810706-2-defend9" type="given" value="Ann"></interp>
+                     <interp inst="t16810706-2-defend9" type="gender" value="female"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16810706-2-defend11" type="defendantName">
+                     Mary 
+                     Roly
+                  <interp inst="t16810706-2-defend11" type="surname" value="Roly"></interp>
+                     <interp inst="t16810706-2-defend11" type="given" value="Mary"></interp>
+                     <interp inst="t16810706-2-defend11" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were Arraigned Indicted and Tryed, for <rs id="t16810706-2-off7" type="offenceDescription">
+                     <interp inst="t16810706-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16810706-2-off7" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing about 20 yards of Indian Silk, out of the Shop of one 
+                     
+                        <persName id="t16810706-2-victim13" type="victimName">
+                           Francis 
+                           Tryerwood
+                        <interp inst="t16810706-2-victim13" type="surname" value="Tryerwood"></interp>
+                        <interp inst="t16810706-2-victim13" type="given" value="Francis"></interp>
+                        <interp inst="t16810706-2-victim13" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16810706-2-off7 t16810706-2-victim13"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs> a <rs id="t16810706-2-viclabel8" type="occupation">Mercer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16810706-2-victim13 t16810706-2-viclabel8"></join> in <placeName id="t16810706-2-crimeloc9">Cornhill</placeName>
+                  <interp inst="t16810706-2-crimeloc9" type="placeName" value="Cornhill"></interp>
+                  <interp inst="t16810706-2-crimeloc9" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16810706-2-off7 t16810706-2-crimeloc9"></join>, under pretence of coming into his Shop to buy 4 or 5 yards; one of the three the mean while standing purdue, received it of the other two when they came out: but the Silk being missed they were pursued and all three of them taken. Upon their Tryals they strove to shift it off one to another, she that stood without pretending that the other were strangers to her, and that they only hired her to carry it for them, but they being notoriously known to be old Traders, the Jury found them all <rs id="t16810706-2-verdict10" type="verdictDescription">
+                     <interp inst="t16810706-2-verdict10" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Fellony.</p>
+               <p>
+                  <rs id="t16810706-2-punish11" type="punishmentDescription">
+                     <interp inst="t16810706-2-punish11" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16810706-2-defend7 t16810706-2-punish11"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16810706-2-defend9 t16810706-2-punish11"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16810706-2-defend11 t16810706-2-punish11"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

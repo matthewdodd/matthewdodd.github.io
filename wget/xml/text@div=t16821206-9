@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16821206-9">
+               <interp inst="t16821206-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16821206-9" type="year" value="1682"></interp>
+               <interp inst="t16821206-9" type="uri" value="sessionsPapers/16821206"></interp>
+               <interp inst="t16821206-9" type="date" value="16821206"></interp>
+               <join result="criminalCharge" id="t16821206-9-off43-c29" targOrder="Y" targets="t16821206-9-defend48 t16821206-9-off43 t16821206-9-verdict42"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16821206-9-defend48" type="defendantName">
+                     James 
+                     Lashly
+                  <interp inst="t16821206-9-defend48" type="surname" value="Lashly"></interp>
+                     <interp inst="t16821206-9-defend48" type="given" value="James"></interp>
+                     <interp inst="t16821206-9-defend48" type="gender" value="male"></interp>
+                  </persName>
+               
+             
+                  <rs id="t16821206-9-deflabel41" type="occupation">Esquire</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16821206-9-defend48 t16821206-9-deflabel41"></join>, being brought the 6th. Instant from the Gate-House at Westminster, was found <rs id="t16821206-9-verdict42" type="verdictDescription">
+                     <interp inst="t16821206-9-verdict42" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of <rs id="t16821206-9-off43" type="offenceDescription">
+                     <interp inst="t16821206-9-off43" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16821206-9-off43" type="offenceSubcategory" value="murder"></interp>
+               Murthering 
+                     <persName id="t16821206-9-victim49" type="victimName">
+                        <rs id="t16821206-9-viclabel44" type="occupation">Mr.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16821206-9-victim49 t16821206-9-viclabel44"></join> 
+                        Glover
+                     <interp inst="t16821206-9-victim49" type="surname" value="Glover"></interp>
+                        <interp inst="t16821206-9-victim49" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16821206-9-off43 t16821206-9-victim49"></join>
+                     </persName>
+                   in <placeName id="t16821206-9-crimeloc45">Covent-Garden</placeName>
+                     <interp inst="t16821206-9-crimeloc45" type="placeName" value="Covent-Garden"></interp>
+                     <interp inst="t16821206-9-crimeloc45" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16821206-9-off43 t16821206-9-crimeloc45"></join>
+               
+                  </rs>.</p>
+               <p>
+                  <rs id="t16821206-9-punish46" type="punishmentDescription">
+                     <interp inst="t16821206-9-punish46" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-9-defend48 t16821206-9-punish46"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

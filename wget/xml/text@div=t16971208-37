@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16971208-37">
+               <interp inst="t16971208-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16971208-37" type="year" value="1697"></interp>
+               <interp inst="t16971208-37" type="uri" value="sessionsPapers/16971208"></interp>
+               <interp inst="t16971208-37" type="date" value="16971208"></interp>
+               <join result="criminalCharge" id="t16971208-37-off188-c108" targOrder="Y" targets="t16971208-37-defend108 t16971208-37-off188 t16971208-37-verdict191"></join>
+               <join result="criminalCharge" id="t16971208-37-off188-c109" targOrder="Y" targets="t16971208-37-defend109 t16971208-37-off188 t16971208-37-verdict191"></join>
+               <join result="criminalCharge" id="t16971208-37-off188-c110" targOrder="Y" targets="t16971208-37-defend110 t16971208-37-off188 t16971208-37-verdict191"></join>
+         
+               <p>
+            
+                  <persName id="t16971208-37-defend108" type="defendantName">
+                  John 
+                  Shorter
+               <interp inst="t16971208-37-defend108" type="surname" value="Shorter"></interp>
+                     <interp inst="t16971208-37-defend108" type="given" value="John"></interp>
+                     <interp inst="t16971208-37-defend108" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16971208-37-defend109" type="defendantName">
+                  James 
+                  Freemly
+               <interp inst="t16971208-37-defend109" type="surname" value="Freemly"></interp>
+                     <interp inst="t16971208-37-defend109" type="given" value="James"></interp>
+                     <interp inst="t16971208-37-defend109" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16971208-37-defend110" type="defendantName">
+                  Thomas 
+                  Doddy
+               <interp inst="t16971208-37-defend110" type="surname" value="Doddy"></interp>
+                     <interp inst="t16971208-37-defend110" type="given" value="Thomas"></interp>
+                     <interp inst="t16971208-37-defend110" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16971208-37-defloc187">St. Martins in the Fields</placeName>
+                  <interp inst="t16971208-37-defloc187" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16971208-37-defloc187" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-37-defend108 t16971208-37-defloc187"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-37-defend109 t16971208-37-defloc187"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-37-defend110 t16971208-37-defloc187"></join>, were Indicted for <rs id="t16971208-37-off188" type="offenceDescription">
+                     <interp inst="t16971208-37-off188" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16971208-37-off188" type="offenceSubcategory" value="highwayRobbery"></interp>
+               Robbing   
+
+                     <persName id="t16971208-37-victim111" type="victimName">
+                        Clench
+                     <interp inst="t16971208-37-victim111" type="surname" value="Clench"></interp>
+                        <interp inst="t16971208-37-victim111" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16971208-37-off188 t16971208-37-victim111"></join>
+                     </persName>
+                  , <rs id="t16971208-37-viclabel189" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16971208-37-victim111 t16971208-37-viclabel189"></join> of 
+                     <persName id="t16971208-37-person112">
+                        William 
+                        Clench
+                     <interp inst="t16971208-37-person112" type="surname" value="Clench"></interp>
+                        <interp inst="t16971208-37-person112" type="given" value="William"></interp>
+                        <interp inst="t16971208-37-person112" type="gender" value="male"></interp>
+                     </persName>
+                  , on the <rs id="t16971208-37-cd190" type="crimeDate">first of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16971208-37-off188 t16971208-37-cd190"></join>, on the High-way, of a pair of Sheets, Value 10 shillings
+            </rs>. The Evidence deposed that they, together with the Prisoners, went out with a design to rob; and that Doddy swore he would seize the first Booty he should come at, and that the first person they met was the Prosecutor from whom they took the Sheet; and having sold it, spent the Money altogether at an Ale-house. The Prisoners had little to say in their defence, only seemed to inform the Court of Crimes committed by the Evidence jointly with themselves, the Jury brought them in <rs id="t16971208-37-verdict191" type="verdictDescription">
+                     <interp inst="t16971208-37-verdict191" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16971208-37-punish192" type="punishmentDescription">
+                     <interp inst="t16971208-37-punish192" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-37-defend108 t16971208-37-punish192"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-37-defend109 t16971208-37-punish192"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-37-defend110 t16971208-37-punish192"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

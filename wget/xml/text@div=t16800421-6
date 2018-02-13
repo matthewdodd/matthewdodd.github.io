@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16800421-6">
+               <interp inst="t16800421-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16800421-6" type="year" value="1680"></interp>
+               <interp inst="t16800421-6" type="uri" value="sessionsPapers/16800421"></interp>
+               <interp inst="t16800421-6" type="date" value="16800421"></interp>
+               <join result="criminalCharge" id="t16800421-6-off18-c11" targOrder="Y" targets="t16800421-6-defend18 t16800421-6-off18 t16800421-6-verdict20"></join>
+               <join result="criminalCharge" id="t16800421-6-off18-c12" targOrder="Y" targets="t16800421-6-defend20 t16800421-6-off18 t16800421-6-verdict20"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16800421-6-defend18" type="defendantName">
+                     Joseph 
+                     Rumley
+                  <interp inst="t16800421-6-defend18" type="surname" value="Rumley"></interp>
+                     <interp inst="t16800421-6-defend18" type="given" value="Joseph"></interp>
+                     <interp inst="t16800421-6-defend18" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16800421-6-defend20" type="defendantName">
+                     Matthew 
+                     Smith
+                  <interp inst="t16800421-6-defend20" type="surname" value="Smith"></interp>
+                     <interp inst="t16800421-6-defend20" type="given" value="Matthew"></interp>
+                     <interp inst="t16800421-6-defend20" type="gender" value="male"></interp>
+                  </persName>
+               
+             received their Trials for <rs id="t16800421-6-off18" type="offenceDescription">
+                     <interp inst="t16800421-6-off18" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16800421-6-off18" type="offenceSubcategory" value="burglary"></interp>
+               Fellony and Burglary, committed upon the dwelling house of one 
+                     
+                        <persName id="t16800421-6-victim22" type="victimName">
+                           Robert 
+                           Baits
+                        <interp inst="t16800421-6-victim22" type="surname" value="Baits"></interp>
+                        <interp inst="t16800421-6-victim22" type="given" value="Robert"></interp>
+                        <interp inst="t16800421-6-victim22" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16800421-6-off18 t16800421-6-victim22"></join>
+                     </persName>
+                     
+                   near <placeName id="t16800421-6-crimeloc19">Milend green</placeName>
+                     <interp inst="t16800421-6-crimeloc19" type="placeName" value="Milend green"></interp>
+                     <interp inst="t16800421-6-crimeloc19" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16800421-6-off18 t16800421-6-crimeloc19"></join> breaking through the shutters of a Window, and after having entered, conveyed thence, three pewter Dishes, several Brass Pans and Kettels, Porringers, Linnen, with many other things to a considerable vallue
+            </rs>, being pursued and apprehended they confessed the Fellony, and the Burglary being plainly proved, they were found <rs id="t16800421-6-verdict20" type="verdictDescription">
+                     <interp inst="t16800421-6-verdict20" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of both.</p>
+               <p>
+                  <rs id="t16800421-6-punish21" type="punishmentDescription">
+                     <interp inst="t16800421-6-punish21" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16800421-6-defend18 t16800421-6-punish21"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16800421-6-defend20 t16800421-6-punish21"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

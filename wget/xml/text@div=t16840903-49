@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840903-49">
+               <interp inst="t16840903-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840903-49" type="year" value="1684"></interp>
+               <interp inst="t16840903-49" type="uri" value="sessionsPapers/16840903"></interp>
+               <interp inst="t16840903-49" type="date" value="16840903"></interp>
+               <join result="criminalCharge" id="t16840903-49-off209-c152" targOrder="Y" targets="t16840903-49-defend217 t16840903-49-off209 t16840903-49-verdict211"></join>
+         
+               <p>
+            
+                  <persName id="t16840903-49-defend217" type="defendantName">
+                  Katherine 
+                  Nash
+               <interp inst="t16840903-49-defend217" type="surname" value="Nash"></interp>
+                     <interp inst="t16840903-49-defend217" type="given" value="Katherine"></interp>
+                     <interp inst="t16840903-49-defend217" type="gender" value="female"></interp>
+                  </persName>
+             Indicted for a <rs id="t16840903-49-off209" type="offenceDescription">
+                     <interp inst="t16840903-49-off209" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t16840903-49-off209" type="offenceSubcategory" value="other"></interp>
+               Common Harlot, being the same Person that was found in Bed with 
+                     <persName id="t16840903-49-person218">
+                        Francis 
+                        Harris
+                     <interp inst="t16840903-49-person218" type="surname" value="Harris"></interp>
+                        <interp inst="t16840903-49-person218" type="given" value="Francis"></interp>
+                        <interp inst="t16840903-49-person218" type="gender" value="male"></interp>
+                     </persName>
+                   Esq; at the <placeName id="t16840903-49-crimeloc210">Pewter Platter in Soper-lane</placeName>
+                     <interp inst="t16840903-49-crimeloc210" type="placeName" value="Pewter Platter in Soper-lane"></interp>
+                     <interp inst="t16840903-49-crimeloc210" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16840903-49-off209 t16840903-49-crimeloc210"></join> the Night he died
+            </rs>, was found <rs id="t16840903-49-verdict211" type="verdictDescription">
+                     <interp inst="t16840903-49-verdict211" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840903-49-punish212" type="punishmentDescription">
+                     <interp inst="t16840903-49-punish212" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t16840903-49-punish212" type="punishmentSubcategory" value="houseOfCorrection"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840903-49-defend217 t16840903-49-punish212"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

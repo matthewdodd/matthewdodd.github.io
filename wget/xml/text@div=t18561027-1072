@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18561027-1072">
+               <interp inst="t18561027-1072" type="uri" value="sessionsPapers/18561027"></interp>
+               <interp inst="t18561027-1072" type="date" value="18561027"></interp>
+               <join result="criminalCharge" id="t18561027-1072-charge-1" targOrder="Y" targets="def1-1072-18561027 t18561027-1072-offence-1 t18561027-1072-verdict-1"></join>
+               <join result="criminalCharge" id="t18561027-1072-charge-2" targOrder="Y" targets="def2-1072-18561027 t18561027-1072-offence-1 t18561027-1072-verdict-2"></join>
+               <xptr type="pageFacsimile" doc="185610270182"></xptr>
+               <p>1072. <persName id="def1-1072-18561027" type="defendantName">
+                     <interp inst="def1-1072-18561027" type="gender" value="male"></interp>
+                     <interp inst="def1-1072-18561027" type="age" value="21"></interp>
+                     <interp inst="def1-1072-18561027" type="surname" value="HARRIS"></interp>
+                     <interp inst="def1-1072-18561027" type="given" value="HENRY"></interp>
+                     <hi rend="largeCaps">HENRY HARRIS</hi>
+                  </persName> and <persName id="def2-1072-18561027" type="defendantName">
+                     <interp inst="def2-1072-18561027" type="gender" value="male"></interp>
+                     <interp inst="def2-1072-18561027" type="age" value="20"></interp>
+                     <interp inst="def2-1072-18561027" type="surname" value="BECKETT"></interp>
+                     <interp inst="def2-1072-18561027" type="given" value="THOMAS"></interp>
+                     <hi rend="largeCaps">THOMAS BECKETT</hi>
+                  </persName>
+                  <rs id="t18561027-1072-offence-1" type="offenceDescription">
+                     <interp inst="t18561027-1072-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18561027-1072-offence-1" type="offenceSubcategory" value="burglary"></interp>, burglariously breaking and entering the dwelling house of <persName id="t18561027-name-769" type="victimName">
+                        <interp inst="t18561027-name-769" type="gender" value="female"></interp>
+                        <interp inst="t18561027-name-769" type="surname" value="HARRIS"></interp>
+                        <interp inst="t18561027-name-769" type="given" value="JANE"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18561027-1072-offence-1 t18561027-name-769"></join>Jane Harris</persName>, at <placeName id="t18561027-geo-10">
+                        <join result="offencePlace" targOrder="Y" targets="t18561027-1072-offence-1 t18561027-geo-10"></join>St. Mary, New<lb></lb>ington</placeName>, and stealing therein 1 desk, 4 spoons, 1 violincello, and other articles, value 19<hi rend="italic">l</hi>. 19<hi rend="italic">s</hi>.; her property: to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">HARRIS</hi> 
+                  <hi rend="smallCaps">
+                     <rs id="t18561027-1072-verdict-1" type="verdictDescription">
+                        <interp inst="t18561027-1072-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18561027-1072-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>. ** Aged 21.—<hi rend="italic">
+                     <rs id="t18561027-1072-punishment-134" type="punishmentDescription">
+                        <interp inst="t18561027-1072-punishment-134" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18561027-1072-punishment-134" type="punishmentSubcategory" value="penalServitude"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-1072-18561027 t18561027-1072-punishment-134"></join>Four Years Penal Servitude.</rs>
+                  </hi>
+               </p>
+               <p>
+                  <hi rend="largeCaps">BECKETT</hi> 
+                  <hi rend="smallCaps">
+                     <rs id="t18561027-1072-verdict-2" type="verdictDescription">
+                        <interp inst="t18561027-1072-verdict-2" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18561027-1072-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>. Aged 20.—<hi rend="italic">
+                     <rs id="t18561027-1072-punishment-135" type="punishmentDescription">
+                        <interp inst="t18561027-1072-punishment-135" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18561027-1072-punishment-135" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-1072-18561027 t18561027-1072-punishment-135"></join>Confined Twelve Months</rs>.</hi>
+               </p>
+            </div1>

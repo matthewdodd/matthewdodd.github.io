@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18160403-132">
+               <interp inst="t18160403-132" type="collection" value="BAILEY"></interp>
+               <interp inst="t18160403-132" type="year" value="1816"></interp>
+               <interp inst="t18160403-132" type="uri" value="sessionsPapers/18160403"></interp>
+               <interp inst="t18160403-132" type="date" value="18160403"></interp>
+               <join result="criminalCharge" id="t18160403-132-off646-c779" targOrder="Y" targets="t18160403-132-defend999 t18160403-132-off646 t18160403-132-verdict650"></join>
+         
+               <p>418. 
+               <persName id="t18160403-132-defend999" type="defendantName">
+                  THOMAS 
+                  SWINTON
+               <interp inst="t18160403-132-defend999" type="surname" value="SWINTON"></interp>
+                     <interp inst="t18160403-132-defend999" type="given" value="THOMAS"></interp>
+                     <interp inst="t18160403-132-defend999" type="gender" value="male"></interp>
+                     <interp inst="t18160403-132-defend999" type="age" value="47"></interp>
+                  </persName>
+             was indicted for <rs id="t18160403-132-off646" type="offenceDescription">
+                     <interp inst="t18160403-132-off646" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18160403-132-off646" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18160403-132-cd647" type="crimeDate">4th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18160403-132-off646 t18160403-132-cd647"></join>, a basket, value 5s. and seven loaves of bread, value 6s.
+            </rs> the property of 
+               
+                  <persName id="t18160403-132-victim1001" type="victimName">
+                     David 
+                     Brown
+                  <interp inst="t18160403-132-victim1001" type="surname" value="Brown"></interp>
+                     <interp inst="t18160403-132-victim1001" type="given" value="David"></interp>
+                     <interp inst="t18160403-132-victim1001" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18160403-132-off646 t18160403-132-victim1001"></join>
+                  </persName>
+               
+            .</p>
+
+               <p>
+            
+                  <persName id="t18160403-132-person1002">
+                  DAVID 
+                  BROWN
+               <interp inst="t18160403-132-person1002" type="surname" value="BROWN"></interp>
+                     <interp inst="t18160403-132-person1002" type="given" value="DAVID"></interp>
+                     <interp inst="t18160403-132-person1002" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18160403-132-viclabel648" type="occupation">baker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18160403-132-victim1001 t18160403-132-viclabel648"></join>, and on the day in the indictment left my basket at the door of Mr. Stewart, in <placeName id="t18160403-132-crimeloc649">Broad-street, St. Giles's</placeName>
+                  <interp inst="t18160403-132-crimeloc649" type="placeName" value="Broad-street, St. Giles's"></interp>
+                  <interp inst="t18160403-132-crimeloc649" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18160403-132-off646 t18160403-132-crimeloc649"></join>.</p>
+
+               <p>
+            
+                  <persName id="t18160403-132-person1003">
+                  ALEXANDER 
+                  STEWART
+               <interp inst="t18160403-132-person1003" type="surname" value="STEWART"></interp>
+                     <interp inst="t18160403-132-person1003" type="given" value="ALEXANDER"></interp>
+                     <interp inst="t18160403-132-person1003" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the priosner take this basket from my door.</p>
+
+               <p>
+            
+                  <persName id="t18160403-132-person1004">
+                  ANDREW 
+                  ANDERSON
+               <interp inst="t18160403-132-person1004" type="surname" value="ANDERSON"></interp>
+                     <interp inst="t18160403-132-person1004" type="given" value="ANDREW"></interp>
+                     <interp inst="t18160403-132-person1004" type="gender" value="male"></interp>
+                  </persName>
+            . I am a journeyman baker; I knew the prisoner, he was also a baker; I knew he was out of work; he had the basket, and said he was carrying it for a young man, and was in a hurry.</p>
+
+               <p>JAMES HANCOCK. I went to the prisoner's lodging, and got the basket there.</p>
+
+               <p>
+                  <rs id="t18160403-132-verdict650" type="verdictDescription">
+                     <interp inst="t18160403-132-verdict650" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 47.</p>
+
+               <p>
+                  <rs id="t18160403-132-punish651" type="punishmentDescription">
+                     <interp inst="t18160403-132-punish651" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18160403-132-defend999 t18160403-132-punish651"></join>
+               Confined six months
+            </rs>, and <rs id="t18160403-132-punish652" type="punishmentDescription">
+                     <interp inst="t18160403-132-punish652" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t18160403-132-punish652" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18160403-132-defend999 t18160403-132-punish652"></join>
+               fined 1s.
+            </rs>
+               </p>
+
+               <p>First Middlesex Jury, before Mr. Recorder.</p>
+            </div1>

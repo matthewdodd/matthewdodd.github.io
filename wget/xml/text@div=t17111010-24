@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17111010-24">
+               <interp inst="t17111010-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17111010-24" type="year" value="1711"></interp>
+               <interp inst="t17111010-24" type="uri" value="sessionsPapers/17111010"></interp>
+               <interp inst="t17111010-24" type="date" value="17111010"></interp>
+               <join result="criminalCharge" id="t17111010-24-off103-c80" targOrder="Y" targets="t17111010-24-defend122 t17111010-24-off103 t17111010-24-verdict105"></join>
+               <join result="criminalCharge" id="t17111010-24-off103-c81" targOrder="Y" targets="t17111010-24-defend123 t17111010-24-off103 t17111010-24-verdict105"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17111010-24-defend122" type="defendantName">
+                     Sarah 
+                     Justice
+                  <interp inst="t17111010-24-defend122" type="surname" value="Justice"></interp>
+                     <interp inst="t17111010-24-defend122" type="given" value="Sarah"></interp>
+                     <interp inst="t17111010-24-defend122" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               <persName id="t17111010-24-defend123" type="defendantName">
+                  Lydia 
+                  Jones
+               <interp inst="t17111010-24-defend123" type="surname" value="Jones"></interp>
+                     <interp inst="t17111010-24-defend123" type="given" value="Lydia"></interp>
+                     <interp inst="t17111010-24-defend123" type="gender" value="female"></interp>
+                  </persName>
+             of <placeName id="t17111010-24-defloc102">St. Giles's in the Fields</placeName>
+                  <interp inst="t17111010-24-defloc102" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t17111010-24-defloc102" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17111010-24-defend122 t17111010-24-defloc102"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17111010-24-defend123 t17111010-24-defloc102"></join>, were both indicted for <rs id="t17111010-24-off103" type="offenceDescription">
+                     <interp inst="t17111010-24-off103" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17111010-24-off103" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17111010-24-victim125" type="victimName">
+                           Thomas 
+                           Trap
+                        <interp inst="t17111010-24-victim125" type="surname" value="Trap"></interp>
+                        <interp inst="t17111010-24-victim125" type="given" value="Thomas"></interp>
+                        <interp inst="t17111010-24-victim125" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17111010-24-off103 t17111010-24-victim125"></join>
+                     </persName>
+                     
+                   upon the Queens High-way, and taking from him a Neckcloth value 18 d. and a Handkerchief 6 d.
+            </rs> on the <rs id="t17111010-24-cd104" type="crimeDate">12th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17111010-24-off103 t17111010-24-cd104"></join> last. But the Evidence not proving the Fact upon the Prisoners, the Jury <rs id="t17111010-24-verdict105" type="verdictDescription">
+                     <interp inst="t17111010-24-verdict105" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> them.</p>
+            </div1>

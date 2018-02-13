@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16851209-8">
+               <interp inst="t16851209-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t16851209-8" type="year" value="1685"></interp>
+               <interp inst="t16851209-8" type="uri" value="sessionsPapers/16851209"></interp>
+               <interp inst="t16851209-8" type="date" value="16851209"></interp>
+               <join result="criminalCharge" id="t16851209-8-off34-c44" targOrder="Y" targets="t16851209-8-defend57 t16851209-8-off34 t16851209-8-verdict37"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16851209-8-defend57" type="defendantName">
+                     James 
+                     Griffen
+                  <interp inst="t16851209-8-defend57" type="surname" value="Griffen"></interp>
+                     <interp inst="t16851209-8-defend57" type="given" value="James"></interp>
+                     <interp inst="t16851209-8-defend57" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16851209-8-off34" type="offenceDescription">
+                     <interp inst="t16851209-8-off34" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16851209-8-off34" type="offenceSubcategory" value="theftFromPlace"></interp>
+               Stealing a silver Taster, valued at two Shillings, out of the house of 
+                     
+                        <persName id="t16851209-8-victim59" type="victimName">
+                           David 
+                           Clark
+                        <interp inst="t16851209-8-victim59" type="surname" value="Clark"></interp>
+                        <interp inst="t16851209-8-victim59" type="given" value="David"></interp>
+                        <interp inst="t16851209-8-victim59" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16851209-8-off34 t16851209-8-victim59"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs> of <placeName id="t16851209-8-crimeloc35">Westminster</placeName>
+                  <interp inst="t16851209-8-crimeloc35" type="placeName" value="Westminster"></interp>
+                  <interp inst="t16851209-8-crimeloc35" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16851209-8-off34 t16851209-8-crimeloc35"></join>, on the <rs id="t16851209-8-cd36" type="crimeDate">16th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16851209-8-off34 t16851209-8-cd36"></join> last; upon whose Tryal it appeared that he &amp; another party coming into the house of the Prosecutor, calling for two Pots of Drink and a Quartern of Brandy, took their opportunity to blow out the Candle and run away with the Taster, they had with the latter, and the Servant of the house being positive that the Prisoner was one of them, he having been formerly a Neighbours man, notwithstanding he denyed being in the house; he was found <rs id="t16851209-8-verdict37" type="verdictDescription">
+                     <interp inst="t16851209-8-verdict37" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16851209-8-verdict37" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16851209-8-punish38" type="punishmentDescription">
+                     <interp inst="t16851209-8-punish38" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16851209-8-punish38" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16851209-8-defend57 t16851209-8-punish38"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

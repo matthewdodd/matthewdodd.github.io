@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17260302-56">
+               <interp inst="t17260302-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17260302-56" type="year" value="1726"></interp>
+               <interp inst="t17260302-56" type="uri" value="sessionsPapers/17260302"></interp>
+               <interp inst="t17260302-56" type="date" value="17260302"></interp>
+               <join result="criminalCharge" id="t17260302-56-off261-c204" targOrder="Y" targets="t17260302-56-defend326 t17260302-56-off261 t17260302-56-verdict264"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17260302-56-defend326" type="defendantName">
+                     George 
+                     Watton 
+                  <interp inst="t17260302-56-defend326" type="surname" value="Watton"></interp>
+                     <interp inst="t17260302-56-defend326" type="given" value="George"></interp>
+                     <interp inst="t17260302-56-defend326" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17260302-56-off261" type="offenceDescription">
+                     <interp inst="t17260302-56-off261" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17260302-56-off261" type="offenceSubcategory" value="other"></interp>
+               stealing a Silver Tankard, a Silver Salver, 3 Silver Salts, 3 Silver Spoons, and a Silver Porringer
+            </rs>, the Goods of 
+               
+                  <persName id="t17260302-56-victim328" type="victimName">
+                     William 
+                     Bland 
+                  <interp inst="t17260302-56-victim328" type="surname" value="Bland"></interp>
+                     <interp inst="t17260302-56-victim328" type="given" value="William"></interp>
+                     <interp inst="t17260302-56-victim328" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17260302-56-off261 t17260302-56-victim328"></join>
+                  </persName>
+                
+            , <rs id="t17260302-56-cd262" type="crimeDate">Jan 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17260302-56-off261 t17260302-56-cd262"></join>.</p>
+               <p>It appear'd that the Prosecutor lost the Goods from <placeName id="t17260302-56-crimeloc263">Milton, near Gravesend</placeName>
+                  <interp inst="t17260302-56-crimeloc263" type="placeName" value="Milton, near Gravesend"></interp>
+                  <interp inst="t17260302-56-crimeloc263" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17260302-56-off261 t17260302-56-crimeloc263"></join>, where he liv'd, and that he publish'd Advertisements of 'em, by which Means the Prisoner was taken with the Goods upon him in London; he made some frivolous Excuses of his finding 'em in a Dunghil. Several Persons of Good Repute appear'd in Favour of his Character, from whom it appear'd that he had heretofore lived in good Credit, and had been a Partner with the Prosecutor. <rs id="t17260302-56-verdict264" type="verdictDescription">
+                     <interp inst="t17260302-56-verdict264" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17260302-56-punish265" type="punishmentDescription">
+                     <interp inst="t17260302-56-punish265" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17260302-56-punish265" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17260302-56-defend326 t17260302-56-punish265"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

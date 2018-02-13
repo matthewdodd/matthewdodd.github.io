@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160906-31">
+               <interp inst="t17160906-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160906-31" type="year" value="1716"></interp>
+               <interp inst="t17160906-31" type="uri" value="sessionsPapers/17160906"></interp>
+               <interp inst="t17160906-31" type="date" value="17160906"></interp>
+               <join result="criminalCharge" id="t17160906-31-off149-c143" targOrder="Y" targets="t17160906-31-defend211 t17160906-31-off149 t17160906-31-verdict151"></join>
+               <join result="criminalCharge" id="t17160906-31-off149-c144" targOrder="Y" targets="t17160906-31-defend213 t17160906-31-off149 t17160906-31-verdict151"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17160906-31-defend211" type="defendantName">
+                     Margaret 
+                     Wood 
+                  <interp inst="t17160906-31-defend211" type="surname" value="Wood"></interp>
+                     <interp inst="t17160906-31-defend211" type="given" value="Margaret"></interp>
+                     <interp inst="t17160906-31-defend211" type="gender" value="female"></interp>
+                  </persName>
+                
+             , and 
+               
+                  <persName id="t17160906-31-defend213" type="defendantName">
+                     Elizabeth 
+                     Radcliff 
+                  <interp inst="t17160906-31-defend213" type="surname" value="Radcliff"></interp>
+                     <interp inst="t17160906-31-defend213" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17160906-31-defend213" type="gender" value="female"></interp>
+                  </persName>
+                
+             , of the Parish of <placeName id="t17160906-31-defloc148">St. Dunstan's Stepney</placeName>
+                  <interp inst="t17160906-31-defloc148" type="placeName" value="St. Dunstan's Stepney"></interp>
+                  <interp inst="t17160906-31-defloc148" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160906-31-defend211 t17160906-31-defloc148"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160906-31-defend213 t17160906-31-defloc148"></join>, were indicted for <rs id="t17160906-31-off149" type="offenceDescription">
+                     <interp inst="t17160906-31-off149" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17160906-31-off149" type="offenceSubcategory" value="grandLarceny"></interp>
+               privately stealing 45 s.
+            </rs> from the Person of 
+               
+                  <persName id="t17160906-31-victim215" type="victimName">
+                     James 
+                     Morphew 
+                  <interp inst="t17160906-31-victim215" type="surname" value="Morphew"></interp>
+                     <interp inst="t17160906-31-victim215" type="given" value="James"></interp>
+                     <interp inst="t17160906-31-victim215" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17160906-31-off149 t17160906-31-victim215"></join>
+                  </persName>
+                
+            , on the <rs id="t17160906-31-cd150" type="crimeDate">18th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17160906-31-off149 t17160906-31-cd150"></join> last. But it appear'd to be a very unaccountable Prosecution, and the Prisoners were <rs id="t17160906-31-verdict151" type="verdictDescription">
+                     <interp inst="t17160906-31-verdict151" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

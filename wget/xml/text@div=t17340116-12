@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340116-12">
+               <interp inst="t17340116-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340116-12" type="year" value="1734"></interp>
+               <interp inst="t17340116-12" type="uri" value="sessionsPapers/17340116"></interp>
+               <interp inst="t17340116-12" type="date" value="17340116"></interp>
+               <join result="criminalCharge" id="t17340116-12-off47-c85" targOrder="Y" targets="t17340116-12-defend109 t17340116-12-off47 t17340116-12-verdict49"></join>
+         
+               <p>15. 
+               
+                  <persName id="t17340116-12-defend109" type="defendantName">
+                     John 
+                     Asdell 
+                  <interp inst="t17340116-12-defend109" type="surname" value="Asdell"></interp>
+                     <interp inst="t17340116-12-defend109" type="given" value="John"></interp>
+                     <interp inst="t17340116-12-defend109" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340116-12-off47" type="offenceDescription">
+                     <interp inst="t17340116-12-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340116-12-off47" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Shew-glass, value 2 s. half a Pound of Lemon-peel, and a Quarter of a Pound of Barley-sugar
+            </rs>, the Goods of 
+               <persName id="t17340116-12-victim110" type="victimName">
+                  Peter
+                   L'Equeve
+               <interp inst="t17340116-12-victim110" type="surname" value="L'Equeve"></interp>
+                     <interp inst="t17340116-12-victim110" type="given" value="Peter"></interp>
+                     <interp inst="t17340116-12-victim110" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340116-12-off47 t17340116-12-victim110"></join>
+                  </persName>
+            , <rs id="t17340116-12-cd48" type="crimeDate">Dec. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340116-12-off47 t17340116-12-cd48"></join>. <rs id="t17340116-12-verdict49" type="verdictDescription">
+                     <interp inst="t17340116-12-verdict49" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17340116-12-verdict49" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17340116-12-punish50" type="punishmentDescription">
+                     <interp inst="t17340116-12-punish50" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17340116-12-punish50" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340116-12-defend109 t17340116-12-punish50"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

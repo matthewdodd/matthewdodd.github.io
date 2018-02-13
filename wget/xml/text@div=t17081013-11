@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17081013-11">
+               <interp inst="t17081013-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17081013-11" type="year" value="1708"></interp>
+               <interp inst="t17081013-11" type="uri" value="sessionsPapers/17081013"></interp>
+               <interp inst="t17081013-11" type="date" value="17081013"></interp>
+               <join result="criminalCharge" id="t17081013-11-off52-c48" targOrder="Y" targets="t17081013-11-defend48 t17081013-11-off52 t17081013-11-verdict55"></join>
+         
+               <p>
+            
+                  <persName id="t17081013-11-defend48" type="defendantName">
+                  Mary 
+                  Bell
+               <interp inst="t17081013-11-defend48" type="surname" value="Bell"></interp>
+                     <interp inst="t17081013-11-defend48" type="given" value="Mary"></interp>
+                     <interp inst="t17081013-11-defend48" type="gender" value="female"></interp>
+                  </persName>
+            , of <placeName id="t17081013-11-defloc51">St. Mary Ax</placeName>
+                  <interp inst="t17081013-11-defloc51" type="placeName" value="St. Mary Ax"></interp>
+                  <interp inst="t17081013-11-defloc51" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17081013-11-defend48 t17081013-11-defloc51"></join>, was Indicted for <rs id="t17081013-11-off52" type="offenceDescription">
+                     <interp inst="t17081013-11-off52" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17081013-11-off52" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 4 Silver Tankards value 18 l. a Silver Tea Pot 8 l. a Silver Chaffin Dish 3 l. 10 s. 6 Silver Spoons 15 s. a Silver Ladle 30 s. a pair of Silver Tongs 15 s. 2 Silver Salts 30 s.
+            </rs> the Goods of 
+               <persName id="t17081013-11-victim49" type="victimName">
+                  Abraham Franco 
+                  Nunes
+               <interp inst="t17081013-11-victim49" type="surname" value="Nunes"></interp>
+                     <interp inst="t17081013-11-victim49" type="given" value="Abraham Franco"></interp>
+                     <interp inst="t17081013-11-victim49" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17081013-11-off52 t17081013-11-victim49"></join>
+                  </persName>
+            , on the <rs id="t17081013-11-cd53" type="crimeDate">24th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17081013-11-off52 t17081013-11-cd53"></join> last. It appeared by the Evidence, that the Prisoner was <rs id="t17081013-11-deflabel54" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17081013-11-defend48 t17081013-11-deflabel54"></join> to the Prosecutor, that the Prosecutor and his Wife went to the Jews Synagogue on the Date abovesaid, and left the Prisoner in the House; that when they returned home the Prisoner was gone, their Chest of Drawers open, and the Goods mentioned in the Indictment taken away. The Prisoner in her Defence deny'd the Fact, but giving no Reason why she went away after the manner she did, nor producing any to her Reputation, the Jury found her <rs id="t17081013-11-verdict55" type="verdictDescription">
+                     <interp inst="t17081013-11-verdict55" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17081013-11-punish56" type="punishmentDescription">
+                     <interp inst="t17081013-11-punish56" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17081013-11-punish56" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081013-11-defend48 t17081013-11-punish56"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17081013-11-punish57" type="punishmentDescription">
+                     <interp inst="t17081013-11-punish57" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17081013-11-punish57" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081013-11-defend48 t17081013-11-punish57"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

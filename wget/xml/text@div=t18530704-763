@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18530704-763">
+               <interp inst="t18530704-763" type="uri" value="sessionsPapers/18530704"></interp>
+               <interp inst="t18530704-763" type="date" value="18530704"></interp>
+               <join result="criminalCharge" id="t18530704-763-charge-1" targOrder="Y" targets="def1-763-18530704 t18530704-763-offence-1 t18530704-763-verdict-1"></join>
+               <p>763. <persName id="def1-763-18530704" type="defendantName">
+                     <interp inst="def1-763-18530704" type="gender" value="female"></interp>
+                     <interp inst="def1-763-18530704" type="age" value="23"></interp>
+                     <interp inst="def1-763-18530704" type="surname" value="FURSEMAN"></interp>
+                     <interp inst="def1-763-18530704" type="given" value="EMMA"></interp>
+                     <hi rend="largeCaps">EMMA FURSEMAN</hi>
+                  </persName>
+                  <rs id="t18530704-763-offence-1" type="offenceDescription">
+                     <interp inst="t18530704-763-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18530704-763-offence-1" type="offenceSubcategory" value="stealingFromMaster"></interp>, stealing I sovereign; the moneys of <persName id="t18530704-name-3" type="victimName">
+                        <interp inst="t18530704-name-3" type="gender" value="male"></interp>
+                        <interp inst="t18530704-name-3" type="surname" value="MEEKHAM"></interp>
+                        <interp inst="t18530704-name-3" type="given" value="THOMAS"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18530704-763-offence-1 t18530704-name-3"></join>Thomas Meekham</persName>, her master: to which she pleaded</rs>
+               </p>
+               <p>
+                  <hi rend="smallCaps">
+                     <rs id="t18530704-763-verdict-1" type="verdictDescription">
+                        <interp inst="t18530704-763-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18530704-763-verdict-1" type="verdictSubcategory" value="no_subcategory"></interp>GUILTY. Aged 23.—</rs> 
+                     <rs id="t18530704-763-punishment-2" type="punishmentDescription">
+                        <interp inst="t18530704-763-punishment-2" type="punishmentCategory" value="noPunish"></interp>
+                        <interp inst="t18530704-763-punishment-2" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-763-18530704 t18530704-763-punishment-2"></join>
+                        <hi rend="italic">Judgment respited.</hi>
+                     </rs>
+                  </hi>
+               </p>
+            </div1>

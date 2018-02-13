@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16811207-15">
+               <interp inst="t16811207-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16811207-15" type="year" value="1681"></interp>
+               <interp inst="t16811207-15" type="uri" value="sessionsPapers/16811207"></interp>
+               <interp inst="t16811207-15" type="date" value="16811207"></interp>
+               <join result="criminalCharge" id="t16811207-15-off55-c33" targOrder="Y" targets="t16811207-15-defend56 t16811207-15-off55 t16811207-15-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16811207-15-defend56" type="defendantName">
+                     Dorothy 
+                     Bishop
+                  <interp inst="t16811207-15-defend56" type="surname" value="Bishop"></interp>
+                     <interp inst="t16811207-15-defend56" type="given" value="Dorothy"></interp>
+                     <interp inst="t16811207-15-defend56" type="gender" value="female"></interp>
+                  </persName>
+               
+             took her Tryal for <rs id="t16811207-15-off55" type="offenceDescription">
+                     <interp inst="t16811207-15-off55" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16811207-15-off55" type="offenceSubcategory" value="robbery"></interp>
+               Robbing a 
+                     <persName id="t16811207-15-victim57" type="victimName">
+                        <rs id="t16811207-15-viclabel56" type="occupation">Gentleman</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16811207-15-victim57 t16811207-15-viclabel56"></join>
+                        <interp inst="t16811207-15-victim57" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16811207-15-off55 t16811207-15-victim57"></join>
+                     </persName>
+                   at <placeName id="t16811207-15-crimeloc57">Holborn-Bars</placeName>
+                     <interp inst="t16811207-15-crimeloc57" type="placeName" value="Holborn-Bars"></interp>
+                     <interp inst="t16811207-15-crimeloc57" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16811207-15-off55 t16811207-15-crimeloc57"></join> of thirteen pounds and a Ring, valued at 20 shillings
+            </rs>, the which she had given to one of the Turn keys of the Marshalsea's, her Husband being in that Prison, under Conviction; the Fact appearing upon full Evidence, and she having been an old Offender, the Jury found her <rs id="t16811207-15-verdict58" type="verdictDescription">
+                     <interp inst="t16811207-15-verdict58" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16811207-15-punish59" type="punishmentDescription">
+                     <interp inst="t16811207-15-punish59" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16811207-15-defend56 t16811207-15-punish59"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

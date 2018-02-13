@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18240603-200">
+               <interp inst="t18240603-200" type="collection" value="BAILEY"></interp>
+               <interp inst="t18240603-200" type="year" value="1824"></interp>
+               <interp inst="t18240603-200" type="uri" value="sessionsPapers/18240603"></interp>
+               <interp inst="t18240603-200" type="date" value="18240603"></interp>
+               <join result="criminalCharge" id="t18240603-200-off1046-c1284" targOrder="Y" targets="t18240603-200-defend1709 t18240603-200-off1046 t18240603-200-verdict1049"></join>
+         
+               <p>1015. 
+               
+                  <persName id="t18240603-200-defend1709" type="defendantName">
+                     EDWARD 
+                     COOPER
+                  <interp inst="t18240603-200-defend1709" type="surname" value="COOPER"></interp>
+                     <interp inst="t18240603-200-defend1709" type="given" value="EDWARD"></interp>
+                     <interp inst="t18240603-200-defend1709" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for a <rs id="t18240603-200-off1046" type="offenceDescription">
+                     <interp inst="t18240603-200-off1046" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t18240603-200-off1046" type="offenceSubcategory" value="fraud"></interp>
+               misdemeanor
+            </rs>.</p>
+               <p>
+            
+               
+                  <persName id="t18240603-200-victim1711" type="victimName">
+                     WILLIAM BENJAMIN 
+                     SMITH
+                  <interp inst="t18240603-200-victim1711" type="surname" value="SMITH"></interp>
+                     <interp inst="t18240603-200-victim1711" type="given" value="WILLIAM BENJAMIN"></interp>
+                     <interp inst="t18240603-200-victim1711" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18240603-200-off1046 t18240603-200-victim1711"></join>
+                  </persName>
+               
+            . I am a <rs id="t18240603-200-viclabel1047" type="occupation">cutler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18240603-200-victim1711 t18240603-200-viclabel1047"></join>, and live in <placeName id="t18240603-200-crimeloc1048">Lombard-street</placeName>
+                  <interp inst="t18240603-200-crimeloc1048" type="placeName" value="Lombard-street"></interp>
+                  <interp inst="t18240603-200-crimeloc1048" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18240603-200-off1046 t18240603-200-crimeloc1048"></join> - I know Mr. Smith, a cutler, of Cheapside. On the 25th of March, the prisoner came to the shop and requested half-a-dozen of scissar-knives for Mr. Smith of Cheapside, and said that he lived with him. I did not know him, and, as he brought no note, I packed them up, and delivered them to him, but sent my porter to see if he delivered them safe. I have not seen the prisoner since - my porter is now seriously ill.</p>
+               <p>MR. 
+               <persName id="t18240603-200-person1712">
+                  JOHN 
+                  SMITH
+               <interp inst="t18240603-200-person1712" type="surname" value="SMITH"></interp>
+                     <interp inst="t18240603-200-person1712" type="given" value="JOHN"></interp>
+                     <interp inst="t18240603-200-person1712" type="gender" value="male"></interp>
+                  </persName>
+            . I am a cutler, and reside in Cheapside. I never sent the prisoner to the prosecutor for anything. I do not know him.</p>
+               <p>
+                  <rs id="t18240603-200-verdict1049" type="verdictDescription">
+                     <interp inst="t18240603-200-verdict1049" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>
+                  <rs id="t18240603-200-punish1050" type="punishmentDescription">
+                     <interp inst="t18240603-200-punish1050" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18240603-200-defend1709 t18240603-200-punish1050"></join>
+               Confined Six Months
+            </rs>.</p>
+            </div1>

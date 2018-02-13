@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16830418a-9">
+               <interp inst="t16830418a-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16830418a-9" type="year" value="1683"></interp>
+               <interp inst="t16830418a-9" type="uri" value="sessionsPapers/16830418A"></interp>
+               <interp inst="t16830418a-9" type="date" value="16830418"></interp>
+               <join result="criminalCharge" id="t16830418a-9-off38-c17" targOrder="Y" targets="t16830418a-9-defend30 t16830418a-9-off38 t16830418a-9-verdict41"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16830418a-9-defend30" type="defendantName">
+                     Henry 
+                     Rosseston
+                  <interp inst="t16830418a-9-defend30" type="surname" value="Rosseston"></interp>
+                     <interp inst="t16830418a-9-defend30" type="given" value="Henry"></interp>
+                     <interp inst="t16830418a-9-defend30" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Indicted for <rs id="t16830418a-9-off38" type="offenceDescription">
+                     <interp inst="t16830418a-9-off38" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16830418a-9-off38" type="offenceSubcategory" value="other"></interp>
+               killing 
+                     
+                        <persName id="t16830418a-9-victim32" type="victimName">
+                           Stephen 
+                           Low
+                        <interp inst="t16830418a-9-victim32" type="surname" value="Low"></interp>
+                        <interp inst="t16830418a-9-victim32" type="given" value="Stephen"></interp>
+                        <interp inst="t16830418a-9-victim32" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16830418a-9-off38 t16830418a-9-victim32"></join>
+                     </persName>
+                     
+                   on the <rs id="t16830418a-9-cd39" type="crimeDate">30th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16830418a-9-off38 t16830418a-9-cd39"></join> last, near <placeName id="t16830418a-9-crimeloc40">the May-pole in the Strand</placeName>
+                     <interp inst="t16830418a-9-crimeloc40" type="placeName" value="the May-pole in the Strand"></interp>
+                     <interp inst="t16830418a-9-crimeloc40" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16830418a-9-off38 t16830418a-9-crimeloc40"></join>
+               
+                  </rs>, the quarrel arising about the Prisoners taking the part of a Woman, that the deceased &amp; some others his Companions ware abusing in the Street, upon which provocative words and blows passing on both sides, the Prisoner wounded Low in the Brest, with his Sword, of which wound he instantly died, but the meeting being being Accidental, and the Mischief done in heat of blood, it was found but <rs id="t16830418a-9-verdict41" type="verdictDescription">
+                     <interp inst="t16830418a-9-verdict41" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16830418a-9-verdict41" type="verdictSubcategory" value="manslaughter"></interp>
+               Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16830418a-9-punish42" type="punishmentDescription">
+                     <interp inst="t16830418a-9-punish42" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16830418a-9-punish42" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16830418a-9-defend30 t16830418a-9-punish42"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

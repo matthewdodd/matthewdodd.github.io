@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860224-2">
+               <interp inst="t16860224-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860224-2" type="year" value="1686"></interp>
+               <interp inst="t16860224-2" type="uri" value="sessionsPapers/16860224"></interp>
+               <interp inst="t16860224-2" type="date" value="16860224"></interp>
+               <join result="criminalCharge" id="t16860224-2-off8-c29" targOrder="Y" targets="t16860224-2-defend29 t16860224-2-off8 t16860224-2-verdict10"></join>
+               <join result="criminalCharge" id="t16860224-2-off11-c29" targOrder="Y" targets="t16860224-2-defend29 t16860224-2-off11 t16860224-2-verdict10"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16860224002"></xptr>
+            
+                  <persName id="t16860224-2-defend29" type="defendantName">
+                  Sarah 
+                  Banbry
+               <interp inst="t16860224-2-defend29" type="surname" value="Banbry"></interp>
+                     <interp inst="t16860224-2-defend29" type="given" value="Sarah"></interp>
+                     <interp inst="t16860224-2-defend29" type="gender" value="female"></interp>
+                  </persName>
+            , in the Parish of <placeName id="t16860224-2-defloc7">St. Mary Matfellon alias White-Chappel</placeName>
+                  <interp inst="t16860224-2-defloc7" type="placeName" value="St. Mary Matfellon alias White-Chappel"></interp>
+                  <interp inst="t16860224-2-defloc7" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16860224-2-defend29 t16860224-2-defloc7"></join>, indicted for <rs id="t16860224-2-off8" type="offenceDescription">
+                     <interp inst="t16860224-2-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860224-2-off8" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from one 
+                     <persName id="t16860224-2-victim30" type="victimName">
+                        Robert 
+                        Fuller
+                     <interp inst="t16860224-2-victim30" type="surname" value="Fuller"></interp>
+                        <interp inst="t16860224-2-victim30" type="given" value="Robert"></interp>
+                        <interp inst="t16860224-2-victim30" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16860224-2-off8 t16860224-2-victim30"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t16860224-2-off11 t16860224-2-victim30"></join>
+                     </persName>
+                  , <rs id="t16860224-2-cd9" type="crimeDate">February the 1st</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16860224-2-off8 t16860224-2-cd9"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16860224-2-off11 t16860224-2-cd9"></join>. one Silk Gown valued 20 s. one Silk Hood valued 6 s. one Silk Scarf valued 9 s. with other Goods
+            </rs>, which the Prisoner confessing, was brought in <rs id="t16860224-2-verdict10" type="verdictDescription">
+                     <interp inst="t16860224-2-verdict10" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16860224-2-verdict10" type="verdictSubcategory" value="theftunder10s"></interp>
+               Guilty value 5 s.
+            </rs>
+               </p>
+               <p>
+            
+                  <persName id="t16860224-2-person31">
+                  Sarah 
+                  Banbry
+               <interp inst="t16860224-2-person31" type="surname" value="Banbry"></interp>
+                     <interp inst="t16860224-2-person31" type="given" value="Sarah"></interp>
+                     <interp inst="t16860224-2-person31" type="gender" value="female"></interp>
+                  </persName>
+             indicted on a second Indictment, for stealing the aforesaid day <rs id="t16860224-2-off11" type="offenceDescription">
+                     <interp inst="t16860224-2-off11" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860224-2-off11" type="offenceSubcategory" value="grandLarceny"></interp>
+               one Silver Hatband, value 10 s.
+            </rs> from one 
+               <persName id="t16860224-2-victim32" type="victimName">Barkly<interp inst="t16860224-2-victim32" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860224-2-off8 t16860224-2-victim32"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860224-2-off11 t16860224-2-victim32"></join>
+                  </persName>
+            , which being likewise confessed, she was found <rs id="t16860224-2-verdict12" type="verdictDescription">
+                     <interp inst="t16860224-2-verdict12" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16860224-2-verdict12" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16860224-2-punish13" type="punishmentDescription">
+                     <interp inst="t16860224-2-punish13" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16860224-2-punish13" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860224-2-defend29 t16860224-2-punish13"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

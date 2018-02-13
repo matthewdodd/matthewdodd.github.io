@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16971208-27">
+               <interp inst="t16971208-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t16971208-27" type="year" value="1697"></interp>
+               <interp inst="t16971208-27" type="uri" value="sessionsPapers/16971208"></interp>
+               <interp inst="t16971208-27" type="date" value="16971208"></interp>
+               <join result="criminalCharge" id="t16971208-27-off133-c83" targOrder="Y" targets="t16971208-27-defend83 t16971208-27-off133 t16971208-27-verdict136"></join>
+               <join result="criminalCharge" id="t16971208-27-off133-c84" targOrder="Y" targets="t16971208-27-defend84 t16971208-27-off133 t16971208-27-verdict137"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16971208003"></xptr>
+            
+                  <persName id="t16971208-27-defend83" type="defendantName">
+                  William 
+                  Russel
+               <interp inst="t16971208-27-defend83" type="surname" value="Russel"></interp>
+                     <interp inst="t16971208-27-defend83" type="given" value="William"></interp>
+                     <interp inst="t16971208-27-defend83" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16971208-27-defend84" type="defendantName">
+                  Elizabeth 
+                  Aderly
+               <interp inst="t16971208-27-defend84" type="surname" value="Aderly"></interp>
+                     <interp inst="t16971208-27-defend84" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16971208-27-defend84" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16971208-27-defloc132">St. Martins in the Fields</placeName>
+                  <interp inst="t16971208-27-defloc132" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16971208-27-defloc132" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-27-defend83 t16971208-27-defloc132"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-27-defend84 t16971208-27-defloc132"></join>, were indicted for <rs id="t16971208-27-off133" type="offenceDescription">
+                     <interp inst="t16971208-27-off133" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16971208-27-off133" type="offenceSubcategory" value="coiningOffences"></interp>
+               offering 5 Counterfeit Shillings to 
+                     <persName id="t16971208-27-victim85" type="victimName">
+                        John 
+                        Fearne
+                     <interp inst="t16971208-27-victim85" type="surname" value="Fearne"></interp>
+                        <interp inst="t16971208-27-victim85" type="given" value="John"></interp>
+                        <interp inst="t16971208-27-victim85" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16971208-27-off133 t16971208-27-victim85"></join>
+                     </persName>
+                   in <placeName id="t16971208-27-crimeloc134">Covent-Garden Market</placeName>
+                     <interp inst="t16971208-27-crimeloc134" type="placeName" value="Covent-Garden Market"></interp>
+                     <interp inst="t16971208-27-crimeloc134" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16971208-27-off133 t16971208-27-crimeloc134"></join>
+               
+                  </rs>, on the <rs id="t16971208-27-cd135" type="crimeDate">23d of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16971208-27-off133 t16971208-27-cd135"></join>. It appeared, That Aderly uttered the money, but said she had it from Russel. The Evidence was positive against Aderly, but did not affect Russel, he was <rs id="t16971208-27-verdict136" type="verdictDescription">
+                     <interp inst="t16971208-27-verdict136" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> and Aderly found <rs id="t16971208-27-verdict137" type="verdictDescription">
+                     <interp inst="t16971208-27-verdict137" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16971208-27-punish138" type="punishmentDescription">
+                     <interp inst="t16971208-27-punish138" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16971208-27-punish138" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-27-defend84 t16971208-27-punish138"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

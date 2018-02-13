@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930531-9">
+               <interp inst="t16930531-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930531-9" type="year" value="1693"></interp>
+               <interp inst="t16930531-9" type="uri" value="sessionsPapers/16930531"></interp>
+               <interp inst="t16930531-9" type="date" value="16930531"></interp>
+               <join result="criminalCharge" id="t16930531-9-off33-c43" targOrder="Y" targets="t16930531-9-defend43 t16930531-9-off33 t16930531-9-verdict37"></join>
+         
+               <p>
+            
+                  <persName id="t16930531-9-defend43" type="defendantName">
+                  Elizabeth 
+                  Clark
+               <interp inst="t16930531-9-defend43" type="surname" value="Clark"></interp>
+                     <interp inst="t16930531-9-defend43" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16930531-9-defend43" type="gender" value="female"></interp>
+                  </persName>
+             was indicted <rs id="t16930531-9-off33" type="offenceDescription">
+                     <interp inst="t16930531-9-off33" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930531-9-off33" type="offenceSubcategory" value="pocketpicking"></interp>
+               for picking the Pocket of one 
+                     <persName id="t16930531-9-victim44" type="victimName">
+                        <rs id="t16930531-9-viclabel34" type="occupation">Mrs.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16930531-9-victim44 t16930531-9-viclabel34"></join> 
+                        Collins
+                     <interp inst="t16930531-9-victim44" type="surname" value="Collins"></interp>
+                        <interp inst="t16930531-9-victim44" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930531-9-off33 t16930531-9-victim44"></join>
+                     </persName>
+                   on the <rs id="t16930531-9-cd35" type="crimeDate">5th. of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16930531-9-off33 t16930531-9-cd35"></join>
+               
+                  </rs>. The Prisoner with another Woman who got away, met Mrs Collins in <placeName id="t16930531-9-crimeloc36">Cheapside</placeName>
+                  <interp inst="t16930531-9-crimeloc36" type="placeName" value="Cheapside"></interp>
+                  <interp inst="t16930531-9-crimeloc36" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930531-9-off33 t16930531-9-crimeloc36"></join> and jostled her, and took out of her Pocket a Bag, wherein was contained 17 l. and 18 d. in Money, and a Handkerchief value 18 d. Mrs. Collins immediately missing the Money, the Prisoner was stopt, and seen to drop the Bag from her, which was proved by two, sufficient Citizens that were accidentally standing near Mrs. Collins when the Fact was done; she could make no defence; she had been an old Offender, do she was found <rs id="t16930531-9-verdict37" type="verdictDescription">
+                     <interp inst="t16930531-9-verdict37" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16930531-9-punish38" type="punishmentDescription">
+                     <interp inst="t16930531-9-punish38" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16930531-9-punish38" type="punishmentSubcategory" value="respited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930531-9-defend43 t16930531-9-punish38"></join>
+               
+                     <note>[Death -respited. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

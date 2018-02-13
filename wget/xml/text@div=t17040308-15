@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040308-15">
+               <interp inst="t17040308-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040308-15" type="year" value="1704"></interp>
+               <interp inst="t17040308-15" type="uri" value="sessionsPapers/17040308"></interp>
+               <interp inst="t17040308-15" type="date" value="17040308"></interp>
+               <join result="criminalCharge" id="t17040308-15-off64-c59" targOrder="Y" targets="t17040308-15-defend59 t17040308-15-off64 t17040308-15-verdict67"></join>
+         
+               <p>
+            
+                  <persName id="t17040308-15-defend59" type="defendantName">
+                  Samuel 
+                  Querbo, alias <rs id="t17040308-15-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17040308-15-defend59 t17040308-15-alias-3"></join>Twelves</rs>
+                     <interp inst="t17040308-15-defend59" type="surname" value="Querbo"></interp>
+                     <interp inst="t17040308-15-defend59" type="given" value="Samuel"></interp>
+                     <interp inst="t17040308-15-defend59" type="gender" value="male"></interp>
+                  </persName>
+            . of the Parish of <placeName id="t17040308-15-defloc63">St. Magnus the Martyr</placeName>
+                  <interp inst="t17040308-15-defloc63" type="placeName" value="St. Magnus the Martyr"></interp>
+                  <interp inst="t17040308-15-defloc63" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040308-15-defend59 t17040308-15-defloc63"></join>, was indicted for <rs id="t17040308-15-off64" type="offenceDescription">
+                     <interp inst="t17040308-15-off64" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17040308-15-off64" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously Stealing a pair of Leather Bags, and a pair of Stockings
+            </rs>, from 
+               <persName id="t17040308-15-victim60" type="victimName">
+                  Thomas 
+                  Constable
+               <interp inst="t17040308-15-victim60" type="surname" value="Constable"></interp>
+                     <interp inst="t17040308-15-victim60" type="given" value="Thomas"></interp>
+                     <interp inst="t17040308-15-victim60" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17040308-15-off64 t17040308-15-victim60"></join>
+                  </persName>
+             on the <rs id="t17040308-15-cd65" type="crimeDate">24th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17040308-15-off64 t17040308-15-cd65"></join> last last. The Prosecutor said, He was coming over <placeName id="t17040308-15-crimeloc66">London Bridge</placeName>
+                  <interp inst="t17040308-15-crimeloc66" type="placeName" value="London Bridge"></interp>
+                  <interp inst="t17040308-15-crimeloc66" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17040308-15-off64 t17040308-15-crimeloc66"></join>, the Bags were taken off his Horse from behind him. And another Evidence deposed, That he saw the Prisoner take them. He denyed the Fact, saying, That he found them in he Stseet; which was false; and he could not call any to his Reputation: The Jury found him <rs id="t17040308-15-verdict67" type="verdictDescription">
+                     <interp inst="t17040308-15-verdict67" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+            </div1>

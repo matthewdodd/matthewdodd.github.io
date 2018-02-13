@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17311208-68">
+               <interp inst="t17311208-68" type="collection" value="BAILEY"></interp>
+               <interp inst="t17311208-68" type="year" value="1731"></interp>
+               <interp inst="t17311208-68" type="uri" value="sessionsPapers/17311208"></interp>
+               <interp inst="t17311208-68" type="date" value="17311208"></interp>
+               <join result="criminalCharge" id="t17311208-68-off348-c365" targOrder="Y" targets="t17311208-68-defend510 t17311208-68-off348 t17311208-68-verdict352"></join>
+               <join result="criminalCharge" id="t17311208-68-off348-c366" targOrder="Y" targets="t17311208-68-defend512 t17311208-68-off348 t17311208-68-verdict352"></join>
+               <join result="criminalCharge" id="t17311208-68-off350-c365" targOrder="Y" targets="t17311208-68-defend510 t17311208-68-off350 t17311208-68-verdict352"></join>
+               <join result="criminalCharge" id="t17311208-68-off350-c366" targOrder="Y" targets="t17311208-68-defend512 t17311208-68-off350 t17311208-68-verdict352"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17311208-68-defend510" type="defendantName">
+                     John 
+                     Howgan 
+                  <interp inst="t17311208-68-defend510" type="surname" value="Howgan"></interp>
+                     <interp inst="t17311208-68-defend510" type="given" value="John"></interp>
+                     <interp inst="t17311208-68-defend510" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17311208-68-defend512" type="defendantName">
+                     Alexander 
+                     Stuart 
+                  <interp inst="t17311208-68-defend512" type="surname" value="Stuart"></interp>
+                     <interp inst="t17311208-68-defend512" type="given" value="Alexander"></interp>
+                     <interp inst="t17311208-68-defend512" type="gender" value="male"></interp>
+                  </persName>
+                
+             , of <placeName id="t17311208-68-defloc346">Fulham</placeName>
+                  <interp inst="t17311208-68-defloc346" type="placeName" value="Fulham"></interp>
+                  <interp inst="t17311208-68-defloc346" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17311208-68-defend510 t17311208-68-defloc346"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17311208-68-defend512 t17311208-68-defloc346"></join>, two <rs id="t17311208-68-deflabel347" type="occupation">Soldiers</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17311208-68-defend510 t17311208-68-deflabel347"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17311208-68-defend512 t17311208-68-deflabel347"></join>, were indicted for <rs id="t17311208-68-off348" type="offenceDescription">
+                     <interp inst="t17311208-68-off348" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17311208-68-off348" type="offenceSubcategory" value="other"></interp>
+               stealing 2 Aprons, 2 Handkerchiefs, and other Things
+            </rs>, the Goods of 
+               <persName id="t17311208-68-victim513" type="victimName">
+                  Theophila 
+                  Bab 
+               <interp inst="t17311208-68-victim513" type="surname" value="Bab"></interp>
+                     <interp inst="t17311208-68-victim513" type="given" value="Theophila"></interp>
+                     <interp inst="t17311208-68-victim513" type="gender" value="female"></interp>
+                  </persName>
+             , the <rs id="t17311208-68-cd349" type="crimeDate">23d of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17311208-68-off348 t17311208-68-cd349"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17311208-68-off350 t17311208-68-cd349"></join> last.</p>
+               <p>They were a second time indicted for <rs id="t17311208-68-off350" type="offenceDescription">
+                     <interp inst="t17311208-68-off350" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17311208-68-off350" type="offenceSubcategory" value="other"></interp>
+               stealing 4 Smocks, 2 Handkerchiefs, 2 Mobs, and several other Things
+            </rs>, the Goods of 
+               
+                  <persName id="t17311208-68-victim515" type="victimName">
+                     Ann 
+                     Strut 
+                  <interp inst="t17311208-68-victim515" type="surname" value="Strut"></interp>
+                     <interp inst="t17311208-68-victim515" type="given" value="Ann"></interp>
+                     <interp inst="t17311208-68-victim515" type="gender" value="female"></interp>
+                  </persName>
+                
+             , the <rs id="t17311208-68-cd351" type="crimeDate">30th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17311208-68-off348 t17311208-68-cd351"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17311208-68-off350 t17311208-68-cd351"></join> last. The Jury <rs id="t17311208-68-verdict352" type="verdictDescription">
+                     <interp inst="t17311208-68-verdict352" type="verdictCategory" value="notGuilty"></interp>
+               acquitted them of both Indictments
+            </rs>.</p>
+            </div1>

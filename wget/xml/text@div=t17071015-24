@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17071015-24">
+               <interp inst="t17071015-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17071015-24" type="year" value="1707"></interp>
+               <interp inst="t17071015-24" type="uri" value="sessionsPapers/17071015"></interp>
+               <interp inst="t17071015-24" type="date" value="17071015"></interp>
+               <join result="criminalCharge" id="t17071015-24-off115-c85" targOrder="Y" targets="t17071015-24-defend85 t17071015-24-off115 t17071015-24-verdict117"></join>
+               <join result="criminalCharge" id="t17071015-24-off115-c86" targOrder="Y" targets="t17071015-24-defend86 t17071015-24-off115 t17071015-24-verdict118"></join>
+         
+               <p>
+            
+                  <persName id="t17071015-24-defend85" type="defendantName">
+                  Mary 
+                  Lambourn
+               <interp inst="t17071015-24-defend85" type="surname" value="Lambourn"></interp>
+                     <interp inst="t17071015-24-defend85" type="given" value="Mary"></interp>
+                     <interp inst="t17071015-24-defend85" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17071015-24-defend86" type="defendantName">
+                  Margaret 
+                  Brewer
+               <interp inst="t17071015-24-defend86" type="surname" value="Brewer"></interp>
+                     <interp inst="t17071015-24-defend86" type="given" value="Margaret"></interp>
+                     <interp inst="t17071015-24-defend86" type="gender" value="female"></interp>
+                  </persName>
+            , were Indicted for <rs id="t17071015-24-off115" type="offenceDescription">
+                     <interp inst="t17071015-24-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17071015-24-off115" type="offenceSubcategory" value="shoplifting"></interp>
+               privately Stealing 12 Yards of Callicoe, value 26 s. the Goods of 
+                     <persName id="t17071015-24-victim87" type="victimName">
+                        Elizabeth 
+                        Crane
+                     <interp inst="t17071015-24-victim87" type="surname" value="Crane"></interp>
+                        <interp inst="t17071015-24-victim87" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17071015-24-victim87" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17071015-24-off115 t17071015-24-victim87"></join>
+                     </persName>
+                  , on the <rs id="t17071015-24-cd116" type="crimeDate">13th of Sept.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17071015-24-off115 t17071015-24-cd116"></join> last. The Evidence deposed that the Prisoners came to the Prosecutors Shop
+            </rs> to Buy Callicoe for a Childs Dust Gown that while Brewer was treating with the Prosecutors Servant, Lambourn took the Goods and put them up her Petticoats, and being charged with them, Dropt them from her, upon the Floor. The Jury found Lambourn <rs id="t17071015-24-verdict117" type="verdictDescription">
+                     <interp inst="t17071015-24-verdict117" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17071015-24-verdict117" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs> But the Evidence not reaching Brewer she was <rs id="t17071015-24-verdict118" type="verdictDescription">
+                     <interp inst="t17071015-24-verdict118" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17071015-24-punish119" type="punishmentDescription">
+                     <interp inst="t17071015-24-punish119" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17071015-24-punish119" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17071015-24-defend85 t17071015-24-punish119"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17071015-24-punish120" type="punishmentDescription">
+                     <interp inst="t17071015-24-punish120" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17071015-24-punish120" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17071015-24-defend85 t17071015-24-punish120"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

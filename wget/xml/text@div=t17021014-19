@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17021014-19">
+               <interp inst="t17021014-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17021014-19" type="year" value="1702"></interp>
+               <interp inst="t17021014-19" type="uri" value="sessionsPapers/17021014"></interp>
+               <interp inst="t17021014-19" type="date" value="17021014"></interp>
+               <join result="criminalCharge" id="t17021014-19-off88-c66" targOrder="Y" targets="t17021014-19-defend66 t17021014-19-off88 t17021014-19-verdict90"></join>
+               <join result="criminalCharge" id="t17021014-19-off88-c67" targOrder="Y" targets="t17021014-19-defend67 t17021014-19-off88 t17021014-19-verdict91"></join>
+               <join result="criminalCharge" id="t17021014-19-off88-c68" targOrder="Y" targets="t17021014-19-defend68 t17021014-19-off88 t17021014-19-verdict91"></join>
+         
+               <p>
+            
+                  <persName id="t17021014-19-defend66" type="defendantName">
+                  Thomas 
+                  Twist
+               <interp inst="t17021014-19-defend66" type="surname" value="Twist"></interp>
+                     <interp inst="t17021014-19-defend66" type="given" value="Thomas"></interp>
+                     <interp inst="t17021014-19-defend66" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17021014-19-defend67" type="defendantName">
+                  Jane 
+                  Williams
+               <interp inst="t17021014-19-defend67" type="surname" value="Williams"></interp>
+                     <interp inst="t17021014-19-defend67" type="given" value="Jane"></interp>
+                     <interp inst="t17021014-19-defend67" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17021014-19-defend68" type="defendantName">
+                  Mary 
+                  Buck
+               <interp inst="t17021014-19-defend68" type="surname" value="Buck"></interp>
+                     <interp inst="t17021014-19-defend68" type="given" value="Mary"></interp>
+                     <interp inst="t17021014-19-defend68" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17021014-19-defloc87">Chelsea</placeName>
+                  <interp inst="t17021014-19-defloc87" type="placeName" value="Chelsea"></interp>
+                  <interp inst="t17021014-19-defloc87" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17021014-19-defend66 t17021014-19-defloc87"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17021014-19-defend67 t17021014-19-defloc87"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17021014-19-defend68 t17021014-19-defloc87"></join>, were indicted for <rs id="t17021014-19-off88" type="offenceDescription">
+                     <interp inst="t17021014-19-off88" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17021014-19-off88" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of 
+                     <persName id="t17021014-19-victim69" type="victimName">
+                        William 
+                        Stubbington
+                     <interp inst="t17021014-19-victim69" type="surname" value="Stubbington"></interp>
+                        <interp inst="t17021014-19-victim69" type="given" value="William"></interp>
+                        <interp inst="t17021014-19-victim69" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17021014-19-off88 t17021014-19-victim69"></join>
+                     </persName>
+                  , in the day time, on the <rs id="t17021014-19-cd89" type="crimeDate">18th of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17021014-19-off88 t17021014-19-cd89"></join> last, and taking a Copper, a pair of stuff Curtains, and divers other Goods
+            </rs>. It appeared that the Door was broke open whilst the Prosecutor was gone out early to Market, and the Goods gone. There was other Evidence who saw the Women near the House, and saw one of them carry the Copper upon her Head, and the other the Bundles, and the Man was not with them; which the Jury considering, <rs id="t17021014-19-verdict90" type="verdictDescription">
+                     <interp inst="t17021014-19-verdict90" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> the Man, and found the two Women <rs id="t17021014-19-verdict91" type="verdictDescription">
+                     <interp inst="t17021014-19-verdict91" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17021014-19-verdict91" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17021014-19-punish92" type="punishmentDescription">
+                     <interp inst="t17021014-19-punish92" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17021014-19-punish92" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17021014-19-defend67 t17021014-19-punish92"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17021014-19-defend68 t17021014-19-punish92"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160906-43">
+               <interp inst="t17160906-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160906-43" type="year" value="1716"></interp>
+               <interp inst="t17160906-43" type="uri" value="sessionsPapers/17160906"></interp>
+               <interp inst="t17160906-43" type="date" value="17160906"></interp>
+               <join result="criminalCharge" id="t17160906-43-off203-c172" targOrder="Y" targets="t17160906-43-defend260 t17160906-43-off203 t17160906-43-verdict206"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17160906-43-defend260" type="defendantName">
+                     William 
+                     Gualter 
+                  <interp inst="t17160906-43-defend260" type="surname" value="Gualter"></interp>
+                     <interp inst="t17160906-43-defend260" type="given" value="William"></interp>
+                     <interp inst="t17160906-43-defend260" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17160906-43-defloc202">St. Paul Covent Garden</placeName>
+                  <interp inst="t17160906-43-defloc202" type="placeName" value="St. Paul Covent Garden"></interp>
+                  <interp inst="t17160906-43-defloc202" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160906-43-defend260 t17160906-43-defloc202"></join>, was indicted for <rs id="t17160906-43-off203" type="offenceDescription">
+                     <interp inst="t17160906-43-off203" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17160906-43-off203" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Camblet Riding-hood, value 23 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17160906-43-victim262" type="victimName">
+                     Charles 
+                     Moring 
+                  <interp inst="t17160906-43-victim262" type="surname" value="Moring"></interp>
+                     <interp inst="t17160906-43-victim262" type="given" value="Charles"></interp>
+                     <interp inst="t17160906-43-victim262" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17160906-43-off203 t17160906-43-victim262"></join>
+                  </persName>
+                
+            , on the <rs id="t17160906-43-cd204" type="crimeDate">20th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17160906-43-off203 t17160906-43-cd204"></join> last. The Prisoner was the Prosecutor's <rs id="t17160906-43-deflabel205" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17160906-43-defend260 t17160906-43-deflabel205"></join>, and stole the Goods and hid them in a Cellar in a Dust-basket in order to carry out of the House, which was prov'd by the Evidence, and the Jury found him <rs id="t17160906-43-verdict206" type="verdictDescription">
+                     <interp inst="t17160906-43-verdict206" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17160906-43-punish207" type="punishmentDescription">
+                     <interp inst="t17160906-43-punish207" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17160906-43-punish207" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160906-43-defend260 t17160906-43-punish207"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

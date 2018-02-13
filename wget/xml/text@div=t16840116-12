@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840116-12">
+               <interp inst="t16840116-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840116-12" type="year" value="1684"></interp>
+               <interp inst="t16840116-12" type="uri" value="sessionsPapers/16840116"></interp>
+               <interp inst="t16840116-12" type="date" value="16840116"></interp>
+               <join result="criminalCharge" id="t16840116-12-off56-c30" targOrder="Y" targets="t16840116-12-defend43 t16840116-12-off56 t16840116-12-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16840116-12-defend43" type="defendantName">
+                     Thomas 
+                     Gregory
+                  <interp inst="t16840116-12-defend43" type="surname" value="Gregory"></interp>
+                     <interp inst="t16840116-12-defend43" type="given" value="Thomas"></interp>
+                     <interp inst="t16840116-12-defend43" type="gender" value="male"></interp>
+                  </persName>
+               
+            , a <rs id="t16840116-12-deflabel55" type="occupation">Red-Coat Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840116-12-defend43 t16840116-12-deflabel55"></join> Indicted for <rs id="t16840116-12-off56" type="offenceDescription">
+                     <interp inst="t16840116-12-off56" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16840116-12-off56" type="offenceSubcategory" value="other"></interp>
+               killing 
+                     
+                        <persName id="t16840116-12-victim45" type="victimName">
+                           James 
+                           Lorrain
+                        <interp inst="t16840116-12-victim45" type="surname" value="Lorrain"></interp>
+                        <interp inst="t16840116-12-victim45" type="given" value="James"></interp>
+                        <interp inst="t16840116-12-victim45" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16840116-12-off56 t16840116-12-victim45"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>, it appeared they had been drinking together in a Cellar in the Strand; that Lorrain who was also a <rs id="t16840116-12-viclabel57" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840116-12-victim45 t16840116-12-viclabel57"></join>, did there kick Gregory: and when Gregory went out from him, Lorrain followed him with a Drawn Sword, cutting him first, and swore he would Kill or be Killed: In conclusion, Gregory was found <rs id="t16840116-12-verdict58" type="verdictDescription">
+                     <interp inst="t16840116-12-verdict58" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16840116-12-verdict58" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs> only.</p>
+               <p>
+                  <rs id="t16840116-12-punish59" type="punishmentDescription">
+                     <interp inst="t16840116-12-punish59" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16840116-12-punish59" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840116-12-defend43 t16840116-12-punish59"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

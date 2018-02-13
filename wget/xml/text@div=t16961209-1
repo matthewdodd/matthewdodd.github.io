@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16961209-1">
+               <interp inst="t16961209-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16961209-1" type="year" value="1696"></interp>
+               <interp inst="t16961209-1" type="uri" value="sessionsPapers/16961209"></interp>
+               <interp inst="t16961209-1" type="date" value="16961209"></interp>
+               <join result="criminalCharge" id="t16961209-1-off2-c27" targOrder="Y" targets="t16961209-1-defend27 t16961209-1-off2 t16961209-1-verdict5"></join>
+               <join result="criminalCharge" id="t16961209-1-off6-c27" targOrder="Y" targets="t16961209-1-defend27 t16961209-1-off6 t16961209-1-verdict5"></join>
+         
+               <p>
+            
+                  <persName id="t16961209-1-defend27" type="defendantName">
+                  Mary 
+                  Talbot
+               <interp inst="t16961209-1-defend27" type="surname" value="Talbot"></interp>
+                     <interp inst="t16961209-1-defend27" type="given" value="Mary"></interp>
+                     <interp inst="t16961209-1-defend27" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16961209-1-defloc1">Great St. Bartholomews</placeName>
+                  <interp inst="t16961209-1-defloc1" type="placeName" value="Great St. Bartholomews"></interp>
+                  <interp inst="t16961209-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-1-defend27 t16961209-1-defloc1"></join>, was Indicted for <rs id="t16961209-1-off2" type="offenceDescription">
+                     <interp inst="t16961209-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16961209-1-off2" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 20 yards of Damask
+            </rs>, the Goods of 
+               <persName id="t16961209-1-victim28" type="victimName">
+                  Sarah 
+                  Levingstone
+               <interp inst="t16961209-1-victim28" type="surname" value="Levingstone"></interp>
+                     <interp inst="t16961209-1-victim28" type="given" value="Sarah"></interp>
+                     <interp inst="t16961209-1-victim28" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16961209-1-off2 t16961209-1-victim28"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t16961209-1-off6 t16961209-1-victim28"></join>
+                  </persName>
+             
+                  <rs id="t16961209-1-viclabel3" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16961209-1-victim28 t16961209-1-viclabel3"></join>, on the <rs id="t16961209-1-cd4" type="crimeDate">24th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16961209-1-off2 t16961209-1-cd4"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16961209-1-off6 t16961209-1-cd4"></join> last; to which Indictment she <rs id="t16961209-1-verdict5" type="verdictDescription">
+                     <interp inst="t16961209-1-verdict5" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16961209-1-verdict5" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>She was Indicted a second time for <rs id="t16961209-1-off6" type="offenceDescription">
+                     <interp inst="t16961209-1-off6" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16961209-1-off6" type="offenceSubcategory" value="other"></interp>
+               stealing 26 yards of Damask
+            </rs>, and likewise <rs id="t16961209-1-verdict7" type="verdictDescription">
+                     <interp inst="t16961209-1-verdict7" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16961209-1-verdict7" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16961209-1-punish8" type="punishmentDescription">
+                     <interp inst="t16961209-1-punish8" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16961209-1-punish8" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16961209-1-defend27 t16961209-1-punish8"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

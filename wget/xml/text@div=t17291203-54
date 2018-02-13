@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17291203-54">
+               <interp inst="t17291203-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17291203-54" type="year" value="1729"></interp>
+               <interp inst="t17291203-54" type="uri" value="sessionsPapers/17291203"></interp>
+               <interp inst="t17291203-54" type="date" value="17291203"></interp>
+               <join result="criminalCharge" id="t17291203-54-off283-c270" targOrder="Y" targets="t17291203-54-defend370 t17291203-54-off283 t17291203-54-verdict285"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17291203-54-defend370" type="defendantName">
+                     Ann 
+                     Smith , alias <rs id="t17291203-54-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17291203-54-defend370 t17291203-54-alias-5"></join>Welling</rs>
+                     <interp inst="t17291203-54-defend370" type="surname" value="Smith"></interp>
+                     <interp inst="t17291203-54-defend370" type="given" value="Ann"></interp>
+                     <interp inst="t17291203-54-defend370" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17291203-54-defloc282">St. Giles's in the Fields</placeName>
+                  <interp inst="t17291203-54-defloc282" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t17291203-54-defloc282" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17291203-54-defend370 t17291203-54-defloc282"></join>, were indicted for <rs id="t17291203-54-off283" type="offenceDescription">
+                     <interp inst="t17291203-54-off283" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17291203-54-off283" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Linen Gown, value 10 d. an Apron, value 2 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17291203-54-victim372" type="victimName">
+                     Sarah 
+                     Keith 
+                  <interp inst="t17291203-54-victim372" type="surname" value="Keith"></interp>
+                     <interp inst="t17291203-54-victim372" type="given" value="Sarah"></interp>
+                     <interp inst="t17291203-54-victim372" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17291203-54-off283 t17291203-54-victim372"></join>
+                  </persName>
+                
+            , <rs id="t17291203-54-cd284" type="crimeDate">September 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17291203-54-off283 t17291203-54-cd284"></join>; But no Evidence appearing, the Jury <rs id="t17291203-54-verdict285" type="verdictDescription">
+                     <interp inst="t17291203-54-verdict285" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17291203-54-verdict285" type="verdictSubcategory" value="noEvidence"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

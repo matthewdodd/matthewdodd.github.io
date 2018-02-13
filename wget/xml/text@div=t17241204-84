@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17241204-84">
+               <interp inst="t17241204-84" type="collection" value="BAILEY"></interp>
+               <interp inst="t17241204-84" type="year" value="1724"></interp>
+               <interp inst="t17241204-84" type="uri" value="sessionsPapers/17241204"></interp>
+               <interp inst="t17241204-84" type="date" value="17241204"></interp>
+               <join result="criminalCharge" id="t17241204-84-off471-c302" targOrder="Y" targets="t17241204-84-defend444 t17241204-84-off471 t17241204-84-verdict473"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17241204-84-defend444" type="defendantName">
+                     Elizabeth 
+                     Miles 
+                  <interp inst="t17241204-84-defend444" type="surname" value="Miles"></interp>
+                     <interp inst="t17241204-84-defend444" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17241204-84-defend444" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17241204-84-defloc470">Whitechappel</placeName>
+                  <interp inst="t17241204-84-defloc470" type="placeName" value="Whitechappel"></interp>
+                  <interp inst="t17241204-84-defloc470" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17241204-84-defend444 t17241204-84-defloc470"></join>, was indicted for <rs id="t17241204-84-off471" type="offenceDescription">
+                     <interp inst="t17241204-84-off471" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17241204-84-off471" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Hat, Value 3 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17241204-84-victim446" type="victimName">
+                     Sam.
+                      Taylor
+                  <interp inst="t17241204-84-victim446" type="surname" value="Taylor"></interp>
+                     <interp inst="t17241204-84-victim446" type="given" value="Sam."></interp>
+                     <interp inst="t17241204-84-victim446" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17241204-84-off471 t17241204-84-victim446"></join>
+                  </persName>
+               
+            , on <rs id="t17241204-84-cd472" type="crimeDate">the 4th of Nov</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17241204-84-off471 t17241204-84-cd472"></join>. last. <rs id="t17241204-84-verdict473" type="verdictDescription">
+                     <interp inst="t17241204-84-verdict473" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17241204-84-verdict473" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17241204-84-punish474" type="punishmentDescription">
+                     <interp inst="t17241204-84-punish474" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17241204-84-punish474" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17241204-84-defend444 t17241204-84-punish474"></join>
+               Whipt
+            </rs>.</p>
+            </div1>

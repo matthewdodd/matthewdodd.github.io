@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16820116-8">
+               <interp inst="t16820116-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t16820116-8" type="year" value="1682"></interp>
+               <interp inst="t16820116-8" type="uri" value="sessionsPapers/16820116"></interp>
+               <interp inst="t16820116-8" type="date" value="16820116"></interp>
+               <join result="criminalCharge" id="t16820116-8-off32-c19" targOrder="Y" targets="t16820116-8-defend31 t16820116-8-off32 t16820116-8-verdict35"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16820116-8-defend31" type="defendantName">
+                     John 
+                     Smith
+                  <interp inst="t16820116-8-defend31" type="surname" value="Smith"></interp>
+                     <interp inst="t16820116-8-defend31" type="given" value="John"></interp>
+                     <interp inst="t16820116-8-defend31" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16820116-8-off32" type="offenceDescription">
+                     <interp inst="t16820116-8-off32" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16820116-8-off32" type="offenceSubcategory" value="other"></interp>
+               stealing a Carpet, Cupboard Linnen, and other things
+            </rs>, on the <rs id="t16820116-8-cd33" type="crimeDate">10th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16820116-8-off32 t16820116-8-cd33"></join> from 
+               
+                  <persName id="t16820116-8-victim33" type="victimName">
+                     John 
+                     Pordy
+                  <interp inst="t16820116-8-victim33" type="surname" value="Pordy"></interp>
+                     <interp inst="t16820116-8-victim33" type="given" value="John"></interp>
+                     <interp inst="t16820116-8-victim33" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16820116-8-off32 t16820116-8-victim33"></join>
+                  </persName>
+               
+             of <placeName id="t16820116-8-crimeloc34">Stepny</placeName>
+                  <interp inst="t16820116-8-crimeloc34" type="placeName" value="Stepny"></interp>
+                  <interp inst="t16820116-8-crimeloc34" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16820116-8-off32 t16820116-8-crimeloc34"></join>; but the things being thrown down, and the Witnesses not able to swear they see him take them, he was <rs id="t16820116-8-verdict35" type="verdictDescription">
+                     <interp inst="t16820116-8-verdict35" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

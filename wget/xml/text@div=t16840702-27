@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840702-27">
+               <interp inst="t16840702-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840702-27" type="year" value="1684"></interp>
+               <interp inst="t16840702-27" type="uri" value="sessionsPapers/16840702"></interp>
+               <interp inst="t16840702-27" type="date" value="16840702"></interp>
+               <join result="criminalCharge" id="t16840702-27-off106-c64" targOrder="Y" targets="t16840702-27-defend90 t16840702-27-off106 t16840702-27-verdict109"></join>
+         
+               <p>
+            
+                  <persName id="t16840702-27-defend90" type="defendantName">
+                  John 
+                  Mould
+               <interp inst="t16840702-27-defend90" type="surname" value="Mould"></interp>
+                     <interp inst="t16840702-27-defend90" type="given" value="John"></interp>
+                     <interp inst="t16840702-27-defend90" type="gender" value="male"></interp>
+                  </persName>
+             Indicted for <rs id="t16840702-27-off106" type="offenceDescription">
+                     <interp inst="t16840702-27-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840702-27-off106" type="offenceSubcategory" value="animalTheft"></interp>
+               Stealing a Nag coloured Bay, Price 6 l.
+            </rs> of the Goods of 
+               
+                  <persName id="t16840702-27-victim92" type="victimName">
+                     George 
+                     Allum
+                  <interp inst="t16840702-27-victim92" type="surname" value="Allum"></interp>
+                     <interp inst="t16840702-27-victim92" type="given" value="George"></interp>
+                     <interp inst="t16840702-27-victim92" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840702-27-off106 t16840702-27-victim92"></join>
+                  </persName>
+               
+            , living at <placeName id="t16840702-27-crimeloc107">Shelly in Essex</placeName>
+                  <interp inst="t16840702-27-crimeloc107" type="placeName" value="Shelly in Essex"></interp>
+                  <interp inst="t16840702-27-crimeloc107" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16840702-27-off106 t16840702-27-crimeloc107"></join>, about twenty Miles from London. It appeared, that on Thursday the <rs id="t16840702-27-cd108" type="crimeDate">6th. of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16840702-27-off106 t16840702-27-cd108"></join> he came to the Servants of Allum where they were at Plough, and fixing his Eye upon one of their Horses, ask'd the Price of him, and how old he was; after that, ask'd the way to Chippin Onger; but the same Night stole the Horse out of the Pasture; riding directly to Smithfield, and being pursued by the Owner, taken riding him about the Market: he was therefore found <rs id="t16840702-27-verdict109" type="verdictDescription">
+                     <interp inst="t16840702-27-verdict109" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840702-27-punish110" type="punishmentDescription">
+                     <interp inst="t16840702-27-punish110" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840702-27-defend90 t16840702-27-punish110"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

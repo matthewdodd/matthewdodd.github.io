@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170606-47">
+               <interp inst="t17170606-47" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170606-47" type="year" value="1717"></interp>
+               <interp inst="t17170606-47" type="uri" value="sessionsPapers/17170606"></interp>
+               <interp inst="t17170606-47" type="date" value="17170606"></interp>
+               <join result="criminalCharge" id="t17170606-47-off240-c183" targOrder="Y" targets="t17170606-47-defend276 t17170606-47-off240 t17170606-47-verdict241"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170606-47-defend276" type="defendantName">
+                     Alice 
+                     Metcalf 
+                  <interp inst="t17170606-47-defend276" type="surname" value="Metcalf"></interp>
+                     <interp inst="t17170606-47-defend276" type="given" value="Alice"></interp>
+                     <interp inst="t17170606-47-defend276" type="gender" value="female"></interp>
+                  </persName>
+               
+             , of <placeName id="t17170606-47-defloc239">St. Dunstan's Stepney</placeName>
+                  <interp inst="t17170606-47-defloc239" type="placeName" value="St. Dunstan's Stepney"></interp>
+                  <interp inst="t17170606-47-defloc239" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170606-47-defend276 t17170606-47-defloc239"></join>, was indicted for <rs id="t17170606-47-off240" type="offenceDescription">
+                     <interp inst="t17170606-47-off240" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170606-47-off240" type="offenceSubcategory" value="other"></interp>
+               stealing a Brass Sauce-pan and other Goods
+            </rs>, the Property of 
+               
+                  <persName id="t17170606-47-victim278" type="victimName">
+                     Thomas 
+                     Ricard 
+                  <interp inst="t17170606-47-victim278" type="surname" value="Ricard"></interp>
+                     <interp inst="t17170606-47-victim278" type="given" value="Thomas"></interp>
+                     <interp inst="t17170606-47-victim278" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17170606-47-off240 t17170606-47-victim278"></join>
+                  </persName>
+                
+            ; which Fact being plainly prov'd, the Jury found her <rs id="t17170606-47-verdict241" type="verdictDescription">
+                     <interp inst="t17170606-47-verdict241" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170606-47-verdict241" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17170606-47-punish242" type="punishmentDescription">
+                     <interp inst="t17170606-47-punish242" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17170606-47-punish242" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170606-47-defend276 t17170606-47-punish242"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

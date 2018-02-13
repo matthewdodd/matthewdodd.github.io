@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18050918-112">
+               <interp inst="t18050918-112" type="collection" value="BAILEY"></interp>
+               <interp inst="t18050918-112" type="year" value="1805"></interp>
+               <interp inst="t18050918-112" type="uri" value="sessionsPapers/18050918"></interp>
+               <interp inst="t18050918-112" type="date" value="18050918"></interp>
+               <join result="criminalCharge" id="t18050918-112-off605-c783" targOrder="Y" targets="t18050918-112-defend1022 t18050918-112-off605 t18050918-112-verdict609"></join>
+         
+               <p>633. 
+               
+                  <persName id="t18050918-112-defend1022" type="defendantName">
+                     THOMAS 
+                     NORMAN
+                  <interp inst="t18050918-112-defend1022" type="surname" value="NORMAN"></interp>
+                     <interp inst="t18050918-112-defend1022" type="given" value="THOMAS"></interp>
+                     <interp inst="t18050918-112-defend1022" type="gender" value="male"></interp>
+                     <interp inst="t18050918-112-defend1022" type="age" value="43"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18050918-112-off605" type="offenceDescription">
+                     <interp inst="t18050918-112-off605" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18050918-112-off605" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t18050918-112-cd606" type="crimeDate">13th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18050918-112-off605 t18050918-112-cd606"></join>, a tin tea-kettle, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t18050918-112-victim1024" type="victimName">
+                     Walter 
+                     James
+                  <interp inst="t18050918-112-victim1024" type="surname" value="James"></interp>
+                     <interp inst="t18050918-112-victim1024" type="given" value="Walter"></interp>
+                     <interp inst="t18050918-112-victim1024" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18050918-112-off605 t18050918-112-victim1024"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18050918-112-person1025">
+                  WALTER 
+                  JAMES
+               <interp inst="t18050918-112-person1025" type="surname" value="JAMES"></interp>
+                     <interp inst="t18050918-112-person1025" type="given" value="WALTER"></interp>
+                     <interp inst="t18050918-112-person1025" type="gender" value="male"></interp>
+                  </persName>
+             sworn. - I am a <rs id="t18050918-112-viclabel607" type="occupation">smith and ironmonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18050918-112-victim1024 t18050918-112-viclabel607"></join>, I live at <placeName id="t18050918-112-crimeloc608">No. 6, Gray's-Inn-lane</placeName>
+                  <interp inst="t18050918-112-crimeloc608" type="placeName" value="No. 6, Gray's-Inn-lane"></interp>
+                  <interp inst="t18050918-112-crimeloc608" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18050918-112-off605 t18050918-112-crimeloc608"></join>: On the 13th of September, about five o'clock in the evening, I saw the prisoner at the bar walking out of the shop with a tin tea-kettle; I pursued him, and caught him in the street with it; I brought him back, and sent for the beadle to take him up; I produce the kettle, I have had it my possession ever since; I cannot say where it stood in the shop, there were so many; it has my mark.</p>
+               <p>Prisoner's defence. I was never in that person's shop before I was forced in; I crave the mercy of the Court.</p>
+               <p>
+                  <rs id="t18050918-112-verdict609" type="verdictDescription">
+                     <interp inst="t18050918-112-verdict609" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 43.</p>
+               <p>
+                  <rs id="t18050918-112-punish610" type="punishmentDescription">
+                     <interp inst="t18050918-112-punish610" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18050918-112-punish610" type="punishmentSubcategory" value="houseOfCorrection"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18050918-112-defend1022 t18050918-112-punish610"></join>
+               Confined six months in the House of Correction
+            </rs>, and <rs id="t18050918-112-punish611" type="punishmentDescription">
+                     <interp inst="t18050918-112-punish611" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t18050918-112-punish611" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18050918-112-defend1022 t18050918-112-punish611"></join>
+               fined 1 s.
+            </rs>
+               </p>
+               <p>Third Middlesex Jury, before Mr. Recorder.</p>
+            </div1>

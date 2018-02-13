@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980608-53">
+               <interp inst="t16980608-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980608-53" type="year" value="1698"></interp>
+               <interp inst="t16980608-53" type="uri" value="sessionsPapers/16980608"></interp>
+               <interp inst="t16980608-53" type="date" value="16980608"></interp>
+               <join result="criminalCharge" id="t16980608-53-off244-c145" targOrder="Y" targets="t16980608-53-defend145 t16980608-53-off244 t16980608-53-verdict247"></join>
+         
+               <p>
+            
+                  <persName id="t16980608-53-defend145" type="defendantName">
+                  Anthony 
+                  Jones
+               <interp inst="t16980608-53-defend145" type="surname" value="Jones"></interp>
+                     <interp inst="t16980608-53-defend145" type="given" value="Anthony"></interp>
+                     <interp inst="t16980608-53-defend145" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16980608-53-defloc243">Hornsey</placeName>
+                  <interp inst="t16980608-53-defloc243" type="placeName" value="Hornsey"></interp>
+                  <interp inst="t16980608-53-defloc243" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-53-defend145 t16980608-53-defloc243"></join> in Middlesex was Indicted for <rs id="t16980608-53-off244" type="offenceDescription">
+                     <interp inst="t16980608-53-off244" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980608-53-off244" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary in breaking the House of Sir 
+                     <persName id="t16980608-53-victim146" type="victimName">
+                        George 
+                        Douning
+                     <interp inst="t16980608-53-victim146" type="surname" value="Douning"></interp>
+                        <interp inst="t16980608-53-victim146" type="given" value="George"></interp>
+                        <interp inst="t16980608-53-victim146" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980608-53-off244 t16980608-53-victim146"></join>
+                     </persName>
+                   
+                     <rs id="t16980608-53-viclabel245" type="occupation">Bar.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16980608-53-victim146 t16980608-53-viclabel245"></join> on the <rs id="t16980608-53-cd246" type="crimeDate">16th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980608-53-off244 t16980608-53-cd246"></join>, with an intent to carry off his Goods
+            </rs>; but for want of sufficient Evidence he was <rs id="t16980608-53-verdict247" type="verdictDescription">
+                     <interp inst="t16980608-53-verdict247" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

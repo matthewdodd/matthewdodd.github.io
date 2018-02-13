@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17151012-22">
+               <interp inst="t17151012-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17151012-22" type="year" value="1715"></interp>
+               <interp inst="t17151012-22" type="uri" value="sessionsPapers/17151012"></interp>
+               <interp inst="t17151012-22" type="date" value="17151012"></interp>
+               <join result="criminalCharge" id="t17151012-22-off94-c78" targOrder="Y" targets="t17151012-22-defend116 t17151012-22-off94 t17151012-22-verdict96"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17151012-22-defend116" type="defendantName">
+                     Richard 
+                     Ewers 
+                  <interp inst="t17151012-22-defend116" type="surname" value="Ewers"></interp>
+                     <interp inst="t17151012-22-defend116" type="given" value="Richard"></interp>
+                     <interp inst="t17151012-22-defend116" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17151012-22-defloc93">St. John Wapping</placeName>
+                  <interp inst="t17151012-22-defloc93" type="placeName" value="St. John Wapping"></interp>
+                  <interp inst="t17151012-22-defloc93" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17151012-22-defend116 t17151012-22-defloc93"></join>, was indicted for <rs id="t17151012-22-off94" type="offenceDescription">
+                     <interp inst="t17151012-22-off94" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17151012-22-off94" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 100 weight of Logwood
+            </rs>, the Goods of 
+               
+                  <persName id="t17151012-22-victim118" type="victimName">
+                     Henry 
+                     Bowman 
+                  <interp inst="t17151012-22-victim118" type="surname" value="Bowman"></interp>
+                     <interp inst="t17151012-22-victim118" type="given" value="Henry"></interp>
+                     <interp inst="t17151012-22-victim118" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17151012-22-off94 t17151012-22-victim118"></join>
+                  </persName>
+                
+            , on the <rs id="t17151012-22-cd95" type="crimeDate">20th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17151012-22-off94 t17151012-22-cd95"></join> last. The Fact was plainly prov'd upon him; and the Jury considering the Matter, found him <rs id="t17151012-22-verdict96" type="verdictDescription">
+                     <interp inst="t17151012-22-verdict96" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17151012-22-verdict96" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17151012-22-punish97" type="punishmentDescription">
+                     <interp inst="t17151012-22-punish97" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17151012-22-punish97" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17151012-22-defend116 t17151012-22-punish97"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

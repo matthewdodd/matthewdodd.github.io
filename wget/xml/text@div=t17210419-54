@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210419-54">
+               <interp inst="t17210419-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210419-54" type="year" value="1721"></interp>
+               <interp inst="t17210419-54" type="uri" value="sessionsPapers/17210419"></interp>
+               <interp inst="t17210419-54" type="date" value="17210419"></interp>
+               <join result="criminalCharge" id="t17210419-54-off275-c198" targOrder="Y" targets="t17210419-54-defend307 t17210419-54-off275 t17210419-54-verdict278"></join>
+               <join result="criminalCharge" id="t17210419-54-off275-c199" targOrder="Y" targets="t17210419-54-defend309 t17210419-54-off275 t17210419-54-verdict278"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17210419-54-defend307" type="defendantName">
+                     John 
+                     Jones 
+                  <interp inst="t17210419-54-defend307" type="surname" value="Jones"></interp>
+                     <interp inst="t17210419-54-defend307" type="given" value="John"></interp>
+                     <interp inst="t17210419-54-defend307" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17210419-54-defend309" type="defendantName">
+                     John 
+                     Field 
+                  <interp inst="t17210419-54-defend309" type="surname" value="Field"></interp>
+                     <interp inst="t17210419-54-defend309" type="given" value="John"></interp>
+                     <interp inst="t17210419-54-defend309" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17210419-54-defloc274">St. Mary at Islington</placeName>
+                  <interp inst="t17210419-54-defloc274" type="placeName" value="St. Mary at Islington"></interp>
+                  <interp inst="t17210419-54-defloc274" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210419-54-defend307 t17210419-54-defloc274"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210419-54-defend309 t17210419-54-defloc274"></join>, were indicted for <rs id="t17210419-54-off275" type="offenceDescription">
+                     <interp inst="t17210419-54-off275" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17210419-54-off275" type="offenceSubcategory" value="robbery"></interp>
+               Assaulting 
+                     
+                        <persName id="t17210419-54-victim311" type="victimName">
+                           Roger 
+                           Castle 
+                        <interp inst="t17210419-54-victim311" type="surname" value="Castle"></interp>
+                        <interp inst="t17210419-54-victim311" type="given" value="Roger"></interp>
+                        <interp inst="t17210419-54-victim311" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17210419-54-off275 t17210419-54-victim311"></join>
+                     </persName>
+                      
+                  , (about 5 Years Old) in a Field near the Road, putting him in Fear, and taking from him a Silver-lact Hat and a Cloth Coat
+            </rs>, on the <rs id="t17210419-54-cd276" type="crimeDate">13th of this Instant April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210419-54-off275 t17210419-54-cd276"></join>. 
+               <persName id="t17210419-54-person312">
+                  Roger 
+                  Castle 
+               <interp inst="t17210419-54-person312" type="surname" value="Castle"></interp>
+                     <interp inst="t17210419-54-person312" type="given" value="Roger"></interp>
+                     <interp inst="t17210419-54-person312" type="gender" value="male"></interp>
+                  </persName>
+             Senior, deposed, that his <rs id="t17210419-54-viclabel277" type="occupation">Child</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17210419-54-victim311 t17210419-54-viclabel277"></join> was missing about 5 Hours, and when found his Coat and Hat were gone; that he told him Jones had them, who confest that he and Field took them, and where they pawn'd them, Field the Coat for 2 s. and Jones the Hat for 3 d. Their confessions before the Justice were read in Court. The Jury considering the whole matter, found them <rs id="t17210419-54-verdict278" type="verdictDescription">
+                     <interp inst="t17210419-54-verdict278" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17210419-54-verdict278" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of Felony only
+            </rs>. <rs id="t17210419-54-punish279" type="punishmentDescription">
+                     <interp inst="t17210419-54-punish279" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210419-54-defend307 t17210419-54-punish279"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210419-54-defend309 t17210419-54-punish279"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

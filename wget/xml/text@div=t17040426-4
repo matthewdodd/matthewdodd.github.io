@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040426-4">
+               <interp inst="t17040426-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040426-4" type="year" value="1704"></interp>
+               <interp inst="t17040426-4" type="uri" value="sessionsPapers/17040426"></interp>
+               <interp inst="t17040426-4" type="date" value="17040426"></interp>
+               <join result="criminalCharge" id="t17040426-4-off18-c33" targOrder="Y" targets="t17040426-4-defend33 t17040426-4-off18 t17040426-4-verdict20"></join>
+         
+               <p>
+            
+                  <persName id="t17040426-4-defend33" type="defendantName">
+                  Robert 
+                  Finch
+               <interp inst="t17040426-4-defend33" type="surname" value="Finch"></interp>
+                     <interp inst="t17040426-4-defend33" type="given" value="Robert"></interp>
+                     <interp inst="t17040426-4-defend33" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17040426-4-defloc17">Stepney</placeName>
+                  <interp inst="t17040426-4-defloc17" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17040426-4-defloc17" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040426-4-defend33 t17040426-4-defloc17"></join>, was indicted for <rs id="t17040426-4-off18" type="offenceDescription">
+                     <interp inst="t17040426-4-off18" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17040426-4-off18" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously Stealing a Gold Ring
+            </rs> from 
+               <persName id="t17040426-4-victim34" type="victimName">
+                  Jeremy 
+                  Knight
+               <interp inst="t17040426-4-victim34" type="surname" value="Knight"></interp>
+                     <interp inst="t17040426-4-victim34" type="given" value="Jeremy"></interp>
+                     <interp inst="t17040426-4-victim34" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17040426-4-off18 t17040426-4-victim34"></join>
+                  </persName>
+            , on the <rs id="t17040426-4-cd19" type="crimeDate">16th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17040426-4-off18 t17040426-4-cd19"></join> last; to which Indictment he <rs id="t17040426-4-verdict20" type="verdictDescription">
+                     <interp inst="t17040426-4-verdict20" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17040426-4-verdict20" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17040426-4-punish21" type="punishmentDescription">
+                     <interp inst="t17040426-4-punish21" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17040426-4-punish21" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040426-4-defend33 t17040426-4-punish21"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

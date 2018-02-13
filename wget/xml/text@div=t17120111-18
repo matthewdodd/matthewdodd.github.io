@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17120111-18">
+               <interp inst="t17120111-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17120111-18" type="year" value="1712"></interp>
+               <interp inst="t17120111-18" type="uri" value="sessionsPapers/17120111"></interp>
+               <interp inst="t17120111-18" type="date" value="17120111"></interp>
+               <join result="criminalCharge" id="t17120111-18-off74-c65" targOrder="Y" targets="t17120111-18-defend94 t17120111-18-off74 t17120111-18-verdict76"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17120111-18-defend94" type="defendantName">
+                     Elizabeth 
+                     Jones
+                  <interp inst="t17120111-18-defend94" type="surname" value="Jones"></interp>
+                     <interp inst="t17120111-18-defend94" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17120111-18-defend94" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17120111-18-defloc73">St. Martin in the Fields</placeName>
+                  <interp inst="t17120111-18-defloc73" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17120111-18-defloc73" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17120111-18-defend94 t17120111-18-defloc73"></join>, was indicted for <rs id="t17120111-18-off74" type="offenceDescription">
+                     <interp inst="t17120111-18-off74" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17120111-18-off74" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 21 Yards of Ribbon, value 7 s.
+            </rs> from 
+               <persName id="t17120111-18-victim95" type="victimName">
+                  William 
+                  Simpson
+               <interp inst="t17120111-18-victim95" type="surname" value="Simpson"></interp>
+                     <interp inst="t17120111-18-victim95" type="given" value="William"></interp>
+                     <interp inst="t17120111-18-victim95" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17120111-18-off74 t17120111-18-victim95"></join>
+                  </persName>
+            , the <rs id="t17120111-18-cd75" type="crimeDate">29th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17120111-18-off74 t17120111-18-cd75"></join> last. The Prosecutor depos'd, That she came into his Shop to buy half a Yard of Ribbon; and as soon as she was gone, the said 24 Yards was miss'd; whereupon he pursu'd her, and brought her back, and then she privately dropt it into a Drawer; which was also prov'd by another Witness. The Prisoner said she had Witnesses to her Reputation; but none appearing, she was found <rs id="t17120111-18-verdict76" type="verdictDescription">
+                     <interp inst="t17120111-18-verdict76" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17120111-18-verdict76" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17120111-18-punish77" type="punishmentDescription">
+                     <interp inst="t17120111-18-punish77" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17120111-18-punish77" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17120111-18-defend94 t17120111-18-punish77"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

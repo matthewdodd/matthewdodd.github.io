@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16931206-25">
+               <interp inst="t16931206-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16931206-25" type="year" value="1693"></interp>
+               <interp inst="t16931206-25" type="uri" value="sessionsPapers/16931206"></interp>
+               <interp inst="t16931206-25" type="date" value="16931206"></interp>
+               <join result="criminalCharge" id="t16931206-25-off114-c96" targOrder="Y" targets="t16931206-25-defend96 t16931206-25-off114 t16931206-25-verdict117"></join>
+         
+               <p>
+            
+                  <persName id="t16931206-25-defend96" type="defendantName">
+                  Thomas 
+                  Powel
+               <interp inst="t16931206-25-defend96" type="surname" value="Powel"></interp>
+                     <interp inst="t16931206-25-defend96" type="given" value="Thomas"></interp>
+                     <interp inst="t16931206-25-defend96" type="gender" value="male"></interp>
+                  </persName>
+             a <rs id="t16931206-25-deflabel113" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16931206-25-defend96 t16931206-25-deflabel113"></join>, was tried for <rs id="t16931206-25-off114" type="offenceDescription">
+                     <interp inst="t16931206-25-off114" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16931206-25-off114" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing Two Ship Masts, val. 3 l. 10 s.
+            </rs> the Goods of <rs id="t16931206-25-viclabel115" type="occupation">Mr.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16931206-25-victim97 t16931206-25-viclabel115"></join> 
+            
+                  <persName id="t16931206-25-victim97" type="victimName">
+                  James 
+                  King
+               <interp inst="t16931206-25-victim97" type="surname" value="King"></interp>
+                     <interp inst="t16931206-25-victim97" type="given" value="James"></interp>
+                     <interp inst="t16931206-25-victim97" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16931206-25-off114 t16931206-25-victim97"></join>
+                  </persName>
+            ; which he Stole from off Mr King's <placeName id="t16931206-25-crimeloc116">Wharf at Horslie-Down</placeName>
+                  <interp inst="t16931206-25-crimeloc116" type="placeName" value="Wharf at Horslie-Down"></interp>
+                  <interp inst="t16931206-25-crimeloc116" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16931206-25-off114 t16931206-25-crimeloc116"></join>: The Prisoner alledged that a Waterman Stole the Masts, and gave him Half a Crown to Convey them to Queenhithe; which was but a feigned story; He was found <rs id="t16931206-25-verdict117" type="verdictDescription">
+                     <interp inst="t16931206-25-verdict117" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16931206-25-verdict117" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16931206-25-punish118" type="punishmentDescription">
+                     <interp inst="t16931206-25-punish118" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16931206-25-punish118" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16931206-25-defend96 t16931206-25-punish118"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

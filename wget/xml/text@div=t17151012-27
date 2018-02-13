@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17151012-27">
+               <interp inst="t17151012-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17151012-27" type="year" value="1715"></interp>
+               <interp inst="t17151012-27" type="uri" value="sessionsPapers/17151012"></interp>
+               <interp inst="t17151012-27" type="date" value="17151012"></interp>
+               <join result="criminalCharge" id="t17151012-27-off121-c88" targOrder="Y" targets="t17151012-27-defend136 t17151012-27-off121 t17151012-27-verdict123"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17151012-27-defend136" type="defendantName">
+                     Peter 
+                     Andrews 
+                  <interp inst="t17151012-27-defend136" type="surname" value="Andrews"></interp>
+                     <interp inst="t17151012-27-defend136" type="given" value="Peter"></interp>
+                     <interp inst="t17151012-27-defend136" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the <placeName id="t17151012-27-defloc120">Precinct of St. Catherines</placeName>
+                  <interp inst="t17151012-27-defloc120" type="placeName" value="Precinct of St. Catherines"></interp>
+                  <interp inst="t17151012-27-defloc120" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17151012-27-defend136 t17151012-27-defloc120"></join>, was indicted for <rs id="t17151012-27-off121" type="offenceDescription">
+                     <interp inst="t17151012-27-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17151012-27-off121" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 Flock Beds and Blankets, 2 Coats, Wastcoats, and 1 Perriwig
+            </rs>, from 
+               
+                  <persName id="t17151012-27-victim138" type="victimName">
+                     James 
+                     Brown 
+                  <interp inst="t17151012-27-victim138" type="surname" value="Brown"></interp>
+                     <interp inst="t17151012-27-victim138" type="given" value="James"></interp>
+                     <interp inst="t17151012-27-victim138" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17151012-27-off121 t17151012-27-victim138"></join>
+                  </persName>
+                
+            , on the <rs id="t17151012-27-cd122" type="crimeDate">30th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17151012-27-off121 t17151012-27-cd122"></join> last. It was prov'd, the Prisoner was apprehended in the Fact; and a Wigg that he threw down a Vault , was sworn by the Prosecutor to be his. The Jury found him <rs id="t17151012-27-verdict123" type="verdictDescription">
+                     <interp inst="t17151012-27-verdict123" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17151012-27-verdict123" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty to the Value of 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17151012-27-punish124" type="punishmentDescription">
+                     <interp inst="t17151012-27-punish124" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17151012-27-punish124" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17151012-27-defend136 t17151012-27-punish124"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

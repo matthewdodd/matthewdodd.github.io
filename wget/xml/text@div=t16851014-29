@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16851014-29">
+               <interp inst="t16851014-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t16851014-29" type="year" value="1685"></interp>
+               <interp inst="t16851014-29" type="uri" value="sessionsPapers/16851014"></interp>
+               <interp inst="t16851014-29" type="date" value="16851014"></interp>
+               <join result="criminalCharge" id="t16851014-29-off140-c91" targOrder="Y" targets="t16851014-29-defend126 t16851014-29-off140 t16851014-29-verdict141"></join>
+               <join result="criminalCharge" id="t16851014-29-off140-c92" targOrder="Y" targets="t16851014-29-defend127 t16851014-29-off140 t16851014-29-verdict142"></join>
+               <join result="criminalCharge" id="t16851014-29-off140-c93" targOrder="Y" targets="t16851014-29-defend129 t16851014-29-off140 t16851014-29-verdict142"></join>
+         
+               <p>
+            
+                  <persName id="t16851014-29-defend126" type="defendantName">
+                  Henry 
+                  Haslewood
+               <interp inst="t16851014-29-defend126" type="surname" value="Haslewood"></interp>
+                     <interp inst="t16851014-29-defend126" type="given" value="Henry"></interp>
+                     <interp inst="t16851014-29-defend126" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16851014-29-defend127" type="defendantName">
+                  Henry 
+                  Suckden
+               <interp inst="t16851014-29-defend127" type="surname" value="Suckden"></interp>
+                     <interp inst="t16851014-29-defend127" type="given" value="Henry"></interp>
+                     <interp inst="t16851014-29-defend127" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16851014-29-defend129" type="defendantName">
+                     James 
+                     Vauhun
+                  <interp inst="t16851014-29-defend129" type="surname" value="Vauhun"></interp>
+                     <interp inst="t16851014-29-defend129" type="given" value="James"></interp>
+                     <interp inst="t16851014-29-defend129" type="gender" value="male"></interp>
+                  </persName>
+               
+            , indicted, for that they <rs id="t16851014-29-cd138" type="crimeDate">Sept. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16851014-29-off140 t16851014-29-cd138"></join> in the Parish of <placeName id="t16851014-29-crimeloc139">St. Giles in the Fields</placeName>
+                  <interp inst="t16851014-29-crimeloc139" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t16851014-29-crimeloc139" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16851014-29-off140 t16851014-29-crimeloc139"></join>, <rs id="t16851014-29-off140" type="offenceDescription">
+                     <interp inst="t16851014-29-off140" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16851014-29-off140" type="offenceSubcategory" value="other"></interp>
+               assaulted the Body of 
+                     
+                        <persName id="t16851014-29-victim131" type="victimName">
+                           James 
+                           Mackmeth
+                        <interp inst="t16851014-29-victim131" type="surname" value="Mackmeth"></interp>
+                        <interp inst="t16851014-29-victim131" type="given" value="James"></interp>
+                        <interp inst="t16851014-29-victim131" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16851014-29-off140 t16851014-29-victim131"></join>
+                     </persName>
+                     
+                   with a Rapier value 3 s. pushing him on the right Pap giving him a mortal Wound, on which the said Mackmeth died
+            </rs>. It appeared on the Tryal, that a Quarrel arising betwixt Haslewood and Mackmeth, going both into the Field and fighting, having before exchang'd their Swords, the aforesaid Mackmeth receiving a Wound, died. The Prisoner's Defence was that Mackmeth was very importunate upon him to walk into the Fields, where when he came, Mackmeth forced him to draw, of whom he was first wounded. Haslewood was found <rs id="t16851014-29-verdict141" type="verdictDescription">
+                     <interp inst="t16851014-29-verdict141" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16851014-29-verdict141" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Man slaughter
+            </rs>, the other two <rs id="t16851014-29-verdict142" type="verdictDescription">
+                     <interp inst="t16851014-29-verdict142" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16851014-29-punish143" type="punishmentDescription">
+                     <interp inst="t16851014-29-punish143" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16851014-29-punish143" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16851014-29-defend126 t16851014-29-punish143"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

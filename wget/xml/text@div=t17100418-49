@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17100418-49">
+               <interp inst="t17100418-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17100418-49" type="year" value="1710"></interp>
+               <interp inst="t17100418-49" type="uri" value="sessionsPapers/17100418"></interp>
+               <interp inst="t17100418-49" type="date" value="17100418"></interp>
+               <join result="criminalCharge" id="t17100418-49-off211-c193" targOrder="Y" targets="t17100418-49-defend265 t17100418-49-off211 t17100418-49-verdict212"></join>
+               <join result="criminalCharge" id="t17100418-49-off211-c194" targOrder="Y" targets="t17100418-49-defend267 t17100418-49-off211 t17100418-49-verdict212"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17100418-49-defend265" type="defendantName">
+                     Joseph 
+                     Waller
+                  <interp inst="t17100418-49-defend265" type="surname" value="Waller"></interp>
+                     <interp inst="t17100418-49-defend265" type="given" value="Joseph"></interp>
+                     <interp inst="t17100418-49-defend265" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17100418-49-defend267" type="defendantName">
+                     John 
+                     Herbert
+                  <interp inst="t17100418-49-defend267" type="surname" value="Herbert"></interp>
+                     <interp inst="t17100418-49-defend267" type="given" value="John"></interp>
+                     <interp inst="t17100418-49-defend267" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17100418-49-defloc210">St. Dunstans in the East</placeName>
+                  <interp inst="t17100418-49-defloc210" type="placeName" value="St. Dunstans in the East"></interp>
+                  <interp inst="t17100418-49-defloc210" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17100418-49-defend265 t17100418-49-defloc210"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17100418-49-defend267 t17100418-49-defloc210"></join>, were both Indicted for <rs id="t17100418-49-off211" type="offenceDescription">
+                     <interp inst="t17100418-49-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17100418-49-off211" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously Stealing four Coils of Rope, 12 s. two Iron Crows, and two Chains
+            </rs>, the Goods of 
+               
+                  <persName id="t17100418-49-victim269" type="victimName">
+                     Thomas 
+                     Read
+                  <interp inst="t17100418-49-victim269" type="surname" value="Read"></interp>
+                     <interp inst="t17100418-49-victim269" type="given" value="Thomas"></interp>
+                     <interp inst="t17100418-49-victim269" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17100418-49-off211 t17100418-49-victim269"></join>
+                  </persName>
+               
+            . It appeared, that the Prosecutor lost his Goods out of his Shop in the Night, which were afterwards found upon the Prisoners, who when Apprehended, confessed the Fact, the Jury found them both <rs id="t17100418-49-verdict212" type="verdictDescription">
+                     <interp inst="t17100418-49-verdict212" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17100418-49-punish213" type="punishmentDescription">
+                     <interp inst="t17100418-49-punish213" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17100418-49-punish213" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17100418-49-defend265 t17100418-49-punish213"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17100418-49-defend267 t17100418-49-punish213"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

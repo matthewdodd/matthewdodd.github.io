@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991213-61">
+               <interp inst="t16991213-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991213-61" type="year" value="1699"></interp>
+               <interp inst="t16991213-61" type="uri" value="sessionsPapers/16991213"></interp>
+               <interp inst="t16991213-61" type="date" value="16991213"></interp>
+               <join result="criminalCharge" id="t16991213-61-off345-c198" targOrder="Y" targets="t16991213-61-defend198 t16991213-61-off345 t16991213-61-verdict347"></join>
+               <join result="criminalCharge" id="t16991213-61-off345-c199" targOrder="Y" targets="t16991213-61-defend199 t16991213-61-off345 t16991213-61-verdict347"></join>
+               <join result="criminalCharge" id="t16991213-61-off345-c200" targOrder="Y" targets="t16991213-61-defend200 t16991213-61-off345 t16991213-61-verdict347"></join>
+         
+               <p>
+            
+                  <persName id="t16991213-61-defend198" type="defendantName">
+                  Samuel 
+                  Barber
+               <interp inst="t16991213-61-defend198" type="surname" value="Barber"></interp>
+                     <interp inst="t16991213-61-defend198" type="given" value="Samuel"></interp>
+                     <interp inst="t16991213-61-defend198" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16991213-61-defend199" type="defendantName">
+                  Joseph 
+                  Oxley
+               <interp inst="t16991213-61-defend199" type="surname" value="Oxley"></interp>
+                     <interp inst="t16991213-61-defend199" type="given" value="Joseph"></interp>
+                     <interp inst="t16991213-61-defend199" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16991213-61-defend200" type="defendantName">
+                  William 
+                  Molder
+               <interp inst="t16991213-61-defend200" type="surname" value="Molder"></interp>
+                     <interp inst="t16991213-61-defend200" type="given" value="William"></interp>
+                     <interp inst="t16991213-61-defend200" type="gender" value="male"></interp>
+                  </persName>
+            , all of the Parish of <placeName id="t16991213-61-defloc344">St. Anns Westminster</placeName>
+                  <interp inst="t16991213-61-defloc344" type="placeName" value="St. Anns Westminster"></interp>
+                  <interp inst="t16991213-61-defloc344" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-61-defend198 t16991213-61-defloc344"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-61-defend199 t16991213-61-defloc344"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-61-defend200 t16991213-61-defloc344"></join>, were Indicted for <rs id="t16991213-61-off345" type="offenceDescription">
+                     <interp inst="t16991213-61-off345" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991213-61-off345" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, for breaking the House of 
+                     <persName id="t16991213-61-victim201" type="victimName">
+                        Nicholas 
+                        Parterick
+                     <interp inst="t16991213-61-victim201" type="surname" value="Parterick"></interp>
+                        <interp inst="t16991213-61-victim201" type="given" value="Nicholas"></interp>
+                        <interp inst="t16991213-61-victim201" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16991213-61-off345 t16991213-61-victim201"></join>
+                     </persName>
+                  , on the <rs id="t16991213-61-cd346" type="crimeDate">22d of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16991213-61-off345 t16991213-61-cd346"></join> last, and taking thence One hundred thirty six Yards of Printed Stuff, for Callico Quilts, and divers other Goods
+            </rs>. The Prosecutor said, that he lost his Goods out of his Shop, which were afterwards sold by the Prisoners for 50s. and 8d. and shared the Money amongst them. It did not appear to be Burglary, the Jury acquitted them of that, and found them <rs id="t16991213-61-verdict347" type="verdictDescription">
+                     <interp inst="t16991213-61-verdict347" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16991213-61-verdict347" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t16991213-61-punish348" type="punishmentDescription">
+                     <interp inst="t16991213-61-punish348" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16991213-61-punish348" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-61-defend198 t16991213-61-punish348"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-61-defend200 t16991213-61-punish348"></join>
+               
+                     <note>[Barber, Molder: No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

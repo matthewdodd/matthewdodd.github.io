@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980608-12">
+               <interp inst="t16980608-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980608-12" type="year" value="1698"></interp>
+               <interp inst="t16980608-12" type="uri" value="sessionsPapers/16980608"></interp>
+               <interp inst="t16980608-12" type="date" value="16980608"></interp>
+               <join result="criminalCharge" id="t16980608-12-off57-c49" targOrder="Y" targets="t16980608-12-defend49 t16980608-12-off57 t16980608-12-verdict59"></join>
+               <join result="criminalCharge" id="t16980608-12-off57-c50" targOrder="Y" targets="t16980608-12-defend50 t16980608-12-off57 t16980608-12-verdict59"></join>
+         
+               <p>
+            
+                  <persName id="t16980608-12-defend49" type="defendantName">
+                  Edward 
+                  Guntam
+               <interp inst="t16980608-12-defend49" type="surname" value="Guntam"></interp>
+                     <interp inst="t16980608-12-defend49" type="given" value="Edward"></interp>
+                     <interp inst="t16980608-12-defend49" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16980608-12-defend50" type="defendantName">
+                  Elenor 
+                  Dicks
+               <interp inst="t16980608-12-defend50" type="surname" value="Dicks"></interp>
+                     <interp inst="t16980608-12-defend50" type="given" value="Elenor"></interp>
+                     <interp inst="t16980608-12-defend50" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16980608-12-defloc56">St. Mary Whitechappel</placeName>
+                  <interp inst="t16980608-12-defloc56" type="placeName" value="St. Mary Whitechappel"></interp>
+                  <interp inst="t16980608-12-defloc56" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-12-defend49 t16980608-12-defloc56"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-12-defend50 t16980608-12-defloc56"></join>, were Indicted for <rs id="t16980608-12-off57" type="offenceDescription">
+                     <interp inst="t16980608-12-off57" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980608-12-off57" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     <persName id="t16980608-12-victim51" type="victimName">
+                        Nathan 
+                        Carter
+                     <interp inst="t16980608-12-victim51" type="surname" value="Carter"></interp>
+                        <interp inst="t16980608-12-victim51" type="given" value="Nathan"></interp>
+                        <interp inst="t16980608-12-victim51" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980608-12-off57 t16980608-12-victim51"></join>
+                     </persName>
+                   on the <rs id="t16980608-12-cd58" type="crimeDate">10th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980608-12-off57 t16980608-12-cd58"></join>, and taking thence one pair of Stuff Curtains, 5 holland Coins, and several other Goods
+            </rs>. But there not being sufficient Evidence to prove either the Felony or Burglary, they were <rs id="t16980608-12-verdict59" type="verdictDescription">
+                     <interp inst="t16980608-12-verdict59" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> of both.</p>
+            </div1>

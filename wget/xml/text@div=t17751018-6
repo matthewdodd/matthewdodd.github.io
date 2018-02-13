@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17751018-6">
+               <interp inst="t17751018-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17751018-6" type="year" value="1775"></interp>
+               <interp inst="t17751018-6" type="uri" value="sessionsPapers/17751018"></interp>
+               <interp inst="t17751018-6" type="date" value="17751018"></interp>
+               <join result="criminalCharge" id="t17751018-6-off34-c107" targOrder="Y" targets="t17751018-6-defend123 t17751018-6-off34 t17751018-6-verdict38"></join>
+         
+               <p>705. (L.) 
+               
+                  <persName id="t17751018-6-defend123" type="defendantName">
+                     WILLIAM
+                      SMITH
+                  <interp inst="t17751018-6-defend123" type="surname" value="SMITH"></interp>
+                     <interp inst="t17751018-6-defend123" type="given" value="WILLIAM"></interp>
+                     <interp inst="t17751018-6-defend123" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17751018-6-off34" type="offenceDescription">
+                     <interp inst="t17751018-6-off34" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17751018-6-off34" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a man's hat, value three shillings, and nine brass weights, value seven shillings
+            </rs>, the property of 
+               
+                  <persName id="t17751018-6-victim125" type="victimName">
+                     John
+                      Woolgar
+                  <interp inst="t17751018-6-victim125" type="surname" value="Woolgar"></interp>
+                     <interp inst="t17751018-6-victim125" type="given" value="John"></interp>
+                     <interp inst="t17751018-6-victim125" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17751018-6-off34 t17751018-6-victim125"></join>
+                  </persName>
+               
+            , <rs id="t17751018-6-cd35" type="crimeDate">September 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17751018-6-off34 t17751018-6-cd35"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17751018-6-person126">
+                  John
+                   Woolgar
+               <interp inst="t17751018-6-person126" type="surname" value="Woolgar"></interp>
+                     <interp inst="t17751018-6-person126" type="given" value="John"></interp>
+                     <interp inst="t17751018-6-person126" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17751018-6-viclabel36" type="occupation">brazier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17751018-6-victim125 t17751018-6-viclabel36"></join> in <placeName id="t17751018-6-crimeloc37">the Minories</placeName>
+                  <interp inst="t17751018-6-crimeloc37" type="placeName" value="the Minories"></interp>
+                  <interp inst="t17751018-6-crimeloc37" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17751018-6-off34 t17751018-6-crimeloc37"></join>. On the 26th of September, a little after seven in the morning, I saw the prisoner go out of my shop; I don't know what he did there; I did not see him come in; I followed him; he ran from me; I saw him drop some weights (producing them) they are my property.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I did not take the weights.</p>
+               <p>
+                  <rs id="t17751018-6-verdict38" type="verdictDescription">
+                     <interp inst="t17751018-6-verdict38" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17751018-6-punish39" type="punishmentDescription">
+                     <interp inst="t17751018-6-punish39" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17751018-6-punish39" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17751018-6-defend123 t17751018-6-punish39"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

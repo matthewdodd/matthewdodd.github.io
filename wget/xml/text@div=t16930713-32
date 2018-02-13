@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930713-32">
+               <interp inst="t16930713-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930713-32" type="year" value="1693"></interp>
+               <interp inst="t16930713-32" type="uri" value="sessionsPapers/16930713"></interp>
+               <interp inst="t16930713-32" type="date" value="16930713"></interp>
+               <join result="criminalCharge" id="t16930713-32-off139-c100" targOrder="Y" targets="t16930713-32-defend100 t16930713-32-off139 t16930713-32-verdict143"></join>
+         
+               <p>
+            
+                  <persName id="t16930713-32-defend100" type="defendantName">
+                  George 
+                  Clist
+               <interp inst="t16930713-32-defend100" type="surname" value="Clist"></interp>
+                     <interp inst="t16930713-32-defend100" type="given" value="George"></interp>
+                     <interp inst="t16930713-32-defend100" type="gender" value="male"></interp>
+                  </persName>
+             was arraigned and tried for <rs id="t16930713-32-off139" type="offenceDescription">
+                     <interp inst="t16930713-32-off139" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930713-32-off139" type="offenceSubcategory" value="burglary"></interp>
+               Burglary in breaking the House of one 
+                     <persName id="t16930713-32-victim101" type="victimName">
+                        Robert 
+                        Graves
+                     <interp inst="t16930713-32-victim101" type="surname" value="Graves"></interp>
+                        <interp inst="t16930713-32-victim101" type="given" value="Robert"></interp>
+                        <interp inst="t16930713-32-victim101" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930713-32-off139 t16930713-32-victim101"></join>
+                     </persName>
+                   of <placeName id="t16930713-32-crimeloc140">St. Leonard Shoreditch</placeName>
+                     <interp inst="t16930713-32-crimeloc140" type="placeName" value="St. Leonard Shoreditch"></interp>
+                     <interp inst="t16930713-32-crimeloc140" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16930713-32-off139 t16930713-32-crimeloc140"></join> on the <rs id="t16930713-32-cd141" type="crimeDate">5th day of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16930713-32-off139 t16930713-32-cd141"></join> last, and carrying away one Silver Coral value 8s. a Hood and Scarf, a Tabbey Petticoat value 3l. theree Gold Rings value 30s. and divers other Goods, besides 4l. 3s. in Money
+            </rs>. Upon Evidence it appeared that the Prisoner was a Lodger as a <rs id="t16930713-32-deflabel142" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930713-32-defend100 t16930713-32-deflabel142"></join> at Greaves's House, and whist he was abroad, he broke open the Lock of the Chamber-door, and took away the Goods, which he in a manner confest, when taken; for he offer'd to give Greaves Bond to pay him by the week; and the Robbery was done about Three a Clock in the Afternoon. So he was <rs id="t16930713-32-verdict143" type="verdictDescription">
+                     <interp inst="t16930713-32-verdict143" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16930713-32-verdict143" type="verdictSubcategory" value="lesserOffence"></interp>
+               acquitted of the Burglary, but found guilty of the Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t16930713-32-punish144" type="punishmentDescription">
+                     <interp inst="t16930713-32-punish144" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930713-32-punish144" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930713-32-defend100 t16930713-32-punish144"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

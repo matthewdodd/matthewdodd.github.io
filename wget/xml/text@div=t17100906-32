@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17100906-32">
+               <interp inst="t17100906-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17100906-32" type="year" value="1710"></interp>
+               <interp inst="t17100906-32" type="uri" value="sessionsPapers/17100906"></interp>
+               <interp inst="t17100906-32" type="date" value="17100906"></interp>
+               <join result="criminalCharge" id="t17100906-32-off151-c106" targOrder="Y" targets="t17100906-32-defend160 t17100906-32-off151 t17100906-32-verdict153"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17100906-32-defend160" type="defendantName">
+                     Mary 
+                     Male
+                  <interp inst="t17100906-32-defend160" type="surname" value="Male"></interp>
+                     <interp inst="t17100906-32-defend160" type="given" value="Mary"></interp>
+                     <interp inst="t17100906-32-defend160" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17100906-32-defloc150">St. Andrew Holborn</placeName>
+                  <interp inst="t17100906-32-defloc150" type="placeName" value="St. Andrew Holborn"></interp>
+                  <interp inst="t17100906-32-defloc150" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17100906-32-defend160 t17100906-32-defloc150"></join>, was Indicted for <rs id="t17100906-32-off151" type="offenceDescription">
+                     <interp inst="t17100906-32-off151" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17100906-32-off151" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a silver Cup, value 30 s. 5 gold Rings 3 l. 2 Guineas and 40 s. in Mony
+            </rs>, the Goods of 
+               
+                  <persName id="t17100906-32-victim162" type="victimName">
+                     Mary 
+                     Fletcher
+                  <interp inst="t17100906-32-victim162" type="surname" value="Fletcher"></interp>
+                     <interp inst="t17100906-32-victim162" type="given" value="Mary"></interp>
+                     <interp inst="t17100906-32-victim162" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17100906-32-off151 t17100906-32-victim162"></join>
+                  </persName>
+               
+            , on <rs id="t17100906-32-cd152" type="crimeDate">July 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17100906-32-off151 t17100906-32-cd152"></join> last. It appear'd, that while the Prosecutor was in the Country, the Prisoner got into the House and took the Goods, but was taken by the Neighbours with part of the Goods upon her, and being Examined, confest the Fact. The Jury found her <rs id="t17100906-32-verdict153" type="verdictDescription">
+                     <interp inst="t17100906-32-verdict153" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17100906-32-punish154" type="punishmentDescription">
+                     <interp inst="t17100906-32-punish154" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17100906-32-punish154" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17100906-32-defend160 t17100906-32-punish154"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

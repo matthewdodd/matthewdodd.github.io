@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18631214-142">
+               <interp inst="t18631214-142" type="uri" value="sessionsPapers/18631214"></interp>
+               <interp inst="t18631214-142" type="date" value="18631214"></interp>
+               <join result="criminalCharge" id="t18631214-142-charge-1" targOrder="Y" targets="def1-142-18631214 t18631214-142-offence-1 t18631214-142-verdict-1"></join>
+               <join result="criminalCharge" id="t18631214-142-charge-2" targOrder="Y" targets="def1-142-18631214 t18631214-142-offence-2 t18631214-142-verdict-1"></join>
+               <p>142. <persName id="def1-142-18631214" type="defendantName">
+                     <interp inst="def1-142-18631214" type="gender" value="male"></interp>
+                     <interp inst="def1-142-18631214" type="age" value="22"></interp>
+                     <interp inst="def1-142-18631214" type="surname" value="EDWARDS"></interp>
+                     <interp inst="def1-142-18631214" type="given" value="JOHN"></interp>
+                     <hi rend="largeCaps">JOHN EDWARDS</hi> (22)</persName>
+               </p>
+               <p>
+                  <hi rend="smallCaps">
+                     <rs id="t18631214-142-verdict-1" type="verdictDescription">
+                        <interp inst="t18631214-142-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18631214-142-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi> 
+                  <rs id="t18631214-142-offence-1" type="offenceDescription">
+                     <interp inst="t18631214-142-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18631214-142-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>to stealing t clock, the property of <persName id="t18631214-name-150" type="victimName">
+                        <interp inst="t18631214-name-150" type="gender" value="male"></interp>
+                        <interp inst="t18631214-name-150" type="surname" value="HARNESS"></interp>
+                        <interp inst="t18631214-name-150" type="given" value="THOMAS"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18631214-142-offence-1 t18631214-name-150"></join>Thomas Harness</persName>;</rs> 
+                  <rs id="t18631214-142-offence-2" type="offenceDescription">
+                     <interp inst="t18631214-142-offence-2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18631214-142-offence-2" type="offenceSubcategory" value="theftFromPlace"></interp>
+                     <hi rend="italic">also</hi> 2 feather beds, and other goods, value 5<hi rend="italic">l</hi>., the property of <persName id="t18631214-name-151" type="victimName">
+                        <interp inst="t18631214-name-151" type="gender" value="male"></interp>
+                        <interp inst="t18631214-name-151" type="surname" value="FOX"></interp>
+                        <interp inst="t18631214-name-151" type="given" value="WILLIAM"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18631214-142-offence-2 t18631214-name-151"></join>William Fox</persName>, in his dwelling house.</rs>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18631214-142-punishment-35" type="punishmentDescription">
+                        <interp inst="t18631214-142-punishment-35" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18631214-142-punishment-35" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-142-18631214 t18631214-142-punishment-35"></join>Confined Twelve Months</rs>.</hi>
+               </p>
+            </div1>

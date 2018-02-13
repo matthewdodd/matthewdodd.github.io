@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17020114-22">
+               <interp inst="t17020114-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17020114-22" type="year" value="1702"></interp>
+               <interp inst="t17020114-22" type="uri" value="sessionsPapers/17020114"></interp>
+               <interp inst="t17020114-22" type="date" value="17020114"></interp>
+               <join result="criminalCharge" id="t17020114-22-off120-c78" targOrder="Y" targets="t17020114-22-defend78 t17020114-22-off120 t17020114-22-verdict122"></join>
+         
+               <p>
+            
+                  <persName id="t17020114-22-defend78" type="defendantName">
+                  Elizabeth 
+                  Green
+               <interp inst="t17020114-22-defend78" type="surname" value="Green"></interp>
+                     <interp inst="t17020114-22-defend78" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17020114-22-defend78" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17020114-22-defloc119">St. James Westminster</placeName>
+                  <interp inst="t17020114-22-defloc119" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t17020114-22-defloc119" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17020114-22-defend78 t17020114-22-defloc119"></join>, was indicted for <rs id="t17020114-22-off120" type="offenceDescription">
+                     <interp inst="t17020114-22-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17020114-22-off120" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 stuff Petticoats, a Callico-gown, a Pair of Stays
+            </rs>, and other Goods of 
+               <persName id="t17020114-22-victim79" type="victimName">
+                  Jane 
+                  Savage
+               <interp inst="t17020114-22-victim79" type="surname" value="Savage"></interp>
+                     <interp inst="t17020114-22-victim79" type="given" value="Jane"></interp>
+                     <interp inst="t17020114-22-victim79" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17020114-22-off120 t17020114-22-victim79"></join>
+                  </persName>
+             
+                  <rs id="t17020114-22-viclabel121" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17020114-22-victim79 t17020114-22-viclabel121"></join>. It appeared that the Goods were taken upon her by a Constable, which were owned by the Prosecutor to be hers. The Prisoner denied the Fact, saying, That she had them of one 
+               <persName id="t17020114-22-person80">
+                  Sarah 
+                  Brown
+               <interp inst="t17020114-22-person80" type="surname" value="Brown"></interp>
+                     <interp inst="t17020114-22-person80" type="given" value="Sarah"></interp>
+                     <interp inst="t17020114-22-person80" type="gender" value="female"></interp>
+                  </persName>
+            , who put them into her Apron; but she could not prove it. The Jury found her <rs id="t17020114-22-verdict122" type="verdictDescription">
+                     <interp inst="t17020114-22-verdict122" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17020114-22-verdict122" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17020114-22-punish123" type="punishmentDescription">
+                     <interp inst="t17020114-22-punish123" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17020114-22-punish123" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17020114-22-defend78 t17020114-22-punish123"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

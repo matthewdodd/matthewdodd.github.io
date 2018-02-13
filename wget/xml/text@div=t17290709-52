@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17290709-52">
+               <interp inst="t17290709-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17290709-52" type="year" value="1729"></interp>
+               <interp inst="t17290709-52" type="uri" value="sessionsPapers/17290709"></interp>
+               <interp inst="t17290709-52" type="date" value="17290709"></interp>
+               <join result="criminalCharge" id="t17290709-52-off258-c182" targOrder="Y" targets="t17290709-52-defend284 t17290709-52-off258 t17290709-52-verdict260"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17290709-52-defend284" type="defendantName">
+                     Elizabeth 
+                     Evans 
+                  <interp inst="t17290709-52-defend284" type="surname" value="Evans"></interp>
+                     <interp inst="t17290709-52-defend284" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17290709-52-defend284" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17290709-52-defloc257">St. James's Westminster</placeName>
+                  <interp inst="t17290709-52-defloc257" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17290709-52-defloc257" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17290709-52-defend284 t17290709-52-defloc257"></join>, was indicted for <rs id="t17290709-52-off258" type="offenceDescription">
+                     <interp inst="t17290709-52-off258" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17290709-52-off258" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing Goods
+            </rs>, the Property of 
+               
+                  <persName id="t17290709-52-victim286" type="victimName">
+                     William 
+                     Jones 
+                  <interp inst="t17290709-52-victim286" type="surname" value="Jones"></interp>
+                     <interp inst="t17290709-52-victim286" type="given" value="William"></interp>
+                     <interp inst="t17290709-52-victim286" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17290709-52-off258 t17290709-52-victim286"></join>
+                  </persName>
+                
+            , the <rs id="t17290709-52-cd259" type="crimeDate">4th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17290709-52-off258 t17290709-52-cd259"></join> last; which Fact being plainly prov'd, the Jury found her <rs id="t17290709-52-verdict260" type="verdictDescription">
+                     <interp inst="t17290709-52-verdict260" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17290709-52-verdict260" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17290709-52-punish261" type="punishmentDescription">
+                     <interp inst="t17290709-52-punish261" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17290709-52-punish261" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17290709-52-defend284 t17290709-52-punish261"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

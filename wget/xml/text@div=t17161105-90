@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17161105-90">
+               <interp inst="t17161105-90" type="collection" value="BAILEY"></interp>
+               <interp inst="t17161105-90" type="year" value="1716"></interp>
+               <interp inst="t17161105-90" type="uri" value="sessionsPapers/17161105"></interp>
+               <interp inst="t17161105-90" type="date" value="17161105"></interp>
+               <join result="criminalCharge" id="t17161105-90-off451-c273" targOrder="Y" targets="t17161105-90-defend454 t17161105-90-off451 t17161105-90-verdict452"></join>
+               <join result="criminalCharge" id="t17161105-90-off451-c274" targOrder="Y" targets="t17161105-90-defend456 t17161105-90-off451 t17161105-90-verdict452"></join>
+               <join result="criminalCharge" id="t17161105-90-off451-c275" targOrder="Y" targets="t17161105-90-defend458 t17161105-90-off451 t17161105-90-verdict452"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17161105-90-defend454" type="defendantName">
+                     Benjamin 
+                     Fultis 
+                  <interp inst="t17161105-90-defend454" type="surname" value="Fultis"></interp>
+                     <interp inst="t17161105-90-defend454" type="given" value="Benjamin"></interp>
+                     <interp inst="t17161105-90-defend454" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17161105-90-defend456" type="defendantName">
+                     Sarah 
+                     Langsdale 
+                  <interp inst="t17161105-90-defend456" type="surname" value="Langsdale"></interp>
+                     <interp inst="t17161105-90-defend456" type="given" value="Sarah"></interp>
+                     <interp inst="t17161105-90-defend456" type="gender" value="female"></interp>
+                  </persName>
+                
+             , and 
+               
+                  <persName id="t17161105-90-defend458" type="defendantName">
+                     Ann 
+                     Heathcot 
+                  <interp inst="t17161105-90-defend458" type="surname" value="Heathcot"></interp>
+                     <interp inst="t17161105-90-defend458" type="given" value="Ann"></interp>
+                     <interp inst="t17161105-90-defend458" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for a Misdemeanor. for <rs id="t17161105-90-off451" type="offenceDescription">
+                     <interp inst="t17161105-90-off451" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17161105-90-off451" type="offenceSubcategory" value="forgery"></interp>
+               forging and publishing a false Bill of Sale, for receiving the Wages of 
+                     
+                        <persName id="t17161105-90-victim460" type="victimName">
+                           Archibald 
+                           Hammon 
+                        <interp inst="t17161105-90-victim460" type="surname" value="Hammon"></interp>
+                        <interp inst="t17161105-90-victim460" type="given" value="Archibald"></interp>
+                        <interp inst="t17161105-90-victim460" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17161105-90-off451 t17161105-90-victim460"></join>
+                     </persName>
+                      
+                  , late of the ship Anglesea
+            </rs> Which being fully prov'd against them, they were found <rs id="t17161105-90-verdict452" type="verdictDescription">
+                     <interp inst="t17161105-90-verdict452" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17161105-90-punish453" type="punishmentDescription">
+                     <interp inst="t17161105-90-punish453" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17161105-90-punish453" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend454 t17161105-90-punish453"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend456 t17161105-90-punish453"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend458 t17161105-90-punish453"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17161105-90-punish454" type="punishmentDescription">
+                     <interp inst="t17161105-90-punish454" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend454 t17161105-90-punish454"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend456 t17161105-90-punish454"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17161105-90-defend458 t17161105-90-punish454"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

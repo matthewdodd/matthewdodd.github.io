@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18140420-121">
+               <interp inst="t18140420-121" type="collection" value="BAILEY"></interp>
+               <interp inst="t18140420-121" type="year" value="1814"></interp>
+               <interp inst="t18140420-121" type="uri" value="sessionsPapers/18140420"></interp>
+               <interp inst="t18140420-121" type="date" value="18140420"></interp>
+               <join result="criminalCharge" id="t18140420-121-off663-c868" targOrder="Y" targets="t18140420-121-defend1101 t18140420-121-off663 t18140420-121-verdict667"></join>
+         
+               <p>406. 
+               
+                  <persName id="t18140420-121-defend1101" type="defendantName">
+                     JOHN 
+                     SMITH
+                  <interp inst="t18140420-121-defend1101" type="surname" value="SMITH"></interp>
+                     <interp inst="t18140420-121-defend1101" type="given" value="JOHN"></interp>
+                     <interp inst="t18140420-121-defend1101" type="gender" value="male"></interp>
+                     <interp inst="t18140420-121-defend1101" type="age" value="51"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18140420-121-off663" type="offenceDescription">
+                     <interp inst="t18140420-121-off663" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18140420-121-off663" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t18140420-121-cd664" type="crimeDate">26th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18140420-121-off663 t18140420-121-cd664"></join>, a sheet, value 18 d.
+            </rs> the property of 
+               
+                  <persName id="t18140420-121-victim1103" type="victimName">
+                     John 
+                     Hannes
+                  <interp inst="t18140420-121-victim1103" type="surname" value="Hannes"></interp>
+                     <interp inst="t18140420-121-victim1103" type="given" value="John"></interp>
+                     <interp inst="t18140420-121-victim1103" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18140420-121-off663 t18140420-121-victim1103"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18140420-121-person1104">
+                  JOHN 
+                  HANNES
+               <interp inst="t18140420-121-person1104" type="surname" value="HANNES"></interp>
+                     <interp inst="t18140420-121-person1104" type="given" value="JOHN"></interp>
+                     <interp inst="t18140420-121-person1104" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t18140420-121-viclabel665" type="occupation">keep the Golden Lion</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18140420-121-victim1103 t18140420-121-viclabel665"></join>, <placeName id="t18140420-121-crimeloc666">Lemon-street, Goodman's-fields</placeName>
+                  <interp inst="t18140420-121-crimeloc666" type="placeName" value="Lemon-street, Goodman's-fields"></interp>
+                  <interp inst="t18140420-121-crimeloc666" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18140420-121-off663 t18140420-121-crimeloc666"></join>. On the 26th of February, I saw the prisoner coming down stairs; I asked him where he came from; he told me out of the taproom. I asked him what he had got under his coat; he said, nothing that belonged to me. I said, I would look; he ran into the passage, and was going to throw something away; it was my sheet; I catched hold of him.</p>
+               <p>Q. Did he lodge in your house - A. No; I never saw him before.</p>
+               <p>
+            
+                  <persName id="t18140420-121-person1105">
+                  DANIEL 
+                  SOLOMONS
+               <interp inst="t18140420-121-person1105" type="surname" value="SOLOMONS"></interp>
+                     <interp inst="t18140420-121-person1105" type="given" value="DANIEL"></interp>
+                     <interp inst="t18140420-121-person1105" type="gender" value="male"></interp>
+                  </persName>
+            . I am an officer. I produce the sheet; it was brought to the watchhouse by Mr. Hannes.</p>
+               <p>Prosecutor. It is my sheet; it was taken out of my bed-room.</p>
+               <p>
+                  <rs id="t18140420-121-verdict667" type="verdictDescription">
+                     <interp inst="t18140420-121-verdict667" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 51.</p>
+               <p>
+                  <rs id="t18140420-121-punish668" type="punishmentDescription">
+                     <interp inst="t18140420-121-punish668" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18140420-121-punish668" type="punishmentSubcategory" value="houseOfCorrection"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18140420-121-defend1101 t18140420-121-punish668"></join>
+               Confined 1 year in the house of correction
+            </rs>, <rs id="t18140420-121-punish669" type="punishmentDescription">
+                     <interp inst="t18140420-121-punish669" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t18140420-121-punish669" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18140420-121-defend1101 t18140420-121-punish669"></join>
+               fined 1 s.
+            </rs>
+               </p>
+               <p>Second Middlesex jury, before Mr. Recorder.</p>
+            </div1>

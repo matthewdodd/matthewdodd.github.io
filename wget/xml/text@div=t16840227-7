@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840227-7">
+               <interp inst="t16840227-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840227-7" type="year" value="1684"></interp>
+               <interp inst="t16840227-7" type="uri" value="sessionsPapers/16840227"></interp>
+               <interp inst="t16840227-7" type="date" value="16840227"></interp>
+               <join result="criminalCharge" id="t16840227-7-off33-c15" targOrder="Y" targets="t16840227-7-defend19 t16840227-7-off33 t16840227-7-verdict36"></join>
+         
+               <p>
+            
+                  <persName id="t16840227-7-defend19" type="defendantName">
+                  Gerrard 
+                  Middleton
+               <interp inst="t16840227-7-defend19" type="surname" value="Middleton"></interp>
+                     <interp inst="t16840227-7-defend19" type="given" value="Gerrard"></interp>
+                     <interp inst="t16840227-7-defend19" type="gender" value="male"></interp>
+                  </persName>
+            , being a <rs id="t16840227-7-deflabel32" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840227-7-defend19 t16840227-7-deflabel32"></join>, Indicted for <rs id="t16840227-7-off33" type="offenceDescription">
+                     <interp inst="t16840227-7-off33" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840227-7-off33" type="offenceSubcategory" value="burglary"></interp>
+               breaking into the House of 
+                     
+                        <persName id="t16840227-7-victim21" type="victimName">
+                           Edward 
+                           Wales
+                        <interp inst="t16840227-7-victim21" type="surname" value="Wales"></interp>
+                        <interp inst="t16840227-7-victim21" type="given" value="Edward"></interp>
+                        <interp inst="t16840227-7-victim21" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16840227-7-off33 t16840227-7-victim21"></join>
+                     </persName>
+                     
+                  , of the Parish of <placeName id="t16840227-7-crimeloc34">St. Giles's Cripplegate</placeName>
+                     <interp inst="t16840227-7-crimeloc34" type="placeName" value="St. Giles's Cripplegate"></interp>
+                     <interp inst="t16840227-7-crimeloc34" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16840227-7-off33 t16840227-7-crimeloc34"></join>, on the <rs id="t16840227-7-cd35" type="crimeDate">30th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16840227-7-off33 t16840227-7-cd35"></join> last, and stealing away one laced Crevat, one silk Mantle, 15 Holland Sheets, 2 Damask Table-Cloaths, 3 Dozen of Napkins, one silver Salt, one Peruke, and diverse other things
+            </rs>, part of which were found upon him, when apprehended: he was by the Jury brought in <rs id="t16840227-7-verdict36" type="verdictDescription">
+                     <interp inst="t16840227-7-verdict36" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16840227-7-punish37" type="punishmentDescription">
+                     <interp inst="t16840227-7-punish37" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840227-7-defend19 t16840227-7-punish37"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

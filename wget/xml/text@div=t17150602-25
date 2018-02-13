@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150602-25">
+               <interp inst="t17150602-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150602-25" type="year" value="1715"></interp>
+               <interp inst="t17150602-25" type="uri" value="sessionsPapers/17150602"></interp>
+               <interp inst="t17150602-25" type="date" value="17150602"></interp>
+               <join result="criminalCharge" id="t17150602-25-off127-c83" targOrder="Y" targets="t17150602-25-defend131 t17150602-25-off127 t17150602-25-verdict129"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150602-25-defend131" type="defendantName">
+                     Margaret 
+                     Spearman 
+                  <interp inst="t17150602-25-defend131" type="surname" value="Spearman"></interp>
+                     <interp inst="t17150602-25-defend131" type="given" value="Margaret"></interp>
+                     <interp inst="t17150602-25-defend131" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17150602-25-defloc126">White-chapel</placeName>
+                  <interp inst="t17150602-25-defloc126" type="placeName" value="White-chapel"></interp>
+                  <interp inst="t17150602-25-defloc126" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150602-25-defend131 t17150602-25-defloc126"></join>, was indicted for <rs id="t17150602-25-off127" type="offenceDescription">
+                     <interp inst="t17150602-25-off127" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150602-25-off127" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 20 s. in Money
+            </rs>, from 
+               
+                  <persName id="t17150602-25-victim133" type="victimName">
+                     Winnifred 
+                     Miller 
+                  <interp inst="t17150602-25-victim133" type="surname" value="Miller"></interp>
+                     <interp inst="t17150602-25-victim133" type="given" value="Winnifred"></interp>
+                     <interp inst="t17150602-25-victim133" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150602-25-off127 t17150602-25-victim133"></join>
+                  </persName>
+                
+            , on the <rs id="t17150602-25-cd128" type="crimeDate">28th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150602-25-off127 t17150602-25-cd128"></join> last. She did not deny the Fact at her Trial, and was found <rs id="t17150602-25-verdict129" type="verdictDescription">
+                     <interp inst="t17150602-25-verdict129" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17150602-25-punish130" type="punishmentDescription">
+                     <interp inst="t17150602-25-punish130" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17150602-25-punish130" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150602-25-defend131 t17150602-25-punish130"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

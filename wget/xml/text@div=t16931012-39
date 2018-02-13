@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16931012-39">
+               <interp inst="t16931012-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16931012-39" type="year" value="1693"></interp>
+               <interp inst="t16931012-39" type="uri" value="sessionsPapers/16931012"></interp>
+               <interp inst="t16931012-39" type="date" value="16931012"></interp>
+               <join result="criminalCharge" id="t16931012-39-off150-c112" targOrder="Y" targets="t16931012-39-defend112 t16931012-39-off150 t16931012-39-verdict154"></join>
+               <join result="criminalCharge" id="t16931012-39-off150-c113" targOrder="Y" targets="t16931012-39-defend113 t16931012-39-off150 t16931012-39-verdict153"></join>
+         
+               <p>
+            
+                  <persName id="t16931012-39-defend112" type="defendantName">
+                  John 
+                  Aldgood
+               <interp inst="t16931012-39-defend112" type="surname" value="Aldgood"></interp>
+                     <interp inst="t16931012-39-defend112" type="given" value="John"></interp>
+                     <interp inst="t16931012-39-defend112" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16931012-39-defend113" type="defendantName">
+                  John 
+                  Bonner
+               <interp inst="t16931012-39-defend113" type="surname" value="Bonner"></interp>
+                     <interp inst="t16931012-39-defend113" type="given" value="John"></interp>
+                     <interp inst="t16931012-39-defend113" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16931012-39-defloc149">Westminster</placeName>
+                  <interp inst="t16931012-39-defloc149" type="placeName" value="Westminster"></interp>
+                  <interp inst="t16931012-39-defloc149" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16931012-39-defend112 t16931012-39-defloc149"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16931012-39-defend113 t16931012-39-defloc149"></join>, were both tried, for that they, together with 
+               <persName id="t16931012-39-person114">
+                  Stephen 
+                  Duncks
+               <interp inst="t16931012-39-person114" type="surname" value="Duncks"></interp>
+                     <interp inst="t16931012-39-person114" type="given" value="Stephen"></interp>
+                     <interp inst="t16931012-39-person114" type="gender" value="male"></interp>
+                  </persName>
+             (not yet taken) did <rs id="t16931012-39-off150" type="offenceDescription">
+                     <interp inst="t16931012-39-off150" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16931012-39-off150" type="offenceSubcategory" value="theftFromPlace"></interp>
+               feloniously take out of the House of 
+                     <persName id="t16931012-39-victim115" type="victimName">
+                        Thomas 
+                        Kyrbey
+                     <interp inst="t16931012-39-victim115" type="surname" value="Kyrbey"></interp>
+                        <interp inst="t16931012-39-victim115" type="given" value="Thomas"></interp>
+                        <interp inst="t16931012-39-victim115" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16931012-39-off150 t16931012-39-victim115"></join>
+                     </persName>
+                   of <placeName id="t16931012-39-crimeloc151">Westminster</placeName>
+                     <interp inst="t16931012-39-crimeloc151" type="placeName" value="Westminster"></interp>
+                     <interp inst="t16931012-39-crimeloc151" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16931012-39-off150 t16931012-39-crimeloc151"></join> 180 l. in money
+            </rs>. The matter of Fact was, That Aldgood and Duncks went to Mr. Kyrbey's House in <placeName id="t16931012-39-crimeloc152">German-street</placeName>
+                  <interp inst="t16931012-39-crimeloc152" type="placeName" value="German-street"></interp>
+                  <interp inst="t16931012-39-crimeloc152" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16931012-39-off150 t16931012-39-crimeloc152"></join> to search for one Unit a Clipper, and they went up stairs about the House, and came down again; and then the Constable and Mr. Bonner came, (who had been waiting at an Alehouse near the House) till the other two had been in the House, the Constable and Mr. Bonner were in the House afterwards but found nothing that was suspicious; so they went all to the Tavern, and afterwards Mrs. Kyrbey went home, and mist her money, but she could not tell who had it; Mr. Bonner had good Evidence for his Reputation, how that he was a man of a fair demeanour amongst his Neighbours, and all others that he dealt with; So he was <rs id="t16931012-39-verdict153" type="verdictDescription">
+                     <interp inst="t16931012-39-verdict153" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, but Aldgood was found <rs id="t16931012-39-verdict154" type="verdictDescription">
+                     <interp inst="t16931012-39-verdict154" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16931012-39-punish155" type="punishmentDescription">
+                     <interp inst="t16931012-39-punish155" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16931012-39-defend112 t16931012-39-punish155"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

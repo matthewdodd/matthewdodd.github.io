@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17890909-70">
+               <interp inst="t17890909-70" type="collection" value="BAILEY"></interp>
+               <interp inst="t17890909-70" type="year" value="1789"></interp>
+               <interp inst="t17890909-70" type="uri" value="sessionsPapers/17890909"></interp>
+               <interp inst="t17890909-70" type="date" value="17890909"></interp>
+               <join result="criminalCharge" id="t17890909-70-off350-c514" targOrder="Y" targets="t17890909-70-defend655 t17890909-70-off350 t17890909-70-verdict355"></join>
+         
+               <p>643. 
+               
+                  <persName id="t17890909-70-defend655" type="defendantName">
+                     GEORGE 
+                     COOK
+                  <interp inst="t17890909-70-defend655" type="surname" value="COOK"></interp>
+                     <interp inst="t17890909-70-defend655" type="given" value="GEORGE"></interp>
+                     <interp inst="t17890909-70-defend655" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17890909-70-off350" type="offenceDescription">
+                     <interp inst="t17890909-70-off350" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17890909-70-off350" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t17890909-70-cd351" type="crimeDate">20th of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17890909-70-off350 t17890909-70-cd351"></join>, twenty pounds of sugar, value 6 s.
+            </rs> the property of 
+               <persName id="t17890909-70-victim656" type="victimName">
+                  
+                     <persName id="t17890909-70-person657" type="victimName">
+                        Peter 
+                        Parnham
+                     <interp inst="t17890909-70-person657" type="surname" value="Parnham"></interp>
+                        <interp inst="t17890909-70-person657" type="given" value="Peter"></interp>
+                        <interp inst="t17890909-70-person657" type="gender" value="male"></interp>
+                     </persName>
+                   
+                     <rs id="t17890909-70-viclabel352" type="occupation">and Co</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17890909-70-victim656 t17890909-70-viclabel352"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17890909-70-person657 t17890909-70-viclabel352"></join>.<interp inst="t17890909-70-victim656" type="surname" value="Parnham"></interp>
+                     <interp inst="t17890909-70-victim656" type="given" value="Peter"></interp>
+                     <interp inst="t17890909-70-victim656" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17890909-70-off350 t17890909-70-victim656"></join>
+                  </persName>
+            
+               </p>
+               <p>
+            
+                  <persName id="t17890909-70-person658">
+                  PETER
+                   PARNHAM
+               <interp inst="t17890909-70-person658" type="surname" value="PARNHAM"></interp>
+                     <interp inst="t17890909-70-person658" type="given" value="PETER"></interp>
+                     <interp inst="t17890909-70-person658" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I am a <rs id="t17890909-70-viclabel353" type="occupation">gang's-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17890909-70-victim656 t17890909-70-viclabel353"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17890909-70-person657 t17890909-70-viclabel353"></join>; there are six with me; I saw the prisoner come out of <placeName id="t17890909-70-crimeloc354">Wigan's Key warehouse</placeName>
+                  <interp inst="t17890909-70-crimeloc354" type="placeName" value="Wigan's Key warehouse"></interp>
+                  <interp inst="t17890909-70-crimeloc354" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17890909-70-off350 t17890909-70-crimeloc354"></join>; all the sugar in the warehouse was under our care; and we are obliged to make every loss good; he had been stopped by the constable in the warehouse, and a labouring man.</p>
+               <p>- SMALLETT sworn.</p>
+               <p>I saw the boy in the warehouse at a hogshead of sugar; and daubed with the sugar; I asked him how he got there? he said he got through a hole; I knew of no hole; and his shoes were all over sugar; we lost to the amount of twenty pounds weight out of two hogsheads of sugar; I found nothing but the sugar in the cloth; a sort of apron that he wore; there was about twenty pounds; then he was taken before the lord mayor.</p>
+               <p>CHARLES POCOCK sworn.</p>
+               <p>I produce the sugar; on the 20th of last month, I took it close by the boy, in the warehouse; I have had it every since.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="178909090084"></xptr>Parnham. This sugar is like the sugar in the hogsheads in the warehouse, that was lost.</p>
+               <p>
+                  <rs id="t17890909-70-verdict355" type="verdictDescription">
+                     <interp inst="t17890909-70-verdict355" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>
+                  <rs id="t17890909-70-punish356" type="punishmentDescription">
+                     <interp inst="t17890909-70-punish356" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17890909-70-punish356" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17890909-70-defend655 t17890909-70-punish356"></join>
+               Whipped
+            </rs>.</p>
+               <p>Tried by the London Jury before Mr. RECORDER.</p>
+            </div1>

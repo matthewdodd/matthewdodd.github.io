@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16850116-32">
+               <interp inst="t16850116-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16850116-32" type="year" value="1685"></interp>
+               <interp inst="t16850116-32" type="uri" value="sessionsPapers/16850116"></interp>
+               <interp inst="t16850116-32" type="date" value="16850116"></interp>
+               <join result="criminalCharge" id="t16850116-32-off160-c101" targOrder="Y" targets="t16850116-32-defend101 t16850116-32-off160 t16850116-32-verdict162"></join>
+         
+               <p>
+            
+                  <persName id="t16850116-32-defend101" type="defendantName">
+                  Richard 
+                  Williams
+               <interp inst="t16850116-32-defend101" type="surname" value="Williams"></interp>
+                     <interp inst="t16850116-32-defend101" type="given" value="Richard"></interp>
+                     <interp inst="t16850116-32-defend101" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16850116-32-off160" type="offenceDescription">
+                     <interp inst="t16850116-32-off160" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16850116-32-off160" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the house of 
+                     <persName id="t16850116-32-victim102" type="victimName">
+                        Robert 
+                        Harland
+                     <interp inst="t16850116-32-victim102" type="surname" value="Harland"></interp>
+                        <interp inst="t16850116-32-victim102" type="given" value="Robert"></interp>
+                        <interp inst="t16850116-32-victim102" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16850116-32-off160 t16850116-32-victim102"></join>
+                     </persName>
+                   near <placeName id="t16850116-32-crimeloc161">Pauls-wharf</placeName>
+                     <interp inst="t16850116-32-crimeloc161" type="placeName" value="Pauls-wharf"></interp>
+                     <interp inst="t16850116-32-crimeloc161" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16850116-32-off160 t16850116-32-crimeloc161"></join>, and taking thence a Brass Cock of small value
+            </rs>, it appeared, that coming home early in the Morning, as he opened his door, he heard a noise in the Celler, and well observing it, soon after espied the Prisoner in the street, whom he supposed to have got out of the Celler Window, and in his hand a Brass-Cock, which he had taken thence, to which Williams pleaded, that he found the cock before-mentioned, and was found <rs id="t16850116-32-verdict162" type="verdictDescription">
+                     <interp inst="t16850116-32-verdict162" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16850116-32-verdict162" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty of the Fellony only, to the Value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16850116-32-punish163" type="punishmentDescription">
+                     <interp inst="t16850116-32-punish163" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16850116-32-punish163" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16850116-32-defend101 t16850116-32-punish163"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

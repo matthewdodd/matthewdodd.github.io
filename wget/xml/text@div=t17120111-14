@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17120111-14">
+               <interp inst="t17120111-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17120111-14" type="year" value="1712"></interp>
+               <interp inst="t17120111-14" type="uri" value="sessionsPapers/17120111"></interp>
+               <interp inst="t17120111-14" type="date" value="17120111"></interp>
+               <join result="criminalCharge" id="t17120111-14-off55-c52" targOrder="Y" targets="t17120111-14-defend73 t17120111-14-off55 t17120111-14-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17120111-14-defend73" type="defendantName">
+                     John 
+                     Jones
+                  <interp inst="t17120111-14-defend73" type="surname" value="Jones"></interp>
+                     <interp inst="t17120111-14-defend73" type="given" value="John"></interp>
+                     <interp inst="t17120111-14-defend73" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17120111-14-defloc54">St. Anne Black-Fryars</placeName>
+                  <interp inst="t17120111-14-defloc54" type="placeName" value="St. Anne Black-Fryars"></interp>
+                  <interp inst="t17120111-14-defloc54" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17120111-14-defend73 t17120111-14-defloc54"></join>, was indicted for <rs id="t17120111-14-off55" type="offenceDescription">
+                     <interp inst="t17120111-14-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17120111-14-off55" type="offenceSubcategory" value="theftFromPlace"></interp>
+               breaking the Ware-house
+            </rs> of 
+               
+                  <persName id="t17120111-14-victim75" type="victimName">
+                     John 
+                     Child
+                  <interp inst="t17120111-14-victim75" type="surname" value="Child"></interp>
+                     <interp inst="t17120111-14-victim75" type="given" value="John"></interp>
+                     <interp inst="t17120111-14-victim75" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17120111-14-off55 t17120111-14-victim75"></join>
+                  </persName>
+               
+            , <rs id="t17120111-14-viclabel56" type="occupation">Justice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17120111-14-victim75 t17120111-14-viclabel56"></join>, in <rs id="t17120111-14-cd57" type="crimeDate">November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17120111-14-off55 t17120111-14-cd57"></join> last. The Evidence against him depos'd, That he own'd to her he was in Company with two others, who broke open the Ware-house; and another Witness swore, that he found 3 of the Firkins in Black-Fryars; which the Woman where they were found declar'd were brought to her by 3 Men, and sold for Tallow, but cou'd not be positive the Prisoner was one; but another Witness said he was one that carr'd them, and had Share of the Money, Another Person, who bought some of it, depos'd that Jones help'd to carry it. The Prisoner in his Defence said, he was employ'd by one Draper to carry 'em, and had 1 s. for his Pains. He had some Witness, who not being credited, the Jury found him <rs id="t17120111-14-verdict58" type="verdictDescription">
+                     <interp inst="t17120111-14-verdict58" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17120111-14-punish59" type="punishmentDescription">
+                     <interp inst="t17120111-14-punish59" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17120111-14-punish59" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17120111-14-defend73 t17120111-14-punish59"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

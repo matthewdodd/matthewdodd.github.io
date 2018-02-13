@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17760109-9">
+               <interp inst="t17760109-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17760109-9" type="year" value="1776"></interp>
+               <interp inst="t17760109-9" type="uri" value="sessionsPapers/17760109"></interp>
+               <interp inst="t17760109-9" type="date" value="17760109"></interp>
+               <join result="criminalCharge" id="t17760109-9-off35-c81" targOrder="Y" targets="t17760109-9-defend100 t17760109-9-off35 t17760109-9-verdict38"></join>
+         
+               <p>123. 
+               
+                  <persName id="t17760109-9-defend100" type="defendantName">
+                     THOMAS
+                      OLIVER
+                  <interp inst="t17760109-9-defend100" type="surname" value="OLIVER"></interp>
+                     <interp inst="t17760109-9-defend100" type="given" value="THOMAS"></interp>
+                     <interp inst="t17760109-9-defend100" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17760109-9-off35" type="offenceDescription">
+                     <interp inst="t17760109-9-off35" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17760109-9-off35" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing ten shillings and two-pence half-penny
+            </rs>, the property of 
+               
+                  <persName id="t17760109-9-victim102" type="victimName">
+                     William
+                      Bean
+                  <interp inst="t17760109-9-victim102" type="surname" value="Bean"></interp>
+                     <interp inst="t17760109-9-victim102" type="given" value="William"></interp>
+                     <interp inst="t17760109-9-victim102" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17760109-9-off35 t17760109-9-victim102"></join>
+                  </persName>
+               
+            , <rs id="t17760109-9-cd36" type="crimeDate">November 20th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17760109-9-off35 t17760109-9-cd36"></join>.</p>
+               <p>
+            
+                  <persName id="t17760109-9-person103">
+                  JOHN
+                   LOVE
+               <interp inst="t17760109-9-person103" type="surname" value="LOVE"></interp>
+                     <interp inst="t17760109-9-person103" type="given" value="JOHN"></interp>
+                     <interp inst="t17760109-9-person103" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I am a servant to 
+               <persName id="t17760109-9-person104">
+                  William
+                   Bean
+               <interp inst="t17760109-9-person104" type="surname" value="Bean"></interp>
+                     <interp inst="t17760109-9-person104" type="given" value="William"></interp>
+                     <interp inst="t17760109-9-person104" type="gender" value="male"></interp>
+                  </persName>
+            , who <rs id="t17760109-9-viclabel37" type="occupation">keeps the Black Man and Woolpack in Pimlico</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17760109-9-victim102 t17760109-9-viclabel37"></join>: I had been out with some beer, about seven or eight at night of the 20th of November; in my return home the prisoner addressed me in the street, and bid me bring to the Queen's-row coffee house a pot of beer, and change for half a guinea: I went home and got the beer and the change; the prisoner met me in the street, and appeared very angry for my staying so long; he said give me the change and the pot of beer, and fetch another pot: I gave him the ten shillings and two-pence half-penny, and went home for the other pot of beer; when I brought that pot the prisoner was gone: the money is my master's property; I am positive the prisoner is the man that had it from me.</p>
+               <p>
+            
+                  <persName id="t17760109-9-person105">
+                  HENRY
+                   WILSON
+               <interp inst="t17760109-9-person105" type="surname" value="WILSON"></interp>
+                     <interp inst="t17760109-9-person105" type="given" value="HENRY"></interp>
+                     <interp inst="t17760109-9-person105" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I took up the prisoner; he was committed upon Friday night: I was present on Saturday morning, then Love picked the prisoner out when he was amongst ten or a dozen people.</p>
+               <p>PRISONER's DEFENCE.</p>
+               <p>I am entirely innocent of the charge.</p>
+               <p>
+                  <rs id="t17760109-9-verdict38" type="verdictDescription">
+                     <interp inst="t17760109-9-verdict38" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. <rs id="t17760109-9-punish39" type="punishmentDescription">
+                     <interp inst="t17760109-9-punish39" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17760109-9-punish39" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17760109-9-defend100 t17760109-9-punish39"></join>
+               Burnt in the hand
+            </rs> and <rs id="t17760109-9-punish40" type="punishmentDescription">
+                     <interp inst="t17760109-9-punish40" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17760109-9-defend100 t17760109-9-punish40"></join>
+               imprisoned
+            </rs>.</p>
+               <p>Tried by the First Middlesex Jury before Mr. Justice NARES.</p>
+            </div1>

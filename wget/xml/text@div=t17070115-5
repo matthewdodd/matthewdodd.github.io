@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17070115-5">
+               <interp inst="t17070115-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17070115-5" type="year" value="1707"></interp>
+               <interp inst="t17070115-5" type="uri" value="sessionsPapers/17070115"></interp>
+               <interp inst="t17070115-5" type="date" value="17070115"></interp>
+               <join result="criminalCharge" id="t17070115-5-off23-c35" targOrder="Y" targets="t17070115-5-defend35 t17070115-5-off23 t17070115-5-verdict25"></join>
+         
+               <p>
+            
+                  <persName id="t17070115-5-defend35" type="defendantName">
+                  Anne 
+                  Collinswood
+               <interp inst="t17070115-5-defend35" type="surname" value="Collinswood"></interp>
+                     <interp inst="t17070115-5-defend35" type="given" value="Anne"></interp>
+                     <interp inst="t17070115-5-defend35" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17070115-5-defloc22">St. Margarets Westminster</placeName>
+                  <interp inst="t17070115-5-defloc22" type="placeName" value="St. Margarets Westminster"></interp>
+                  <interp inst="t17070115-5-defloc22" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17070115-5-defend35 t17070115-5-defloc22"></join>, was Indicted for <rs id="t17070115-5-off23" type="offenceDescription">
+                     <interp inst="t17070115-5-off23" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17070115-5-off23" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing a Muslin Nightrail, value 6s. a Muslin Apron, 3s. with other things
+            </rs>, the Goods of 
+               <persName id="t17070115-5-victim36" type="victimName">
+                  Mary 
+                  Cambull
+               <interp inst="t17070115-5-victim36" type="surname" value="Cambull"></interp>
+                     <interp inst="t17070115-5-victim36" type="given" value="Mary"></interp>
+                     <interp inst="t17070115-5-victim36" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17070115-5-off23 t17070115-5-victim36"></join>
+                  </persName>
+            , on the <rs id="t17070115-5-cd24" type="crimeDate">17th. of Septem.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17070115-5-off23 t17070115-5-cd24"></join> Last, to which Indictment, the Prisoner <rs id="t17070115-5-verdict25" type="verdictDescription">
+                     <interp inst="t17070115-5-verdict25" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17070115-5-verdict25" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17070115-5-punish26" type="punishmentDescription">
+                     <interp inst="t17070115-5-punish26" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17070115-5-punish26" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070115-5-defend35 t17070115-5-punish26"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

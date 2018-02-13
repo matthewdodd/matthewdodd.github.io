@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16951203-17">
+               <interp inst="t16951203-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16951203-17" type="year" value="1695"></interp>
+               <interp inst="t16951203-17" type="uri" value="sessionsPapers/16951203"></interp>
+               <interp inst="t16951203-17" type="date" value="16951203"></interp>
+               <join result="criminalCharge" id="t16951203-17-off94-c60" targOrder="Y" targets="t16951203-17-defend60 t16951203-17-off94 t16951203-17-verdict97"></join>
+               <join result="criminalCharge" id="t16951203-17-off94-c61" targOrder="Y" targets="t16951203-17-defend61 t16951203-17-off94 t16951203-17-verdict97"></join>
+         
+               <p>
+            
+                  <persName id="t16951203-17-defend60" type="defendantName">
+                  Thomas 
+                  Butcher
+               <interp inst="t16951203-17-defend60" type="surname" value="Butcher"></interp>
+                     <interp inst="t16951203-17-defend60" type="given" value="Thomas"></interp>
+                     <interp inst="t16951203-17-defend60" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16951203-17-defend61" type="defendantName">
+                  William 
+                  Morgan
+               <interp inst="t16951203-17-defend61" type="surname" value="Morgan"></interp>
+                     <interp inst="t16951203-17-defend61" type="given" value="William"></interp>
+                     <interp inst="t16951203-17-defend61" type="gender" value="male"></interp>
+                  </persName>
+            , both of the Parish of <placeName id="t16951203-17-defloc93">Kensington</placeName>
+                  <interp inst="t16951203-17-defloc93" type="placeName" value="Kensington"></interp>
+                  <interp inst="t16951203-17-defloc93" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16951203-17-defend60 t16951203-17-defloc93"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16951203-17-defend61 t16951203-17-defloc93"></join>, were indicted for a <rs id="t16951203-17-off94" type="offenceDescription">
+                     <interp inst="t16951203-17-off94" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16951203-17-off94" type="offenceSubcategory" value="highwayRobbery"></interp>
+               Robbery on the Highway on the <rs id="t16951203-17-cd95" type="crimeDate">4th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16951203-17-off94 t16951203-17-cd95"></join> last, and taking from 
+                     <persName id="t16951203-17-victim62" type="victimName">
+                        Phillip 
+                        Baker
+                     <interp inst="t16951203-17-victim62" type="surname" value="Baker"></interp>
+                        <interp inst="t16951203-17-victim62" type="given" value="Phillip"></interp>
+                        <interp inst="t16951203-17-victim62" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16951203-17-off94 t16951203-17-victim62"></join>
+                     </persName>
+                   one pair of Shooe-Buckles, a Cloath Coat, a Wastcoat, and three Dozen of Silver Buttons, a Watch, and divers other things
+            </rs>. It appeared, That the Prosecutor and the Prisoners travelling to London, they did set upon him by <placeName id="t16951203-17-crimeloc96">Stone-Bridge between Acton and Kensington</placeName>
+                  <interp inst="t16951203-17-crimeloc96" type="placeName" value="Stone-Bridge between Acton and Kensington"></interp>
+                  <interp inst="t16951203-17-crimeloc96" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16951203-17-off94 t16951203-17-crimeloc96"></join>, and Morgan threw him down, and took from him the said Goods; that the Prosecutor met Butcher afterwards in Cannon-street, and caused him to be apprehended, who told him, if he would use him kindly, he would help him to his things again, and they had pawned the Watch for 13 s. and that a Dozen of Silver Buttons was left at the Globe in the Mist. The Prisoners denied the Fact, and said, That the Prosecutor did exchange Cloaths with them, and that the Watch was in the Wastcoat, and that they did not take any thing from him. The Jury having considered the whole matter, they were found <rs id="t16951203-17-verdict97" type="verdictDescription">
+                     <interp inst="t16951203-17-verdict97" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16951203-17-punish98" type="punishmentDescription">
+                     <interp inst="t16951203-17-punish98" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16951203-17-defend60 t16951203-17-punish98"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16951203-17-defend61 t16951203-17-punish98"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

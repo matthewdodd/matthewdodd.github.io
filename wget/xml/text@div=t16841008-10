@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16841008-10">
+               <interp inst="t16841008-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16841008-10" type="year" value="1684"></interp>
+               <interp inst="t16841008-10" type="uri" value="sessionsPapers/16841008"></interp>
+               <interp inst="t16841008-10" type="date" value="16841008"></interp>
+               <join result="criminalCharge" id="t16841008-10-off45-c59" targOrder="Y" targets="t16841008-10-defend75 t16841008-10-off45 t16841008-10-verdict48"></join>
+         
+               <p>
+            
+                  <persName id="t16841008-10-defend75" type="defendantName">
+                  Jane 
+                  Thomas
+               <interp inst="t16841008-10-defend75" type="surname" value="Thomas"></interp>
+                     <interp inst="t16841008-10-defend75" type="given" value="Jane"></interp>
+                     <interp inst="t16841008-10-defend75" type="gender" value="female"></interp>
+                  </persName>
+             Indicted for <rs id="t16841008-10-off45" type="offenceDescription">
+                     <interp inst="t16841008-10-off45" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16841008-10-off45" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four pair of Curtains, value 3 l. a pair of Vallance, value 40 s. one Pinner, value 2 s. one silk Scarf, value 8 s. one Camblet Cloak, value 5 l. and other Goods
+            </rs> being the Goods of 
+               
+                  <persName id="t16841008-10-victim77" type="victimName">
+                     John 
+                     Throne
+                  <interp inst="t16841008-10-victim77" type="surname" value="Throne"></interp>
+                     <interp inst="t16841008-10-victim77" type="given" value="John"></interp>
+                     <interp inst="t16841008-10-victim77" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16841008-10-off45 t16841008-10-victim77"></join>
+                  </persName>
+               
+             of the <placeName id="t16841008-10-crimeloc46">Old Jury</placeName>
+                  <interp inst="t16841008-10-crimeloc46" type="placeName" value="Old Jury"></interp>
+                  <interp inst="t16841008-10-crimeloc46" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16841008-10-off45 t16841008-10-crimeloc46"></join>, London, to whom she was a <rs id="t16841008-10-deflabel47" type="occupation">Maid-Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16841008-10-defend75 t16841008-10-deflabel47"></join>: but no positive Proof being thereof, she was <rs id="t16841008-10-verdict48" type="verdictDescription">
+                     <interp inst="t16841008-10-verdict48" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

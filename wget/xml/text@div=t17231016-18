@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17231016-18">
+               <interp inst="t17231016-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17231016-18" type="year" value="1723"></interp>
+               <interp inst="t17231016-18" type="uri" value="sessionsPapers/17231016"></interp>
+               <interp inst="t17231016-18" type="date" value="17231016"></interp>
+               <join result="criminalCharge" id="t17231016-18-off98-c67" targOrder="Y" targets="t17231016-18-defend95 t17231016-18-off98 t17231016-18-verdict100"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17231016-18-defend95" type="defendantName">
+                     John 
+                     Jones 
+                  <interp inst="t17231016-18-defend95" type="surname" value="Jones"></interp>
+                     <interp inst="t17231016-18-defend95" type="given" value="John"></interp>
+                     <interp inst="t17231016-18-defend95" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17231016-18-defloc97">St. Leonard Shoreditch</placeName>
+                  <interp inst="t17231016-18-defloc97" type="placeName" value="St. Leonard Shoreditch"></interp>
+                  <interp inst="t17231016-18-defloc97" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231016-18-defend95 t17231016-18-defloc97"></join>, was indicted for <rs id="t17231016-18-off98" type="offenceDescription">
+                     <interp inst="t17231016-18-off98" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17231016-18-off98" type="offenceSubcategory" value="pettyLarceny"></interp>
+               feloniously stealing a Pair of Shoes, value 8 d.
+            </rs> the Property of 
+               
+                  <persName id="t17231016-18-victim97" type="victimName">
+                     Benjamin 
+                     Holloway 
+                  <interp inst="t17231016-18-victim97" type="surname" value="Holloway"></interp>
+                     <interp inst="t17231016-18-victim97" type="given" value="Benjamin"></interp>
+                     <interp inst="t17231016-18-victim97" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17231016-18-off98 t17231016-18-victim97"></join>
+                  </persName>
+                
+            , the <rs id="t17231016-18-cd99" type="crimeDate">20th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17231016-18-off98 t17231016-18-cd99"></join> last. It appear'd by the Evidence, That the Shoes were taken by the Prisoner out of the Stall of the Prosecutor. The Prisoner pleaded, he put the Shoes on to wear an Hour or two, with a Design to return them again, working in the Stall with the Prosecutor. The Jury found him <rs id="t17231016-18-verdict100" type="verdictDescription">
+                     <interp inst="t17231016-18-verdict100" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17231016-18-verdict100" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17231016-18-punish101" type="punishmentDescription">
+                     <interp inst="t17231016-18-punish101" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17231016-18-defend95 t17231016-18-punish101"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

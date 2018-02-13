@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17070423-8">
+               <interp inst="t17070423-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17070423-8" type="year" value="1707"></interp>
+               <interp inst="t17070423-8" type="uri" value="sessionsPapers/17070423"></interp>
+               <interp inst="t17070423-8" type="date" value="17070423"></interp>
+               <join result="criminalCharge" id="t17070423-8-off39-c45" targOrder="Y" targets="t17070423-8-defend45 t17070423-8-off39 t17070423-8-verdict41"></join>
+               <join result="criminalCharge" id="t17070423-8-off39-c46" targOrder="Y" targets="t17070423-8-defend46 t17070423-8-off39 t17070423-8-verdict41"></join>
+         
+               <p>
+            
+                  <persName id="t17070423-8-defend45" type="defendantName">
+                  Jane 
+                  Bowers
+               <interp inst="t17070423-8-defend45" type="surname" value="Bowers"></interp>
+                     <interp inst="t17070423-8-defend45" type="given" value="Jane"></interp>
+                     <interp inst="t17070423-8-defend45" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17070423-8-defend46" type="defendantName">
+                  Anne 
+                  Langley
+               <interp inst="t17070423-8-defend46" type="surname" value="Langley"></interp>
+                     <interp inst="t17070423-8-defend46" type="given" value="Anne"></interp>
+                     <interp inst="t17070423-8-defend46" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17070423-8-defloc38">St. Clement Danes</placeName>
+                  <interp inst="t17070423-8-defloc38" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17070423-8-defloc38" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17070423-8-defend45 t17070423-8-defloc38"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17070423-8-defend46 t17070423-8-defloc38"></join>, were Indicted for <rs id="t17070423-8-off39" type="offenceDescription">
+                     <interp inst="t17070423-8-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17070423-8-off39" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing out of the Shop of Henry and 
+                     <persName id="t17070423-8-victim47" type="victimName">
+                        Paul 
+                        Desbrosses
+                     <interp inst="t17070423-8-victim47" type="surname" value="Desbrosses"></interp>
+                        <interp inst="t17070423-8-victim47" type="given" value="Paul"></interp>
+                        <interp inst="t17070423-8-victim47" type="gender" value="male"></interp>
+                     </persName>
+                  , 20 Yards of Muslin, value 7 l. the Goods of the said Paul and 
+                     <persName id="t17070423-8-victim48" type="victimName">
+                        Henry 
+                        Desbrosses
+                     <interp inst="t17070423-8-victim48" type="surname" value="Desbrosses"></interp>
+                        <interp inst="t17070423-8-victim48" type="given" value="Henry"></interp>
+                        <interp inst="t17070423-8-victim48" type="gender" value="male"></interp>
+                     </persName>
+                  , on the <rs id="t17070423-8-cd40" type="crimeDate">8th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17070423-8-off39 t17070423-8-cd40"></join> last
+            </rs>. The Evidence Deposed, that the Prisoner came to the Prosecutor's Shop, to cheapen some Goods, but as the Prosecutor's Back was turn'd, Bowers made use of that opportunity to take the Goods, and went off with them, but being pursu'd and search'd, they were found upon her. The Jury found them both <rs id="t17070423-8-verdict41" type="verdictDescription">
+                     <interp inst="t17070423-8-verdict41" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17070423-8-punish42" type="punishmentDescription">
+                     <interp inst="t17070423-8-punish42" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17070423-8-punish42" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070423-8-defend45 t17070423-8-punish42"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070423-8-defend46 t17070423-8-punish42"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17070423-8-punish43" type="punishmentDescription">
+                     <interp inst="t17070423-8-punish43" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17070423-8-punish43" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070423-8-defend45 t17070423-8-punish43"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070423-8-defend46 t17070423-8-punish43"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

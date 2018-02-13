@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150713-1">
+               <interp inst="t17150713-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150713-1" type="year" value="1715"></interp>
+               <interp inst="t17150713-1" type="uri" value="sessionsPapers/17150713"></interp>
+               <interp inst="t17150713-1" type="date" value="17150713"></interp>
+               <join result="criminalCharge" id="t17150713-1-off2-c28" targOrder="Y" targets="t17150713-1-defend28 t17150713-1-off2 t17150713-1-verdict5"></join>
+         
+               <p>
+            
+                  <persName id="t17150713-1-defend28" type="defendantName">
+                     <interp inst="t17150713-1-defend28" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17150713-1-defloc1">St. Dionys Back-church</placeName>
+                  <interp inst="t17150713-1-defloc1" type="placeName" value="St. Dionys Back-church"></interp>
+                  <interp inst="t17150713-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150713-1-defend28 t17150713-1-defloc1"></join>, was indicted for <rs id="t17150713-1-off2" type="offenceDescription">
+                     <interp inst="t17150713-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150713-1-off2" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 3 Dozen of Worsted Stockings, value 7 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17150713-1-victim30" type="victimName">
+                     John 
+                     Bradbourn 
+                  <interp inst="t17150713-1-victim30" type="surname" value="Bradbourn"></interp>
+                     <interp inst="t17150713-1-victim30" type="given" value="John"></interp>
+                     <interp inst="t17150713-1-victim30" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150713-1-off2 t17150713-1-victim30"></join>
+                  </persName>
+                
+            , on the <rs id="t17150713-1-cd3" type="crimeDate">29th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150713-1-off2 t17150713-1-cd3"></join> last. It appear'd that the Prisoner was employ'd to carry a Case of Stockings on board a Ship; and a while after a Woman going to sell some Stockings, was stopt, and declar'd she had them from the Prisoner's Wife, and she from her Husband; which Stockings were part of the Case he was entrusted with. He had confess'd that he had taken them out of the Case on the <placeName id="t17150713-1-crimeloc4">River of Thames</placeName>
+                  <interp inst="t17150713-1-crimeloc4" type="placeName" value="River of Thames"></interp>
+                  <interp inst="t17150713-1-crimeloc4" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17150713-1-off2 t17150713-1-crimeloc4"></join>; but it not being prov'd that he had Possession of any of the Goods in London, he was <rs id="t17150713-1-verdict5" type="verdictDescription">
+                     <interp inst="t17150713-1-verdict5" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

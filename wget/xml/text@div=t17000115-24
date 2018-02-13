@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17000115-24">
+               <interp inst="t17000115-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17000115-24" type="year" value="1700"></interp>
+               <interp inst="t17000115-24" type="uri" value="sessionsPapers/17000115"></interp>
+               <interp inst="t17000115-24" type="date" value="17000115"></interp>
+               <join result="criminalCharge" id="t17000115-24-off133-c88" targOrder="Y" targets="t17000115-24-defend88 t17000115-24-off133 t17000115-24-verdict135"></join>
+               <join result="criminalCharge" id="t17000115-24-off133-c89" targOrder="Y" targets="t17000115-24-defend89 t17000115-24-off133 t17000115-24-verdict135"></join>
+         
+               <p>
+            
+                  <persName id="t17000115-24-defend88" type="defendantName">
+                  Cecilia 
+                  Labree, alias <rs id="t17000115-24-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17000115-24-defend88 t17000115-24-alias-5"></join>Bayley</rs>, alias <rs id="t17000115-24-alias-6" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17000115-24-defend88 t17000115-24-alias-6"></join>Jackson</rs>
+                     <interp inst="t17000115-24-defend88" type="surname" value="Labree"></interp>
+                     <interp inst="t17000115-24-defend88" type="given" value="Cecilia"></interp>
+                     <interp inst="t17000115-24-defend88" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17000115-24-defend89" type="defendantName">
+                  Jane 
+                  Biggs, alias <rs id="t17000115-24-alias-7" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17000115-24-defend89 t17000115-24-alias-7"></join>Deverall</rs>, alias <rs id="t17000115-24-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17000115-24-defend89 t17000115-24-alias-8"></join>Attkinson</rs>
+                     <interp inst="t17000115-24-defend89" type="surname" value="Biggs"></interp>
+                     <interp inst="t17000115-24-defend89" type="given" value="Jane"></interp>
+                     <interp inst="t17000115-24-defend89" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17000115-24-defloc132">St. James Dukes-Place</placeName>
+                  <interp inst="t17000115-24-defloc132" type="placeName" value="St. James Dukes-Place"></interp>
+                  <interp inst="t17000115-24-defloc132" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000115-24-defend88 t17000115-24-defloc132"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000115-24-defend89 t17000115-24-defloc132"></join>, were Indicted for <rs id="t17000115-24-off133" type="offenceDescription">
+                     <interp inst="t17000115-24-off133" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17000115-24-off133" type="offenceSubcategory" value="coiningOffences"></interp>
+               Counterfeiting the Current Coin of this Kingdom
+            </rs>, on the <rs id="t17000115-24-cd134" type="crimeDate">13th Day of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17000115-24-off133 t17000115-24-cd134"></join> last. It appeared that they had been old Offenders, and had been Convicted formerly, and the Evidence being plain against them, the Jury thereupon found them both <rs id="t17000115-24-verdict135" type="verdictDescription">
+                     <interp inst="t17000115-24-verdict135" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17000115-24-punish136" type="punishmentDescription">
+                     <interp inst="t17000115-24-punish136" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17000115-24-defend88 t17000115-24-punish136"></join>
+               
+                     <note>[Labree: Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17000115-24-punish137" type="punishmentDescription">
+                     <interp inst="t17000115-24-punish137" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t17000115-24-punish137" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17000115-24-defend89 t17000115-24-punish137"></join>
+               
+                     <note>[Biggs: Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

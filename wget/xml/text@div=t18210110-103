@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18210110-103">
+               <interp inst="t18210110-103" type="collection" value="BAILEY"></interp>
+               <interp inst="t18210110-103" type="year" value="1821"></interp>
+               <interp inst="t18210110-103" type="uri" value="sessionsPapers/18210110"></interp>
+               <interp inst="t18210110-103" type="date" value="18210110"></interp>
+               <join result="criminalCharge" id="t18210110-103-off607-c751" targOrder="Y" targets="t18210110-103-defend1002 t18210110-103-off607 t18210110-103-verdict612"></join>
+         
+               <p>329. 
+               
+                  <persName id="t18210110-103-defend1002" type="defendantName">
+                     ALICE 
+                     HILL
+                  <interp inst="t18210110-103-defend1002" type="surname" value="HILL"></interp>
+                     <interp inst="t18210110-103-defend1002" type="given" value="ALICE"></interp>
+                     <interp inst="t18210110-103-defend1002" type="gender" value="female"></interp>
+                     <interp inst="t18210110-103-defend1002" type="age" value="18"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18210110-103-off607" type="offenceDescription">
+                     <interp inst="t18210110-103-off607" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18210110-103-off607" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18210110-103-cd608" type="crimeDate">12th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18210110-103-off607 t18210110-103-cd608"></join>, one bottle, value 2 d.; one quart of gin, value 2 s., and one ounce of tea, value 3 d.
+            </rs>, the goods of 
+               
+                  <persName id="t18210110-103-victim1004" type="victimName">
+                     James 
+                     Winch
+                  <interp inst="t18210110-103-victim1004" type="surname" value="Winch"></interp>
+                     <interp inst="t18210110-103-victim1004" type="given" value="James"></interp>
+                     <interp inst="t18210110-103-victim1004" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18210110-103-off607 t18210110-103-victim1004"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18210110-103-person1005">
+                  JAMES 
+                  WINCH
+               <interp inst="t18210110-103-person1005" type="surname" value="WINCH"></interp>
+                     <interp inst="t18210110-103-person1005" type="given" value="JAMES"></interp>
+                     <interp inst="t18210110-103-person1005" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18210110-103-viclabel609" type="occupation">publican</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18210110-103-victim1004 t18210110-103-viclabel609"></join>, and live in <placeName id="t18210110-103-crimeloc610">Worship-street</placeName>
+                  <interp inst="t18210110-103-crimeloc610" type="placeName" value="Worship-street"></interp>
+                  <interp inst="t18210110-103-crimeloc610" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18210110-103-off607 t18210110-103-crimeloc610"></join>, the prisoner was my <rs id="t18210110-103-deflabel611" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18210110-103-defend1002 t18210110-103-deflabel611"></join>. On Friday morning, the 12th of January, I came down, and found the prisoner in the bar, which she had entered with a false key. She got through into the lobby, and put a bottle of gin down - I found the tea in her apron; she had taken it from the canister. I shut her in a lodger's room.</p>
+               <p>
+            
+                  <persName id="t18210110-103-person1006">
+                  MARY 
+                  YARDLEY
+               <interp inst="t18210110-103-person1006" type="surname" value="YARDLEY"></interp>
+                     <interp inst="t18210110-103-person1006" type="given" value="MARY"></interp>
+                     <interp inst="t18210110-103-person1006" type="gender" value="female"></interp>
+                  </persName>
+            . Winch put the prisoner into my room. She said she took the bottle of gin and the tea for her father, who was ill.</p>
+               <p>
+            
+                  <persName id="t18210110-103-person1007">
+                  THOMAS 
+                  GARTON
+               <interp inst="t18210110-103-person1007" type="surname" value="GARTON"></interp>
+                     <interp inst="t18210110-103-person1007" type="given" value="THOMAS"></interp>
+                     <interp inst="t18210110-103-person1007" type="gender" value="male"></interp>
+                  </persName>
+            . I found a towel in her box.</p>
+               <p>
+                  <rs id="t18210110-103-verdict612" type="verdictDescription">
+                     <interp inst="t18210110-103-verdict612" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 18.</p>
+               <p>
+                  <rs id="t18210110-103-punish613" type="punishmentDescription">
+                     <interp inst="t18210110-103-punish613" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18210110-103-defend1002 t18210110-103-punish613"></join>
+               Confined One Month
+            </rs>.</p>
+               <p>Second Middlesex Jury, before Mr. Recorder.</p>
+            </div1>

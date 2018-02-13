@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16970224-3">
+               <interp inst="t16970224-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16970224-3" type="year" value="1697"></interp>
+               <interp inst="t16970224-3" type="uri" value="sessionsPapers/16970224"></interp>
+               <interp inst="t16970224-3" type="date" value="16970224"></interp>
+               <join result="criminalCharge" id="t16970224-3-off13-c31" targOrder="Y" targets="t16970224-3-defend31 t16970224-3-off13 t16970224-3-verdict15"></join>
+         
+               <p>
+            
+                  <persName id="t16970224-3-defend31" type="defendantName">
+                  Isaac 
+                  Adreah
+               <interp inst="t16970224-3-defend31" type="surname" value="Adreah"></interp>
+                     <interp inst="t16970224-3-defend31" type="given" value="Isaac"></interp>
+                     <interp inst="t16970224-3-defend31" type="gender" value="male"></interp>
+                  </persName>
+            , a <rs id="t16970224-3-deflabel11" type="occupation">French Minister</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16970224-3-defend31 t16970224-3-deflabel11"></join>, of the Parish of <placeName id="t16970224-3-defloc12">Saint Martins in the Fields</placeName>
+                  <interp inst="t16970224-3-defloc12" type="placeName" value="Saint Martins in the Fields"></interp>
+                  <interp inst="t16970224-3-defloc12" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16970224-3-defend31 t16970224-3-defloc12"></join>, was indicted for <rs id="t16970224-3-off13" type="offenceDescription">
+                     <interp inst="t16970224-3-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16970224-3-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing three Quarters of a yard of Silk, and a pair of Silk Breeches
+            </rs>, the Goods of 
+               <persName id="t16970224-3-victim32" type="victimName">
+                  John 
+                  Brown
+               <interp inst="t16970224-3-victim32" type="surname" value="Brown"></interp>
+                     <interp inst="t16970224-3-victim32" type="given" value="John"></interp>
+                     <interp inst="t16970224-3-victim32" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16970224-3-off13 t16970224-3-victim32"></join>
+                  </persName>
+            , on the <rs id="t16970224-3-cd14" type="crimeDate">23d of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16970224-3-off13 t16970224-3-cd14"></join> last. To which Indictment he <rs id="t16970224-3-verdict15" type="verdictDescription">
+                     <interp inst="t16970224-3-verdict15" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16970224-3-verdict15" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16970224-3-punish16" type="punishmentDescription">
+                     <interp inst="t16970224-3-punish16" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16970224-3-punish16" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16970224-3-defend31 t16970224-3-punish16"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

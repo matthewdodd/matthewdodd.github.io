@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991011-34">
+               <interp inst="t16991011-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991011-34" type="year" value="1699"></interp>
+               <interp inst="t16991011-34" type="uri" value="sessionsPapers/16991011"></interp>
+               <interp inst="t16991011-34" type="date" value="16991011"></interp>
+               <join result="criminalCharge" id="t16991011-34-off171-c120" targOrder="Y" targets="t16991011-34-defend120 t16991011-34-off171 t16991011-34-verdict174"></join>
+               <join result="criminalCharge" id="t16991011-34-off171-c121" targOrder="Y" targets="t16991011-34-defend121 t16991011-34-off171 t16991011-34-verdict174"></join>
+         
+               <p>
+            
+                  <persName id="t16991011-34-defend120" type="defendantName">
+                  Mary 
+                  Pemberton
+               <interp inst="t16991011-34-defend120" type="surname" value="Pemberton"></interp>
+                     <interp inst="t16991011-34-defend120" type="given" value="Mary"></interp>
+                     <interp inst="t16991011-34-defend120" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16991011-34-defend121" type="defendantName">
+                  Jane 
+                  Chatterton
+               <interp inst="t16991011-34-defend121" type="surname" value="Chatterton"></interp>
+                     <interp inst="t16991011-34-defend121" type="given" value="Jane"></interp>
+                     <interp inst="t16991011-34-defend121" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16991011-34-defloc170">St. Giles in the Fields</placeName>
+                  <interp inst="t16991011-34-defloc170" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t16991011-34-defloc170" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991011-34-defend120 t16991011-34-defloc170"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991011-34-defend121 t16991011-34-defloc170"></join>, were Indicted for <rs id="t16991011-34-off171" type="offenceDescription">
+                     <interp inst="t16991011-34-off171" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991011-34-off171" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a silk Night Gown, a Quilt, a stuff Petticoat,<xptr type="pageFacsimile" doc="16991011005"></xptr>and a Suit of laced Head Cloaths
+            </rs>, the Goods of 
+               <persName id="t16991011-34-victim122" type="victimName">
+                  Ann 
+                  Malsfret
+               <interp inst="t16991011-34-victim122" type="surname" value="Malsfret"></interp>
+                     <interp inst="t16991011-34-victim122" type="given" value="Ann"></interp>
+                     <interp inst="t16991011-34-victim122" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16991011-34-off171 t16991011-34-victim122"></join>
+                  </persName>
+             
+                  <rs id="t16991011-34-viclabel172" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16991011-34-victim122 t16991011-34-viclabel172"></join>, on the <rs id="t16991011-34-cd173" type="crimeDate">21th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16991011-34-off171 t16991011-34-cd173"></join> last. The Prosecutor said that she did Lodge in the Room with them, and when she was gone out they took her Trunk and Goods, and went away with them; which were afterwards found upon them. Chatterton said, The Prosecutor gave her leave to use the Goods, and did not steal them; but they being both Confederates, the Jury found them both <rs id="t16991011-34-verdict174" type="verdictDescription">
+                     <interp inst="t16991011-34-verdict174" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16991011-34-verdict174" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16991011-34-punish175" type="punishmentDescription">
+                     <interp inst="t16991011-34-punish175" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16991011-34-punish175" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991011-34-defend120 t16991011-34-punish175"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991011-34-defend121 t16991011-34-punish175"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

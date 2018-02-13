@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16851014-2">
+               <interp inst="t16851014-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16851014-2" type="year" value="1685"></interp>
+               <interp inst="t16851014-2" type="uri" value="sessionsPapers/16851014"></interp>
+               <interp inst="t16851014-2" type="date" value="16851014"></interp>
+               <join result="criminalCharge" id="t16851014-2-off6-c29" targOrder="Y" targets="t16851014-2-defend30 t16851014-2-off6 t16851014-2-verdict9"></join>
+               <join result="criminalCharge" id="t16851014-2-off6-c30" targOrder="Y" targets="t16851014-2-defend32 t16851014-2-off6 t16851014-2-verdict9"></join>
+         
+               <p>
+            
+                  <persName id="t16851014-2-defend30" type="defendantName">
+                  Nich. 
+                  Leonard
+               <interp inst="t16851014-2-defend30" type="surname" value="Leonard"></interp>
+                     <interp inst="t16851014-2-defend30" type="given" value="Nich."></interp>
+                     <interp inst="t16851014-2-defend30" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16851014-2-defend32" type="defendantName">
+                     William 
+                     Heat
+                  <interp inst="t16851014-2-defend32" type="surname" value="Heat"></interp>
+                     <interp inst="t16851014-2-defend32" type="given" value="William"></interp>
+                     <interp inst="t16851014-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+               
+            , an Interloping Prisoner, Indicted for <rs id="t16851014-2-off6" type="offenceDescription">
+                     <interp inst="t16851014-2-off6" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16851014-2-off6" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing three Geese
+            </rs>, <rs id="t16851014-2-cd7" type="crimeDate">October the 4th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16851014-2-off6 t16851014-2-cd7"></join>. from 
+               <persName id="t16851014-2-victim33" type="victimName">
+                  Ann 
+                  Betts
+               <interp inst="t16851014-2-victim33" type="surname" value="Betts"></interp>
+                     <interp inst="t16851014-2-victim33" type="given" value="Ann"></interp>
+                     <interp inst="t16851014-2-victim33" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16851014-2-off6 t16851014-2-victim33"></join>
+                  </persName>
+            , of the Parish of <placeName id="t16851014-2-crimeloc8">Enfield</placeName>
+                  <interp inst="t16851014-2-crimeloc8" type="placeName" value="Enfield"></interp>
+                  <interp inst="t16851014-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16851014-2-off6 t16851014-2-crimeloc8"></join>. It was proved that the Geese were taken on the Prisoners: The Prisoners pretended they found the Geese Pinioned. They were brought in <rs id="t16851014-2-verdict9" type="verdictDescription">
+                     <interp inst="t16851014-2-verdict9" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16851014-2-verdict9" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16851014-2-punish10" type="punishmentDescription">
+                     <interp inst="t16851014-2-punish10" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16851014-2-punish10" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16851014-2-defend30 t16851014-2-punish10"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16851014-2-defend32 t16851014-2-punish10"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

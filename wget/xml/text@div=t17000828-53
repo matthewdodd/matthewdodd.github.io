@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17000828-53">
+               <interp inst="t17000828-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17000828-53" type="year" value="1700"></interp>
+               <interp inst="t17000828-53" type="uri" value="sessionsPapers/17000828"></interp>
+               <interp inst="t17000828-53" type="date" value="17000828"></interp>
+               <join result="criminalCharge" id="t17000828-53-off274-c156" targOrder="Y" targets="t17000828-53-defend156 t17000828-53-off274 t17000828-53-verdict275"></join>
+               <join result="criminalCharge" id="t17000828-53-off274-c157" targOrder="Y" targets="t17000828-53-defend157 t17000828-53-off274 t17000828-53-verdict276"></join>
+               <join result="criminalCharge" id="t17000828-53-off274-c158" targOrder="Y" targets="t17000828-53-defend158 t17000828-53-off274 t17000828-53-verdict276"></join>
+               <join result="criminalCharge" id="t17000828-53-off274-c159" targOrder="Y" targets="t17000828-53-defend159 t17000828-53-off274 t17000828-53-verdict275"></join>
+         
+               <p>
+            
+                  <persName id="t17000828-53-defend156" type="defendantName">
+                  Alice 
+                  Thomas
+               <interp inst="t17000828-53-defend156" type="surname" value="Thomas"></interp>
+                     <interp inst="t17000828-53-defend156" type="given" value="Alice"></interp>
+                     <interp inst="t17000828-53-defend156" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17000828-53-defend157" type="defendantName">
+                  Mary 
+                  Merrifield
+               <interp inst="t17000828-53-defend157" type="surname" value="Merrifield"></interp>
+                     <interp inst="t17000828-53-defend157" type="given" value="Mary"></interp>
+                     <interp inst="t17000828-53-defend157" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17000828-53-defend158" type="defendantName">
+                  Margaret 
+                  Hambleton
+               <interp inst="t17000828-53-defend158" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17000828-53-defend158" type="given" value="Margaret"></interp>
+                     <interp inst="t17000828-53-defend158" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17000828-53-defend159" type="defendantName">
+                  W - 
+                  J -
+               <interp inst="t17000828-53-defend159" type="surname" value="J -"></interp>
+                     <interp inst="t17000828-53-defend159" type="given" value="W -"></interp>
+                     <interp inst="t17000828-53-defend159" type="gender" value="indeterminate"></interp>
+                  </persName>
+             of the Parish of <placeName id="t17000828-53-defloc273">St. Giles in the Fields</placeName>
+                  <interp inst="t17000828-53-defloc273" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17000828-53-defloc273" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000828-53-defend156 t17000828-53-defloc273"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000828-53-defend157 t17000828-53-defloc273"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000828-53-defend158 t17000828-53-defloc273"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17000828-53-defend159 t17000828-53-defloc273"></join>, was Indicted for <rs id="t17000828-53-off274" type="offenceDescription">
+                     <interp inst="t17000828-53-off274" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17000828-53-off274" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously Stealing from 
+                     <persName id="t17000828-53-victim160" type="victimName">
+                        John 
+                        Sumpton
+                     <interp inst="t17000828-53-victim160" type="surname" value="Sumpton"></interp>
+                        <interp inst="t17000828-53-victim160" type="given" value="John"></interp>
+                        <interp inst="t17000828-53-victim160" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17000828-53-off274 t17000828-53-victim160"></join>
+                     </persName>
+                  , 4 Suits of Muslin Head-dresses, a laced Handkerchief, 4 Guineas, and 3 l. 15 s. with other Goods
+            </rs>: It appeared that some of the Goods were found upon Merrifield and Hambleton when taken, and there being no Evidence to effect the other 2 they were <rs id="t17000828-53-verdict275" type="verdictDescription">
+                     <interp inst="t17000828-53-verdict275" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and Merrifield and Hambleton were found <rs id="t17000828-53-verdict276" type="verdictDescription">
+                     <interp inst="t17000828-53-verdict276" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17000828-53-verdict276" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17000828-53-punish277" type="punishmentDescription">
+                     <interp inst="t17000828-53-punish277" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17000828-53-punish277" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17000828-53-defend157 t17000828-53-punish277"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17000828-53-defend158 t17000828-53-punish277"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

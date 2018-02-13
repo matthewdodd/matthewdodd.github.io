@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160517-43">
+               <interp inst="t17160517-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160517-43" type="year" value="1716"></interp>
+               <interp inst="t17160517-43" type="uri" value="sessionsPapers/17160517"></interp>
+               <interp inst="t17160517-43" type="date" value="17160517"></interp>
+               <join result="criminalCharge" id="t17160517-43-off211-c162" targOrder="Y" targets="t17160517-43-defend260 t17160517-43-off211 t17160517-43-verdict214"></join>
+               <join result="criminalCharge" id="t17160517-43-off211-c163" targOrder="Y" targets="t17160517-43-defend262 t17160517-43-off211 t17160517-43-verdict214"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17160517-43-defend260" type="defendantName">
+                     Thomas 
+                     Williams 
+                  <interp inst="t17160517-43-defend260" type="surname" value="Williams"></interp>
+                     <interp inst="t17160517-43-defend260" type="given" value="Thomas"></interp>
+                     <interp inst="t17160517-43-defend260" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17160517-43-defend262" type="defendantName">
+                     Thomas 
+                     Muntsy 
+                  <interp inst="t17160517-43-defend262" type="surname" value="Muntsy"></interp>
+                     <interp inst="t17160517-43-defend262" type="given" value="Thomas"></interp>
+                     <interp inst="t17160517-43-defend262" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of the Parish of <placeName id="t17160517-43-defloc210">St. Giles Cripplegate</placeName>
+                  <interp inst="t17160517-43-defloc210" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t17160517-43-defloc210" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160517-43-defend260 t17160517-43-defloc210"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160517-43-defend262 t17160517-43-defloc210"></join>, were indicted for <rs id="t17160517-43-off211" type="offenceDescription">
+                     <interp inst="t17160517-43-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17160517-43-off211" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 3 Gold Rings, value 11s. 1 Silver Necklace, 3 s.1 Silver Locket 2 s. and 57 Shillings in Money
+            </rs>, the Goods and Money of 
+               
+                  <persName id="t17160517-43-victim264" type="victimName">
+                     John 
+                     Wilks 
+                  <interp inst="t17160517-43-victim264" type="surname" value="Wilks"></interp>
+                     <interp inst="t17160517-43-victim264" type="given" value="John"></interp>
+                     <interp inst="t17160517-43-victim264" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17160517-43-off211 t17160517-43-victim264"></join>
+                  </persName>
+                
+            , on the <rs id="t17160517-43-cd212" type="crimeDate">21st of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17160517-43-off211 t17160517-43-cd212"></join> last. Mr. Wilks depos'd the Prisoners were his <rs id="t17160517-43-deflabel213" type="occupation">Servants</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17160517-43-defend260 t17160517-43-deflabel213"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17160517-43-defend262 t17160517-43-deflabel213"></join> and worked in his House, but having been the Day aforesaid in Spital Fields when he came Home, found his Goods and Money were all gone, but the Prisoners being taken about 3 Weeks after they confes'd Fact, which William subscrib'd before a Justice but the other refus'd it. However upon Trial Muntsy would have taken it all upon himself, and said the other knew nothing of the Goods being stolen. The Jury brought them both in <rs id="t17160517-43-verdict214" type="verdictDescription">
+                     <interp inst="t17160517-43-verdict214" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17160517-43-verdict214" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty to the Value of 39 s.
+            </rs> each.</p>
+               <p>
+                  <rs id="t17160517-43-punish215" type="punishmentDescription">
+                     <interp inst="t17160517-43-punish215" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17160517-43-punish215" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160517-43-defend260 t17160517-43-punish215"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160517-43-defend262 t17160517-43-punish215"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

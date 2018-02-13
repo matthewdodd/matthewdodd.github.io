@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16970519-2">
+               <interp inst="t16970519-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16970519-2" type="year" value="1697"></interp>
+               <interp inst="t16970519-2" type="uri" value="sessionsPapers/16970519"></interp>
+               <interp inst="t16970519-2" type="date" value="16970519"></interp>
+               <join result="criminalCharge" id="t16970519-2-off7-c29" targOrder="Y" targets="t16970519-2-defend29 t16970519-2-off7 t16970519-2-verdict9"></join>
+         
+               <p>
+            
+                  <persName id="t16970519-2-defend29" type="defendantName">
+                  Elizabeth 
+                  Cooke
+               <interp inst="t16970519-2-defend29" type="surname" value="Cooke"></interp>
+                     <interp inst="t16970519-2-defend29" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16970519-2-defend29" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16970519-2-defloc6">St. Brides</placeName>
+                  <interp inst="t16970519-2-defloc6" type="placeName" value="St. Brides"></interp>
+                  <interp inst="t16970519-2-defloc6" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16970519-2-defend29 t16970519-2-defloc6"></join>, was indicted for <rs id="t16970519-2-off7" type="offenceDescription">
+                     <interp inst="t16970519-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16970519-2-off7" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 12 yards of Scarlet Stuff
+            </rs>, the Goods of 
+               <persName id="t16970519-2-victim30" type="victimName">
+                  Richard 
+                  Hudson
+               <interp inst="t16970519-2-victim30" type="surname" value="Hudson"></interp>
+                     <interp inst="t16970519-2-victim30" type="given" value="Richard"></interp>
+                     <interp inst="t16970519-2-victim30" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16970519-2-off7 t16970519-2-victim30"></join>
+                  </persName>
+            ; on the <rs id="t16970519-2-cd8" type="crimeDate">24th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16970519-2-off7 t16970519-2-cd8"></join> last: To which Indictment she <rs id="t16970519-2-verdict9" type="verdictDescription">
+                     <interp inst="t16970519-2-verdict9" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16970519-2-verdict9" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16970519-2-punish10" type="punishmentDescription">
+                     <interp inst="t16970519-2-punish10" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16970519-2-punish10" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16970519-2-defend29 t16970519-2-punish10"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18700404-302">
+               <interp inst="t18700404-302" type="uri" value="sessionsPapers/18700404"></interp>
+               <interp inst="t18700404-302" type="date" value="18700404"></interp>
+               <join result="criminalCharge" id="t18700404-302-charge-1" targOrder="Y" targets="def1-302-18700404 t18700404-302-offence-1 t18700404-302-verdict-1"></join>
+               <join result="criminalCharge" id="t18700404-302-charge-2" targOrder="Y" targets="def2-302-18700404 t18700404-302-offence-1 t18700404-302-verdict-1"></join>
+               <join result="criminalCharge" id="t18700404-302-charge-3" targOrder="Y" targets="def2-302-18700404 t18700404-302-offence-2 t18700404-302-verdict-2"></join>
+               <p>302. <persName id="def1-302-18700404" type="defendantName">
+                     <interp inst="def1-302-18700404" type="gender" value="male"></interp>
+                     <interp inst="def1-302-18700404" type="age" value="17"></interp>
+                     <interp inst="def1-302-18700404" type="surname" value="MOUNTFORD"></interp>
+                     <interp inst="def1-302-18700404" type="given" value="RICHARD"></interp>
+                     <hi rend="largeCaps">RICHARD MOUNTFORD</hi> (17)</persName>, and <persName id="def2-302-18700404" type="defendantName">
+                     <interp inst="def2-302-18700404" type="gender" value="male"></interp>
+                     <interp inst="def2-302-18700404" type="age" value="51"></interp>
+                     <interp inst="def2-302-18700404" type="surname" value="HASELER"></interp>
+                     <interp inst="def2-302-18700404" type="given" value="WILLIAM"></interp>
+                     <hi rend="largeCaps">WILLIAM HASELER</hi> (51)</persName>
+                  <rs id="t18700404-302-offence-1" type="offenceDescription">
+                     <interp inst="t18700404-302-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18700404-302-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>, <hi rend="smallCaps">
+                        <rs id="t18700404-302-verdict-1" type="verdictDescription">
+                           <interp inst="t18700404-302-verdict-1" type="verdictCategory" value="guilty"></interp>
+                           <interp inst="t18700404-302-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                     </hi> to stealing one piece of paper, and one ring, of <persName id="t18700404-name-15" type="victimName">
+                        <interp inst="t18700404-name-15" type="gender" value="female"></interp>
+                        <interp inst="t18700404-name-15" type="surname" value="CROSS"></interp>
+                        <interp inst="t18700404-name-15" type="given" value="LAURA JANE"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18700404-302-offence-1 t18700404-name-15"></join>Laura Jane Cross</persName>;</rs> 
+                  <hi rend="largeCaps">HASELER</hi> also <rs id="t18700404-302-offence-2" type="offenceDescription">
+                     <interp inst="t18700404-302-offence-2" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t18700404-302-offence-2" type="offenceSubcategory" value="forgery"></interp>
+                     <hi rend="smallCaps">
+                        <rs id="t18700404-302-verdict-2" type="verdictDescription">
+                           <interp inst="t18700404-302-verdict-2" type="verdictCategory" value="guilty"></interp>
+                           <interp inst="t18700404-302-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                     </hi> to forging and uttering an endorse<lb></lb>ment on an order for 19<hi rend="italic">l</hi>. 19<hi rend="italic">s</hi>.</rs> 
+                  <hi rend="largeCaps">MOUNTFORD</hi> 
+                  <hi rend="italic">received a good character—<rs id="t18700404-302-punishment-1" type="punishmentDescription">
+                        <interp inst="t18700404-302-punishment-1" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18700404-302-punishment-1" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-302-18700404 t18700404-302-punishment-1"></join>Nine Months' Imprisonment.</rs>
+                  </hi> 
+                  <hi rend="largeCaps">HASELER</hi> 
+                  <hi rend="italic">
+                     <rs id="t18700404-302-punishment-2" type="punishmentDescription">
+                        <interp inst="t18700404-302-punishment-2" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18700404-302-punishment-2" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-302-18700404 t18700404-302-punishment-2"></join>Twelve Montlis Imprisonment.</rs>
+                  </hi>
+               </p>
+            </div1>

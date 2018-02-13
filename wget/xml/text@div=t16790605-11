@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16790605-11">
+               <interp inst="t16790605-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16790605-11" type="year" value="1679"></interp>
+               <interp inst="t16790605-11" type="uri" value="sessionsPapers/16790605"></interp>
+               <interp inst="t16790605-11" type="date" value="16790605"></interp>
+               <join result="criminalCharge" id="t16790605-11-off51-c22" targOrder="Y" targets="t16790605-11-defend22 t16790605-11-off51 t16790605-11-verdict50"></join>
+         
+               <p>By the London Jury, 
+               <persName id="t16790605-11-defend22" type="defendantName">two shop-lifts<interp inst="t16790605-11-defend22" type="gender" value="female"></interp>
+                  </persName>
+             were that afternoon <rs id="t16790605-11-verdict50" type="verdictDescription">
+                     <interp inst="t16790605-11-verdict50" type="verdictCategory" value="guilty"></interp>
+               Convicted
+            </rs> for <rs id="t16790605-11-off51" type="offenceDescription">
+                     <interp inst="t16790605-11-off51" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16790605-11-off51" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing 20 yards of Persian Taffata, value 4 l. on the <rs id="t16790605-11-cd52" type="crimeDate">fifth of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16790605-11-off51 t16790605-11-cd52"></join>, out of a 
+                     <persName id="t16790605-11-victim23" type="victimName">
+                        <rs id="t16790605-11-viclabel53" type="occupation">Gentleman</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16790605-11-victim23 t16790605-11-viclabel53"></join>
+                        <interp inst="t16790605-11-victim23" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16790605-11-off51 t16790605-11-victim23"></join>
+                     </persName>
+                  s shop on <placeName id="t16790605-11-crimeloc54">Snow-hill</placeName>
+                     <interp inst="t16790605-11-crimeloc54" type="placeName" value="Snow-hill"></interp>
+                     <interp inst="t16790605-11-crimeloc54" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16790605-11-off51 t16790605-11-crimeloc54"></join>
+               
+                  </rs>, being seen (when they found themselves suspected and pursued) to drop it in an Alley, near Holborn-bridge; for which, being old Offenders, they were both <rs id="t16790605-11-punish55" type="punishmentDescription">
+                     <interp inst="t16790605-11-punish55" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16790605-11-defend22 t16790605-11-punish55"></join>
+               Condemned
+            </rs>.</p>
+            </div1>

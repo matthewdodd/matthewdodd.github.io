@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17251208-69">
+               <interp inst="t17251208-69" type="collection" value="BAILEY"></interp>
+               <interp inst="t17251208-69" type="year" value="1725"></interp>
+               <interp inst="t17251208-69" type="uri" value="sessionsPapers/17251208"></interp>
+               <interp inst="t17251208-69" type="date" value="17251208"></interp>
+               <join result="criminalCharge" id="t17251208-69-off323-c220" targOrder="Y" targets="t17251208-69-defend364 t17251208-69-off323 t17251208-69-verdict325"></join>
+               <join result="criminalCharge" id="t17251208-69-off323-c221" targOrder="Y" targets="t17251208-69-defend365 t17251208-69-off323 t17251208-69-verdict325"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17251208-69-defend364" type="defendantName">
+                     Mary 
+                     Whoran 
+                  <interp inst="t17251208-69-defend364" type="surname" value="Whoran"></interp>
+                     <interp inst="t17251208-69-defend364" type="given" value="Mary"></interp>
+                     <interp inst="t17251208-69-defend364" type="gender" value="female"></interp>
+                  </persName>
+               
+            , and 
+               <persName id="t17251208-69-defend365" type="defendantName">
+                  Redman 
+                  Dearing 
+               <interp inst="t17251208-69-defend365" type="surname" value="Dearing"></interp>
+                     <interp inst="t17251208-69-defend365" type="given" value="Redman"></interp>
+                     <interp inst="t17251208-69-defend365" type="gender" value="male"></interp>
+                  </persName>
+              were indicted for <rs id="t17251208-69-off323" type="offenceDescription">
+                     <interp inst="t17251208-69-off323" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17251208-69-off323" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing in the House of 
+                     <persName id="t17251208-69-victim366" type="victimName">
+                        John 
+                        Key 
+                     <interp inst="t17251208-69-victim366" type="surname" value="Key"></interp>
+                        <interp inst="t17251208-69-victim366" type="given" value="John"></interp>
+                        <interp inst="t17251208-69-victim366" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17251208-69-off323 t17251208-69-victim366"></join>
+                     </persName>
+                   , a Watch val. 3 l. 2 Watch Cafes, a Coat and Wastcoat
+            </rs>, <rs id="t17251208-69-cd324" type="crimeDate">November 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17251208-69-off323 t17251208-69-cd324"></join>. Each <rs id="t17251208-69-verdict325" type="verdictDescription">
+                     <interp inst="t17251208-69-verdict325" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17251208-69-verdict325" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17251208-69-punish326" type="punishmentDescription">
+                     <interp inst="t17251208-69-punish326" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17251208-69-defend364 t17251208-69-punish326"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17251208-69-defend365 t17251208-69-punish326"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16971208-29">
+               <interp inst="t16971208-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t16971208-29" type="year" value="1697"></interp>
+               <interp inst="t16971208-29" type="uri" value="sessionsPapers/16971208"></interp>
+               <interp inst="t16971208-29" type="date" value="16971208"></interp>
+               <join result="criminalCharge" id="t16971208-29-off148-c88" targOrder="Y" targets="t16971208-29-defend88 t16971208-29-off148 t16971208-29-verdict151"></join>
+         
+               <p>
+            
+                  <persName id="t16971208-29-defend88" type="defendantName">
+                  Isabella 
+                  Dickens
+               <interp inst="t16971208-29-defend88" type="surname" value="Dickens"></interp>
+                     <interp inst="t16971208-29-defend88" type="given" value="Isabella"></interp>
+                     <interp inst="t16971208-29-defend88" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16971208-29-defloc146">St. Leonards</placeName>
+                  <interp inst="t16971208-29-defloc146" type="placeName" value="St. Leonards"></interp>
+                  <interp inst="t16971208-29-defloc146" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-29-defend88 t16971208-29-defloc146"></join>, <rs id="t16971208-29-deflabel147" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16971208-29-defend88 t16971208-29-deflabel147"></join>, was indicted for <rs id="t16971208-29-off148" type="offenceDescription">
+                     <interp inst="t16971208-29-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16971208-29-off148" type="offenceSubcategory" value="grandLarceny"></interp>
+               felloniously stealing from 
+                     <persName id="t16971208-29-victim89" type="victimName">
+                        Elizabeth 
+                        Rot
+                     <interp inst="t16971208-29-victim89" type="surname" value="Rot"></interp>
+                        <interp inst="t16971208-29-victim89" type="given" value="Elizabeth"></interp>
+                        <interp inst="t16971208-29-victim89" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16971208-29-off148 t16971208-29-victim89"></join>
+                     </persName>
+                   
+                     <rs id="t16971208-29-viclabel149" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16971208-29-victim89 t16971208-29-viclabel149"></join>, on the <rs id="t16971208-29-cd150" type="crimeDate">18th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16971208-29-off148 t16971208-29-cd150"></join>, one Crape Gown value 30 s. a Crape Petticoat value 10 s. and some other Goods
+            </rs>. It appeared, That the Prisoner lodged in the Prosecutor's House, and carried away the Goods, which were found about her; she had nothing to say in her defence, the Jury brought her in <rs id="t16971208-29-verdict151" type="verdictDescription">
+                     <interp inst="t16971208-29-verdict151" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16971208-29-punish152" type="punishmentDescription">
+                     <interp inst="t16971208-29-punish152" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16971208-29-punish152" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-29-defend88 t16971208-29-punish152"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

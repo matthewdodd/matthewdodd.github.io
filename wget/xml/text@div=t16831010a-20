@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831010a-20">
+               <interp inst="t16831010a-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831010a-20" type="year" value="1683"></interp>
+               <interp inst="t16831010a-20" type="uri" value="sessionsPapers/16831010A"></interp>
+               <interp inst="t16831010a-20" type="date" value="16831010"></interp>
+               <join result="criminalCharge" id="t16831010a-20-off101-c53" targOrder="Y" targets="t16831010a-20-defend88 t16831010a-20-off101 t16831010a-20-verdict100"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831010a-20-defend88" type="defendantName">
+                     Robert 
+                     Delevere
+                  <interp inst="t16831010a-20-defend88" type="surname" value="Delevere"></interp>
+                     <interp inst="t16831010a-20-defend88" type="given" value="Robert"></interp>
+                     <interp inst="t16831010a-20-defend88" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Tryed, and found <rs id="t16831010a-20-verdict100" type="verdictDescription">
+                     <interp inst="t16831010a-20-verdict100" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, for <rs id="t16831010a-20-off101" type="offenceDescription">
+                     <interp inst="t16831010a-20-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831010a-20-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing Seventeen Shillings
+            </rs> from 
+               
+                  <persName id="t16831010a-20-victim90" type="victimName">
+                     Thomas 
+                     Agriman
+                  <interp inst="t16831010a-20-victim90" type="surname" value="Agriman"></interp>
+                     <interp inst="t16831010a-20-victim90" type="given" value="Thomas"></interp>
+                     <interp inst="t16831010a-20-victim90" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16831010a-20-off101 t16831010a-20-victim90"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+                  <rs id="t16831010a-20-punish102" type="punishmentDescription">
+                     <interp inst="t16831010a-20-punish102" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16831010a-20-punish102" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831010a-20-defend88 t16831010a-20-punish102"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16960909-24">
+               <interp inst="t16960909-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t16960909-24" type="year" value="1696"></interp>
+               <interp inst="t16960909-24" type="uri" value="sessionsPapers/16960909"></interp>
+               <interp inst="t16960909-24" type="date" value="16960909"></interp>
+               <join result="criminalCharge" id="t16960909-24-off126-c93" targOrder="Y" targets="t16960909-24-defend93 t16960909-24-off126 t16960909-24-verdict129"></join>
+               <join result="criminalCharge" id="t16960909-24-off126-c94" targOrder="Y" targets="t16960909-24-defend94 t16960909-24-off126 t16960909-24-verdict129"></join>
+         
+               <p>
+            
+                  <persName id="t16960909-24-defend93" type="defendantName">
+                  Elizabeth 
+                  Starr, alias <rs id="t16960909-24-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16960909-24-defend93 t16960909-24-alias-2"></join>Oshorne</rs>
+                     <interp inst="t16960909-24-defend93" type="surname" value="Starr"></interp>
+                     <interp inst="t16960909-24-defend93" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16960909-24-defend93" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16960909-24-defend94" type="defendantName">
+                  Elizabeth 
+                  Perry
+               <interp inst="t16960909-24-defend94" type="surname" value="Perry"></interp>
+                     <interp inst="t16960909-24-defend94" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16960909-24-defend94" type="gender" value="female"></interp>
+                  </persName>
+            , both of the Parish of <placeName id="t16960909-24-defloc125">St. Andrews Holbourn</placeName>
+                  <interp inst="t16960909-24-defloc125" type="placeName" value="St. Andrews Holbourn"></interp>
+                  <interp inst="t16960909-24-defloc125" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960909-24-defend93 t16960909-24-defloc125"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960909-24-defend94 t16960909-24-defloc125"></join>, was indicted for <rs id="t16960909-24-off126" type="offenceDescription">
+                     <interp inst="t16960909-24-off126" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16960909-24-off126" type="offenceSubcategory" value="robbery"></interp>
+               Robbing one 
+                     <persName id="t16960909-24-victim95" type="victimName">
+                        Richard 
+                        Gurney
+                     <interp inst="t16960909-24-victim95" type="surname" value="Gurney"></interp>
+                        <interp inst="t16960909-24-victim95" type="given" value="Richard"></interp>
+                        <interp inst="t16960909-24-victim95" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16960909-24-off126 t16960909-24-victim95"></join>
+                     </persName>
+                  , of a Linnen Portmanteau and Wooden Box, with 540 yards of Bone-Lace, on the <rs id="t16960909-24-cd127" type="crimeDate">22th of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16960909-24-off126 t16960909-24-cd127"></join> last
+            </rs>. It appeared that as he was going up Snow Hill, he did meet the two Women, who asked him, If he sold Lace? and he replied, Yes; then they went to the Golden Ball in Hoster-lane, but pretending that they had no Money, they desired him to go home with them, and they would give ready Money for a good parcel of it; Then they went to <placeName id="t16960909-24-crimeloc128">Saffron-Hill</placeName>
+                  <interp inst="t16960909-24-crimeloc128" type="placeName" value="Saffron-Hill"></interp>
+                  <interp inst="t16960909-24-crimeloc128" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16960909-24-off126 t16960909-24-crimeloc128"></join>, and going along, a Man came behind him with a Handkerchief, and had like to have strangled him, and the two Woman took his Goods, and went away. It was further proved, that they did Sell part of the Lace for 12 d. a yard, as much as came to 20 l. The Prisoners denied the Fact, and said that they did know nothing of it, and that the Prosecutor would needs drink with them, which they did consent to, and a while after they went their ways; it did not avail them, and they were known to be Offenders. The Jury found them both <rs id="t16960909-24-verdict129" type="verdictDescription">
+                     <interp inst="t16960909-24-verdict129" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16960909-24-punish130" type="punishmentDescription">
+                     <interp inst="t16960909-24-punish130" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16960909-24-punish130" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960909-24-defend93 t16960909-24-punish130"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960909-24-defend94 t16960909-24-punish130"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16841210-53">
+               <interp inst="t16841210-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t16841210-53" type="year" value="1684"></interp>
+               <interp inst="t16841210-53" type="uri" value="sessionsPapers/16841210"></interp>
+               <interp inst="t16841210-53" type="date" value="16841210"></interp>
+               <join result="criminalCharge" id="t16841210-53-off250-c146" targOrder="Y" targets="t16841210-53-defend146 t16841210-53-off250 t16841210-53-verdict252"></join>
+         
+               <p>
+            
+                  <persName id="t16841210-53-defend146" type="defendantName">
+                  Thomas 
+                  Leech
+               <interp inst="t16841210-53-defend146" type="surname" value="Leech"></interp>
+                     <interp inst="t16841210-53-defend146" type="given" value="Thomas"></interp>
+                     <interp inst="t16841210-53-defend146" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16841210-53-off250" type="offenceDescription">
+                     <interp inst="t16841210-53-off250" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16841210-53-off250" type="offenceSubcategory" value="other"></interp>
+               stealing 3 shirts and 2 Nec cloaths
+            </rs> from 
+               <persName id="t16841210-53-victim147" type="victimName">
+                  William 
+                  East
+               <interp inst="t16841210-53-victim147" type="surname" value="East"></interp>
+                     <interp inst="t16841210-53-victim147" type="given" value="William"></interp>
+                     <interp inst="t16841210-53-victim147" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16841210-53-off250 t16841210-53-victim147"></join>
+                  </persName>
+            , on the <rs id="t16841210-53-cd251" type="crimeDate">22 of Octob.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16841210-53-off250 t16841210-53-cd251"></join> Yet upon Evidence, but one of the shirts appearing to be the Prisoners, he was found <rs id="t16841210-53-verdict252" type="verdictDescription">
+                     <interp inst="t16841210-53-verdict252" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16841210-53-verdict252" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16841210-53-punish253" type="punishmentDescription">
+                     <interp inst="t16841210-53-punish253" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16841210-53-punish253" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16841210-53-defend146 t16841210-53-punish253"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

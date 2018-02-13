@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17141209-26">
+               <interp inst="t17141209-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17141209-26" type="year" value="1714"></interp>
+               <interp inst="t17141209-26" type="uri" value="sessionsPapers/17141209"></interp>
+               <interp inst="t17141209-26" type="date" value="17141209"></interp>
+               <join result="criminalCharge" id="t17141209-26-off135-c98" targOrder="Y" targets="t17141209-26-defend153 t17141209-26-off135 t17141209-26-verdict138"></join>
+               <join result="criminalCharge" id="t17141209-26-off139-c98" targOrder="Y" targets="t17141209-26-defend153 t17141209-26-off139 t17141209-26-verdict138"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17141209-26-defend153" type="defendantName">
+                     John 
+                     Lightfoot 
+                  <interp inst="t17141209-26-defend153" type="surname" value="Lightfoot"></interp>
+                     <interp inst="t17141209-26-defend153" type="given" value="John"></interp>
+                     <interp inst="t17141209-26-defend153" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17141209-26-defloc134">Whitechappel</placeName>
+                  <interp inst="t17141209-26-defloc134" type="placeName" value="Whitechappel"></interp>
+                  <interp inst="t17141209-26-defloc134" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17141209-26-defend153 t17141209-26-defloc134"></join>, was indicted for <rs id="t17141209-26-off135" type="offenceDescription">
+                     <interp inst="t17141209-26-off135" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17141209-26-off135" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Cloth Coat value 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17141209-26-victim155" type="victimName">
+                     Robert 
+                     Howard 
+                  <interp inst="t17141209-26-victim155" type="surname" value="Howard"></interp>
+                     <interp inst="t17141209-26-victim155" type="given" value="Robert"></interp>
+                     <interp inst="t17141209-26-victim155" type="gender" value="male"></interp>
+                  </persName>
+                
+            , on the <rs id="t17141209-26-cd136" type="crimeDate">20th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17141209-26-off135 t17141209-26-cd136"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17141209-26-off139 t17141209-26-cd136"></join> last. It appear'd, That he came to the <placeName id="t17141209-26-crimeloc137">Nagg's Head and Woolpack in Whitechappel</placeName>
+                  <interp inst="t17141209-26-crimeloc137" type="placeName" value="Nagg's Head and Woolpack in Whitechappel"></interp>
+                  <interp inst="t17141209-26-crimeloc137" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17141209-26-off135 t17141209-26-crimeloc137"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17141209-26-off139 t17141209-26-crimeloc137"></join>, and making use of a Gentleman's Name, lodg'd there a Night, and in the Morning went away with the Coat; and being stopt for another Robbery, while he was selling of it in Monmouth-street, own'd the Fact, and was found <rs id="t17141209-26-verdict138" type="verdictDescription">
+                     <interp inst="t17141209-26-verdict138" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17141209-26-verdict138" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>He was a second time indicted for stealing <rs id="t17141209-26-off139" type="offenceDescription">
+                     <interp inst="t17141209-26-off139" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17141209-26-off139" type="offenceSubcategory" value="other"></interp>
+               3 Dowlas Shirts, and other Goods
+            </rs>, from 
+               
+                  <persName id="t17141209-26-victim157" type="victimName">
+                     John 
+                     Aloffe 
+                  <interp inst="t17141209-26-victim157" type="surname" value="Aloffe"></interp>
+                     <interp inst="t17141209-26-victim157" type="given" value="John"></interp>
+                     <interp inst="t17141209-26-victim157" type="gender" value="male"></interp>
+                  </persName>
+                
+             ; which being plainly prov'd against him, he was again found <rs id="t17141209-26-verdict140" type="verdictDescription">
+                     <interp inst="t17141209-26-verdict140" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17141209-26-verdict140" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17141209-26-punish141" type="punishmentDescription">
+                     <interp inst="t17141209-26-punish141" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17141209-26-punish141" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17141209-26-defend153 t17141209-26-punish141"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

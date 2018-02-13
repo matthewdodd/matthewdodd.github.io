@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940524-6">
+               <interp inst="t16940524-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940524-6" type="year" value="1694"></interp>
+               <interp inst="t16940524-6" type="uri" value="sessionsPapers/16940524"></interp>
+               <interp inst="t16940524-6" type="date" value="16940524"></interp>
+               <join result="criminalCharge" id="t16940524-6-off20-c38" targOrder="Y" targets="t16940524-6-defend38 t16940524-6-off20 t16940524-6-verdict23"></join>
+         
+               <p>
+            
+                  <persName id="t16940524-6-defend38" type="defendantName">
+                  Sarah 
+                  Jones
+               <interp inst="t16940524-6-defend38" type="surname" value="Jones"></interp>
+                     <interp inst="t16940524-6-defend38" type="given" value="Sarah"></interp>
+                     <interp inst="t16940524-6-defend38" type="gender" value="female"></interp>
+                  </persName>
+             was Indicted for <rs id="t16940524-6-off20" type="offenceDescription">
+                     <interp inst="t16940524-6-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16940524-6-off20" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Holland Shifts, value 40s. six Neckcloths, 16s. a dozen of Napkins, Handkerchiefs, and other Linen of good value
+            </rs>, from one 
+               <persName id="t16940524-6-victim39" type="victimName">
+                  Alice 
+                  Bassett
+               <interp inst="t16940524-6-victim39" type="surname" value="Bassett"></interp>
+                     <interp inst="t16940524-6-victim39" type="given" value="Alice"></interp>
+                     <interp inst="t16940524-6-victim39" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16940524-6-off20 t16940524-6-victim39"></join>
+                  </persName>
+             
+                  <rs id="t16940524-6-viclabel21" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16940524-6-victim39 t16940524-6-viclabel21"></join>. The Cloaths were stole out of a Field in <placeName id="t16940524-6-crimeloc22">Southwark near St. Savory's Dock</placeName>
+                  <interp inst="t16940524-6-crimeloc22" type="placeName" value="Southwark near St. Savory's Dock"></interp>
+                  <interp inst="t16940524-6-crimeloc22" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16940524-6-off20 t16940524-6-crimeloc22"></join>; and some of it was found upon the Prisoner as she landed with them at Blackfryers Stairs, being stopt by a Constable, which Goods were owned by Alice Bassett to be hers. There were 11 Napkins found upon the Prisoner by one Mrs. Dunn, Wife of 
+               <persName id="t16940524-6-person40">
+                  Christopher 
+                  Dunn
+               <interp inst="t16940524-6-person40" type="surname" value="Dunn"></interp>
+                     <interp inst="t16940524-6-person40" type="given" value="Christopher"></interp>
+                     <interp inst="t16940524-6-person40" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner said the Cloaths were given her by another Woman, but could not prove it. She was an old Offender, and branded before, whereupon she was found <rs id="t16940524-6-verdict23" type="verdictDescription">
+                     <interp inst="t16940524-6-verdict23" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16940524-6-punish24" type="punishmentDescription">
+                     <interp inst="t16940524-6-punish24" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16940524-6-punish24" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940524-6-defend38 t16940524-6-punish24"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

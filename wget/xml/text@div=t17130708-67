@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17130708-67">
+               <interp inst="t17130708-67" type="collection" value="BAILEY"></interp>
+               <interp inst="t17130708-67" type="year" value="1713"></interp>
+               <interp inst="t17130708-67" type="uri" value="sessionsPapers/17130708"></interp>
+               <interp inst="t17130708-67" type="date" value="17130708"></interp>
+               <join result="criminalCharge" id="t17130708-67-off307-c180" targOrder="Y" targets="t17130708-67-defend291 t17130708-67-off307 t17130708-67-verdict310"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17130708-67-defend291" type="defendantName">
+                     Richard 
+                     Simms
+                  <interp inst="t17130708-67-defend291" type="surname" value="Simms"></interp>
+                     <interp inst="t17130708-67-defend291" type="given" value="Richard"></interp>
+                     <interp inst="t17130708-67-defend291" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17130708-67-off307" type="offenceDescription">
+                     <interp inst="t17130708-67-off307" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17130708-67-off307" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing two Stears
+            </rs>, the Goods of 
+               
+                  <persName id="t17130708-67-victim293" type="victimName">
+                     Henry 
+                     Burton
+                  <interp inst="t17130708-67-victim293" type="surname" value="Burton"></interp>
+                     <interp inst="t17130708-67-victim293" type="given" value="Henry"></interp>
+                     <interp inst="t17130708-67-victim293" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17130708-67-off307 t17130708-67-victim293"></join>
+                  </persName>
+               
+             of <placeName id="t17130708-67-crimeloc308">St. Leonard</placeName>
+                  <interp inst="t17130708-67-crimeloc308" type="placeName" value="St. Leonard"></interp>
+                  <interp inst="t17130708-67-crimeloc308" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17130708-67-off307 t17130708-67-crimeloc308"></join>, on the <rs id="t17130708-67-cd309" type="crimeDate">2d of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17130708-67-off307 t17130708-67-cd309"></join> last. It appear'd, that the Prosecutor lost his Stears out of his Grounds, which were driven by the Prisoner to Rosemary-lane, and there stop'd, and afterwards own'd by the Prosecutor. The Fact being plain, and the Prisoner saying nothing for himself, the Jury found him <rs id="t17130708-67-verdict310" type="verdictDescription">
+                     <interp inst="t17130708-67-verdict310" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17130708-67-punish311" type="punishmentDescription">
+                     <interp inst="t17130708-67-punish311" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17130708-67-defend291 t17130708-67-punish311"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

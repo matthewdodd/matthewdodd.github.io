@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17121210-9">
+               <interp inst="t17121210-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17121210-9" type="year" value="1712"></interp>
+               <interp inst="t17121210-9" type="uri" value="sessionsPapers/17121210"></interp>
+               <interp inst="t17121210-9" type="date" value="17121210"></interp>
+               <join result="criminalCharge" id="t17121210-9-off42-c48" targOrder="Y" targets="t17121210-9-defend61 t17121210-9-off42 t17121210-9-verdict45"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17121210-9-defend61" type="defendantName">
+                     James 
+                     Goswell
+                  <interp inst="t17121210-9-defend61" type="surname" value="Goswell"></interp>
+                     <interp inst="t17121210-9-defend61" type="given" value="James"></interp>
+                     <interp inst="t17121210-9-defend61" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t17121210-9-defloc41">St. Dunstan in the West</placeName>
+                  <interp inst="t17121210-9-defloc41" type="placeName" value="St. Dunstan in the West"></interp>
+                  <interp inst="t17121210-9-defloc41" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17121210-9-defend61 t17121210-9-defloc41"></join>, was indicted for <rs id="t17121210-9-off42" type="offenceDescription">
+                     <interp inst="t17121210-9-off42" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17121210-9-off42" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a Leather Pocket-Case with Notes in it, from 
+                     
+                        <persName id="t17121210-9-victim63" type="victimName">
+                           William 
+                           Pool
+                        <interp inst="t17121210-9-victim63" type="surname" value="Pool"></interp>
+                        <interp inst="t17121210-9-victim63" type="given" value="William"></interp>
+                        <interp inst="t17121210-9-victim63" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17121210-9-off42 t17121210-9-victim63"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs> on the <rs id="t17121210-9-cd43" type="crimeDate">28th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17121210-9-off42 t17121210-9-cd43"></join> last. The Prosecutor swore, that coming along <placeName id="t17121210-9-crimeloc44">Fleet street</placeName>
+                  <interp inst="t17121210-9-crimeloc44" type="placeName" value="Fleet street"></interp>
+                  <interp inst="t17121210-9-crimeloc44" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17121210-9-off42 t17121210-9-crimeloc44"></join>, the Prisoner justl'd him, and he felt his hand in his Pocket, and turning quick about, saw him give the Case to another, whereupon seizing the Prisoner, his Companion dropt the Case, which was taken up by a Woman, and the Prosecutor had it again. He had no Witness to his Reputation and was found <rs id="t17121210-9-verdict45" type="verdictDescription">
+                     <interp inst="t17121210-9-verdict45" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17121210-9-verdict45" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17121210-9-punish46" type="punishmentDescription">
+                     <interp inst="t17121210-9-punish46" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17121210-9-punish46" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17121210-9-defend61 t17121210-9-punish46"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

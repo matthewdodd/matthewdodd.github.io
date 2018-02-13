@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840227-25">
+               <interp inst="t16840227-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840227-25" type="year" value="1684"></interp>
+               <interp inst="t16840227-25" type="uri" value="sessionsPapers/16840227"></interp>
+               <interp inst="t16840227-25" type="date" value="16840227"></interp>
+               <join result="criminalCharge" id="t16840227-25-off136-c67" targOrder="Y" targets="t16840227-25-defend87 t16840227-25-off136 t16840227-25-verdict139"></join>
+               <join result="criminalCharge" id="t16840227-25-off136-c68" targOrder="Y" targets="t16840227-25-defend89 t16840227-25-off136 t16840227-25-verdict139"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16840227-25-defend87" type="defendantName">
+                     Michael 
+                     Parum
+                  <interp inst="t16840227-25-defend87" type="surname" value="Parum"></interp>
+                     <interp inst="t16840227-25-defend87" type="given" value="Michael"></interp>
+                     <interp inst="t16840227-25-defend87" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16840227-25-defend89" type="defendantName">
+                     Jane 
+                     Baker
+                  <interp inst="t16840227-25-defend89" type="surname" value="Baker"></interp>
+                     <interp inst="t16840227-25-defend89" type="given" value="Jane"></interp>
+                     <interp inst="t16840227-25-defend89" type="gender" value="female"></interp>
+                  </persName>
+               
+            , Indicted for a <rs id="t16840227-25-off136" type="offenceDescription">
+                     <interp inst="t16840227-25-off136" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840227-25-off136" type="offenceSubcategory" value="burglary"></interp>
+               Felony , Burglary, and Robbery, committed at the House of 
+                     
+                        <persName id="t16840227-25-victim91" type="victimName">
+                           Seth 
+                           Lamb
+                        <interp inst="t16840227-25-victim91" type="surname" value="Lamb"></interp>
+                        <interp inst="t16840227-25-victim91" type="given" value="Seth"></interp>
+                        <interp inst="t16840227-25-victim91" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16840227-25-off136 t16840227-25-victim91"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>, the <rs id="t16840227-25-viclabel137" type="occupation">Vicar</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840227-25-victim91 t16840227-25-viclabel137"></join> of Ely in <placeName id="t16840227-25-crimeloc138">Old Brantford</placeName>
+                  <interp inst="t16840227-25-crimeloc138" type="placeName" value="Old Brantford"></interp>
+                  <interp inst="t16840227-25-crimeloc138" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16840227-25-off136 t16840227-25-crimeloc138"></join> ; no positive proof being against them, they were <rs id="t16840227-25-verdict139" type="verdictDescription">
+                     <interp inst="t16840227-25-verdict139" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

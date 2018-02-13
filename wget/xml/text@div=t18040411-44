@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18040411-44">
+               <interp inst="t18040411-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t18040411-44" type="year" value="1804"></interp>
+               <interp inst="t18040411-44" type="uri" value="sessionsPapers/18040411"></interp>
+               <interp inst="t18040411-44" type="date" value="18040411"></interp>
+               <join result="criminalCharge" id="t18040411-44-off252-c368" targOrder="Y" targets="t18040411-44-defend476 t18040411-44-off252 t18040411-44-verdict256"></join>
+         
+               <p>267. 
+               
+                  <persName id="t18040411-44-defend476" type="defendantName">
+                     THOMAS 
+                     HAWKINS
+                  <interp inst="t18040411-44-defend476" type="surname" value="HAWKINS"></interp>
+                     <interp inst="t18040411-44-defend476" type="given" value="THOMAS"></interp>
+                     <interp inst="t18040411-44-defend476" type="gender" value="male"></interp>
+                     <interp inst="t18040411-44-defend476" type="age" value="46"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18040411-44-off252" type="offenceDescription">
+                     <interp inst="t18040411-44-off252" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18040411-44-off252" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t18040411-44-cd253" type="crimeDate">21st of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18040411-44-off252 t18040411-44-cd253"></join>, a quart pewter pot, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t18040411-44-victim478" type="victimName">
+                     James 
+                     Cummings
+                  <interp inst="t18040411-44-victim478" type="surname" value="Cummings"></interp>
+                     <interp inst="t18040411-44-victim478" type="given" value="James"></interp>
+                     <interp inst="t18040411-44-victim478" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18040411-44-off252 t18040411-44-victim478"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18040411-44-person479">
+                  JAMES 
+                  CUMMINGS
+               <interp inst="t18040411-44-person479" type="surname" value="CUMMINGS"></interp>
+                     <interp inst="t18040411-44-person479" type="given" value="JAMES"></interp>
+                     <interp inst="t18040411-44-person479" type="gender" value="male"></interp>
+                  </persName>
+             sworn. - I am a <rs id="t18040411-44-viclabel254" type="occupation">publican</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18040411-44-victim478 t18040411-44-viclabel254"></join>, I live at <placeName id="t18040411-44-crimeloc255">the Three Tuns, Great New-street, Fetter-lane</placeName>
+                  <interp inst="t18040411-44-crimeloc255" type="placeName" value="the Three Tuns, Great New-street, Fetter-lane"></interp>
+                  <interp inst="t18040411-44-crimeloc255" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18040411-44-off252 t18040411-44-crimeloc255"></join>: On the 21st of March, about four o'clock in the afternoon, the prisoner, accompanied by a man and a boy, came into my house and called for a pint of porter, I was in the tap-room when he came in, sitting by the fire in conversation with two of my neighbours; the prisoner sat down at a table nearly opposite me, the person that accompanied him drew near the fire to cover my view of him; after he had sat two or three minutes I perceived, through a vacancy of a person moving, the prisoner take this pot, and putting it off the table, I could perceive he was putting it somewhere about his person; after that, the prisoner, accompanied by this man and a boy, got up; I immediately rose up, and desired a person to follow him that was present, for I had not the least doubt that that man had a pot of mine about him, and in about two or three yards from my own door, I took him by the collar, and charged him with it, he denied it; he wore at that time a large blue apron, I turned up his apron, and in the front of his breeches I found this pot. (The pot produced, and identified by the prosecutor.)</p>
+               <p>JAMES - sworn. - I am a barber: On the 21st of March, I went to Mr. Cummings's house to drink a pint of beer, which I usually do, and while I was there, the prisoner at the bar, accompanied with a man and a boy, called for a pint of beer; one man placed himself by the fire, and warmed the beer, I did not perceive him pay for it; in a few minutes they went out of the house; Cummings said to me, I suspect that that man has a pot of mine; he took it from him in the street.</p>
+
+               <p>
+                  <rs id="t18040411-44-verdict256" type="verdictDescription">
+                     <interp inst="t18040411-44-verdict256" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 46.</p>
+               <p>
+                  <rs id="t18040411-44-punish257" type="punishmentDescription">
+                     <interp inst="t18040411-44-punish257" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18040411-44-punish257" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18040411-44-defend476 t18040411-44-punish257"></join>
+               Confined six months in Newgate
+            </rs>, and <rs id="t18040411-44-punish258" type="punishmentDescription">
+                     <interp inst="t18040411-44-punish258" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18040411-44-punish258" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18040411-44-defend476 t18040411-44-punish258"></join>
+               publicly whipped
+            </rs>.</p>
+               <p>London Jury, before Mr. Recorder.</p>
+            </div1>

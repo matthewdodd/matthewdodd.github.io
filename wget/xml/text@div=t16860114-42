@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860114-42">
+               <interp inst="t16860114-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860114-42" type="year" value="1686"></interp>
+               <interp inst="t16860114-42" type="uri" value="sessionsPapers/16860114"></interp>
+               <interp inst="t16860114-42" type="date" value="16860114"></interp>
+               <join result="criminalCharge" id="t16860114-42-off202-c124" targOrder="Y" targets="t16860114-42-defend190 t16860114-42-off202 t16860114-42-verdict205"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16860114-42-defend190" type="defendantName">
+                     Elizabeth 
+                     Berry
+                  <interp inst="t16860114-42-defend190" type="surname" value="Berry"></interp>
+                     <interp inst="t16860114-42-defend190" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16860114-42-defend190" type="gender" value="female"></interp>
+                  </persName>
+               
+            , Tryed for <rs id="t16860114-42-off202" type="offenceDescription">
+                     <interp inst="t16860114-42-off202" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860114-42-off202" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing two Yards of Bone-Lace value 8 s from 
+                     
+                        <persName id="t16860114-42-victim192" type="victimName">
+                           Joseph 
+                           Trig
+                        <interp inst="t16860114-42-victim192" type="surname" value="Trig"></interp>
+                        <interp inst="t16860114-42-victim192" type="given" value="Joseph"></interp>
+                        <interp inst="t16860114-42-victim192" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16860114-42-off202 t16860114-42-victim192"></join>
+                     </persName>
+                     
+                   of <placeName id="t16860114-42-crimeloc203">St. Leonards Shorditch</placeName>
+                     <interp inst="t16860114-42-crimeloc203" type="placeName" value="St. Leonards Shorditch"></interp>
+                     <interp inst="t16860114-42-crimeloc203" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16860114-42-off202 t16860114-42-crimeloc203"></join>, on the <rs id="t16860114-42-cd204" type="crimeDate">1. of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16860114-42-off202 t16860114-42-cd204"></join> last; it was proved that she came into the Shop of Trigs Wife, and found an opportunity to put the Lace in her Stocking
+            </rs>; and she having no proof of her Reputation, the Jury brought her in <rs id="t16860114-42-verdict205" type="verdictDescription">
+                     <interp inst="t16860114-42-verdict205" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16860114-42-verdict205" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16860114-42-punish206" type="punishmentDescription">
+                     <interp inst="t16860114-42-punish206" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16860114-42-punish206" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860114-42-defend190 t16860114-42-punish206"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

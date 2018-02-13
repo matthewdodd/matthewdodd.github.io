@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17770409-72">
+               <interp inst="t17770409-72" type="collection" value="BAILEY"></interp>
+               <interp inst="t17770409-72" type="year" value="1777"></interp>
+               <interp inst="t17770409-72" type="uri" value="sessionsPapers/17770409"></interp>
+               <interp inst="t17770409-72" type="date" value="17770409"></interp>
+               <join result="criminalCharge" id="t17770409-72-off349-c433" targOrder="Y" targets="t17770409-72-defend602 t17770409-72-off349 t17770409-72-verdict352"></join>
+         
+               <p>333. 
+               
+                  <persName id="t17770409-72-defend602" type="defendantName">
+                     MARY
+                      LYON
+                  <interp inst="t17770409-72-defend602" type="surname" value="LYON"></interp>
+                     <interp inst="t17770409-72-defend602" type="given" value="MARY"></interp>
+                     <interp inst="t17770409-72-defend602" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17770409-72-off349" type="offenceDescription">
+                     <interp inst="t17770409-72-off349" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17770409-72-off349" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a boy's linen shirt, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17770409-72-victim604" type="victimName">
+                     Eleanor
+                      Dignan
+                  <interp inst="t17770409-72-victim604" type="surname" value="Dignan"></interp>
+                     <interp inst="t17770409-72-victim604" type="given" value="Eleanor"></interp>
+                     <interp inst="t17770409-72-victim604" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17770409-72-off349 t17770409-72-victim604"></join>
+                  </persName>
+               
+            , <rs id="t17770409-72-viclabel350" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17770409-72-victim604 t17770409-72-viclabel350"></join>, <rs id="t17770409-72-cd351" type="crimeDate">February 28th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17770409-72-off349 t17770409-72-cd351"></join>.</p>
+               <p>
+                  <rs id="t17770409-72-verdict352" type="verdictDescription">
+                     <interp inst="t17770409-72-verdict352" type="verdictCategory" value="notGuilty"></interp>
+               NOT GUILTY
+            </rs>.</p>
+               <p>Tried by the Second Middlesex Jury before Mr. Justice BLACKSTONE.</p>
+            </div1>

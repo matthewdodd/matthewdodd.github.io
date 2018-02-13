@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18260112-110">
+               <interp inst="t18260112-110" type="collection" value="BAILEY"></interp>
+               <interp inst="t18260112-110" type="year" value="1826"></interp>
+               <interp inst="t18260112-110" type="uri" value="sessionsPapers/18260112"></interp>
+               <interp inst="t18260112-110" type="date" value="18260112"></interp>
+               <join result="criminalCharge" id="t18260112-110-off618-c624" targOrder="Y" targets="t18260112-110-defend624 t18260112-110-off618 t18260112-110-verdict622"></join>
+         
+               <p>291. 
+               <persName id="t18260112-110-defend624" type="defendantName">
+                  CHARLES 
+                  REDHEAD
+               <interp inst="t18260112-110-defend624" type="surname" value="REDHEAD"></interp>
+                     <interp inst="t18260112-110-defend624" type="given" value="CHARLES"></interp>
+                     <interp inst="t18260112-110-defend624" type="gender" value="male"></interp>
+                     <interp inst="t18260112-110-defend624" type="age" value="18"></interp>
+                  </persName>
+             was indicted for <rs id="t18260112-110-off618" type="offenceDescription">
+                     <interp inst="t18260112-110-off618" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18260112-110-off618" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18260112-110-cd619" type="crimeDate">17th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18260112-110-off618 t18260112-110-cd619"></join>, 1 cheese, value 18d.
+            </rs>, the goods of 
+               <persName id="t18260112-110-victim625" type="victimName">
+                  Charles 
+                  Bailey
+               <interp inst="t18260112-110-victim625" type="surname" value="Bailey"></interp>
+                     <interp inst="t18260112-110-victim625" type="given" value="Charles"></interp>
+                     <interp inst="t18260112-110-victim625" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18260112-110-off618 t18260112-110-victim625"></join>
+                  </persName>
+            .</p>
+               <p>CHARLES BAILEY. I live in <placeName id="t18260112-110-crimeloc620">Shoreditch</placeName>
+                  <interp inst="t18260112-110-crimeloc620" type="placeName" value="Shoreditch"></interp>
+                  <interp inst="t18260112-110-crimeloc620" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18260112-110-off618 t18260112-110-crimeloc620"></join>, and am a <rs id="t18260112-110-viclabel621" type="occupation">cheesemonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18260112-110-victim625 t18260112-110-viclabel621"></join>. I saw the prisoner and another person near my house about nine o'clock in the morning of the 17th of December; the prisoner stole a cheese from my window and ran away - I pursued with my young man, and he was taken, within five minutes - I am positive of his person - I saw the cheese under his arm, but he got rid of it in a court which he ran up, and I have not seen it since.</p>
+               <p>
+            
+                  <persName id="t18260112-110-person626">
+                  RICHARD 
+                  BELCHER
+               <interp inst="t18260112-110-person626" type="surname" value="BELCHER"></interp>
+                     <interp inst="t18260112-110-person626" type="given" value="RICHARD"></interp>
+                     <interp inst="t18260112-110-person626" type="gender" value="male"></interp>
+                  </persName>
+            . I am shopman to Mr. Bailey. I pursued and took him in the court - I saw the cheese under his arm, but I lost sight of him for a moment while he turned a corner, and then he had parted with, it and stood still.</p>
+               <p>
+            
+                  <persName id="t18260112-110-person627">
+                  GEORGE 
+                  SMITH
+               <interp inst="t18260112-110-person627" type="surname" value="SMITH"></interp>
+                     <interp inst="t18260112-110-person627" type="given" value="GEORGE"></interp>
+                     <interp inst="t18260112-110-person627" type="gender" value="male"></interp>
+                  </persName>
+            . I took him into custody.</p>
+               <p>Prisoner's Defence. I was going through the court when the prosecutor, and his young man, came up to me, and asked me for the cheese.</p>
+               <p>
+                  <rs id="t18260112-110-verdict622" type="verdictDescription">
+                     <interp inst="t18260112-110-verdict622" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 18.</p>
+               <p>
+                  <rs id="t18260112-110-punish623" type="punishmentDescription">
+                     <interp inst="t18260112-110-punish623" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18260112-110-defend624 t18260112-110-punish623"></join>
+               Confined One Month
+            </rs> and <rs id="t18260112-110-punish624" type="punishmentDescription">
+                     <interp inst="t18260112-110-punish624" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18260112-110-punish624" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18260112-110-defend624 t18260112-110-punish624"></join>
+               Publicly Whipped
+            </rs>.</p>
+            </div1>

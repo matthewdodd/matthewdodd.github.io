@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16941010-3">
+               <interp inst="t16941010-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16941010-3" type="year" value="1694"></interp>
+               <interp inst="t16941010-3" type="uri" value="sessionsPapers/16941010"></interp>
+               <interp inst="t16941010-3" type="date" value="16941010"></interp>
+               <join result="criminalCharge" id="t16941010-3-off11-c31" targOrder="Y" targets="t16941010-3-defend31 t16941010-3-off11 t16941010-3-verdict13"></join>
+               <join result="criminalCharge" id="t16941010-3-off11-c32" targOrder="Y" targets="t16941010-3-defend32 t16941010-3-off11 t16941010-3-verdict12"></join>
+         
+               <p>
+            
+                  <persName id="t16941010-3-defend31" type="defendantName">
+                  Elizabeth 
+                  Lester
+               <interp inst="t16941010-3-defend31" type="surname" value="Lester"></interp>
+                     <interp inst="t16941010-3-defend31" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16941010-3-defend31" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16941010-3-defend32" type="defendantName">
+                  Jane 
+                  Ruttey
+               <interp inst="t16941010-3-defend32" type="surname" value="Ruttey"></interp>
+                     <interp inst="t16941010-3-defend32" type="given" value="Jane"></interp>
+                     <interp inst="t16941010-3-defend32" type="gender" value="female"></interp>
+                  </persName>
+             were both Arraigned for <rs id="t16941010-3-off11" type="offenceDescription">
+                     <interp inst="t16941010-3-off11" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16941010-3-off11" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing 34 Yards of Silk Ribbon, val. 12 s.
+            </rs> the Goods of 
+               <persName id="t16941010-3-victim33" type="victimName">
+                  Daniel 
+                  Thomas
+               <interp inst="t16941010-3-victim33" type="surname" value="Thomas"></interp>
+                     <interp inst="t16941010-3-victim33" type="given" value="Daniel"></interp>
+                     <interp inst="t16941010-3-victim33" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16941010-3-off11 t16941010-3-victim33"></join>
+                  </persName>
+            : Ruttey <rs id="t16941010-3-verdict12" type="verdictDescription">
+                     <interp inst="t16941010-3-verdict12" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16941010-3-verdict12" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               confest
+            </rs> the Felony upon Arraignment; Lester was afterwards Tried, and the Proof against her was. That both of them came into the shop to buy Ribboning, and slipt away the 34 Yards of Ribbon; they were pursued, and Ruttey was seen to fling the Goods behind her; but no one could swear she had the Ribbon, yet she was found <rs id="t16941010-3-verdict13" type="verdictDescription">
+                     <interp inst="t16941010-3-verdict13" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16941010-3-verdict13" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty of a Petty. Larceny
+            </rs>.</p>
+               <p>
+                  <rs id="t16941010-3-punish14" type="punishmentDescription">
+                     <interp inst="t16941010-3-punish14" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16941010-3-punish14" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16941010-3-defend31 t16941010-3-punish14"></join>
+               
+                     <note>[Lester: Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16941010-3-punish15" type="punishmentDescription">
+                     <interp inst="t16941010-3-punish15" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16941010-3-punish15" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16941010-3-defend32 t16941010-3-punish15"></join>
+               
+                     <note>[Ruttey: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

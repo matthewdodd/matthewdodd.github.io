@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18550409-493">
+               <interp inst="t18550409-493" type="uri" value="sessionsPapers/18550409"></interp>
+               <interp inst="t18550409-493" type="date" value="18550409"></interp>
+               <join result="criminalCharge" id="t18550409-493-charge-1" targOrder="Y" targets="def1-493-18550409 t18550409-493-offence-1 t18550409-493-verdict-1"></join>
+               <p>493. <persName id="def1-493-18550409" type="defendantName">
+                     <interp inst="def1-493-18550409" type="gender" value="male"></interp>
+                     <interp inst="def1-493-18550409" type="age" value="19"></interp>
+                     <interp inst="def1-493-18550409" type="surname" value="WHEATLEY"></interp>
+                     <interp inst="def1-493-18550409" type="given" value="CHARLES"></interp>
+                     <hi rend="largeCaps">CHARLES WHEATLEY</hi>
+                  </persName>
+                  <rs id="t18550409-493-offence-1" type="offenceDescription">
+                     <interp inst="t18550409-493-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18550409-493-offence-1" type="offenceSubcategory" value="burglary"></interp>, burglariously breaking and entering the dwelling house of <persName id="t18550409-name-452" type="victimName">
+                        <interp inst="t18550409-name-452" type="gender" value="male"></interp>
+                        <interp inst="t18550409-name-452" type="surname" value="CALVERT"></interp>
+                        <interp inst="t18550409-name-452" type="given" value="HENRY"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18550409-493-offence-1 t18550409-name-452"></join>Henry Calvert</persName> on <rs id="t18550409-cd-9" type="crimeDate">
+                        <join result="offenceCrimeDate" targOrder="Y" targets="t18550409-493-offence-1 t18550409-cd-9"></join>6th March</rs>, at <placeName id="t18550409-geo-3">
+                        <join result="offencePlace" targOrder="Y" targets="t18550409-493-offence-1 t18550409-geo-3"></join>St. Mary Abbotts, Kensington</placeName>, and stealing therein 1 bottle, value 4<hi rend="italic">d</hi>., and 1/2 Ib. of sweet<lb></lb>meats, value 1<hi rend="italic">s</hi>.; his goods.</rs>
+               </p>
+               <p>
+                  <hi rend="smallCaps">
+                     <rs id="t18550409-493-verdict-1" type="verdictDescription">
+                        <interp inst="t18550409-493-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18550409-493-verdict-1" type="verdictSubcategory" value="no_subcategory"></interp>GUILTY</rs>
+                  </hi>. Aged 19.—<hi rend="italic">
+                     <rs id="t18550409-493-punishment-89" type="punishmentDescription">
+                        <interp inst="t18550409-493-punishment-89" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18550409-493-punishment-89" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-493-18550409 t18550409-493-punishment-89"></join>Confined Three Months</rs>.</hi>
+               </p>
+            </div1>

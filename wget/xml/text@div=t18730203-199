@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18730203-199">
+               <interp inst="t18730203-199" type="uri" value="sessionsPapers/18730203"></interp>
+               <interp inst="t18730203-199" type="date" value="18730203"></interp>
+               <join result="criminalCharge" id="t18730203-199-charge-1" targOrder="Y" targets="def1-199-18730203 t18730203-199-offence-1 t18730203-199-verdict-1"></join>
+               <p>199. <persName id="def1-199-18730203" type="defendantName">
+                     <interp inst="def1-199-18730203" type="gender" value="male"></interp>
+                     <interp inst="def1-199-18730203" type="age" value="21"></interp>
+                     <interp inst="def1-199-18730203" type="surname" value="ADAMS"></interp>
+                     <interp inst="def1-199-18730203" type="given" value="WILLIAM"></interp>
+                     <hi rend="largeCaps">WILLIAM ADAMS</hi> (21)</persName>
+                  <hi rend="smallCaps">
+                     <rs id="t18730203-199-verdict-1" type="verdictDescription">
+                        <interp inst="t18730203-199-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18730203-199-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>
+                  <rs id="t18730203-199-offence-1" type="offenceDescription">
+                     <interp inst="t18730203-199-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18730203-199-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>to stealing one drinking<lb></lb>glass and divers money, value 19<hi rend="italic">s</hi>., the goods of <persName id="t18730203-name-307" type="victimName">
+                        <interp inst="t18730203-name-307" type="gender" value="male"></interp>
+                        <interp inst="t18730203-name-307" type="surname" value="RICHARDSON"></interp>
+                        <interp inst="t18730203-name-307" type="given" value="WILLIAM"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18730203-199-offence-1 t18730203-name-307"></join>William Richardson</persName>.</rs>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18730203-199-punishment-39" type="punishmentDescription">
+                        <interp inst="t18730203-199-punishment-39" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18730203-199-punishment-39" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-199-18730203 t18730203-199-punishment-39"></join>Eighteen Months' Imprisonment.</rs>
+                  </hi>
+               </p>
+            </div1>

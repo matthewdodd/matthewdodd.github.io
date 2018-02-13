@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831212-11">
+               <interp inst="t16831212-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831212-11" type="year" value="1683"></interp>
+               <interp inst="t16831212-11" type="uri" value="sessionsPapers/16831212"></interp>
+               <interp inst="t16831212-11" type="date" value="16831212"></interp>
+               <join result="criminalCharge" id="t16831212-11-off46-c31" targOrder="Y" targets="t16831212-11-defend50 t16831212-11-off46 t16831212-11-verdict49"></join>
+               <join result="criminalCharge" id="t16831212-11-off46-c33" targOrder="Y" targets="t16831212-11-defend54 t16831212-11-off46 t16831212-11-verdict49"></join>
+               <join result="criminalCharge" id="t16831212-11-off46-c34" targOrder="Y" targets="t16831212-11-defend56 t16831212-11-off46 t16831212-11-verdict48"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831212-11-defend50" type="defendantName">
+                     Richard 
+                     Stout
+                  <interp inst="t16831212-11-defend50" type="surname" value="Stout"></interp>
+                     <interp inst="t16831212-11-defend50" type="given" value="Richard"></interp>
+                     <interp inst="t16831212-11-defend50" type="gender" value="male"></interp>
+                  </persName>
+               
+            , being Indicted for <rs id="t16831212-11-off46" type="offenceDescription">
+                     <interp inst="t16831212-11-off46" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16831212-11-off46" type="offenceSubcategory" value="murder"></interp>
+               the Murder of 
+                     
+                        <persName id="t16831212-11-victim52" type="victimName">
+                           John 
+                           Sutton
+                        <interp inst="t16831212-11-victim52" type="surname" value="Sutton"></interp>
+                        <interp inst="t16831212-11-victim52" type="given" value="John"></interp>
+                        <interp inst="t16831212-11-victim52" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16831212-11-off46 t16831212-11-victim52"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>; 
+               
+                  <persName id="t16831212-11-defend54" type="defendantName">
+                     Francis 
+                     Head
+                  <interp inst="t16831212-11-defend54" type="surname" value="Head"></interp>
+                     <interp inst="t16831212-11-defend54" type="given" value="Francis"></interp>
+                     <interp inst="t16831212-11-defend54" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16831212-11-defend56" type="defendantName">
+                     Mary 
+                     James
+                  <interp inst="t16831212-11-defend56" type="surname" value="James"></interp>
+                     <interp inst="t16831212-11-defend56" type="given" value="Mary"></interp>
+                     <interp inst="t16831212-11-defend56" type="gender" value="female"></interp>
+                  </persName>
+               
+            , as Accessories thereto: it appeared the said Persons were in Maskerade, and that Sutton was a <rs id="t16831212-11-viclabel47" type="occupation">Fidler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16831212-11-victim52 t16831212-11-viclabel47"></join>, who refusing to play before them so long as they required him, they drew their Swords, and one of them Killed Him. Mary James was <rs id="t16831212-11-verdict48" type="verdictDescription">
+                     <interp inst="t16831212-11-verdict48" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>: But 
+               <persName id="t16831212-11-person57">
+                  Richard 
+                  Stout
+               <interp inst="t16831212-11-person57" type="surname" value="Stout"></interp>
+                     <interp inst="t16831212-11-person57" type="given" value="Richard"></interp>
+                     <interp inst="t16831212-11-person57" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16831212-11-person58">
+                  Francis 
+                  Head
+               <interp inst="t16831212-11-person58" type="surname" value="Head"></interp>
+                     <interp inst="t16831212-11-person58" type="given" value="Francis"></interp>
+                     <interp inst="t16831212-11-person58" type="gender" value="male"></interp>
+                  </persName>
+            , found <rs id="t16831212-11-verdict49" type="verdictDescription">
+                     <interp inst="t16831212-11-verdict49" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16831212-11-verdict49" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Man-slaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16831212-11-punish50" type="punishmentDescription">
+                     <interp inst="t16831212-11-punish50" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16831212-11-punish50" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-11-defend50 t16831212-11-punish50"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-11-defend54 t16831212-11-punish50"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

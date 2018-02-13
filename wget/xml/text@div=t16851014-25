@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16851014-25">
+               <interp inst="t16851014-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16851014-25" type="year" value="1685"></interp>
+               <interp inst="t16851014-25" type="uri" value="sessionsPapers/16851014"></interp>
+               <interp inst="t16851014-25" type="date" value="16851014"></interp>
+               <join result="criminalCharge" id="t16851014-25-off121-c83" targOrder="Y" targets="t16851014-25-defend118 t16851014-25-off121 t16851014-25-verdict122"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16851014-25-defend118" type="defendantName">
+                     Ann 
+                     Davis
+                  <interp inst="t16851014-25-defend118" type="surname" value="Davis"></interp>
+                     <interp inst="t16851014-25-defend118" type="given" value="Ann"></interp>
+                     <interp inst="t16851014-25-defend118" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16851014-25-defloc119">Saint Martins in the Fields</placeName>
+                  <interp inst="t16851014-25-defloc119" type="placeName" value="Saint Martins in the Fields"></interp>
+                  <interp inst="t16851014-25-defloc119" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16851014-25-defend118 t16851014-25-defloc119"></join> Indicted <rs id="t16851014-25-cd120" type="crimeDate">September the 2d</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16851014-25-off121 t16851014-25-cd120"></join>. for <rs id="t16851014-25-off121" type="offenceDescription">
+                     <interp inst="t16851014-25-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16851014-25-off121" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing value 3 s. a piece of Broad Gold, value 23 s. 6 d. divers other Goods, from 
+                     <persName id="t16851014-25-victim119" type="victimName">
+                        Elizabeth 
+                        Tomlinson
+                     <interp inst="t16851014-25-victim119" type="surname" value="Tomlinson"></interp>
+                        <interp inst="t16851014-25-victim119" type="given" value="Elizabeth"></interp>
+                        <interp inst="t16851014-25-victim119" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16851014-25-off121 t16851014-25-victim119"></join>
+                     </persName>
+                  , considerable value, with 7 l. in Moneys
+            </rs>: The Goods confessed by the Prisoner, who directed, 
+               <persName id="t16851014-25-person120">
+                  Elizabeth 
+                  Tomlinson
+               <interp inst="t16851014-25-person120" type="surname" value="Tomlinson"></interp>
+                     <interp inst="t16851014-25-person120" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16851014-25-person120" type="gender" value="female"></interp>
+                  </persName>
+             to a Pawn Broker where the Goods were Goods being delivered by the Pawn-Broker and the Prisoner being carried before a Justice Peace, Confessed them, and was found <rs id="t16851014-25-verdict122" type="verdictDescription">
+                     <interp inst="t16851014-25-verdict122" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16851014-25-punish123" type="punishmentDescription">
+                     <interp inst="t16851014-25-punish123" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16851014-25-punish123" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16851014-25-defend118 t16851014-25-punish123"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

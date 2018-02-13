@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930531-33">
+               <interp inst="t16930531-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930531-33" type="year" value="1693"></interp>
+               <interp inst="t16930531-33" type="uri" value="sessionsPapers/16930531"></interp>
+               <interp inst="t16930531-33" type="date" value="16930531"></interp>
+               <join result="criminalCharge" id="t16930531-33-off158-c110" targOrder="Y" targets="t16930531-33-defend110 t16930531-33-off158 t16930531-33-verdict162"></join>
+         
+               <p>
+            
+                  <persName id="t16930531-33-defend110" type="defendantName">
+                  Robert 
+                  Barrow
+               <interp inst="t16930531-33-defend110" type="surname" value="Barrow"></interp>
+                     <interp inst="t16930531-33-defend110" type="given" value="Robert"></interp>
+                     <interp inst="t16930531-33-defend110" type="gender" value="male"></interp>
+                  </persName>
+             was tried for <rs id="t16930531-33-off158" type="offenceDescription">
+                     <interp inst="t16930531-33-off158" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930531-33-off158" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Horse
+            </rs> from <rs id="t16930531-33-viclabel159" type="occupation">Mr.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930531-33-victim111 t16930531-33-viclabel159"></join> 
+            
+                  <persName id="t16930531-33-victim111" type="victimName">
+                  Thomas 
+                  Griffith
+               <interp inst="t16930531-33-victim111" type="surname" value="Griffith"></interp>
+                     <interp inst="t16930531-33-victim111" type="given" value="Thomas"></interp>
+                     <interp inst="t16930531-33-victim111" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930531-33-off158 t16930531-33-victim111"></join>
+                  </persName>
+            , of the <placeName id="t16930531-33-crimeloc160">Parish of St. Pancras</placeName>
+                  <interp inst="t16930531-33-crimeloc160" type="placeName" value="Parish of St. Pancras"></interp>
+                  <interp inst="t16930531-33-crimeloc160" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930531-33-off158 t16930531-33-crimeloc160"></join>, Middlesex. Mr. Griffith lost a Horse in February last, and said that he found the Horse upon the Prisoner, but could not say he stole it; the Prisoner made out that he bought the Horse in the Countrey and that he did use the Horse, driving him about the Streets in his Coach for two months together, he being an <rs id="t16930531-33-deflabel161" type="occupation">Hackney Coachman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930531-33-defend110 t16930531-33-deflabel161"></join>, and had the Character of an honest man, and a good Housekeeper. So he was <rs id="t16930531-33-verdict162" type="verdictDescription">
+                     <interp inst="t16930531-33-verdict162" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

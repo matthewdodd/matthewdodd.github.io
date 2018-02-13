@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16850116-12">
+               <interp inst="t16850116-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16850116-12" type="year" value="1685"></interp>
+               <interp inst="t16850116-12" type="uri" value="sessionsPapers/16850116"></interp>
+               <interp inst="t16850116-12" type="date" value="16850116"></interp>
+               <join result="criminalCharge" id="t16850116-12-off60-c51" targOrder="Y" targets="t16850116-12-defend51 t16850116-12-off60 t16850116-12-verdict63"></join>
+         
+               <p>
+            
+                  <persName id="t16850116-12-defend51" type="defendantName">
+                  David 
+                  Roberts
+               <interp inst="t16850116-12-defend51" type="surname" value="Roberts"></interp>
+                     <interp inst="t16850116-12-defend51" type="given" value="David"></interp>
+                     <interp inst="t16850116-12-defend51" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16850116-12-off60" type="offenceDescription">
+                     <interp inst="t16850116-12-off60" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16850116-12-off60" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a searge coat, valued at 10s.
+            </rs> and pleading not Guilty, upon his arraignment it was proved against him, by 
+               <persName id="t16850116-12-victim52" type="victimName">
+                  John 
+                  Starkey
+               <interp inst="t16850116-12-victim52" type="surname" value="Starkey"></interp>
+                     <interp inst="t16850116-12-victim52" type="given" value="John"></interp>
+                     <interp inst="t16850116-12-victim52" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16850116-12-off60 t16850116-12-victim52"></join>
+                  </persName>
+             the Prosecutor, that the Prisoner coming to his House in <placeName id="t16850116-12-crimeloc61">Holbourn</placeName>
+                  <interp inst="t16850116-12-crimeloc61" type="placeName" value="Holbourn"></interp>
+                  <interp inst="t16850116-12-crimeloc61" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16850116-12-off60 t16850116-12-crimeloc61"></join>, on the <rs id="t16850116-12-cd62" type="crimeDate">10th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16850116-12-off60 t16850116-12-cd62"></join>, and asking for one Nurse Joans, watched while he had turned his back, and then took the coat off from a nail whereon it hung, endeavouring to escape with it, but being perceived by a Neighbour and pursued, he dropped it; whereupon although he used many excuses to evade the Fellony, he was found <rs id="t16850116-12-verdict63" type="verdictDescription">
+                     <interp inst="t16850116-12-verdict63" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16850116-12-verdict63" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, though the Court pl     him, as being but a Young Offender, directed the Jury to find it within the statute of Pettelarcinary
+            </rs>.</p>
+               <p>
+                  <rs id="t16850116-12-punish64" type="punishmentDescription">
+                     <interp inst="t16850116-12-punish64" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16850116-12-punish64" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16850116-12-defend51 t16850116-12-punish64"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

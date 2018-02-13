@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17271206-42">
+               <interp inst="t17271206-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17271206-42" type="year" value="1727"></interp>
+               <interp inst="t17271206-42" type="uri" value="sessionsPapers/17271206"></interp>
+               <interp inst="t17271206-42" type="date" value="17271206"></interp>
+               <join result="criminalCharge" id="t17271206-42-off179-c152" targOrder="Y" targets="t17271206-42-defend228 t17271206-42-off179 t17271206-42-verdict182"></join>
+               <join result="criminalCharge" id="t17271206-42-off179-c153" targOrder="Y" targets="t17271206-42-defend230 t17271206-42-off179 t17271206-42-verdict182"></join>
+               <join result="criminalCharge" id="t17271206-42-off179-c154" targOrder="Y" targets="t17271206-42-defend232 t17271206-42-off179 t17271206-42-verdict182"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17271206-42-defend228" type="defendantName">
+                     Daniel 
+                     Pricklove 
+                  <interp inst="t17271206-42-defend228" type="surname" value="Pricklove"></interp>
+                     <interp inst="t17271206-42-defend228" type="given" value="Daniel"></interp>
+                     <interp inst="t17271206-42-defend228" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17271206-42-defend230" type="defendantName">
+                     Edward 
+                     Greenoway 
+                  <interp inst="t17271206-42-defend230" type="surname" value="Greenoway"></interp>
+                     <interp inst="t17271206-42-defend230" type="given" value="Edward"></interp>
+                     <interp inst="t17271206-42-defend230" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17271206-42-defend232" type="defendantName">
+                     Thomas 
+                     Dawkins 
+                  <interp inst="t17271206-42-defend232" type="surname" value="Dawkins"></interp>
+                     <interp inst="t17271206-42-defend232" type="given" value="Thomas"></interp>
+                     <interp inst="t17271206-42-defend232" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were indicted for a Misdemeanor, in <rs id="t17271206-42-off179" type="offenceDescription">
+                     <interp inst="t17271206-42-off179" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17271206-42-off179" type="offenceSubcategory" value="other"></interp>
+               unlawfully taking a Bar of Iron
+            </rs> belonging to the 
+               <persName id="t17271206-42-victim233" type="victimName">
+                     <rs id="t17271206-42-viclabel180" type="occupation">Lord mayor and the Commonalty of the City of London</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17271206-42-victim233 t17271206-42-viclabel180"></join>
+                     <interp inst="t17271206-42-victim233" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17271206-42-off179 t17271206-42-victim233"></join>
+                  </persName>
+            . 
+               <persName id="t17271206-42-person234">
+                  Richard 
+                  Hussey 
+               <interp inst="t17271206-42-person234" type="surname" value="Hussey"></interp>
+                     <interp inst="t17271206-42-person234" type="given" value="Richard"></interp>
+                     <interp inst="t17271206-42-person234" type="gender" value="male"></interp>
+                  </persName>
+             (made himself an Evidence) depos'd, That he, with the Prisoners, went to a Conduit in <placeName id="t17271206-42-crimeloc181">Pancras Lane</placeName>
+                  <interp inst="t17271206-42-crimeloc181" type="placeName" value="Pancras Lane"></interp>
+                  <interp inst="t17271206-42-crimeloc181" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17271206-42-off179 t17271206-42-crimeloc181"></join>, and there took the Bar of Iron mentioned in the Indictment, and it weighing 94 lb. they sold it for 7 s. and 10 d. and shared the Money; and going the next Night for another, they were all taken into Custody: The Fact appearing plain, they were all found <rs id="t17271206-42-verdict182" type="verdictDescription">
+                     <interp inst="t17271206-42-verdict182" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Indictment.</p>
+               <p>
+                  <rs id="t17271206-42-punish183" type="punishmentDescription">
+                     <interp inst="t17271206-42-punish183" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17271206-42-punish183" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17271206-42-defend228 t17271206-42-punish183"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17271206-42-defend230 t17271206-42-punish183"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17271206-42-defend232 t17271206-42-punish183"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

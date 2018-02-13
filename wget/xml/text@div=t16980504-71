@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980504-71">
+               <interp inst="t16980504-71" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980504-71" type="year" value="1698"></interp>
+               <interp inst="t16980504-71" type="uri" value="sessionsPapers/16980504"></interp>
+               <interp inst="t16980504-71" type="date" value="16980504"></interp>
+               <join result="criminalCharge" id="t16980504-71-off347-c212" targOrder="Y" targets="t16980504-71-defend212 t16980504-71-off347 t16980504-71-verdict349"></join>
+         
+               <p>
+            
+                  <persName id="t16980504-71-defend212" type="defendantName">
+                  John 
+                  Price
+               <interp inst="t16980504-71-defend212" type="surname" value="Price"></interp>
+                     <interp inst="t16980504-71-defend212" type="given" value="John"></interp>
+                     <interp inst="t16980504-71-defend212" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16980504-71-off347" type="offenceDescription">
+                     <interp inst="t16980504-71-off347" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980504-71-off347" type="offenceSubcategory" value="other"></interp>
+               stealing from 
+                     <persName id="t16980504-71-victim213" type="victimName">
+                        Thomas 
+                        Tibbs
+                     <interp inst="t16980504-71-victim213" type="surname" value="Tibbs"></interp>
+                        <interp inst="t16980504-71-victim213" type="given" value="Thomas"></interp>
+                        <interp inst="t16980504-71-victim213" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980504-71-off347 t16980504-71-victim213"></join>
+                     </persName>
+                  , 6 pound weight of Candles, and one brass Candlestick
+            </rs>. It appeared that at the late Fire in <placeName id="t16980504-71-crimeloc348">Drury-lane</placeName>
+                  <interp inst="t16980504-71-crimeloc348" type="placeName" value="Drury-lane"></interp>
+                  <interp inst="t16980504-71-crimeloc348" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16980504-71-off347 t16980504-71-crimeloc348"></join>, the Prosecutor lost his Goods, which were found in the Prisoners lodging, which he confest when taken, but denied at his Trial: he was found <rs id="t16980504-71-verdict349" type="verdictDescription">
+                     <interp inst="t16980504-71-verdict349" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16980504-71-verdict349" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16980504-71-punish350" type="punishmentDescription">
+                     <interp inst="t16980504-71-punish350" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16980504-71-punish350" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16980504-71-defend212 t16980504-71-punish350"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

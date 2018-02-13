@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991213-22">
+               <interp inst="t16991213-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991213-22" type="year" value="1699"></interp>
+               <interp inst="t16991213-22" type="uri" value="sessionsPapers/16991213"></interp>
+               <interp inst="t16991213-22" type="date" value="16991213"></interp>
+               <join result="criminalCharge" id="t16991213-22-off108-c75" targOrder="Y" targets="t16991213-22-defend75 t16991213-22-off108 t16991213-22-verdict111"></join>
+               <join result="criminalCharge" id="t16991213-22-off108-c76" targOrder="Y" targets="t16991213-22-defend76 t16991213-22-off108 t16991213-22-verdict111"></join>
+         
+               <p>
+            
+                  <persName id="t16991213-22-defend75" type="defendantName">
+                  Mary 
+                  Phillips
+               <interp inst="t16991213-22-defend75" type="surname" value="Phillips"></interp>
+                     <interp inst="t16991213-22-defend75" type="given" value="Mary"></interp>
+                     <interp inst="t16991213-22-defend75" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16991213-22-defend76" type="defendantName">
+                  Elizabeth 
+                  Moore
+               <interp inst="t16991213-22-defend76" type="surname" value="Moore"></interp>
+                     <interp inst="t16991213-22-defend76" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16991213-22-defend76" type="gender" value="female"></interp>
+                  </persName>
+            , both of the Parish of <placeName id="t16991213-22-defloc107">St. Vedast, alias Fosters</placeName>
+                  <interp inst="t16991213-22-defloc107" type="placeName" value="St. Vedast, alias Fosters"></interp>
+                  <interp inst="t16991213-22-defloc107" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-22-defend75 t16991213-22-defloc107"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-22-defend76 t16991213-22-defloc107"></join>, was Indicted for <rs id="t16991213-22-off108" type="offenceDescription">
+                     <interp inst="t16991213-22-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991213-22-off108" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously stealing Nineteen Yards of Flowered Tabby
+            </rs>, on the <rs id="t16991213-22-cd109" type="crimeDate">19th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16991213-22-off108 t16991213-22-cd109"></join> last, the Goods of 
+               <persName id="t16991213-22-victim77" type="victimName">
+                  Elizabeth 
+                  Cooper
+               <interp inst="t16991213-22-victim77" type="surname" value="Cooper"></interp>
+                     <interp inst="t16991213-22-victim77" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16991213-22-victim77" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16991213-22-off108 t16991213-22-victim77"></join>
+                  </persName>
+            : The Prisoners were seen to come into <placeName id="t16991213-22-crimeloc110">Pater-Noster-Row</placeName>
+                  <interp inst="t16991213-22-crimeloc110" type="placeName" value="Pater-Noster-Row"></interp>
+                  <interp inst="t16991213-22-crimeloc110" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16991213-22-off108 t16991213-22-crimeloc110"></join>, and being suspected to be Shop-lifters, they were dogged till they came into the Shop, where at first they pretended to buy some Silk for Hoods and Scarfs; but disliking that, they cheapened some Silk for Breeches; and whilst Mr. Cooper's Servant was busy in turning over the Silks, they took the piece of Silk, and put it under one of their Coats, and went their ways; but being pursued, they gave it to a third Person, who escaped with it; they had little to say for themselves; the Jury found them both <rs id="t16991213-22-verdict111" type="verdictDescription">
+                     <interp inst="t16991213-22-verdict111" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16991213-22-punish112" type="punishmentDescription">
+                     <interp inst="t16991213-22-punish112" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16991213-22-punish112" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-22-defend75 t16991213-22-punish112"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-22-defend76 t16991213-22-punish112"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

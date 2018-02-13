@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160222-65">
+               <interp inst="t17160222-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160222-65" type="year" value="1716"></interp>
+               <interp inst="t17160222-65" type="uri" value="sessionsPapers/17160222"></interp>
+               <interp inst="t17160222-65" type="date" value="17160222"></interp>
+               <join result="criminalCharge" id="t17160222-65-off364-c203" targOrder="Y" targets="t17160222-65-defend353 t17160222-65-off364 t17160222-65-verdict366"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17160222-65-defend353" type="defendantName">
+                     Paul 
+                     Lawler 
+                  <interp inst="t17160222-65-defend353" type="surname" value="Lawler"></interp>
+                     <interp inst="t17160222-65-defend353" type="given" value="Paul"></interp>
+                     <interp inst="t17160222-65-defend353" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17160222-65-defloc363">St. Clement Danes</placeName>
+                  <interp inst="t17160222-65-defloc363" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17160222-65-defloc363" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160222-65-defend353 t17160222-65-defloc363"></join>, was indicted for <rs id="t17160222-65-off364" type="offenceDescription">
+                     <interp inst="t17160222-65-off364" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17160222-65-off364" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Stuff Gown and Petticoat, 1 Snuff-box, 1 pair of Stays
+            </rs>, and other Goods belonging to 
+               <persName id="t17160222-65-victim354" type="victimName">
+                  John
+                   ....
+               <interp inst="t17160222-65-victim354" type="surname" value="...."></interp>
+                     <interp inst="t17160222-65-victim354" type="given" value="John"></interp>
+                     <interp inst="t17160222-65-victim354" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17160222-65-off364 t17160222-65-victim354"></join>
+                  </persName>
+             on the <rs id="t17160222-65-cd365" type="crimeDate">20th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17160222-65-off364 t17160222-65-cd365"></join> last.     The Jury found <rs id="t17160222-65-verdict366" type="verdictDescription">
+                     <interp inst="t17160222-65-verdict366" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17160222-65-verdict366" type="verdictSubcategory" value="theftunder5s"></interp>
+               him Guilty to the Value of 4 and 10d
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17160222-65-punish367" type="punishmentDescription">
+                     <interp inst="t17160222-65-punish367" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17160222-65-punish367" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-65-defend353 t17160222-65-punish367"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

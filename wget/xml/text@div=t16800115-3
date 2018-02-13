@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16800115-3">
+               <interp inst="t16800115-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16800115-3" type="year" value="1680"></interp>
+               <interp inst="t16800115-3" type="uri" value="sessionsPapers/16800115"></interp>
+               <interp inst="t16800115-3" type="date" value="16800115"></interp>
+               <join result="criminalCharge" id="t16800115-3-off11-c5" targOrder="Y" targets="t16800115-3-defend9 t16800115-3-off11 t16800115-3-verdict14"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16800115-3-defend9" type="defendantName">
+                     Charles 
+                     King
+                  <interp inst="t16800115-3-defend9" type="surname" value="King"></interp>
+                     <interp inst="t16800115-3-defend9" type="given" value="Charles"></interp>
+                     <interp inst="t16800115-3-defend9" type="gender" value="male"></interp>
+                  </persName>
+               
+             a <rs id="t16800115-3-deflabel10" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16800115-3-defend9 t16800115-3-deflabel10"></join> was Indicted for <rs id="t16800115-3-off11" type="offenceDescription">
+                     <interp inst="t16800115-3-off11" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16800115-3-off11" type="offenceSubcategory" value="robbery"></interp>
+               Robing a 
+                     <persName id="t16800115-3-victim10" type="victimName">
+                        <rs id="t16800115-3-viclabel12" type="occupation">Servant-maid</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16800115-3-victim10 t16800115-3-viclabel12"></join>
+                        <interp inst="t16800115-3-victim10" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16800115-3-off11 t16800115-3-victim10"></join>
+                     </persName>
+                   in <placeName id="t16800115-3-crimeloc13">York buildings, in the Strand</placeName>
+                     <interp inst="t16800115-3-crimeloc13" type="placeName" value="York buildings, in the Strand"></interp>
+                     <interp inst="t16800115-3-crimeloc13" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16800115-3-off11 t16800115-3-crimeloc13"></join>, about seven of the Clock in the Evening, snatching a bundle from under her Arm, containing two Aprons and a Gown
+            </rs>, whereupon, she crying out, he betook himself to flight, yet not acquainted with the Streets, he was so closely pursued by two Porters, that he was taken, but having drop'd the Goods, he in Court denied that ever he had them; but the Maid swearing positively, he was not withstanding found <rs id="t16800115-3-verdict14" type="verdictDescription">
+                     <interp inst="t16800115-3-verdict14" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Robbery</p>
+               <p>
+                  <rs id="t16800115-3-punish15" type="punishmentDescription">
+                     <interp inst="t16800115-3-punish15" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16800115-3-defend9 t16800115-3-punish15"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

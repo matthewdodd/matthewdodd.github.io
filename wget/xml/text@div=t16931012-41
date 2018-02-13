@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16931012-41">
+               <interp inst="t16931012-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t16931012-41" type="year" value="1693"></interp>
+               <interp inst="t16931012-41" type="uri" value="sessionsPapers/16931012"></interp>
+               <interp inst="t16931012-41" type="date" value="16931012"></interp>
+               <join result="criminalCharge" id="t16931012-41-off159-c118" targOrder="Y" targets="t16931012-41-defend118 t16931012-41-off159 t16931012-41-verdict161"></join>
+         
+               <p>
+            
+                  <persName id="t16931012-41-defend118" type="defendantName">
+                  William 
+                  Noble
+               <interp inst="t16931012-41-defend118" type="surname" value="Noble"></interp>
+                     <interp inst="t16931012-41-defend118" type="given" value="William"></interp>
+                     <interp inst="t16931012-41-defend118" type="gender" value="male"></interp>
+                  </persName>
+            , a <rs id="t16931012-41-deflabel158" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16931012-41-defend118 t16931012-41-deflabel158"></join>, was tried for <rs id="t16931012-41-off159" type="offenceDescription">
+                     <interp inst="t16931012-41-off159" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16931012-41-off159" type="offenceSubcategory" value="other"></interp>
+               killing one 
+                     <persName id="t16931012-41-victim119" type="victimName">
+                        Edward 
+                        Randale
+                     <interp inst="t16931012-41-victim119" type="surname" value="Randale"></interp>
+                        <interp inst="t16931012-41-victim119" type="given" value="Edward"></interp>
+                        <interp inst="t16931012-41-victim119" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16931012-41-off159 t16931012-41-victim119"></join>
+                     </persName>
+                  , giving him a mortal Wound near to his Right Pap, of the depth of 12 Inches
+            </rs>; they quarrelled about a Whore on the last Fast-day, and fought for her at <placeName id="t16931012-41-crimeloc160">the George in Newtner's Lane</placeName>
+                  <interp inst="t16931012-41-crimeloc160" type="placeName" value="the George in Newtner's Lane"></interp>
+                  <interp inst="t16931012-41-crimeloc160" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16931012-41-off159 t16931012-41-crimeloc160"></join>, and the Prisoner had the misfortune to kill Randale; He was found <rs id="t16931012-41-verdict161" type="verdictDescription">
+                     <interp inst="t16931012-41-verdict161" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16931012-41-verdict161" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16931012-41-punish162" type="punishmentDescription">
+                     <interp inst="t16931012-41-punish162" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16931012-41-defend118 t16931012-41-punish162"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

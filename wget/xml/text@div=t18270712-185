@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18270712-185">
+               <interp inst="t18270712-185" type="collection" value="BAILEY"></interp>
+               <interp inst="t18270712-185" type="year" value="1827"></interp>
+               <interp inst="t18270712-185" type="uri" value="sessionsPapers/18270712"></interp>
+               <interp inst="t18270712-185" type="date" value="18270712"></interp>
+               <join result="criminalCharge" id="t18270712-185-off1016-c971" targOrder="Y" targets="t18270712-185-defend971 t18270712-185-off1016 t18270712-185-verdict1020"></join>
+         
+               <p>1530. 
+               <persName id="t18270712-185-defend971" type="defendantName">
+                  GEORGE 
+                  LONSDALE
+               <interp inst="t18270712-185-defend971" type="surname" value="LONSDALE"></interp>
+                     <interp inst="t18270712-185-defend971" type="given" value="GEORGE"></interp>
+                     <interp inst="t18270712-185-defend971" type="gender" value="male"></interp>
+                     <interp inst="t18270712-185-defend971" type="age" value="16"></interp>
+                  </persName>
+             was indicted for <rs id="t18270712-185-off1016" type="offenceDescription">
+                     <interp inst="t18270712-185-off1016" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18270712-185-off1016" type="offenceSubcategory" value="embezzlement"></interp>
+               embezzlement
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t18270712-185-victim972" type="victimName">
+                  FREDERICK JAMES 
+                  FRITH
+               <interp inst="t18270712-185-victim972" type="surname" value="FRITH"></interp>
+                     <interp inst="t18270712-185-victim972" type="given" value="FREDERICK JAMES"></interp>
+                     <interp inst="t18270712-185-victim972" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18270712-185-off1016 t18270712-185-victim972"></join>
+                  </persName>
+            . I am a <rs id="t18270712-185-viclabel1017" type="occupation">cheesemonger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18270712-185-victim972 t18270712-185-viclabel1017"></join>, and live in <placeName id="t18270712-185-crimeloc1018">Chiswell-street</placeName>
+                  <interp inst="t18270712-185-crimeloc1018" type="placeName" value="Chiswell-street"></interp>
+                  <interp inst="t18270712-185-crimeloc1018" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18270712-185-off1016 t18270712-185-crimeloc1018"></join>. The prisoner was only two days in my service; I sent him out on the <rs id="t18270712-185-cd1019" type="crimeDate">30th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t18270712-185-off1016 t18270712-185-cd1019"></join>, with goods; he was to call on Mrs. Davis, in Tabernacle-square, for 1l. 1s. - he never returned - on the Monday following I saw him at the corner of Field-lane; I ran after him, and he was stopped.</p>
+               <p>
+            
+                  <persName id="t18270712-185-person973">
+                  CATHERINE 
+                  DAVIS
+               <interp inst="t18270712-185-person973" type="surname" value="DAVIS"></interp>
+                     <interp inst="t18270712-185-person973" type="given" value="CATHERINE"></interp>
+                     <interp inst="t18270712-185-person973" type="gender" value="female"></interp>
+                  </persName>
+            . On the 30th of June the prisoner brought me some butter; I paid him half-a-crown, 6s. 6d. in copper, and 12s. in sixpences and shillings.</p>
+               <p>
+                  <rs id="t18270712-185-verdict1020" type="verdictDescription">
+                     <interp inst="t18270712-185-verdict1020" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 16.</p>
+               <p>
+                  <rs id="t18270712-185-punish1021" type="punishmentDescription">
+                     <interp inst="t18270712-185-punish1021" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18270712-185-defend971 t18270712-185-punish1021"></join>
+               Confined Nine Months
+            </rs> and <rs id="t18270712-185-punish1022" type="punishmentDescription">
+                     <interp inst="t18270712-185-punish1022" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18270712-185-punish1022" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18270712-185-defend971 t18270712-185-punish1022"></join>
+               Whipped
+            </rs>.</p>
+            </div1>

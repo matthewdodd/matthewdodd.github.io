@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16760405-16">
+               <interp inst="t16760405-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t16760405-16" type="year" value="1676"></interp>
+               <interp inst="t16760405-16" type="uri" value="sessionsPapers/16760405"></interp>
+               <interp inst="t16760405-16" type="date" value="16760405"></interp>
+               <join result="criminalCharge" id="t16760405-16-off51-c31" targOrder="Y" targets="t16760405-16-defend31 t16760405-16-off51 t16760405-16-verdict50"></join>
+         
+               <p>There was a 
+               <persName id="t16760405-16-defend31" type="defendantName">woman<interp inst="t16760405-16-defend31" type="gender" value="female"></interp>
+                  </persName>
+             found <rs id="t16760405-16-verdict50" type="verdictDescription">
+                     <interp inst="t16760405-16-verdict50" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of <rs id="t16760405-16-off51" type="offenceDescription">
+                     <interp inst="t16760405-16-off51" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16760405-16-off51" type="offenceSubcategory" value="other"></interp>
+               stealing away a silver Tankard
+            </rs> from her 
+               <persName id="t16760405-16-victim32" type="victimName">
+                     <rs id="t16760405-16-viclabel52" type="occupation">Master</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16760405-16-victim32 t16760405-16-viclabel52"></join>
+                     <interp inst="t16760405-16-victim32" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16760405-16-off51 t16760405-16-victim32"></join>
+                  </persName>
+            .</p>
+            </div1>

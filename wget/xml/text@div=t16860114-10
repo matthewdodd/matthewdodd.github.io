@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860114-10">
+               <interp inst="t16860114-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860114-10" type="year" value="1686"></interp>
+               <interp inst="t16860114-10" type="uri" value="sessionsPapers/16860114"></interp>
+               <interp inst="t16860114-10" type="date" value="16860114"></interp>
+               <join result="criminalCharge" id="t16860114-10-off46-c46" targOrder="Y" targets="t16860114-10-defend58 t16860114-10-off46 t16860114-10-verdict49"></join>
+               <join result="criminalCharge" id="t16860114-10-off46-c47" targOrder="Y" targets="t16860114-10-defend59 t16860114-10-off46 t16860114-10-verdict49"></join>
+         
+               <p>
+            
+                  <persName id="t16860114-10-defend58" type="defendantName">
+                  John 
+                  Meechin
+               <interp inst="t16860114-10-defend58" type="surname" value="Meechin"></interp>
+                     <interp inst="t16860114-10-defend58" type="given" value="John"></interp>
+                     <interp inst="t16860114-10-defend58" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16860114-10-defend59" type="defendantName">
+                  John 
+                  Barham
+               <interp inst="t16860114-10-defend59" type="surname" value="Barham"></interp>
+                     <interp inst="t16860114-10-defend59" type="given" value="John"></interp>
+                     <interp inst="t16860114-10-defend59" type="gender" value="male"></interp>
+                  </persName>
+            , were Tryed for <rs id="t16860114-10-off46" type="offenceDescription">
+                     <interp inst="t16860114-10-off46" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860114-10-off46" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Wether, value 15 s.
+            </rs> from 
+               
+                  <persName id="t16860114-10-victim61" type="victimName">
+                     John 
+                     Dean
+                  <interp inst="t16860114-10-victim61" type="surname" value="Dean"></interp>
+                     <interp inst="t16860114-10-victim61" type="given" value="John"></interp>
+                     <interp inst="t16860114-10-victim61" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860114-10-off46 t16860114-10-victim61"></join>
+                  </persName>
+               
+             of <placeName id="t16860114-10-crimeloc47">Stepney</placeName>
+                  <interp inst="t16860114-10-crimeloc47" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16860114-10-crimeloc47" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16860114-10-off46 t16860114-10-crimeloc47"></join>, on the <rs id="t16860114-10-cd48" type="crimeDate">21st. of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16860114-10-off46 t16860114-10-cd48"></join> last; the proof was, that the Prosecutor having lost the Wether out of his Grounds, found (upon search) his Skin in the possession of Barham, who told him that Meechin had killed the said Wether, and upon further inquiry part of the Flesh was found in the Powdering-Tub, which making the Felony plain, and their former confessions proved, notwithstanding they endeavored to shufle it off to each other, Barham altogether alledging he was drawn in by Meechin; the Jury found them <rs id="t16860114-10-verdict49" type="verdictDescription">
+                     <interp inst="t16860114-10-verdict49" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16860114-10-punish50" type="punishmentDescription">
+                     <interp inst="t16860114-10-punish50" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16860114-10-punish50" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860114-10-defend58 t16860114-10-punish50"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860114-10-defend59 t16860114-10-punish50"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980608-3">
+               <interp inst="t16980608-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980608-3" type="year" value="1698"></interp>
+               <interp inst="t16980608-3" type="uri" value="sessionsPapers/16980608"></interp>
+               <interp inst="t16980608-3" type="date" value="16980608"></interp>
+               <join result="criminalCharge" id="t16980608-3-off11-c31" targOrder="Y" targets="t16980608-3-defend31 t16980608-3-off11 t16980608-3-verdict13"></join>
+         
+               <p>
+            
+                  <persName id="t16980608-3-defend31" type="defendantName">
+                  Charles 
+                  Lestall
+               <interp inst="t16980608-3-defend31" type="surname" value="Lestall"></interp>
+                     <interp inst="t16980608-3-defend31" type="given" value="Charles"></interp>
+                     <interp inst="t16980608-3-defend31" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16980608-3-defloc10">St. Martins</placeName>
+                  <interp inst="t16980608-3-defloc10" type="placeName" value="St. Martins"></interp>
+                  <interp inst="t16980608-3-defloc10" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-3-defend31 t16980608-3-defloc10"></join>, was Indicted for <rs id="t16980608-3-off11" type="offenceDescription">
+                     <interp inst="t16980608-3-off11" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980608-3-off11" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing from 
+                     <persName id="t16980608-3-victim32" type="victimName">
+                        Walter 
+                        Lion
+                     <interp inst="t16980608-3-victim32" type="surname" value="Lion"></interp>
+                        <interp inst="t16980608-3-victim32" type="given" value="Walter"></interp>
+                        <interp inst="t16980608-3-victim32" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980608-3-off11 t16980608-3-victim32"></join>
+                     </persName>
+                  , on the <rs id="t16980608-3-cd12" type="crimeDate">17th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980608-3-off11 t16980608-3-cd12"></join>, a silver cup value 5 l. and several other Goods
+            </rs>: to which Indictment he <rs id="t16980608-3-verdict13" type="verdictDescription">
+                     <interp inst="t16980608-3-verdict13" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16980608-3-verdict13" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16980608-3-punish14" type="punishmentDescription">
+                     <interp inst="t16980608-3-punish14" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16980608-3-punish14" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16980608-3-defend31 t16980608-3-punish14"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

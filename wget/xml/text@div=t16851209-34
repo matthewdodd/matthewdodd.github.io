@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16851209-34">
+               <interp inst="t16851209-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t16851209-34" type="year" value="1685"></interp>
+               <interp inst="t16851209-34" type="uri" value="sessionsPapers/16851209"></interp>
+               <interp inst="t16851209-34" type="date" value="16851209"></interp>
+               <join result="criminalCharge" id="t16851209-34-off161-c113" targOrder="Y" targets="t16851209-34-defend172 t16851209-34-off161 t16851209-34-verdict164"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16851209-34-defend172" type="defendantName">
+                     Mary 
+                     Carter
+                  <interp inst="t16851209-34-defend172" type="surname" value="Carter"></interp>
+                     <interp inst="t16851209-34-defend172" type="given" value="Mary"></interp>
+                     <interp inst="t16851209-34-defend172" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was Indicted for <rs id="t16851209-34-off161" type="offenceDescription">
+                     <interp inst="t16851209-34-off161" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16851209-34-off161" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing 3 Diamond Rings value 25 l. and a Gold Watch
+            </rs> on the <rs id="t16851209-34-cd162" type="crimeDate">4th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16851209-34-off161 t16851209-34-cd162"></join> from 
+               
+                  <persName id="t16851209-34-victim174" type="victimName">
+                     Mary 
+                     Meggs
+                  <interp inst="t16851209-34-victim174" type="surname" value="Meggs"></interp>
+                     <interp inst="t16851209-34-victim174" type="given" value="Mary"></interp>
+                     <interp inst="t16851209-34-victim174" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16851209-34-off161 t16851209-34-victim174"></join>
+                  </persName>
+               
+             in the Parish of <placeName id="t16851209-34-crimeloc163">St. Martins in the Fields</placeName>
+                  <interp inst="t16851209-34-crimeloc163" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16851209-34-crimeloc163" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16851209-34-off161 t16851209-34-crimeloc163"></join>, but no Evidence appearing against her, she was <rs id="t16851209-34-verdict164" type="verdictDescription">
+                     <interp inst="t16851209-34-verdict164" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16851209-34-verdict164" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

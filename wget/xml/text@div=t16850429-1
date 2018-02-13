@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16850429-1">
+               <interp inst="t16850429-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16850429-1" type="year" value="1685"></interp>
+               <interp inst="t16850429-1" type="uri" value="sessionsPapers/16850429"></interp>
+               <interp inst="t16850429-1" type="date" value="16850429"></interp>
+               <join result="criminalCharge" id="t16850429-1-off1-c38" targOrder="Y" targets="t16850429-1-defend39 t16850429-1-off1 t16850429-1-verdict3"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16850429-1-defend39" type="defendantName">
+                     Jane 
+                     Browne
+                  <interp inst="t16850429-1-defend39" type="surname" value="Browne"></interp>
+                     <interp inst="t16850429-1-defend39" type="given" value="Jane"></interp>
+                     <interp inst="t16850429-1-defend39" type="gender" value="female"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16850429-1-off1" type="offenceDescription">
+                     <interp inst="t16850429-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16850429-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Spoon value 10 s. from one <rs id="t16850429-1-viclabel2" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16850429-1-victim41 t16850429-1-viclabel2"></join> 
+                  
+                     
+                        <persName id="t16850429-1-victim41" type="victimName">
+                           Thomas 
+                           Allum
+                        <interp inst="t16850429-1-victim41" type="surname" value="Allum"></interp>
+                        <interp inst="t16850429-1-victim41" type="given" value="Thomas"></interp>
+                        <interp inst="t16850429-1-victim41" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16850429-1-off1 t16850429-1-victim41"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>. The Evidence for the King was, That the said Browne being taken on suspicion and carried before a Justice of Peace, she confessed the Fact saying, That her Husband told her, that he would knock her on the Head, unless she would steal something from the said Allum. Which being fully and positively proved against the Prisoner, the Jury brought her in <rs id="t16850429-1-verdict3" type="verdictDescription">
+                     <interp inst="t16850429-1-verdict3" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16850429-1-verdict3" type="verdictSubcategory" value="theftunder10s"></interp>
+               Guilty of Felony, to the value of Nine shillings
+            </rs>.</p>
+               <p>
+                  <rs id="t16850429-1-punish4" type="punishmentDescription">
+                     <interp inst="t16850429-1-punish4" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16850429-1-punish4" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16850429-1-defend39 t16850429-1-punish4"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

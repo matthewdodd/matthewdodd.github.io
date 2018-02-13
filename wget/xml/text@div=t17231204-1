@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17231204-1">
+               <interp inst="t17231204-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17231204-1" type="year" value="1723"></interp>
+               <interp inst="t17231204-1" type="uri" value="sessionsPapers/17231204"></interp>
+               <interp inst="t17231204-1" type="date" value="17231204"></interp>
+               <join result="criminalCharge" id="t17231204-1-off2-c29" targOrder="Y" targets="t17231204-1-defend29 t17231204-1-off2 t17231204-1-verdict5"></join>
+         
+               <p>
+            
+                  <persName id="t17231204-1-defend29" type="defendantName">
+                  Letitia, alias <rs id="t17231204-1-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17231204-1-defend29 t17231204-1-alias-1"></join>Letice Hopkins</rs>
+                     <interp inst="t17231204-1-defend29" type="given" value="Letitia"></interp>
+                     <interp inst="t17231204-1-defend29" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17231204-1-defloc1">St. Buttolph Bishopsgate</placeName>
+                  <interp inst="t17231204-1-defloc1" type="placeName" value="St. Buttolph Bishopsgate"></interp>
+                  <interp inst="t17231204-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231204-1-defend29 t17231204-1-defloc1"></join>, was indicted for <rs id="t17231204-1-off2" type="offenceDescription">
+                     <interp inst="t17231204-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17231204-1-off2" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a pair of Bodice, Stomacher, and other Things, value 12 s. and 6 d
+            </rs>, the Property of 
+               
+                  <persName id="t17231204-1-victim31" type="victimName">
+                     Deborah 
+                     Waters 
+                  <interp inst="t17231204-1-victim31" type="surname" value="Waters"></interp>
+                     <interp inst="t17231204-1-victim31" type="given" value="Deborah"></interp>
+                     <interp inst="t17231204-1-victim31" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17231204-1-off2 t17231204-1-victim31"></join>
+                  </persName>
+                
+            , the <rs id="t17231204-1-cd3" type="crimeDate">16th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17231204-1-off2 t17231204-1-cd3"></join> last. It appear'd by the Evidence, That the Prisoner was <rs id="t17231204-1-deflabel4" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17231204-1-defend29 t17231204-1-deflabel4"></join> to the Prosecutor when she stole the Goods, and the Prisoner having nothing to say in her own Defence, the Jury found her <rs id="t17231204-1-verdict5" type="verdictDescription">
+                     <interp inst="t17231204-1-verdict5" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17231204-1-verdict5" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17231204-1-punish6" type="punishmentDescription">
+                     <interp inst="t17231204-1-punish6" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17231204-1-defend29 t17231204-1-punish6"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17140407-33">
+               <interp inst="t17140407-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17140407-33" type="year" value="1714"></interp>
+               <interp inst="t17140407-33" type="uri" value="sessionsPapers/17140407"></interp>
+               <interp inst="t17140407-33" type="date" value="17140407"></interp>
+               <join result="criminalCharge" id="t17140407-33-off185-c114" targOrder="Y" targets="t17140407-33-defend175 t17140407-33-off185 t17140407-33-verdict188"></join>
+               <join result="criminalCharge" id="t17140407-33-off185-c115" targOrder="Y" targets="t17140407-33-defend177 t17140407-33-off185 t17140407-33-verdict187"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17140407-33-defend175" type="defendantName">
+                     Alexander 
+                     Stone
+                  <interp inst="t17140407-33-defend175" type="surname" value="Stone"></interp>
+                     <interp inst="t17140407-33-defend175" type="given" value="Alexander"></interp>
+                     <interp inst="t17140407-33-defend175" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17140407-33-defend177" type="defendantName">
+                     Francis 
+                     Jackson
+                  <interp inst="t17140407-33-defend177" type="surname" value="Jackson"></interp>
+                     <interp inst="t17140407-33-defend177" type="given" value="Francis"></interp>
+                     <interp inst="t17140407-33-defend177" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Indicted for <rs id="t17140407-33-off185" type="offenceDescription">
+                     <interp inst="t17140407-33-off185" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17140407-33-off185" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of 
+                     
+                        <persName id="t17140407-33-victim179" type="victimName">
+                           Thomas 
+                           Fox
+                        <interp inst="t17140407-33-victim179" type="surname" value="Fox"></interp>
+                        <interp inst="t17140407-33-victim179" type="given" value="Thomas"></interp>
+                        <interp inst="t17140407-33-victim179" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17140407-33-off185 t17140407-33-victim179"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs> on the <rs id="t17140407-33-cd186" type="crimeDate">16th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17140407-33-off185 t17140407-33-cd186"></join> last. And stealing thence a pair of Drugget and a pair of Leathern Breeches, an Iron Goose, and other Goods. The Prosecutor swore, his Shop was broke open; and the Prisoners being taken upon Suspicion, Stone confess'd it, and where he carried the Goods; but there was no Evidence against Jackson, so he was <rs id="t17140407-33-verdict187" type="verdictDescription">
+                     <interp inst="t17140407-33-verdict187" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, and Lovet found <rs id="t17140407-33-verdict188" type="verdictDescription">
+                     <interp inst="t17140407-33-verdict188" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17140407-33-verdict188" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of Felony only
+            </rs>, the Shop that was broke not being part of the Mansion house.</p>
+               <p>
+                  <rs id="t17140407-33-punish189" type="punishmentDescription">
+                     <interp inst="t17140407-33-punish189" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17140407-33-punish189" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17140407-33-defend175 t17140407-33-punish189"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17140407-33-defend177 t17140407-33-punish189"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

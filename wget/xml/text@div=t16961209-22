@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16961209-22">
+               <interp inst="t16961209-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16961209-22" type="year" value="1696"></interp>
+               <interp inst="t16961209-22" type="uri" value="sessionsPapers/16961209"></interp>
+               <interp inst="t16961209-22" type="date" value="16961209"></interp>
+               <join result="criminalCharge" id="t16961209-22-off138-c85" targOrder="Y" targets="t16961209-22-defend85 t16961209-22-off138 t16961209-22-verdict140"></join>
+               <join result="criminalCharge" id="t16961209-22-off138-c86" targOrder="Y" targets="t16961209-22-defend86 t16961209-22-off138 t16961209-22-verdict140"></join>
+               <join result="criminalCharge" id="t16961209-22-off138-c87" targOrder="Y" targets="t16961209-22-defend87 t16961209-22-off138 t16961209-22-verdict140"></join>
+         
+               <p>
+            
+                  <persName id="t16961209-22-defend85" type="defendantName">
+                  Thomas 
+                  Isaacson
+               <interp inst="t16961209-22-defend85" type="surname" value="Isaacson"></interp>
+                     <interp inst="t16961209-22-defend85" type="given" value="Thomas"></interp>
+                     <interp inst="t16961209-22-defend85" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16961209-22-defend86" type="defendantName">
+                  William 
+                  Isaacson
+               <interp inst="t16961209-22-defend86" type="surname" value="Isaacson"></interp>
+                     <interp inst="t16961209-22-defend86" type="given" value="William"></interp>
+                     <interp inst="t16961209-22-defend86" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16961209-22-defend87" type="defendantName">
+                  William 
+                  Best
+               <interp inst="t16961209-22-defend87" type="surname" value="Best"></interp>
+                     <interp inst="t16961209-22-defend87" type="given" value="William"></interp>
+                     <interp inst="t16961209-22-defend87" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16961209-22-defloc137">St. Martin's in the Fields</placeName>
+                  <interp inst="t16961209-22-defloc137" type="placeName" value="St. Martin's in the Fields"></interp>
+                  <interp inst="t16961209-22-defloc137" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-22-defend85 t16961209-22-defloc137"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-22-defend86 t16961209-22-defloc137"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-22-defend87 t16961209-22-defloc137"></join>, were Indicted for <rs id="t16961209-22-off138" type="offenceDescription">
+                     <interp inst="t16961209-22-off138" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16961209-22-off138" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 6 silver Spoons gilt with Gold, and 18 l. in Moneys
+            </rs>, the Goods of 
+               <persName id="t16961209-22-victim88" type="victimName">
+                  Ann 
+                  Earle
+               <interp inst="t16961209-22-victim88" type="surname" value="Earle"></interp>
+                     <interp inst="t16961209-22-victim88" type="given" value="Ann"></interp>
+                     <interp inst="t16961209-22-victim88" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16961209-22-off138 t16961209-22-victim88"></join>
+                  </persName>
+             
+                  <rs id="t16961209-22-viclabel139" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16961209-22-victim88 t16961209-22-viclabel139"></join>. There was no Evidence against them, so they were <rs id="t16961209-22-verdict140" type="verdictDescription">
+                     <interp inst="t16961209-22-verdict140" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16961209-22-verdict140" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

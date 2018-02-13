@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831010a-7">
+               <interp inst="t16831010a-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831010a-7" type="year" value="1683"></interp>
+               <interp inst="t16831010a-7" type="uri" value="sessionsPapers/16831010A"></interp>
+               <interp inst="t16831010a-7" type="date" value="16831010"></interp>
+               <join result="criminalCharge" id="t16831010a-7-off36-c23" targOrder="Y" targets="t16831010a-7-defend39 t16831010a-7-off36 t16831010a-7-verdict39"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831010a-7-defend39" type="defendantName">
+                     John 
+                     Thomson
+                  <interp inst="t16831010a-7-defend39" type="surname" value="Thomson"></interp>
+                     <interp inst="t16831010a-7-defend39" type="given" value="John"></interp>
+                     <interp inst="t16831010a-7-defend39" type="gender" value="male"></interp>
+                  </persName>
+               
+             was tryed for <rs id="t16831010a-7-off36" type="offenceDescription">
+                     <interp inst="t16831010a-7-off36" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831010a-7-off36" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a long laced Scarf, valued at 3 pounds
+            </rs>, from 
+               <persName id="t16831010a-7-victim40" type="victimName">
+                  Mary 
+                  Haburley
+               <interp inst="t16831010a-7-victim40" type="surname" value="Haburley"></interp>
+                     <interp inst="t16831010a-7-victim40" type="given" value="Mary"></interp>
+                     <interp inst="t16831010a-7-victim40" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16831010a-7-off36 t16831010a-7-victim40"></join>
+                  </persName>
+             in the <placeName id="t16831010a-7-crimeloc37">Royal-Exchange</placeName>
+                  <interp inst="t16831010a-7-crimeloc37" type="placeName" value="Royal-Exchange"></interp>
+                  <interp inst="t16831010a-7-crimeloc37" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16831010a-7-off36 t16831010a-7-crimeloc37"></join>, on the <rs id="t16831010a-7-cd38" type="crimeDate">18 of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16831010a-7-off36 t16831010a-7-cd38"></join> last; against him it was proved that he took the Scarf, and he being pursued, dropped it; but he pleaded that he was far from the Exchange when he was taken, and that it was impossible for him to get so far off in so short a time; but the proof being plain, he was found <rs id="t16831010a-7-verdict39" type="verdictDescription">
+                     <interp inst="t16831010a-7-verdict39" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16831010a-7-punish40" type="punishmentDescription">
+                     <interp inst="t16831010a-7-punish40" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16831010a-7-punish40" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831010a-7-defend39 t16831010a-7-punish40"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

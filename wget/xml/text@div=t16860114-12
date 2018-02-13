@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860114-12">
+               <interp inst="t16860114-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860114-12" type="year" value="1686"></interp>
+               <interp inst="t16860114-12" type="uri" value="sessionsPapers/16860114"></interp>
+               <interp inst="t16860114-12" type="date" value="16860114"></interp>
+               <join result="criminalCharge" id="t16860114-12-off55-c51" targOrder="Y" targets="t16860114-12-defend66 t16860114-12-off55 t16860114-12-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16860114-12-defend66" type="defendantName">
+                     Alice 
+                     Hayns
+                  <interp inst="t16860114-12-defend66" type="surname" value="Hayns"></interp>
+                     <interp inst="t16860114-12-defend66" type="given" value="Alice"></interp>
+                     <interp inst="t16860114-12-defend66" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16860114-12-off55" type="offenceDescription">
+                     <interp inst="t16860114-12-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860114-12-off55" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Wedding Ring, value 22 s. and 34 s. in money
+            </rs>, from 
+               
+                  <persName id="t16860114-12-victim68" type="victimName">
+                     Dorothy 
+                     Travell
+                  <interp inst="t16860114-12-victim68" type="surname" value="Travell"></interp>
+                     <interp inst="t16860114-12-victim68" type="given" value="Dorothy"></interp>
+                     <interp inst="t16860114-12-victim68" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860114-12-off55 t16860114-12-victim68"></join>
+                  </persName>
+               
+             of <placeName id="t16860114-12-crimeloc56">Islington</placeName>
+                  <interp inst="t16860114-12-crimeloc56" type="placeName" value="Islington"></interp>
+                  <interp inst="t16860114-12-crimeloc56" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16860114-12-off55 t16860114-12-crimeloc56"></join>, on the <rs id="t16860114-12-cd57" type="crimeDate">31th. of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16860114-12-off55 t16860114-12-cd57"></join> last; upon her tryal it appeared she had confessed that coming thither to Lodge, as being under some indisposition, she found means to commit the Felony, but soon after the Ring was recovered, and she appearing to express an extraordinary sence of sorrow for what she had done, the Jury compassionated her to that degree, as to find her <rs id="t16860114-12-verdict58" type="verdictDescription">
+                     <interp inst="t16860114-12-verdict58" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16860114-12-verdict58" type="verdictSubcategory" value="theftunder10s"></interp>
+               guilty within the benefit of Burning in the Hand, viz. to the value of 9 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16860114-12-punish59" type="punishmentDescription">
+                     <interp inst="t16860114-12-punish59" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16860114-12-punish59" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860114-12-defend66 t16860114-12-punish59"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

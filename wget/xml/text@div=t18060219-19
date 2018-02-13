@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18060219-19">
+               <interp inst="t18060219-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t18060219-19" type="year" value="1806"></interp>
+               <interp inst="t18060219-19" type="uri" value="sessionsPapers/18060219"></interp>
+               <interp inst="t18060219-19" type="date" value="18060219"></interp>
+               <join result="criminalCharge" id="t18060219-19-off91-c193" targOrder="Y" targets="t18060219-19-defend233 t18060219-19-off91 t18060219-19-verdict95"></join>
+         
+               <p>147. 
+               
+                  <persName id="t18060219-19-defend233" type="defendantName">
+                     JOHN 
+                     COPOUS
+                  <interp inst="t18060219-19-defend233" type="surname" value="COPOUS"></interp>
+                     <interp inst="t18060219-19-defend233" type="given" value="JOHN"></interp>
+                     <interp inst="t18060219-19-defend233" type="gender" value="male"></interp>
+                     <interp inst="t18060219-19-defend233" type="age" value="47"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18060219-19-off91" type="offenceDescription">
+                     <interp inst="t18060219-19-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18060219-19-off91" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing on the <rs id="t18060219-19-cd92" type="crimeDate">11th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18060219-19-off91 t18060219-19-cd92"></join>, a copper tea kettle, value 4 s.
+            </rs> the property of 
+               
+                  <persName id="t18060219-19-victim235" type="victimName">
+                     Francis 
+                     Hopper
+                  <interp inst="t18060219-19-victim235" type="surname" value="Hopper"></interp>
+                     <interp inst="t18060219-19-victim235" type="given" value="Francis"></interp>
+                     <interp inst="t18060219-19-victim235" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18060219-19-off91 t18060219-19-victim235"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18060219-19-person236">
+                  FRANCIS 
+                  HOPPER
+               <interp inst="t18060219-19-person236" type="surname" value="HOPPER"></interp>
+                     <interp inst="t18060219-19-person236" type="given" value="FRANCIS"></interp>
+                     <interp inst="t18060219-19-person236" type="gender" value="male"></interp>
+                  </persName>
+             sworn. I am a <rs id="t18060219-19-viclabel93" type="occupation">publican</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18060219-19-victim235 t18060219-19-viclabel93"></join>, I live at <placeName id="t18060219-19-crimeloc94">No. 16, Little Compton-street</placeName>
+                  <interp inst="t18060219-19-crimeloc94" type="placeName" value="No. 16, Little Compton-street"></interp>
+                  <interp inst="t18060219-19-crimeloc94" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18060219-19-off91 t18060219-19-crimeloc94"></join>: on the 11th of February, about five o'clock in the evening, the prisoner came in and called for a pint of beer, he drank it and paid for it, he called for a second pint of beer, and change for a shilling, which I gave him, he drank it, in a little while he went to the tap room grate, he said he was waiting for his master, who lived in Long Acre; I went into the parlour, leaving the kettle standing on the grate, and no one in the tap room but himself; when I returned from the parlour, I missed the kettle and the prisoner; I immediately ran into the street, and saw the prisoner at the bar, with the tea kettle in his hand, walking deliberately along; I ran after him and he went up Star-court, I asked him where he was going with the kettle, he returned five paces back again, and set it on the ground, and said that he knew nothing at all about the tea kettle.</p>
+               <p>Q. Do you think he was sober. - A. I think he was, he turned round and walked up the court, it being no thoroughfare, he opened the gate and went into a stone mason's yard, where I stopped him; I produce the kettle, it is mine.</p>
+               <p>Prisoner's Defence. I know nothing of it, I had been making rather free with liquor, I do not recollect being in the house; I had been fourteen weeks out of employment, I had a bad arm, and when I found I was not able to do any laborious work, I went to get into the army of defence; they would not have me.</p>
+               <p>Q. Is your arm well now. - A. No; I went to Tower Hill to get a ship, my arm being bad, and I being old, they would not take me.</p>
+               <p>
+                  <rs id="t18060219-19-verdict95" type="verdictDescription">
+                     <interp inst="t18060219-19-verdict95" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 47.</p>
+               <p>
+                  <rs id="t18060219-19-punish96" type="punishmentDescription">
+                     <interp inst="t18060219-19-punish96" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18060219-19-punish96" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18060219-19-defend233 t18060219-19-punish96"></join>
+               Confined One Week in Newgate
+            </rs>, and <rs id="t18060219-19-punish97" type="punishmentDescription">
+                     <interp inst="t18060219-19-punish97" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18060219-19-punish97" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18060219-19-defend233 t18060219-19-punish97"></join>
+               publicly Whipped
+            </rs>.</p>
+               <p>Second Middlesex Jury, before Mr. Recorder.</p>
+            </div1>

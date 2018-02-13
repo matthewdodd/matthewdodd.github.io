@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16811017-7">
+               <interp inst="t16811017-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16811017-7" type="year" value="1681"></interp>
+               <interp inst="t16811017-7" type="uri" value="sessionsPapers/16811017"></interp>
+               <interp inst="t16811017-7" type="date" value="16811017"></interp>
+               <join result="criminalCharge" id="t16811017-7-off24-c16" targOrder="Y" targets="t16811017-7-defend28 t16811017-7-off24 t16811017-7-verdict26"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16811017-7-defend28" type="defendantName">
+                     Elizabeth 
+                     Warner
+                  <interp inst="t16811017-7-defend28" type="surname" value="Warner"></interp>
+                     <interp inst="t16811017-7-defend28" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16811017-7-defend28" type="gender" value="female"></interp>
+                  </persName>
+               
+             was Arraigned for that she on the <rs id="t16811017-7-cd23" type="crimeDate">24th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16811017-7-off24 t16811017-7-cd23"></join> last <rs id="t16811017-7-off24" type="offenceDescription">
+                     <interp inst="t16811017-7-off24" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16811017-7-off24" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbed one 
+                     
+                        <persName id="t16811017-7-victim30" type="victimName">
+                           Thomas 
+                           Toply
+                        <interp inst="t16811017-7-victim30" type="surname" value="Toply"></interp>
+                        <interp inst="t16811017-7-victim30" type="given" value="Thomas"></interp>
+                        <interp inst="t16811017-7-victim30" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16811017-7-off24 t16811017-7-victim30"></join>
+                     </persName>
+                     
+                   her <rs id="t16811017-7-viclabel25" type="occupation">Master</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16811017-7-victim30 t16811017-7-viclabel25"></join> of several sums of money
+            </rs> the which she had confessed when she was carryed before a Justice of Peace, but having learned he lesson in Newgate, again denyed the same but the Evidence being plain against her, she was found <rs id="t16811017-7-verdict26" type="verdictDescription">
+                     <interp inst="t16811017-7-verdict26" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16811017-7-punish27" type="punishmentDescription">
+                     <interp inst="t16811017-7-punish27" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16811017-7-defend28 t16811017-7-punish27"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17330404-19">
+               <interp inst="t17330404-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17330404-19" type="year" value="1733"></interp>
+               <interp inst="t17330404-19" type="uri" value="sessionsPapers/17330404"></interp>
+               <interp inst="t17330404-19" type="date" value="17330404"></interp>
+               <join result="criminalCharge" id="t17330404-19-off75-c93" targOrder="Y" targets="t17330404-19-defend136 t17330404-19-off75 t17330404-19-verdict77"></join>
+         
+               <p>25. 
+               
+                  <persName id="t17330404-19-defend136" type="defendantName">
+                     Francis 
+                     Welch 
+                  <interp inst="t17330404-19-defend136" type="surname" value="Welch"></interp>
+                     <interp inst="t17330404-19-defend136" type="given" value="Francis"></interp>
+                     <interp inst="t17330404-19-defend136" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17330404-19-off75" type="offenceDescription">
+                     <interp inst="t17330404-19-off75" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17330404-19-off75" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Book, value 1 s. 6 d.
+            </rs> the Property of 
+               
+                  <persName id="t17330404-19-victim138" type="victimName">
+                     Thomas 
+                     King 
+                  <interp inst="t17330404-19-victim138" type="surname" value="King"></interp>
+                     <interp inst="t17330404-19-victim138" type="given" value="Thomas"></interp>
+                     <interp inst="t17330404-19-victim138" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17330404-19-off75 t17330404-19-victim138"></join>
+                  </persName>
+                
+            , <rs id="t17330404-19-cd76" type="crimeDate">March 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17330404-19-off75 t17330404-19-cd76"></join> 
+                  <rs id="t17330404-19-verdict77" type="verdictDescription">
+                     <interp inst="t17330404-19-verdict77" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

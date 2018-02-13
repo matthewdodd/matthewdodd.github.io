@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930906-49">
+               <interp inst="t16930906-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930906-49" type="year" value="1693"></interp>
+               <interp inst="t16930906-49" type="uri" value="sessionsPapers/16930906"></interp>
+               <interp inst="t16930906-49" type="date" value="16930906"></interp>
+               <join result="criminalCharge" id="t16930906-49-off210-c147" targOrder="Y" targets="t16930906-49-defend147 t16930906-49-off210 t16930906-49-verdict213"></join>
+         
+               <p>
+            
+                  <persName id="t16930906-49-defend147" type="defendantName">
+                  Thomas 
+                  Pierce
+               <interp inst="t16930906-49-defend147" type="surname" value="Pierce"></interp>
+                     <interp inst="t16930906-49-defend147" type="given" value="Thomas"></interp>
+                     <interp inst="t16930906-49-defend147" type="gender" value="male"></interp>
+                  </persName>
+             was tried for <rs id="t16930906-49-off210" type="offenceDescription">
+                     <interp inst="t16930906-49-off210" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930906-49-off210" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Cup, value 50 s.
+            </rs> from 
+               <persName id="t16930906-49-victim148" type="victimName">
+                  Richard 
+                  Deane
+               <interp inst="t16930906-49-victim148" type="surname" value="Deane"></interp>
+                     <interp inst="t16930906-49-victim148" type="given" value="Richard"></interp>
+                     <interp inst="t16930906-49-victim148" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930906-49-off210 t16930906-49-victim148"></join>
+                  </persName>
+             in <placeName id="t16930906-49-crimeloc211">Chancery-lane</placeName>
+                  <interp inst="t16930906-49-crimeloc211" type="placeName" value="Chancery-lane"></interp>
+                  <interp inst="t16930906-49-crimeloc211" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930906-49-off210 t16930906-49-crimeloc211"></join>, on the <rs id="t16930906-49-cd212" type="crimeDate">12th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16930906-49-off210 t16930906-49-cd212"></join> last: He was seen in the House when the Cup was lost, and the Prisoner rusht out of the House on a sudden, and there<xptr type="pageFacsimile" doc="16930906004"></xptr>was no one in the Room but him: The Prisoner denied the Fact, But he was found <rs id="t16930906-49-verdict213" type="verdictDescription">
+                     <interp inst="t16930906-49-verdict213" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16930906-49-punish214" type="punishmentDescription">
+                     <interp inst="t16930906-49-punish214" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930906-49-punish214" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930906-49-defend147 t16930906-49-punish214"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

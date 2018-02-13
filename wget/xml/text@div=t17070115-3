@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17070115-3">
+               <interp inst="t17070115-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17070115-3" type="year" value="1707"></interp>
+               <interp inst="t17070115-3" type="uri" value="sessionsPapers/17070115"></interp>
+               <interp inst="t17070115-3" type="date" value="17070115"></interp>
+               <join result="criminalCharge" id="t17070115-3-off14-c31" targOrder="Y" targets="t17070115-3-defend31 t17070115-3-off14 t17070115-3-verdict16"></join>
+         
+               <p>
+            
+                  <persName id="t17070115-3-defend31" type="defendantName">
+                  William 
+                  Read
+               <interp inst="t17070115-3-defend31" type="surname" value="Read"></interp>
+                     <interp inst="t17070115-3-defend31" type="given" value="William"></interp>
+                     <interp inst="t17070115-3-defend31" type="gender" value="male"></interp>
+                  </persName>
+            , of London, <rs id="t17070115-3-deflabel12" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17070115-3-defend31 t17070115-3-deflabel12"></join>, was Indicted for, that he, on the <rs id="t17070115-3-cd13" type="crimeDate">23rd. of Decem.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17070115-3-off14 t17070115-3-cd13"></join> last, did <rs id="t17070115-3-off14" type="offenceDescription">
+                     <interp inst="t17070115-3-off14" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17070115-3-off14" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously Steal 16l. of Beeswax, value 16s. the Goods of 
+                     <persName id="t17070115-3-victim32" type="victimName">
+                        Samuel 
+                        Greenhill
+                     <interp inst="t17070115-3-victim32" type="surname" value="Greenhill"></interp>
+                        <interp inst="t17070115-3-victim32" type="given" value="Samuel"></interp>
+                        <interp inst="t17070115-3-victim32" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17070115-3-off14 t17070115-3-victim32"></join>
+                     </persName>
+                   of <placeName id="t17070115-3-crimeloc15">St. Alphage, near Cripplegate within</placeName>
+                     <interp inst="t17070115-3-crimeloc15" type="placeName" value="St. Alphage, near Cripplegate within"></interp>
+                     <interp inst="t17070115-3-crimeloc15" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17070115-3-off14 t17070115-3-crimeloc15"></join>
+               
+                  </rs>. The Evidence Deposed, that the Prisoner came to the Prosecutors Shop, and bought a Pennyworth of Shoemakers Gum, and asking for other things; but as her Back was turn'd to reach them, he made use of that Opportunity to take the Beeswax. The Prosecutor Deposed, that understanding that he was robb'd, he made it to his Business to find out the Thief, and near Cripplegate he saw two Men, one of whom had something under his Coat, which he suspected might be his Goods, and pursuing them, the Goods were thrown down, and the Prisoner apprehended on Suspicion, which prov'd to be the Man that came to the Prosecutors Shop, when the Goods were lost. The Prisoner denied the Fact, but the Evidence appearing plain against him, the Jury foung him <rs id="t17070115-3-verdict16" type="verdictDescription">
+                     <interp inst="t17070115-3-verdict16" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17070115-3-verdict16" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17070115-3-punish17" type="punishmentDescription">
+                     <interp inst="t17070115-3-punish17" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17070115-3-punish17" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070115-3-defend31 t17070115-3-punish17"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

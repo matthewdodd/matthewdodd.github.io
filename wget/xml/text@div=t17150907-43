@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150907-43">
+               <interp inst="t17150907-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150907-43" type="year" value="1715"></interp>
+               <interp inst="t17150907-43" type="uri" value="sessionsPapers/17150907"></interp>
+               <interp inst="t17150907-43" type="date" value="17150907"></interp>
+               <join result="criminalCharge" id="t17150907-43-off229-c137" targOrder="Y" targets="t17150907-43-defend234 t17150907-43-off229 t17150907-43-verdict231"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150907-43-defend234" type="defendantName">
+                     John 
+                     Fielding 
+                  <interp inst="t17150907-43-defend234" type="surname" value="Fielding"></interp>
+                     <interp inst="t17150907-43-defend234" type="given" value="John"></interp>
+                     <interp inst="t17150907-43-defend234" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17150907-43-defloc228">Hornsey</placeName>
+                  <interp inst="t17150907-43-defloc228" type="placeName" value="Hornsey"></interp>
+                  <interp inst="t17150907-43-defloc228" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150907-43-defend234 t17150907-43-defloc228"></join>, was indicted for <rs id="t17150907-43-off229" type="offenceDescription">
+                     <interp inst="t17150907-43-off229" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150907-43-off229" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing the Stuff Lining of a Shaize, value 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17150907-43-victim236" type="victimName">
+                     Thomas 
+                     Fish 
+                  <interp inst="t17150907-43-victim236" type="surname" value="Fish"></interp>
+                     <interp inst="t17150907-43-victim236" type="given" value="Thomas"></interp>
+                     <interp inst="t17150907-43-victim236" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150907-43-off229 t17150907-43-victim236"></join>
+                  </persName>
+                
+             , <rs id="t17150907-43-viclabel230" type="occupation">Esq;</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17150907-43-victim236 t17150907-43-viclabel230"></join> It appear'd the Prisoner was taken with the Goods upon him; and making no Defence, was found <rs id="t17150907-43-verdict231" type="verdictDescription">
+                     <interp inst="t17150907-43-verdict231" type="verdictCategory" value="guilty"></interp>
+               Guilty of Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17150907-43-punish232" type="punishmentDescription">
+                     <interp inst="t17150907-43-punish232" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17150907-43-punish232" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150907-43-defend234 t17150907-43-punish232"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

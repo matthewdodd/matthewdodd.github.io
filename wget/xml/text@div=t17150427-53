@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150427-53">
+               <interp inst="t17150427-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150427-53" type="year" value="1715"></interp>
+               <interp inst="t17150427-53" type="uri" value="sessionsPapers/17150427"></interp>
+               <interp inst="t17150427-53" type="date" value="17150427"></interp>
+               <join result="criminalCharge" id="t17150427-53-off279-c165" targOrder="Y" targets="t17150427-53-defend273 t17150427-53-off279 t17150427-53-verdict281"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150427-53-defend273" type="defendantName">
+                     John 
+                     Brush 
+                  <interp inst="t17150427-53-defend273" type="surname" value="Brush"></interp>
+                     <interp inst="t17150427-53-defend273" type="given" value="John"></interp>
+                     <interp inst="t17150427-53-defend273" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17150427-53-defloc278">St. Giles Cripplegate</placeName>
+                  <interp inst="t17150427-53-defloc278" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t17150427-53-defloc278" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150427-53-defend273 t17150427-53-defloc278"></join>, was indicted for <rs id="t17150427-53-off279" type="offenceDescription">
+                     <interp inst="t17150427-53-off279" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150427-53-off279" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 30 Dozen of Button, value 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17150427-53-victim275" type="victimName">
+                     Daniel 
+                     Gill 
+                  <interp inst="t17150427-53-victim275" type="surname" value="Gill"></interp>
+                     <interp inst="t17150427-53-victim275" type="given" value="Daniel"></interp>
+                     <interp inst="t17150427-53-victim275" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150427-53-off279 t17150427-53-victim275"></join>
+                  </persName>
+                
+            , on the <rs id="t17150427-53-cd280" type="crimeDate">15th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150427-53-off279 t17150427-53-cd280"></join> last. The Prosecutor swore, That the Buttons being lost, and the Prisoner gone out; and being suspected, when he came home he was seiz'd, and own'd the Fact; whereupon he was found <rs id="t17150427-53-verdict281" type="verdictDescription">
+                     <interp inst="t17150427-53-verdict281" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17150427-53-verdict281" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17150427-53-punish282" type="punishmentDescription">
+                     <interp inst="t17150427-53-punish282" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17150427-53-punish282" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150427-53-defend273 t17150427-53-punish282"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991213-46">
+               <interp inst="t16991213-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991213-46" type="year" value="1699"></interp>
+               <interp inst="t16991213-46" type="uri" value="sessionsPapers/16991213"></interp>
+               <interp inst="t16991213-46" type="date" value="16991213"></interp>
+               <join result="criminalCharge" id="t16991213-46-off257-c151" targOrder="Y" targets="t16991213-46-defend151 t16991213-46-off257 t16991213-46-verdict260"></join>
+               <join result="criminalCharge" id="t16991213-46-off257-c152" targOrder="Y" targets="t16991213-46-defend152 t16991213-46-off257 t16991213-46-verdict259"></join>
+         
+               <p>
+            
+                  <persName id="t16991213-46-defend151" type="defendantName">
+                  John 
+                  Andrews
+               <interp inst="t16991213-46-defend151" type="surname" value="Andrews"></interp>
+                     <interp inst="t16991213-46-defend151" type="given" value="John"></interp>
+                     <interp inst="t16991213-46-defend151" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16991213-46-defend152" type="defendantName">
+                  Richard 
+                  Johnson
+               <interp inst="t16991213-46-defend152" type="surname" value="Johnson"></interp>
+                     <interp inst="t16991213-46-defend152" type="given" value="Richard"></interp>
+                     <interp inst="t16991213-46-defend152" type="gender" value="male"></interp>
+                  </persName>
+            , both of the Parish of <placeName id="t16991213-46-defloc255">Hendon</placeName>
+                  <interp inst="t16991213-46-defloc255" type="placeName" value="Hendon"></interp>
+                  <interp inst="t16991213-46-defloc255" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-46-defend151 t16991213-46-defloc255"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-46-defend152 t16991213-46-defloc255"></join>, were Indicted upon two Indictments, for that they the <rs id="t16991213-46-cd256" type="crimeDate">Fourth of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16991213-46-off257 t16991213-46-cd256"></join> last did steal <rs id="t16991213-46-off257" type="offenceDescription">
+                     <interp inst="t16991213-46-off257" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991213-46-off257" type="offenceSubcategory" value="animalTheft"></interp>
+               Forty Pound of weight of Lead and eight Pidgeons, from Sir 
+                     <persName id="t16991213-46-victim153" type="victimName">
+                        William 
+                        Rawlinson
+                     <interp inst="t16991213-46-victim153" type="surname" value="Rawlinson"></interp>
+                        <interp inst="t16991213-46-victim153" type="given" value="William"></interp>
+                        <interp inst="t16991213-46-victim153" type="gender" value="male"></interp>
+                     </persName>
+                  , <rs id="t16991213-46-viclabel258" type="occupation">Knight</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16991213-46-victim153 t16991213-46-viclabel258"></join>, and Four Geese from 
+                     <persName id="t16991213-46-victim154" type="victimName">
+                        William 
+                        Gardner
+                     <interp inst="t16991213-46-victim154" type="surname" value="Gardner"></interp>
+                        <interp inst="t16991213-46-victim154" type="given" value="William"></interp>
+                        <interp inst="t16991213-46-victim154" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>. It appeared that the Goods were taken at Hamstead upon Andrews, and that Johnson was at the same time in his Company, who denied that he knew any thing of the Fact, the Jury thereupon <rs id="t16991213-46-verdict259" type="verdictDescription">
+                     <interp inst="t16991213-46-verdict259" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> him, and found Andrews <rs id="t16991213-46-verdict260" type="verdictDescription">
+                     <interp inst="t16991213-46-verdict260" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16991213-46-verdict260" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16991213-46-punish261" type="punishmentDescription">
+                     <interp inst="t16991213-46-punish261" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16991213-46-punish261" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-46-defend151 t16991213-46-punish261"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

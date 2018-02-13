@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16740909-3">
+               <interp inst="t16740909-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16740909-3" type="year" value="1674"></interp>
+               <interp inst="t16740909-3" type="uri" value="sessionsPapers/16740909"></interp>
+               <interp inst="t16740909-3" type="date" value="16740909"></interp>
+               <join result="criminalCharge" id="t16740909-3-off11-c6" targOrder="Y" targets="t16740909-3-defend6 t16740909-3-off11 t16740909-3-verdict14"></join>
+         
+               <p>After them we may reckon 
+               <persName id="t16740909-3-defend6" type="defendantName">another<interp inst="t16740909-3-defend6" type="gender" value="male"></interp>
+                  </persName>
+             who was proved guilty of <rs id="t16740909-3-off11" type="offenceDescription">
+                     <interp inst="t16740909-3-off11" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16740909-3-off11" type="offenceSubcategory" value="murder"></interp>
+               killing a 
+                     <persName id="t16740909-3-victim7" type="victimName">
+                        <rs id="t16740909-3-viclabel12" type="occupation">Brewers Servant</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16740909-3-victim7 t16740909-3-viclabel12"></join>
+                        <interp inst="t16740909-3-victim7" type="gender" value="indeterminate"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16740909-3-off11 t16740909-3-victim7"></join>
+                     </persName>
+                  
+               
+                  </rs> in <placeName id="t16740909-3-crimeloc13">White-cross-street</placeName>
+                  <interp inst="t16740909-3-crimeloc13" type="placeName" value="White-cross-street"></interp>
+                  <interp inst="t16740909-3-crimeloc13" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16740909-3-off11 t16740909-3-crimeloc13"></join>, but the same being <rs id="t16740909-3-verdict14" type="verdictDescription">
+                     <interp inst="t16740909-3-verdict14" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16740909-3-verdict14" type="verdictSubcategory" value="manslaughter"></interp>
+               found to be only Manslaughter
+            </rs>, and not done with any repeise malice (as Lawyers speak) upon his earnest begging the favour of his Book, he was admitted to the benefit of his Clergy; but after all was not capable to read, and so received sentence of <rs id="t16740909-3-punish15" type="punishmentDescription">
+                     <interp inst="t16740909-3-punish15" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16740909-3-defend6 t16740909-3-punish15"></join>
+               Death
+            </rs>. </p>
+            </div1>

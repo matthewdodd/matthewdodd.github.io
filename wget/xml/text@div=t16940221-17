@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940221-17">
+               <interp inst="t16940221-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940221-17" type="year" value="1694"></interp>
+               <interp inst="t16940221-17" type="uri" value="sessionsPapers/16940221"></interp>
+               <interp inst="t16940221-17" type="date" value="16940221"></interp>
+               <join result="criminalCharge" id="t16940221-17-off62-c65" targOrder="Y" targets="t16940221-17-defend65 t16940221-17-off62 t16940221-17-verdict65"></join>
+               <join result="criminalCharge" id="t16940221-17-off62-c66" targOrder="Y" targets="t16940221-17-defend66 t16940221-17-off62 t16940221-17-verdict64"></join>
+         
+               <p>
+            
+                  <persName id="t16940221-17-defend65" type="defendantName">
+                  Richard 
+                  Palmer
+               <interp inst="t16940221-17-defend65" type="surname" value="Palmer"></interp>
+                     <interp inst="t16940221-17-defend65" type="given" value="Richard"></interp>
+                     <interp inst="t16940221-17-defend65" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16940221-17-defend66" type="defendantName">
+                  Richard 
+                  Lorriman
+               <interp inst="t16940221-17-defend66" type="surname" value="Lorriman"></interp>
+                     <interp inst="t16940221-17-defend66" type="given" value="Richard"></interp>
+                     <interp inst="t16940221-17-defend66" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t16940221-17-off62" type="offenceDescription">
+                     <interp inst="t16940221-17-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16940221-17-off62" type="offenceSubcategory" value="pocketpicking"></interp>
+               picking the Pocket of 
+                     <persName id="t16940221-17-victim67" type="victimName">
+                        Paul 
+                        Peregrine
+                     <interp inst="t16940221-17-victim67" type="surname" value="Peregrine"></interp>
+                        <interp inst="t16940221-17-victim67" type="given" value="Paul"></interp>
+                        <interp inst="t16940221-17-victim67" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16940221-17-off62 t16940221-17-victim67"></join>
+                     </persName>
+                   of 5 l 18 s. in Money
+            </rs>; the Prisoners Palmer and Lorriman being together near <placeName id="t16940221-17-crimeloc63">Bow-Church</placeName>
+                  <interp inst="t16940221-17-crimeloc63" type="placeName" value="Bow-Church"></interp>
+                  <interp inst="t16940221-17-crimeloc63" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16940221-17-off62 t16940221-17-crimeloc63"></join>, they jostled the Prosecutor; and he presently finding his Pocket lighter, was told by a Gentleman that the Prisoners were the persons that picked his Pocket, and upon pursuit the Money was found in Lorriman's Pocket, which he said was given him by a Gentleman, but could not prove it; he was found <rs id="t16940221-17-verdict64" type="verdictDescription">
+                     <interp inst="t16940221-17-verdict64" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, and Palmer <rs id="t16940221-17-verdict65" type="verdictDescription">
+                     <interp inst="t16940221-17-verdict65" type="verdictCategory" value="notGuilty"></interp>
+               not guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16940221-17-punish66" type="punishmentDescription">
+                     <interp inst="t16940221-17-punish66" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940221-17-defend66 t16940221-17-punish66"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

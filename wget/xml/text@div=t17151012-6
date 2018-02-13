@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17151012-6">
+               <interp inst="t17151012-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17151012-6" type="year" value="1715"></interp>
+               <interp inst="t17151012-6" type="uri" value="sessionsPapers/17151012"></interp>
+               <interp inst="t17151012-6" type="date" value="17151012"></interp>
+               <join result="criminalCharge" id="t17151012-6-off25-c39" targOrder="Y" targets="t17151012-6-defend50 t17151012-6-off25 t17151012-6-verdict28"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17151012-6-defend50" type="defendantName">
+                     Henry 
+                     Williams 
+                  <interp inst="t17151012-6-defend50" type="surname" value="Williams"></interp>
+                     <interp inst="t17151012-6-defend50" type="given" value="Henry"></interp>
+                     <interp inst="t17151012-6-defend50" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17151012-6-defloc24">St. Michael in Cornhill</placeName>
+                  <interp inst="t17151012-6-defloc24" type="placeName" value="St. Michael in Cornhill"></interp>
+                  <interp inst="t17151012-6-defloc24" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17151012-6-defend50 t17151012-6-defloc24"></join>, was indicted for <rs id="t17151012-6-off25" type="offenceDescription">
+                     <interp inst="t17151012-6-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17151012-6-off25" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 20 Yards of course Muslin, value 24 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17151012-6-victim52" type="victimName">
+                     Samuel 
+                     Holmes 
+                  <interp inst="t17151012-6-victim52" type="surname" value="Holmes"></interp>
+                     <interp inst="t17151012-6-victim52" type="given" value="Samuel"></interp>
+                     <interp inst="t17151012-6-victim52" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17151012-6-off25 t17151012-6-victim52"></join>
+                  </persName>
+                
+            , on the <rs id="t17151012-6-cd26" type="crimeDate">26th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17151012-6-off25 t17151012-6-cd26"></join> last. An Evidence depos'd that coming down <placeName id="t17151012-6-crimeloc27">Cornhill</placeName>
+                  <interp inst="t17151012-6-crimeloc27" type="placeName" value="Cornhill"></interp>
+                  <interp inst="t17151012-6-crimeloc27" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17151012-6-off25 t17151012-6-crimeloc27"></join>, he saw the Prisoner and another, loitering about the Prosecutor's Shop; that he suspected them to be Rogues, and saw them run on a sudden cross the way , upon which he follow'd them and seiz'd the Prisoner, between whom and the other that was with him, but afterwards got away, was dropt the Goods above-mention'd. The Prisoner denied the Fact, and brought a person to his Reputation ; who doing him but little Service, and the Fact appearing plain against him, he was found <rs id="t17151012-6-verdict28" type="verdictDescription">
+                     <interp inst="t17151012-6-verdict28" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17151012-6-verdict28" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17151012-6-punish29" type="punishmentDescription">
+                     <interp inst="t17151012-6-punish29" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17151012-6-punish29" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17151012-6-defend50 t17151012-6-punish29"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

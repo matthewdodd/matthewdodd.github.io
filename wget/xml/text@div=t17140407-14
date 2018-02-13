@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17140407-14">
+               <interp inst="t17140407-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17140407-14" type="year" value="1714"></interp>
+               <interp inst="t17140407-14" type="uri" value="sessionsPapers/17140407"></interp>
+               <interp inst="t17140407-14" type="date" value="17140407"></interp>
+               <join result="criminalCharge" id="t17140407-14-off78-c63" targOrder="Y" targets="t17140407-14-defend90 t17140407-14-off78 t17140407-14-verdict81"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17140407-14-defend90" type="defendantName">
+                     Joseph 
+                     Wilson
+                  <interp inst="t17140407-14-defend90" type="surname" value="Wilson"></interp>
+                     <interp inst="t17140407-14-defend90" type="given" value="Joseph"></interp>
+                     <interp inst="t17140407-14-defend90" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17140407-14-defloc77">St. Martin in the Fields</placeName>
+                  <interp inst="t17140407-14-defloc77" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17140407-14-defloc77" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17140407-14-defend90 t17140407-14-defloc77"></join>, was indicted for <rs id="t17140407-14-off78" type="offenceDescription">
+                     <interp inst="t17140407-14-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17140407-14-off78" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Cloth Coat, value 20 s. out of the Stable of the Honourable 
+                     
+                        <persName id="t17140407-14-victim92" type="victimName">
+                           James 
+                           Bridges
+                        <interp inst="t17140407-14-victim92" type="surname" value="Bridges"></interp>
+                        <interp inst="t17140407-14-victim92" type="given" value="James"></interp>
+                        <interp inst="t17140407-14-victim92" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17140407-14-off78 t17140407-14-victim92"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs> 
+                  <rs id="t17140407-14-viclabel79" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17140407-14-victim92 t17140407-14-viclabel79"></join>; on the <rs id="t17140407-14-cd80" type="crimeDate">18th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17140407-14-off78 t17140407-14-cd80"></join> last. The Evidence was Mr. Bridges's Servant, who swore, That having lost his Coat out of the Coach-box, he took the Prisoner with it upon him. He had nothing to say in his Defence, but that he was much in Drink, and knew not how he came by the Coat; and had a Witness who swore he saw a Man drop the Coat in the Street; but he was very deficient in his Story, and rather expos'd than excus'd the Prisoner, who was found <rs id="t17140407-14-verdict81" type="verdictDescription">
+                     <interp inst="t17140407-14-verdict81" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17140407-14-punish82" type="punishmentDescription">
+                     <interp inst="t17140407-14-punish82" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17140407-14-punish82" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17140407-14-defend90 t17140407-14-punish82"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

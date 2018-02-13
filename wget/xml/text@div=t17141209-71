@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17141209-71">
+               <interp inst="t17141209-71" type="collection" value="BAILEY"></interp>
+               <interp inst="t17141209-71" type="year" value="1714"></interp>
+               <interp inst="t17141209-71" type="uri" value="sessionsPapers/17141209"></interp>
+               <interp inst="t17141209-71" type="date" value="17141209"></interp>
+               <join result="criminalCharge" id="t17141209-71-off376-c218" targOrder="Y" targets="t17141209-71-defend376 t17141209-71-off376 t17141209-71-verdict378"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17141209-71-defend376" type="defendantName">
+                     George 
+                     Hans 
+                  <interp inst="t17141209-71-defend376" type="surname" value="Hans"></interp>
+                     <interp inst="t17141209-71-defend376" type="given" value="George"></interp>
+                     <interp inst="t17141209-71-defend376" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17141209-71-defloc375">St. Giles in the Fields</placeName>
+                  <interp inst="t17141209-71-defloc375" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17141209-71-defloc375" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17141209-71-defend376 t17141209-71-defloc375"></join>, was indicted for <rs id="t17141209-71-off376" type="offenceDescription">
+                     <interp inst="t17141209-71-off376" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17141209-71-off376" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Cambrick Handkerchief, value, 2 s. from the Person of 
+                     
+                        <persName id="t17141209-71-victim378" type="victimName">
+                           Richard 
+                           Chace 
+                        <interp inst="t17141209-71-victim378" type="surname" value="Chace"></interp>
+                        <interp inst="t17141209-71-victim378" type="given" value="Richard"></interp>
+                        <interp inst="t17141209-71-victim378" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17141209-71-off376 t17141209-71-victim378"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, on the 3d instant. Mr. Chace swore, That coming out of <placeName id="t17141209-71-crimeloc377">St. Giles's Church</placeName>
+                  <interp inst="t17141209-71-crimeloc377" type="placeName" value="St. Giles's Church"></interp>
+                  <interp inst="t17141209-71-crimeloc377" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17141209-71-off376 t17141209-71-crimeloc377"></join>, he saw the Prisoner's Hand moving from his Pocket; whereupon he seized him, and found the Handkerchief upon him. The Jury found him <rs id="t17141209-71-verdict378" type="verdictDescription">
+                     <interp inst="t17141209-71-verdict378" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17141209-71-verdict378" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17141209-71-punish379" type="punishmentDescription">
+                     <interp inst="t17141209-71-punish379" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17141209-71-punish379" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17141209-71-defend376 t17141209-71-punish379"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

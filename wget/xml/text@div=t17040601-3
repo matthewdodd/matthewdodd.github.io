@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040601-3">
+               <interp inst="t17040601-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040601-3" type="year" value="1704"></interp>
+               <interp inst="t17040601-3" type="uri" value="sessionsPapers/17040601"></interp>
+               <interp inst="t17040601-3" type="date" value="17040601"></interp>
+               <join result="criminalCharge" id="t17040601-3-off13-c32" targOrder="Y" targets="t17040601-3-defend32 t17040601-3-off13 t17040601-3-verdict15"></join>
+               <join result="criminalCharge" id="t17040601-3-off13-c33" targOrder="Y" targets="t17040601-3-defend33 t17040601-3-off13 t17040601-3-verdict15"></join>
+         
+               <p>
+            
+                  <persName id="t17040601-3-defend32" type="defendantName">
+                  Elizabeth 
+                  Miller
+               <interp inst="t17040601-3-defend32" type="surname" value="Miller"></interp>
+                     <interp inst="t17040601-3-defend32" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17040601-3-defend32" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17040601-3-defend33" type="defendantName">
+                  Ann 
+                  Hutchins
+               <interp inst="t17040601-3-defend33" type="surname" value="Hutchins"></interp>
+                     <interp inst="t17040601-3-defend33" type="given" value="Ann"></interp>
+                     <interp inst="t17040601-3-defend33" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17040601-3-defloc12">Christ-Church</placeName>
+                  <interp inst="t17040601-3-defloc12" type="placeName" value="Christ-Church"></interp>
+                  <interp inst="t17040601-3-defloc12" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040601-3-defend32 t17040601-3-defloc12"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040601-3-defend33 t17040601-3-defloc12"></join>, were indicted for <rs id="t17040601-3-off13" type="offenceDescription">
+                     <interp inst="t17040601-3-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17040601-3-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously Stealing four Buck-skins, value 4 s.
+            </rs> from 
+               <persName id="t17040601-3-victim34" type="victimName">
+                  Thomas 
+                  Bodington
+               <interp inst="t17040601-3-victim34" type="surname" value="Bodington"></interp>
+                     <interp inst="t17040601-3-victim34" type="given" value="Thomas"></interp>
+                     <interp inst="t17040601-3-victim34" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17040601-3-off13 t17040601-3-victim34"></join>
+                  </persName>
+            , on the <rs id="t17040601-3-cd14" type="crimeDate">4th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17040601-3-off13 t17040601-3-cd14"></join> last. It appeared that they came into the Shop, pretending to buy some Shammey-Skins for the Lining of Breeches, and whilst he was busie showing them some, one them took the Goods, and they went away together; but going along the Street, a stranger saw some of the Goods under Miller's Petticoats, who mistrusting them, gave notice of it, and it being told the Prosecutor, he pursued them, and brought them back, and found the Skins upon Miller. It appeared that they were both of them Confederates together, and could not call any to their Reputations: the Jury found them both <rs id="t17040601-3-verdict15" type="verdictDescription">
+                     <interp inst="t17040601-3-verdict15" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17040601-3-punish16" type="punishmentDescription">
+                     <interp inst="t17040601-3-punish16" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17040601-3-punish16" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040601-3-defend32 t17040601-3-punish16"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040601-3-defend33 t17040601-3-punish16"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

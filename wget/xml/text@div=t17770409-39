@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17770409-39">
+               <interp inst="t17770409-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17770409-39" type="year" value="1777"></interp>
+               <interp inst="t17770409-39" type="uri" value="sessionsPapers/17770409"></interp>
+               <interp inst="t17770409-39" type="date" value="17770409"></interp>
+               <join result="criminalCharge" id="t17770409-39-off189-c283" targOrder="Y" targets="t17770409-39-defend380 t17770409-39-off189 t17770409-39-verdict193"></join>
+         
+               <p>297. 
+               
+                  <persName id="t17770409-39-defend380" type="defendantName">
+                     WILLIAM
+                      WALTON
+                  <interp inst="t17770409-39-defend380" type="surname" value="WALTON"></interp>
+                     <interp inst="t17770409-39-defend380" type="given" value="WILLIAM"></interp>
+                     <interp inst="t17770409-39-defend380" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17770409-39-off189" type="offenceDescription">
+                     <interp inst="t17770409-39-off189" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17770409-39-off189" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six iron streaks for wheels, value 2 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17770409-39-victim382" type="victimName">
+                     Thomas
+                      Richardson
+                  <interp inst="t17770409-39-victim382" type="surname" value="Richardson"></interp>
+                     <interp inst="t17770409-39-victim382" type="given" value="Thomas"></interp>
+                     <interp inst="t17770409-39-victim382" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17770409-39-off189 t17770409-39-victim382"></join>
+                  </persName>
+               
+            , <rs id="t17770409-39-cd190" type="crimeDate">February 25th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17770409-39-off189 t17770409-39-cd190"></join>.</p>
+               <p>
+            
+                  <persName id="t17770409-39-person383">
+                  THOMAS
+                   RICHARDSON
+               <interp inst="t17770409-39-person383" type="surname" value="RICHARDSON"></interp>
+                     <interp inst="t17770409-39-person383" type="given" value="THOMAS"></interp>
+                     <interp inst="t17770409-39-person383" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I am a <rs id="t17770409-39-viclabel191" type="occupation">farmer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17770409-39-victim382 t17770409-39-viclabel191"></join> and live in <placeName id="t17770409-39-crimeloc192">Gray's-inn-lane</placeName>
+                  <interp inst="t17770409-39-crimeloc192" type="placeName" value="Gray's-inn-lane"></interp>
+                  <interp inst="t17770409-39-crimeloc192" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17770409-39-off189 t17770409-39-crimeloc192"></join>: I know nothing of the fact.</p>
+               <p>
+            
+                  <persName id="t17770409-39-person384">
+                  EDWARD
+                   FEEBY
+               <interp inst="t17770409-39-person384" type="surname" value="FEEBY"></interp>
+                     <interp inst="t17770409-39-person384" type="given" value="EDWARD"></interp>
+                     <interp inst="t17770409-39-person384" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I am a watchman: I saw the prisoner about eight or nine o'clock come out of Mr. Richardson's yard, where the carpenters work; he was loaded with iron; I sent a person after him, who brought him back with the iron.</p>
+               <p>
+            
+                  <persName id="t17770409-39-person385">
+                  AARON
+                   LEE
+               <interp inst="t17770409-39-person385" type="surname" value="LEE"></interp>
+                     <interp inst="t17770409-39-person385" type="given" value="AARON"></interp>
+                     <interp inst="t17770409-39-person385" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I saw the prisoner come out of the yard with the iron upon his back; I followed and never lost sight of him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="177704090031"></xptr>PRISONER's DEFENCE.</p>
+               <p>I found the iron.</p>
+               <p>
+                  <rs id="t17770409-39-verdict193" type="verdictDescription">
+                     <interp inst="t17770409-39-verdict193" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>Tried by the First Middlesex Jury before Mr. RECORDER.</p>
+               <p>
+                  <rs id="t17770409-39-punish194" type="punishmentDescription">
+                     <interp inst="t17770409-39-punish194" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17770409-39-punish194" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17770409-39-defend380 t17770409-39-punish194"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+                  <rs id="t17770409-39-punish195" type="punishmentDescription">
+                     <interp inst="t17770409-39-punish195" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17770409-39-defend380 t17770409-39-punish195"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

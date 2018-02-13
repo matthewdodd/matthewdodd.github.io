@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16821206-12">
+               <interp inst="t16821206-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16821206-12" type="year" value="1682"></interp>
+               <interp inst="t16821206-12" type="uri" value="sessionsPapers/16821206"></interp>
+               <interp inst="t16821206-12" type="date" value="16821206"></interp>
+               <join result="criminalCharge" id="t16821206-12-off60-c45" targOrder="Y" targets="t16821206-12-defend74 t16821206-12-off60 t16821206-12-verdict59"></join>
+               <join result="criminalCharge" id="t16821206-12-off60-c46" targOrder="Y" targets="t16821206-12-defend76 t16821206-12-off60 t16821206-12-verdict59"></join>
+               <join result="criminalCharge" id="t16821206-12-off60-c47" targOrder="Y" targets="t16821206-12-defend78 t16821206-12-off60 t16821206-12-verdict59"></join>
+               <join result="criminalCharge" id="t16821206-12-off60-c48" targOrder="Y" targets="t16821206-12-defend80 t16821206-12-off60 t16821206-12-verdict59"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16821206-12-defend74" type="defendantName">
+                     Abraham 
+                     Casteel
+                  <interp inst="t16821206-12-defend74" type="surname" value="Casteel"></interp>
+                     <interp inst="t16821206-12-defend74" type="given" value="Abraham"></interp>
+                     <interp inst="t16821206-12-defend74" type="gender" value="male"></interp>
+                  </persName>
+               
+            . 
+               
+                  <persName id="t16821206-12-defend76" type="defendantName">
+                     Richard 
+                     Kent
+                  <interp inst="t16821206-12-defend76" type="surname" value="Kent"></interp>
+                     <interp inst="t16821206-12-defend76" type="given" value="Richard"></interp>
+                     <interp inst="t16821206-12-defend76" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16821206-12-defend78" type="defendantName">
+                     Robert 
+                     Mason
+                  <interp inst="t16821206-12-defend78" type="surname" value="Mason"></interp>
+                     <interp inst="t16821206-12-defend78" type="given" value="Robert"></interp>
+                     <interp inst="t16821206-12-defend78" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16821206-12-defend80" type="defendantName">
+                     Thomas 
+                     Williams
+                  <interp inst="t16821206-12-defend80" type="surname" value="Williams"></interp>
+                     <interp inst="t16821206-12-defend80" type="given" value="Thomas"></interp>
+                     <interp inst="t16821206-12-defend80" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were <rs id="t16821206-12-verdict59" type="verdictDescription">
+                     <interp inst="t16821206-12-verdict59" type="verdictCategory" value="guilty"></interp>
+               Convict
+            </rs> of <rs id="t16821206-12-off60" type="offenceDescription">
+                     <interp inst="t16821206-12-off60" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16821206-12-off60" type="offenceSubcategory" value="housebreaking"></interp>
+               Breaking the House of 
+                     <persName id="t16821206-12-victim81" type="victimName">
+                        Elizabeth 
+                        Morten
+                     <interp inst="t16821206-12-victim81" type="surname" value="Morten"></interp>
+                        <interp inst="t16821206-12-victim81" type="given" value="Elizabeth"></interp>
+                        <interp inst="t16821206-12-victim81" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16821206-12-off60 t16821206-12-victim81"></join>
+                     </persName>
+                   
+                     <rs id="t16821206-12-viclabel61" type="occupation">Widdow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16821206-12-victim81 t16821206-12-viclabel61"></join> at <placeName id="t16821206-12-crimeloc62">Newington Green</placeName>
+                     <interp inst="t16821206-12-crimeloc62" type="placeName" value="Newington Green"></interp>
+                     <interp inst="t16821206-12-crimeloc62" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16821206-12-off60 t16821206-12-crimeloc62"></join>, upon the <rs id="t16821206-12-cd63" type="crimeDate">10th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16821206-12-off60 t16821206-12-cd63"></join> last, and Stealing several Goods of a considerable Value
+            </rs>.</p>
+               <p>
+                  <rs id="t16821206-12-punish64" type="punishmentDescription">
+                     <interp inst="t16821206-12-punish64" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-12-defend74 t16821206-12-punish64"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-12-defend76 t16821206-12-punish64"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-12-defend78 t16821206-12-punish64"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-12-defend80 t16821206-12-punish64"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

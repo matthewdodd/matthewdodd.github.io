@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18800426-433">
+               <interp inst="t18800426-433" type="uri" value="sessionsPapers/18800426"></interp>
+               <interp inst="t18800426-433" type="date" value="18800426"></interp>
+               <join result="criminalCharge" id="t18800426-433-charge-1" targOrder="Y" targets="def1-433-18800426 t18800426-433-offence-1 t18800426-433-verdict-1"></join>
+               <p>433. <persName id="def1-433-18800426" type="defendantName">
+                     <interp inst="def1-433-18800426" type="gender" value="male"></interp>
+                     <interp inst="def1-433-18800426" type="age" value="29"></interp>
+                     <interp inst="def1-433-18800426" type="surname" value="SMITH"></interp>
+                     <interp inst="def1-433-18800426" type="given" value="JAMES"></interp>
+                     <hi rend="largeCaps">JAMES SMITH</hi> (29)</persName>
+                  <rs id="t18800426-433-offence-1" type="offenceDescription">
+                     <interp inst="t18800426-433-offence-1" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t18800426-433-offence-1" type="offenceSubcategory" value="bigamy"></interp> 
+                     <hi rend="smallCaps">
+                        <rs id="t18800426-433-verdict-1" type="verdictDescription">
+                           <interp inst="t18800426-433-verdict-1" type="verdictCategory" value="guilty"></interp>
+                           <interp inst="t18800426-433-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                     </hi> to marrying <persName id="t18800426-name-468" type="victimName">
+                        <interp inst="t18800426-name-468" type="gender" value="female"></interp>
+                        <interp inst="t18800426-name-468" type="surname" value="BARNES"></interp>
+                        <interp inst="t18800426-name-468" type="given" value="FRANCES ELLEN"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18800426-433-offence-1 t18800426-name-468"></join>Frances Ellen Barnes</persName>, his wife being then alive,.—</rs>
+                  <hi rend="italic">
+                     <rs id="t18800426-433-punishment-65" type="punishmentDescription">
+                        <interp inst="t18800426-433-punishment-65" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18800426-433-punishment-65" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-433-18800426 t18800426-433-punishment-65"></join>Eight Months' Imprisonment.</rs>
+                  </hi>
+               </p>
+            </div1>

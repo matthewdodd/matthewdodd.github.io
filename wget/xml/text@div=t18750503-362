@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18750503-362">
+               <interp inst="t18750503-362" type="uri" value="sessionsPapers/18750503"></interp>
+               <interp inst="t18750503-362" type="date" value="18750503"></interp>
+               <join result="criminalCharge" id="t18750503-362-charge-1" targOrder="Y" targets="def1-362-18750503 t18750503-362-offence-1 t18750503-362-verdict-1"></join>
+               <p>362. <persName id="def1-362-18750503" type="defendantName">
+                     <interp inst="def1-362-18750503" type="gender" value="male"></interp>
+                     <interp inst="def1-362-18750503" type="age" value="71"></interp>
+                     <interp inst="def1-362-18750503" type="surname" value="REDWOOD"></interp>
+                     <interp inst="def1-362-18750503" type="given" value="JOHN"></interp>
+                     <hi rend="largeCaps">JOHN REDWOOD</hi> (71)</persName>
+                  <rs id="t18750503-362-offence-1" type="offenceDescription">
+                     <interp inst="t18750503-362-offence-1" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t18750503-362-offence-1" type="offenceSubcategory" value="murder"></interp>, standing indicted for the wilful murder of <persName id="t18750503-name-389" type="victimName">
+                        <interp inst="t18750503-name-389" type="gender" value="male"></interp>
+                        <interp inst="t18750503-name-389" type="surname" value="REDWOOD"></interp>
+                        <interp inst="t18750503-name-389" type="given" value="WILLIAM JOHN"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18750503-362-offence-1 t18750503-name-389"></join>William John Redwood</persName>.</rs>
+               </p>
+               <p>
+                  <rs id="t18750503-362-verdict-1" type="verdictDescription">
+                     <interp inst="t18750503-362-verdict-1" type="verdictCategory" value="miscVerdict"></interp>
+                     <interp inst="t18750503-362-verdict-1" type="verdictSubcategory" value="unfitToPlead"></interp>
+                     <hi rend="italic">In this case, upon the evidence of Mr. John Rowland Gibson, surgeon of Newgate, the Jury found the prisoner to be of unsound mind and unable to plead</hi>
+                  </rs>. <rs id="t18750503-362-punishment-55" type="punishmentDescription">
+                     <interp inst="t18750503-362-punishment-55" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18750503-362-punishment-55" type="punishmentSubcategory" value="insanity"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="def1-362-18750503 t18750503-362-punishment-55"></join>
+                     <hi rend="italic">Ordered to be detained until Her Majesty's pleasure be known.</hi>
+                  </rs>
+               </p>
+            </div1>

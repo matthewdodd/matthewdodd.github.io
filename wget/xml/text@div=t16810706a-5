@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16810706a-5">
+               <interp inst="t16810706a-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t16810706a-5" type="year" value="1681"></interp>
+               <interp inst="t16810706a-5" type="uri" value="sessionsPapers/16810706A"></interp>
+               <interp inst="t16810706a-5" type="date" value="16810706"></interp>
+               <join result="criminalCharge" id="t16810706a-5-off16-c13" targOrder="Y" targets="t16810706a-5-defend18 t16810706a-5-off16 t16810706a-5-verdict19"></join>
+               <join result="criminalCharge" id="t16810706a-5-off16-c14" targOrder="Y" targets="t16810706a-5-defend20 t16810706a-5-off16 t16810706a-5-verdict19"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16810706a-5-defend18" type="defendantName">
+                     Thomas 
+                     Gibson
+                  <interp inst="t16810706a-5-defend18" type="surname" value="Gibson"></interp>
+                     <interp inst="t16810706a-5-defend18" type="given" value="Thomas"></interp>
+                     <interp inst="t16810706a-5-defend18" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16810706a-5-defend20" type="defendantName">
+                     Robert 
+                     Hawkson
+                  <interp inst="t16810706a-5-defend20" type="surname" value="Hawkson"></interp>
+                     <interp inst="t16810706a-5-defend20" type="given" value="Robert"></interp>
+                     <interp inst="t16810706a-5-defend20" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Tryed for <rs id="t16810706a-5-off16" type="offenceDescription">
+                     <interp inst="t16810706a-5-off16" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16810706a-5-off16" type="offenceSubcategory" value="robbery"></interp>
+               setting upon, and Robing 
+                     
+                        <persName id="t16810706a-5-victim22" type="victimName">
+                           Edward 
+                           Bets
+                        <interp inst="t16810706a-5-victim22" type="surname" value="Bets"></interp>
+                        <interp inst="t16810706a-5-victim22" type="given" value="Edward"></interp>
+                        <interp inst="t16810706a-5-victim22" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16810706a-5-off16 t16810706a-5-victim22"></join>
+                     </persName>
+                     
+                  , <rs id="t16810706a-5-viclabel17" type="occupation">Servant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16810706a-5-victim22 t16810706a-5-viclabel17"></join> to 
+                     <persName id="t16810706a-5-person23">
+                        Richard 
+                        Cradeck
+                     <interp inst="t16810706a-5-person23" type="surname" value="Cradeck"></interp>
+                        <interp inst="t16810706a-5-person23" type="given" value="Richard"></interp>
+                        <interp inst="t16810706a-5-person23" type="gender" value="male"></interp>
+                     </persName>
+                   Esq; near <placeName id="t16810706a-5-crimeloc18">Newington</placeName>
+                     <interp inst="t16810706a-5-crimeloc18" type="placeName" value="Newington"></interp>
+                     <interp inst="t16810706a-5-crimeloc18" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16810706a-5-off16 t16810706a-5-crimeloc18"></join>, taking from him, 2 Gowns, 2 peices of Silk. Mony and other things to the value of 20 l.
+            </rs> and after having beat and bound him, they made for London, where one of them being Apprehended, confestd the other, who upon his Tryal did acknowledge he was there, when the Robery was done, but that he came Accidentally, and did not meddle in taking any thing from the Prosecutor, there being three Fellows upon him, who had him down, &amp;c. of which the said Hawkson was one; but this Sham would not take, for upon the Evidences Swearing point blank, that he was one concern'd, they were both found <rs id="t16810706a-5-verdict19" type="verdictDescription">
+                     <interp inst="t16810706a-5-verdict19" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16810706a-5-punish20" type="punishmentDescription">
+                     <interp inst="t16810706a-5-punish20" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16810706a-5-defend18 t16810706a-5-punish20"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16810706a-5-defend20 t16810706a-5-punish20"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

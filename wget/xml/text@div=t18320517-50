@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18320517-50">
+               <interp inst="t18320517-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t18320517-50" type="year" value="1832"></interp>
+               <interp inst="t18320517-50" type="uri" value="sessionsPapers/18320517"></interp>
+               <interp inst="t18320517-50" type="date" value="18320517"></interp>
+               <join result="criminalCharge" id="t18320517-50-off293-c534" targOrder="Y" targets="t18320517-50-defend622 t18320517-50-off293 t18320517-50-verdict297"></join>
+               <join result="criminalCharge" id="t18320517-50-off293-c535" targOrder="Y" targets="t18320517-50-defend624 t18320517-50-off293 t18320517-50-verdict299"></join>
+         
+               <p>1174. 
+               
+                  <persName id="t18320517-50-defend622" type="defendantName">
+                     JOHN 
+                     PAYNE
+                  <interp inst="t18320517-50-defend622" type="surname" value="PAYNE"></interp>
+                     <interp inst="t18320517-50-defend622" type="given" value="JOHN"></interp>
+                     <interp inst="t18320517-50-defend622" type="gender" value="male"></interp>
+                     <interp inst="t18320517-50-defend622" type="age" value="11"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t18320517-50-defend624" type="defendantName">
+                     THOMAS 
+                     PEARCE
+                  <interp inst="t18320517-50-defend624" type="surname" value="PEARCE"></interp>
+                     <interp inst="t18320517-50-defend624" type="given" value="THOMAS"></interp>
+                     <interp inst="t18320517-50-defend624" type="gender" value="male"></interp>
+                     <interp inst="t18320517-50-defend624" type="age" value="9"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18320517-50-off293" type="offenceDescription">
+                     <interp inst="t18320517-50-off293" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18320517-50-off293" type="offenceSubcategory" value="simpleLarceny"></interp>
+               stealing, on the <rs id="t18320517-50-cd294" type="crimeDate">3rd of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18320517-50-off293 t18320517-50-cd294"></join>, 1 bottle of oil of roses, value 6d.; 1 bottle of extract of orange flower-water, value 1s., and 2 tooth powder-boxes, value 4d.
+            </rs>, the goods of 
+               <persName id="t18320517-50-victim625" type="victimName">
+                  Robert 
+                  Norton
+               <interp inst="t18320517-50-victim625" type="surname" value="Norton"></interp>
+                     <interp inst="t18320517-50-victim625" type="given" value="Robert"></interp>
+                     <interp inst="t18320517-50-victim625" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18320517-50-off293 t18320517-50-victim625"></join>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t18320517-50-person626">
+                  ROBERT 
+                  NORTON
+               <interp inst="t18320517-50-person626" type="surname" value="NORTON"></interp>
+                     <interp inst="t18320517-50-person626" type="given" value="ROBERT"></interp>
+                     <interp inst="t18320517-50-person626" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18320517-50-viclabel295" type="occupation">surgeon</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18320517-50-victim625 t18320517-50-viclabel295"></join>, and live at <placeName id="t18320517-50-crimeloc296">Uxbridge</placeName>
+                  <interp inst="t18320517-50-crimeloc296" type="placeName" value="Uxbridge"></interp>
+                  <interp inst="t18320517-50-crimeloc296" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18320517-50-off293 t18320517-50-crimeloc296"></join>. On the 3rd of May the two prisoners came to my shop together, and asked for a halfpenny worth of Spanish liquorice; I went out of the surgery, and saw Pearce putting these articles into his pocket; I took them both, and found these articles on him, and one box on the other.</p>
+               <p>Payne received a good character.</p>
+               <p>PAYNE - <rs id="t18320517-50-verdict297" type="verdictDescription">
+                     <interp inst="t18320517-50-verdict297" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 11.</p>
+               <p>
+                  <rs id="t18320517-50-punish298" type="punishmentDescription">
+                     <interp inst="t18320517-50-punish298" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18320517-50-punish298" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18320517-50-defend622 t18320517-50-punish298"></join>
+               Whipped and Discharged
+            </rs>.</p>
+               <p>PEARCE - <rs id="t18320517-50-verdict299" type="verdictDescription">
+                     <interp inst="t18320517-50-verdict299" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 9.</p>
+
+
+               <p>
+                  <rs id="t18320517-50-punish300" type="punishmentDescription">
+                     <interp inst="t18320517-50-punish300" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18320517-50-defend624 t18320517-50-punish300"></join>
+               Transported for Seven Years
+            </rs>.</p>
+            </div1>

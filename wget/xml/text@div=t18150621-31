@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18150621-31">
+               <interp inst="t18150621-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t18150621-31" type="year" value="1815"></interp>
+               <interp inst="t18150621-31" type="uri" value="sessionsPapers/18150621"></interp>
+               <interp inst="t18150621-31" type="date" value="18150621"></interp>
+               <join result="criminalCharge" id="t18150621-31-off174-c239" targOrder="Y" targets="t18150621-31-defend297 t18150621-31-off174 t18150621-31-verdict178"></join>
+               <join result="criminalCharge" id="t18150621-31-off174-c240" targOrder="Y" targets="t18150621-31-defend299 t18150621-31-off174 t18150621-31-verdict177"></join>
+         
+               <p>711. 
+               
+                  <persName id="t18150621-31-defend297" type="defendantName">
+                     ANN 
+                     PERCIVAL
+                  <interp inst="t18150621-31-defend297" type="surname" value="PERCIVAL"></interp>
+                     <interp inst="t18150621-31-defend297" type="given" value="ANN"></interp>
+                     <interp inst="t18150621-31-defend297" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t18150621-31-defend299" type="defendantName">
+                     ANN 
+                     GILLET
+                  <interp inst="t18150621-31-defend299" type="surname" value="GILLET"></interp>
+                     <interp inst="t18150621-31-defend299" type="given" value="ANN"></interp>
+                     <interp inst="t18150621-31-defend299" type="gender" value="female"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18150621-31-off174" type="offenceDescription">
+                     <interp inst="t18150621-31-off174" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18150621-31-off174" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t18150621-31-cd175" type="crimeDate">22nd of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18150621-31-off174 t18150621-31-cd175"></join>, two books, value 20 d.
+            </rs> the property of 
+               
+                  <persName id="t18150621-31-victim301" type="victimName">
+                     William 
+                     Hughes
+                  <interp inst="t18150621-31-victim301" type="surname" value="Hughes"></interp>
+                     <interp inst="t18150621-31-victim301" type="given" value="William"></interp>
+                     <interp inst="t18150621-31-victim301" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18150621-31-off174 t18150621-31-victim301"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18150621-31-person302">
+                  WILLIAM 
+                  HUGHES
+               <interp inst="t18150621-31-person302" type="surname" value="HUGHES"></interp>
+                     <interp inst="t18150621-31-person302" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18150621-31-person302" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t18150621-31-viclabel176" type="occupation">keep an old book-stall</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18150621-31-victim301 t18150621-31-viclabel176"></join>.<xptr type="pageFacsimile" doc="181506210016"></xptr>On the 22nd of May last, I saw the prisoner Percival standing at my stall. I had occasion to go out shortly afterwards for a particular book, and I missed it. I thought it might be in the shop. I went to look for it, but could not find it. I went out again and missed another. My suspicions were immediately raised against the prisoners whom I saw talking together close by. I searched them and found one on one, and the other on the other.</p>
+
+               <p>GILLETT <rs id="t18150621-31-verdict177" type="verdictDescription">
+                     <interp inst="t18150621-31-verdict177" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>PERCIVAL <rs id="t18150621-31-verdict178" type="verdictDescription">
+                     <interp inst="t18150621-31-verdict178" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>
+                  <rs id="t18150621-31-punish179" type="punishmentDescription">
+                     <interp inst="t18150621-31-punish179" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18150621-31-defend297 t18150621-31-punish179"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18150621-31-defend299 t18150621-31-punish179"></join>
+               Confined three months
+            </rs>, and <rs id="t18150621-31-punish180" type="punishmentDescription">
+                     <interp inst="t18150621-31-punish180" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t18150621-31-punish180" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18150621-31-defend297 t18150621-31-punish180"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18150621-31-defend299 t18150621-31-punish180"></join>
+               fined 1 s.
+            </rs>
+               </p>
+               <p>Second Middlesex Jury, before Mr. Justice Dallas.</p>
+            </div1>

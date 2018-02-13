@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18490702-1485">
+               <interp inst="t18490702-1485" type="uri" value="sessionsPapers/18490702"></interp>
+               <interp inst="t18490702-1485" type="date" value="18490702"></interp>
+               <join result="criminalCharge" id="t18490702-1485-charge-1" targOrder="Y" targets="def1-1485-18490702 t18490702-1485-offence-1 t18490702-1485-verdict-1"></join>
+               <join result="criminalCharge" id="t18490702-1485-charge-2" targOrder="Y" targets="def2-1485-18490702 t18490702-1485-offence-1 t18490702-1485-verdict-2"></join>
+               <p>1485. <persName id="def1-1485-18490702" type="defendantName">
+                     <interp inst="def1-1485-18490702" type="gender" value="male"></interp>
+                     <interp inst="def1-1485-18490702" type="age" value="41"></interp>
+                     <interp inst="def1-1485-18490702" type="surname" value="HOBBS"></interp>
+                     <interp inst="def1-1485-18490702" type="given" value="HENRY"></interp>
+                     <hi rend="largeCaps">HENRY HOBBS</hi>
+                  </persName> and <persName id="def2-1485-18490702" type="defendantName">
+                     <interp inst="def2-1485-18490702" type="gender" value="female"></interp>
+                     <interp inst="def2-1485-18490702" type="age" value="38"></interp>
+                     <interp inst="def2-1485-18490702" type="surname" value="HOBBS"></interp>
+                     <interp inst="def2-1485-18490702" type="given" value="LOUISA"></interp>
+                     <hi rend="largeCaps">LOUISA HOBBS</hi>
+                  </persName>
+                  <rs id="t18490702-1485-offence-1" type="offenceDescription">
+                     <interp inst="t18490702-1485-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18490702-1485-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>, stealing 2 rings, and other goods, value 3<hi rend="italic">l</hi>. 14<hi rend="italic">s</hi>. the goods of <persName id="t18490702-name-495" type="victimName">
+                        <interp inst="t18490702-name-495" type="gender" value="male"></interp>
+                        <interp inst="t18490702-name-495" type="surname" value="MAY"></interp>
+                        <interp inst="t18490702-name-495" type="given" value="WILLIAM"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18490702-1485-offence-1 t18490702-name-495"></join>William May</persName>: to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">HENRY HOBBS</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18490702-1485-verdict-1" type="verdictDescription">
+                        <interp inst="t18490702-1485-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18490702-1485-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 41.</p>
+               <p>
+                  <hi rend="largeCaps">LOUISA HOBBS</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18490702-1485-verdict-2" type="verdictDescription">
+                        <interp inst="t18490702-1485-verdict-2" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18490702-1485-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 38.</p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18490702-1485-punishment-79" type="punishmentDescription">
+                        <interp inst="t18490702-1485-punishment-79" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18490702-1485-punishment-79" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-1485-18490702 t18490702-1485-punishment-79"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-1485-18490702 t18490702-1485-punishment-79"></join>Confined Six Months</rs>.</hi>
+               </p>
+            </div1>

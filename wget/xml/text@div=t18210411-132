@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18210411-132">
+               <interp inst="t18210411-132" type="collection" value="BAILEY"></interp>
+               <interp inst="t18210411-132" type="year" value="1821"></interp>
+               <interp inst="t18210411-132" type="uri" value="sessionsPapers/18210411"></interp>
+               <interp inst="t18210411-132" type="date" value="18210411"></interp>
+               <join result="criminalCharge" id="t18210411-132-off808-c1068" targOrder="Y" targets="t18210411-132-defend1399 t18210411-132-off808 t18210411-132-verdict812"></join>
+               <join result="criminalCharge" id="t18210411-132-off808-c1069" targOrder="Y" targets="t18210411-132-defend1401 t18210411-132-off808 t18210411-132-verdict812"></join>
+         
+               <p>617. 
+               
+                  <persName id="t18210411-132-defend1399" type="defendantName">
+                     DAVID 
+                     DAVIS
+                  <interp inst="t18210411-132-defend1399" type="surname" value="DAVIS"></interp>
+                     <interp inst="t18210411-132-defend1399" type="given" value="DAVID"></interp>
+                     <interp inst="t18210411-132-defend1399" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t18210411-132-defend1401" type="defendantName">
+                     JOHN 
+                     HAYNES
+                  <interp inst="t18210411-132-defend1401" type="surname" value="HAYNES"></interp>
+                     <interp inst="t18210411-132-defend1401" type="given" value="JOHN"></interp>
+                     <interp inst="t18210411-132-defend1401" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18210411-132-off808" type="offenceDescription">
+                     <interp inst="t18210411-132-off808" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18210411-132-off808" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18210411-132-cd809" type="crimeDate">15th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18210411-132-off808 t18210411-132-cd809"></join>, one half crown
+            </rs>, the property of 
+               
+                  <persName id="t18210411-132-victim1403" type="victimName">
+                     
+                        <persName id="t18210411-132-victim1404" type="victimName">
+                           Thomas 
+                           Cave
+                        <interp inst="t18210411-132-victim1404" type="surname" value="Cave"></interp>
+                        <interp inst="t18210411-132-victim1404" type="given" value="Thomas"></interp>
+                        <interp inst="t18210411-132-victim1404" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18210411-132-off808 t18210411-132-victim1404"></join>
+                     </persName>
+                     
+                     <interp inst="t18210411-132-victim1403" type="surname" value="Cave"></interp>
+                     <interp inst="t18210411-132-victim1403" type="given" value="Thomas"></interp>
+                     <interp inst="t18210411-132-victim1403" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18210411-132-off808 t18210411-132-victim1403"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18210411-132-person1405">
+                  THOMAS 
+                  CAVE
+               <interp inst="t18210411-132-person1405" type="surname" value="CAVE"></interp>
+                     <interp inst="t18210411-132-person1405" type="given" value="THOMAS"></interp>
+                     <interp inst="t18210411-132-person1405" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18210411-132-viclabel810" type="occupation">butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18210411-132-victim1403 t18210411-132-viclabel810"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18210411-132-victim1404 t18210411-132-viclabel810"></join>, and live in <placeName id="t18210411-132-crimeloc811">Whitecross-street</placeName>
+                  <interp inst="t18210411-132-crimeloc811" type="placeName" value="Whitecross-street"></interp>
+                  <interp inst="t18210411-132-crimeloc811" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18210411-132-off808 t18210411-132-crimeloc811"></join>. On the 15th of February, about a quarter before three o'clock, I saw the prisoners standing about my door for half an hour. The till was at the back of the shop.</p>
+               <p>
+            
+                  <persName id="t18210411-132-person1406">
+                  WILLIAM 
+                  CAVE
+               <interp inst="t18210411-132-person1406" type="surname" value="CAVE"></interp>
+                     <interp inst="t18210411-132-person1406" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18210411-132-person1406" type="gender" value="male"></interp>
+                  </persName>
+            . I am in partnership with my brother. The money in the till belonged to us both.</p>
+               <p>
+                  <rs id="t18210411-132-verdict812" type="verdictDescription">
+                     <interp inst="t18210411-132-verdict812" type="verdictCategory" value="notGuilty"></interp>
+               NOT GUILTY
+            </rs>.</p>
+               <p>Second Middlesex Jury, before Mr. Common Sergeant.</p>
+            </div1>

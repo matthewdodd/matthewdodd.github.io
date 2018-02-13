@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860414-7">
+               <interp inst="t16860414-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860414-7" type="year" value="1686"></interp>
+               <interp inst="t16860414-7" type="uri" value="sessionsPapers/16860414"></interp>
+               <interp inst="t16860414-7" type="date" value="16860414"></interp>
+               <join result="criminalCharge" id="t16860414-7-off35-c40" targOrder="Y" targets="t16860414-7-defend51 t16860414-7-off35 t16860414-7-verdict37"></join>
+         
+               <p>
+            
+                  <persName id="t16860414-7-defend51" type="defendantName">
+                  Peter 
+                  Lary alias <rs id="t16860414-7-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16860414-7-defend51 t16860414-7-alias-1"></join>Wright</rs>
+                     <interp inst="t16860414-7-defend51" type="surname" value="Lary"></interp>
+                     <interp inst="t16860414-7-defend51" type="given" value="Peter"></interp>
+                     <interp inst="t16860414-7-defend51" type="gender" value="male"></interp>
+                  </persName>
+            , o the Parish of <placeName id="t16860414-7-defloc34">St Benedick</placeName>
+                  <interp inst="t16860414-7-defloc34" type="placeName" value="St Benedick"></interp>
+                  <interp inst="t16860414-7-defloc34" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16860414-7-defend51 t16860414-7-defloc34"></join> was Indicted for <rs id="t16860414-7-off35" type="offenceDescription">
+                     <interp inst="t16860414-7-off35" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860414-7-off35" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 1 silver Tankard, value 5 l.
+            </rs> 
+                  <rs id="t16860414-7-cd36" type="crimeDate">April 10th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16860414-7-off35 t16860414-7-cd36"></join>. of the Goods of 
+               
+                  <persName id="t16860414-7-victim53" type="victimName">
+                     Thomas 
+                     Earle
+                  <interp inst="t16860414-7-victim53" type="surname" value="Earle"></interp>
+                     <interp inst="t16860414-7-victim53" type="given" value="Thomas"></interp>
+                     <interp inst="t16860414-7-victim53" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860414-7-off35 t16860414-7-victim53"></join>
+                  </persName>
+               
+            ; it appeared that the Prisoner was seen to come into the house of the aforesaid Earle, in the Day time, and to take away the silver Tankard from the Bar; the said Earle apprehending of him before he could run many spaces, from his door; and he appearing an old Offendor, was found <rs id="t16860414-7-verdict37" type="verdictDescription">
+                     <interp inst="t16860414-7-verdict37" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16860414-7-punish38" type="punishmentDescription">
+                     <interp inst="t16860414-7-punish38" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860414-7-defend51 t16860414-7-punish38"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

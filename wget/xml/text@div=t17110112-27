@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17110112-27">
+               <interp inst="t17110112-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17110112-27" type="year" value="1711"></interp>
+               <interp inst="t17110112-27" type="uri" value="sessionsPapers/17110112"></interp>
+               <interp inst="t17110112-27" type="date" value="17110112"></interp>
+               <join result="criminalCharge" id="t17110112-27-off106-c101" targOrder="Y" targets="t17110112-27-defend147 t17110112-27-off106 t17110112-27-verdict108"></join>
+         
+               <p>
+            
+                  <persName id="t17110112-27-defend147" type="defendantName">
+                  Ignatius 
+                  Decasta
+               <interp inst="t17110112-27-defend147" type="surname" value="Decasta"></interp>
+                     <interp inst="t17110112-27-defend147" type="given" value="Ignatius"></interp>
+                     <interp inst="t17110112-27-defend147" type="gender" value="male"></interp>
+                  </persName>
+            , was Indicted for <rs id="t17110112-27-off106" type="offenceDescription">
+                     <interp inst="t17110112-27-off106" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17110112-27-off106" type="offenceSubcategory" value="assaultWithIntent"></interp>
+               an Assault upon 
+                     
+                        <persName id="t17110112-27-victim149" type="victimName">
+                           Alice 
+                           Johnson
+                        <interp inst="t17110112-27-victim149" type="surname" value="Johnson"></interp>
+                        <interp inst="t17110112-27-victim149" type="given" value="Alice"></interp>
+                        <interp inst="t17110112-27-victim149" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17110112-27-off106 t17110112-27-victim149"></join>
+                     </persName>
+                     
+                  , an <rs id="t17110112-27-viclabel107" type="occupation">Infant of 6 Years of Age</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17110112-27-victim149 t17110112-27-viclabel107"></join>, with a Design to Ravish her
+            </rs>. The Indictment being clearly prov'd upon the Prisoner, the Jury found him <rs id="t17110112-27-verdict108" type="verdictDescription">
+                     <interp inst="t17110112-27-verdict108" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17110112-27-punish109" type="punishmentDescription">
+                     <interp inst="t17110112-27-punish109" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17110112-27-punish109" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17110112-27-defend147 t17110112-27-punish109"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

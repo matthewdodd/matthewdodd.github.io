@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040601-23">
+               <interp inst="t17040601-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040601-23" type="year" value="1704"></interp>
+               <interp inst="t17040601-23" type="uri" value="sessionsPapers/17040601"></interp>
+               <interp inst="t17040601-23" type="date" value="17040601"></interp>
+               <join result="criminalCharge" id="t17040601-23-off125-c98" targOrder="Y" targets="t17040601-23-defend98 t17040601-23-off125 t17040601-23-verdict127"></join>
+         
+               <p>
+            
+                  <persName id="t17040601-23-defend98" type="defendantName">
+                  H - 
+                  C -
+               <interp inst="t17040601-23-defend98" type="surname" value="C -"></interp>
+                     <interp inst="t17040601-23-defend98" type="given" value="H -"></interp>
+                     <interp inst="t17040601-23-defend98" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t17040601-23-defloc124">St. Martins in the Fields</placeName>
+                  <interp inst="t17040601-23-defloc124" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t17040601-23-defloc124" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040601-23-defend98 t17040601-23-defloc124"></join>, was indicted for the <rs id="t17040601-23-off125" type="offenceDescription">
+                     <interp inst="t17040601-23-off125" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17040601-23-off125" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     <persName id="t17040601-23-victim99" type="victimName">
+                        Jeremy 
+                        Maccarty
+                     <interp inst="t17040601-23-victim99" type="surname" value="Maccarty"></interp>
+                        <interp inst="t17040601-23-victim99" type="given" value="Jeremy"></interp>
+                        <interp inst="t17040601-23-victim99" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17040601-23-off125 t17040601-23-victim99"></join>
+                     </persName>
+                  , on the <rs id="t17040601-23-cd126" type="crimeDate">6th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17040601-23-off125 t17040601-23-cd126"></join> last, by giving him one Mortal Wound with a Sword, near the Breast, of which he instantly dyed
+            </rs>. The Fact appeared only to be <rs id="t17040601-23-verdict127" type="verdictDescription">
+                     <interp inst="t17040601-23-verdict127" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17040601-23-verdict127" type="verdictSubcategory" value="manslaughter"></interp>
+               Manslaughter, the Jury found him Guilty thereto
+            </rs>.</p>
+               <p>
+                  <rs id="t17040601-23-punish128" type="punishmentDescription">
+                     <interp inst="t17040601-23-punish128" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t17040601-23-punish128" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040601-23-defend98 t17040601-23-punish128"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

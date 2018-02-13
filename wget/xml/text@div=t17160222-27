@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160222-27">
+               <interp inst="t17160222-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160222-27" type="year" value="1716"></interp>
+               <interp inst="t17160222-27" type="uri" value="sessionsPapers/17160222"></interp>
+               <interp inst="t17160222-27" type="date" value="17160222"></interp>
+               <join result="criminalCharge" id="t17160222-27-off143-c98" targOrder="Y" targets="t17160222-27-defend153 t17160222-27-off143 t17160222-27-verdict144"></join>
+               <join result="criminalCharge" id="t17160222-27-off143-c99" targOrder="Y" targets="t17160222-27-defend155 t17160222-27-off143 t17160222-27-verdict144"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17160222-27-defend153" type="defendantName">
+                     Nathanael 
+                     Bridgeman 
+                  <interp inst="t17160222-27-defend153" type="surname" value="Bridgeman"></interp>
+                     <interp inst="t17160222-27-defend153" type="given" value="Nathanael"></interp>
+                     <interp inst="t17160222-27-defend153" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17160222-27-defend155" type="defendantName">
+                     Thomas 
+                     Skelton 
+                  <interp inst="t17160222-27-defend155" type="surname" value="Skelton"></interp>
+                     <interp inst="t17160222-27-defend155" type="given" value="Thomas"></interp>
+                     <interp inst="t17160222-27-defend155" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for a Misdemeanor, <rs id="t17160222-27-off143" type="offenceDescription">
+                     <interp inst="t17160222-27-off143" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17160222-27-off143" type="offenceSubcategory" value="forgery"></interp>
+               in publishing a forg'd Indenture to defraud one 
+                     
+                        <persName id="t17160222-27-victim157" type="victimName">
+                           John 
+                           Forster 
+                        <interp inst="t17160222-27-victim157" type="surname" value="Forster"></interp>
+                        <interp inst="t17160222-27-victim157" type="given" value="John"></interp>
+                        <interp inst="t17160222-27-victim157" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17160222-27-off143 t17160222-27-victim157"></join>
+                     </persName>
+                      
+                   of 41 l. due to him from the Government, for the Service of 
+                     <persName id="t17160222-27-person158">
+                        John 
+                        Madley 
+                     <interp inst="t17160222-27-person158" type="surname" value="Madley"></interp>
+                        <interp inst="t17160222-27-person158" type="given" value="John"></interp>
+                        <interp inst="t17160222-27-person158" type="gender" value="male"></interp>
+                     </persName>
+                  , his Apprentice, on Board the Ruby Man of War
+            </rs>. This Fact was fully prov'd upon the Prisoners,; who were both found <rs id="t17160222-27-verdict144" type="verdictDescription">
+                     <interp inst="t17160222-27-verdict144" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17160222-27-punish145" type="punishmentDescription">
+                     <interp inst="t17160222-27-punish145" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17160222-27-punish145" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend153 t17160222-27-punish145"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend155 t17160222-27-punish145"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17160222-27-punish146" type="punishmentDescription">
+                     <interp inst="t17160222-27-punish146" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17160222-27-punish146" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend153 t17160222-27-punish146"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend155 t17160222-27-punish146"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17160222-27-punish147" type="punishmentDescription">
+                     <interp inst="t17160222-27-punish147" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend153 t17160222-27-punish147"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160222-27-defend155 t17160222-27-punish147"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

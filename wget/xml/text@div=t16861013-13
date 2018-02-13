@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16861013-13">
+               <interp inst="t16861013-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16861013-13" type="year" value="1686"></interp>
+               <interp inst="t16861013-13" type="uri" value="sessionsPapers/16861013"></interp>
+               <interp inst="t16861013-13" type="date" value="16861013"></interp>
+               <join result="criminalCharge" id="t16861013-13-off70-c56" targOrder="Y" targets="t16861013-13-defend73 t16861013-13-off70 t16861013-13-verdict73"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16861013-13-defend73" type="defendantName">
+                     Edward 
+                     Newgent
+                  <interp inst="t16861013-13-defend73" type="surname" value="Newgent"></interp>
+                     <interp inst="t16861013-13-defend73" type="given" value="Edward"></interp>
+                     <interp inst="t16861013-13-defend73" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16861013-13-defloc69">St. Clement Danes</placeName>
+                  <interp inst="t16861013-13-defloc69" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t16861013-13-defloc69" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16861013-13-defend73 t16861013-13-defloc69"></join>, was Indicted for <rs id="t16861013-13-off70" type="offenceDescription">
+                     <interp inst="t16861013-13-off70" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16861013-13-off70" type="offenceSubcategory" value="robbery"></interp>
+               stealing from a 
+                     <persName id="t16861013-13-victim74" type="victimName">
+                        <rs id="t16861013-13-viclabel71" type="occupation">Doctor of Physick</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16861013-13-victim74 t16861013-13-viclabel71"></join>
+                        <interp inst="t16861013-13-victim74" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16861013-13-off70 t16861013-13-victim74"></join>
+                     </persName>
+                  , one Perriwig, value 20 s. one Beaver Hat, value 40 s. on the <rs id="t16861013-13-cd72" type="crimeDate">3d. of this Instant October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16861013-13-off70 t16861013-13-cd72"></join>. The Evidence against the Prisoner was the Doctor himself, who deposed that as he was going along the street in the Evening, the Prisoner came to him and snatch'd off his Hat and Perriwig, and ran away with it
+            </rs>: but pursuing of him he was immediatly taken, &amp;c. The Prisoner using several extenuating Arguments, but to no purpose: Being look'd upon to have been an Old Offender, he was found <rs id="t16861013-13-verdict73" type="verdictDescription">
+                     <interp inst="t16861013-13-verdict73" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16861013-13-punish74" type="punishmentDescription">
+                     <interp inst="t16861013-13-punish74" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16861013-13-defend73 t16861013-13-punish74"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

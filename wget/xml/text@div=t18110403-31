@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18110403-31">
+               <interp inst="t18110403-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t18110403-31" type="year" value="1811"></interp>
+               <interp inst="t18110403-31" type="uri" value="sessionsPapers/18110403"></interp>
+               <interp inst="t18110403-31" type="date" value="18110403"></interp>
+               <join result="criminalCharge" id="t18110403-31-off172-c224" targOrder="Y" targets="t18110403-31-defend300 t18110403-31-off172 t18110403-31-verdict177"></join>
+         
+               <p>316. 
+               
+                  <persName id="t18110403-31-defend300" type="defendantName">
+                     JOHN 
+                     SMITH
+                  <interp inst="t18110403-31-defend300" type="surname" value="SMITH"></interp>
+                     <interp inst="t18110403-31-defend300" type="given" value="JOHN"></interp>
+                     <interp inst="t18110403-31-defend300" type="gender" value="male"></interp>
+                     <interp inst="t18110403-31-defend300" type="age" value="53"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18110403-31-off172" type="offenceDescription">
+                     <interp inst="t18110403-31-off172" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18110403-31-off172" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t18110403-31-cd173" type="crimeDate">22d of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18110403-31-off172 t18110403-31-cd173"></join>, a coat, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t18110403-31-victim302" type="victimName">
+                     Joseph 
+                     Taylor
+                  <interp inst="t18110403-31-victim302" type="surname" value="Taylor"></interp>
+                     <interp inst="t18110403-31-victim302" type="given" value="Joseph"></interp>
+                     <interp inst="t18110403-31-victim302" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18110403-31-off172 t18110403-31-victim302"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18110403-31-person303">
+                  JOSEPH 
+                  TAYLOR
+               <interp inst="t18110403-31-person303" type="surname" value="TAYLOR"></interp>
+                     <interp inst="t18110403-31-person303" type="given" value="JOSEPH"></interp>
+                     <interp inst="t18110403-31-person303" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18110403-31-viclabel174" type="occupation">post boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18110403-31-victim302 t18110403-31-viclabel174"></join>, I work for Mr. White, the <placeName id="t18110403-31-crimeloc175">Swan in Bishopsgate Street</placeName>
+                  <interp inst="t18110403-31-crimeloc175" type="placeName" value="Swan in Bishopsgate Street"></interp>
+                  <interp inst="t18110403-31-crimeloc175" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18110403-31-off172 t18110403-31-crimeloc175"></join>, I lost my coat in February last, I hung it up in the stable, I cannot tell the day of the month, and while I was gone for a light the prisoner took the coat, I ran after him and took the coat from him.</p>
+               <p>
+            
+                  <persName id="t18110403-31-person304">
+                  WILLIAM 
+                  KEEME
+               <interp inst="t18110403-31-person304" type="surname" value="KEEME"></interp>
+                     <interp inst="t18110403-31-person304" type="given" value="WILLIAM"></interp>
+                     <interp inst="t18110403-31-person304" type="gender" value="male"></interp>
+                  </persName>
+            . I was busy washing my carriage, I saw a man, I went and asked him what he wanted; he asked for a gentleman of the name of Stone, that came from Walthamstow, I desired him to go to the Ostler, as soon as I went from the coach house to the stable, he went and took the coat. I did not see him take the coat, I saw Taylor take the coat from the prisoner. This is the coat, it is my coat.</p>
+               <p>Prisoner's Defence. I am a <rs id="t18110403-31-deflabel176" type="occupation">drover</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18110403-31-defend300 t18110403-31-deflabel176"></join> and have been for thirty-one years, I got liberty from a man in the place to lay in the straw-house, I had no money, the man picked up the coat, he said I will give you this to cover you.</p>
+               <p>
+                  <rs id="t18110403-31-verdict177" type="verdictDescription">
+                     <interp inst="t18110403-31-verdict177" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 53.</p>
+               <p>
+                  <rs id="t18110403-31-punish178" type="punishmentDescription">
+                     <interp inst="t18110403-31-punish178" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18110403-31-punish178" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18110403-31-defend300 t18110403-31-punish178"></join>
+               Confined Fourteen Days in Newgate
+            </rs>, and <rs id="t18110403-31-punish179" type="punishmentDescription">
+                     <interp inst="t18110403-31-punish179" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18110403-31-punish179" type="punishmentSubcategory" value="privateWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18110403-31-defend300 t18110403-31-punish179"></join>
+               whipped in jail
+            </rs>.</p>
+               <p>London jury, before Mr. Recorder.</p>
+            </div1>

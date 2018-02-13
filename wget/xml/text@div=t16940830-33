@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940830-33">
+               <interp inst="t16940830-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940830-33" type="year" value="1694"></interp>
+               <interp inst="t16940830-33" type="uri" value="sessionsPapers/16940830"></interp>
+               <interp inst="t16940830-33" type="date" value="16940830"></interp>
+               <join result="criminalCharge" id="t16940830-33-off144-c111" targOrder="Y" targets="t16940830-33-defend111 t16940830-33-off144 t16940830-33-verdict148"></join>
+         
+               <p>
+            
+                  <persName id="t16940830-33-defend111" type="defendantName">
+                  William 
+                  Walker
+               <interp inst="t16940830-33-defend111" type="surname" value="Walker"></interp>
+                     <interp inst="t16940830-33-defend111" type="given" value="William"></interp>
+                     <interp inst="t16940830-33-defend111" type="gender" value="male"></interp>
+                  </persName>
+             was likewise tried for the <rs id="t16940830-33-off144" type="offenceDescription">
+                     <interp inst="t16940830-33-off144" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16940830-33-off144" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     <persName id="t16940830-33-victim112" type="victimName">
+                        Lydia 
+                        Stockwell
+                     <interp inst="t16940830-33-victim112" type="surname" value="Stockwell"></interp>
+                        <interp inst="t16940830-33-victim112" type="given" value="Lydia"></interp>
+                        <interp inst="t16940830-33-victim112" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16940830-33-off144 t16940830-33-victim112"></join>
+                     </persName>
+                  , <rs id="t16940830-33-viclabel145" type="occupation">Spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16940830-33-victim112 t16940830-33-viclabel145"></join> at <placeName id="t16940830-33-crimeloc146">Chiswick</placeName>
+                     <interp inst="t16940830-33-crimeloc146" type="placeName" value="Chiswick"></interp>
+                     <interp inst="t16940830-33-crimeloc146" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16940830-33-off144 t16940830-33-crimeloc146"></join>, by shooting her with a Gun, val. 5s. upon the Stomach, giving her a mortal wound of the depth of three Inches
+            </rs>. She came into the Orchard about Nine at night to steal Apples, and he shot off his Gun at random, and kill'd the <rs id="t16940830-33-deflabel147" type="occupation">Girl</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16940830-33-defend111 t16940830-33-deflabel147"></join>. The Prisoner said he did it by accident, and that he was very sorry for it; He was found <rs id="t16940830-33-verdict148" type="verdictDescription">
+                     <interp inst="t16940830-33-verdict148" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16940830-33-verdict148" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16940830-33-punish149" type="punishmentDescription">
+                     <interp inst="t16940830-33-punish149" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16940830-33-punish149" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940830-33-defend111 t16940830-33-punish149"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

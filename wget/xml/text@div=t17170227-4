@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170227-4">
+               <interp inst="t17170227-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170227-4" type="year" value="1717"></interp>
+               <interp inst="t17170227-4" type="uri" value="sessionsPapers/17170227"></interp>
+               <interp inst="t17170227-4" type="date" value="17170227"></interp>
+               <join result="criminalCharge" id="t17170227-4-off13-c35" targOrder="Y" targets="t17170227-4-defend43 t17170227-4-off13 t17170227-4-verdict16"></join>
+               <join result="criminalCharge" id="t17170227-4-off13-c36" targOrder="Y" targets="t17170227-4-defend45 t17170227-4-off13 t17170227-4-verdict15"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170227-4-defend43" type="defendantName">
+                     Christopher 
+                     Martin 
+                  <interp inst="t17170227-4-defend43" type="surname" value="Martin"></interp>
+                     <interp inst="t17170227-4-defend43" type="given" value="Christopher"></interp>
+                     <interp inst="t17170227-4-defend43" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17170227-4-defend45" type="defendantName">
+                     George 
+                     Smith 
+                  <interp inst="t17170227-4-defend45" type="surname" value="Smith"></interp>
+                     <interp inst="t17170227-4-defend45" type="given" value="George"></interp>
+                     <interp inst="t17170227-4-defend45" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of the Parish of <placeName id="t17170227-4-defloc12">St. Pauls Shadwell</placeName>
+                  <interp inst="t17170227-4-defloc12" type="placeName" value="St. Pauls Shadwell"></interp>
+                  <interp inst="t17170227-4-defloc12" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170227-4-defend43 t17170227-4-defloc12"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170227-4-defend45 t17170227-4-defloc12"></join>, were indicted for <rs id="t17170227-4-off13" type="offenceDescription">
+                     <interp inst="t17170227-4-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170227-4-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 100 of Hamborough Pipe-Staves, val.30 s.
+            </rs> the Property of 
+               
+                  <persName id="t17170227-4-victim47" type="victimName">
+                     Thomas 
+                     Smith 
+                  <interp inst="t17170227-4-victim47" type="surname" value="Smith"></interp>
+                     <interp inst="t17170227-4-victim47" type="given" value="Thomas"></interp>
+                     <interp inst="t17170227-4-victim47" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17170227-4-off13 t17170227-4-victim47"></join>
+                  </persName>
+                
+            , the <rs id="t17170227-4-cd14" type="crimeDate">4th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170227-4-off13 t17170227-4-cd14"></join> last. 
+               <persName id="t17170227-4-person48">
+                  John 
+                  Comb 
+               <interp inst="t17170227-4-person48" type="surname" value="Comb"></interp>
+                     <interp inst="t17170227-4-person48" type="given" value="John"></interp>
+                     <interp inst="t17170227-4-person48" type="gender" value="male"></interp>
+                  </persName>
+             deposed he bought the Pipe-Staves of the Prisoner, which the Prosecutor own'd to be his. The Prisoner pretended he bought them of a Man upon the River for 10 s. But this appearing but a Pretence, the Jury found him <rs id="t17170227-4-verdict15" type="verdictDescription">
+                     <interp inst="t17170227-4-verdict15" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170227-4-verdict15" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> and there being no other Evidence against 
+               <persName id="t17170227-4-person49">
+                  George 
+                  Smith 
+               <interp inst="t17170227-4-person49" type="surname" value="Smith"></interp>
+                     <interp inst="t17170227-4-person49" type="given" value="George"></interp>
+                     <interp inst="t17170227-4-person49" type="gender" value="male"></interp>
+                  </persName>
+            , but that he was with him when he sold them, he was <rs id="t17170227-4-verdict16" type="verdictDescription">
+                     <interp inst="t17170227-4-verdict16" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17170227-4-punish17" type="punishmentDescription">
+                     <interp inst="t17170227-4-punish17" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17170227-4-punish17" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170227-4-defend45 t17170227-4-punish17"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

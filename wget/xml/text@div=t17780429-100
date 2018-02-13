@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17780429-100">
+               <interp inst="t17780429-100" type="collection" value="BAILEY"></interp>
+               <interp inst="t17780429-100" type="year" value="1778"></interp>
+               <interp inst="t17780429-100" type="uri" value="sessionsPapers/17780429"></interp>
+               <interp inst="t17780429-100" type="date" value="17780429"></interp>
+               <join result="criminalCharge" id="t17780429-100-off480-c604" targOrder="Y" targets="t17780429-100-defend819 t17780429-100-off480 t17780429-100-verdict483"></join>
+         
+               <p>412. 
+               
+                  <persName id="t17780429-100-defend819" type="defendantName">
+                     SAMUEL
+                      TYLER
+                  <interp inst="t17780429-100-defend819" type="surname" value="TYLER"></interp>
+                     <interp inst="t17780429-100-defend819" type="given" value="SAMUEL"></interp>
+                     <interp inst="t17780429-100-defend819" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17780429-100-off480" type="offenceDescription">
+                     <interp inst="t17780429-100-off480" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17780429-100-off480" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing a linen handkerchief, value 10 d.
+            </rs> the property of 
+               
+                  <persName id="t17780429-100-victim821" type="victimName">
+                     John
+                      Parker
+                  <interp inst="t17780429-100-victim821" type="surname" value="Parker"></interp>
+                     <interp inst="t17780429-100-victim821" type="given" value="John"></interp>
+                     <interp inst="t17780429-100-victim821" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17780429-100-off480 t17780429-100-victim821"></join>
+                  </persName>
+               
+            , <rs id="t17780429-100-cd481" type="crimeDate">April 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17780429-100-off480 t17780429-100-cd481"></join>.</p>
+
+               <p>[As the prosecutor was going up <placeName id="t17780429-100-crimeloc482">Holborn</placeName>
+                  <interp inst="t17780429-100-crimeloc482" type="placeName" value="Holborn"></interp>
+                  <interp inst="t17780429-100-crimeloc482" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17780429-100-off480 t17780429-100-crimeloc482"></join>, he was told that his pocket had been picked; he turned about, and found his handkerchief on the prisoner.]</p>
+
+               <p>
+                  <rs id="t17780429-100-verdict483" type="verdictDescription">
+                     <interp inst="t17780429-100-verdict483" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+
+               <p>Tried by the Second London Jury before Mr. RECORDER.</p>
+               <p>
+                  <rs id="t17780429-100-punish484" type="punishmentDescription">
+                     <interp inst="t17780429-100-punish484" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17780429-100-punish484" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17780429-100-defend819 t17780429-100-punish484"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17780429-100-punish485" type="punishmentDescription">
+                     <interp inst="t17780429-100-punish485" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17780429-100-punish485" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17780429-100-defend819 t17780429-100-punish485"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

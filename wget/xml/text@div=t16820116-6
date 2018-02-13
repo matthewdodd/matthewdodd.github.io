@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16820116-6">
+               <interp inst="t16820116-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16820116-6" type="year" value="1682"></interp>
+               <interp inst="t16820116-6" type="uri" value="sessionsPapers/16820116"></interp>
+               <interp inst="t16820116-6" type="date" value="16820116"></interp>
+               <join result="criminalCharge" id="t16820116-6-off25-c15" targOrder="Y" targets="t16820116-6-defend23 t16820116-6-off25 t16820116-6-verdict28"></join>
+               <join result="criminalCharge" id="t16820116-6-off25-c16" targOrder="Y" targets="t16820116-6-defend25 t16820116-6-off25 t16820116-6-verdict28"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16820116-6-defend23" type="defendantName">
+                     John 
+                     Johnson
+                  <interp inst="t16820116-6-defend23" type="surname" value="Johnson"></interp>
+                     <interp inst="t16820116-6-defend23" type="given" value="John"></interp>
+                     <interp inst="t16820116-6-defend23" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16820116-6-defend25" type="defendantName">
+                     William 
+                     Ashurst
+                  <interp inst="t16820116-6-defend25" type="surname" value="Ashurst"></interp>
+                     <interp inst="t16820116-6-defend25" type="given" value="William"></interp>
+                     <interp inst="t16820116-6-defend25" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t16820116-6-off25" type="offenceDescription">
+                     <interp inst="t16820116-6-off25" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16820116-6-off25" type="offenceSubcategory" value="other"></interp>
+               killing 
+                     
+                        <persName id="t16820116-6-victim27" type="victimName">
+                           Lucy 
+                           Cook
+                        <interp inst="t16820116-6-victim27" type="surname" value="Cook"></interp>
+                        <interp inst="t16820116-6-victim27" type="given" value="Lucy"></interp>
+                        <interp inst="t16820116-6-victim27" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16820116-6-off25 t16820116-6-victim27"></join>
+                     </persName>
+                     
+                   with a Cart
+            </rs>, in the Parish of <placeName id="t16820116-6-crimeloc26">St. Giles Cripplegate</placeName>
+                  <interp inst="t16820116-6-crimeloc26" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t16820116-6-crimeloc26" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16820116-6-off25 t16820116-6-crimeloc26"></join>, on the <rs id="t16820116-6-cd27" type="crimeDate">10th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16820116-6-off25 t16820116-6-cd27"></join>, the Evidence deposing, that she crossing of the Horses, one of them struck her down, and thereupon the wheeler went over her Head, of which wound she Instantly dyed, but it <rs id="t16820116-6-verdict28" type="verdictDescription">
+                     <interp inst="t16820116-6-verdict28" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16820116-6-verdict28" type="verdictSubcategory" value="chanceMedley"></interp>
+               being adjudged Chance Medly, the Prisoners were acquitted
+            </rs>, yet received a severe Repremand from the Court, for their carelesness.</p>
+            </div1>

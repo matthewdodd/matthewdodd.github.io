@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17280717-43">
+               <interp inst="t17280717-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17280717-43" type="year" value="1728"></interp>
+               <interp inst="t17280717-43" type="uri" value="sessionsPapers/17280717"></interp>
+               <interp inst="t17280717-43" type="date" value="17280717"></interp>
+               <join result="criminalCharge" id="t17280717-43-off190-c163" targOrder="Y" targets="t17280717-43-defend223 t17280717-43-off190 t17280717-43-verdict192"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17280717-43-defend223" type="defendantName">
+                     Thomas 
+                     Anderson 
+                  <interp inst="t17280717-43-defend223" type="surname" value="Anderson"></interp>
+                     <interp inst="t17280717-43-defend223" type="given" value="Thomas"></interp>
+                     <interp inst="t17280717-43-defend223" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17280717-43-defloc189">St. James's; Westminster</placeName>
+                  <interp inst="t17280717-43-defloc189" type="placeName" value="St. James's; Westminster"></interp>
+                  <interp inst="t17280717-43-defloc189" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17280717-43-defend223 t17280717-43-defloc189"></join>, was indicted, for that <rs id="t17280717-43-off190" type="offenceDescription">
+                     <interp inst="t17280717-43-off190" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17280717-43-off190" type="offenceSubcategory" value="robbery"></interp>
+               he, with others, robb'd 
+                     
+                        <persName id="t17280717-43-victim225" type="victimName">
+                           Henry Arthur 
+                           Herbert 
+                        <interp inst="t17280717-43-victim225" type="surname" value="Herbert"></interp>
+                        <interp inst="t17280717-43-victim225" type="given" value="Henry Arthur"></interp>
+                        <interp inst="t17280717-43-victim225" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17280717-43-off190 t17280717-43-victim225"></join>
+                     </persName>
+                     
+                  , <rs id="t17280717-43-viclabel191" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17280717-43-victim225 t17280717-43-viclabel191"></join>: of a Canvas Bag, and 120 Guineas
+            </rs>, but no Evidence appearing, he was <rs id="t17280717-43-verdict192" type="verdictDescription">
+                     <interp inst="t17280717-43-verdict192" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

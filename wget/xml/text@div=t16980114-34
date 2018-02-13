@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980114-34">
+               <interp inst="t16980114-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980114-34" type="year" value="1698"></interp>
+               <interp inst="t16980114-34" type="uri" value="sessionsPapers/16980114"></interp>
+               <interp inst="t16980114-34" type="date" value="16980114"></interp>
+               <join result="criminalCharge" id="t16980114-34-off196-c128" targOrder="Y" targets="t16980114-34-defend128 t16980114-34-off196 t16980114-34-verdict198"></join>
+         
+               <p>
+            
+                  <persName id="t16980114-34-defend128" type="defendantName">
+                  Mary 
+                  Price
+               <interp inst="t16980114-34-defend128" type="surname" value="Price"></interp>
+                     <interp inst="t16980114-34-defend128" type="given" value="Mary"></interp>
+                     <interp inst="t16980114-34-defend128" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16980114-34-defloc195">St. Giles's in the Fields</placeName>
+                  <interp inst="t16980114-34-defloc195" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16980114-34-defloc195" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980114-34-defend128 t16980114-34-defloc195"></join>, was Indicted for <rs id="t16980114-34-off196" type="offenceDescription">
+                     <interp inst="t16980114-34-off196" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980114-34-off196" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing from 
+                     <persName id="t16980114-34-victim129" type="victimName">
+                        Thomas 
+                        Philips
+                     <interp inst="t16980114-34-victim129" type="surname" value="Philips"></interp>
+                        <interp inst="t16980114-34-victim129" type="given" value="Thomas"></interp>
+                        <interp inst="t16980114-34-victim129" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980114-34-off196 t16980114-34-victim129"></join>
+                     </persName>
+                  , on the <rs id="t16980114-34-cd197" type="crimeDate">14th of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980114-34-off196 t16980114-34-cd197"></join>, one Silver Watch with a Tortois-shell Case value 5 l.
+            </rs> It appeared that the Watch was found in the Prisoner's Custody, having confest the taking of it when taken up for another Felony. She had little to say in her defence, and could not prove how she came by it, the Jury brought her in <rs id="t16980114-34-verdict198" type="verdictDescription">
+                     <interp inst="t16980114-34-verdict198" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16980114-34-punish199" type="punishmentDescription">
+                     <interp inst="t16980114-34-punish199" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16980114-34-punish199" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16980114-34-defend128 t16980114-34-punish199"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

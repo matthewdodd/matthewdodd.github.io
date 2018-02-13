@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16830829-16">
+               <interp inst="t16830829-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t16830829-16" type="year" value="1683"></interp>
+               <interp inst="t16830829-16" type="uri" value="sessionsPapers/16830829"></interp>
+               <interp inst="t16830829-16" type="date" value="16830829"></interp>
+               <join result="criminalCharge" id="t16830829-16-off66-c38" targOrder="Y" targets="t16830829-16-defend38 t16830829-16-off66 t16830829-16-verdict65"></join>
+         
+               <p>
+            
+                  <persName id="t16830829-16-defend38" type="defendantName">
+                  Jane 
+                  Wixel
+               <interp inst="t16830829-16-defend38" type="surname" value="Wixel"></interp>
+                     <interp inst="t16830829-16-defend38" type="given" value="Jane"></interp>
+                     <interp inst="t16830829-16-defend38" type="gender" value="female"></interp>
+                  </persName>
+             was Tryed and found <rs id="t16830829-16-verdict65" type="verdictDescription">
+                     <interp inst="t16830829-16-verdict65" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> for <rs id="t16830829-16-off66" type="offenceDescription">
+                     <interp inst="t16830829-16-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16830829-16-off66" type="offenceSubcategory" value="other"></interp>
+               Stealing three Silver Cups and a Pinner
+            </rs> from 
+               <persName id="t16830829-16-victim39" type="victimName">
+                  William 
+                  Woodvil
+               <interp inst="t16830829-16-victim39" type="surname" value="Woodvil"></interp>
+                     <interp inst="t16830829-16-victim39" type="given" value="William"></interp>
+                     <interp inst="t16830829-16-victim39" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16830829-16-off66 t16830829-16-victim39"></join>
+                  </persName>
+             of <placeName id="t16830829-16-crimeloc67">White-Chappel</placeName>
+                  <interp inst="t16830829-16-crimeloc67" type="placeName" value="White-Chappel"></interp>
+                  <interp inst="t16830829-16-crimeloc67" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16830829-16-off66 t16830829-16-crimeloc67"></join>, on the <rs id="t16830829-16-cd68" type="crimeDate">18 of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16830829-16-off66 t16830829-16-cd68"></join> last.</p>
+               <p>
+                  <rs id="t16830829-16-punish69" type="punishmentDescription">
+                     <interp inst="t16830829-16-punish69" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16830829-16-punish69" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16830829-16-defend38 t16830829-16-punish69"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

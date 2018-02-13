@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17171204-8">
+               <interp inst="t17171204-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17171204-8" type="year" value="1717"></interp>
+               <interp inst="t17171204-8" type="uri" value="sessionsPapers/17171204"></interp>
+               <interp inst="t17171204-8" type="date" value="17171204"></interp>
+               <join result="criminalCharge" id="t17171204-8-off41-c51" targOrder="Y" targets="t17171204-8-defend70 t17171204-8-off41 t17171204-8-verdict43"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17171204-8-defend70" type="defendantName">
+                     John 
+                     Hall 
+                  <interp inst="t17171204-8-defend70" type="surname" value="Hall"></interp>
+                     <interp inst="t17171204-8-defend70" type="given" value="John"></interp>
+                     <interp inst="t17171204-8-defend70" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17171204-8-defloc40">St. Bartholomew the Lesser</placeName>
+                  <interp inst="t17171204-8-defloc40" type="placeName" value="St. Bartholomew the Lesser"></interp>
+                  <interp inst="t17171204-8-defloc40" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17171204-8-defend70 t17171204-8-defloc40"></join> was indicted for <rs id="t17171204-8-off41" type="offenceDescription">
+                     <interp inst="t17171204-8-off41" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17171204-8-off41" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing a Perriwig value 30 s the property of 
+                     
+                        <persName id="t17171204-8-victim72" type="victimName">
+                           Stephen 
+                           Horseman 
+                        <interp inst="t17171204-8-victim72" type="surname" value="Horseman"></interp>
+                        <interp inst="t17171204-8-victim72" type="given" value="Stephen"></interp>
+                        <interp inst="t17171204-8-victim72" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17171204-8-off41 t17171204-8-victim72"></join>
+                     </persName>
+                      
+                  , in the Shop
+            </rs> of 
+               <persName id="t17171204-8-person73">
+                  John 
+                  Wilson 
+               <interp inst="t17171204-8-person73" type="surname" value="Wilson"></interp>
+                     <interp inst="t17171204-8-person73" type="given" value="John"></interp>
+                     <interp inst="t17171204-8-person73" type="gender" value="male"></interp>
+                  </persName>
+            , the <rs id="t17171204-8-cd42" type="crimeDate">30th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17171204-8-off41 t17171204-8-cd42"></join> last. It appeared by the Evidence that the Prisoner being an Acquaintance of Mr. Wilson's Servant, came to see him, and took the Opportunity to steal the Wigg. The Wigg was produced in Court by the Person that the Prisoner sold it to for 5 s. The Prisoner deny'd the Fact, but had nothing material to say in his Defence, whereupon the Jury found him <rs id="t17171204-8-verdict43" type="verdictDescription">
+                     <interp inst="t17171204-8-verdict43" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17171204-8-verdict43" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17171204-8-punish44" type="punishmentDescription">
+                     <interp inst="t17171204-8-punish44" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17171204-8-punish44" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17171204-8-defend70 t17171204-8-punish44"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

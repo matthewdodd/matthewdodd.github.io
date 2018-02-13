@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170111-8">
+               <interp inst="t17170111-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170111-8" type="year" value="1717"></interp>
+               <interp inst="t17170111-8" type="uri" value="sessionsPapers/17170111"></interp>
+               <interp inst="t17170111-8" type="date" value="17170111"></interp>
+               <join result="criminalCharge" id="t17170111-8-off38-c50" targOrder="Y" targets="t17170111-8-defend68 t17170111-8-off38 "></join>
+               <join result="criminalCharge" id="t17170111-8-off38-c51" targOrder="Y" targets="t17170111-8-defend70 t17170111-8-off38 t17170111-8-verdict42"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170111-8-defend68" type="defendantName">
+                     Richard 
+                     Yeoman  alias <rs id="t17170111-8-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17170111-8-defend68 t17170111-8-alias-5"></join>Newman</rs>
+                     <interp inst="t17170111-8-defend68" type="surname" value="Yeoman"></interp>
+                     <interp inst="t17170111-8-defend68" type="given" value="Richard"></interp>
+                     <interp inst="t17170111-8-defend68" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17170111-8-defloc37">St. Clement Dane's</placeName>
+                  <interp inst="t17170111-8-defloc37" type="placeName" value="St. Clement Dane's"></interp>
+                  <interp inst="t17170111-8-defloc37" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170111-8-defend68 t17170111-8-defloc37"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170111-8-defend70 t17170111-8-defloc37"></join>, together with 
+               
+                  <persName id="t17170111-8-defend70" type="defendantName">
+                     William 
+                     Dehew 
+                  <interp inst="t17170111-8-defend70" type="surname" value="Dehew"></interp>
+                     <interp inst="t17170111-8-defend70" type="given" value="William"></interp>
+                     <interp inst="t17170111-8-defend70" type="gender" value="male"></interp>
+                  </persName>
+                
+             of the same Place, were <rs id="t17170111-8-off38" type="offenceDescription">
+                     <interp inst="t17170111-8-off38" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17170111-8-off38" type="offenceSubcategory" value="robbery"></interp>
+               indicted for a Robbery and Assault on the Person of 
+                     
+                        <persName id="t17170111-8-victim72" type="victimName">
+                           Daniel 
+                           Oldridge 
+                        <interp inst="t17170111-8-victim72" type="surname" value="Oldridge"></interp>
+                        <interp inst="t17170111-8-victim72" type="given" value="Daniel"></interp>
+                        <interp inst="t17170111-8-victim72" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17170111-8-off38 t17170111-8-victim72"></join>
+                     </persName>
+                      
+                  , the <rs id="t17170111-8-cd39" type="crimeDate">19th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17170111-8-off38 t17170111-8-cd39"></join> last, and taking from him a Hat, value 2 s. 6 d. a Wig, value 2 s. 6 d. and 5 s. in Money
+            </rs>. To which Indictment Yeoman pleaded <rs id="t17170111-8-verdict40" type="verdictDescription">
+                     <interp inst="t17170111-8-verdict40" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170111-8-verdict40" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               Guilty
+            </rs>. The Prosecutor deposed, that <placeName id="t17170111-8-crimeloc41">coming from Stepney</placeName>
+                  <interp inst="t17170111-8-crimeloc41" type="placeName" value="coming from Stepney"></interp>
+                  <interp inst="t17170111-8-crimeloc41" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17170111-8-off38 t17170111-8-crimeloc41"></join>, two Fellows with Sticks overtook him, and one of them knocked him down, and the other stopped his Mouth with a Handkerchief, and swore he'd murder him if he made any Noise, but would not swear that Dehew was one of them; so the Jury <rs id="t17170111-8-verdict42" type="verdictDescription">
+                     <interp inst="t17170111-8-verdict42" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> him.</p>
+               <p>
+                  <rs id="t17170111-8-punish43" type="punishmentDescription">
+                     <interp inst="t17170111-8-punish43" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170111-8-defend68 t17170111-8-punish43"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17310908-63">
+               <interp inst="t17310908-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t17310908-63" type="year" value="1731"></interp>
+               <interp inst="t17310908-63" type="uri" value="sessionsPapers/17310908"></interp>
+               <interp inst="t17310908-63" type="date" value="17310908"></interp>
+               <join result="criminalCharge" id="t17310908-63-off304-c210" targOrder="Y" targets="t17310908-63-defend325 t17310908-63-off304 t17310908-63-verdict308"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17310908-63-defend325" type="defendantName">
+                     Thomas 
+                     Little 
+                  <interp inst="t17310908-63-defend325" type="surname" value="Little"></interp>
+                     <interp inst="t17310908-63-defend325" type="given" value="Thomas"></interp>
+                     <interp inst="t17310908-63-defend325" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17310908-63-defloc303">St. Martin's in the Fields</placeName>
+                  <interp inst="t17310908-63-defloc303" type="placeName" value="St. Martin's in the Fields"></interp>
+                  <interp inst="t17310908-63-defloc303" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17310908-63-defend325 t17310908-63-defloc303"></join>, was indicted for <rs id="t17310908-63-off304" type="offenceDescription">
+                     <interp inst="t17310908-63-off304" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17310908-63-off304" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing the Money of 
+                     
+                        <persName id="t17310908-63-victim327" type="victimName">
+                           Thomas 
+                           Hurr 
+                        <interp inst="t17310908-63-victim327" type="surname" value="Hurr"></interp>
+                        <interp inst="t17310908-63-victim327" type="given" value="Thomas"></interp>
+                        <interp inst="t17310908-63-victim327" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17310908-63-off304 t17310908-63-victim327"></join>
+                     </persName>
+                      
+                  , in the Dwelling-House of 
+                     <persName id="t17310908-63-person328">
+                        Alexander 
+                        Bibb 
+                     <interp inst="t17310908-63-person328" type="surname" value="Bibb"></interp>
+                        <interp inst="t17310908-63-person328" type="given" value="Alexander"></interp>
+                        <interp inst="t17310908-63-person328" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs> , the <rs id="t17310908-63-cd305" type="crimeDate">26th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17310908-63-off304 t17310908-63-cd305"></join> last.</p>
+               <p>It appear'd by the Evidence, that the Prosecutor and Prisoner were Journeymen <rs id="t17310908-63-viclabel306" type="occupation">
+                     <rs id="t17310908-63-deflabel307" type="occupation">Taylors</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17310908-63-defend325 t17310908-63-deflabel307"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17310908-63-victim327 t17310908-63-viclabel306"></join> and Bedfellows, Lodgers in Mr. Bibb's House; and that the Prisoner coming in, while the Prosecutor was gone to work, open'd the Box, and took the Money. The Fact being plainly prov'd by the Purse in which the Money was, and part of the Money being found upon the Prisoner, the Jury found him <rs id="t17310908-63-verdict308" type="verdictDescription">
+                     <interp inst="t17310908-63-verdict308" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17310908-63-verdict308" type="verdictSubcategory" value="theftunder40s"></interp>
+               guilty to the Value of 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17310908-63-punish309" type="punishmentDescription">
+                     <interp inst="t17310908-63-punish309" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17310908-63-defend325 t17310908-63-punish309"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

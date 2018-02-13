@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940221-43">
+               <interp inst="t16940221-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940221-43" type="year" value="1694"></interp>
+               <interp inst="t16940221-43" type="uri" value="sessionsPapers/16940221"></interp>
+               <interp inst="t16940221-43" type="date" value="16940221"></interp>
+               <join result="criminalCharge" id="t16940221-43-off186-c123" targOrder="Y" targets="t16940221-43-defend124 t16940221-43-off186 t16940221-43-verdict188"></join>
+         
+               <p>
+            
+                  <persName id="t16940221-43-defend124" type="defendantName">
+                  John 
+                  Riggs alias <rs id="t16940221-43-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16940221-43-defend124 t16940221-43-alias-4"></join>Ricks</rs>
+                     <interp inst="t16940221-43-defend124" type="surname" value="Riggs"></interp>
+                     <interp inst="t16940221-43-defend124" type="given" value="John"></interp>
+                     <interp inst="t16940221-43-defend124" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16940221-43-defloc185">Stepney</placeName>
+                  <interp inst="t16940221-43-defloc185" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16940221-43-defloc185" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16940221-43-defend124 t16940221-43-defloc185"></join>, was indicted for <rs id="t16940221-43-off186" type="offenceDescription">
+                     <interp inst="t16940221-43-off186" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16940221-43-off186" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, for breaking the House of 
+                     <persName id="t16940221-43-victim125" type="victimName">
+                        John 
+                        Smeaton
+                     <interp inst="t16940221-43-victim125" type="surname" value="Smeaton"></interp>
+                        <interp inst="t16940221-43-victim125" type="given" value="John"></interp>
+                        <interp inst="t16940221-43-victim125" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16940221-43-off186 t16940221-43-victim125"></join>
+                     </persName>
+                   at Seven of the Clock in the Night, the <rs id="t16940221-43-cd187" type="crimeDate">31st day of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16940221-43-off186 t16940221-43-cd187"></join>, and taking thence one Silk Gown, one Cloath Gown, Two Holland Smocks, and other Goods
+            </rs>. The Evidence deposed, That the Prisoner was taken in the House with an Iron-Betty, and that he made a Pass with a Sword at the Prosecutor's Wife. The Prisoner had very little to say in his own behalf. So he was found <rs id="t16940221-43-verdict188" type="verdictDescription">
+                     <interp inst="t16940221-43-verdict188" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16940221-43-punish189" type="punishmentDescription">
+                     <interp inst="t16940221-43-punish189" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940221-43-defend124 t16940221-43-punish189"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

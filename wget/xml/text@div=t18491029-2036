@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18491029-2036">
+               <interp inst="t18491029-2036" type="uri" value="sessionsPapers/18491029"></interp>
+               <interp inst="t18491029-2036" type="date" value="18491029"></interp>
+               <join result="criminalCharge" id="t18491029-2036-charge-1" targOrder="Y" targets="def1-2036-18491029 t18491029-2036-offence-1 t18491029-2036-verdict-1"></join>
+               <join result="criminalCharge" id="t18491029-2036-charge-2" targOrder="Y" targets="def2-2036-18491029 t18491029-2036-offence-1 t18491029-2036-verdict-2"></join>
+               <join result="criminalCharge" id="t18491029-2036-charge-3" targOrder="Y" targets="def1-2036-18491029 t18491029-2036-offence-2 t18491029-2036-verdict-1"></join>
+               <join result="criminalCharge" id="t18491029-2036-charge-4" targOrder="Y" targets="def2-2036-18491029 t18491029-2036-offence-2 t18491029-2036-verdict-2"></join>
+               <p>2036. <persName id="def1-2036-18491029" type="defendantName">
+                     <interp inst="def1-2036-18491029" type="gender" value="male"></interp>
+                     <interp inst="def1-2036-18491029" type="age" value="28"></interp>
+                     <interp inst="def1-2036-18491029" type="surname" value="KNIGHT"></interp>
+                     <interp inst="def1-2036-18491029" type="given" value="HORACE"></interp>
+                     <hi rend="largeCaps">HORACE KNIGHT</hi>
+                  </persName> and <persName id="def2-2036-18491029" type="defendantName">
+                     <interp inst="def2-2036-18491029" type="gender" value="female"></interp>
+                     <interp inst="def2-2036-18491029" type="surname" value="CLARK"></interp>
+                     <interp inst="def2-2036-18491029" type="given" value="JANE"></interp>
+                     <hi rend="largeCaps">JANE CLARK</hi>
+                  </persName>
+                  <rs id="t18491029-2036-offence-1" type="offenceDescription">
+                     <interp inst="t18491029-2036-offence-1" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t18491029-2036-offence-1" type="offenceSubcategory" value="forgery"></interp>, feloniously forging and uttering an order for 1<hi rend="italic">l</hi>. 14<hi rend="italic">s</hi>.; with intent to defraud <persName id="t18491029-name-1032" type="victimName">
+                        <interp inst="t18491029-name-1032" type="gender" value="male"></interp>
+                        <interp inst="t18491029-name-1032" type="surname" value="AMOS"></interp>
+                        <interp inst="t18491029-name-1032" type="given" value="WILLIAM"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18491029-2036-offence-1 t18491029-name-1032"></join>William Amos</persName>
+                  </rs>: <hi rend="italic">also</hi>, <rs id="t18491029-2036-offence-2" type="offenceDescription">
+                     <interp inst="t18491029-2036-offence-2" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t18491029-2036-offence-2" type="offenceSubcategory" value="forgery"></interp>forging and uttering an order for 5<hi rend="italic">l</hi>.; with intent to defraud <persName id="t18491029-name-1033" type="victimName">
+                        <interp inst="t18491029-name-1033" type="gender" value="male"></interp>
+                        <interp inst="t18491029-name-1033" type="surname" value="ROBINSON"></interp>
+                        <interp inst="t18491029-name-1033" type="given" value="WILLIAM"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18491029-2036-offence-2 t18491029-name-1033"></join>William Robinson</persName>: to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">KNIGHT</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18491029-2036-verdict-1" type="verdictDescription">
+                        <interp inst="t18491029-2036-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18491029-2036-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 28.—<hi rend="italic">
+                     <rs id="t18491029-2036-punishment-173" type="punishmentDescription">
+                        <interp inst="t18491029-2036-punishment-173" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18491029-2036-punishment-173" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-2036-18491029 t18491029-2036-punishment-173"></join>Confined One Year</rs>.</hi> Mr. <hi rend="smallCaps">O'BRIEN</hi> 
+                  <hi rend="italic">offered no evidence against</hi> 
+                  <hi rend="largeCaps">CLARK</hi>—<hi rend="smallCaps">
+                     <rs id="t18491029-2036-verdict-2" type="verdictDescription">
+                        <interp inst="t18491029-2036-verdict-2" type="verdictCategory" value="notGuilty"></interp>
+                        <interp inst="t18491029-2036-verdict-2" type="verdictSubcategory" value="noEvidence"></interp>NOT GUILTY</rs>
+                  </hi>.</p>
+            </div1>

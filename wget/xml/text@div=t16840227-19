@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840227-19">
+               <interp inst="t16840227-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840227-19" type="year" value="1684"></interp>
+               <interp inst="t16840227-19" type="uri" value="sessionsPapers/16840227"></interp>
+               <interp inst="t16840227-19" type="date" value="16840227"></interp>
+               <join result="criminalCharge" id="t16840227-19-off101-c42" targOrder="Y" targets="t16840227-19-defend56 t16840227-19-off101 t16840227-19-verdict104"></join>
+         
+               <p>
+            
+                  <persName id="t16840227-19-defend56" type="defendantName">
+                  William 
+                  Rolston
+               <interp inst="t16840227-19-defend56" type="surname" value="Rolston"></interp>
+                     <interp inst="t16840227-19-defend56" type="given" value="William"></interp>
+                     <interp inst="t16840227-19-defend56" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16840227-19-off101" type="offenceDescription">
+                     <interp inst="t16840227-19-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840227-19-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Cup, valued at 30 s.
+            </rs> from one 
+               <persName id="t16840227-19-victim57" type="victimName">
+                  Henry 
+                  Woolridge
+               <interp inst="t16840227-19-victim57" type="surname" value="Woolridge"></interp>
+                     <interp inst="t16840227-19-victim57" type="given" value="Henry"></interp>
+                     <interp inst="t16840227-19-victim57" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840227-19-off101 t16840227-19-victim57"></join>
+                  </persName>
+            , living in <placeName id="t16840227-19-crimeloc102">Barbican</placeName>
+                  <interp inst="t16840227-19-crimeloc102" type="placeName" value="Barbican"></interp>
+                  <interp inst="t16840227-19-crimeloc102" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16840227-19-off101 t16840227-19-crimeloc102"></join>, on the <rs id="t16840227-19-cd103" type="crimeDate">27th instant February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16840227-19-off101 t16840227-19-cd103"></join>; it being by him confest where he had pawned it, he was found <rs id="t16840227-19-verdict104" type="verdictDescription">
+                     <interp inst="t16840227-19-verdict104" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840227-19-punish105" type="punishmentDescription">
+                     <interp inst="t16840227-19-punish105" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16840227-19-punish105" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840227-19-defend56 t16840227-19-punish105"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

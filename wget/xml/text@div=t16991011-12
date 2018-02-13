@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991011-12">
+               <interp inst="t16991011-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991011-12" type="year" value="1699"></interp>
+               <interp inst="t16991011-12" type="uri" value="sessionsPapers/16991011"></interp>
+               <interp inst="t16991011-12" type="date" value="16991011"></interp>
+               <join result="criminalCharge" id="t16991011-12-off63-c56" targOrder="Y" targets="t16991011-12-defend56 t16991011-12-off63 t16991011-12-verdict65"></join>
+         
+               <p>
+            
+                  <persName id="t16991011-12-defend56" type="defendantName">
+                  Richard 
+                  Holden, alias <rs id="t16991011-12-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16991011-12-defend56 t16991011-12-alias-4"></join>Brown</rs>
+                     <interp inst="t16991011-12-defend56" type="surname" value="Holden"></interp>
+                     <interp inst="t16991011-12-defend56" type="given" value="Richard"></interp>
+                     <interp inst="t16991011-12-defend56" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16991011-12-defloc62">St. James Duke's-Place</placeName>
+                  <interp inst="t16991011-12-defloc62" type="placeName" value="St. James Duke's-Place"></interp>
+                  <interp inst="t16991011-12-defloc62" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991011-12-defend56 t16991011-12-defloc62"></join>, was Indicted for <rs id="t16991011-12-off63" type="offenceDescription">
+                     <interp inst="t16991011-12-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991011-12-off63" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Cloath Coat, two Musling Head-dresses, a Hood and Scarf, a Holland Shirt, and a Holland Apron from 
+                     <persName id="t16991011-12-victim57" type="victimName">
+                        Abraham 
+                        Lopez de Cordova
+                     <interp inst="t16991011-12-victim57" type="surname" value="Lopez de Cordova"></interp>
+                        <interp inst="t16991011-12-victim57" type="given" value="Abraham"></interp>
+                        <interp inst="t16991011-12-victim57" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16991011-12-off63 t16991011-12-victim57"></join>
+                     </persName>
+                   on the <rs id="t16991011-12-cd64" type="crimeDate">4th. of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16991011-12-off63 t16991011-12-cd64"></join> last
+            </rs>. It appeared that the Prisoner came into the House, and took the Goods, but was seen by the Maid, who cryed out, Thieves; upon which he was stopt, and the Goods taken upon him. He denied the Fact, saying, he never touch'd any of the Goods, but it plainly proving to the contrary, the Jury thereupon found him <rs id="t16991011-12-verdict65" type="verdictDescription">
+                     <interp inst="t16991011-12-verdict65" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16991011-12-punish66" type="punishmentDescription">
+                     <interp inst="t16991011-12-punish66" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991011-12-defend56 t16991011-12-punish66"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

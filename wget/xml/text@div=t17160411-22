@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17160411-22">
+               <interp inst="t17160411-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17160411-22" type="year" value="1716"></interp>
+               <interp inst="t17160411-22" type="uri" value="sessionsPapers/17160411"></interp>
+               <interp inst="t17160411-22" type="date" value="17160411"></interp>
+               <join result="criminalCharge" id="t17160411-22-off108-c83" targOrder="Y" targets="t17160411-22-defend128 t17160411-22-off108 t17160411-22-verdict110"></join>
+         
+               <p>
+            
+                  <persName id="t17160411-22-defend128" type="defendantName">
+                  William Evans 
+                  Giles 
+               <interp inst="t17160411-22-defend128" type="surname" value="Giles"></interp>
+                     <interp inst="t17160411-22-defend128" type="given" value="William Evans"></interp>
+                     <interp inst="t17160411-22-defend128" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17160411-22-defloc107">St. Martin in the Fields</placeName>
+                  <interp inst="t17160411-22-defloc107" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17160411-22-defloc107" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17160411-22-defend128 t17160411-22-defloc107"></join>, was indicted for <rs id="t17160411-22-off108" type="offenceDescription">
+                     <interp inst="t17160411-22-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17160411-22-off108" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Linnen Necks, value 2 s.2 Holland Sleeves 2 s 2 Linnen Caps and other Things
+            </rs>, the Property of 
+               
+                  <persName id="t17160411-22-victim130" type="victimName">
+                     Hannah 
+                     Simpson 
+                  <interp inst="t17160411-22-victim130" type="surname" value="Simpson"></interp>
+                     <interp inst="t17160411-22-victim130" type="given" value="Hannah"></interp>
+                     <interp inst="t17160411-22-victim130" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17160411-22-off108 t17160411-22-victim130"></join>
+                  </persName>
+                
+            , on the <rs id="t17160411-22-cd109" type="crimeDate">18th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17160411-22-off108 t17160411-22-cd109"></join> last, it was prov'd the Prisoner stole the Goods; but the Jury considering the Value, found him <rs id="t17160411-22-verdict110" type="verdictDescription">
+                     <interp inst="t17160411-22-verdict110" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17160411-22-verdict110" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17160411-22-punish111" type="punishmentDescription">
+                     <interp inst="t17160411-22-punish111" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17160411-22-punish111" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17160411-22-defend128 t17160411-22-punish111"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

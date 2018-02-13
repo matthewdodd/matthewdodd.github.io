@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16850429-2">
+               <interp inst="t16850429-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16850429-2" type="year" value="1685"></interp>
+               <interp inst="t16850429-2" type="uri" value="sessionsPapers/16850429"></interp>
+               <interp inst="t16850429-2" type="date" value="16850429"></interp>
+               <join result="criminalCharge" id="t16850429-2-off6-c40" targOrder="Y" targets="t16850429-2-defend43 t16850429-2-off6 t16850429-2-verdict9"></join>
+               <join result="criminalCharge" id="t16850429-2-off6-c41" targOrder="Y" targets="t16850429-2-defend45 t16850429-2-off6 t16850429-2-verdict9"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16850429-2-defend43" type="defendantName">
+                     Ann 
+                     Dye
+                  <interp inst="t16850429-2-defend43" type="surname" value="Dye"></interp>
+                     <interp inst="t16850429-2-defend43" type="given" value="Ann"></interp>
+                     <interp inst="t16850429-2-defend43" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16850429-2-defend45" type="defendantName">
+                     Jane 
+                     Sinclo
+                  <interp inst="t16850429-2-defend45" type="surname" value="Sinclo"></interp>
+                     <interp inst="t16850429-2-defend45" type="given" value="Jane"></interp>
+                     <interp inst="t16850429-2-defend45" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16850429-2-defloc5">St. Clements Danes</placeName>
+                  <interp inst="t16850429-2-defloc5" type="placeName" value="St. Clements Danes"></interp>
+                  <interp inst="t16850429-2-defloc5" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16850429-2-defend43 t16850429-2-defloc5"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16850429-2-defend45 t16850429-2-defloc5"></join>, in the County of Middlesex, were Indicted for <rs id="t16850429-2-off6" type="offenceDescription">
+                     <interp inst="t16850429-2-off6" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16850429-2-off6" type="offenceSubcategory" value="robbery"></interp>
+               taking a parcel of White-bone Lace to the value of 40 s.
+            </rs> from the person of 
+               <persName id="t16850429-2-victim46" type="victimName">
+                  Margaret 
+                  Walker
+               <interp inst="t16850429-2-victim46" type="surname" value="Walker"></interp>
+                     <interp inst="t16850429-2-victim46" type="given" value="Margaret"></interp>
+                     <interp inst="t16850429-2-victim46" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16850429-2-off6 t16850429-2-victim46"></join>
+                  </persName>
+             
+                  <rs id="t16850429-2-viclabel7" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16850429-2-victim46 t16850429-2-viclabel7"></join>: The Evidence for the King was, That the said Walker meeting the two Prisoners in the <placeName id="t16850429-2-crimeloc8">Butcher-Rowe without Temple-Bar</placeName>
+                  <interp inst="t16850429-2-crimeloc8" type="placeName" value="Butcher-Rowe without Temple-Bar"></interp>
+                  <interp inst="t16850429-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16850429-2-off6 t16850429-2-crimeloc8"></join>, about Three of the Clock in the afternoon, the Prisoners took hold of the said Walker, forcing her into a house and then got her up stairs, robbing her of the said Lace. The Prisoners endeavoured to prove them selves innocent of the Fact, but it being fully proved against them both, the Jury brought them in <rs id="t16850429-2-verdict9" type="verdictDescription">
+                     <interp inst="t16850429-2-verdict9" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony and Robbery.</p>
+               <p>
+                  <rs id="t16850429-2-punish10" type="punishmentDescription">
+                     <interp inst="t16850429-2-punish10" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16850429-2-defend43 t16850429-2-punish10"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16850429-2-defend45 t16850429-2-punish10"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

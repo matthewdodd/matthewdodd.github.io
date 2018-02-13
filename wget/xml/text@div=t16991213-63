@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991213-63">
+               <interp inst="t16991213-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991213-63" type="year" value="1699"></interp>
+               <interp inst="t16991213-63" type="uri" value="sessionsPapers/16991213"></interp>
+               <interp inst="t16991213-63" type="date" value="16991213"></interp>
+               <join result="criminalCharge" id="t16991213-63-off355-c204" targOrder="Y" targets="t16991213-63-defend204 t16991213-63-off355 t16991213-63-verdict357"></join>
+         
+               <p>
+            
+                  <persName id="t16991213-63-defend204" type="defendantName">
+                  William 
+                  Blackmore
+               <interp inst="t16991213-63-defend204" type="surname" value="Blackmore"></interp>
+                     <interp inst="t16991213-63-defend204" type="given" value="William"></interp>
+                     <interp inst="t16991213-63-defend204" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16991213-63-defloc354">St. Sepulchres</placeName>
+                  <interp inst="t16991213-63-defloc354" type="placeName" value="St. Sepulchres"></interp>
+                  <interp inst="t16991213-63-defloc354" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-63-defend204 t16991213-63-defloc354"></join>, was Indicted for <rs id="t16991213-63-off355" type="offenceDescription">
+                     <interp inst="t16991213-63-off355" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16991213-63-off355" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, for Breaking the House of 
+                     <persName id="t16991213-63-victim205" type="victimName">
+                        Alice 
+                        Price
+                     <interp inst="t16991213-63-victim205" type="surname" value="Price"></interp>
+                        <interp inst="t16991213-63-victim205" type="given" value="Alice"></interp>
+                        <interp inst="t16991213-63-victim205" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16991213-63-off355 t16991213-63-victim205"></join>
+                     </persName>
+                   on the <rs id="t16991213-63-cd356" type="crimeDate">Twenty eighth of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16991213-63-off355 t16991213-63-cd356"></join> last, and taking thence three Flaxen Sheets, three Smocks, four Hoods, two Pewter Pots, and divers other Goods
+            </rs>. It appeared to be no more than <rs id="t16991213-63-verdict357" type="verdictDescription">
+                     <interp inst="t16991213-63-verdict357" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16991213-63-verdict357" type="verdictSubcategory" value="lesserOffence"></interp>
+               Felony. The Jury found him Guilty of that, and Acquitted him of the Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t16991213-63-punish358" type="punishmentDescription">
+                     <interp inst="t16991213-63-punish358" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16991213-63-punish358" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-63-defend204 t16991213-63-punish358"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

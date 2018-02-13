@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831212-17">
+               <interp inst="t16831212-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831212-17" type="year" value="1683"></interp>
+               <interp inst="t16831212-17" type="uri" value="sessionsPapers/16831212"></interp>
+               <interp inst="t16831212-17" type="date" value="16831212"></interp>
+               <join result="criminalCharge" id="t16831212-17-off73-c46" targOrder="Y" targets="t16831212-17-defend76 t16831212-17-off73 t16831212-17-verdict74"></join>
+               <join result="criminalCharge" id="t16831212-17-off73-c48" targOrder="Y" targets="t16831212-17-defend78 t16831212-17-off73 t16831212-17-verdict75"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831212-17-defend76" type="defendantName">
+                     Mary 
+                     Patience
+                  <interp inst="t16831212-17-defend76" type="surname" value="Patience"></interp>
+                     <interp inst="t16831212-17-defend76" type="given" value="Mary"></interp>
+                     <interp inst="t16831212-17-defend76" type="gender" value="female"></interp>
+                  </persName>
+               
+            , having been a <rs id="t16831212-17-deflabel68" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16831212-17-defend76 t16831212-17-deflabel68"></join> to 
+               <persName id="t16831212-17-victim77" type="victimName">
+                     <rs id="t16831212-17-viclabel69" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16831212-17-victim77 t16831212-17-viclabel69"></join> 
+                  Ratcliff
+               <interp inst="t16831212-17-victim77" type="surname" value="Ratcliff"></interp>
+                     <interp inst="t16831212-17-victim77" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16831212-17-off73 t16831212-17-victim77"></join>
+                  </persName>
+            , an <rs id="t16831212-17-viclabel70" type="occupation">Oil-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16831212-17-victim77 t16831212-17-viclabel70"></join> in the <placeName id="t16831212-17-crimeloc71">Strand</placeName>
+                  <interp inst="t16831212-17-crimeloc71" type="placeName" value="Strand"></interp>
+                  <interp inst="t16831212-17-crimeloc71" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16831212-17-off73 t16831212-17-crimeloc71"></join>, and being removed from her said Service, to Lodge at the House of 
+               <persName id="t16831212-17-defend78" type="defendantName">
+                  Elizabeth 
+                  Hall
+               <interp inst="t16831212-17-defend78" type="surname" value="Hall"></interp>
+                     <interp inst="t16831212-17-defend78" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16831212-17-defend78" type="gender" value="female"></interp>
+                  </persName>
+            , a <rs id="t16831212-17-deflabel72" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16831212-17-defend78 t16831212-17-deflabel72"></join>, in Southwark, it appeared that she did <rs id="t16831212-17-off73" type="offenceDescription">
+                     <interp inst="t16831212-17-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831212-17-off73" type="offenceSubcategory" value="other"></interp>
+               Steal several pieces of Cloth, and some smal Linen, from her said Service
+            </rs>; which upon Search being found with her, they were both Indicted as principals. Mary Patience was found <rs id="t16831212-17-verdict74" type="verdictDescription">
+                     <interp inst="t16831212-17-verdict74" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16831212-17-verdict74" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of Ten Pence
+            </rs>; And Elizabeth Hall <rs id="t16831212-17-verdict75" type="verdictDescription">
+                     <interp inst="t16831212-17-verdict75" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16831212-17-punish76" type="punishmentDescription">
+                     <interp inst="t16831212-17-punish76" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16831212-17-punish76" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-17-defend76 t16831212-17-punish76"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

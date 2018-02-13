@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18631130-51">
+               <interp inst="t18631130-51" type="uri" value="sessionsPapers/18631130"></interp>
+               <interp inst="t18631130-51" type="date" value="18631130"></interp>
+               <join result="criminalCharge" id="t18631130-51-charge-1" targOrder="Y" targets="def1-51-18631130 t18631130-51-offence-1 t18631130-51-verdict-1"></join>
+               <join result="criminalCharge" id="t18631130-51-charge-2" targOrder="Y" targets="def2-51-18631130 t18631130-51-offence-1 t18631130-51-verdict-1"></join>
+               <p>51. <persName id="def1-51-18631130" type="defendantName">
+                     <interp inst="def1-51-18631130" type="gender" value="female"></interp>
+                     <interp inst="def1-51-18631130" type="age" value="36"></interp>
+                     <interp inst="def1-51-18631130" type="surname" value="JONES"></interp>
+                     <interp inst="def1-51-18631130" type="given" value="MARY"></interp>
+                     <hi rend="largeCaps">MARY JONES</hi> (36)</persName>, and <persName id="def2-51-18631130" type="defendantName">
+                     <interp inst="def2-51-18631130" type="gender" value="female"></interp>
+                     <interp inst="def2-51-18631130" type="age" value="30"></interp>
+                     <interp inst="def2-51-18631130" type="surname" value="SMITH"></interp>
+                     <interp inst="def2-51-18631130" type="given" value="JANE"></interp>
+                     <hi rend="largeCaps">JANE SMITH</hi> (30)</persName>,</p>
+               <p>
+                  <hi rend="smallCaps">
+                     <rs id="t18631130-51-verdict-1" type="verdictDescription">
+                        <interp inst="t18631130-51-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18631130-51-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi> 
+                  <rs id="t18631130-51-offence-1" type="offenceDescription">
+                     <interp inst="t18631130-51-offence-1" type="offenceCategory" value="damage"></interp>
+                     <interp inst="t18631130-51-offence-1" type="offenceSubcategory" value="other"></interp>to maliciously damaging a window, value 8<hi rend="italic">l</hi>. the property of <persName id="t18631130-name-261" type="victimName">
+                        <interp inst="t18631130-name-261" type="gender" value="male"></interp>
+                        <interp inst="t18631130-name-261" type="surname" value="JOB"></interp>
+                        <interp inst="t18631130-name-261" type="given" value="ALFRED MORTIMER"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18631130-51-offence-1 t18631130-name-261"></join>Alfred Mortimer Job</persName>.</rs>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18631130-51-punishment-45" type="punishmentDescription">
+                        <interp inst="t18631130-51-punishment-45" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18631130-51-punishment-45" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-51-18631130 t18631130-51-punishment-45"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-51-18631130 t18631130-51-punishment-45"></join>Confined Four Months each</rs>.</hi>
+               </p>
+            </div1>

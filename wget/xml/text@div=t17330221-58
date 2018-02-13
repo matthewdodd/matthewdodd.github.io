@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17330221-58">
+               <interp inst="t17330221-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t17330221-58" type="year" value="1733"></interp>
+               <interp inst="t17330221-58" type="uri" value="sessionsPapers/17330221"></interp>
+               <interp inst="t17330221-58" type="date" value="17330221"></interp>
+               <join result="criminalCharge" id="t17330221-58-off272-c406" targOrder="Y" targets="t17330221-58-defend533 t17330221-58-off272 t17330221-58-verdict275"></join>
+         
+               <p>73. 
+               
+                  <persName id="t17330221-58-defend533" type="defendantName">
+                     Sarah 
+                     Brown 
+                  <interp inst="t17330221-58-defend533" type="surname" value="Brown"></interp>
+                     <interp inst="t17330221-58-defend533" type="given" value="Sarah"></interp>
+                     <interp inst="t17330221-58-defend533" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17330221-58-off272" type="offenceDescription">
+                     <interp inst="t17330221-58-off272" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17330221-58-off272" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 4 Guineas
+            </rs>, the Money of <rs id="t17330221-58-viclabel273" type="occupation">Dame</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17330221-58-victim535 t17330221-58-viclabel273"></join> 
+            
+               
+                  <persName id="t17330221-58-victim535" type="victimName">
+                     Mary 
+                     Crew 
+                  <interp inst="t17330221-58-victim535" type="surname" value="Crew"></interp>
+                     <interp inst="t17330221-58-victim535" type="given" value="Mary"></interp>
+                     <interp inst="t17330221-58-victim535" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17330221-58-off272 t17330221-58-victim535"></join>
+                  </persName>
+                
+            , <rs id="t17330221-58-cd274" type="crimeDate">May 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17330221-58-off272 t17330221-58-cd274"></join>, no Evidence. <rs id="t17330221-58-verdict275" type="verdictDescription">
+                     <interp inst="t17330221-58-verdict275" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17330221-58-verdict275" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

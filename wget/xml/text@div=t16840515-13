@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840515-13">
+               <interp inst="t16840515-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840515-13" type="year" value="1684"></interp>
+               <interp inst="t16840515-13" type="uri" value="sessionsPapers/16840515"></interp>
+               <interp inst="t16840515-13" type="date" value="16840515"></interp>
+               <join result="criminalCharge" id="t16840515-13-off40-c33" targOrder="Y" targets="t16840515-13-defend49 t16840515-13-off40 t16840515-13-verdict42"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16840515-13-defend49" type="defendantName">
+                     William 
+                     Billingsley
+                  <interp inst="t16840515-13-defend49" type="surname" value="Billingsley"></interp>
+                     <interp inst="t16840515-13-defend49" type="given" value="William"></interp>
+                     <interp inst="t16840515-13-defend49" type="gender" value="male"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16840515-13-off40" type="offenceDescription">
+                     <interp inst="t16840515-13-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840515-13-off40" type="offenceSubcategory" value="other"></interp>
+               Stealing a Holland Sheet, a Dimity Wastcoat, two Holland Aprons, a Callicoe Apron, and other things
+            </rs>, from 
+               
+                  <persName id="t16840515-13-victim51" type="victimName">
+                     Sarah 
+                     Cocker
+                  <interp inst="t16840515-13-victim51" type="surname" value="Cocker"></interp>
+                     <interp inst="t16840515-13-victim51" type="given" value="Sarah"></interp>
+                     <interp inst="t16840515-13-victim51" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840515-13-off40 t16840515-13-victim51"></join>
+                  </persName>
+               
+            , <rs id="t16840515-13-viclabel41" type="occupation">Widdow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840515-13-victim51 t16840515-13-viclabel41"></join>, was found <rs id="t16840515-13-verdict42" type="verdictDescription">
+                     <interp inst="t16840515-13-verdict42" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16840515-13-verdict42" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d. only
+            </rs>.</p>
+               <p>
+                  <rs id="t16840515-13-punish43" type="punishmentDescription">
+                     <interp inst="t16840515-13-punish43" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16840515-13-punish43" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840515-13-defend49 t16840515-13-punish43"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

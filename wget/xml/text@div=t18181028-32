@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18181028-32">
+               <interp inst="t18181028-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t18181028-32" type="year" value="1818"></interp>
+               <interp inst="t18181028-32" type="uri" value="sessionsPapers/18181028"></interp>
+               <interp inst="t18181028-32" type="date" value="18181028"></interp>
+               <join result="criminalCharge" id="t18181028-32-off192-c234" targOrder="Y" targets="t18181028-32-defend278 t18181028-32-off192 t18181028-32-verdict198"></join>
+               <join result="criminalCharge" id="t18181028-32-off194-c236" targOrder="Y" targets="t18181028-32-defend281 t18181028-32-off194 t18181028-32-verdict200"></join>
+         
+               <p>1423. 
+               
+                  <persName id="t18181028-32-defend278" type="defendantName">
+                     HENRY 
+                     FISHER
+                  <interp inst="t18181028-32-defend278" type="surname" value="FISHER"></interp>
+                     <interp inst="t18181028-32-defend278" type="given" value="HENRY"></interp>
+                     <interp inst="t18181028-32-defend278" type="gender" value="male"></interp>
+                     <interp inst="t18181028-32-defend278" type="age" value="22"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18181028-32-off192" type="offenceDescription">
+                     <interp inst="t18181028-32-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18181028-32-off192" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18181028-32-cd193" type="crimeDate">9th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18181028-32-off192 t18181028-32-cd193"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18181028-32-off194 t18181028-32-cd193"></join>, two pair of stays, value 6s.
+            </rs>, the goods of 
+               <persName id="t18181028-32-victim279" type="victimName">
+                  John 
+                  Mills
+               <interp inst="t18181028-32-victim279" type="surname" value="Mills"></interp>
+                     <interp inst="t18181028-32-victim279" type="given" value="John"></interp>
+                     <interp inst="t18181028-32-victim279" type="gender" value="male"></interp>
+                  </persName>
+            ; and 
+               
+                  <persName id="t18181028-32-defend281" type="defendantName">
+                     ELIZA 
+                     FISHER
+                  <interp inst="t18181028-32-defend281" type="surname" value="FISHER"></interp>
+                     <interp inst="t18181028-32-defend281" type="given" value="ELIZA"></interp>
+                     <interp inst="t18181028-32-defend281" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18181028-32-off194" type="offenceDescription">
+                     <interp inst="t18181028-32-off194" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18181028-32-off194" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, knowing them to have been stolen
+            </rs>.</p>
+               <p>WILLIAM COOKE. I am servant to Mr. 
+               <persName id="t18181028-32-person282">
+                  John 
+                  Mills
+               <interp inst="t18181028-32-person282" type="surname" value="Mills"></interp>
+                     <interp inst="t18181028-32-person282" type="given" value="John"></interp>
+                     <interp inst="t18181028-32-person282" type="gender" value="male"></interp>
+                  </persName>
+            , who is a <rs id="t18181028-32-viclabel195" type="occupation">staymaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18181028-32-victim279 t18181028-32-viclabel195"></join>, and lives in <placeName id="t18181028-32-crimeloc196">Holywell-street</placeName>
+                  <interp inst="t18181028-32-crimeloc196" type="placeName" value="Holywell-street"></interp>
+                  <interp inst="t18181028-32-crimeloc196" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18181028-32-off192 t18181028-32-crimeloc196"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t18181028-32-off194 t18181028-32-crimeloc196"></join>. The prisoner was our <rs id="t18181028-32-deflabel197" type="occupation">porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18181028-32-defend278 t18181028-32-deflabel197"></join>. His wife had no means of getting at the property.</p>
+               <p>RICHARD WALFORD. I am servant to Messrs. Wire and Page, who are pawnbrokers, and live in Long-acre. The prisoner's wife brought two pair of stays to pledge - I sent for an officer. The prisoner came to the shop about some glass which had been pledged - I detained him.</p>
+               <p>(Property produced and sworn to.)</p>
+               <p>FISHER-<rs id="t18181028-32-verdict198" type="verdictDescription">
+                     <interp inst="t18181028-32-verdict198" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 22.</p>
+               <p>
+                  <rs id="t18181028-32-punish199" type="punishmentDescription">
+                     <interp inst="t18181028-32-punish199" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18181028-32-defend278 t18181028-32-punish199"></join>
+               Confined One Year
+            </rs>.</p>
+               <p>ELIZA FISHER-<rs id="t18181028-32-verdict200" type="verdictDescription">
+                     <interp inst="t18181028-32-verdict200" type="verdictCategory" value="notGuilty"></interp>
+               NOT GUILTY
+            </rs>.</p>
+               <p>Second Middlesex Jury, before Mr. Baron Garrow.</p>
+            </div1>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17081208-15">
+               <interp inst="t17081208-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17081208-15" type="year" value="1708"></interp>
+               <interp inst="t17081208-15" type="uri" value="sessionsPapers/17081208"></interp>
+               <interp inst="t17081208-15" type="date" value="17081208"></interp>
+               <join result="criminalCharge" id="t17081208-15-off66-c62" targOrder="Y" targets="t17081208-15-defend62 t17081208-15-off66 t17081208-15-verdict68"></join>
+               <join result="criminalCharge" id="t17081208-15-off66-c63" targOrder="Y" targets="t17081208-15-defend63 t17081208-15-off66 t17081208-15-verdict68"></join>
+         
+               <p>
+            
+                  <persName id="t17081208-15-defend62" type="defendantName">
+                  James 
+                  Butler
+               <interp inst="t17081208-15-defend62" type="surname" value="Butler"></interp>
+                     <interp inst="t17081208-15-defend62" type="given" value="James"></interp>
+                     <interp inst="t17081208-15-defend62" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17081208-15-defend63" type="defendantName">
+                  John 
+                  Callice alias <rs id="t17081208-15-alias-7" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17081208-15-defend63 t17081208-15-alias-7"></join>John Walker</rs>
+                     <interp inst="t17081208-15-defend63" type="surname" value="Callice"></interp>
+                     <interp inst="t17081208-15-defend63" type="given" value="John"></interp>
+                     <interp inst="t17081208-15-defend63" type="gender" value="male"></interp>
+                  </persName>
+            , were Indicted for <rs id="t17081208-15-off66" type="offenceDescription">
+                     <interp inst="t17081208-15-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17081208-15-off66" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Wooden Box, a Whip, 2 Suits of Headcloths, 9 Muslen Neck-cloths, 10 Handkerchiefs, 7 Hoods, 18 pair of Gloves, with other things to a considerable value
+            </rs>, the Goods of 
+               <persName id="t17081208-15-victim64" type="victimName">
+                  Thomas 
+                  Patrige
+               <interp inst="t17081208-15-victim64" type="surname" value="Patrige"></interp>
+                     <interp inst="t17081208-15-victim64" type="given" value="Thomas"></interp>
+                     <interp inst="t17081208-15-victim64" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17081208-15-off66 t17081208-15-victim64"></join>
+                  </persName>
+            , on the <rs id="t17081208-15-cd67" type="crimeDate">15th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17081208-15-off66 t17081208-15-cd67"></join> last. It appeared by the Evidence that the Goods were stolen from an Inn, and the Prosecutor hearing of the Prisoners, went to them and charg'd them with the Fact; who frankly own'd it, and at the same time gave him a Note under their Hands with a Direction where to find his Goods. The Prisoners saying little for themselves, the Jury found them both <rs id="t17081208-15-verdict68" type="verdictDescription">
+                     <interp inst="t17081208-15-verdict68" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17081208-15-punish69" type="punishmentDescription">
+                     <interp inst="t17081208-15-punish69" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17081208-15-punish69" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081208-15-defend62 t17081208-15-punish69"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081208-15-defend63 t17081208-15-punish69"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

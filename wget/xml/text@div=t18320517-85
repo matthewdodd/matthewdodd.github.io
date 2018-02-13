@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18320517-85">
+               <interp inst="t18320517-85" type="collection" value="BAILEY"></interp>
+               <interp inst="t18320517-85" type="year" value="1832"></interp>
+               <interp inst="t18320517-85" type="uri" value="sessionsPapers/18320517"></interp>
+               <interp inst="t18320517-85" type="date" value="18320517"></interp>
+               <join result="criminalCharge" id="t18320517-85-off502-c669" targOrder="Y" targets="t18320517-85-defend814 t18320517-85-off502 t18320517-85-verdict506"></join>
+               <join result="criminalCharge" id="t18320517-85-off502-c670" targOrder="Y" targets="t18320517-85-defend816 t18320517-85-off502 t18320517-85-verdict507"></join>
+         
+               <p>1210. 
+               
+                  <persName id="t18320517-85-defend814" type="defendantName">
+                     HENRY 
+                     BUTLER
+                  <interp inst="t18320517-85-defend814" type="surname" value="BUTLER"></interp>
+                     <interp inst="t18320517-85-defend814" type="given" value="HENRY"></interp>
+                     <interp inst="t18320517-85-defend814" type="gender" value="male"></interp>
+                     <interp inst="t18320517-85-defend814" type="age" value="16"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t18320517-85-defend816" type="defendantName">
+                     JAMES 
+                     BUTLER
+                  <interp inst="t18320517-85-defend816" type="surname" value="BUTLER"></interp>
+                     <interp inst="t18320517-85-defend816" type="given" value="JAMES"></interp>
+                     <interp inst="t18320517-85-defend816" type="gender" value="male"></interp>
+                     <interp inst="t18320517-85-defend816" type="age" value="19"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18320517-85-off502" type="offenceDescription">
+                     <interp inst="t18320517-85-off502" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18320517-85-off502" type="offenceSubcategory" value="simpleLarceny"></interp>
+               stealing, on the <rs id="t18320517-85-cd503" type="crimeDate">28th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18320517-85-off502 t18320517-85-cd503"></join>, 1 saw, value 2s.; 1 steel, value 6d., and 1 lb. weight of mutton, value 6d.
+            </rs>, the goods of 
+               
+                  <persName id="t18320517-85-victim818" type="victimName">
+                     Charles 
+                     Martin
+                  <interp inst="t18320517-85-victim818" type="surname" value="Martin"></interp>
+                     <interp inst="t18320517-85-victim818" type="given" value="Charles"></interp>
+                     <interp inst="t18320517-85-victim818" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18320517-85-off502 t18320517-85-victim818"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18320517-85-person819">
+                  CHARLES 
+                  MARTIN
+               <interp inst="t18320517-85-person819" type="surname" value="MARTIN"></interp>
+                     <interp inst="t18320517-85-person819" type="given" value="CHARLES"></interp>
+                     <interp inst="t18320517-85-person819" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18320517-85-viclabel504" type="occupation">butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18320517-85-victim818 t18320517-85-viclabel504"></join>, and live at <placeName id="t18320517-85-crimeloc505">Chelsea</placeName>
+                  <interp inst="t18320517-85-crimeloc505" type="placeName" value="Chelsea"></interp>
+                  <interp inst="t18320517-85-crimeloc505" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18320517-85-off502 t18320517-85-crimeloc505"></join>. On the 28th of April I missed this property from my shop, between nine and ten o'clock in the evening - I did not know the prisoners.</p>
+               <p>HENRY BROWN (Police-constable B 60). I saw the two prisoners on the night in question, in Pimlico, contending about this saw, which laid in the road - a woman came by and picked it up, and then each of the prisoners claimed it - as they gave a very bad account of it I took it and them down to the station; I then asked them how they came by it - James said he lived with a butcher named Green, who had sent him to get it set; I found on him this steel, and on Henry I found two pieces of mutton which he said were given him for his Sunday's dinner.</p>
+               <p>H. BUTLER - <rs id="t18320517-85-verdict506" type="verdictDescription">
+                     <interp inst="t18320517-85-verdict506" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 16.</p>
+               <p>J. BUTLER - <rs id="t18320517-85-verdict507" type="verdictDescription">
+                     <interp inst="t18320517-85-verdict507" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 19.</p>
+               <p>
+                  <rs id="t18320517-85-punish508" type="punishmentDescription">
+                     <interp inst="t18320517-85-punish508" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18320517-85-defend814 t18320517-85-punish508"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18320517-85-defend816 t18320517-85-punish508"></join>
+               Confined One Month
+            </rs>.</p>
+            </div1>

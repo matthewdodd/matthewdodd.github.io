@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17110516-33">
+               <interp inst="t17110516-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17110516-33" type="year" value="1711"></interp>
+               <interp inst="t17110516-33" type="uri" value="sessionsPapers/17110516"></interp>
+               <interp inst="t17110516-33" type="date" value="17110516"></interp>
+               <join result="criminalCharge" id="t17110516-33-off131-c103" targOrder="Y" targets="t17110516-33-defend161 t17110516-33-off131 t17110516-33-verdict134"></join>
+         
+               <p>
+            
+                  <persName id="t17110516-33-defend161" type="defendantName">
+                  
+                     Anne 
+                     Ward
+                  , alias 
+                     <rs id="t17110516-33-alias-10" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17110516-33-defend161 t17110516-33-alias-10"></join>Elizabeth Walter</rs>
+                  , alias 
+                     <rs id="t17110516-33-alias-11" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17110516-33-defend161 t17110516-33-alias-11"></join>Mary Roods</rs>
+                  
+                     <interp inst="t17110516-33-defend161" type="surname" value="Ward"></interp>
+                     <interp inst="t17110516-33-defend161" type="given" value="Anne"></interp>
+                     <interp inst="t17110516-33-defend161" type="gender" value="female"></interp>
+                  </persName>
+            , of <placeName id="t17110516-33-defloc130">St. Andrews Holbourn</placeName>
+                  <interp inst="t17110516-33-defloc130" type="placeName" value="St. Andrews Holbourn"></interp>
+                  <interp inst="t17110516-33-defloc130" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17110516-33-defend161 t17110516-33-defloc130"></join>, was indicted for <rs id="t17110516-33-off131" type="offenceDescription">
+                     <interp inst="t17110516-33-off131" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17110516-33-off131" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Gold Watch and Chain, value 20 l. a Silver Coffee Pot, value 7 l. a Pair of Silver Snuffers and Snuff-pan, value 3 l. a Silver Salver 5 l. 3 Silver Casters 6 l. with other Pieces of Plate
+            </rs>, the Goods of 
+               
+                  <persName id="t17110516-33-victim166" type="victimName">
+                     Charles 
+                     Wade
+                  <interp inst="t17110516-33-victim166" type="surname" value="Wade"></interp>
+                     <interp inst="t17110516-33-victim166" type="given" value="Charles"></interp>
+                     <interp inst="t17110516-33-victim166" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17110516-33-off131 t17110516-33-victim166"></join>
+                  </persName>
+               
+            , <rs id="t17110516-33-viclabel132" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17110516-33-victim166 t17110516-33-viclabel132"></join> on the <rs id="t17110516-33-cd133" type="crimeDate">24th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17110516-33-off131 t17110516-33-cd133"></join> last. It appear'd that the Prisoner personated one 
+               <persName id="t17110516-33-person167">
+                  Mary 
+                  Roods
+               <interp inst="t17110516-33-person167" type="surname" value="Roods"></interp>
+                     <interp inst="t17110516-33-person167" type="given" value="Mary"></interp>
+                     <interp inst="t17110516-33-person167" type="gender" value="female"></interp>
+                  </persName>
+            , and was by her Name and Character hired into the Prosecutor's Service; she had not been in her Place above a Week, but went privately away with the Goods; and when she was taken, some of the Goods were found upon her. The Jury found her <rs id="t17110516-33-verdict134" type="verdictDescription">
+                     <interp inst="t17110516-33-verdict134" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17110516-33-punish135" type="punishmentDescription">
+                     <interp inst="t17110516-33-punish135" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17110516-33-punish135" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17110516-33-defend161 t17110516-33-punish135"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210525-19">
+               <interp inst="t17210525-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210525-19" type="year" value="1721"></interp>
+               <interp inst="t17210525-19" type="uri" value="sessionsPapers/17210525"></interp>
+               <interp inst="t17210525-19" type="date" value="17210525"></interp>
+               <join result="criminalCharge" id="t17210525-19-off96-c87" targOrder="Y" targets="t17210525-19-defend128 t17210525-19-off96 t17210525-19-verdict97"></join>
+               <join result="criminalCharge" id="t17210525-19-off96-c88" targOrder="Y" targets="t17210525-19-defend130 t17210525-19-off96 t17210525-19-verdict97"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17210525-19-defend128" type="defendantName">
+                     Robert 
+                     Godfrey  alias <rs id="t17210525-19-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17210525-19-defend128 t17210525-19-alias-2"></join>Perkins</rs>
+                     <interp inst="t17210525-19-defend128" type="surname" value="Godfrey"></interp>
+                     <interp inst="t17210525-19-defend128" type="given" value="Robert"></interp>
+                     <interp inst="t17210525-19-defend128" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17210525-19-defend130" type="defendantName">
+                     William 
+                     Withers 
+                  <interp inst="t17210525-19-defend130" type="surname" value="Withers"></interp>
+                     <interp inst="t17210525-19-defend130" type="given" value="William"></interp>
+                     <interp inst="t17210525-19-defend130" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17210525-19-defloc95">St. Sepulchres</placeName>
+                  <interp inst="t17210525-19-defloc95" type="placeName" value="St. Sepulchres"></interp>
+                  <interp inst="t17210525-19-defloc95" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210525-19-defend128 t17210525-19-defloc95"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210525-19-defend130 t17210525-19-defloc95"></join> were severally indicted on the late Act for the more effectual Transporting of Felons, &amp;c. For that they <rs id="t17210525-19-off96" type="offenceDescription">
+                     <interp inst="t17210525-19-off96" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17210525-19-off96" type="offenceSubcategory" value="returnFromTransportation"></interp>
+               having been formerly Convicted of two different Felonies, and Transported among other Convicts from Newgate for the same, had returned into Great Britain without any Lawful Cause
+            </rs>; which being fully proved upon them, the Jury found them <rs id="t17210525-19-verdict97" type="verdictDescription">
+                     <interp inst="t17210525-19-verdict97" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17210525-19-punish98" type="punishmentDescription">
+                     <interp inst="t17210525-19-punish98" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210525-19-defend128 t17210525-19-punish98"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210525-19-defend130 t17210525-19-punish98"></join>
+               Death
+            </rs>.</p>
+            </div1>

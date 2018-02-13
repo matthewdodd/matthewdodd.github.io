@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16931012-17">
+               <interp inst="t16931012-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16931012-17" type="year" value="1693"></interp>
+               <interp inst="t16931012-17" type="uri" value="sessionsPapers/16931012"></interp>
+               <interp inst="t16931012-17" type="date" value="16931012"></interp>
+               <join result="criminalCharge" id="t16931012-17-off60-c64" targOrder="Y" targets="t16931012-17-defend64 t16931012-17-off60 t16931012-17-verdict64"></join>
+         
+               <p>
+            
+                  <persName id="t16931012-17-defend64" type="defendantName">
+                  Mary 
+                  Nace, alias <rs id="t16931012-17-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16931012-17-defend64 t16931012-17-alias-2"></join>White</rs>
+                     <interp inst="t16931012-17-defend64" type="surname" value="Nace"></interp>
+                     <interp inst="t16931012-17-defend64" type="given" value="Mary"></interp>
+                     <interp inst="t16931012-17-defend64" type="gender" value="female"></interp>
+                  </persName>
+            , was tried for <rs id="t16931012-17-off60" type="offenceDescription">
+                     <interp inst="t16931012-17-off60" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16931012-17-off60" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16931012-17-victim65" type="victimName">
+                        Rachel 
+                        Nace
+                     <interp inst="t16931012-17-victim65" type="surname" value="Nace"></interp>
+                        <interp inst="t16931012-17-victim65" type="given" value="Rachel"></interp>
+                        <interp inst="t16931012-17-victim65" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16931012-17-off60 t16931012-17-victim65"></join>
+                     </persName>
+                  , <rs id="t16931012-17-viclabel61" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16931012-17-victim65 t16931012-17-viclabel61"></join>, on the <rs id="t16931012-17-cd62" type="crimeDate">27th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16931012-17-off60 t16931012-17-cd62"></join> last, in <placeName id="t16931012-17-crimeloc63">St. James Dukes-place</placeName>
+                     <interp inst="t16931012-17-crimeloc63" type="placeName" value="St. James Dukes-place"></interp>
+                     <interp inst="t16931012-17-crimeloc63" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16931012-17-off60 t16931012-17-crimeloc63"></join>, four Ells of Cloth, val. 12 s. and 19 l. in money
+            </rs>; Rachel Nace was Mother-in-law to the Prisoner, and kept her in her House, and whilst she was abroad, she run away with the money, and afterwards was found at Westminster with part of the money about her; there was a parcel of Silk, Crapes, with Scarves and Fringes, &amp;c. which were bought by her to make her fine; there was a Letter also produced in Court, written to her by one White from Northampton, wherein he desired her to buy him a Sword, and that he long'd to see her in her new Rigging, and that he would have her come to Northampton, but withal in as great pomp as possibly she could &amp;c.</p>
+               <p>In her defence she said that she had been a Servant to her Mother Rachel Nace, and that her Mother had used her money often times before, so she thought now she might make bold with hers: She was found <rs id="t16931012-17-verdict64" type="verdictDescription">
+                     <interp inst="t16931012-17-verdict64" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16931012-17-punish65" type="punishmentDescription">
+                     <interp inst="t16931012-17-punish65" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16931012-17-punish65" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16931012-17-defend64 t16931012-17-punish65"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18461026-2071">
+               <interp inst="t18461026-2071" type="uri" value="sessionsPapers/18461026"></interp>
+               <interp inst="t18461026-2071" type="date" value="18461026"></interp>
+               <join result="criminalCharge" id="t18461026-2071-charge-1" targOrder="Y" targets="def1-2071-18461026 t18461026-2071-offence-1 t18461026-2071-verdict-1"></join>
+               <join result="criminalCharge" id="t18461026-2071-charge-2" targOrder="Y" targets="def2-2071-18461026 t18461026-2071-offence-1 t18461026-2071-verdict-3"></join>
+               <join result="criminalCharge" id="t18461026-2071-charge-3" targOrder="Y" targets="def3-2071-18461026 t18461026-2071-offence-2 t18461026-2071-verdict-2"></join>
+               <p>2071. <persName id="def1-2071-18461026" type="defendantName">
+                     <interp inst="def1-2071-18461026" type="gender" value="male"></interp>
+                     <interp inst="def1-2071-18461026" type="age" value="25"></interp>
+                     <interp inst="def1-2071-18461026" type="surname" value="EDWARDS"></interp>
+                     <interp inst="def1-2071-18461026" type="given" value="JOHN"></interp>
+                     <hi rend="largeCaps">JOHN EDWARDS</hi>
+                  </persName> and <persName id="def2-2071-18461026" type="defendantName">
+                     <interp inst="def2-2071-18461026" type="gender" value="female"></interp>
+                     <interp inst="def2-2071-18461026" type="surname" value="GREEN"></interp>
+                     <interp inst="def2-2071-18461026" type="given" value="MARTHA"></interp>
+                     <hi rend="largeCaps">MARTHA GREEN</hi>
+                  </persName> were indicted for<rs id="t18461026-2071-offence-1" type="offenceDescription">
+                     <interp inst="t18461026-2071-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18461026-2071-offence-1" type="offenceSubcategory" value="stealingFromMaster"></interp> stealing 56lbs. weight of sugar, value 2<hi rend="italic">l</hi>. 8<hi rend="italic">s</hi>., the goods of <persName id="t18461026-name-496" type="victimName">
+                        <interp inst="t18461026-name-496" type="gender" value="male"></interp>
+                        <interp inst="t18461026-name-496" type="surname" value="HAWTHORN"></interp>
+                        <interp inst="t18461026-name-496" type="given" value="HENRY LEIGHTON MAYO"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18461026-2071-offence-1 t18461026-name-496"></join>Henry Leighton Mayo Hawthorn</persName>, the master of John Edwards; and </rs>
+                  <persName id="def3-2071-18461026" type="defendantName">
+                     <interp inst="def3-2071-18461026" type="gender" value="male"></interp>
+                     <interp inst="def3-2071-18461026" type="age" value="35"></interp>
+                     <interp inst="def3-2071-18461026" type="surname" value="GREEN"></interp>
+                     <interp inst="def3-2071-18461026" type="given" value="RICHARD"></interp>
+                     <hi rend="largeCaps">RICHARD GREEN</hi>
+                  </persName>
+                  <rs id="t18461026-2071-offence-2" type="offenceDescription">
+                     <interp inst="t18461026-2071-offence-2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18461026-2071-offence-2" type="offenceSubcategory" value="stealingFromMaster"></interp> for feloniously inciting them to do and commit the said felony, and felo<lb></lb>niously receiving the said goods, knowing them to have been stolen; to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">JOHN EDWARDS</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18461026-2071-verdict-1" type="verdictDescription">
+                        <interp inst="t18461026-2071-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18461026-2071-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 25.</p>
+               <p>
+                  <hi rend="largeCaps">RICHARD GREEN</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18461026-2071-verdict-2" type="verdictDescription">
+                        <interp inst="t18461026-2071-verdict-2" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18461026-2071-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 35.</p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18461026-2071-punishment-77" type="punishmentDescription">
+                        <interp inst="t18461026-2071-punishment-77" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18461026-2071-punishment-77" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-2071-18461026 t18461026-2071-punishment-77"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def3-2071-18461026 t18461026-2071-punishment-77"></join>Confined Three Months</rs>.</hi>
+               </p>
+               <p>
+                  <rs id="t18461026-2071-verdict-3" type="verdictDescription">
+                     <interp inst="t18461026-2071-verdict-3" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t18461026-2071-verdict-3" type="verdictSubcategory" value="noEvidence"></interp>
+                     <hi rend="smallCaps">MR. HUDDLESTON</hi> offered no evidence against Martha Green, who was accordingly acquitted.</rs>
+               </p>
+            </div1>

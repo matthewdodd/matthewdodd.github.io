@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16961209-45">
+               <interp inst="t16961209-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t16961209-45" type="year" value="1696"></interp>
+               <interp inst="t16961209-45" type="uri" value="sessionsPapers/16961209"></interp>
+               <interp inst="t16961209-45" type="date" value="16961209"></interp>
+               <join result="criminalCharge" id="t16961209-45-off260-c141" targOrder="Y" targets="t16961209-45-defend141 t16961209-45-off260 t16961209-45-verdict265"></join>
+               <join result="criminalCharge" id="t16961209-45-off260-c142" targOrder="Y" targets="t16961209-45-defend142 t16961209-45-off260 t16961209-45-verdict264"></join>
+               <join result="criminalCharge" id="t16961209-45-off260-c143" targOrder="Y" targets="t16961209-45-defend143 t16961209-45-off260 t16961209-45-verdict264"></join>
+         
+               <p>
+            
+                  <persName id="t16961209-45-defend141" type="defendantName">
+                  Joseph 
+                  Wynne alias <rs id="t16961209-45-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16961209-45-defend141 t16961209-45-alias-8"></join>Wing</rs>
+                     <interp inst="t16961209-45-defend141" type="surname" value="Wynne"></interp>
+                     <interp inst="t16961209-45-defend141" type="given" value="Joseph"></interp>
+                     <interp inst="t16961209-45-defend141" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16961209-45-defend142" type="defendantName">
+                  Anne 
+                  Gibbons
+               <interp inst="t16961209-45-defend142" type="surname" value="Gibbons"></interp>
+                     <interp inst="t16961209-45-defend142" type="given" value="Anne"></interp>
+                     <interp inst="t16961209-45-defend142" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16961209-45-defend143" type="defendantName">
+                  Anthony 
+                  Hiliyard
+               <interp inst="t16961209-45-defend143" type="surname" value="Hiliyard"></interp>
+                     <interp inst="t16961209-45-defend143" type="given" value="Anthony"></interp>
+                     <interp inst="t16961209-45-defend143" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16961209-45-defloc259">St. Anne's Westminster</placeName>
+                  <interp inst="t16961209-45-defloc259" type="placeName" value="St. Anne's Westminster"></interp>
+                  <interp inst="t16961209-45-defloc259" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-45-defend141 t16961209-45-defloc259"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-45-defend142 t16961209-45-defloc259"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-45-defend143 t16961209-45-defloc259"></join>, were Indicted for <rs id="t16961209-45-off260" type="offenceDescription">
+                     <interp inst="t16961209-45-off260" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16961209-45-off260" type="offenceSubcategory" value="coiningOffences"></interp>
+               clipping and coining the currant Coin of this Kingdom
+            </rs>, on the <rs id="t16961209-45-cd261" type="crimeDate">10th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16961209-45-off260 t16961209-45-cd261"></join> last. The Evidence declared that Wynne did go by the name of Comical Joe, and was the oldest Clipper and Coiner in England; that he did see him both Clip and Coin in <placeName id="t16961209-45-crimeloc262">Long-lane</placeName>
+                  <interp inst="t16961209-45-crimeloc262" type="placeName" value="Long-lane"></interp>
+                  <interp inst="t16961209-45-crimeloc262" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16961209-45-off260 t16961209-45-crimeloc262"></join> and <placeName id="t16961209-45-crimeloc263">Red-Lion street</placeName>
+                  <interp inst="t16961209-45-crimeloc263" type="placeName" value="Red-Lion street"></interp>
+                  <interp inst="t16961209-45-crimeloc263" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16961209-45-off260 t16961209-45-crimeloc263"></join>: There was another Evidence that did declare, that he did sell him a pair of Stamps and an Edger. He pretended himself to be Sick upon his Trial, but afterwards could speak as well as any man. There was no Evidence against Gibbons and Hillyard, and so they were <rs id="t16961209-45-verdict264" type="verdictDescription">
+                     <interp inst="t16961209-45-verdict264" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>; but Wynne was found <rs id="t16961209-45-verdict265" type="verdictDescription">
+                     <interp inst="t16961209-45-verdict265" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16961209-45-punish266" type="punishmentDescription">
+                     <interp inst="t16961209-45-punish266" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16961209-45-defend141 t16961209-45-punish266"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

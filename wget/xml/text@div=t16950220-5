@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16950220-5">
+               <interp inst="t16950220-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t16950220-5" type="year" value="1695"></interp>
+               <interp inst="t16950220-5" type="uri" value="sessionsPapers/16950220"></interp>
+               <interp inst="t16950220-5" type="date" value="16950220"></interp>
+               <join result="criminalCharge" id="t16950220-5-off17-c35" targOrder="Y" targets="t16950220-5-defend35 t16950220-5-off17 t16950220-5-verdict21"></join>
+               <join result="criminalCharge" id="t16950220-5-off17-c36" targOrder="Y" targets="t16950220-5-defend36 t16950220-5-off17 t16950220-5-verdict20"></join>
+         
+               <p>
+            
+                  <persName id="t16950220-5-defend35" type="defendantName">
+                  Martha 
+                  Free
+               <interp inst="t16950220-5-defend35" type="surname" value="Free"></interp>
+                     <interp inst="t16950220-5-defend35" type="given" value="Martha"></interp>
+                     <interp inst="t16950220-5-defend35" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16950220-5-defend36" type="defendantName">
+                  Elizabeth 
+                  Jefforson
+               <interp inst="t16950220-5-defend36" type="surname" value="Jefforson"></interp>
+                     <interp inst="t16950220-5-defend36" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16950220-5-defend36" type="gender" value="female"></interp>
+                  </persName>
+            , were both arraigned for <rs id="t16950220-5-off17" type="offenceDescription">
+                     <interp inst="t16950220-5-off17" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16950220-5-off17" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 3 Legs of Mutton, value 6s. 6d. a Shoulder of Mutton 18d. 5 Quarters of Lamb 10s. 6d. a Lambs head 6d. a Hind-quarter of Veal 6s. the Goods of 
+                     <persName id="t16950220-5-victim37" type="victimName">
+                        James 
+                        Lauson
+                     <interp inst="t16950220-5-victim37" type="surname" value="Lauson"></interp>
+                        <interp inst="t16950220-5-victim37" type="given" value="James"></interp>
+                        <interp inst="t16950220-5-victim37" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16950220-5-off17 t16950220-5-victim37"></join>
+                     </persName>
+                  , a <rs id="t16950220-5-viclabel18" type="occupation">Butcher</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16950220-5-victim37 t16950220-5-viclabel18"></join>, in <placeName id="t16950220-5-crimeloc19">Newgate-market</placeName>
+                     <interp inst="t16950220-5-crimeloc19" type="placeName" value="Newgate-market"></interp>
+                     <interp inst="t16950220-5-crimeloc19" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16950220-5-off17 t16950220-5-crimeloc19"></join>
+               
+                  </rs>. Jefforson immediately <rs id="t16950220-5-verdict20" type="verdictDescription">
+                     <interp inst="t16950220-5-verdict20" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16950220-5-verdict20" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               confest
+            </rs> the Fact, but Free was tried for the same; and Lauson swore, That he lost his meat out of his Shop the 13th of this Instant February at night, which was found upon Jefferson, and the Prisoner Free had sold some of it in St. Giles's at a Cooks, and she was concerned with Jefforson in carrying on the whole matter, and employ'd her to carry the meat, which she confest before the Justice when first taken. She was found <rs id="t16950220-5-verdict21" type="verdictDescription">
+                     <interp inst="t16950220-5-verdict21" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16950220-5-verdict21" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty of Felony, to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16950220-5-punish22" type="punishmentDescription">
+                     <interp inst="t16950220-5-punish22" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16950220-5-punish22" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16950220-5-defend35 t16950220-5-punish22"></join>
+               
+                     <note>[Free: Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16950220-5-punish23" type="punishmentDescription">
+                     <interp inst="t16950220-5-punish23" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16950220-5-punish23" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16950220-5-defend36 t16950220-5-punish23"></join>
+               
+                     <note>[Jefforson: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

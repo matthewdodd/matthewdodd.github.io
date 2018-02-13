@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170227-50">
+               <interp inst="t17170227-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170227-50" type="year" value="1717"></interp>
+               <interp inst="t17170227-50" type="uri" value="sessionsPapers/17170227"></interp>
+               <interp inst="t17170227-50" type="date" value="17170227"></interp>
+               <join result="criminalCharge" id="t17170227-50-off248-c188" targOrder="Y" targets="t17170227-50-defend300 t17170227-50-off248 t17170227-50-verdict252"></join>
+               <join result="criminalCharge" id="t17170227-50-off248-c189" targOrder="Y" targets="t17170227-50-defend302 t17170227-50-off248 t17170227-50-verdict251"></join>
+               <join result="criminalCharge" id="t17170227-50-off250-c188" targOrder="Y" targets="t17170227-50-defend300 t17170227-50-off250 t17170227-50-verdict252"></join>
+               <join result="criminalCharge" id="t17170227-50-off250-c189" targOrder="Y" targets="t17170227-50-defend302 t17170227-50-off250 t17170227-50-verdict251"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170227-50-defend300" type="defendantName">
+                     Elizabeth 
+                     Hall 
+                  <interp inst="t17170227-50-defend300" type="surname" value="Hall"></interp>
+                     <interp inst="t17170227-50-defend300" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17170227-50-defend300" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17170227-50-defend302" type="defendantName">
+                     Ann 
+                     Williams 
+                  <interp inst="t17170227-50-defend302" type="surname" value="Williams"></interp>
+                     <interp inst="t17170227-50-defend302" type="given" value="Ann"></interp>
+                     <interp inst="t17170227-50-defend302" type="gender" value="female"></interp>
+                  </persName>
+                
+            , of <placeName id="t17170227-50-defloc247">St. Andrew's Holbourn</placeName>
+                  <interp inst="t17170227-50-defloc247" type="placeName" value="St. Andrew's Holbourn"></interp>
+                  <interp inst="t17170227-50-defloc247" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170227-50-defend300 t17170227-50-defloc247"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170227-50-defend302 t17170227-50-defloc247"></join> , were indicted for <rs id="t17170227-50-off248" type="offenceDescription">
+                     <interp inst="t17170227-50-off248" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170227-50-off248" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Quilt, value 15 s. and other Goods to the val.55 s.
+            </rs> the goods of 
+               
+                  <persName id="t17170227-50-victim304" type="victimName">
+                     Henry 
+                     Flip 
+                  <interp inst="t17170227-50-victim304" type="surname" value="Flip"></interp>
+                     <interp inst="t17170227-50-victim304" type="given" value="Henry"></interp>
+                     <interp inst="t17170227-50-victim304" type="gender" value="male"></interp>
+                  </persName>
+                
+            , the <rs id="t17170227-50-cd249" type="crimeDate">16 of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170227-50-off248 t17170227-50-cd249"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170227-50-off250 t17170227-50-cd249"></join> last.</p>
+               <p>They were a Second time indicted for <rs id="t17170227-50-off250" type="offenceDescription">
+                     <interp inst="t17170227-50-off250" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170227-50-off250" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing wearing Apparel and Linnen to to the value of 5 l
+            </rs> the Goods of 
+               
+                  <persName id="t17170227-50-victim306" type="victimName">
+                     William 
+                     Scalrack 
+                  <interp inst="t17170227-50-victim306" type="surname" value="Scalrack"></interp>
+                     <interp inst="t17170227-50-victim306" type="given" value="William"></interp>
+                     <interp inst="t17170227-50-victim306" type="gender" value="male"></interp>
+                  </persName>
+                
+             . There was no Evidence against Williams, but that she was seen to go down the cellar after the other, so she was <rs id="t17170227-50-verdict251" type="verdictDescription">
+                     <interp inst="t17170227-50-verdict251" type="verdictCategory" value="notGuilty"></interp>
+               acquited
+            </rs>, and Eliz. Hall, was found <rs id="t17170227-50-verdict252" type="verdictDescription">
+                     <interp inst="t17170227-50-verdict252" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170227-50-verdict252" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty to the Value of 4 s 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17170227-50-punish253" type="punishmentDescription">
+                     <interp inst="t17170227-50-punish253" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17170227-50-punish253" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170227-50-defend300 t17170227-50-punish253"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170227-50-defend302 t17170227-50-punish253"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

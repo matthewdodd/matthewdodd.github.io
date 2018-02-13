@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18741214-67">
+               <interp inst="t18741214-67" type="uri" value="sessionsPapers/18741214"></interp>
+               <interp inst="t18741214-67" type="date" value="18741214"></interp>
+               <join result="criminalCharge" id="t18741214-67-charge-1" targOrder="Y" targets="def1-67-18741214 t18741214-67-offence-1 t18741214-67-verdict-1"></join>
+               <join result="criminalCharge" id="t18741214-67-charge-2" targOrder="Y" targets="def2-67-18741214 t18741214-67-offence-1 t18741214-67-verdict-2"></join>
+               <join result="criminalCharge" id="t18741214-67-charge-3" targOrder="Y" targets="def3-67-18741214 t18741214-67-offence-1 t18741214-67-verdict-1"></join>
+               <p>67. <persName id="def1-67-18741214" type="defendantName">
+                     <interp inst="def1-67-18741214" type="gender" value="male"></interp>
+                     <interp inst="def1-67-18741214" type="age" value="16"></interp>
+                     <interp inst="def1-67-18741214" type="surname" value="KING"></interp>
+                     <interp inst="def1-67-18741214" type="given" value="ARTHUR HARRIS"></interp>
+                     <hi rend="largeCaps">ARTHUR HARRIS KING</hi>
+                  </persName> (16,) <persName id="def2-67-18741214" type="defendantName">
+                     <interp inst="def2-67-18741214" type="gender" value="male"></interp>
+                     <interp inst="def2-67-18741214" type="age" value="16"></interp>
+                     <interp inst="def2-67-18741214" type="surname" value="VERNON"></interp>
+                     <interp inst="def2-67-18741214" type="given" value="JAMES"></interp>
+                     <hi rend="largeCaps">JAMES VERNON</hi> (16)</persName>, and <persName id="def3-67-18741214" type="defendantName">
+                     <interp inst="def3-67-18741214" type="gender" value="male"></interp>
+                     <interp inst="def3-67-18741214" type="age" value="16"></interp>
+                     <interp inst="def3-67-18741214" type="surname" value="KNOTZ"></interp>
+                     <interp inst="def3-67-18741214" type="given" value="AUGUSTE"></interp>
+                     <hi rend="largeCaps">AUGUSTE KNOTZ</hi> (16)</persName>
+                  <rs id="t18741214-67-offence-1" type="offenceDescription">
+                     <interp inst="t18741214-67-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18741214-67-offence-1" type="offenceSubcategory" value="stealingFromMaster"></interp>, Stealing one piece of gold, and other articles, the property of <persName id="t18741214-name-24" type="victimName">
+                        <interp inst="t18741214-name-24" type="gender" value="male"></interp>
+                        <interp inst="t18741214-name-24" type="surname" value="WAYLETT"></interp>
+                        <interp inst="t18741214-name-24" type="given" value="ROBERT RICHARD"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18741214-67-offence-1 t18741214-name-24"></join>Robert Richard Waylett</persName>, the master of King.</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">KING</hi> and <hi rend="largeCaps">KNOTZ</hi> 
+                  <hi rend="smallCaps">
+                     <rs id="t18741214-67-verdict-1" type="verdictDescription">
+                        <interp inst="t18741214-67-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18741214-67-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>.</p>
+               <p>
+                  <hi rend="smallCaps">MR. ST. AUBYN</hi>, <hi rend="italic">for the Prosecu<lb></lb>tion, offered no evidence against</hi>
+               </p>
+               <p>
+                  <hi rend="largeCaps">VERNON</hi>—<hi rend="smallCaps">
+                     <rs id="t18741214-67-verdict-2" type="verdictDescription">
+                        <interp inst="t18741214-67-verdict-2" type="verdictCategory" value="notGuilty"></interp>
+                        <interp inst="t18741214-67-verdict-2" type="verdictSubcategory" value="noEvidence"></interp>NOT GUILTY</rs>
+                  </hi>.</p>
+               <p>
+                  <hi rend="italic">King and Knotz received good characters, and King was recommended to mercy by the prosecutor.</hi>
+               </p>
+               <p>
+                  <hi rend="largeCaps">KING</hi>—<hi rend="italic">
+                     <rs id="t18741214-67-punishment-2" type="punishmentDescription">
+                        <interp inst="t18741214-67-punishment-2" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18741214-67-punishment-2" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-67-18741214 t18741214-67-punishment-2"></join>Three Months' Imprisonment.</rs>
+                  </hi>
+               </p>
+               <p>
+                  <hi rend="largeCaps">KNOTZ</hi>—<hi rend="italic">
+                     <rs id="t18741214-67-punishment-3" type="punishmentDescription">
+                        <interp inst="t18741214-67-punishment-3" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18741214-67-punishment-3" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def3-67-18741214 t18741214-67-punishment-3"></join>Six Months' Imprisonment.</rs>
+                  </hi>
+               </p>
+            </div1>

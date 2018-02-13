@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980608-65">
+               <interp inst="t16980608-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980608-65" type="year" value="1698"></interp>
+               <interp inst="t16980608-65" type="uri" value="sessionsPapers/16980608"></interp>
+               <interp inst="t16980608-65" type="date" value="16980608"></interp>
+               <join result="criminalCharge" id="t16980608-65-off305-c175" targOrder="Y" targets="t16980608-65-defend175 t16980608-65-off305 t16980608-65-verdict307"></join>
+         
+               <p>
+            
+                  <persName id="t16980608-65-defend175" type="defendantName">
+                  John 
+                  Dormet alias <rs id="t16980608-65-alias-6" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16980608-65-defend175 t16980608-65-alias-6"></join>Bennet</rs>
+                     <interp inst="t16980608-65-defend175" type="surname" value="Dormet"></interp>
+                     <interp inst="t16980608-65-defend175" type="given" value="John"></interp>
+                     <interp inst="t16980608-65-defend175" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16980608-65-defloc304">Fulham</placeName>
+                  <interp inst="t16980608-65-defloc304" type="placeName" value="Fulham"></interp>
+                  <interp inst="t16980608-65-defloc304" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-65-defend175 t16980608-65-defloc304"></join>, was Indicted for a Misdemeanor, for <rs id="t16980608-65-off305" type="offenceDescription">
+                     <interp inst="t16980608-65-off305" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980608-65-off305" type="offenceSubcategory" value="theftFromPlace"></interp>
+               taking some Iron-bars from the Freehold of 
+                     <persName id="t16980608-65-victim176" type="victimName">
+                        George 
+                        Tradway
+                     <interp inst="t16980608-65-victim176" type="surname" value="Tradway"></interp>
+                        <interp inst="t16980608-65-victim176" type="given" value="George"></interp>
+                        <interp inst="t16980608-65-victim176" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980608-65-off305 t16980608-65-victim176"></join>
+                     </persName>
+                  , on the <rs id="t16980608-65-cd306" type="crimeDate">14th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980608-65-off305 t16980608-65-cd306"></join>
+               
+                  </rs>: but there being no Evidence, he was <rs id="t16980608-65-verdict307" type="verdictDescription">
+                     <interp inst="t16980608-65-verdict307" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16980608-65-verdict307" type="verdictSubcategory" value="noEvidence"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

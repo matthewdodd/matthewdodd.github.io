@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940221-31">
+               <interp inst="t16940221-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940221-31" type="year" value="1694"></interp>
+               <interp inst="t16940221-31" type="uri" value="sessionsPapers/16940221"></interp>
+               <interp inst="t16940221-31" type="date" value="16940221"></interp>
+               <join result="criminalCharge" id="t16940221-31-off126-c96" targOrder="Y" targets="t16940221-31-defend97 t16940221-31-off126 t16940221-31-verdict130"></join>
+         
+               <p>
+            
+                  <persName id="t16940221-31-defend97" type="defendantName">
+                  Henry 
+                  Hooper
+               <interp inst="t16940221-31-defend97" type="surname" value="Hooper"></interp>
+                     <interp inst="t16940221-31-defend97" type="given" value="Henry"></interp>
+                     <interp inst="t16940221-31-defend97" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16940221-31-defloc125">St. Andrews Holbourn</placeName>
+                  <interp inst="t16940221-31-defloc125" type="placeName" value="St. Andrews Holbourn"></interp>
+                  <interp inst="t16940221-31-defloc125" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16940221-31-defend97 t16940221-31-defloc125"></join> was Indicted for Felony, for <rs id="t16940221-31-off126" type="offenceDescription">
+                     <interp inst="t16940221-31-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16940221-31-off126" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a black Gelding
+            </rs> on the <rs id="t16940221-31-cd127" type="crimeDate">fourth of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16940221-31-off126 t16940221-31-cd127"></join>, from <rs id="t16940221-31-viclabel128" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16940221-31-victim98 t16940221-31-viclabel128"></join> 
+            
+                  <persName id="t16940221-31-victim98" type="victimName">
+                  Edward 
+                  Atkins
+               <interp inst="t16940221-31-victim98" type="surname" value="Atkins"></interp>
+                     <interp inst="t16940221-31-victim98" type="given" value="Edward"></interp>
+                     <interp inst="t16940221-31-victim98" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16940221-31-off126 t16940221-31-victim98"></join>
+                  </persName>
+             at <placeName id="t16940221-31-crimeloc129">South Picnam in Norfolk</placeName>
+                  <interp inst="t16940221-31-crimeloc129" type="placeName" value="South Picnam in Norfolk"></interp>
+                  <interp inst="t16940221-31-crimeloc129" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16940221-31-off126 t16940221-31-crimeloc129"></join>; the Evidence said, That the Gelding was taken out of the stable, and it being put in the Gazette, was found near Grays-Inn-Lane in the Prisoners Custody, who offered it to sale; the Prisoner alledged that he changed a Horse with a man called 
+               <persName id="t16940221-31-person99">
+                  Jeffery 
+                  Land
+               <interp inst="t16940221-31-person99" type="surname" value="Land"></interp>
+                     <interp inst="t16940221-31-person99" type="given" value="Jeffery"></interp>
+                     <interp inst="t16940221-31-person99" type="gender" value="male"></interp>
+                  </persName>
+             of Luddington the Monday following for this Gelding, but could not prove the same, so he was found <rs id="t16940221-31-verdict130" type="verdictDescription">
+                     <interp inst="t16940221-31-verdict130" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16940221-31-punish131" type="punishmentDescription">
+                     <interp inst="t16940221-31-punish131" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940221-31-defend97 t16940221-31-punish131"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

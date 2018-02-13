@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150427-47">
+               <interp inst="t17150427-47" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150427-47" type="year" value="1715"></interp>
+               <interp inst="t17150427-47" type="uri" value="sessionsPapers/17150427"></interp>
+               <interp inst="t17150427-47" type="date" value="17150427"></interp>
+               <join result="criminalCharge" id="t17150427-47-off248-c151" targOrder="Y" targets="t17150427-47-defend246 t17150427-47-off248 t17150427-47-verdict250"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150427-47-defend246" type="defendantName">
+                     Margaret 
+                     Birch 
+                  <interp inst="t17150427-47-defend246" type="surname" value="Birch"></interp>
+                     <interp inst="t17150427-47-defend246" type="given" value="Margaret"></interp>
+                     <interp inst="t17150427-47-defend246" type="gender" value="female"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17150427-47-defloc247">St. Margaret Westminster</placeName>
+                  <interp inst="t17150427-47-defloc247" type="placeName" value="St. Margaret Westminster"></interp>
+                  <interp inst="t17150427-47-defloc247" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150427-47-defend246 t17150427-47-defloc247"></join>, was indicted for <rs id="t17150427-47-off248" type="offenceDescription">
+                     <interp inst="t17150427-47-off248" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150427-47-off248" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Gown , value 20 s. and 4 l. 10 s. in Money
+            </rs>, the Goods and Money of 
+               
+                  <persName id="t17150427-47-victim248" type="victimName">
+                     Thomas 
+                     Smith 
+                  <interp inst="t17150427-47-victim248" type="surname" value="Smith"></interp>
+                     <interp inst="t17150427-47-victim248" type="given" value="Thomas"></interp>
+                     <interp inst="t17150427-47-victim248" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150427-47-off248 t17150427-47-victim248"></join>
+                  </persName>
+                
+            , on the <rs id="t17150427-47-cd249" type="crimeDate">25th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150427-47-off248 t17150427-47-cd249"></join> last. The Prisoner did not deny the Fact, but said she did it for want; and the Prosecutor having his Goods and Money again, she was found <rs id="t17150427-47-verdict250" type="verdictDescription">
+                     <interp inst="t17150427-47-verdict250" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17150427-47-verdict250" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17150427-47-punish251" type="punishmentDescription">
+                     <interp inst="t17150427-47-punish251" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17150427-47-punish251" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150427-47-defend246 t17150427-47-punish251"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17770910-39">
+               <interp inst="t17770910-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17770910-39" type="year" value="1777"></interp>
+               <interp inst="t17770910-39" type="uri" value="sessionsPapers/17770910"></interp>
+               <interp inst="t17770910-39" type="date" value="17770910"></interp>
+               <join result="criminalCharge" id="t17770910-39-off198-c285" targOrder="Y" targets="t17770910-39-defend373 t17770910-39-off198 t17770910-39-verdict202"></join>
+         
+               <p>540. 
+               
+                  <persName id="t17770910-39-defend373" type="defendantName">
+                     MATTHEW
+                      M'QUIRE
+                  <interp inst="t17770910-39-defend373" type="surname" value="M'QUIRE"></interp>
+                     <interp inst="t17770910-39-defend373" type="given" value="MATTHEW"></interp>
+                     <interp inst="t17770910-39-defend373" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17770910-39-off198" type="offenceDescription">
+                     <interp inst="t17770910-39-off198" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17770910-39-off198" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pair of stays, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17770910-39-victim375" type="victimName">
+                     Mary
+                      King
+                  <interp inst="t17770910-39-victim375" type="surname" value="King"></interp>
+                     <interp inst="t17770910-39-victim375" type="given" value="Mary"></interp>
+                     <interp inst="t17770910-39-victim375" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17770910-39-off198 t17770910-39-victim375"></join>
+                  </persName>
+               
+            , <rs id="t17770910-39-viclabel199" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17770910-39-victim375 t17770910-39-viclabel199"></join>, <rs id="t17770910-39-cd200" type="crimeDate">July 22d</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17770910-39-off198 t17770910-39-cd200"></join>.</p>
+               <p>
+            
+                  <persName id="t17770910-39-person376">
+                  MARY
+                   KING
+               <interp inst="t17770910-39-person376" type="surname" value="KING"></interp>
+                     <interp inst="t17770910-39-person376" type="given" value="MARY"></interp>
+                     <interp inst="t17770910-39-person376" type="gender" value="female"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I live at <placeName id="t17770910-39-crimeloc201">the Horse and Groom, King's-street, Seven Dials</placeName>
+                  <interp inst="t17770910-39-crimeloc201" type="placeName" value="the Horse and Groom, King's-street, Seven Dials"></interp>
+                  <interp inst="t17770910-39-crimeloc201" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17770910-39-off198 t17770910-39-crimeloc201"></join>: the prisoner came to our house and called for a pint of beer; he went backwards into the yard; just after that I heard him come down stairs; I went up and missed my stays; he was stopped, and the stays taken upon him.</p>
+               <p>[The stays were produced in Court, and deposed to by the prosecutrix.]</p>
+               <p>
+            
+                  <persName id="t17770910-39-person377">
+                  SAMUEL
+                   ARCHIBALD
+               <interp inst="t17770910-39-person377" type="surname" value="ARCHIBALD"></interp>
+                     <interp inst="t17770910-39-person377" type="given" value="SAMUEL"></interp>
+                     <interp inst="t17770910-39-person377" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I am master of the house: I saw the prisoner come down stairs; I followed him and found the stays between his shirt and skin.</p>
+               <p>PRISONER's DEFENCE.</p>
+               <p>It was no such thing.</p>
+               <p>
+                  <rs id="t17770910-39-verdict202" type="verdictDescription">
+                     <interp inst="t17770910-39-verdict202" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>Tried by the Second Middlesex Jury before Mr. RECORDER.</p>
+               <p>
+                  <rs id="t17770910-39-punish203" type="punishmentDescription">
+                     <interp inst="t17770910-39-punish203" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17770910-39-punish203" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17770910-39-defend373 t17770910-39-punish203"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17770910-39-punish204" type="punishmentDescription">
+                     <interp inst="t17770910-39-punish204" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17770910-39-defend373 t17770910-39-punish204"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

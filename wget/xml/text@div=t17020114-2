@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17020114-2">
+               <interp inst="t17020114-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17020114-2" type="year" value="1702"></interp>
+               <interp inst="t17020114-2" type="uri" value="sessionsPapers/17020114"></interp>
+               <interp inst="t17020114-2" type="date" value="17020114"></interp>
+               <join result="criminalCharge" id="t17020114-2-off6-c29" targOrder="Y" targets="t17020114-2-defend29 t17020114-2-off6 t17020114-2-verdict10"></join>
+               <join result="criminalCharge" id="t17020114-2-off9-c30" targOrder="Y" targets="t17020114-2-defend30 t17020114-2-off9 t17020114-2-verdict11"></join>
+         
+               <p>
+            
+                  <persName id="t17020114-2-defend29" type="defendantName">
+                  Thomas 
+                  Man
+               <interp inst="t17020114-2-defend29" type="surname" value="Man"></interp>
+                     <interp inst="t17020114-2-defend29" type="given" value="Thomas"></interp>
+                     <interp inst="t17020114-2-defend29" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17020114-2-defend30" type="defendantName">
+                  Benjamin 
+                  Williams
+               <interp inst="t17020114-2-defend30" type="surname" value="Williams"></interp>
+                     <interp inst="t17020114-2-defend30" type="given" value="Benjamin"></interp>
+                     <interp inst="t17020114-2-defend30" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17020114-2-defloc5">St. Botolphs Billingsgate</placeName>
+                  <interp inst="t17020114-2-defloc5" type="placeName" value="St. Botolphs Billingsgate"></interp>
+                  <interp inst="t17020114-2-defloc5" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17020114-2-defend29 t17020114-2-defloc5"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17020114-2-defend30 t17020114-2-defloc5"></join>, were indicted for <rs id="t17020114-2-off6" type="offenceDescription">
+                     <interp inst="t17020114-2-off6" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17020114-2-off6" type="offenceSubcategory" value="grandLarceny"></interp>
+               Felony, (the first as Principal, and the other as Accessary after the Fact) for Stealing 1000 l. weight of Sugar value 25 l.
+            </rs> on the <rs id="t17020114-2-cd7" type="crimeDate">6th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17020114-2-off6 t17020114-2-cd7"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17020114-2-off9 t17020114-2-cd7"></join> last, the Goods of 
+               <persName id="t17020114-2-victim31" type="victimName">
+                  Benjamin 
+                  Braines
+               <interp inst="t17020114-2-victim31" type="surname" value="Braines"></interp>
+                     <interp inst="t17020114-2-victim31" type="given" value="Benjamin"></interp>
+                     <interp inst="t17020114-2-victim31" type="gender" value="male"></interp>
+                  </persName>
+            . The first Evidence deposed, That the Goods were in a Ware-house by <placeName id="t17020114-2-crimeloc8">Billingsgate</placeName>
+                  <interp inst="t17020114-2-crimeloc8" type="placeName" value="Billingsgate"></interp>
+                  <interp inst="t17020114-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17020114-2-off6 t17020114-2-crimeloc8"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17020114-2-off9 t17020114-2-crimeloc8"></join>, which was Padlockt up. Another Evidence deposed, That he and another went with Man, and broke open the Padlock, and then went to Williams, and told him what they had done; Williams lent them a Bag and some Matches, and at several times they brought away the Goods, <rs id="t17020114-2-off9" type="offenceDescription">
+                     <interp inst="t17020114-2-off9" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17020114-2-off9" type="offenceSubcategory" value="receiving"></interp>
+               and Williams gave them 28 s. a Hundred for it
+            </rs>. Another Evidence said, That he saw Williams give them the Bag, but was not present when they took the Goods. Man said, He never saw any of the Witnesses in all his Life; but that did not avail him: The Jury found him <rs id="t17020114-2-verdict10" type="verdictDescription">
+                     <interp inst="t17020114-2-verdict10" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>. Williams also denied the Fact, calling some Witnesses to prove his Reputation; but it being so plainly proved, he was also found <rs id="t17020114-2-verdict11" type="verdictDescription">
+                     <interp inst="t17020114-2-verdict11" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17020114-2-punish12" type="punishmentDescription">
+                     <interp inst="t17020114-2-punish12" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17020114-2-punish12" type="punishmentSubcategory" value="brandingOnCheek"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17020114-2-defend29 t17020114-2-punish12"></join>
+               
+                     <note>[Man: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

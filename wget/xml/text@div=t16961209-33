@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16961209-33">
+               <interp inst="t16961209-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16961209-33" type="year" value="1696"></interp>
+               <interp inst="t16961209-33" type="uri" value="sessionsPapers/16961209"></interp>
+               <interp inst="t16961209-33" type="date" value="16961209"></interp>
+               <join result="criminalCharge" id="t16961209-33-off193-c114" targOrder="Y" targets="t16961209-33-defend114 t16961209-33-off193 t16961209-33-verdict196"></join>
+               <join result="criminalCharge" id="t16961209-33-off193-c115" targOrder="Y" targets="t16961209-33-defend115 t16961209-33-off193 t16961209-33-verdict196"></join>
+         
+               <p>
+            
+                  <persName id="t16961209-33-defend114" type="defendantName">
+                  Ann 
+                  Nicholls
+               <interp inst="t16961209-33-defend114" type="surname" value="Nicholls"></interp>
+                     <interp inst="t16961209-33-defend114" type="given" value="Ann"></interp>
+                     <interp inst="t16961209-33-defend114" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16961209-33-defend115" type="defendantName">
+                  Mary 
+                  Phillet, alias <rs id="t16961209-33-alias-7" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16961209-33-defend115 t16961209-33-alias-7"></join>Cloth Doll</rs>
+                     <interp inst="t16961209-33-defend115" type="surname" value="Phillet"></interp>
+                     <interp inst="t16961209-33-defend115" type="given" value="Mary"></interp>
+                     <interp inst="t16961209-33-defend115" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16961209-33-defloc192">Stepney</placeName>
+                  <interp inst="t16961209-33-defloc192" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16961209-33-defloc192" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-33-defend114 t16961209-33-defloc192"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-33-defend115 t16961209-33-defloc192"></join>, were Indicted, together with 
+               <persName id="t16961209-33-person116">
+                  Mary 
+                  Seager
+               <interp inst="t16961209-33-person116" type="surname" value="Seager"></interp>
+                     <interp inst="t16961209-33-person116" type="given" value="Mary"></interp>
+                     <interp inst="t16961209-33-person116" type="gender" value="female"></interp>
+                  </persName>
+            , not yet Taken, for <rs id="t16961209-33-off193" type="offenceDescription">
+                     <interp inst="t16961209-33-off193" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16961209-33-off193" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, for breaking the House of 
+                     <persName id="t16961209-33-victim117" type="victimName">
+                        Ann 
+                        Denham
+                     <interp inst="t16961209-33-victim117" type="surname" value="Denham"></interp>
+                        <interp inst="t16961209-33-victim117" type="given" value="Ann"></interp>
+                        <interp inst="t16961209-33-victim117" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16961209-33-off193 t16961209-33-victim117"></join>
+                     </persName>
+                   
+                     <rs id="t16961209-33-viclabel194" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16961209-33-victim117 t16961209-33-viclabel194"></join>, on the <rs id="t16961209-33-cd195" type="crimeDate">19th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16961209-33-off193 t16961209-33-cd195"></join> last, and taking thence 1 Silver cup, 3 gilt Spoons, 2 Rings and 40 Guinea's; 4 20 s pieces of Gold, and 3 10 s. pieces, and 100 l. in Money
+            </rs>. It appeared that the Prosecutor's House was broke open and the Goods gone; some time after the Prisoners went to sell the Plate to a Goldsmith in Westminster, where the same was stopp'd, and word was sent to the Prosecutor where the Plate was. The Prisoners denied the Fact, and said that they knew nothing of the matter, but that Mary Seager brought the Plate to them to sell for her. There was none positive as to the Burglary; so the Jury acquitted them of that, and found them <rs id="t16961209-33-verdict196" type="verdictDescription">
+                     <interp inst="t16961209-33-verdict196" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16961209-33-verdict196" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t16961209-33-punish197" type="punishmentDescription">
+                     <interp inst="t16961209-33-punish197" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16961209-33-punish197" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16961209-33-defend114 t16961209-33-punish197"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16961209-33-defend115 t16961209-33-punish197"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

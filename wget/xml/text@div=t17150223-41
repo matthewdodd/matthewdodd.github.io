@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150223-41">
+               <interp inst="t17150223-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150223-41" type="year" value="1715"></interp>
+               <interp inst="t17150223-41" type="uri" value="sessionsPapers/17150223"></interp>
+               <interp inst="t17150223-41" type="date" value="17150223"></interp>
+               <join result="criminalCharge" id="t17150223-41-off200-c117" targOrder="Y" targets="t17150223-41-defend197 t17150223-41-off200 t17150223-41-verdict202"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150223-41-defend197" type="defendantName">
+                     Anthony 
+                     Rogers 
+                  <interp inst="t17150223-41-defend197" type="surname" value="Rogers"></interp>
+                     <interp inst="t17150223-41-defend197" type="given" value="Anthony"></interp>
+                     <interp inst="t17150223-41-defend197" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17150223-41-defloc199">St. Clement Danes</placeName>
+                  <interp inst="t17150223-41-defloc199" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17150223-41-defloc199" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150223-41-defend197 t17150223-41-defloc199"></join>, was indicted for <rs id="t17150223-41-off200" type="offenceDescription">
+                     <interp inst="t17150223-41-off200" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150223-41-off200" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a Cheshire-Cheese, value 5 s. out of the Shop
+            </rs> of 
+               
+                  <persName id="t17150223-41-victim199" type="victimName">
+                     Samuel 
+                     Eaton 
+                  <interp inst="t17150223-41-victim199" type="surname" value="Eaton"></interp>
+                     <interp inst="t17150223-41-victim199" type="given" value="Samuel"></interp>
+                     <interp inst="t17150223-41-victim199" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17150223-41-off200 t17150223-41-victim199"></join>
+                  </persName>
+                
+             , on the <rs id="t17150223-41-cd201" type="crimeDate">28th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150223-41-off200 t17150223-41-cd201"></join> last. The Prosecutor swore he lost the Cheese out of his Shop; and a Beadle depos'd, that seeing the Prisoner with the Cheese, and some loose Fellows with him, he seiz'd him upon Suspicion, and found it belong'd to Mr. Eaton. The Prisoner said another young Man had given him the Cheese to carry just before the Beadle met them; but that not being belive'd , he was found <rs id="t17150223-41-verdict202" type="verdictDescription">
+                     <interp inst="t17150223-41-verdict202" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17150223-41-verdict202" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17150223-41-punish203" type="punishmentDescription">
+                     <interp inst="t17150223-41-punish203" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17150223-41-punish203" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150223-41-defend197 t17150223-41-punish203"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

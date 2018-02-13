@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17850406-56">
+               <interp inst="t17850406-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17850406-56" type="year" value="1785"></interp>
+               <interp inst="t17850406-56" type="uri" value="sessionsPapers/17850406"></interp>
+               <interp inst="t17850406-56" type="date" value="17850406"></interp>
+               <join result="criminalCharge" id="t17850406-56-off274-c497" targOrder="Y" targets="t17850406-56-defend624 t17850406-56-off274 t17850406-56-verdict276"></join>
+               <join result="criminalCharge" id="t17850406-56-off274-c498" targOrder="Y" targets="t17850406-56-defend626 t17850406-56-off274 t17850406-56-verdict276"></join>
+         
+               <p>469. 
+               
+                  <persName id="t17850406-56-defend624" type="defendantName">
+                     JOHN 
+                     BANDEBUS
+                  <interp inst="t17850406-56-defend624" type="surname" value="BANDEBUS"></interp>
+                     <interp inst="t17850406-56-defend624" type="given" value="JOHN"></interp>
+                     <interp inst="t17850406-56-defend624" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17850406-56-defend626" type="defendantName">
+                     JOHN 
+                     COX
+                  <interp inst="t17850406-56-defend626" type="surname" value="COX"></interp>
+                     <interp inst="t17850406-56-defend626" type="given" value="JOHN"></interp>
+                     <interp inst="t17850406-56-defend626" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17850406-56-off274" type="offenceDescription">
+                     <interp inst="t17850406-56-off274" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17850406-56-off274" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing, on the <rs id="t17850406-56-cd275" type="crimeDate">7th day of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17850406-56-off274 t17850406-56-cd275"></join>, one gown, value 6 s.
+            </rs> the property of 
+               
+                  <persName id="t17850406-56-victim628" type="victimName">
+                     John 
+                     Bartlett
+                  <interp inst="t17850406-56-victim628" type="surname" value="Bartlett"></interp>
+                     <interp inst="t17850406-56-victim628" type="given" value="John"></interp>
+                     <interp inst="t17850406-56-victim628" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17850406-56-off274 t17850406-56-victim628"></join>
+                  </persName>
+               
+            .</p>
+               <p>BOTH <rs id="t17850406-56-verdict276" type="verdictDescription">
+                     <interp inst="t17850406-56-verdict276" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>
+                  <rs id="t17850406-56-punish277" type="punishmentDescription">
+                     <interp inst="t17850406-56-punish277" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17850406-56-punish277" type="punishmentSubcategory" value="privateWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17850406-56-defend624 t17850406-56-punish277"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17850406-56-defend626 t17850406-56-punish277"></join>
+               Privately whipped
+            </rs>.</p>
+            </div1>

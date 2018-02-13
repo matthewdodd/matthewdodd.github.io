@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18620127-251">
+               <interp inst="t18620127-251" type="uri" value="sessionsPapers/18620127"></interp>
+               <interp inst="t18620127-251" type="date" value="18620127"></interp>
+               <join result="criminalCharge" id="t18620127-251-charge-1" targOrder="Y" targets="def1-251-18620127 t18620127-251-offence-1 t18620127-251-verdict-1"></join>
+               <join result="criminalCharge" id="t18620127-251-charge-2" targOrder="Y" targets="def2-251-18620127 t18620127-251-offence-1 t18620127-251-verdict-1"></join>
+               <join result="criminalCharge" id="t18620127-251-charge-3" targOrder="Y" targets="def3-251-18620127 t18620127-251-offence-1 t18620127-251-verdict-1"></join>
+               <p>251. <persName id="def1-251-18620127" type="defendantName">
+                     <interp inst="def1-251-18620127" type="gender" value="male"></interp>
+                     <interp inst="def1-251-18620127" type="age" value="30"></interp>
+                     <interp inst="def1-251-18620127" type="surname" value="STANLEY"></interp>
+                     <interp inst="def1-251-18620127" type="given" value="HENRY"></interp>
+                     <hi rend="largeCaps">HENRY STANLEY</hi> (30)</persName>, <persName id="def2-251-18620127" type="defendantName">
+                     <interp inst="def2-251-18620127" type="gender" value="male"></interp>
+                     <interp inst="def2-251-18620127" type="age" value="17"></interp>
+                     <interp inst="def2-251-18620127" type="surname" value="THOMPSON"></interp>
+                     <interp inst="def2-251-18620127" type="given" value="WILLIAM"></interp>
+                     <hi rend="largeCaps">WILLIAM THOMPSON</hi> (17)</persName>, and <persName id="def3-251-18620127" type="defendantName">
+                     <interp inst="def3-251-18620127" type="gender" value="male"></interp>
+                     <interp inst="def3-251-18620127" type="age" value="20"></interp>
+                     <interp inst="def3-251-18620127" type="surname" value="SIMPKINS"></interp>
+                     <interp inst="def3-251-18620127" type="given" value="HENRY"></interp>
+                     <hi rend="largeCaps">HENRY SIMPKINS</hi> (20)</persName>
+                  <rs id="t18620127-251-offence-1" type="offenceDescription">
+                     <interp inst="t18620127-251-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18620127-251-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>, Stealing a coat and waistcoat, the property of <persName id="t18620127-name-247" type="victimName">
+                        <interp inst="t18620127-name-247" type="gender" value="male"></interp>
+                        <interp inst="t18620127-name-247" type="surname" value="JAMES"></interp>
+                        <interp inst="t18620127-name-247" type="given" value="ALFRED"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18620127-251-offence-1 t18620127-name-247"></join>Alfred James</persName>; to which they</rs>
+               </p>
+               <p>
+                  <hi rend="smallCaps">
+
+                     <rs id="t18620127-251-verdict-1" type="verdictDescription">
+                        <interp inst="t18620127-251-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18620127-251-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>.—<hi rend="italic">
+
+                     <rs id="t18620127-251-punishment-45" type="punishmentDescription">
+                        <interp inst="t18620127-251-punishment-45" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18620127-251-punishment-45" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-251-18620127 t18620127-251-punishment-45"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-251-18620127 t18620127-251-punishment-45"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def3-251-18620127 t18620127-251-punishment-45"></join>Confined Three Months each</rs>.</hi>
+               </p>
+            </div1>

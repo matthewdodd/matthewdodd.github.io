@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17081013-14">
+               <interp inst="t17081013-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17081013-14" type="year" value="1708"></interp>
+               <interp inst="t17081013-14" type="uri" value="sessionsPapers/17081013"></interp>
+               <interp inst="t17081013-14" type="date" value="17081013"></interp>
+               <join result="criminalCharge" id="t17081013-14-off70-c54" targOrder="Y" targets="t17081013-14-defend54 t17081013-14-off70 t17081013-14-verdict73"></join>
+         
+               <p>
+            
+                  <persName id="t17081013-14-defend54" type="defendantName">
+                  Elizabeth 
+                  Price
+               <interp inst="t17081013-14-defend54" type="surname" value="Price"></interp>
+                     <interp inst="t17081013-14-defend54" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17081013-14-defend54" type="gender" value="female"></interp>
+                  </persName>
+            , of <placeName id="t17081013-14-defloc68">St. Clement Danes</placeName>
+                  <interp inst="t17081013-14-defloc68" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17081013-14-defloc68" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17081013-14-defend54 t17081013-14-defloc68"></join>, <rs id="t17081013-14-deflabel69" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17081013-14-defend54 t17081013-14-deflabel69"></join>, was Indicted for <rs id="t17081013-14-off70" type="offenceDescription">
+                     <interp inst="t17081013-14-off70" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17081013-14-off70" type="offenceSubcategory" value="burglary"></interp>
+               breaking open the dwelling House of 
+                     <persName id="t17081013-14-victim55" type="victimName">
+                        John 
+                        Knight
+                     <interp inst="t17081013-14-victim55" type="surname" value="Knight"></interp>
+                        <interp inst="t17081013-14-victim55" type="given" value="John"></interp>
+                        <interp inst="t17081013-14-victim55" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17081013-14-off70 t17081013-14-victim55"></join>
+                     </persName>
+                  , <rs id="t17081013-14-viclabel71" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17081013-14-victim55 t17081013-14-viclabel71"></join>; in the Night time, and taking from thence a pair of Silver Candlesticks, a pair of Silver Snuffers, a Silver Snuff-pag, 10 Silver Spoons, a Silver Fork, a Cloth Coat, a Brocade Wastecoat, a large Quantity of Books; with other things to a considerable Value, the Goods of the said John Knight
+            </rs>, on the <rs id="t17081013-14-cd72" type="crimeDate">10th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17081013-14-off70 t17081013-14-cd72"></join> last. It appear'd by the Evidence, that the Prosecutor went into the Country the latter end of April last, and left his Chambers safe; but returning about 3 Months after, he found them broken open and the Goods taken away. That finding some of his Books at a Booksellers, the Bookseller produc'd the Person he bought them of, which was prov'd to be the Prisoner; and the Prisoner giving no Account how she came by them, the Jury found her <rs id="t17081013-14-verdict73" type="verdictDescription">
+                     <interp inst="t17081013-14-verdict73" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17081013-14-punish74" type="punishmentDescription">
+                     <interp inst="t17081013-14-punish74" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17081013-14-punish74" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081013-14-defend54 t17081013-14-punish74"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17081013-14-punish75" type="punishmentDescription">
+                     <interp inst="t17081013-14-punish75" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17081013-14-punish75" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17081013-14-defend54 t17081013-14-punish75"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

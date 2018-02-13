@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17091207-33">
+               <interp inst="t17091207-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17091207-33" type="year" value="1709"></interp>
+               <interp inst="t17091207-33" type="uri" value="sessionsPapers/17091207"></interp>
+               <interp inst="t17091207-33" type="date" value="17091207"></interp>
+               <join result="criminalCharge" id="t17091207-33-off138-c110" targOrder="Y" targets="t17091207-33-defend110 t17091207-33-off138 t17091207-33-verdict140"></join>
+         
+               <p>
+            
+                  <persName id="t17091207-33-defend110" type="defendantName">
+                  William 
+                  Ward
+               <interp inst="t17091207-33-defend110" type="surname" value="Ward"></interp>
+                     <interp inst="t17091207-33-defend110" type="given" value="William"></interp>
+                     <interp inst="t17091207-33-defend110" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17091207-33-defloc137">St. Mary Le Bow</placeName>
+                  <interp inst="t17091207-33-defloc137" type="placeName" value="St. Mary Le Bow"></interp>
+                  <interp inst="t17091207-33-defloc137" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17091207-33-defend110 t17091207-33-defloc137"></join>, was Indicted for <rs id="t17091207-33-off138" type="offenceDescription">
+                     <interp inst="t17091207-33-off138" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17091207-33-off138" type="offenceSubcategory" value="animalTheft"></interp>
+               feloniously stealing a red Cow, value 8 l.
+            </rs> the Goods of 
+               <persName id="t17091207-33-victim111" type="victimName">
+                  Joseph 
+                  Cornish
+               <interp inst="t17091207-33-victim111" type="surname" value="Cornish"></interp>
+                     <interp inst="t17091207-33-victim111" type="given" value="Joseph"></interp>
+                     <interp inst="t17091207-33-victim111" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17091207-33-off138 t17091207-33-victim111"></join>
+                  </persName>
+            , on the <rs id="t17091207-33-cd139" type="crimeDate">26th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17091207-33-off138 t17091207-33-cd139"></join> last. It appear'd that the Prosecutor lost his Cow from his Ground, which was found upon the Prisoner, who confess'd the Fact, the Jury found him <rs id="t17091207-33-verdict140" type="verdictDescription">
+                     <interp inst="t17091207-33-verdict140" type="verdictCategory" value="guilty"></interp>
+               guilty of Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17091207-33-punish141" type="punishmentDescription">
+                     <interp inst="t17091207-33-punish141" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17091207-33-punish141" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17091207-33-defend110 t17091207-33-punish141"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

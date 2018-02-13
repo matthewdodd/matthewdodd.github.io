@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18620407-441">
+               <interp inst="t18620407-441" type="uri" value="sessionsPapers/18620407"></interp>
+               <interp inst="t18620407-441" type="date" value="18620407"></interp>
+               <join result="criminalCharge" id="t18620407-441-charge-1" targOrder="Y" targets="def1-441-18620407 t18620407-441-offence-1 t18620407-441-verdict-1"></join>
+               <join result="criminalCharge" id="t18620407-441-charge-2" targOrder="Y" targets="def2-441-18620407 t18620407-441-offence-1 t18620407-441-verdict-1"></join>
+               <p>441. <persName id="def1-441-18620407" type="defendantName">
+                     <interp inst="def1-441-18620407" type="gender" value="female"></interp>
+                     <interp inst="def1-441-18620407" type="age" value="16"></interp>
+                     <interp inst="def1-441-18620407" type="surname" value="HAYDON"></interp>
+                     <interp inst="def1-441-18620407" type="given" value="MARY"></interp>
+                     <hi rend="largeCaps">MARY HAYDON</hi> (16)</persName>, and <persName id="def2-441-18620407" type="defendantName">
+                     <interp inst="def2-441-18620407" type="gender" value="female"></interp>
+                     <interp inst="def2-441-18620407" type="age" value="15"></interp>
+                     <interp inst="def2-441-18620407" type="surname" value="HOLMES"></interp>
+                     <interp inst="def2-441-18620407" type="given" value="MARIA"></interp>
+                     <hi rend="largeCaps">MARIA HOLMES</hi> (15)</persName>, <rs id="t18620407-441-offence-1" type="offenceDescription">
+                     <interp inst="t18620407-441-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18620407-441-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>Stealing 25 scarves, the property of <persName id="t18620407-name-263" type="victimName">
+                        <interp inst="t18620407-name-263" type="gender" value="male"></interp>
+                        <interp inst="t18620407-name-263" type="surname" value="KEYS"></interp>
+                        <interp inst="t18620407-name-263" type="given" value="THOMAS"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18620407-441-offence-1 t18620407-name-263"></join>Thomas Keys</persName>; to which they</rs>
+               </p>
+               <p>
+                  <rs id="t18620407-441-verdict-1" type="verdictDescription">
+                     <interp inst="t18620407-441-verdict-1" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t18620407-441-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>
+                     <hi rend="smallCaps">PLEADED GUILTY</hi>.—</rs> 
+                  <rs id="t18620407-441-punishment-61" type="punishmentDescription">
+                     <interp inst="t18620407-441-punishment-61" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t18620407-441-punishment-61" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="def1-441-18620407 t18620407-441-punishment-61"></join>
+                     <hi rend="italic">Judgment Respited.</hi>
+                  </rs>
+               </p>
+            </div1>

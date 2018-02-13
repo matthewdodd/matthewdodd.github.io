@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18790210-213">
+               <interp inst="t18790210-213" type="uri" value="sessionsPapers/18790210"></interp>
+               <interp inst="t18790210-213" type="date" value="18790210"></interp>
+               <join result="criminalCharge" id="t18790210-213-charge-1" targOrder="Y" targets="def1-213-18790210 t18790210-213-offence-1 t18790210-213-verdict-1"></join>
+               <join result="criminalCharge" id="t18790210-213-charge-2" targOrder="Y" targets="def1-213-18790210 t18790210-213-offence-2 t18790210-213-verdict-1"></join>
+               <p>213. <persName id="def1-213-18790210" type="defendantName">
+                     <interp inst="def1-213-18790210" type="gender" value="male"></interp>
+                     <interp inst="def1-213-18790210" type="age" value="32"></interp>
+                     <interp inst="def1-213-18790210" type="surname" value="MAYHEW"></interp>
+                     <interp inst="def1-213-18790210" type="given" value="CHARLES"></interp>
+                     <hi rend="largeCaps">CHARLES MAYHEW</hi>**(32)</persName> 
+                  <hi rend="smallCaps">
+                     <rs id="t18790210-213-verdict-1" type="verdictDescription">
+                        <interp inst="t18790210-213-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18790210-213-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi> 
+                  <rs id="t18790210-213-offence-1" type="offenceDescription">
+                     <interp inst="t18790210-213-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18790210-213-offence-1" type="offenceSubcategory" value="burglary"></interp>to burglariously break<lb></lb>ing and entering the dwelling-house of <persName id="t18790210-name-105" type="victimName">
+                        <interp inst="t18790210-name-105" type="gender" value="female"></interp>
+                        <interp inst="t18790210-name-105" type="surname" value="FORD"></interp>
+                        <interp inst="t18790210-name-105" type="given" value="ELIZA SARAH"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18790210-213-offence-1 t18790210-name-105"></join>Eliza Sarah Ford</persName>, with intent to steal</rs>; <rs id="t18790210-213-offence-2" type="offenceDescription">
+                     <interp inst="t18790210-213-offence-2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18790210-213-offence-2" type="offenceSubcategory" value="burglary"></interp>also to burglariously breaking and entering the dwelling-house of <persName id="t18790210-name-106" type="victimName">
+                        <interp inst="t18790210-name-106" type="gender" value="male"></interp>
+                        <interp inst="t18790210-name-106" type="surname" value="ROBERTSON"></interp>
+                        <interp inst="t18790210-name-106" type="given" value="DAVID"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18790210-213-offence-2 t18790210-name-106"></join>David Robertson</persName>, and stealing a coat</rs>, <hi rend="italic">having been previously convicted</hi>.—<rs id="t18790210-213-punishment-14" type="punishmentDescription">
+                     <interp inst="t18790210-213-punishment-14" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t18790210-213-punishment-14" type="punishmentSubcategory" value="penalServitude"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="def1-213-18790210 t18790210-213-punishment-14"></join>
+                     <hi rend="italic">Ten Years' Penal Servitude</hi>.</rs>
+               </p>
+            </div1>

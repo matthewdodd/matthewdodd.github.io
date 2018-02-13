@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17130708-64">
+               <interp inst="t17130708-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17130708-64" type="year" value="1713"></interp>
+               <interp inst="t17130708-64" type="uri" value="sessionsPapers/17130708"></interp>
+               <interp inst="t17130708-64" type="date" value="17130708"></interp>
+               <join result="criminalCharge" id="t17130708-64-off295-c173" targOrder="Y" targets="t17130708-64-defend279 t17130708-64-off295 t17130708-64-verdict297"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17130708-64-defend279" type="defendantName">
+                     Mary 
+                     Soames
+                  <interp inst="t17130708-64-defend279" type="surname" value="Soames"></interp>
+                     <interp inst="t17130708-64-defend279" type="given" value="Mary"></interp>
+                     <interp inst="t17130708-64-defend279" type="gender" value="female"></interp>
+                  </persName>
+               
+             of <placeName id="t17130708-64-defloc294">Alhallows the Wall</placeName>
+                  <interp inst="t17130708-64-defloc294" type="placeName" value="Alhallows the Wall"></interp>
+                  <interp inst="t17130708-64-defloc294" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17130708-64-defend279 t17130708-64-defloc294"></join> was indicted for <rs id="t17130708-64-off295" type="offenceDescription">
+                     <interp inst="t17130708-64-off295" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17130708-64-off295" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Riding-hood and a Flasket of wet Linen, value 3 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17130708-64-victim281" type="victimName">
+                     Henry 
+                     Tisdall
+                  <interp inst="t17130708-64-victim281" type="surname" value="Tisdall"></interp>
+                     <interp inst="t17130708-64-victim281" type="given" value="Henry"></interp>
+                     <interp inst="t17130708-64-victim281" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17130708-64-off295 t17130708-64-victim281"></join>
+                  </persName>
+               
+            , on the <rs id="t17130708-64-cd296" type="crimeDate">6th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17130708-64-off295 t17130708-64-cd296"></join> last. It appear'd, that the Prosecutor lost his Goods, but knew not who was the Thief; that about six Weeks after the Robery, the Prisoner was met with the Riding-hood upon her, who giving no Proof how she came by it, the Jury found her <rs id="t17130708-64-verdict297" type="verdictDescription">
+                     <interp inst="t17130708-64-verdict297" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17130708-64-verdict297" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17130708-64-punish298" type="punishmentDescription">
+                     <interp inst="t17130708-64-punish298" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17130708-64-punish298" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17130708-64-defend279 t17130708-64-punish298"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

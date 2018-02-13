@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16991213-26">
+               <interp inst="t16991213-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t16991213-26" type="year" value="1699"></interp>
+               <interp inst="t16991213-26" type="uri" value="sessionsPapers/16991213"></interp>
+               <interp inst="t16991213-26" type="date" value="16991213"></interp>
+               <join result="criminalCharge" id="t16991213-26-off136-c91" targOrder="Y" targets="t16991213-26-defend91 t16991213-26-off136 t16991213-26-verdict140"></join>
+               <join result="criminalCharge" id="t16991213-26-off136-c92" targOrder="Y" targets="t16991213-26-defend92 t16991213-26-off136 t16991213-26-verdict140"></join>
+               <join result="criminalCharge" id="t16991213-26-off136-c93" targOrder="Y" targets="t16991213-26-defend93 t16991213-26-off136 t16991213-26-verdict140"></join>
+         
+               <p>
+            
+                  <persName id="t16991213-26-defend91" type="defendantName">
+                  Richard 
+                  French
+               <interp inst="t16991213-26-defend91" type="surname" value="French"></interp>
+                     <interp inst="t16991213-26-defend91" type="given" value="Richard"></interp>
+                     <interp inst="t16991213-26-defend91" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t16991213-26-deflabel134" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16991213-26-defend91 t16991213-26-deflabel134"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16991213-26-defend92 t16991213-26-deflabel134"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16991213-26-defend93 t16991213-26-deflabel134"></join> 
+            
+                  <persName id="t16991213-26-defend92" type="defendantName">
+                  Roger 
+                  James
+               <interp inst="t16991213-26-defend92" type="surname" value="James"></interp>
+                     <interp inst="t16991213-26-defend92" type="given" value="Roger"></interp>
+                     <interp inst="t16991213-26-defend92" type="gender" value="male"></interp>
+                  </persName>
+            , Gent. 
+               <persName id="t16991213-26-defend93" type="defendantName">
+                  George 
+                  Dockwray
+               <interp inst="t16991213-26-defend93" type="surname" value="Dockwray"></interp>
+                     <interp inst="t16991213-26-defend93" type="given" value="George"></interp>
+                     <interp inst="t16991213-26-defend93" type="gender" value="male"></interp>
+                  </persName>
+            , Gent. of the Parish of <placeName id="t16991213-26-defloc135">St. Martins in the Fields</placeName>
+                  <interp inst="t16991213-26-defloc135" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16991213-26-defloc135" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-26-defend91 t16991213-26-defloc135"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-26-defend92 t16991213-26-defloc135"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16991213-26-defend93 t16991213-26-defloc135"></join>, were Indicted for the <rs id="t16991213-26-off136" type="offenceDescription">
+                     <interp inst="t16991213-26-off136" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16991213-26-off136" type="offenceSubcategory" value="murder"></interp>
+               Murther of 
+                     <persName id="t16991213-26-victim94" type="victimName">
+                        Richard 
+                        Coot
+                     <interp inst="t16991213-26-victim94" type="surname" value="Coot"></interp>
+                        <interp inst="t16991213-26-victim94" type="given" value="Richard"></interp>
+                        <interp inst="t16991213-26-victim94" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16991213-26-off136 t16991213-26-victim94"></join>
+                     </persName>
+                  , <rs id="t16991213-26-viclabel137" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16991213-26-victim94 t16991213-26-viclabel137"></join>; on the <rs id="t16991213-26-cd138" type="crimeDate">30th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16991213-26-off136 t16991213-26-cd138"></join> last, for that they, together with Edward, Lord Warwick and Holland and Charles Lord Mohun, not yet taken; and that he the said Edward, Lord Warwick and Holland, with a Sword value 5s. did give unto the Deceased one Mortal Wound, on the left part of the Breast, near to the Coller-bone, of the breadth of half an Inch, and of the depth of five Inches, of which he instantly died
+            </rs>. It appeared that they all took Chairs from the Greyhound-Tavern in the Strand, and went to <placeName id="t16991213-26-crimeloc139">Leicester-fields</placeName>
+                  <interp inst="t16991213-26-crimeloc139" type="placeName" value="Leicester-fields"></interp>
+                  <interp inst="t16991213-26-crimeloc139" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16991213-26-off136 t16991213-26-crimeloc139"></join>, where the Fact was unfortunately done; and that the Prisoners were present when the Fact was committed; but they denied it, and appearing to the contrary, The Jury found them <rs id="t16991213-26-verdict140" type="verdictDescription">
+                     <interp inst="t16991213-26-verdict140" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16991213-26-verdict140" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Man-slaughter
+            </rs>.</p>
+               <p>They were a Second time Indicted upon the Coroners Inquest, and were likewise found Guilty of Man-slaughter.</p>
+               <p>
+                  <rs id="t16991213-26-punish141" type="punishmentDescription">
+                     <interp inst="t16991213-26-punish141" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16991213-26-punish141" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-26-defend91 t16991213-26-punish141"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-26-defend92 t16991213-26-punish141"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16991213-26-defend93 t16991213-26-punish141"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17240708-63">
+               <interp inst="t17240708-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t17240708-63" type="year" value="1724"></interp>
+               <interp inst="t17240708-63" type="uri" value="sessionsPapers/17240708"></interp>
+               <interp inst="t17240708-63" type="date" value="17240708"></interp>
+               <join result="criminalCharge" id="t17240708-63-off319-c188" targOrder="Y" targets="t17240708-63-defend301 t17240708-63-off319 t17240708-63-verdict321"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17240708-63-defend301" type="defendantName">
+                     Susan 
+                     Wood 
+                  <interp inst="t17240708-63-defend301" type="surname" value="Wood"></interp>
+                     <interp inst="t17240708-63-defend301" type="given" value="Susan"></interp>
+                     <interp inst="t17240708-63-defend301" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17240708-63-defloc318">St. Mary Whitechapel</placeName>
+                  <interp inst="t17240708-63-defloc318" type="placeName" value="St. Mary Whitechapel"></interp>
+                  <interp inst="t17240708-63-defloc318" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17240708-63-defend301 t17240708-63-defloc318"></join>, was indicted for <rs id="t17240708-63-off319" type="offenceDescription">
+                     <interp inst="t17240708-63-off319" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17240708-63-off319" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Pair of Stockings
+            </rs>, the Goods of 
+               
+                  <persName id="t17240708-63-victim303" type="victimName">
+                     George 
+                     Cumpton 
+                  <interp inst="t17240708-63-victim303" type="surname" value="Cumpton"></interp>
+                     <interp inst="t17240708-63-victim303" type="given" value="George"></interp>
+                     <interp inst="t17240708-63-victim303" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17240708-63-off319 t17240708-63-victim303"></join>
+                  </persName>
+                
+            , the <rs id="t17240708-63-cd320" type="crimeDate">2d of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17240708-63-off319 t17240708-63-cd320"></join> last. The Fact being plainly prov'd the Jury found her <rs id="t17240708-63-verdict321" type="verdictDescription">
+                     <interp inst="t17240708-63-verdict321" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17240708-63-verdict321" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17240708-63-punish322" type="punishmentDescription">
+                     <interp inst="t17240708-63-punish322" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17240708-63-defend301 t17240708-63-punish322"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

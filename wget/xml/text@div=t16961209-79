@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16961209-79">
+               <interp inst="t16961209-79" type="collection" value="BAILEY"></interp>
+               <interp inst="t16961209-79" type="year" value="1696"></interp>
+               <interp inst="t16961209-79" type="uri" value="sessionsPapers/16961209"></interp>
+               <interp inst="t16961209-79" type="date" value="16961209"></interp>
+               <join result="criminalCharge" id="t16961209-79-off441-c217" targOrder="Y" targets="t16961209-79-defend217 t16961209-79-off441 t16961209-79-verdict444"></join>
+               <join result="criminalCharge" id="t16961209-79-off441-c218" targOrder="Y" targets="t16961209-79-defend218 t16961209-79-off441 t16961209-79-verdict443"></join>
+         
+               <p>
+            
+                  <persName id="t16961209-79-defend217" type="defendantName">
+                  Anne 
+                  Hampton
+               <interp inst="t16961209-79-defend217" type="surname" value="Hampton"></interp>
+                     <interp inst="t16961209-79-defend217" type="given" value="Anne"></interp>
+                     <interp inst="t16961209-79-defend217" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16961209-79-defend218" type="defendantName">
+                  Elizabeth 
+                  Fenton
+               <interp inst="t16961209-79-defend218" type="surname" value="Fenton"></interp>
+                     <interp inst="t16961209-79-defend218" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16961209-79-defend218" type="gender" value="female"></interp>
+                  </persName>
+             both of the Parish of <placeName id="t16961209-79-defloc440">St. Clements Danes</placeName>
+                  <interp inst="t16961209-79-defloc440" type="placeName" value="St. Clements Danes"></interp>
+                  <interp inst="t16961209-79-defloc440" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-79-defend217 t16961209-79-defloc440"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16961209-79-defend218 t16961209-79-defloc440"></join>, were Indicted for <rs id="t16961209-79-off441" type="offenceDescription">
+                     <interp inst="t16961209-79-off441" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16961209-79-off441" type="offenceSubcategory" value="coiningOffences"></interp>
+               counterfeiting the currant Coin of this Kingdom
+            </rs> on the <rs id="t16961209-79-cd442" type="crimeDate">22th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16961209-79-off441 t16961209-79-cd442"></join> last, It appeared by the Evidence that Hampton had followed the Trade for some time, and Coined Half Crowns, Shillings, and Six-pences, and afterwards feaged it over. It was fully proved against Hampton, but not so positive against Fenton; so the Jury <rs id="t16961209-79-verdict443" type="verdictDescription">
+                     <interp inst="t16961209-79-verdict443" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her, and found Hampton <rs id="t16961209-79-verdict444" type="verdictDescription">
+                     <interp inst="t16961209-79-verdict444" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of High-Treason.</p>
+               <p>
+                  <rs id="t16961209-79-punish445" type="punishmentDescription">
+                     <interp inst="t16961209-79-punish445" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16961209-79-punish445" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16961209-79-defend217 t16961209-79-punish445"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

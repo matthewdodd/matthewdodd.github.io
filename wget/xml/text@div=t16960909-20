@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16960909-20">
+               <interp inst="t16960909-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16960909-20" type="year" value="1696"></interp>
+               <interp inst="t16960909-20" type="uri" value="sessionsPapers/16960909"></interp>
+               <interp inst="t16960909-20" type="date" value="16960909"></interp>
+               <join result="criminalCharge" id="t16960909-20-off104-c85" targOrder="Y" targets="t16960909-20-defend85 t16960909-20-off104 t16960909-20-verdict107"></join>
+         
+               <p>
+            
+                  <persName id="t16960909-20-defend85" type="defendantName">
+                  Mary 
+                  Jones
+               <interp inst="t16960909-20-defend85" type="surname" value="Jones"></interp>
+                     <interp inst="t16960909-20-defend85" type="given" value="Mary"></interp>
+                     <interp inst="t16960909-20-defend85" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16960909-20-defloc103">St. Giles's in the Fields</placeName>
+                  <interp inst="t16960909-20-defloc103" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16960909-20-defloc103" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960909-20-defend85 t16960909-20-defloc103"></join>, was Indicted for <rs id="t16960909-20-off104" type="offenceDescription">
+                     <interp inst="t16960909-20-off104" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16960909-20-off104" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing from 
+                     <persName id="t16960909-20-victim86" type="victimName">
+                        Ann 
+                        Loverance
+                     <interp inst="t16960909-20-victim86" type="surname" value="Loverance"></interp>
+                        <interp inst="t16960909-20-victim86" type="given" value="Ann"></interp>
+                        <interp inst="t16960909-20-victim86" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16960909-20-off104 t16960909-20-victim86"></join>
+                     </persName>
+                   
+                     <rs id="t16960909-20-viclabel105" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16960909-20-victim86 t16960909-20-viclabel105"></join>, a laced Muslin Nightroyl, and a suit of Muslin Head-Cloaths, with other Goods
+            </rs>, on the <rs id="t16960909-20-cd106" type="crimeDate">2d of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16960909-20-off104 t16960909-20-cd106"></join> last. It appeared by the Evidence, that the Prisoner went into the Kitchen, and took the Cloaths out of a Tub, and put them into her Apron, and was going her ways, but was stopt. The Prisoner did endeavour to avoid it, and said that she was never in the Kitchen, but that there happening a shower of Rain, she did go to the Door, and staid to shelter her self from the Wet, and set down on the Bench, and that a Woman came and gave them to her; she could not prove, nor call any to her reputation; the Jury taking it into consideration, found her <rs id="t16960909-20-verdict107" type="verdictDescription">
+                     <interp inst="t16960909-20-verdict107" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16960909-20-verdict107" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16960909-20-punish108" type="punishmentDescription">
+                     <interp inst="t16960909-20-punish108" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16960909-20-punish108" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960909-20-defend85 t16960909-20-punish108"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

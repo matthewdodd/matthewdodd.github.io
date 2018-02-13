@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17120111-21">
+               <interp inst="t17120111-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17120111-21" type="year" value="1712"></interp>
+               <interp inst="t17120111-21" type="uri" value="sessionsPapers/17120111"></interp>
+               <interp inst="t17120111-21" type="date" value="17120111"></interp>
+               <join result="criminalCharge" id="t17120111-21-off90-c71" targOrder="Y" targets="t17120111-21-defend102 t17120111-21-off90 t17120111-21-verdict92"></join>
+         
+               <p>
+            
+                  <persName id="t17120111-21-defend102" type="defendantName">
+                  Richard 
+                  Spring
+               <interp inst="t17120111-21-defend102" type="surname" value="Spring"></interp>
+                     <interp inst="t17120111-21-defend102" type="given" value="Richard"></interp>
+                     <interp inst="t17120111-21-defend102" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17120111-21-defloc88">Cranfield in Middlesex</placeName>
+                  <interp inst="t17120111-21-defloc88" type="placeName" value="Cranfield in Middlesex"></interp>
+                  <interp inst="t17120111-21-defloc88" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17120111-21-defend102 t17120111-21-defloc88"></join>, <rs id="t17120111-21-deflabel89" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17120111-21-defend102 t17120111-21-deflabel89"></join>, was Indicted for <rs id="t17120111-21-off90" type="offenceDescription">
+                     <interp inst="t17120111-21-off90" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17120111-21-off90" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing 21 Weathers
+            </rs> from 
+               
+                  <persName id="t17120111-21-victim104" type="victimName">
+                     Thomas 
+                     Westbrook
+                  <interp inst="t17120111-21-victim104" type="surname" value="Westbrook"></interp>
+                     <interp inst="t17120111-21-victim104" type="given" value="Thomas"></interp>
+                     <interp inst="t17120111-21-victim104" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17120111-21-off90 t17120111-21-victim104"></join>
+                  </persName>
+               
+            , on the <rs id="t17120111-21-cd91" type="crimeDate">23d of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17120111-21-off90 t17120111-21-cd91"></join> last. The Evidence swore, That he saw 'em in the Grounds over-night, and next Morning missing 'em, pursu'd the Track to Kensington, and these found 'em in Possession of the Prisoner. The Prisoner said he bought 'em upon the Road of one who had sold him several Sheep before, one Wild a Jobber. There were some Witnesses who said on his behalf, that he was Lunatick about a Year ago; but could say nothing since, so the Jury found him <rs id="t17120111-21-verdict92" type="verdictDescription">
+                     <interp inst="t17120111-21-verdict92" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17120111-21-punish93" type="punishmentDescription">
+                     <interp inst="t17120111-21-punish93" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17120111-21-punish93" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17120111-21-defend102 t17120111-21-punish93"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

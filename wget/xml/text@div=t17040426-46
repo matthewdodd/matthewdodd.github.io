@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040426-46">
+               <interp inst="t17040426-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040426-46" type="year" value="1704"></interp>
+               <interp inst="t17040426-46" type="uri" value="sessionsPapers/17040426"></interp>
+               <interp inst="t17040426-46" type="date" value="17040426"></interp>
+               <join result="criminalCharge" id="t17040426-46-off214-c124" targOrder="Y" targets="t17040426-46-defend124 t17040426-46-off214 t17040426-46-verdict219"></join>
+         
+               <p>
+            
+                  <persName id="t17040426-46-defend124" type="defendantName">
+                  Thomas 
+                  Stedman
+               <interp inst="t17040426-46-defend124" type="surname" value="Stedman"></interp>
+                     <interp inst="t17040426-46-defend124" type="given" value="Thomas"></interp>
+                     <interp inst="t17040426-46-defend124" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17040426-46-defloc213">St. Pauls Covent-Garden</placeName>
+                  <interp inst="t17040426-46-defloc213" type="placeName" value="St. Pauls Covent-Garden"></interp>
+                  <interp inst="t17040426-46-defloc213" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040426-46-defend124 t17040426-46-defloc213"></join>, was indicted for the <rs id="t17040426-46-off214" type="offenceDescription">
+                     <interp inst="t17040426-46-off214" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17040426-46-off214" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     <persName id="t17040426-46-victim125" type="victimName">
+                        Christian, the <rs id="t17040426-46-viclabel215" type="occupation">Wife</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17040426-46-victim125 t17040426-46-viclabel215"></join>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17040426-46-person126 t17040426-46-viclabel215"></join> of 
+                           <persName id="t17040426-46-person126" type="victimName">
+                              Dennis 
+                              
+                              Macdonnel
+                           <interp inst="t17040426-46-person126" type="surname" value="Macdonnel"></interp>
+                           <interp inst="t17040426-46-person126" type="given" value="Dennis"></interp>
+                           <interp inst="t17040426-46-person126" type="gender" value="male"></interp>
+                        </persName>
+                        
+                        <interp inst="t17040426-46-victim125" type="surname" value="Macdonnel"></interp>
+                        <interp inst="t17040426-46-victim125" type="given" value="Christian"></interp>
+                        <interp inst="t17040426-46-victim125" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17040426-46-off214 t17040426-46-victim125"></join>
+                     </persName>
+                  , on the <rs id="t17040426-46-cd216" type="crimeDate">15th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17040426-46-off214 t17040426-46-cd216"></join>, in the second Year of the QUEEN, by giving her a Mortal Wound, with a Sword on the left Part of her Body, near the Loins, of which she soon after died
+            </rs>. The Husband deposed that one Lewis and one Hilton, Soldiers, were fighting with their Swords in <placeName id="t17040426-46-crimeloc217">Covent-Garden</placeName>
+                  <interp inst="t17040426-46-crimeloc217" type="placeName" value="Covent-Garden"></interp>
+                  <interp inst="t17040426-46-crimeloc217" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17040426-46-off214 t17040426-46-crimeloc217"></join>, and the Prisoner being a <rs id="t17040426-46-deflabel218" type="occupation">Serjeant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17040426-46-defend124 t17040426-46-deflabel218"></join>, and coming by the Deceased, said to him, will you see them murder one another, upon which he called her Bitch, and she struck him on the Face, with her Patten, which cut him on the Eye-brow, then he struck her on the Brest with the Point of his Sword, and he getting away, he ran after her, and by the Railes gave her the Wound in the Back, which Fact the Jury having consider'd found him <rs id="t17040426-46-verdict219" type="verdictDescription">
+                     <interp inst="t17040426-46-verdict219" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17040426-46-verdict219" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17040426-46-punish220" type="punishmentDescription">
+                     <interp inst="t17040426-46-punish220" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17040426-46-punish220" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040426-46-defend124 t17040426-46-punish220"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

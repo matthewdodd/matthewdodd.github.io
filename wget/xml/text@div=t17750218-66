@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17750218-66">
+               <interp inst="t17750218-66" type="collection" value="BAILEY"></interp>
+               <interp inst="t17750218-66" type="year" value="1775"></interp>
+               <interp inst="t17750218-66" type="uri" value="sessionsPapers/17750218"></interp>
+               <interp inst="t17750218-66" type="date" value="17750218"></interp>
+               <join result="criminalCharge" id="t17750218-66-off329-c419" targOrder="Y" targets="t17750218-66-defend563 t17750218-66-off329 t17750218-66-verdict333"></join>
+         
+               <p>255 (L.) 
+               
+                  <persName id="t17750218-66-defend563" type="defendantName">
+                     JOHN
+                      SOMERVILLE
+                  <interp inst="t17750218-66-defend563" type="surname" value="SOMERVILLE"></interp>
+                     <interp inst="t17750218-66-defend563" type="given" value="JOHN"></interp>
+                     <interp inst="t17750218-66-defend563" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17750218-66-off329" type="offenceDescription">
+                     <interp inst="t17750218-66-off329" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17750218-66-off329" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pewter plates, value eighteen pence
+            </rs>, the property of 
+               
+                  <persName id="t17750218-66-victim565" type="victimName">
+                     William
+                      Scofield
+                  <interp inst="t17750218-66-victim565" type="surname" value="Scofield"></interp>
+                     <interp inst="t17750218-66-victim565" type="given" value="William"></interp>
+                     <interp inst="t17750218-66-victim565" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17750218-66-off329 t17750218-66-victim565"></join>
+                  </persName>
+               
+            , <rs id="t17750218-66-cd330" type="crimeDate">January 19th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17750218-66-off329 t17750218-66-cd330"></join>. ++</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="177502180052"></xptr>
+            
+                  <persName id="t17750218-66-person566">
+                  William
+                   Scofield
+               <interp inst="t17750218-66-person566" type="surname" value="Scofield"></interp>
+                     <interp inst="t17750218-66-person566" type="given" value="William"></interp>
+                     <interp inst="t17750218-66-person566" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17750218-66-viclabel331" type="occupation">keep the <placeName id="t17750218-66-crimeloc332">White Horse, Warwick-lane</placeName>
+                     <interp inst="t17750218-66-crimeloc332" type="placeName" value="White Horse, Warwick-lane"></interp>
+                     <interp inst="t17750218-66-crimeloc332" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17750218-66-off329 t17750218-66-crimeloc332"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17750218-66-victim565 t17750218-66-viclabel331"></join>, the prisoner was sitting under the shelf where the plates were, they were found concealed under his coat, I took him before my lord mayor, he said he was almost starving.</p>
+               <p>Prisoner's Defence.</p>
+               <p>They were not in my pocket, they were on the table, I was almost starving, I had not ate a bit of bread for four days.</p>
+               <p>
+                  <rs id="t17750218-66-verdict333" type="verdictDescription">
+                     <interp inst="t17750218-66-verdict333" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17750218-66-verdict333" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty of stealing to the value of ten-pence
+            </rs>: <rs id="t17750218-66-punish334" type="punishmentDescription">
+                     <interp inst="t17750218-66-punish334" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17750218-66-punish334" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17750218-66-defend563 t17750218-66-punish334"></join>
+               W
+            </rs>:</p>
+            </div1>

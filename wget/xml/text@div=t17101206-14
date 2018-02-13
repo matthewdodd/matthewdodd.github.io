@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17101206-14">
+               <interp inst="t17101206-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17101206-14" type="year" value="1710"></interp>
+               <interp inst="t17101206-14" type="uri" value="sessionsPapers/17101206"></interp>
+               <interp inst="t17101206-14" type="date" value="17101206"></interp>
+               <join result="criminalCharge" id="t17101206-14-off63-c58" targOrder="Y" targets="t17101206-14-defend86 t17101206-14-off63 t17101206-14-verdict66"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17101206-14-defend86" type="defendantName">
+                     David 
+                     Evans
+                  <interp inst="t17101206-14-defend86" type="surname" value="Evans"></interp>
+                     <interp inst="t17101206-14-defend86" type="given" value="David"></interp>
+                     <interp inst="t17101206-14-defend86" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Hamlet of <placeName id="t17101206-14-defloc62">Hammersmith</placeName>
+                  <interp inst="t17101206-14-defloc62" type="placeName" value="Hammersmith"></interp>
+                  <interp inst="t17101206-14-defloc62" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17101206-14-defend86 t17101206-14-defloc62"></join>, was indicted for <rs id="t17101206-14-off63" type="offenceDescription">
+                     <interp inst="t17101206-14-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17101206-14-off63" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 29 Ells of Hamborough Cloth
+            </rs>, the Goods of 
+               <persName id="t17101206-14-victim87" type="victimName">
+                  John 
+                  Hern
+               <interp inst="t17101206-14-victim87" type="surname" value="Hern"></interp>
+                     <interp inst="t17101206-14-victim87" type="given" value="John"></interp>
+                     <interp inst="t17101206-14-victim87" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17101206-14-off63 t17101206-14-victim87"></join>
+                  </persName>
+            , on the <rs id="t17101206-14-cd64" type="crimeDate">22d of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17101206-14-off63 t17101206-14-cd64"></join> last. It appear'd that the Goods were lost from the <placeName id="t17101206-14-crimeloc65">Whitsters Grounds</placeName>
+                  <interp inst="t17101206-14-crimeloc65" type="placeName" value="Whitsters Grounds"></interp>
+                  <interp inst="t17101206-14-crimeloc65" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17101206-14-off63 t17101206-14-crimeloc65"></join>, and part of them taken upon a young Woman, who prov'd that she had them of the Prisoner, upon which his Lodging was search'd, where the rest was found. He giving no Account how he came by them, the Jury found him <rs id="t17101206-14-verdict66" type="verdictDescription">
+                     <interp inst="t17101206-14-verdict66" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17101206-14-punish67" type="punishmentDescription">
+                     <interp inst="t17101206-14-punish67" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17101206-14-punish67" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17101206-14-defend86 t17101206-14-punish67"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

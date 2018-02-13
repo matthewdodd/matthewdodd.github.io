@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16821206-17">
+               <interp inst="t16821206-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16821206-17" type="year" value="1682"></interp>
+               <interp inst="t16821206-17" type="uri" value="sessionsPapers/16821206"></interp>
+               <interp inst="t16821206-17" type="date" value="16821206"></interp>
+               <join result="criminalCharge" id="t16821206-17-off81-c60" targOrder="Y" targets="t16821206-17-defend103 t16821206-17-off81 t16821206-17-verdict80"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16821206-17-defend103" type="defendantName">
+                     Amos 
+                     Day
+                  <interp inst="t16821206-17-defend103" type="surname" value="Day"></interp>
+                     <interp inst="t16821206-17-defend103" type="given" value="Amos"></interp>
+                     <interp inst="t16821206-17-defend103" type="gender" value="male"></interp>
+                  </persName>
+               
+             was <rs id="t16821206-17-verdict80" type="verdictDescription">
+                     <interp inst="t16821206-17-verdict80" type="verdictCategory" value="guilty"></interp>
+               Convict
+            </rs> of <rs id="t16821206-17-off81" type="offenceDescription">
+                     <interp inst="t16821206-17-off81" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16821206-17-off81" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing Goods from <rs id="t16821206-17-viclabel82" type="occupation">Sir</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16821206-17-victim105 t16821206-17-viclabel82"></join> 
+                  
+                     
+                        <persName id="t16821206-17-victim105" type="victimName">
+                           Thomas 
+                           Bide
+                        <interp inst="t16821206-17-victim105" type="surname" value="Bide"></interp>
+                        <interp inst="t16821206-17-victim105" type="given" value="Thomas"></interp>
+                        <interp inst="t16821206-17-victim105" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16821206-17-off81 t16821206-17-victim105"></join>
+                     </persName>
+                     
+                  , upon the <rs id="t16821206-17-cd83" type="crimeDate">2d. of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16821206-17-off81 t16821206-17-cd83"></join> 82, to the Value of 40 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16821206-17-punish84" type="punishmentDescription">
+                     <interp inst="t16821206-17-punish84" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16821206-17-punish84" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16821206-17-defend103 t16821206-17-punish84"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

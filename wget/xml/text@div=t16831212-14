@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831212-14">
+               <interp inst="t16831212-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831212-14" type="year" value="1683"></interp>
+               <interp inst="t16831212-14" type="uri" value="sessionsPapers/16831212"></interp>
+               <interp inst="t16831212-14" type="date" value="16831212"></interp>
+               <join result="criminalCharge" id="t16831212-14-off58-c41" targOrder="Y" targets="t16831212-14-defend67 t16831212-14-off58 t16831212-14-verdict60"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831212-14-defend67" type="defendantName">
+                     Edmund 
+                     Smith
+                  <interp inst="t16831212-14-defend67" type="surname" value="Smith"></interp>
+                     <interp inst="t16831212-14-defend67" type="given" value="Edmund"></interp>
+                     <interp inst="t16831212-14-defend67" type="gender" value="male"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16831212-14-off58" type="offenceDescription">
+                     <interp inst="t16831212-14-off58" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831212-14-off58" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing a Silver Tankard, valued at Five Pounds
+            </rs>, of the Goods of 
+               
+                  <persName id="t16831212-14-victim69" type="victimName">
+                     Catherine 
+                     Long
+                  <interp inst="t16831212-14-victim69" type="surname" value="Long"></interp>
+                     <interp inst="t16831212-14-victim69" type="given" value="Catherine"></interp>
+                     <interp inst="t16831212-14-victim69" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16831212-14-off58 t16831212-14-victim69"></join>
+                  </persName>
+               
+            , <rs id="t16831212-14-viclabel59" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16831212-14-victim69 t16831212-14-viclabel59"></join>; he was taken upon suspition by a Goldsmith, to whom he proffered to Sell the Lid of the said Tankard; and upon Search, the rest of it being found about him, he was found <rs id="t16831212-14-verdict60" type="verdictDescription">
+                     <interp inst="t16831212-14-verdict60" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16831212-14-punish61" type="punishmentDescription">
+                     <interp inst="t16831212-14-punish61" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16831212-14-punish61" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-14-defend67 t16831212-14-punish61"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

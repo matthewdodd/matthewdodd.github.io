@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840116-4">
+               <interp inst="t16840116-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840116-4" type="year" value="1684"></interp>
+               <interp inst="t16840116-4" type="uri" value="sessionsPapers/16840116"></interp>
+               <interp inst="t16840116-4" type="date" value="16840116"></interp>
+               <join result="criminalCharge" id="t16840116-4-off17-c7" targOrder="Y" targets="t16840116-4-defend11 t16840116-4-off17 t16840116-4-verdict19"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16840116-4-defend11" type="defendantName">
+                     William 
+                     Bampfield
+                  <interp inst="t16840116-4-defend11" type="surname" value="Bampfield"></interp>
+                     <interp inst="t16840116-4-defend11" type="given" value="William"></interp>
+                     <interp inst="t16840116-4-defend11" type="gender" value="male"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16840116-4-off17" type="offenceDescription">
+                     <interp inst="t16840116-4-off17" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16840116-4-off17" type="offenceSubcategory" value="robbery"></interp>
+               taking a Silver-handled Sword, from the side of 
+                     
+                        <persName id="t16840116-4-victim13" type="victimName">
+                           Richard 
+                           Rolson
+                        <interp inst="t16840116-4-victim13" type="surname" value="Rolson"></interp>
+                        <interp inst="t16840116-4-victim13" type="given" value="Richard"></interp>
+                        <interp inst="t16840116-4-victim13" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16840116-4-off17 t16840116-4-victim13"></join>
+                     </persName>
+                     
+                  ,<xptr type="pageFacsimile" doc="16840116002"></xptr>as he was passing along <placeName id="t16840116-4-crimeloc18">Cheapside</placeName>
+                     <interp inst="t16840116-4-crimeloc18" type="placeName" value="Cheapside"></interp>
+                     <interp inst="t16840116-4-crimeloc18" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16840116-4-off17 t16840116-4-crimeloc18"></join>
+               
+                  </rs>, was found <rs id="t16840116-4-verdict19" type="verdictDescription">
+                     <interp inst="t16840116-4-verdict19" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840116-4-punish20" type="punishmentDescription">
+                     <interp inst="t16840116-4-punish20" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840116-4-defend11 t16840116-4-punish20"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

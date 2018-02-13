@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840702-13">
+               <interp inst="t16840702-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840702-13" type="year" value="1684"></interp>
+               <interp inst="t16840702-13" type="uri" value="sessionsPapers/16840702"></interp>
+               <interp inst="t16840702-13" type="date" value="16840702"></interp>
+               <join result="criminalCharge" id="t16840702-13-off55-c35" targOrder="Y" targets="t16840702-13-defend47 t16840702-13-off55 t16840702-13-verdict56"></join>
+               <join result="criminalCharge" id="t16840702-13-off55-c36" targOrder="Y" targets="t16840702-13-defend49 t16840702-13-off55 t16840702-13-verdict56"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16840702003"></xptr>
+            
+                  <persName id="t16840702-13-defend47" type="defendantName">
+                  John 
+                  Holtam, or <rs id="t16840702-13-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16840702-13-defend47 t16840702-13-alias-1"></join>Holtham</rs>
+                     <interp inst="t16840702-13-defend47" type="surname" value="Holtam"></interp>
+                     <interp inst="t16840702-13-defend47" type="given" value="John"></interp>
+                     <interp inst="t16840702-13-defend47" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16840702-13-defend49" type="defendantName">
+                     John 
+                     Bennet
+                  <interp inst="t16840702-13-defend49" type="surname" value="Bennet"></interp>
+                     <interp inst="t16840702-13-defend49" type="given" value="John"></interp>
+                     <interp inst="t16840702-13-defend49" type="gender" value="male"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16840702-13-off55" type="offenceDescription">
+                     <interp inst="t16840702-13-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840702-13-off55" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a grey Mare, price 5 l.
+            </rs> of the Goods of one 
+               <persName id="t16840702-13-victim50" type="victimName">
+                  W. 
+                  Saunders
+               <interp inst="t16840702-13-victim50" type="surname" value="Saunders"></interp>
+                     <interp inst="t16840702-13-victim50" type="given" value="W."></interp>
+                     <interp inst="t16840702-13-victim50" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840702-13-off55 t16840702-13-victim50"></join>
+                  </persName>
+            . Holtam is a Person suspected for a High-way man, having been in some Country-Goal before, and upon Removal by a Habeas Corpus, made his Escape: he pretends himself to have lived last at the City of Warwick, and that he was a Gentleman bred, (being indeed a likely Man to see to.) The Proof as to the Mare was so very plain, that both Holtam and Bennet were found <rs id="t16840702-13-verdict56" type="verdictDescription">
+                     <interp inst="t16840702-13-verdict56" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840702-13-punish57" type="punishmentDescription">
+                     <interp inst="t16840702-13-punish57" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840702-13-defend47 t16840702-13-punish57"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840702-13-defend49 t16840702-13-punish57"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

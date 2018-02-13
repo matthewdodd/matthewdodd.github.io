@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170606-11">
+               <interp inst="t17170606-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170606-11" type="year" value="1717"></interp>
+               <interp inst="t17170606-11" type="uri" value="sessionsPapers/17170606"></interp>
+               <interp inst="t17170606-11" type="date" value="17170606"></interp>
+               <join result="criminalCharge" id="t17170606-11-off62-c67" targOrder="Y" targets="t17170606-11-defend90 t17170606-11-off62 t17170606-11-verdict64"></join>
+               <join result="criminalCharge" id="t17170606-11-off62-c68" targOrder="Y" targets="t17170606-11-defend92 t17170606-11-off62 t17170606-11-verdict65"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170606-11-defend90" type="defendantName">
+                     Martha 
+                     Wadsworth 
+                  <interp inst="t17170606-11-defend90" type="surname" value="Wadsworth"></interp>
+                     <interp inst="t17170606-11-defend90" type="given" value="Martha"></interp>
+                     <interp inst="t17170606-11-defend90" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17170606-11-defend92" type="defendantName">
+                     Mary 
+                     Hambleton 
+                  <interp inst="t17170606-11-defend92" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17170606-11-defend92" type="given" value="Mary"></interp>
+                     <interp inst="t17170606-11-defend92" type="gender" value="female"></interp>
+                  </persName>
+                
+            ,were indicted for <rs id="t17170606-11-off62" type="offenceDescription">
+                     <interp inst="t17170606-11-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170606-11-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 Stuff Gowns, value 15 s.
+            </rs> the Property of 
+               
+                  <persName id="t17170606-11-victim94" type="victimName">
+                     Dorothy 
+                     Coats 
+                  <interp inst="t17170606-11-victim94" type="surname" value="Coats"></interp>
+                     <interp inst="t17170606-11-victim94" type="given" value="Dorothy"></interp>
+                     <interp inst="t17170606-11-victim94" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17170606-11-off62 t17170606-11-victim94"></join>
+                  </persName>
+                
+            , the <rs id="t17170606-11-cd63" type="crimeDate">7th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170606-11-off62 t17170606-11-cd63"></join> last. The evidence deposed, that seeing the Prisoner Wadsworth come out of the Prosecutors house with the gowns, they dogged her to a pawnbroker's and apprehended her. The Prisoner said the prosecutor gave her the Goods to pawn for her. This appearing but a Pretence, the Jury found Wadsworth <rs id="t17170606-11-verdict64" type="verdictDescription">
+                     <interp inst="t17170606-11-verdict64" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170606-11-verdict64" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs> and <rs id="t17170606-11-verdict65" type="verdictDescription">
+                     <interp inst="t17170606-11-verdict65" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> Hambleton.</p>
+               <p>
+                  <rs id="t17170606-11-punish66" type="punishmentDescription">
+                     <interp inst="t17170606-11-punish66" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17170606-11-punish66" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170606-11-defend90 t17170606-11-punish66"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18550409-442">
+               <interp inst="t18550409-442" type="uri" value="sessionsPapers/18550409"></interp>
+               <interp inst="t18550409-442" type="date" value="18550409"></interp>
+               <join result="criminalCharge" id="t18550409-442-charge-1" targOrder="Y" targets="def1-442-18550409 t18550409-442-offence-1 t18550409-442-verdict-1"></join>
+               <join result="criminalCharge" id="t18550409-442-charge-2" targOrder="Y" targets="def1-442-18550409 t18550409-442-offence-2 t18550409-442-verdict-1"></join>
+               <join result="criminalCharge" id="t18550409-442-charge-3" targOrder="Y" targets="def1-442-18550409 t18550409-442-offence-3 t18550409-442-verdict-1"></join>
+               <p>442. <persName id="def1-442-18550409" type="defendantName">
+                     <interp inst="def1-442-18550409" type="gender" value="male"></interp>
+                     <interp inst="def1-442-18550409" type="age" value="28"></interp>
+                     <interp inst="def1-442-18550409" type="surname" value="CHOPPING"></interp>
+                     <interp inst="def1-442-18550409" type="given" value="WILLIAM"></interp>
+                     <hi rend="largeCaps">WILLIAM CHOPPING</hi>
+                  </persName>
+                  <rs id="t18550409-442-offence-1" type="offenceDescription">
+                     <interp inst="t18550409-442-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18550409-442-offence-1" type="offenceSubcategory" value="stealingFromMaster"></interp>, stealing 1 writing case and other articles, value 1<hi rend="italic">l</hi>.;</rs>
+                  <rs id="t18550409-442-offence-2" type="offenceDescription">
+                     <interp inst="t18550409-442-offence-2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18550409-442-offence-2" type="offenceSubcategory" value="stealingFromMaster"></interp>
+                     <hi rend="italic">also</hi>, 3 blotting cases, and other articles, value 15<hi rend="italic">s</hi>.;</rs>
+                  <rs id="t18550409-442-offence-3" type="offenceDescription">
+                     <interp inst="t18550409-442-offence-3" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18550409-442-offence-3" type="offenceSubcategory" value="stealingFromMaster"></interp>
+                     <hi rend="italic">also</hi>, 7 brushes, and other articles, value 13<hi rend="italic">s</hi>.; the goods of <persName id="t18550409-name-205" type="victimName">
+                        <interp inst="t18550409-name-205" type="gender" value="male"></interp>
+                        <interp inst="t18550409-name-205" type="surname" value="RAINS"></interp>
+                        <interp inst="t18550409-name-205" type="given" value="RUPERT"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18550409-442-offence-3 t18550409-name-205"></join>Rupert Rains</persName>, and another, his masters: to all which he</rs>
+               </p>
+               <p>
+                  <rs id="t18550409-442-verdict-1" type="verdictDescription">
+                     <interp inst="t18550409-442-verdict-1" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t18550409-442-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>
+                     <hi rend="smallCaps">PLEADED GUILTY</hi>. Aged 28.—<hi rend="italic">Received a good character.—Recommended mercy.</hi>
+                  </rs>—
+<hi rend="italic">
+                     <rs id="t18550409-442-punishment-46" type="punishmentDescription">
+                        <interp inst="t18550409-442-punishment-46" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18550409-442-punishment-46" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-442-18550409 t18550409-442-punishment-46"></join>Confined Twelve Months</rs>.</hi>
+               </p>
+            </div1>

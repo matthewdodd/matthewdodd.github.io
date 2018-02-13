@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17141209-16">
+               <interp inst="t17141209-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17141209-16" type="year" value="1714"></interp>
+               <interp inst="t17141209-16" type="uri" value="sessionsPapers/17141209"></interp>
+               <interp inst="t17141209-16" type="date" value="17141209"></interp>
+               <join result="criminalCharge" id="t17141209-16-off86-c67" targOrder="Y" targets="t17141209-16-defend98 t17141209-16-off86 t17141209-16-verdict89"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17141209-16-defend98" type="defendantName">
+                     Mary 
+                     Vaughan 
+                  <interp inst="t17141209-16-defend98" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17141209-16-defend98" type="given" value="Mary"></interp>
+                     <interp inst="t17141209-16-defend98" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17141209-16-off86" type="offenceDescription">
+                     <interp inst="t17141209-16-off86" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17141209-16-off86" type="offenceSubcategory" value="robbery"></interp>
+               Assaulting 
+                     
+                        <persName id="t17141209-16-victim100" type="victimName">
+                           Elizabeth 
+                           Edling 
+                        <interp inst="t17141209-16-victim100" type="surname" value="Edling"></interp>
+                        <interp inst="t17141209-16-victim100" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17141209-16-victim100" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17141209-16-off86 t17141209-16-victim100"></join>
+                     </persName>
+                      
+                   (an <rs id="t17141209-16-viclabel87" type="occupation">Infant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17141209-16-victim100 t17141209-16-viclabel87"></join>) with intention to rob on
+            </rs> the <rs id="t17141209-16-cd88" type="crimeDate">2nd of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17141209-16-off86 t17141209-16-cd88"></join> last. It appear'd by the Evidence, That the Child coming from School, the Prisoner took it up in her Arms: and the Child crying, she us'd it very roughly; which was taken Notice of by some Neighbours and the she set the Child down and went away; whereupon she was seiz'd, and the Child ran home, where the Gold Chain she had about her Neck was found to be Loosen'd. The Prisoner said in her Defence, That she took the Child up for fear of Cart, and that she was carrying it towards its own home, and not a contrary way. The Jury considering the matter; found her <rs id="t17141209-16-verdict89" type="verdictDescription">
+                     <interp inst="t17141209-16-verdict89" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Assault.</p>
+               <p>
+                  <rs id="t17141209-16-punish90" type="punishmentDescription">
+                     <interp inst="t17141209-16-punish90" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17141209-16-punish90" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17141209-16-defend98 t17141209-16-punish90"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18160710-66">
+               <interp inst="t18160710-66" type="collection" value="BAILEY"></interp>
+               <interp inst="t18160710-66" type="year" value="1816"></interp>
+               <interp inst="t18160710-66" type="uri" value="sessionsPapers/18160710"></interp>
+               <interp inst="t18160710-66" type="date" value="18160710"></interp>
+               <join result="criminalCharge" id="t18160710-66-off342-c382" targOrder="Y" targets="t18160710-66-defend480 t18160710-66-off342 t18160710-66-verdict346"></join>
+         
+               <p>742. 
+               
+                  <persName id="t18160710-66-defend480" type="defendantName">
+                     JAMES 
+                     BEDDINGTON
+                  <interp inst="t18160710-66-defend480" type="surname" value="BEDDINGTON"></interp>
+                     <interp inst="t18160710-66-defend480" type="given" value="JAMES"></interp>
+                     <interp inst="t18160710-66-defend480" type="gender" value="male"></interp>
+                     <interp inst="t18160710-66-defend480" type="age" value="39"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18160710-66-off342" type="offenceDescription">
+                     <interp inst="t18160710-66-off342" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18160710-66-off342" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing, on the <rs id="t18160710-66-cd343" type="crimeDate">31st of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18160710-66-off342 t18160710-66-cd343"></join>, a handkerchief, value 2s. the property of 
+                     <persName id="t18160710-66-victim481" type="victimName">
+                        Samuel 
+                        Lewis
+                     <interp inst="t18160710-66-victim481" type="surname" value="Lewis"></interp>
+                        <interp inst="t18160710-66-victim481" type="given" value="Samuel"></interp>
+                        <interp inst="t18160710-66-victim481" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18160710-66-off342 t18160710-66-victim481"></join>
+                     </persName>
+                  , from his person
+            </rs>.</p>
+
+               <p>SAMUEL LEWIS. I am a <rs id="t18160710-66-viclabel344" type="occupation">pawnbroker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18160710-66-victim481 t18160710-66-viclabel344"></join>. On the 31st of May, I was on <placeName id="t18160710-66-crimeloc345">London-bridge</placeName>
+                  <interp inst="t18160710-66-crimeloc345" type="placeName" value="London-bridge"></interp>
+                  <interp inst="t18160710-66-crimeloc345" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18160710-66-off342 t18160710-66-crimeloc345"></join>, in the afternoon; I felt something at my pocket; I turned round, and saw my handkerchief in the prisoner's hand.</p>
+
+               <p>(Property produced, and sworn to.)</p>
+
+               <p>Prisoner's Defence. I was very much intoxicated, and did not know what I was about.</p>
+
+               <p>WILLIAM WARTERS. He certainly was very drunk.</p>
+
+               <p>
+                  <rs id="t18160710-66-verdict346" type="verdictDescription">
+                     <interp inst="t18160710-66-verdict346" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>, aged 39.</p>
+
+               <p>
+                  <rs id="t18160710-66-punish347" type="punishmentDescription">
+                     <interp inst="t18160710-66-punish347" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18160710-66-defend480 t18160710-66-punish347"></join>
+               Confined three months
+            </rs>, and <rs id="t18160710-66-punish348" type="punishmentDescription">
+                     <interp inst="t18160710-66-punish348" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18160710-66-punish348" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18160710-66-defend480 t18160710-66-punish348"></join>
+               whipped
+            </rs>.</p>
+
+               <p>London Jury, before Mr. Recorder.</p>
+            </div1>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150907-28">
+               <interp inst="t17150907-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150907-28" type="year" value="1715"></interp>
+               <interp inst="t17150907-28" type="uri" value="sessionsPapers/17150907"></interp>
+               <interp inst="t17150907-28" type="date" value="17150907"></interp>
+               <join result="criminalCharge" id="t17150907-28-off151-c101" targOrder="Y" targets="t17150907-28-defend163 t17150907-28-off151 t17150907-28-verdict153"></join>
+               <join result="criminalCharge" id="t17150907-28-off151-c102" targOrder="Y" targets="t17150907-28-defend165 t17150907-28-off151 t17150907-28-verdict153"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150907-28-defend163" type="defendantName">
+                     Thomas 
+                     Gowen 
+                  <interp inst="t17150907-28-defend163" type="surname" value="Gowen"></interp>
+                     <interp inst="t17150907-28-defend163" type="given" value="Thomas"></interp>
+                     <interp inst="t17150907-28-defend163" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17150907-28-defend165" type="defendantName">
+                     Joseph 
+                     Pewterer 
+                  <interp inst="t17150907-28-defend165" type="surname" value="Pewterer"></interp>
+                     <interp inst="t17150907-28-defend165" type="given" value="Joseph"></interp>
+                     <interp inst="t17150907-28-defend165" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17150907-28-defloc150">St. Pauls Shadwell</placeName>
+                  <interp inst="t17150907-28-defloc150" type="placeName" value="St. Pauls Shadwell"></interp>
+                  <interp inst="t17150907-28-defloc150" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150907-28-defend163 t17150907-28-defloc150"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17150907-28-defend165 t17150907-28-defloc150"></join>, were indicted for <rs id="t17150907-28-off151" type="offenceDescription">
+                     <interp inst="t17150907-28-off151" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17150907-28-off151" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking open the House of 
+                     
+                        <persName id="t17150907-28-victim167" type="victimName">
+                           Robert 
+                           Brigham 
+                        <interp inst="t17150907-28-victim167" type="surname" value="Brigham"></interp>
+                        <interp inst="t17150907-28-victim167" type="given" value="Robert"></interp>
+                        <interp inst="t17150907-28-victim167" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17150907-28-off151 t17150907-28-victim167"></join>
+                     </persName>
+                      
+                   , and stealing thence 1 Silk Petticoat, 74 Yards of Gnewring , and several other Pieces of Linnen
+            </rs>, the Goods of the said Robert Brigham, on the <rs id="t17150907-28-cd152" type="crimeDate">26th of Aug.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150907-28-off151 t17150907-28-cd152"></join> last. Mrs. Brigham depos'd, That her House was broke open, and several Parcels and Pieces of Linnen were stole. An Headborough swore, That going into Whitechapel Fields, to cut Tuffs for his Larks, early in the Morning, he saw the Prisoners very busy together upon a Spot of Ground, and going up to 'em, to see what they were about, Gowen threw 1 Piece of Linnen into a Ditch, and examining the Place they were so busy at, found 30 Yards of Linnen buried in the Ground, upon which he with the Help of some Persons coming over the Fields, secur'd them; and looking about, found more of the Prosecutor's Goods buried in 3 other Places, and the Prisoners is being search'd, many Pieces of the said Linnen were found in their Bosoms and other Places about them. They made no Defence, and were found <rs id="t17150907-28-verdict153" type="verdictDescription">
+                     <interp inst="t17150907-28-verdict153" type="verdictCategory" value="guilty"></interp>
+               Guilty of Felony and Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t17150907-28-punish154" type="punishmentDescription">
+                     <interp inst="t17150907-28-punish154" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150907-28-defend163 t17150907-28-punish154"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150907-28-defend165 t17150907-28-punish154"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

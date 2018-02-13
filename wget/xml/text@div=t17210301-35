@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210301-35">
+               <interp inst="t17210301-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210301-35" type="year" value="1721"></interp>
+               <interp inst="t17210301-35" type="uri" value="sessionsPapers/17210301"></interp>
+               <interp inst="t17210301-35" type="date" value="17210301"></interp>
+               <join result="criminalCharge" id="t17210301-35-off195-c134" targOrder="Y" targets="t17210301-35-defend209 t17210301-35-off195 t17210301-35-verdict200"></join>
+               <join result="criminalCharge" id="t17210301-35-off197-c134" targOrder="Y" targets="t17210301-35-defend209 t17210301-35-off197 t17210301-35-verdict200"></join>
+         
+               <p>
+            
+                  <persName id="t17210301-35-defend209" type="defendantName">
+                  John
+                   Shouel
+               <interp inst="t17210301-35-defend209" type="surname" value="Shouel"></interp>
+                     <interp inst="t17210301-35-defend209" type="given" value="John"></interp>
+                     <interp inst="t17210301-35-defend209" type="gender" value="male"></interp>
+                  </persName>
+                for <rs id="t17210301-35-off195" type="offenceDescription">
+                     <interp inst="t17210301-35-off195" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210301-35-off195" type="offenceSubcategory" value="other"></interp>
+               feloniously stealing, 4 Plates, 4 Dishes, 2 Porringers, 1 Pewter Bason, a Looking-Glass and 1 Brass Candlestick
+            </rs>, the Goods of 
+               
+                  <persName id="t17210301-35-victim211" type="victimName">
+                     John 
+                     Hooper 
+                  <interp inst="t17210301-35-victim211" type="surname" value="Hooper"></interp>
+                     <interp inst="t17210301-35-victim211" type="given" value="John"></interp>
+                     <interp inst="t17210301-35-victim211" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17210301-35-off195 t17210301-35-victim211"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t17210301-35-off197 t17210301-35-victim211"></join>
+                  </persName>
+                
+             on the <rs id="t17210301-35-cd196" type="crimeDate">25th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210301-35-off195 t17210301-35-cd196"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210301-35-off197 t17210301-35-cd196"></join> last. He was a second time indicted for <rs id="t17210301-35-off197" type="offenceDescription">
+                     <interp inst="t17210301-35-off197" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210301-35-off197" type="offenceSubcategory" value="grandLarceny"></interp>
+               felo niously stealing an Anchor of a Ship value 30 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17210301-35-victim213" type="victimName">
+                     Thomas 
+                     Trigg 
+                  <interp inst="t17210301-35-victim213" type="surname" value="Trigg"></interp>
+                     <interp inst="t17210301-35-victim213" type="given" value="Thomas"></interp>
+                     <interp inst="t17210301-35-victim213" type="gender" value="male"></interp>
+                  </persName>
+                
+             on the <rs id="t17210301-35-cd198" type="crimeDate">20th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210301-35-off195 t17210301-35-cd198"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210301-35-off197 t17210301-35-cd198"></join> last. It appeared that the Goods mentioned in the first Indictment were on board a <placeName id="t17210301-35-crimeloc199">Ship lying at Union-Stairs</placeName>
+                  <interp inst="t17210301-35-crimeloc199" type="placeName" value="Ship lying at Union-Stairs"></interp>
+                  <interp inst="t17210301-35-crimeloc199" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17210301-35-off195 t17210301-35-crimeloc199"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17210301-35-off197 t17210301-35-crimeloc199"></join>; and that the Accomplices of the Prisoner handed them out of the Ship to him, who was taken with them upon him. His Confession of both Indictments was read in Court. The Prisoner had nothing to say in his Defence, but that he was not in the Ship. The Jury sound him <rs id="t17210301-35-verdict200" type="verdictDescription">
+                     <interp inst="t17210301-35-verdict200" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17210301-35-verdict200" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty to the value of 4 s. and 10 d.
+            </rs> 
+                  <rs id="t17210301-35-punish201" type="punishmentDescription">
+                     <interp inst="t17210301-35-punish201" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210301-35-defend209 t17210301-35-punish201"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

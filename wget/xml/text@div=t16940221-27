@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16940221-27">
+               <interp inst="t16940221-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t16940221-27" type="year" value="1694"></interp>
+               <interp inst="t16940221-27" type="uri" value="sessionsPapers/16940221"></interp>
+               <interp inst="t16940221-27" type="date" value="16940221"></interp>
+               <join result="criminalCharge" id="t16940221-27-off103-c85" targOrder="Y" targets="t16940221-27-defend85 t16940221-27-off103 t16940221-27-verdict106"></join>
+         
+               <p>
+            
+                  <persName id="t16940221-27-defend85" type="defendantName">
+                  Joan 
+                  Shore alias <rs id="t16940221-27-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16940221-27-defend85 t16940221-27-alias-2"></join>Steward</rs>
+                     <interp inst="t16940221-27-defend85" type="surname" value="Shore"></interp>
+                     <interp inst="t16940221-27-defend85" type="given" value="Joan"></interp>
+                     <interp inst="t16940221-27-defend85" type="gender" value="female"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16940221-27-defloc102">St. Buttolph Aldersgate</placeName>
+                  <interp inst="t16940221-27-defloc102" type="placeName" value="St. Buttolph Aldersgate"></interp>
+                  <interp inst="t16940221-27-defloc102" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16940221-27-defend85 t16940221-27-defloc102"></join>, was Indicted for <rs id="t16940221-27-off103" type="offenceDescription">
+                     <interp inst="t16940221-27-off103" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16940221-27-off103" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing from 
+                     <persName id="t16940221-27-victim86" type="victimName">
+                        Philip 
+                        Freeman
+                     <interp inst="t16940221-27-victim86" type="surname" value="Freeman"></interp>
+                        <interp inst="t16940221-27-victim86" type="given" value="Philip"></interp>
+                        <interp inst="t16940221-27-victim86" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16940221-27-off103 t16940221-27-victim86"></join>
+                     </persName>
+                   on the <rs id="t16940221-27-cd104" type="crimeDate">twentieth day of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16940221-27-off103 t16940221-27-cd104"></join> four yards of Bone Lace, the Evidence deposed, that she and another came into the Lace-Chamber at the <placeName id="t16940221-27-crimeloc105">White Hart in Aldersgate Street</placeName>
+                     <interp inst="t16940221-27-crimeloc105" type="placeName" value="White Hart in Aldersgate Street"></interp>
+                     <interp inst="t16940221-27-crimeloc105" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16940221-27-off103 t16940221-27-crimeloc105"></join>, and pretending to buy Lace, she privately conveyed the Lace under her Petticoat, under the tip of her Stays
+            </rs>; Freeman missing his Lace, call'd out to stop her, and she was taken upon the stairs, and being searched by a young Gentlewoman, it was found as aforesaid: The Prisoner had nothing to say for her self, and could give no account of her Life and Conversation, she was found <rs id="t16940221-27-verdict106" type="verdictDescription">
+                     <interp inst="t16940221-27-verdict106" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16940221-27-punish107" type="punishmentDescription">
+                     <interp inst="t16940221-27-punish107" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16940221-27-punish107" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16940221-27-defend85 t16940221-27-punish107"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

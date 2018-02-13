@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16931012-21">
+               <interp inst="t16931012-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t16931012-21" type="year" value="1693"></interp>
+               <interp inst="t16931012-21" type="uri" value="sessionsPapers/16931012"></interp>
+               <interp inst="t16931012-21" type="date" value="16931012"></interp>
+               <join result="criminalCharge" id="t16931012-21-off78-c72" targOrder="Y" targets="t16931012-21-defend72 t16931012-21-off78 t16931012-21-verdict80"></join>
+         
+               <p>
+            
+                  <persName id="t16931012-21-defend72" type="defendantName">
+                  Gertrude 
+                  Smith, alias <rs id="t16931012-21-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16931012-21-defend72 t16931012-21-alias-3"></join>Davis</rs>
+                     <interp inst="t16931012-21-defend72" type="surname" value="Smith"></interp>
+                     <interp inst="t16931012-21-defend72" type="given" value="Gertrude"></interp>
+                     <interp inst="t16931012-21-defend72" type="gender" value="female"></interp>
+                  </persName>
+            , was tried for <rs id="t16931012-21-off78" type="offenceDescription">
+                     <interp inst="t16931012-21-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16931012-21-off78" type="offenceSubcategory" value="grandLarceny"></interp>
+               robbing 
+                     <persName id="t16931012-21-victim73" type="victimName">
+                        William 
+                        Wells
+                     <interp inst="t16931012-21-victim73" type="surname" value="Wells"></interp>
+                        <interp inst="t16931012-21-victim73" type="given" value="William"></interp>
+                        <interp inst="t16931012-21-victim73" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16931012-21-off78 t16931012-21-victim73"></join>
+                     </persName>
+                   of a Trunk, with several Laces and other Linen contained in it, besides 40 s. in money
+            </rs>; she lodged at Mr. Wells's in <placeName id="t16931012-21-crimeloc79">Cripplegate Parish</placeName>
+                  <interp inst="t16931012-21-crimeloc79" type="placeName" value="Cripplegate Parish"></interp>
+                  <interp inst="t16931012-21-crimeloc79" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16931012-21-off78 t16931012-21-crimeloc79"></join> and took away the Trunk, which was found in her possession; she said that she had the Trunk of a strange Woman, but that did not avail; she was found <rs id="t16931012-21-verdict80" type="verdictDescription">
+                     <interp inst="t16931012-21-verdict80" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16931012-21-punish81" type="punishmentDescription">
+                     <interp inst="t16931012-21-punish81" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16931012-21-punish81" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16931012-21-defend72 t16931012-21-punish81"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

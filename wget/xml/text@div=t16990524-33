@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16990524-33">
+               <interp inst="t16990524-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16990524-33" type="year" value="1699"></interp>
+               <interp inst="t16990524-33" type="uri" value="sessionsPapers/16990524"></interp>
+               <interp inst="t16990524-33" type="date" value="16990524"></interp>
+               <join result="criminalCharge" id="t16990524-33-off169-c101" targOrder="Y" targets="t16990524-33-defend101 t16990524-33-off169 t16990524-33-verdict172"></join>
+               <join result="criminalCharge" id="t16990524-33-off169-c102" targOrder="Y" targets="t16990524-33-defend102 t16990524-33-off169 t16990524-33-verdict172"></join>
+         
+               <p>
+            
+                  <persName id="t16990524-33-defend101" type="defendantName">
+                  Edward 
+                  Pontlkin
+               <interp inst="t16990524-33-defend101" type="surname" value="Pontlkin"></interp>
+                     <interp inst="t16990524-33-defend101" type="given" value="Edward"></interp>
+                     <interp inst="t16990524-33-defend101" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16990524-33-defend102" type="defendantName">
+                  William 
+                  Carpenter
+               <interp inst="t16990524-33-defend102" type="surname" value="Carpenter"></interp>
+                     <interp inst="t16990524-33-defend102" type="given" value="William"></interp>
+                     <interp inst="t16990524-33-defend102" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16990524-33-defloc168">Stepny</placeName>
+                  <interp inst="t16990524-33-defloc168" type="placeName" value="Stepny"></interp>
+                  <interp inst="t16990524-33-defloc168" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16990524-33-defend101 t16990524-33-defloc168"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16990524-33-defend102 t16990524-33-defloc168"></join>, were Indicted for <rs id="t16990524-33-off169" type="offenceDescription">
+                     <interp inst="t16990524-33-off169" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16990524-33-off169" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 150 Cross barr Shot
+            </rs>, on the <rs id="t16990524-33-cd170" type="crimeDate">15th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16990524-33-off169 t16990524-33-cd170"></join> last, the Goods of 
+               <persName id="t16990524-33-victim103" type="victimName">
+                  John 
+                  Bromwell
+               <interp inst="t16990524-33-victim103" type="surname" value="Bromwell"></interp>
+                     <interp inst="t16990524-33-victim103" type="given" value="John"></interp>
+                     <interp inst="t16990524-33-victim103" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16990524-33-off169 t16990524-33-victim103"></join>
+                  </persName>
+            , <rs id="t16990524-33-viclabel171" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16990524-33-victim103 t16990524-33-viclabel171"></join> The Prosecutor said, that the Shot was stollen out of a Ship and sold by the Prisoners, who had little to say for themselves; the Jury thereupon found them <rs id="t16990524-33-verdict172" type="verdictDescription">
+                     <interp inst="t16990524-33-verdict172" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16990524-33-punish173" type="punishmentDescription">
+                     <interp inst="t16990524-33-punish173" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16990524-33-punish173" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16990524-33-defend101 t16990524-33-punish173"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16990524-33-defend102 t16990524-33-punish173"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

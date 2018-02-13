@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17150907-7">
+               <interp inst="t17150907-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17150907-7" type="year" value="1715"></interp>
+               <interp inst="t17150907-7" type="uri" value="sessionsPapers/17150907"></interp>
+               <interp inst="t17150907-7" type="date" value="17150907"></interp>
+               <join result="criminalCharge" id="t17150907-7-off29-c44" targOrder="Y" targets="t17150907-7-defend59 t17150907-7-off29 t17150907-7-verdict33"></join>
+               <join result="criminalCharge" id="t17150907-7-off29-c45" targOrder="Y" targets="t17150907-7-defend61 t17150907-7-off29 t17150907-7-verdict33"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17150907-7-defend59" type="defendantName">
+                     Bolton 
+                     Freeman 
+                  <interp inst="t17150907-7-defend59" type="surname" value="Freeman"></interp>
+                     <interp inst="t17150907-7-defend59" type="given" value="Bolton"></interp>
+                     <interp inst="t17150907-7-defend59" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17150907-7-defend61" type="defendantName">
+                     Thomas 
+                     Page 
+                  <interp inst="t17150907-7-defend61" type="surname" value="Page"></interp>
+                     <interp inst="t17150907-7-defend61" type="given" value="Thomas"></interp>
+                     <interp inst="t17150907-7-defend61" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted as <rs id="t17150907-7-off29" type="offenceDescription">
+                     <interp inst="t17150907-7-off29" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t17150907-7-off29" type="offenceSubcategory" value="riot"></interp>
+               Rioters, and for Assaulting and Wounding 
+                     
+                        <persName id="t17150907-7-victim63" type="victimName">
+                           Thomas 
+                           Morton 
+                        <interp inst="t17150907-7-victim63" type="surname" value="Morton"></interp>
+                        <interp inst="t17150907-7-victim63" type="given" value="Thomas"></interp>
+                        <interp inst="t17150907-7-victim63" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17150907-7-off29 t17150907-7-victim63"></join>
+                     </persName>
+                      
+                  , a <rs id="t17150907-7-viclabel30" type="occupation">Constable</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17150907-7-victim63 t17150907-7-viclabel30"></join>
+               
+                  </rs>, on the <rs id="t17150907-7-cd31" type="crimeDate">28th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17150907-7-off29 t17150907-7-cd31"></join> last. It appear'd a great Mob came into <placeName id="t17150907-7-crimeloc32">Basing-hall street</placeName>
+                  <interp inst="t17150907-7-crimeloc32" type="placeName" value="Basing-hall street"></interp>
+                  <interp inst="t17150907-7-crimeloc32" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17150907-7-off29 t17150907-7-crimeloc32"></join> about 11 a Clock that Night, hollowing, and breaking the Windows that were illuminated, and committing other Disorders; upon which Mr. Morton went to them, and desired them to be peaceable and quiet, and gave them good Words; whereupon they fell upon him and abus'd him in a barbarous Manner, by giving him a Blow upon the Forehead, which laid it open to the Skull. Freeman own'd he was in this Mob, and hollowed; and Page, that some of the Constable's Blood was upon his Clothes; but said they were going to the Post-house and fell into the Mob by Chance. The Jury considering the Matter, found them <rs id="t17150907-7-verdict33" type="verdictDescription">
+                     <interp inst="t17150907-7-verdict33" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17150907-7-punish34" type="punishmentDescription">
+                     <interp inst="t17150907-7-punish34" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17150907-7-punish34" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150907-7-defend59 t17150907-7-punish34"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17150907-7-defend61 t17150907-7-punish34"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

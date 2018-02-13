@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17291015-98">
+               <interp inst="t17291015-98" type="collection" value="BAILEY"></interp>
+               <interp inst="t17291015-98" type="year" value="1729"></interp>
+               <interp inst="t17291015-98" type="uri" value="sessionsPapers/17291015"></interp>
+               <interp inst="t17291015-98" type="date" value="17291015"></interp>
+               <join result="criminalCharge" id="t17291015-98-off476-c329" targOrder="Y" targets="t17291015-98-defend534 t17291015-98-off476 t17291015-98-verdict479"></join>
+               <join result="criminalCharge" id="t17291015-98-off476-c330" targOrder="Y" targets="t17291015-98-defend536 t17291015-98-off476 t17291015-98-verdict478"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17291015-98-defend534" type="defendantName">
+                     Sarah 
+                     Polton 
+                  <interp inst="t17291015-98-defend534" type="surname" value="Polton"></interp>
+                     <interp inst="t17291015-98-defend534" type="given" value="Sarah"></interp>
+                     <interp inst="t17291015-98-defend534" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17291015-98-defend536" type="defendantName">
+                     Elizabeth 
+                     Polton 
+                  <interp inst="t17291015-98-defend536" type="surname" value="Polton"></interp>
+                     <interp inst="t17291015-98-defend536" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17291015-98-defend536" type="gender" value="female"></interp>
+                  </persName>
+                
+            , of <placeName id="t17291015-98-defloc475">Edmington</placeName>
+                  <interp inst="t17291015-98-defloc475" type="placeName" value="Edmington"></interp>
+                  <interp inst="t17291015-98-defloc475" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17291015-98-defend534 t17291015-98-defloc475"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17291015-98-defend536 t17291015-98-defloc475"></join>, were indicted for <rs id="t17291015-98-off476" type="offenceDescription">
+                     <interp inst="t17291015-98-off476" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17291015-98-off476" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of 
+                     
+                        <persName id="t17291015-98-victim538" type="victimName">
+                           Thomas 
+                           Tacks 
+                        <interp inst="t17291015-98-victim538" type="surname" value="Tacks"></interp>
+                        <interp inst="t17291015-98-victim538" type="given" value="Thomas"></interp>
+                        <interp inst="t17291015-98-victim538" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17291015-98-off476 t17291015-98-victim538"></join>
+                     </persName>
+                      
+                  , the <rs id="t17291015-98-cd477" type="crimeDate">19th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17291015-98-off476 t17291015-98-cd477"></join> last, and stealing a pair of Sheets, and other Goods
+            </rs>; the <rs id="t17291015-98-verdict478" type="verdictDescription">
+                     <interp inst="t17291015-98-verdict478" type="verdictCategory" value="notGuilty"></interp>
+               Burglary being not prov'd, of that they were acquitted, and also Elizabeth Polton of the Felony
+            </rs>; but 
+               <persName id="t17291015-98-person539">
+                  Sarah 
+                  Polton 
+               <interp inst="t17291015-98-person539" type="surname" value="Polton"></interp>
+                     <interp inst="t17291015-98-person539" type="given" value="Sarah"></interp>
+                     <interp inst="t17291015-98-person539" type="gender" value="female"></interp>
+                  </persName>
+             was found <rs id="t17291015-98-verdict479" type="verdictDescription">
+                     <interp inst="t17291015-98-verdict479" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17291015-98-verdict479" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17291015-98-punish480" type="punishmentDescription">
+                     <interp inst="t17291015-98-punish480" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17291015-98-punish480" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17291015-98-defend534 t17291015-98-punish480"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

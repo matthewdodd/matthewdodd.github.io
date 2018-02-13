@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17250224-14">
+               <interp inst="t17250224-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17250224-14" type="year" value="1725"></interp>
+               <interp inst="t17250224-14" type="uri" value="sessionsPapers/17250224"></interp>
+               <interp inst="t17250224-14" type="date" value="17250224"></interp>
+               <join result="criminalCharge" id="t17250224-14-off65-c60" targOrder="Y" targets="t17250224-14-defend80 t17250224-14-off65 t17250224-14-verdict69"></join>
+               <join result="criminalCharge" id="t17250224-14-off65-c61" targOrder="Y" targets="t17250224-14-defend82 t17250224-14-off65 t17250224-14-verdict68"></join>
+         
+               <p>
+            
+                  <persName id="t17250224-14-defend80" type="defendantName">
+                  William 
+                  Fell 
+               <interp inst="t17250224-14-defend80" type="surname" value="Fell"></interp>
+                     <interp inst="t17250224-14-defend80" type="given" value="William"></interp>
+                     <interp inst="t17250224-14-defend80" type="gender" value="male"></interp>
+                  </persName>
+              and 
+               
+                  <persName id="t17250224-14-defend82" type="defendantName">
+                     George 
+                     Nichols 
+                  <interp inst="t17250224-14-defend82" type="surname" value="Nichols"></interp>
+                     <interp inst="t17250224-14-defend82" type="given" value="George"></interp>
+                     <interp inst="t17250224-14-defend82" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17250224-14-defloc64">Wilsden</placeName>
+                  <interp inst="t17250224-14-defloc64" type="placeName" value="Wilsden"></interp>
+                  <interp inst="t17250224-14-defloc64" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17250224-14-defend80 t17250224-14-defloc64"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17250224-14-defend82 t17250224-14-defloc64"></join>, were indicted for <rs id="t17250224-14-off65" type="offenceDescription">
+                     <interp inst="t17250224-14-off65" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17250224-14-off65" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing an Ox, val. 20l
+            </rs> the Goods of 
+               
+                  <persName id="t17250224-14-victim84" type="victimName">
+                     William 
+                     Cuxon 
+                  <interp inst="t17250224-14-victim84" type="surname" value="Cuxon"></interp>
+                     <interp inst="t17250224-14-victim84" type="given" value="William"></interp>
+                     <interp inst="t17250224-14-victim84" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17250224-14-off65 t17250224-14-victim84"></join>
+                  </persName>
+                
+            , on the 17th of Feburary. William Cuxon, <rs id="t17250224-14-viclabel66" type="occupation">Grasier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17250224-14-victim84 t17250224-14-viclabel66"></join>, depos'd, that he lost the Ox out of his Ground at <placeName id="t17250224-14-crimeloc67">Kilborn</placeName>
+                  <interp inst="t17250224-14-crimeloc67" type="placeName" value="Kilborn"></interp>
+                  <interp inst="t17250224-14-crimeloc67" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17250224-14-off65 t17250224-14-crimeloc67"></join>, which was afterwards seized by - Neal, a Butcher, in Clare Market. - Neal depos'd, that the Prisoner Nichols came to him about Five in the Morning, and said, Here is a Man has brought me An Ox to the Slaughter-House, and asks 5 l. for it; I wish you could came and see it. He went, and presently knew it to be the Prosecutor's Ox. Have a care what you do, says he to Nichols, for this is Cuxon's Bullock, and I believe it is stoln. If you think so says Nichols, I can quickly bring your to Will. Fell, the Man that brought it, for he is but at that Alehouse. They went together, and found him sitting by the Fire; and after a sharp Examination, brought him to confess that he stole it from Kilborn, And did not your Heart ake, you Dog, as you came by Tyburn? says Neal. Yes, faith did it, says Fell, I thought I should came to be hang'd there, for this very Ox. I made several Stops, and had a great Mind to drive him back again; but the Devil was in me, and so I came forward. No Proof appearing against Nichols, and several giving him a good Character, the Jury <rs id="t17250224-14-verdict68" type="verdictDescription">
+                     <interp inst="t17250224-14-verdict68" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> him, but found Fell <rs id="t17250224-14-verdict69" type="verdictDescription">
+                     <interp inst="t17250224-14-verdict69" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>. <rs id="t17250224-14-punish70" type="punishmentDescription">
+                     <interp inst="t17250224-14-punish70" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17250224-14-defend80 t17250224-14-punish70"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

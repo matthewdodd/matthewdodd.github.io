@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17180110-14">
+               <interp inst="t17180110-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17180110-14" type="year" value="1718"></interp>
+               <interp inst="t17180110-14" type="uri" value="sessionsPapers/17180110"></interp>
+               <interp inst="t17180110-14" type="date" value="17180110"></interp>
+               <join result="criminalCharge" id="t17180110-14-off64-c59" targOrder="Y" targets="t17180110-14-defend90 t17180110-14-off64 t17180110-14-verdict68"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17180110-14-defend90" type="defendantName">
+                     Alexander 
+                     Mackperson 
+                  <interp inst="t17180110-14-defend90" type="surname" value="Mackperson"></interp>
+                     <interp inst="t17180110-14-defend90" type="given" value="Alexander"></interp>
+                     <interp inst="t17180110-14-defend90" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17180110-14-defloc63">Kensington</placeName>
+                  <interp inst="t17180110-14-defloc63" type="placeName" value="Kensington"></interp>
+                  <interp inst="t17180110-14-defloc63" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17180110-14-defend90 t17180110-14-defloc63"></join> , was indicted for <rs id="t17180110-14-off64" type="offenceDescription">
+                     <interp inst="t17180110-14-off64" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17180110-14-off64" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a pair of Silver Spurs, value 40 s. a pair of Pistols, value 40 s. a Wig, value 10 l . and other Goods, out of the Dwelling-House of <rs id="t17180110-14-viclabel65" type="occupation">Sir</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17180110-14-victim92 t17180110-14-viclabel65"></join> 
+                  
+                     
+                        <persName id="t17180110-14-victim92" type="victimName">
+                           John 
+                           Guy 
+                        <interp inst="t17180110-14-victim92" type="surname" value="Guy"></interp>
+                        <interp inst="t17180110-14-victim92" type="given" value="John"></interp>
+                        <interp inst="t17180110-14-victim92" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17180110-14-off64 t17180110-14-victim92"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs> , the <rs id="t17180110-14-cd66" type="crimeDate">26th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17180110-14-off64 t17180110-14-cd66"></join> last. The Evidence deposed that the Prisoner being <rs id="t17180110-14-deflabel67" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17180110-14-defend90 t17180110-14-deflabel67"></join> to Sir John, Lodging in the House to look after it, stole the Goods, and offered them to Sale, but they were stopped. The Prisoner owned that he stole them. The Jury found him <rs id="t17180110-14-verdict68" type="verdictDescription">
+                     <interp inst="t17180110-14-verdict68" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t17180110-14-punish69" type="punishmentDescription">
+                     <interp inst="t17180110-14-punish69" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t17180110-14-punish69" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17180110-14-defend90 t17180110-14-punish69"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

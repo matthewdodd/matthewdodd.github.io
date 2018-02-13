@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18670506-505">
+               <interp inst="t18670506-505" type="uri" value="sessionsPapers/18670506"></interp>
+               <interp inst="t18670506-505" type="date" value="18670506"></interp>
+               <join result="criminalCharge" id="t18670506-505-charge-1" targOrder="Y" targets="def1-505-18670506 t18670506-505-offence-1 t18670506-505-verdict-1"></join>
+               <join result="criminalCharge" id="t18670506-505-charge-2" targOrder="Y" targets="def2-505-18670506 t18670506-505-offence-1 t18670506-505-verdict-1"></join>
+               <p>505. <persName id="def1-505-18670506" type="defendantName">
+                     <interp inst="def1-505-18670506" type="gender" value="male"></interp>
+                     <interp inst="def1-505-18670506" type="age" value="19"></interp>
+                     <interp inst="def1-505-18670506" type="surname" value="WILSON"></interp>
+                     <interp inst="def1-505-18670506" type="given" value="THOMAS"></interp>
+                     <hi rend="largeCaps">THOMAS WILSON</hi> (19)</persName> and <persName id="def2-505-18670506" type="defendantName">
+                     <interp inst="def2-505-18670506" type="gender" value="male"></interp>
+                     <interp inst="def2-505-18670506" type="age" value="35"></interp>
+                     <interp inst="def2-505-18670506" type="surname" value="JONES"></interp>
+                     <interp inst="def2-505-18670506" type="given" value="THOMAS"></interp>
+                     <hi rend="largeCaps">THOMAS JONES</hi> (35)</persName> 
+                  <hi rend="smallCaps">
+                     <rs id="t18670506-505-verdict-1" type="verdictDescription">
+                        <interp inst="t18670506-505-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18670506-505-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi> 
+                  <rs id="t18670506-505-offence-1" type="offenceDescription">
+                     <interp inst="t18670506-505-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18670506-505-offence-1" type="offenceSubcategory" value="simpleLarceny"></interp>to stealing a coat, the property of <persName id="t18670506-name-260" type="victimName">
+                        <interp inst="t18670506-name-260" type="gender" value="male"></interp>
+                        <interp inst="t18670506-name-260" type="surname" value="BAXTER"></interp>
+                        <interp inst="t18670506-name-260" type="given" value="EDWIN"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18670506-505-offence-1 t18670506-name-260"></join>Edwin Baxter</persName>, both having been before convicted.</rs>—<hi rend="italic">
+                     <rs id="t18670506-505-punishment-52" type="punishmentDescription">
+                        <interp inst="t18670506-505-punishment-52" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18670506-505-punishment-52" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-505-18670506 t18670506-505-punishment-52"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-505-18670506 t18670506-505-punishment-52"></join>Confined Eighteen Months each</rs>.</hi>
+               </p>
+            </div1>

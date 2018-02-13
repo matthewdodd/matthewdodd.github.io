@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16960708-1">
+               <interp inst="t16960708-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16960708-1" type="year" value="1696"></interp>
+               <interp inst="t16960708-1" type="uri" value="sessionsPapers/16960708"></interp>
+               <interp inst="t16960708-1" type="date" value="16960708"></interp>
+               <join result="criminalCharge" id="t16960708-1-off2-c27" targOrder="Y" targets="t16960708-1-defend27 t16960708-1-off2 t16960708-1-verdict4"></join>
+               <join result="criminalCharge" id="t16960708-1-off2-c28" targOrder="Y" targets="t16960708-1-defend28 t16960708-1-off2 t16960708-1-verdict5"></join>
+               <join result="criminalCharge" id="t16960708-1-off2-c29" targOrder="Y" targets="t16960708-1-defend29 t16960708-1-off2 t16960708-1-verdict4"></join>
+         
+               <p>
+            
+                  <persName id="t16960708-1-defend27" type="defendantName">
+                  Mary 
+                  Robinson
+               <interp inst="t16960708-1-defend27" type="surname" value="Robinson"></interp>
+                     <interp inst="t16960708-1-defend27" type="given" value="Mary"></interp>
+                     <interp inst="t16960708-1-defend27" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t16960708-1-defend28" type="defendantName">
+                  Mary 
+                  Collins
+               <interp inst="t16960708-1-defend28" type="surname" value="Collins"></interp>
+                     <interp inst="t16960708-1-defend28" type="given" value="Mary"></interp>
+                     <interp inst="t16960708-1-defend28" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t16960708-1-defend29" type="defendantName">
+                  Elizabeth 
+                  Davis alias <rs id="t16960708-1-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16960708-1-defend29 t16960708-1-alias-1"></join>Bowen</rs>
+                     <interp inst="t16960708-1-defend29" type="surname" value="Davis"></interp>
+                     <interp inst="t16960708-1-defend29" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16960708-1-defend29" type="gender" value="female"></interp>
+                  </persName>
+            , all of the Parish of <placeName id="t16960708-1-defloc1">St. Michael Querne</placeName>
+                  <interp inst="t16960708-1-defloc1" type="placeName" value="St. Michael Querne"></interp>
+                  <interp inst="t16960708-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960708-1-defend27 t16960708-1-defloc1"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960708-1-defend28 t16960708-1-defloc1"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16960708-1-defend29 t16960708-1-defloc1"></join>, were indicted for <rs id="t16960708-1-off2" type="offenceDescription">
+                     <interp inst="t16960708-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16960708-1-off2" type="offenceSubcategory" value="shoplifting"></interp>
+               feloniously stealing 28 yards of Flower'd Silk, val. 7 l. 10 s. and 45 yards of other Silk
+            </rs>, the Goods of 
+               <persName id="t16960708-1-victim30" type="victimName">
+                  Peter 
+                  Pickering
+               <interp inst="t16960708-1-victim30" type="surname" value="Pickering"></interp>
+                     <interp inst="t16960708-1-victim30" type="given" value="Peter"></interp>
+                     <interp inst="t16960708-1-victim30" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16960708-1-off2 t16960708-1-victim30"></join>
+                  </persName>
+            ; on the <rs id="t16960708-1-cd3" type="crimeDate">30th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16960708-1-off2 t16960708-1-cd3"></join> last Robinson and Davis, alias Bowen, upon their Arraignment <rs id="t16960708-1-verdict4" type="verdictDescription">
+                     <interp inst="t16960708-1-verdict4" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16960708-1-verdict4" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>, but Collins put her self upon her Tryal, and it appeared by the Evidence that they did all three go together into the Shop to cheapen some Goods, and whilst Mr. Pickering was busy, they stole the Goods, and sold them to a Woman by the Half-moon Tavern in Cheapside. There was one Evidence, who said that she did see Collins take one piece of the Silk; the Jury found her <rs id="t16960708-1-verdict5" type="verdictDescription">
+                     <interp inst="t16960708-1-verdict5" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16960708-1-punish6" type="punishmentDescription">
+                     <interp inst="t16960708-1-punish6" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16960708-1-punish6" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960708-1-defend27 t16960708-1-punish6"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960708-1-defend28 t16960708-1-punish6"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16960708-1-defend29 t16960708-1-punish6"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17270222-73">
+               <interp inst="t17270222-73" type="collection" value="BAILEY"></interp>
+               <interp inst="t17270222-73" type="year" value="1727"></interp>
+               <interp inst="t17270222-73" type="uri" value="sessionsPapers/17270222"></interp>
+               <interp inst="t17270222-73" type="date" value="17270222"></interp>
+               <join result="criminalCharge" id="t17270222-73-off383-c267" targOrder="Y" targets="t17270222-73-defend401 t17270222-73-off383 t17270222-73-verdict385"></join>
+         
+               <p>
+            
+                  <persName id="t17270222-73-defend401" type="defendantName">
+                  Tobias 
+                  Holms 
+               <interp inst="t17270222-73-defend401" type="surname" value="Holms"></interp>
+                     <interp inst="t17270222-73-defend401" type="given" value="Tobias"></interp>
+                     <interp inst="t17270222-73-defend401" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17270222-73-defloc382">St. Martin's in the Fields</placeName>
+                  <interp inst="t17270222-73-defloc382" type="placeName" value="St. Martin's in the Fields"></interp>
+                  <interp inst="t17270222-73-defloc382" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17270222-73-defend401 t17270222-73-defloc382"></join>, was indicted for <rs id="t17270222-73-off383" type="offenceDescription">
+                     <interp inst="t17270222-73-off383" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17270222-73-off383" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one Book, value 4 s. on the <rs id="t17270222-73-cd384" type="crimeDate">13th of Feb.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17270222-73-off383 t17270222-73-cd384"></join> last, in the House of 
+                     
+                        <persName id="t17270222-73-victim403" type="victimName">
+                           Ralph 
+                           Taylor 
+                        <interp inst="t17270222-73-victim403" type="surname" value="Taylor"></interp>
+                        <interp inst="t17270222-73-victim403" type="given" value="Ralph"></interp>
+                        <interp inst="t17270222-73-victim403" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17270222-73-off383 t17270222-73-victim403"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, which appearing plain. He was found <rs id="t17270222-73-verdict385" type="verdictDescription">
+                     <interp inst="t17270222-73-verdict385" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17270222-73-verdict385" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17270222-73-punish386" type="punishmentDescription">
+                     <interp inst="t17270222-73-punish386" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17270222-73-punish386" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17270222-73-defend401 t17270222-73-punish386"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

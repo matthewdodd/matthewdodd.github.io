@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17151207-49">
+               <interp inst="t17151207-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17151207-49" type="year" value="1715"></interp>
+               <interp inst="t17151207-49" type="uri" value="sessionsPapers/17151207"></interp>
+               <interp inst="t17151207-49" type="date" value="17151207"></interp>
+               <join result="criminalCharge" id="t17151207-49-off246-c145" targOrder="Y" targets="t17151207-49-defend255 t17151207-49-off246 t17151207-49-verdict248"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17151207-49-defend255" type="defendantName">
+                     Jane 
+                     Cape 
+                  <interp inst="t17151207-49-defend255" type="surname" value="Cape"></interp>
+                     <interp inst="t17151207-49-defend255" type="given" value="Jane"></interp>
+                     <interp inst="t17151207-49-defend255" type="gender" value="female"></interp>
+                  </persName>
+                
+             of the Parish of <placeName id="t17151207-49-defloc245">St. James Westminster</placeName>
+                  <interp inst="t17151207-49-defloc245" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t17151207-49-defloc245" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17151207-49-defend255 t17151207-49-defloc245"></join> , was indicted for <rs id="t17151207-49-off246" type="offenceDescription">
+                     <interp inst="t17151207-49-off246" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17151207-49-off246" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing 30 Yards of Stuff , Value 20 s. out of the Shop of 
+                     
+                        <persName id="t17151207-49-victim257" type="victimName">
+                           Edward 
+                           Pigg 
+                        <interp inst="t17151207-49-victim257" type="surname" value="Pigg"></interp>
+                        <interp inst="t17151207-49-victim257" type="given" value="Edward"></interp>
+                        <interp inst="t17151207-49-victim257" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17151207-49-off246 t17151207-49-victim257"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, on the <rs id="t17151207-49-cd247" type="crimeDate">1st of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17151207-49-off246 t17151207-49-cd247"></join> last. The Fact was plainly prov'd and the Goods taken upon her; which the Jury considering, found her <rs id="t17151207-49-verdict248" type="verdictDescription">
+                     <interp inst="t17151207-49-verdict248" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17151207-49-verdict248" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty to the Value of 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17151207-49-punish249" type="punishmentDescription">
+                     <interp inst="t17151207-49-punish249" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17151207-49-punish249" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17151207-49-defend255 t17151207-49-punish249"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

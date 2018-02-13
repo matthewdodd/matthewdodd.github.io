@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840702-9">
+               <interp inst="t16840702-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840702-9" type="year" value="1684"></interp>
+               <interp inst="t16840702-9" type="uri" value="sessionsPapers/16840702"></interp>
+               <interp inst="t16840702-9" type="date" value="16840702"></interp>
+               <join result="criminalCharge" id="t16840702-9-off38-c26" targOrder="Y" targets="t16840702-9-defend35 t16840702-9-off38 t16840702-9-verdict41"></join>
+         
+               <p>
+            
+                  <persName id="t16840702-9-defend35" type="defendantName">
+                  Mary 
+                  Shelton
+               <interp inst="t16840702-9-defend35" type="surname" value="Shelton"></interp>
+                     <interp inst="t16840702-9-defend35" type="given" value="Mary"></interp>
+                     <interp inst="t16840702-9-defend35" type="gender" value="female"></interp>
+                  </persName>
+             Indicted for <rs id="t16840702-9-off38" type="offenceDescription">
+                     <interp inst="t16840702-9-off38" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840702-9-off38" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a hundred Pounds in Moneys numbred
+            </rs>, on the <rs id="t16840702-9-cd39" type="crimeDate">16th. of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16840702-9-off38 t16840702-9-cd39"></join> last, being the Moneys of Sir 
+               <persName id="t16840702-9-victim36" type="victimName">
+                  Job 
+                  Charleton
+               <interp inst="t16840702-9-victim36" type="surname" value="Charleton"></interp>
+                     <interp inst="t16840702-9-victim36" type="given" value="Job"></interp>
+                     <interp inst="t16840702-9-victim36" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840702-9-off38 t16840702-9-victim36"></join>
+                  </persName>
+            , <rs id="t16840702-9-viclabel40" type="occupation">Kt.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840702-9-victim36 t16840702-9-viclabel40"></join> To which she <rs id="t16840702-9-verdict41" type="verdictDescription">
+                     <interp inst="t16840702-9-verdict41" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16840702-9-verdict41" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16840702-9-punish42" type="punishmentDescription">
+                     <interp inst="t16840702-9-punish42" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840702-9-defend35 t16840702-9-punish42"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

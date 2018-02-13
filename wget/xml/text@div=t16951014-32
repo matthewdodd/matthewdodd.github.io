@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16951014-32">
+               <interp inst="t16951014-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16951014-32" type="year" value="1695"></interp>
+               <interp inst="t16951014-32" type="uri" value="sessionsPapers/16951014"></interp>
+               <interp inst="t16951014-32" type="date" value="16951014"></interp>
+               <join result="criminalCharge" id="t16951014-32-off176-c102" targOrder="Y" targets="t16951014-32-defend102 t16951014-32-off176 t16951014-32-verdict179"></join>
+         
+               <p>
+            
+                  <persName id="t16951014-32-defend102" type="defendantName">
+                  John 
+                  Stanford
+               <interp inst="t16951014-32-defend102" type="surname" value="Stanford"></interp>
+                     <interp inst="t16951014-32-defend102" type="given" value="John"></interp>
+                     <interp inst="t16951014-32-defend102" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16951014-32-defloc175">St. Clement Danes</placeName>
+                  <interp inst="t16951014-32-defloc175" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t16951014-32-defloc175" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16951014-32-defend102 t16951014-32-defloc175"></join> was Indicted for the <rs id="t16951014-32-off176" type="offenceDescription">
+                     <interp inst="t16951014-32-off176" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16951014-32-off176" type="offenceSubcategory" value="murder"></interp>
+               Murder of 
+                     <persName id="t16951014-32-victim103" type="victimName">
+                        John 
+                        Durnall
+                     <interp inst="t16951014-32-victim103" type="surname" value="Durnall"></interp>
+                        <interp inst="t16951014-32-victim103" type="given" value="John"></interp>
+                        <interp inst="t16951014-32-victim103" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16951014-32-off176 t16951014-32-victim103"></join>
+                     </persName>
+                   on the <rs id="t16951014-32-cd177" type="crimeDate">17th. of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16951014-32-off176 t16951014-32-cd177"></join> last, by giving him one mortal Wound of the breadth of one Inch, and of the depth of two Inches, with a Rapier value 2s. 6d. on the right part of the Belly nigh to the Navel
+            </rs>. It appeared that the Prisoner and the Deceased were drinking at the <placeName id="t16951014-32-crimeloc178">Ship Tavern in Claremarket</placeName>
+                  <interp inst="t16951014-32-crimeloc178" type="placeName" value="Ship Tavern in Claremarket"></interp>
+                  <interp inst="t16951014-32-crimeloc178" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16951014-32-off176 t16951014-32-crimeloc178"></join>, and after they had drunk two Pints of Wine, they played at All-Fours for another Pint. The Master of the house being called up stairs to other Company, left them playing together, they falling out drew their Swords, and did pass at each other. The Master of the house hearing the clashing of Swords ran down stairs, and being come into the Room, he found Stanford sitting on the ground with his Sword under him by the Wall, and Durnall standing on his feet. The Prisoner said that the Deceased drew his Sword first, and ran him into the Breast, and then he went back as far as the Wall, and could go no further; and then he ran the Deceased into the Belly, and Durnall afterwards called for a Chair, and said that he would go up stairs, but died Immediately. The Jury found him <rs id="t16951014-32-verdict179" type="verdictDescription">
+                     <interp inst="t16951014-32-verdict179" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16951014-32-verdict179" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16951014-32-punish180" type="punishmentDescription">
+                     <interp inst="t16951014-32-punish180" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16951014-32-punish180" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16951014-32-defend102 t16951014-32-punish180"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

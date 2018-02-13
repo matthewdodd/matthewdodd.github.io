@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16970224-58">
+               <interp inst="t16970224-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t16970224-58" type="year" value="1697"></interp>
+               <interp inst="t16970224-58" type="uri" value="sessionsPapers/16970224"></interp>
+               <interp inst="t16970224-58" type="date" value="16970224"></interp>
+               <join result="criminalCharge" id="t16970224-58-off303-c172" targOrder="Y" targets="t16970224-58-defend172 t16970224-58-off303 t16970224-58-verdict305"></join>
+         
+               <p>
+            
+                  <persName id="t16970224-58-defend172" type="defendantName">
+                  Elizabeth 
+                  Perry
+               <interp inst="t16970224-58-defend172" type="surname" value="Perry"></interp>
+                     <interp inst="t16970224-58-defend172" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16970224-58-defend172" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16970224-58-defloc302">St. Anns Westminster</placeName>
+                  <interp inst="t16970224-58-defloc302" type="placeName" value="St. Anns Westminster"></interp>
+                  <interp inst="t16970224-58-defloc302" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16970224-58-defend172 t16970224-58-defloc302"></join>, was indicted for <rs id="t16970224-58-off303" type="offenceDescription">
+                     <interp inst="t16970224-58-off303" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16970224-58-off303" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, for breaking the House of 
+                     <persName id="t16970224-58-victim173" type="victimName">
+                        John 
+                        Mills
+                     <interp inst="t16970224-58-victim173" type="surname" value="Mills"></interp>
+                        <interp inst="t16970224-58-victim173" type="given" value="John"></interp>
+                        <interp inst="t16970224-58-victim173" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16970224-58-off303 t16970224-58-victim173"></join>
+                     </persName>
+                  , on the <rs id="t16970224-58-cd304" type="crimeDate">6th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16970224-58-off303 t16970224-58-cd304"></join> last, and taking thence a pair of Plush Breeches, and divers other Goods
+            </rs>. It did appear to be Burglary, but only Felony. The Jury found her <rs id="t16970224-58-verdict305" type="verdictDescription">
+                     <interp inst="t16970224-58-verdict305" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16970224-58-verdict305" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16970224-58-punish306" type="punishmentDescription">
+                     <interp inst="t16970224-58-punish306" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16970224-58-punish306" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16970224-58-defend172 t16970224-58-punish306"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

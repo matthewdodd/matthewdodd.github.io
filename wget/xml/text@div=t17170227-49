@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170227-49">
+               <interp inst="t17170227-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170227-49" type="year" value="1717"></interp>
+               <interp inst="t17170227-49" type="uri" value="sessionsPapers/17170227"></interp>
+               <interp inst="t17170227-49" type="date" value="17170227"></interp>
+               <join result="criminalCharge" id="t17170227-49-off242-c183" targOrder="Y" targets="t17170227-49-defend291 t17170227-49-off242 t17170227-49-verdict245"></join>
+               <join result="criminalCharge" id="t17170227-49-off242-c184" targOrder="Y" targets="t17170227-49-defend293 t17170227-49-off242 t17170227-49-verdict244"></join>
+               <join result="criminalCharge" id="t17170227-49-off242-c185" targOrder="Y" targets="t17170227-49-defend295 t17170227-49-off242 t17170227-49-verdict244"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170227-49-defend291" type="defendantName">
+                     Samuel 
+                     Hargate 
+                  <interp inst="t17170227-49-defend291" type="surname" value="Hargate"></interp>
+                     <interp inst="t17170227-49-defend291" type="given" value="Samuel"></interp>
+                     <interp inst="t17170227-49-defend291" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17170227-49-defend293" type="defendantName">
+                     Joseph 
+                     Simpson 
+                  <interp inst="t17170227-49-defend293" type="surname" value="Simpson"></interp>
+                     <interp inst="t17170227-49-defend293" type="given" value="Joseph"></interp>
+                     <interp inst="t17170227-49-defend293" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17170227-49-defend295" type="defendantName">
+                     Thomas 
+                     Dike 
+                  <interp inst="t17170227-49-defend295" type="surname" value="Dike"></interp>
+                     <interp inst="t17170227-49-defend295" type="given" value="Thomas"></interp>
+                     <interp inst="t17170227-49-defend295" type="gender" value="male"></interp>
+                  </persName>
+                
+            ,(all <rs id="t17170227-49-deflabel241" type="occupation">boys</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17170227-49-defend291 t17170227-49-deflabel241"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17170227-49-defend293 t17170227-49-deflabel241"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17170227-49-defend295 t17170227-49-deflabel241"></join>) were indicted for <rs id="t17170227-49-off242" type="offenceDescription">
+                     <interp inst="t17170227-49-off242" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170227-49-off242" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Callico Gown and Petticoat, value 17 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17170227-49-victim297" type="victimName">
+                     John 
+                     Johnson 
+                  <interp inst="t17170227-49-victim297" type="surname" value="Johnson"></interp>
+                     <interp inst="t17170227-49-victim297" type="given" value="John"></interp>
+                     <interp inst="t17170227-49-victim297" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17170227-49-off242 t17170227-49-victim297"></join>
+                  </persName>
+                
+            , the <rs id="t17170227-49-cd243" type="crimeDate">20th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170227-49-off242 t17170227-49-cd243"></join> last. There was no Evidence against them but a little Boy, too young to be an Evidence. But Hargate had acknowledged the taking them off from a Line; so the Jury <rs id="t17170227-49-verdict244" type="verdictDescription">
+                     <interp inst="t17170227-49-verdict244" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> the other two, and found 
+               <persName id="t17170227-49-person298">
+                  Samuel 
+                  Hargate 
+               <interp inst="t17170227-49-person298" type="surname" value="Hargate"></interp>
+                     <interp inst="t17170227-49-person298" type="given" value="Samuel"></interp>
+                     <interp inst="t17170227-49-person298" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17170227-49-verdict245" type="verdictDescription">
+                     <interp inst="t17170227-49-verdict245" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170227-49-verdict245" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17170227-49-punish246" type="punishmentDescription">
+                     <interp inst="t17170227-49-punish246" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17170227-49-punish246" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170227-49-defend291 t17170227-49-punish246"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

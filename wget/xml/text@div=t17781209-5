@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17781209-5">
+               <interp inst="t17781209-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17781209-5" type="year" value="1778"></interp>
+               <interp inst="t17781209-5" type="uri" value="sessionsPapers/17781209"></interp>
+               <interp inst="t17781209-5" type="date" value="17781209"></interp>
+               <join result="criminalCharge" id="t17781209-5-off34-c64" targOrder="Y" targets="t17781209-5-defend77 t17781209-5-off34 t17781209-5-verdict39"></join>
+               <join result="criminalCharge" id="t17781209-5-off34-c65" targOrder="Y" targets="t17781209-5-defend79 t17781209-5-off34 t17781209-5-verdict38"></join>
+         
+               <p>6, 7. 
+               
+                  <persName id="t17781209-5-defend77" type="defendantName">
+                     SARAH
+                      STEVENS
+                  <interp inst="t17781209-5-defend77" type="surname" value="STEVENS"></interp>
+                     <interp inst="t17781209-5-defend77" type="given" value="SARAH"></interp>
+                     <interp inst="t17781209-5-defend77" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17781209-5-defend79" type="defendantName">
+                     MARGARET
+                      ALLEN
+                  <interp inst="t17781209-5-defend79" type="surname" value="ALLEN"></interp>
+                     <interp inst="t17781209-5-defend79" type="given" value="MARGARET"></interp>
+                     <interp inst="t17781209-5-defend79" type="gender" value="female"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17781209-5-off34" type="offenceDescription">
+                     <interp inst="t17781209-5-off34" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17781209-5-off34" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two pewter quart pots, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17781209-5-victim81" type="victimName">
+                     William
+                      Stonell
+                  <interp inst="t17781209-5-victim81" type="surname" value="Stonell"></interp>
+                     <interp inst="t17781209-5-victim81" type="given" value="William"></interp>
+                     <interp inst="t17781209-5-victim81" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17781209-5-off34 t17781209-5-victim81"></join>
+                  </persName>
+               
+            , <rs id="t17781209-5-cd35" type="crimeDate">November 12th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17781209-5-off34 t17781209-5-cd35"></join>.</p>
+               <p>
+            
+                  <persName id="t17781209-5-person82">
+                  WILLIAM
+                   STONELL
+               <interp inst="t17781209-5-person82" type="surname" value="STONELL"></interp>
+                     <interp inst="t17781209-5-person82" type="given" value="WILLIAM"></interp>
+                     <interp inst="t17781209-5-person82" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>I <rs id="t17781209-5-viclabel36" type="occupation">keep the <placeName id="t17781209-5-crimeloc37">Goat and Star in Pall-Mall</placeName>
+                     <interp inst="t17781209-5-crimeloc37" type="placeName" value="Goat and Star in Pall-Mall"></interp>
+                     <interp inst="t17781209-5-crimeloc37" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17781209-5-off34 t17781209-5-crimeloc37"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17781209-5-victim81 t17781209-5-viclabel36"></join>. I saw the two prisoners coming along Pall-Mall; the woman, Stevens, took up a quart pot, and she sent the little girl, Allen, to take up another; I followed them a little way, and then I seized them both, and took two of my pots from them.</p>
+               <p>(They were produced in court, and deposed to by the prosecutor.)</p>
+               <p>How old is the child? - Nine years old. I have lost fourteen pounds worth of pots within three months.</p>
+               <p>[The prisoners did not say any thing in their defence.]</p>
+               <p>ALLEN <rs id="t17781209-5-verdict38" type="verdictDescription">
+                     <interp inst="t17781209-5-verdict38" type="verdictCategory" value="notGuilty"></interp>
+               NOTGUILTY
+            </rs>.</p>
+               <p>STEVENS <rs id="t17781209-5-verdict39" type="verdictDescription">
+                     <interp inst="t17781209-5-verdict39" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>Tried by the Second Middlesex Jury before Mr. Baron HOTHAM.</p>
+               <p>
+                  <rs id="t17781209-5-punish40" type="punishmentDescription">
+                     <interp inst="t17781209-5-punish40" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17781209-5-punish40" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17781209-5-defend77 t17781209-5-punish40"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17781209-5-punish41" type="punishmentDescription">
+                     <interp inst="t17781209-5-punish41" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17781209-5-defend77 t17781209-5-punish41"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

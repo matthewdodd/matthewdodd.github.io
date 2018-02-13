@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18210411-104">
+               <interp inst="t18210411-104" type="collection" value="BAILEY"></interp>
+               <interp inst="t18210411-104" type="year" value="1821"></interp>
+               <interp inst="t18210411-104" type="uri" value="sessionsPapers/18210411"></interp>
+               <interp inst="t18210411-104" type="date" value="18210411"></interp>
+               <join result="criminalCharge" id="t18210411-104-off640-c911" targOrder="Y" targets="t18210411-104-defend1175 t18210411-104-off640 t18210411-104-verdict644"></join>
+         
+               <p>5  
+               
+                  <persName id="t18210411-104-defend1175" type="defendantName">
+                     JOHN 
+                     SMITH
+                  <interp inst="t18210411-104-defend1175" type="surname" value="SMITH"></interp>
+                     <interp inst="t18210411-104-defend1175" type="given" value="JOHN"></interp>
+                     <interp inst="t18210411-104-defend1175" type="gender" value="male"></interp>
+                     <interp inst="t18210411-104-defend1175" type="age" value="32"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t18210411-104-off640" type="offenceDescription">
+                     <interp inst="t18210411-104-off640" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18210411-104-off640" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18210411-104-cd641" type="crimeDate">5th March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18210411-104-off640 t18210411-104-cd641"></join>, 12 lbs. of salt, value 3 s., and 1 lb. of flower, value 3 d
+            </rs>; the goods of 
+               
+                  <persName id="t18210411-104-victim1177" type="victimName">
+                     Robert 
+                     Moseley
+                  <interp inst="t18210411-104-victim1177" type="surname" value="Moseley"></interp>
+                     <interp inst="t18210411-104-victim1177" type="given" value="Robert"></interp>
+                     <interp inst="t18210411-104-victim1177" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18210411-104-off640 t18210411-104-victim1177"></join>
+                  </persName>
+               
+            .</p>
+               <p>
+            
+                  <persName id="t18210411-104-person1178">
+                  ELIZA 
+                  MOSELEY
+               <interp inst="t18210411-104-person1178" type="surname" value="MOSELEY"></interp>
+                     <interp inst="t18210411-104-person1178" type="given" value="ELIZA"></interp>
+                     <interp inst="t18210411-104-person1178" type="gender" value="female"></interp>
+                  </persName>
+            . I live at No. 58, <placeName id="t18210411-104-crimeloc642">Charlotte-street, Whitechapel</placeName>
+                  <interp inst="t18210411-104-crimeloc642" type="placeName" value="Charlotte-street, Whitechapel"></interp>
+                  <interp inst="t18210411-104-crimeloc642" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18210411-104-off640 t18210411-104-crimeloc642"></join>. I saw the prisoner going out of our bake-house - he was a <rs id="t18210411-104-deflabel643" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18210411-104-defend1175 t18210411-104-deflabel643"></join>. I stopped and told him I suspected he had been stealing something - he denied it. I took salt out of each of his four pockets, and a bag of salt out of his hat - he begged me to let him go, There was also 2 lbs. of flour in his pockets.</p>
+               <p>
+            
+                  <persName id="t18210411-104-person1179">
+                  ROBERT 
+                  MOSELEY
+               <interp inst="t18210411-104-person1179" type="surname" value="MOSELEY"></interp>
+                     <interp inst="t18210411-104-person1179" type="given" value="ROBERT"></interp>
+                     <interp inst="t18210411-104-person1179" type="gender" value="male"></interp>
+                  </persName>
+            . I was out - when I came in the prisoner was standing in the parlour. I fetched the officer.</p>
+               <p>
+            
+                  <persName id="t18210411-104-person1180">
+                  RICHARD 
+                  PLUNKITT
+               <interp inst="t18210411-104-person1180" type="surname" value="PLUNKITT"></interp>
+                     <interp inst="t18210411-104-person1180" type="given" value="RICHARD"></interp>
+                     <interp inst="t18210411-104-person1180" type="gender" value="male"></interp>
+                  </persName>
+            . I took charge of him, and found the 6 lb. of salt wrapped round him in a stocking.</p>
+               <p>Prisoner's Defence. I have three children who were starving, and I throw myself entirely on your mercy.</p>
+               <p>
+                  <rs id="t18210411-104-verdict644" type="verdictDescription">
+                     <interp inst="t18210411-104-verdict644" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 32.</p>
+               <p>
+                  <rs id="t18210411-104-punish645" type="punishmentDescription">
+                     <interp inst="t18210411-104-punish645" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18210411-104-defend1175 t18210411-104-punish645"></join>
+               Confined Three Months
+            </rs>, and <rs id="t18210411-104-punish646" type="punishmentDescription">
+                     <interp inst="t18210411-104-punish646" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t18210411-104-punish646" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18210411-104-defend1175 t18210411-104-punish646"></join>
+               Whipped
+            </rs>.</p>
+               <p>First Middlesex Jury, before Mr. Common Sergeant.</p>
+            </div1>

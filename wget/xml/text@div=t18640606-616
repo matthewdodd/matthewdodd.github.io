@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18640606-616">
+               <interp inst="t18640606-616" type="uri" value="sessionsPapers/18640606"></interp>
+               <interp inst="t18640606-616" type="date" value="18640606"></interp>
+               <join result="criminalCharge" id="t18640606-616-charge-1" targOrder="Y" targets="def1-616-18640606 t18640606-616-offence-1 t18640606-616-verdict-2"></join>
+               <join result="criminalCharge" id="t18640606-616-charge-2" targOrder="Y" targets="def2-616-18640606 t18640606-616-offence-1 t18640606-616-verdict-1"></join>
+               <p>616. <persName id="def1-616-18640606" type="defendantName">
+                     <interp inst="def1-616-18640606" type="gender" value="male"></interp>
+                     <interp inst="def1-616-18640606" type="age" value="20"></interp>
+                     <interp inst="def1-616-18640606" type="surname" value="EVANS"></interp>
+                     <interp inst="def1-616-18640606" type="given" value="THOMAS"></interp>
+                     <hi rend="largeCaps">THOMAS EVANS</hi> (20)</persName>, and <persName id="def2-616-18640606" type="defendantName">
+                     <interp inst="def2-616-18640606" type="gender" value="male"></interp>
+                     <interp inst="def2-616-18640606" type="age" value="19"></interp>
+                     <interp inst="def2-616-18640606" type="surname" value="CASTLE"></interp>
+                     <interp inst="def2-616-18640606" type="given" value="JAMES"></interp>
+                     <hi rend="largeCaps">JAMES CASTLE</hi> (19)</persName>
+                  <rs id="t18640606-616-offence-1" type="offenceDescription">
+                     <interp inst="t18640606-616-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18640606-616-offence-1" type="offenceSubcategory" value="burglary"></interp>, Burglariously breaking and entering the dwelling-house of <persName id="t18640606-name-205" type="victimName">
+                        <interp inst="t18640606-name-205" type="gender" value="male"></interp>
+                        <interp inst="t18640606-name-205" type="surname" value="LIND"></interp>
+                        <interp inst="t18640606-name-205" type="given" value="HENRY"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18640606-616-offence-1 t18640606-name-205"></join>Henry Lind</persName>, at <placeName id="t18640606-geo-1">
+                        <join result="offencePlace" targOrder="Y" targets="t18640606-616-offence-1 t18640606-geo-1"></join>
+                        <join result="persNamePlace" targOrder="Y" targets="t18640606-name-205 t18640606-geo-1"></join>Kensington</placeName>, and stealing therein 1 coffee-pot, 2 tea-pots, and other articles, value 3<hi rend="italic">l</hi>. 10<hi rend="italic">s</hi>. his property; to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">CASTLE</hi> 
+                  <hi rend="smallCaps">
+                     <rs id="t18640606-616-verdict-1" type="verdictDescription">
+                        <interp inst="t18640606-616-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18640606-616-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>PLEADED GUILTY</rs>
+                  </hi>.*—<hi rend="italic">He received a good character.</hi>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18640606-616-punishment-46" type="punishmentDescription">
+                        <interp inst="t18640606-616-punishment-46" type="punishmentCategory" value="imprison"></interp>
+                        <interp inst="t18640606-616-punishment-46" type="punishmentSubcategory" value="no_subcategory"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-616-18640606 t18640606-616-punishment-46"></join>Confined Eighteen Months</rs>.</hi>
+               </p>
+               <p>
+                  <hi rend="smallCaps">MR. BEST</hi> 
+                  <hi rend="italic">for the Prosecution offered no evidence against</hi> 
+                  <hi rend="largeCaps">EVANS</hi>.</p>
+               <p>
+                  <hi rend="smallCaps">
+                     <rs id="t18640606-616-verdict-2" type="verdictDescription">
+                        <interp inst="t18640606-616-verdict-2" type="verdictCategory" value="notGuilty"></interp>
+                        <interp inst="t18640606-616-verdict-2" type="verdictSubcategory" value="noEvidence"></interp>NOT GUILTY</rs>
+                  </hi>.</p>
+            </div1>

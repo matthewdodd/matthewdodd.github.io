@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17170501-12">
+               <interp inst="t17170501-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17170501-12" type="year" value="1717"></interp>
+               <interp inst="t17170501-12" type="uri" value="sessionsPapers/17170501"></interp>
+               <interp inst="t17170501-12" type="date" value="17170501"></interp>
+               <join result="criminalCharge" id="t17170501-12-off62-c53" targOrder="Y" targets="t17170501-12-defend79 t17170501-12-off62 t17170501-12-verdict64"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17170501-12-defend79" type="defendantName">
+                     Nicholas 
+                     Corbett 
+                  <interp inst="t17170501-12-defend79" type="surname" value="Corbett"></interp>
+                     <interp inst="t17170501-12-defend79" type="given" value="Nicholas"></interp>
+                     <interp inst="t17170501-12-defend79" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17170501-12-defloc61">St. Giles in the Fields</placeName>
+                  <interp inst="t17170501-12-defloc61" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17170501-12-defloc61" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17170501-12-defend79 t17170501-12-defloc61"></join>, was indicted for <rs id="t17170501-12-off62" type="offenceDescription">
+                     <interp inst="t17170501-12-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17170501-12-off62" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing 2 sugar-loaves, value 10 s. out of the shop
+            </rs> of 
+               
+                  <persName id="t17170501-12-victim81" type="victimName">
+                     Susannah 
+                     Miler 
+                  <interp inst="t17170501-12-victim81" type="surname" value="Miler"></interp>
+                     <interp inst="t17170501-12-victim81" type="given" value="Susannah"></interp>
+                     <interp inst="t17170501-12-victim81" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17170501-12-off62 t17170501-12-victim81"></join>
+                  </persName>
+                
+            , the <rs id="t17170501-12-cd63" type="crimeDate">1st of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17170501-12-off62 t17170501-12-cd63"></join> last. The Evidence deposed that the Prisoner came into the shop, and took the Loaves off from a shelf, and carried them away, but she crying out, he dropped them. The Prisoner deny'd the Fact, saying, he went in to buy a half penny worth of Tobacco, and being in drink, might perhaps brush the Loaves down, and they roll'd into the Hreet. But this did not avail, but that the Jury brought him <rs id="t17170501-12-verdict64" type="verdictDescription">
+                     <interp inst="t17170501-12-verdict64" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17170501-12-verdict64" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17170501-12-punish65" type="punishmentDescription">
+                     <interp inst="t17170501-12-punish65" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17170501-12-punish65" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17170501-12-defend79 t17170501-12-punish65"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

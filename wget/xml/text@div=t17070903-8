@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17070903-8">
+               <interp inst="t17070903-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17070903-8" type="year" value="1707"></interp>
+               <interp inst="t17070903-8" type="uri" value="sessionsPapers/17070903"></interp>
+               <interp inst="t17070903-8" type="date" value="17070903"></interp>
+               <join result="criminalCharge" id="t17070903-8-off39-c45" targOrder="Y" targets="t17070903-8-defend45 t17070903-8-off39 t17070903-8-verdict42"></join>
+         
+               <p>
+            
+                  <persName id="t17070903-8-defend45" type="defendantName">
+                  Peter 
+                  Small
+               <interp inst="t17070903-8-defend45" type="surname" value="Small"></interp>
+                     <interp inst="t17070903-8-defend45" type="given" value="Peter"></interp>
+                     <interp inst="t17070903-8-defend45" type="gender" value="male"></interp>
+                  </persName>
+            , of London <rs id="t17070903-8-deflabel38" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17070903-8-defend45 t17070903-8-deflabel38"></join>, was Indicted for the <rs id="t17070903-8-off39" type="offenceDescription">
+                     <interp inst="t17070903-8-off39" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17070903-8-off39" type="offenceSubcategory" value="murder"></interp>
+               Murther of 
+                     <persName id="t17070903-8-victim46" type="victimName">
+                        John 
+                        Watkinson
+                     <interp inst="t17070903-8-victim46" type="surname" value="Watkinson"></interp>
+                        <interp inst="t17070903-8-victim46" type="given" value="John"></interp>
+                        <interp inst="t17070903-8-victim46" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17070903-8-off39 t17070903-8-victim46"></join>
+                     </persName>
+                  , by Drowning him in the River <placeName id="t17070903-8-crimeloc40">Thames</placeName>
+                     <interp inst="t17070903-8-crimeloc40" type="placeName" value="Thames"></interp>
+                     <interp inst="t17070903-8-crimeloc40" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17070903-8-off39 t17070903-8-crimeloc40"></join> on the <rs id="t17070903-8-cd41" type="crimeDate">2d of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17070903-8-off39 t17070903-8-cd41"></join> last
+            </rs>. The Evidence depos'd that the Prisoner was on Board a Wherry, and the Deceas'd on Board a Lighter, then Riding at the Custom House Key, that the Prisoner told the Deceased that the had no right to Ride there, and that if he did not remove his Vessel, he would Cut the Rope and set her a Drift, and threatned to Beat the Deceas'd; that the Deceased took up a Hand-Spike to defend himself, (in case the Prisoner should Strike him) the end of which Accidently push'd the Prisoner. At which the Prisoner took the Deceased by the left Legg and pull'd him into the Thames, where he perished before he could be taken up. The Prisoner in his Defence Produc'd Evidence to prove that he used his endeavour to save the Deceased, and it did not appear that he had any design of Drowning him. The Jury found him <rs id="t17070903-8-verdict42" type="verdictDescription">
+                     <interp inst="t17070903-8-verdict42" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17070903-8-verdict42" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter only
+            </rs>.</p>
+               <p>
+                  <rs id="t17070903-8-punish43" type="punishmentDescription">
+                     <interp inst="t17070903-8-punish43" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17070903-8-punish43" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17070903-8-defend45 t17070903-8-punish43"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17100418-20">
+               <interp inst="t17100418-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17100418-20" type="year" value="1710"></interp>
+               <interp inst="t17100418-20" type="uri" value="sessionsPapers/17100418"></interp>
+               <interp inst="t17100418-20" type="date" value="17100418"></interp>
+               <join result="criminalCharge" id="t17100418-20-off89-c80" targOrder="Y" targets="t17100418-20-defend112 t17100418-20-off89 t17100418-20-verdict91"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17100418-20-defend112" type="defendantName">
+                     John 
+                     Butteridge
+                  <interp inst="t17100418-20-defend112" type="surname" value="Butteridge"></interp>
+                     <interp inst="t17100418-20-defend112" type="given" value="John"></interp>
+                     <interp inst="t17100418-20-defend112" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17100418-20-defloc87">Istleworth</placeName>
+                  <interp inst="t17100418-20-defloc87" type="placeName" value="Istleworth"></interp>
+                  <interp inst="t17100418-20-defloc87" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17100418-20-defend112 t17100418-20-defloc87"></join>, <rs id="t17100418-20-deflabel88" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17100418-20-defend112 t17100418-20-deflabel88"></join>, was indicted for <rs id="t17100418-20-off89" type="offenceDescription">
+                     <interp inst="t17100418-20-off89" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17100418-20-off89" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously Stealing 100 bundles of Laths value 4 l. 10 s.
+            </rs> the Goods of 
+               <persName id="t17100418-20-victim113" type="victimName">
+                  John 
+                  Bill
+               <interp inst="t17100418-20-victim113" type="surname" value="Bill"></interp>
+                     <interp inst="t17100418-20-victim113" type="given" value="John"></interp>
+                     <interp inst="t17100418-20-victim113" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17100418-20-off89 t17100418-20-victim113"></join>
+                  </persName>
+            , on the <rs id="t17100418-20-cd90" type="crimeDate">10th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17100418-20-off89 t17100418-20-cd90"></join> last: It appear'd that the Prosecutor lost his Goods, which were in the possession of a Person that bought them of the Prisoner, and the Prisoner when apprehended confess'd the Fact. The Jury found him <rs id="t17100418-20-verdict91" type="verdictDescription">
+                     <interp inst="t17100418-20-verdict91" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t17100418-20-punish92" type="punishmentDescription">
+                     <interp inst="t17100418-20-punish92" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17100418-20-punish92" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17100418-20-defend112 t17100418-20-punish92"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

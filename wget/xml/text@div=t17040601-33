@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17040601-33">
+               <interp inst="t17040601-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17040601-33" type="year" value="1704"></interp>
+               <interp inst="t17040601-33" type="uri" value="sessionsPapers/17040601"></interp>
+               <interp inst="t17040601-33" type="date" value="17040601"></interp>
+               <join result="criminalCharge" id="t17040601-33-off172-c122" targOrder="Y" targets="t17040601-33-defend122 t17040601-33-off172 t17040601-33-verdict174"></join>
+               <join result="criminalCharge" id="t17040601-33-off172-c123" targOrder="Y" targets="t17040601-33-defend123 t17040601-33-off172 t17040601-33-verdict175"></join>
+         
+               <p>
+            
+                  <persName id="t17040601-33-defend122" type="defendantName">
+                  Judith 
+                  Browne
+               <interp inst="t17040601-33-defend122" type="surname" value="Browne"></interp>
+                     <interp inst="t17040601-33-defend122" type="given" value="Judith"></interp>
+                     <interp inst="t17040601-33-defend122" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17040601-33-defend123" type="defendantName">
+                  Mary 
+                  Farrel
+               <interp inst="t17040601-33-defend123" type="surname" value="Farrel"></interp>
+                     <interp inst="t17040601-33-defend123" type="given" value="Mary"></interp>
+                     <interp inst="t17040601-33-defend123" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t17040601-33-defloc171">St. Anns Westminster</placeName>
+                  <interp inst="t17040601-33-defloc171" type="placeName" value="St. Anns Westminster"></interp>
+                  <interp inst="t17040601-33-defloc171" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040601-33-defend122 t17040601-33-defloc171"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17040601-33-defend123 t17040601-33-defloc171"></join>, was indicted for <rs id="t17040601-33-off172" type="offenceDescription">
+                     <interp inst="t17040601-33-off172" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17040601-33-off172" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of 
+                     <persName id="t17040601-33-victim124" type="victimName">
+                        John 
+                        Fosset
+                     <interp inst="t17040601-33-victim124" type="surname" value="Fosset"></interp>
+                        <interp inst="t17040601-33-victim124" type="given" value="John"></interp>
+                        <interp inst="t17040601-33-victim124" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17040601-33-off172 t17040601-33-victim124"></join>
+                     </persName>
+                   on the <rs id="t17040601-33-cd173" type="crimeDate">20th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17040601-33-off172 t17040601-33-cd173"></join> last, in the Day time, no Person being therein, and taking thence 3 Holland-Sheets, and divers other Goods
+            </rs>. It appeared that the Goods were found upon Farrell when taken, and <rs id="t17040601-33-verdict174" type="verdictDescription">
+                     <interp inst="t17040601-33-verdict174" type="verdictCategory" value="notGuilty"></interp>
+               nothing upon Brown
+            </rs>, and there being no Evidence to the breaking the House, the Jury found Farrel <rs id="t17040601-33-verdict175" type="verdictDescription">
+                     <interp inst="t17040601-33-verdict175" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17040601-33-verdict175" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17040601-33-punish176" type="punishmentDescription">
+                     <interp inst="t17040601-33-punish176" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17040601-33-punish176" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17040601-33-defend123 t17040601-33-punish176"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

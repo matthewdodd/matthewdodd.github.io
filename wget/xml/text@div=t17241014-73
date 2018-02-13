@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17241014-73">
+               <interp inst="t17241014-73" type="collection" value="BAILEY"></interp>
+               <interp inst="t17241014-73" type="year" value="1724"></interp>
+               <interp inst="t17241014-73" type="uri" value="sessionsPapers/17241014"></interp>
+               <interp inst="t17241014-73" type="date" value="17241014"></interp>
+               <join result="criminalCharge" id="t17241014-73-off368-c232" targOrder="Y" targets="t17241014-73-defend355 t17241014-73-off368 t17241014-73-verdict371"></join>
+               <join result="criminalCharge" id="t17241014-73-off373-c232" targOrder="Y" targets="t17241014-73-defend355 t17241014-73-off373 t17241014-73-verdict371"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17241014-73-defend355" type="defendantName">
+                     John 
+                     Lowen 
+                  <interp inst="t17241014-73-defend355" type="surname" value="Lowen"></interp>
+                     <interp inst="t17241014-73-defend355" type="given" value="John"></interp>
+                     <interp inst="t17241014-73-defend355" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17241014-73-defloc367">St. Mary le Bow in the Ward of Cheap</placeName>
+                  <interp inst="t17241014-73-defloc367" type="placeName" value="St. Mary le Bow in the Ward of Cheap"></interp>
+                  <interp inst="t17241014-73-defloc367" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17241014-73-defend355 t17241014-73-defloc367"></join>, was indicted for <rs id="t17241014-73-off368" type="offenceDescription">
+                     <interp inst="t17241014-73-off368" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17241014-73-off368" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a Silk Handkerchief, value 2 s. 6. from the Person of 
+                     
+                        <persName id="t17241014-73-victim357" type="victimName">
+                           Nicholas 
+                           Bland 
+                        <interp inst="t17241014-73-victim357" type="surname" value="Bland"></interp>
+                        <interp inst="t17241014-73-victim357" type="given" value="Nicholas"></interp>
+                        <interp inst="t17241014-73-victim357" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17241014-73-off368 t17241014-73-victim357"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17241014-73-off373 t17241014-73-victim357"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs> the <rs id="t17241014-73-cd369" type="crimeDate">19th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17241014-73-off368 t17241014-73-cd369"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17241014-73-off373 t17241014-73-cd369"></join> last. It appear'd by the Evidence, that as the Prosecutor was going along <placeName id="t17241014-73-crimeloc370">Cheapside</placeName>
+                  <interp inst="t17241014-73-crimeloc370" type="placeName" value="Cheapside"></interp>
+                  <interp inst="t17241014-73-crimeloc370" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17241014-73-off368 t17241014-73-crimeloc370"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17241014-73-off373 t17241014-73-crimeloc370"></join> he lost his Handkerchief, and the Prisoner being Suspected was apprehended, having that Handkerchief in his Hand, and 6 more in his Pocket. The Jury found him <rs id="t17241014-73-verdict371" type="verdictDescription">
+                     <interp inst="t17241014-73-verdict371" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17241014-73-verdict371" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17241014-73-punish372" type="punishmentDescription">
+                     <interp inst="t17241014-73-punish372" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17241014-73-defend355 t17241014-73-punish372"></join>
+               Transportation
+            </rs>.</p>
+               <p>He was also try'd a second Time, for <rs id="t17241014-73-off373" type="offenceDescription">
+                     <interp inst="t17241014-73-off373" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17241014-73-off373" type="offenceSubcategory" value="other"></interp>
+               stealing 4 Handkerchiefs from Persons unknown
+            </rs>: But of this he was <rs id="t17241014-73-verdict374" type="verdictDescription">
+                     <interp inst="t17241014-73-verdict374" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17120111-20">
+               <interp inst="t17120111-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17120111-20" type="year" value="1712"></interp>
+               <interp inst="t17120111-20" type="uri" value="sessionsPapers/17120111"></interp>
+               <interp inst="t17120111-20" type="date" value="17120111"></interp>
+               <join result="criminalCharge" id="t17120111-20-off83-c69" targOrder="Y" targets="t17120111-20-defend99 t17120111-20-off83 t17120111-20-verdict86"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17120111-20-defend99" type="defendantName">
+                     Edward 
+                     Clements
+                  <interp inst="t17120111-20-defend99" type="surname" value="Clements"></interp>
+                     <interp inst="t17120111-20-defend99" type="given" value="Edward"></interp>
+                     <interp inst="t17120111-20-defend99" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17120111-20-defloc82">Fulham</placeName>
+                  <interp inst="t17120111-20-defloc82" type="placeName" value="Fulham"></interp>
+                  <interp inst="t17120111-20-defloc82" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17120111-20-defend99 t17120111-20-defloc82"></join>, was indicted for <rs id="t17120111-20-off83" type="offenceDescription">
+                     <interp inst="t17120111-20-off83" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17120111-20-off83" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Gelding
+            </rs> from 
+               
+                  <persName id="t17120111-20-victim101" type="victimName">
+                     Ralph 
+                     Sheldon
+                  <interp inst="t17120111-20-victim101" type="surname" value="Sheldon"></interp>
+                     <interp inst="t17120111-20-victim101" type="given" value="Ralph"></interp>
+                     <interp inst="t17120111-20-victim101" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17120111-20-off83 t17120111-20-victim101"></join>
+                  </persName>
+               
+            , <rs id="t17120111-20-viclabel84" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17120111-20-victim101 t17120111-20-viclabel84"></join>; on the <rs id="t17120111-20-cd85" type="crimeDate">3d of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17120111-20-off83 t17120111-20-cd85"></join> last. The Evidence (a Servant of Mr. Sheldon's) depos'd That the Horse was lost out of his Master's Grounds at Weston in Warwickshire, and it was prov'd that the Prisoner brought it to Walham-Green, and from thence to Queen-street, where both the Man and Gelding were taken; and the Prisoner confess'd the Fact. He said in his Defence, that he did not take the Horse out of the Grounds, but found it on the Road bridled and saddled, and rode him to London, intending to have him back again. There were Evidence who said he had been a very honest Man, and he said he was frighted into a Confession: But that not being sufficient to induce the Jury to believe him innocent, they found him <rs id="t17120111-20-verdict86" type="verdictDescription">
+                     <interp inst="t17120111-20-verdict86" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Horse-stealing.</p>
+               <p>
+                  <rs id="t17120111-20-punish87" type="punishmentDescription">
+                     <interp inst="t17120111-20-punish87" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17120111-20-defend99 t17120111-20-punish87"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

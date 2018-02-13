@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17301014-54">
+               <interp inst="t17301014-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17301014-54" type="year" value="1730"></interp>
+               <interp inst="t17301014-54" type="uri" value="sessionsPapers/17301014"></interp>
+               <interp inst="t17301014-54" type="date" value="17301014"></interp>
+               <join result="criminalCharge" id="t17301014-54-off258-c180" targOrder="Y" targets="t17301014-54-defend282 t17301014-54-off258 t17301014-54-verdict261"></join>
+               <join result="criminalCharge" id="t17301014-54-off258-c181" targOrder="Y" targets="t17301014-54-defend284 t17301014-54-off258 t17301014-54-verdict261"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="173010140013"></xptr>
+            
+               
+                  <persName id="t17301014-54-defend282" type="defendantName">
+                     Robert 
+                     Stader 
+                  <interp inst="t17301014-54-defend282" type="surname" value="Stader"></interp>
+                     <interp inst="t17301014-54-defend282" type="given" value="Robert"></interp>
+                     <interp inst="t17301014-54-defend282" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17301014-54-defloc256">Christ-Church, Spittle-Fields</placeName>
+                  <interp inst="t17301014-54-defloc256" type="placeName" value="Christ-Church, Spittle-Fields"></interp>
+                  <interp inst="t17301014-54-defloc256" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17301014-54-defend282 t17301014-54-defloc256"></join>, and 
+               
+                  <persName id="t17301014-54-defend284" type="defendantName">
+                     Thomas 
+                     Stader 
+                  <interp inst="t17301014-54-defend284" type="surname" value="Stader"></interp>
+                     <interp inst="t17301014-54-defend284" type="given" value="Thomas"></interp>
+                     <interp inst="t17301014-54-defend284" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17301014-54-defloc257">White-Chapel</placeName>
+                  <interp inst="t17301014-54-defloc257" type="placeName" value="White-Chapel"></interp>
+                  <interp inst="t17301014-54-defloc257" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17301014-54-defend284 t17301014-54-defloc257"></join>, were indicted, the former for <rs id="t17301014-54-off258" type="offenceDescription">
+                     <interp inst="t17301014-54-off258" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17301014-54-off258" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 8 lb. of Bengall Silk, value 4 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17301014-54-victim286" type="victimName">
+                     Stephen 
+                     Sydenham 
+                  <interp inst="t17301014-54-victim286" type="surname" value="Sydenham"></interp>
+                     <interp inst="t17301014-54-victim286" type="given" value="Stephen"></interp>
+                     <interp inst="t17301014-54-victim286" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17301014-54-off258 t17301014-54-victim286"></join>
+                  </persName>
+                
+             , the <rs id="t17301014-54-cd259" type="crimeDate">17th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17301014-54-off258 t17301014-54-cd259"></join> last.</p>
+               <p>It appear'd by the Evidence, That Robert Stader being a <rs id="t17301014-54-deflabel260" type="occupation">Covenant Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17301014-54-defend282 t17301014-54-deflabel260"></join> to the Prosecutor, took the opportunity of carrying away Bobbins of Silk a Nights when he went from Work; and having got the Silk wound off, did bring back the empty Bobbins in the Morning to make up the Number of Bobbins delivered out to him to throw; and that the Prosecutor finding a Bale of Silk fall short, and suspecting the Prisoner, search'd his Father's House, where he found three full Bobbins in a Box, of which 
+               <persName id="t17301014-54-person287">
+                  Thomas 
+                  Stader 
+               <interp inst="t17301014-54-person287" type="surname" value="Stader"></interp>
+                     <interp inst="t17301014-54-person287" type="given" value="Thomas"></interp>
+                     <interp inst="t17301014-54-person287" type="gender" value="male"></interp>
+                  </persName>
+            , the Father, had the Key; the Fact being plainly prov'd, the Jury found them <rs id="t17301014-54-verdict261" type="verdictDescription">
+                     <interp inst="t17301014-54-verdict261" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17301014-54-verdict261" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty to the value of 4s. 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17301014-54-punish262" type="punishmentDescription">
+                     <interp inst="t17301014-54-punish262" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17301014-54-defend282 t17301014-54-punish262"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17301014-54-defend284 t17301014-54-punish262"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

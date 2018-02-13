@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17771203-75">
+               <interp inst="t17771203-75" type="collection" value="BAILEY"></interp>
+               <interp inst="t17771203-75" type="year" value="1777"></interp>
+               <interp inst="t17771203-75" type="uri" value="sessionsPapers/17771203"></interp>
+               <interp inst="t17771203-75" type="date" value="17771203"></interp>
+               <join result="criminalCharge" id="t17771203-75-off407-c520" targOrder="Y" targets="t17771203-75-defend702 t17771203-75-off407 t17771203-75-verdict409"></join>
+         
+               <p>99. 
+               
+                  <persName id="t17771203-75-defend702" type="defendantName">
+                     JOHN
+                      JONES
+                  <interp inst="t17771203-75-defend702" type="surname" value="JONES"></interp>
+                     <interp inst="t17771203-75-defend702" type="given" value="JOHN"></interp>
+                     <interp inst="t17771203-75-defend702" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17771203-75-off407" type="offenceDescription">
+                     <interp inst="t17771203-75-off407" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17771203-75-off407" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing fifty-six pound of butter, value 30 s. and a wooden firkin, 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17771203-75-victim704" type="victimName">
+                     John
+                      Bacon
+                  <interp inst="t17771203-75-victim704" type="surname" value="Bacon"></interp>
+                     <interp inst="t17771203-75-victim704" type="given" value="John"></interp>
+                     <interp inst="t17771203-75-victim704" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17771203-75-off407 t17771203-75-victim704"></join>
+                  </persName>
+               
+            , <rs id="t17771203-75-cd408" type="crimeDate">November 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17771203-75-off407 t17771203-75-cd408"></join>.</p>
+               <p>
+                  <rs id="t17771203-75-verdict409" type="verdictDescription">
+                     <interp inst="t17771203-75-verdict409" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>.</p>
+               <p>
+                  <rs id="t17771203-75-punish410" type="punishmentDescription">
+                     <interp inst="t17771203-75-punish410" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17771203-75-punish410" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17771203-75-defend702 t17771203-75-punish410"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

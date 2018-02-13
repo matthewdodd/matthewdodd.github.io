@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17151012-23">
+               <interp inst="t17151012-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17151012-23" type="year" value="1715"></interp>
+               <interp inst="t17151012-23" type="uri" value="sessionsPapers/17151012"></interp>
+               <interp inst="t17151012-23" type="date" value="17151012"></interp>
+               <join result="criminalCharge" id="t17151012-23-off99-c80" targOrder="Y" targets="t17151012-23-defend120 t17151012-23-off99 t17151012-23-verdict102"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17151012-23-defend120" type="defendantName">
+                     Mary 
+                     Rutter 
+                  <interp inst="t17151012-23-defend120" type="surname" value="Rutter"></interp>
+                     <interp inst="t17151012-23-defend120" type="given" value="Mary"></interp>
+                     <interp inst="t17151012-23-defend120" type="gender" value="female"></interp>
+                  </persName>
+               
+             , of the Parish of <placeName id="t17151012-23-defloc98">St. Andrew Holborn</placeName>
+                  <interp inst="t17151012-23-defloc98" type="placeName" value="St. Andrew Holborn"></interp>
+                  <interp inst="t17151012-23-defloc98" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17151012-23-defend120 t17151012-23-defloc98"></join>, was indicted for <rs id="t17151012-23-off99" type="offenceDescription">
+                     <interp inst="t17151012-23-off99" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17151012-23-off99" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 1 Muslin Handkerchief, 4 Holland Sleeves, 2 Diaper Napkins, a Wastcoat, and other Goods, to the value of 15 s.
+            </rs> from 
+               
+                  <persName id="t17151012-23-victim122" type="victimName">
+                     Edmund 
+                     Thompson 
+                  <interp inst="t17151012-23-victim122" type="surname" value="Thompson"></interp>
+                     <interp inst="t17151012-23-victim122" type="given" value="Edmund"></interp>
+                     <interp inst="t17151012-23-victim122" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17151012-23-off99 t17151012-23-victim122"></join>
+                  </persName>
+                
+            , on the <rs id="t17151012-23-cd100" type="crimeDate">28th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17151012-23-off99 t17151012-23-cd100"></join> last. Mrs. Thompson swore, the Prisoner was her <rs id="t17151012-23-deflabel101" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17151012-23-defend120 t17151012-23-deflabel101"></join>, and having been rob'd sometime before without discovering the Thief, upon this Loss she suspected the Prisoner, and knowing where she had a Child at Nurse, went there, and found her Goods. The Prisoner said in her Defence, she took them up with her own Clothes, they lying all together; but that was impossible, it being prov'd they were lock'd up. The Jury found her <rs id="t17151012-23-verdict102" type="verdictDescription">
+                     <interp inst="t17151012-23-verdict102" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17151012-23-verdict102" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17151012-23-punish103" type="punishmentDescription">
+                     <interp inst="t17151012-23-punish103" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17151012-23-punish103" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17151012-23-defend120 t17151012-23-punish103"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

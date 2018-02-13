@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16950703-20">
+               <interp inst="t16950703-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16950703-20" type="year" value="1695"></interp>
+               <interp inst="t16950703-20" type="uri" value="sessionsPapers/16950703"></interp>
+               <interp inst="t16950703-20" type="date" value="16950703"></interp>
+               <join result="criminalCharge" id="t16950703-20-off115-c68" targOrder="Y" targets="t16950703-20-defend68 t16950703-20-off115 t16950703-20-verdict117"></join>
+               <join result="criminalCharge" id="t16950703-20-off115-c69" targOrder="Y" targets="t16950703-20-defend69 t16950703-20-off115 t16950703-20-verdict117"></join>
+         
+               <p>
+            
+                  <persName id="t16950703-20-defend68" type="defendantName">
+                  David 
+                  Anderson
+               <interp inst="t16950703-20-defend68" type="surname" value="Anderson"></interp>
+                     <interp inst="t16950703-20-defend68" type="given" value="David"></interp>
+                     <interp inst="t16950703-20-defend68" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16950703-20-defloc112">St. Mary Matfellon alias Whitechappel</placeName>
+                  <interp inst="t16950703-20-defloc112" type="placeName" value="St. Mary Matfellon alias Whitechappel"></interp>
+                  <interp inst="t16950703-20-defloc112" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16950703-20-defend68 t16950703-20-defloc112"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16950703-20-defend69 t16950703-20-defloc112"></join>, <rs id="t16950703-20-deflabel113" type="occupation">Labourer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16950703-20-defend68 t16950703-20-deflabel113"></join>, and 
+               <persName id="t16950703-20-defend69" type="defendantName">
+                  Sarah 
+                  Morris
+               <interp inst="t16950703-20-defend69" type="surname" value="Morris"></interp>
+                     <interp inst="t16950703-20-defend69" type="given" value="Sarah"></interp>
+                     <interp inst="t16950703-20-defend69" type="gender" value="female"></interp>
+                  </persName>
+             of the same place, <rs id="t16950703-20-deflabel114" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16950703-20-defend69 t16950703-20-deflabel114"></join>, were indicted for <rs id="t16950703-20-off115" type="offenceDescription">
+                     <interp inst="t16950703-20-off115" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16950703-20-off115" type="offenceSubcategory" value="murder"></interp>
+               Murthering one 
+                     <persName id="t16950703-20-victim70" type="victimName">
+                        John 
+                        Jefferson
+                     <interp inst="t16950703-20-victim70" type="surname" value="Jefferson"></interp>
+                        <interp inst="t16950703-20-victim70" type="given" value="John"></interp>
+                        <interp inst="t16950703-20-victim70" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16950703-20-off115 t16950703-20-victim70"></join>
+                     </persName>
+                   on the <rs id="t16950703-20-cd116" type="crimeDate">20th day of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16950703-20-off115 t16950703-20-cd116"></join> last, with a Rapier, value 2 s. and giving him one mortal Wound of the breadth of half an Inch, and the depth of four Inches, of which he instantly died
+            </rs>. It appeared, That Morris and Anderson came into an Ale-house where Jefferson was, and brought a piece of Beef, and had it drest with Coleworts. Morris brought Jefferson some meat upon a Trencher, which he refused, and she attempted to stab him with a Knife; and he took up a Stick and struck her cross the Loyns; then she fetcht Anderson down Stairs, and she catcht hold on Jefferson on the right side, took the Stick from him, and held him whilst Anderson run his Sword into him upon the left side, near the Pap, so that he instantly died. They were both found <rs id="t16950703-20-verdict117" type="verdictDescription">
+                     <interp inst="t16950703-20-verdict117" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>They were a second time indicted upon the Statute of Stabbing, for that Jefferson having nothing in his hand, and not having struck first Anderson was found guilty, and Morris not guilty.</p>
+               <p>
+                  <rs id="t16950703-20-punish118" type="punishmentDescription">
+                     <interp inst="t16950703-20-punish118" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16950703-20-defend68 t16950703-20-punish118"></join>
+               
+                     <note>[Anderson: Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16950703-20-punish119" type="punishmentDescription">
+                     <interp inst="t16950703-20-punish119" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16950703-20-punish119" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16950703-20-defend69 t16950703-20-punish119"></join>
+               
+                     <note>[Morris: Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

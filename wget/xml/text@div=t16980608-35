@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16980608-35">
+               <interp inst="t16980608-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16980608-35" type="year" value="1698"></interp>
+               <interp inst="t16980608-35" type="uri" value="sessionsPapers/16980608"></interp>
+               <interp inst="t16980608-35" type="date" value="16980608"></interp>
+               <join result="criminalCharge" id="t16980608-35-off167-c104" targOrder="Y" targets="t16980608-35-defend104 t16980608-35-off167 t16980608-35-verdict169"></join>
+         
+               <p>
+            
+                  <persName id="t16980608-35-defend104" type="defendantName">
+                  John 
+                  Tomlens
+               <interp inst="t16980608-35-defend104" type="surname" value="Tomlens"></interp>
+                     <interp inst="t16980608-35-defend104" type="given" value="John"></interp>
+                     <interp inst="t16980608-35-defend104" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16980608-35-defloc166">Shorditch</placeName>
+                  <interp inst="t16980608-35-defloc166" type="placeName" value="Shorditch"></interp>
+                  <interp inst="t16980608-35-defloc166" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16980608-35-defend104 t16980608-35-defloc166"></join>, was Indicted for <rs id="t16980608-35-off167" type="offenceDescription">
+                     <interp inst="t16980608-35-off167" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16980608-35-off167" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing from 
+                     <persName id="t16980608-35-victim105" type="victimName">
+                        William 
+                        Milner
+                     <interp inst="t16980608-35-victim105" type="surname" value="Milner"></interp>
+                        <interp inst="t16980608-35-victim105" type="given" value="William"></interp>
+                        <interp inst="t16980608-35-victim105" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16980608-35-off167 t16980608-35-victim105"></join>
+                     </persName>
+                   on the <rs id="t16980608-35-cd168" type="crimeDate">15th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16980608-35-off167 t16980608-35-cd168"></join>, half a Firkin of Soap: It appeared that the Prisoner and another Person being in the Prosecutor's Shop, took an opportunity to carry off the Goods
+            </rs>; which being perceived by some of the Neighbours they were pursued, and the Goods found about the Prisoner; the Jury brought him in <rs id="t16980608-35-verdict169" type="verdictDescription">
+                     <interp inst="t16980608-35-verdict169" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16980608-35-punish170" type="punishmentDescription">
+                     <interp inst="t16980608-35-punish170" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16980608-35-punish170" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16980608-35-defend104 t16980608-35-punish170"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

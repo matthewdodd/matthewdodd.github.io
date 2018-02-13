@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18370918-2028">
+               <interp inst="t18370918-2028" type="uri" value="sessionsPapers/18370918"></interp>
+               <interp inst="t18370918-2028" type="date" value="18370918"></interp>
+               <join result="criminalCharge" id="t18370918-2028-charge-1" targOrder="Y" targets="def1-2028-18370918 t18370918-2028-offence-1 t18370918-2028-verdict-1"></join>
+               <join result="criminalCharge" id="t18370918-2028-charge-2" targOrder="Y" targets="def2-2028-18370918 t18370918-2028-offence-1 t18370918-2028-verdict-1"></join>
+               <p>2028. <persName id="def1-2028-18370918" type="defendantName">
+                     <interp inst="def1-2028-18370918" type="gender" value="male"></interp>
+                     <interp inst="def1-2028-18370918" type="surname" value="MOODY"></interp>
+                     <interp inst="def1-2028-18370918" type="given" value="RICHARD"></interp>
+                     <hi rend="largeCaps">RICHARD MOODY</hi>
+                  </persName> and <persName id="def2-2028-18370918" type="defendantName">
+                     <interp inst="def2-2028-18370918" type="gender" value="male"></interp>
+                     <interp inst="def2-2028-18370918" type="surname" value="M'DERMOT"></interp>
+                     <interp inst="def2-2028-18370918" type="given" value="BARNEY"></interp>
+                     <hi rend="largeCaps">BARNEY M'DERMOT</hi>
+                  </persName> were indicted for<rs id="t18370918-2028-offence-1" type="offenceDescription">
+                     <interp inst="t18370918-2028-offence-1" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t18370918-2028-offence-1" type="offenceSubcategory" value="assault"></interp> assaulting <persName id="t18370918-name-84" type="victimName">
+                        <interp inst="t18370918-name-84" type="gender" value="male"></interp>
+                        <interp inst="t18370918-name-84" type="surname" value="SMITH"></interp>
+                        <interp inst="t18370918-name-84" type="given" value="JOHN"></interp>
+                        <interp inst="t18370918-name-84" type="occupation" value="policeman"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18370918-2028-offence-1 t18370918-name-84"></join>John Smith</persName>, an officer, in the execution of his duty; to which they both pleaded</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">
+                     <rs id="t18370918-2028-verdict-1" type="verdictDescription">
+                        <interp inst="t18370918-2028-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18370918-2028-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>.—
+<rs id="t18370918-2028-punishment-3" type="punishmentDescription">
+                     <interp inst="t18370918-2028-punishment-3" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t18370918-2028-punishment-3" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="def1-2028-18370918 t18370918-2028-punishment-3"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="def2-2028-18370918 t18370918-2028-punishment-3"></join>Fined £1 each</rs>.</p>
+            </div1>

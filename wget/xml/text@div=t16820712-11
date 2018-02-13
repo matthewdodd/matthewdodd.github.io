@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16820712-11">
+               <interp inst="t16820712-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16820712-11" type="year" value="1682"></interp>
+               <interp inst="t16820712-11" type="uri" value="sessionsPapers/16820712"></interp>
+               <interp inst="t16820712-11" type="date" value="16820712"></interp>
+               <join result="criminalCharge" id="t16820712-11-off40-c22" targOrder="Y" targets="t16820712-11-defend34 t16820712-11-off40 t16820712-11-verdict43"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16820712-11-defend34" type="defendantName">
+                     John 
+                     Murrell
+                  <interp inst="t16820712-11-defend34" type="surname" value="Murrell"></interp>
+                     <interp inst="t16820712-11-defend34" type="given" value="John"></interp>
+                     <interp inst="t16820712-11-defend34" type="gender" value="male"></interp>
+                  </persName>
+               
+             came in and took his Trial, (having been at large upon Bail) for <rs id="t16820712-11-off40" type="offenceDescription">
+                     <interp inst="t16820712-11-off40" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16820712-11-off40" type="offenceSubcategory" value="other"></interp>
+               killing 
+                     <persName id="t16820712-11-victim35" type="victimName">
+                        Robert 
+                        Atkins
+                     <interp inst="t16820712-11-victim35" type="surname" value="Atkins"></interp>
+                        <interp inst="t16820712-11-victim35" type="given" value="Robert"></interp>
+                        <interp inst="t16820712-11-victim35" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16820712-11-off40 t16820712-11-victim35"></join>
+                     </persName>
+                  , a <rs id="t16820712-11-viclabel41" type="occupation">Child</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16820712-11-victim35 t16820712-11-viclabel41"></join>, about six years old, near <placeName id="t16820712-11-crimeloc42">Lincolns-Inn-Fields</placeName>
+                     <interp inst="t16820712-11-crimeloc42" type="placeName" value="Lincolns-Inn-Fields"></interp>
+                     <interp inst="t16820712-11-crimeloc42" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16820712-11-off40 t16820712-11-crimeloc42"></join>, by running his Coach over him
+            </rs>: But the Jury taking it into consideration, and it appearing not to be done out of any neglect, but by meer accident, he was found <rs id="t16820712-11-verdict43" type="verdictDescription">
+                     <interp inst="t16820712-11-verdict43" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16820712-11-verdict43" type="verdictSubcategory" value="accidentalDeath"></interp>
+               Not guilty
+            </rs>.</p>
+            </div1>
