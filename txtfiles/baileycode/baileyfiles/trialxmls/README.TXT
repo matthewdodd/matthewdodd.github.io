@@ -1,1 +1,0 @@
-Place all XML files into this directory
