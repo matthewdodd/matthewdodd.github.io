@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490222-11">
+               <interp inst="t17490222-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490222-11" type="year" value="1749"></interp>
+               <interp inst="t17490222-11" type="uri" value="sessionsPapers/17490222"></interp>
+               <interp inst="t17490222-11" type="date" value="17490222"></interp>
+               <join result="criminalCharge" id="t17490222-11-off50-c72" targOrder="Y" targets="t17490222-11-defend92 t17490222-11-off50 t17490222-11-verdict53"></join>
+         
+               <p>170 . 
+               
+                  <persName id="t17490222-11-defend92" type="defendantName">
+                     John 
+                     Atkinson 
+                  <interp inst="t17490222-11-defend92" type="surname" value="Atkinson"></interp>
+                     <interp inst="t17490222-11-defend92" type="given" value="John"></interp>
+                     <interp inst="t17490222-11-defend92" type="gender" value="male"></interp>
+                  </persName>
+               
+            , late of <placeName id="t17490222-11-defloc49">St. James's Westminster</placeName>
+                  <interp inst="t17490222-11-defloc49" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17490222-11-defloc49" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17490222-11-defend92 t17490222-11-defloc49"></join> , was indicted for <rs id="t17490222-11-off50" type="offenceDescription">
+                     <interp inst="t17490222-11-off50" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490222-11-off50" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 24 pound weight of candles , value 10 s.
+            </rs> the goods of <rs id="t17490222-11-viclabel51" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490222-11-victim93 t17490222-11-viclabel51"></join> 
+            
+                  <persName id="t17490222-11-victim93" type="victimName">
+                  Everard 
+                  Faukener 
+               <interp inst="t17490222-11-victim93" type="surname" value="Faukener"></interp>
+                     <interp inst="t17490222-11-victim93" type="given" value="Everard"></interp>
+                     <interp inst="t17490222-11-victim93" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490222-11-off50 t17490222-11-victim93"></join>
+                  </persName>
+              , <rs id="t17490222-11-cd52" type="crimeDate">January 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490222-11-off50 t17490222-11-cd52"></join>.</p>
+               <p>
+                  <rs id="t17490222-11-verdict53" type="verdictDescription">
+                     <interp inst="t17490222-11-verdict53" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17490222-11-verdict53" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17490222-11-punish54" type="punishmentDescription">
+                     <interp inst="t17490222-11-punish54" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490222-11-defend92 t17490222-11-punish54"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

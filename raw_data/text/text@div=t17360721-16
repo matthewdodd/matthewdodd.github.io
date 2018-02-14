@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360721-16">
+               <interp inst="t17360721-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360721-16" type="year" value="1736"></interp>
+               <interp inst="t17360721-16" type="uri" value="sessionsPapers/17360721"></interp>
+               <interp inst="t17360721-16" type="date" value="17360721"></interp>
+               <join result="criminalCharge" id="t17360721-16-off88-c107" targOrder="Y" targets="t17360721-16-defend150 t17360721-16-off88 t17360721-16-verdict90"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17360721-16-defend150" type="defendantName">
+                     Robert 
+                     Corff 
+                  <interp inst="t17360721-16-defend150" type="surname" value="Corff"></interp>
+                     <interp inst="t17360721-16-defend150" type="given" value="Robert"></interp>
+                     <interp inst="t17360721-16-defend150" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360721-16-off88" type="offenceDescription">
+                     <interp inst="t17360721-16-off88" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360721-16-off88" type="offenceSubcategory" value="other"></interp>
+               stealing a Linnen Handkerchief
+            </rs>, from the Person of 
+               
+                  <persName id="t17360721-16-victim152" type="victimName">
+                     Evan 
+                     Jones 
+                  <interp inst="t17360721-16-victim152" type="surname" value="Jones"></interp>
+                     <interp inst="t17360721-16-victim152" type="given" value="Evan"></interp>
+                     <interp inst="t17360721-16-victim152" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360721-16-off88 t17360721-16-victim152"></join>
+                  </persName>
+                
+            , <rs id="t17360721-16-cd89" type="crimeDate">July 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360721-16-off88 t17360721-16-cd89"></join>. <rs id="t17360721-16-verdict90" type="verdictDescription">
+                     <interp inst="t17360721-16-verdict90" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360721-16-verdict90" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360721-16-punish91" type="punishmentDescription">
+                     <interp inst="t17360721-16-punish91" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360721-16-defend150 t17360721-16-punish91"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17260425-33">
+               <interp inst="t17260425-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17260425-33" type="year" value="1726"></interp>
+               <interp inst="t17260425-33" type="uri" value="sessionsPapers/17260425"></interp>
+               <interp inst="t17260425-33" type="date" value="17260425"></interp>
+               <join result="criminalCharge" id="t17260425-33-off188-c151" targOrder="Y" targets="t17260425-33-defend222 t17260425-33-off188 t17260425-33-verdict190"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17260425-33-defend222" type="defendantName">
+                     Mary 
+                     Williams 
+                  <interp inst="t17260425-33-defend222" type="surname" value="Williams"></interp>
+                     <interp inst="t17260425-33-defend222" type="given" value="Mary"></interp>
+                     <interp inst="t17260425-33-defend222" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17260425-33-defloc187">Kensington</placeName>
+                  <interp inst="t17260425-33-defloc187" type="placeName" value="Kensington"></interp>
+                  <interp inst="t17260425-33-defloc187" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17260425-33-defend222 t17260425-33-defloc187"></join>, was indicted for <rs id="t17260425-33-off188" type="offenceDescription">
+                     <interp inst="t17260425-33-off188" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17260425-33-off188" type="offenceSubcategory" value="other"></interp>
+               stealing a Brass Candlestick, an Earthen Punch-Bowl, and two Drinking-Glasses
+            </rs>, the Goods of 
+               
+                  <persName id="t17260425-33-victim224" type="victimName">
+                     John 
+                     Byars 
+                  <interp inst="t17260425-33-victim224" type="surname" value="Byars"></interp>
+                     <interp inst="t17260425-33-victim224" type="given" value="John"></interp>
+                     <interp inst="t17260425-33-victim224" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17260425-33-off188 t17260425-33-victim224"></join>
+                  </persName>
+                
+            , <rs id="t17260425-33-cd189" type="crimeDate">May 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17260425-33-off188 t17260425-33-cd189"></join>. <rs id="t17260425-33-verdict190" type="verdictDescription">
+                     <interp inst="t17260425-33-verdict190" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17260425-33-verdict190" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17260425-33-punish191" type="punishmentDescription">
+                     <interp inst="t17260425-33-punish191" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17260425-33-defend222 t17260425-33-punish191"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

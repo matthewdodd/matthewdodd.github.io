@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17300228-55">
+               <interp inst="t17300228-55" type="collection" value="BAILEY"></interp>
+               <interp inst="t17300228-55" type="year" value="1730"></interp>
+               <interp inst="t17300228-55" type="uri" value="sessionsPapers/17300228"></interp>
+               <interp inst="t17300228-55" type="date" value="17300228"></interp>
+               <join result="criminalCharge" id="t17300228-55-off271-c191" targOrder="Y" targets="t17300228-55-defend300 t17300228-55-off271 t17300228-55-verdict274"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17300228-55-defend300" type="defendantName">
+                     John 
+                     Simmonds 
+                  <interp inst="t17300228-55-defend300" type="surname" value="Simmonds"></interp>
+                     <interp inst="t17300228-55-defend300" type="given" value="John"></interp>
+                     <interp inst="t17300228-55-defend300" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17300228-55-defloc270">St. Andrew's Undershaft</placeName>
+                  <interp inst="t17300228-55-defloc270" type="placeName" value="St. Andrew's Undershaft"></interp>
+                  <interp inst="t17300228-55-defloc270" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300228-55-defend300 t17300228-55-defloc270"></join>, was indicted for <rs id="t17300228-55-off271" type="offenceDescription">
+                     <interp inst="t17300228-55-off271" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17300228-55-off271" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 8 Bushels of Oats
+            </rs>, the Goods of 
+               
+                  <persName id="t17300228-55-victim302" type="victimName">
+                     Micajah 
+                     Perry 
+                  <interp inst="t17300228-55-victim302" type="surname" value="Perry"></interp>
+                     <interp inst="t17300228-55-victim302" type="given" value="Micajah"></interp>
+                     <interp inst="t17300228-55-victim302" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17300228-55-off271 t17300228-55-victim302"></join>
+                  </persName>
+                
+            , <rs id="t17300228-55-viclabel272" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17300228-55-victim302 t17300228-55-viclabel272"></join>; the <rs id="t17300228-55-cd273" type="crimeDate">20th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17300228-55-off271 t17300228-55-cd273"></join> last. The Fact being plainly prov'd, the Jury found him <rs id="t17300228-55-verdict274" type="verdictDescription">
+                     <interp inst="t17300228-55-verdict274" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17300228-55-verdict274" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17300228-55-punish275" type="punishmentDescription">
+                     <interp inst="t17300228-55-punish275" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300228-55-defend300 t17300228-55-punish275"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

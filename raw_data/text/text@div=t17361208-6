@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17361208-6">
+               <interp inst="t17361208-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17361208-6" type="year" value="1736"></interp>
+               <interp inst="t17361208-6" type="uri" value="sessionsPapers/17361208"></interp>
+               <interp inst="t17361208-6" type="date" value="17361208"></interp>
+               <join result="criminalCharge" id="t17361208-6-off28-c70" targOrder="Y" targets="t17361208-6-defend83 t17361208-6-off28 t17361208-6-verdict30"></join>
+         
+               <p>6. 
+               
+                  <persName id="t17361208-6-defend83" type="defendantName">
+                     Sarah
+                      Pugh, otherwise <rs id="t17361208-6-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17361208-6-defend83 t17361208-6-alias-4"></join>Edwards</rs>
+                     <interp inst="t17361208-6-defend83" type="surname" value="Pugh"></interp>
+                     <interp inst="t17361208-6-defend83" type="given" value="Sarah"></interp>
+                     <interp inst="t17361208-6-defend83" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17361208-6-defloc27">St. Swithens</placeName>
+                  <interp inst="t17361208-6-defloc27" type="placeName" value="St. Swithens"></interp>
+                  <interp inst="t17361208-6-defloc27" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17361208-6-defend83 t17361208-6-defloc27"></join>, was indicted for <rs id="t17361208-6-off28" type="offenceDescription">
+                     <interp inst="t17361208-6-off28" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17361208-6-off28" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a red Camblet Child's Cloak, value 2 s. 6 d. a Coral Necklace and Gold Locket, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17361208-6-victim85" type="victimName">
+                     William 
+                     Proudman 
+                  <interp inst="t17361208-6-victim85" type="surname" value="Proudman"></interp>
+                     <interp inst="t17361208-6-victim85" type="given" value="William"></interp>
+                     <interp inst="t17361208-6-victim85" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17361208-6-off28 t17361208-6-victim85"></join>
+                  </persName>
+                
+            , <rs id="t17361208-6-cd29" type="crimeDate">Oct. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17361208-6-off28 t17361208-6-cd29"></join>. <rs id="t17361208-6-verdict30" type="verdictDescription">
+                     <interp inst="t17361208-6-verdict30" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17361208-6-verdict30" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17361208-6-punish31" type="punishmentDescription">
+                     <interp inst="t17361208-6-punish31" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17361208-6-defend83 t17361208-6-punish31"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

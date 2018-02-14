@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380222-43">
+               <interp inst="t17380222-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380222-43" type="year" value="1738"></interp>
+               <interp inst="t17380222-43" type="uri" value="sessionsPapers/17380222"></interp>
+               <interp inst="t17380222-43" type="date" value="17380222"></interp>
+               <join result="criminalCharge" id="t17380222-43-off184-c187" targOrder="Y" targets="t17380222-43-defend282 t17380222-43-off184 t17380222-43-verdict186"></join>
+               <join result="criminalCharge" id="t17380222-43-off184-c188" targOrder="Y" targets="t17380222-43-defend283 t17380222-43-off184 t17380222-43-verdict186"></join>
+         
+               <p>49. 50. 
+               
+                  <persName id="t17380222-43-defend282" type="defendantName">
+                     John 
+                     Lovett 
+                  <interp inst="t17380222-43-defend282" type="surname" value="Lovett"></interp>
+                     <interp inst="t17380222-43-defend282" type="given" value="John"></interp>
+                     <interp inst="t17380222-43-defend282" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17380222-43-defend283" type="defendantName">
+                  Thomas 
+                  West 
+               <interp inst="t17380222-43-defend283" type="surname" value="West"></interp>
+                     <interp inst="t17380222-43-defend283" type="given" value="Thomas"></interp>
+                     <interp inst="t17380222-43-defend283" type="gender" value="male"></interp>
+                  </persName>
+             , were indicted for <rs id="t17380222-43-off184" type="offenceDescription">
+                     <interp inst="t17380222-43-off184" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380222-43-off184" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six Bushels of Coals, value 4 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17380222-43-victim285" type="victimName">
+                     Edward 
+                     Barber 
+                  <interp inst="t17380222-43-victim285" type="surname" value="Barber"></interp>
+                     <interp inst="t17380222-43-victim285" type="given" value="Edward"></interp>
+                     <interp inst="t17380222-43-victim285" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380222-43-off184 t17380222-43-victim285"></join>
+                  </persName>
+                
+            , <rs id="t17380222-43-cd185" type="crimeDate">Feb 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380222-43-off184 t17380222-43-cd185"></join>. Both <rs id="t17380222-43-verdict186" type="verdictDescription">
+                     <interp inst="t17380222-43-verdict186" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380222-43-verdict186" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17380222-43-punish187" type="punishmentDescription">
+                     <interp inst="t17380222-43-punish187" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380222-43-defend282 t17380222-43-punish187"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380222-43-defend283 t17380222-43-punish187"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

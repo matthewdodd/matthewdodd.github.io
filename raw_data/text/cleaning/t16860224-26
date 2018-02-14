@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16860224-26">
+               <interp inst="t16860224-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t16860224-26" type="year" value="1686"></interp>
+               <interp inst="t16860224-26" type="uri" value="sessionsPapers/16860224"></interp>
+               <interp inst="t16860224-26" type="date" value="16860224"></interp>
+               <join result="criminalCharge" id="t16860224-26-off145-c86" targOrder="Y" targets="t16860224-26-defend126 t16860224-26-off145 t16860224-26-verdict147"></join>
+               <join result="criminalCharge" id="t16860224-26-off145-c87" targOrder="Y" targets="t16860224-26-defend128 t16860224-26-off145 t16860224-26-verdict147"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16860224-26-defend126" type="defendantName">
+                     Thomas 
+                     Smith
+                  <interp inst="t16860224-26-defend126" type="surname" value="Smith"></interp>
+                     <interp inst="t16860224-26-defend126" type="given" value="Thomas"></interp>
+                     <interp inst="t16860224-26-defend126" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16860224-26-defend128" type="defendantName">
+                     Morrice 
+                     Archer
+                  <interp inst="t16860224-26-defend128" type="surname" value="Archer"></interp>
+                     <interp inst="t16860224-26-defend128" type="given" value="Morrice"></interp>
+                     <interp inst="t16860224-26-defend128" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16860224-26-defloc144">St. Bennedict</placeName>
+                  <interp inst="t16860224-26-defloc144" type="placeName" value="St. Bennedict"></interp>
+                  <interp inst="t16860224-26-defloc144" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16860224-26-defend126 t16860224-26-defloc144"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16860224-26-defend128 t16860224-26-defloc144"></join>, indicted for <rs id="t16860224-26-off145" type="offenceDescription">
+                     <interp inst="t16860224-26-off145" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16860224-26-off145" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver Tankard, value 7 l.
+            </rs> on the <rs id="t16860224-26-cd146" type="crimeDate">17th. of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16860224-26-off145 t16860224-26-cd146"></join>, from one 
+               
+                  <persName id="t16860224-26-victim130" type="victimName">
+                     Thomas 
+                     Owen
+                  <interp inst="t16860224-26-victim130" type="surname" value="Owen"></interp>
+                     <interp inst="t16860224-26-victim130" type="given" value="Thomas"></interp>
+                     <interp inst="t16860224-26-victim130" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16860224-26-off145 t16860224-26-victim130"></join>
+                  </persName>
+               
+            ; it was proved on the Tryal, that the Prisoner Smith confessed that Morrice Archer stole the Tankard from the Bar; and on the contrary Archer impeach'd Smith, saying, he took it from the Bar; but the Prisoner Smith excused himself at the Bar and Archer acknowledging it, they were found <rs id="t16860224-26-verdict147" type="verdictDescription">
+                     <interp inst="t16860224-26-verdict147" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16860224-26-punish148" type="punishmentDescription">
+                     <interp inst="t16860224-26-punish148" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16860224-26-punish148" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860224-26-defend126 t16860224-26-punish148"></join>
+               
+                     <note>[Smith: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16860224-26-punish149" type="punishmentDescription">
+                     <interp inst="t16860224-26-punish149" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16860224-26-defend128 t16860224-26-punish149"></join>
+               
+                     <note>[Archer: Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

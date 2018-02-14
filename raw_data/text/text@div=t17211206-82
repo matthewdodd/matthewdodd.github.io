@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17211206-82">
+               <interp inst="t17211206-82" type="collection" value="BAILEY"></interp>
+               <interp inst="t17211206-82" type="year" value="1721"></interp>
+               <interp inst="t17211206-82" type="uri" value="sessionsPapers/17211206"></interp>
+               <interp inst="t17211206-82" type="date" value="17211206"></interp>
+               <join result="criminalCharge" id="t17211206-82-off387-c296" targOrder="Y" targets="t17211206-82-defend471 t17211206-82-off387 t17211206-82-verdict390"></join>
+               <join result="criminalCharge" id="t17211206-82-off387-c297" targOrder="Y" targets="t17211206-82-defend472 t17211206-82-off387 t17211206-82-verdict389"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17211206-82-defend471" type="defendantName">
+                     John 
+                     Fairborn 
+                  <interp inst="t17211206-82-defend471" type="surname" value="Fairborn"></interp>
+                     <interp inst="t17211206-82-defend471" type="given" value="John"></interp>
+                     <interp inst="t17211206-82-defend471" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               <persName id="t17211206-82-defend472" type="defendantName">
+                  Samuel 
+                  Church 
+               <interp inst="t17211206-82-defend472" type="surname" value="Church"></interp>
+                     <interp inst="t17211206-82-defend472" type="given" value="Samuel"></interp>
+                     <interp inst="t17211206-82-defend472" type="gender" value="male"></interp>
+                  </persName>
+              were indicted for <rs id="t17211206-82-off387" type="offenceDescription">
+                     <interp inst="t17211206-82-off387" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17211206-82-off387" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing 2 Iron Beams, value 15 s. 2 pair of Stilliards, 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17211206-82-victim474" type="victimName">
+                     Timothy 
+                     Robinson 
+                  <interp inst="t17211206-82-victim474" type="surname" value="Robinson"></interp>
+                     <interp inst="t17211206-82-victim474" type="given" value="Timothy"></interp>
+                     <interp inst="t17211206-82-victim474" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17211206-82-off387 t17211206-82-victim474"></join>
+                  </persName>
+                
+            , on the <rs id="t17211206-82-cd388" type="crimeDate">22d of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17211206-82-off387 t17211206-82-cd388"></join> last. Church was <rs id="t17211206-82-verdict389" type="verdictDescription">
+                     <interp inst="t17211206-82-verdict389" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and Fairborn found <rs id="t17211206-82-verdict390" type="verdictDescription">
+                     <interp inst="t17211206-82-verdict390" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17211206-82-verdict390" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty to the Value of 4 s. and 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17211206-82-punish391" type="punishmentDescription">
+                     <interp inst="t17211206-82-punish391" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17211206-82-defend471 t17211206-82-punish391"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17211206-82-defend472 t17211206-82-punish391"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

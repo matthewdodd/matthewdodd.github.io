@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17181205-31">
+               <interp inst="t17181205-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17181205-31" type="year" value="1718"></interp>
+               <interp inst="t17181205-31" type="uri" value="sessionsPapers/17181205"></interp>
+               <interp inst="t17181205-31" type="date" value="17181205"></interp>
+               <join result="criminalCharge" id="t17181205-31-off176-c122" targOrder="Y" targets="t17181205-31-defend189 t17181205-31-off176 t17181205-31-verdict178"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17181205-31-defend189" type="defendantName">
+                     Mary 
+                     Newman 
+                  <interp inst="t17181205-31-defend189" type="surname" value="Newman"></interp>
+                     <interp inst="t17181205-31-defend189" type="given" value="Mary"></interp>
+                     <interp inst="t17181205-31-defend189" type="gender" value="female"></interp>
+                  </persName>
+               
+             , of <placeName id="t17181205-31-defloc175">St. James Westminster</placeName>
+                  <interp inst="t17181205-31-defloc175" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t17181205-31-defloc175" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17181205-31-defend189 t17181205-31-defloc175"></join>, was indicted for <rs id="t17181205-31-off176" type="offenceDescription">
+                     <interp inst="t17181205-31-off176" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17181205-31-off176" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously stealing a Riding-Hood, value 5 s.
+            </rs> the Property of 
+               
+                  <persName id="t17181205-31-victim191" type="victimName">
+                     Hannah 
+                     Bencraft 
+                  <interp inst="t17181205-31-victim191" type="surname" value="Bencraft"></interp>
+                     <interp inst="t17181205-31-victim191" type="given" value="Hannah"></interp>
+                     <interp inst="t17181205-31-victim191" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17181205-31-off176 t17181205-31-victim191"></join>
+                  </persName>
+                
+            , the <rs id="t17181205-31-cd177" type="crimeDate">30th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17181205-31-off176 t17181205-31-cd177"></join> last. The Fact being plainly prov'd the Jury found her <rs id="t17181205-31-verdict178" type="verdictDescription">
+                     <interp inst="t17181205-31-verdict178" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17181205-31-verdict178" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs> 
+                  <rs id="t17181205-31-punish179" type="punishmentDescription">
+                     <interp inst="t17181205-31-punish179" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17181205-31-defend189 t17181205-31-punish179"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

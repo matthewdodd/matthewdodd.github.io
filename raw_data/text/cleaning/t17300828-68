@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17300828-68">
+               <interp inst="t17300828-68" type="collection" value="BAILEY"></interp>
+               <interp inst="t17300828-68" type="year" value="1730"></interp>
+               <interp inst="t17300828-68" type="uri" value="sessionsPapers/17300828"></interp>
+               <interp inst="t17300828-68" type="date" value="17300828"></interp>
+               <join result="criminalCharge" id="t17300828-68-off351-c223" targOrder="Y" targets="t17300828-68-defend354 t17300828-68-off351 t17300828-68-verdict353"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17300828-68-defend354" type="defendantName">
+                     Elizabeth 
+                     Allen 
+                  <interp inst="t17300828-68-defend354" type="surname" value="Allen"></interp>
+                     <interp inst="t17300828-68-defend354" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17300828-68-defend354" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17300828-68-defloc350">St. James's Westminster</placeName>
+                  <interp inst="t17300828-68-defloc350" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17300828-68-defloc350" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300828-68-defend354 t17300828-68-defloc350"></join>, was indicted for <rs id="t17300828-68-off351" type="offenceDescription">
+                     <interp inst="t17300828-68-off351" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17300828-68-off351" type="offenceSubcategory" value="other"></interp>
+               stealing a Linen Shirt
+            </rs>, the Property of 
+               
+                  <persName id="t17300828-68-victim356" type="victimName">
+                     George 
+                     Delenny 
+                  <interp inst="t17300828-68-victim356" type="surname" value="Delenny"></interp>
+                     <interp inst="t17300828-68-victim356" type="given" value="George"></interp>
+                     <interp inst="t17300828-68-victim356" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17300828-68-off351 t17300828-68-victim356"></join>
+                  </persName>
+                
+            , the <rs id="t17300828-68-cd352" type="crimeDate">19th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17300828-68-off351 t17300828-68-cd352"></join> last; the Fact being plainly prov'd, the Jury found her <rs id="t17300828-68-verdict353" type="verdictDescription">
+                     <interp inst="t17300828-68-verdict353" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17300828-68-punish354" type="punishmentDescription">
+                     <interp inst="t17300828-68-punish354" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300828-68-defend354 t17300828-68-punish354"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

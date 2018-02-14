@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840702-20">
+               <interp inst="t16840702-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840702-20" type="year" value="1684"></interp>
+               <interp inst="t16840702-20" type="uri" value="sessionsPapers/16840702"></interp>
+               <interp inst="t16840702-20" type="date" value="16840702"></interp>
+               <join result="criminalCharge" id="t16840702-20-off83-c49" targOrder="Y" targets="t16840702-20-defend67 t16840702-20-off83 t16840702-20-verdict85"></join>
+               <join result="criminalCharge" id="t16840702-20-off86-c49" targOrder="Y" targets="t16840702-20-defend67 t16840702-20-off86 t16840702-20-verdict85"></join>
+         
+               <p>
+            
+                  <persName id="t16840702-20-defend67" type="defendantName">
+                  Hen. 
+                  Curlee
+               <interp inst="t16840702-20-defend67" type="surname" value="Curlee"></interp>
+                     <interp inst="t16840702-20-defend67" type="given" value="Hen."></interp>
+                     <interp inst="t16840702-20-defend67" type="gender" value="male"></interp>
+                  </persName>
+             Indicted for <rs id="t16840702-20-off83" type="offenceDescription">
+                     <interp inst="t16840702-20-off83" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840702-20-off83" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of 
+                     
+                        <persName id="t16840702-20-victim69" type="victimName">
+                           Nicholas 
+                           Clay
+                        <interp inst="t16840702-20-victim69" type="surname" value="Clay"></interp>
+                        <interp inst="t16840702-20-victim69" type="given" value="Nicholas"></interp>
+                        <interp inst="t16840702-20-victim69" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   of <placeName id="t16840702-20-crimeloc84">Stepney</placeName>
+                     <interp inst="t16840702-20-crimeloc84" type="placeName" value="Stepney"></interp>
+                     <interp inst="t16840702-20-crimeloc84" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16840702-20-off83 t16840702-20-crimeloc84"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16840702-20-off86 t16840702-20-crimeloc84"></join>, and stealing several Goods from thence
+            </rs>; but was <rs id="t16840702-20-verdict85" type="verdictDescription">
+                     <interp inst="t16840702-20-verdict85" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> thereof.</p>
+               <p>He was a second time Indicted for <rs id="t16840702-20-off86" type="offenceDescription">
+                     <interp inst="t16840702-20-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840702-20-off86" type="offenceSubcategory" value="burglary"></interp>
+               breaking the Dwelling-house of 
+                     
+                        <persName id="t16840702-20-victim71" type="victimName">
+                           Agnes 
+                           Gandee
+                        <interp inst="t16840702-20-victim71" type="surname" value="Gandee"></interp>
+                        <interp inst="t16840702-20-victim71" type="given" value="Agnes"></interp>
+                        <interp inst="t16840702-20-victim71" type="gender" value="female"></interp>
+                     </persName>
+                     
+                  , and robbing her of a Peticoat, a pair of Sheets; and divers other Goods
+            </rs>, he was found <rs id="t16840702-20-verdict87" type="verdictDescription">
+                     <interp inst="t16840702-20-verdict87" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16840702-20-verdict87" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of that Felony, but not of the Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t16840702-20-punish88" type="punishmentDescription">
+                     <interp inst="t16840702-20-punish88" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840702-20-defend67 t16840702-20-punish88"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

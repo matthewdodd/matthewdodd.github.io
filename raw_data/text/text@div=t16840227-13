@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840227-13">
+               <interp inst="t16840227-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840227-13" type="year" value="1684"></interp>
+               <interp inst="t16840227-13" type="uri" value="sessionsPapers/16840227"></interp>
+               <interp inst="t16840227-13" type="date" value="16840227"></interp>
+               <join result="criminalCharge" id="t16840227-13-off70-c28" targOrder="Y" targets="t16840227-13-defend36 t16840227-13-off70 t16840227-13-verdict73"></join>
+         
+               <p>
+            
+                  <persName id="t16840227-13-defend36" type="defendantName">
+                  George 
+                  Charlet
+               <interp inst="t16840227-13-defend36" type="surname" value="Charlet"></interp>
+                     <interp inst="t16840227-13-defend36" type="given" value="George"></interp>
+                     <interp inst="t16840227-13-defend36" type="gender" value="male"></interp>
+                  </persName>
+            , Indicted for <rs id="t16840227-13-off70" type="offenceDescription">
+                     <interp inst="t16840227-13-off70" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840227-13-off70" type="offenceSubcategory" value="burglary"></interp>
+               breaking into the House of 
+                     <persName id="t16840227-13-victim37" type="victimName">
+                        Edward 
+                        Lee
+                     <interp inst="t16840227-13-victim37" type="surname" value="Lee"></interp>
+                        <interp inst="t16840227-13-victim37" type="given" value="Edward"></interp>
+                        <interp inst="t16840227-13-victim37" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16840227-13-off70 t16840227-13-victim37"></join>
+                     </persName>
+                   of <placeName id="t16840227-13-crimeloc71">Branford</placeName>
+                     <interp inst="t16840227-13-crimeloc71" type="placeName" value="Branford"></interp>
+                     <interp inst="t16840227-13-crimeloc71" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16840227-13-off70 t16840227-13-crimeloc71"></join>, in Middlesex, on the <rs id="t16840227-13-cd72" type="crimeDate">2d of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16840227-13-off70 t16840227-13-cd72"></join> instant, and stealing from thence Twelve Bushels of Mault
+            </rs>, it appeared to have<xptr type="pageFacsimile" doc="16840227003"></xptr>been taken out of a Mault house in the Yard, and that the Door was not lockt, Charlet was therefore <rs id="t16840227-13-verdict73" type="verdictDescription">
+                     <interp inst="t16840227-13-verdict73" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16840227-13-verdict73" type="verdictSubcategory" value="lesserOffence"></interp>
+               acquitted of the Burglary, but found Guilty of Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t16840227-13-punish74" type="punishmentDescription">
+                     <interp inst="t16840227-13-punish74" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840227-13-defend36 t16840227-13-punish74"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

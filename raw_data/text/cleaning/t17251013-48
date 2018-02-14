@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17251013-48">
+               <interp inst="t17251013-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17251013-48" type="year" value="1725"></interp>
+               <interp inst="t17251013-48" type="uri" value="sessionsPapers/17251013"></interp>
+               <interp inst="t17251013-48" type="date" value="17251013"></interp>
+               <join result="criminalCharge" id="t17251013-48-off232-c197" targOrder="Y" targets="t17251013-48-defend299 t17251013-48-off232 t17251013-48-verdict235"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17251013-48-defend299" type="defendantName">
+                     John 
+                     Mann 
+                  <interp inst="t17251013-48-defend299" type="surname" value="Mann"></interp>
+                     <interp inst="t17251013-48-defend299" type="given" value="John"></interp>
+                     <interp inst="t17251013-48-defend299" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17251013-48-defloc231">Billingsgate</placeName>
+                  <interp inst="t17251013-48-defloc231" type="placeName" value="Billingsgate"></interp>
+                  <interp inst="t17251013-48-defloc231" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17251013-48-defend299 t17251013-48-defloc231"></join>, was indicted for <rs id="t17251013-48-off232" type="offenceDescription">
+                     <interp inst="t17251013-48-off232" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17251013-48-off232" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Jackets val 12 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17251013-48-victim301" type="victimName">
+                     John 
+                     Loan 
+                  <interp inst="t17251013-48-victim301" type="surname" value="Loan"></interp>
+                     <interp inst="t17251013-48-victim301" type="given" value="John"></interp>
+                     <interp inst="t17251013-48-victim301" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17251013-48-off232 t17251013-48-victim301"></join>
+                  </persName>
+                
+            , Oct. 12. It appear'd, that as the Prosecutor's Ship lay in <placeName id="t17251013-48-crimeloc233">Billingsgate Dock</placeName>
+                  <interp inst="t17251013-48-crimeloc233" type="placeName" value="Billingsgate Dock"></interp>
+                  <interp inst="t17251013-48-crimeloc233" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17251013-48-off232 t17251013-48-crimeloc233"></join>, the Prisoner, who was a <rs id="t17251013-48-deflabel234" type="occupation">Waterman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17251013-48-defend299 t17251013-48-deflabel234"></join>, got into the Cabbin about Midnight, and took away the Goods. He was perceived just as he went off; and being pursued, he dropt the Jackets, and was taken in Thames-Street. <rs id="t17251013-48-verdict235" type="verdictDescription">
+                     <interp inst="t17251013-48-verdict235" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17251013-48-punish236" type="punishmentDescription">
+                     <interp inst="t17251013-48-punish236" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17251013-48-defend299 t17251013-48-punish236"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

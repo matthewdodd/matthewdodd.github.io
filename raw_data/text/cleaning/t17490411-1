@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490411-1">
+               <interp inst="t17490411-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490411-1" type="year" value="1749"></interp>
+               <interp inst="t17490411-1" type="uri" value="sessionsPapers/17490411"></interp>
+               <interp inst="t17490411-1" type="date" value="17490411"></interp>
+               <join result="criminalCharge" id="t17490411-1-off1-c35" targOrder="Y" targets="t17490411-1-defend36 t17490411-1-off1 t17490411-1-verdict5"></join>
+               <join result="criminalCharge" id="t17490411-1-off1-c36" targOrder="Y" targets="t17490411-1-defend38 t17490411-1-off1 t17490411-1-verdict5"></join>
+         
+	              <note type="special">[Note: this edition of the Proceedings was misdated on the original title page. The correct dates for this meeting of the court are MAY 11, 12 and 13, 1749.]</note>
+               <p>318, 319. 
+               
+                  <persName id="t17490411-1-defend36" type="defendantName">
+                     John 
+                     Avery 
+                  <interp inst="t17490411-1-defend36" type="surname" value="Avery"></interp>
+                     <interp inst="t17490411-1-defend36" type="given" value="John"></interp>
+                     <interp inst="t17490411-1-defend36" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17490411-1-defend38" type="defendantName">
+                     Abraham 
+                     Hales 
+                  <interp inst="t17490411-1-defend38" type="surname" value="Hales"></interp>
+                     <interp inst="t17490411-1-defend38" type="given" value="Abraham"></interp>
+                     <interp inst="t17490411-1-defend38" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17490411-1-off1" type="offenceDescription">
+                     <interp inst="t17490411-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490411-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               privately stealing a silk handkerchief
+            </rs> from <rs id="t17490411-1-viclabel2" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490411-1-victim39 t17490411-1-viclabel2"></join> 
+            
+                  <persName id="t17490411-1-victim39" type="victimName">
+                  Geleius 
+                  Pain 
+               <interp inst="t17490411-1-victim39" type="surname" value="Pain"></interp>
+                     <interp inst="t17490411-1-victim39" type="given" value="Geleius"></interp>
+                     <interp inst="t17490411-1-victim39" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490411-1-off1 t17490411-1-victim39"></join>
+                  </persName>
+             . <rs id="t17490411-1-viclabel3" type="occupation">Baronet</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490411-1-victim39 t17490411-1-viclabel3"></join>.</p>
+               <p>
+                  <rs id="t17490411-1-cd4" type="crimeDate">May 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490411-1-off1 t17490411-1-cd4"></join>.</p>
+               <p>Both <rs id="t17490411-1-verdict5" type="verdictDescription">
+                     <interp inst="t17490411-1-verdict5" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17490411-1-verdict5" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17490411-1-punish6" type="punishmentDescription">
+                     <interp inst="t17490411-1-punish6" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490411-1-defend36 t17490411-1-punish6"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

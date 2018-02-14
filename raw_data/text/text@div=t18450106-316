@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18450106-316">
+               <interp inst="t18450106-316" type="uri" value="sessionsPapers/18450106"></interp>
+               <interp inst="t18450106-316" type="date" value="18450106"></interp>
+               <join result="criminalCharge" id="t18450106-316-charge-1" targOrder="Y" targets="def1-316-18450106 t18450106-316-offence-1 t18450106-316-verdict-1"></join>
+               <join result="criminalCharge" id="t18450106-316-charge-2" targOrder="Y" targets="def2-316-18450106 t18450106-316-offence-1 t18450106-316-verdict-2"></join>
+               <p>316. <persName id="def1-316-18450106" type="defendantName">
+                     <interp inst="def1-316-18450106" type="gender" value="male"></interp>
+                     <interp inst="def1-316-18450106" type="age" value="25"></interp>
+                     <interp inst="def1-316-18450106" type="surname" value="FRANCIS"></interp>
+                     <interp inst="def1-316-18450106" type="given" value="JAMES"></interp>
+                     <hi rend="largeCaps">JAMES FRANCIS</hi>
+                  </persName> and <persName id="def2-316-18450106" type="defendantName">
+                     <interp inst="def2-316-18450106" type="gender" value="male"></interp>
+                     <interp inst="def2-316-18450106" type="age" value="18"></interp>
+                     <interp inst="def2-316-18450106" type="surname" value="SALT"></interp>
+                     <interp inst="def2-316-18450106" type="given" value="THOMAS"></interp>
+                     <hi rend="largeCaps">THOMAS SALT</hi>
+                  </persName>
+                  <rs id="t18450106-316-offence-1" type="offenceDescription">
+                     <interp inst="t18450106-316-offence-1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18450106-316-offence-1" type="offenceSubcategory" value="housebreaking"></interp> wait indicted for breaking and entering the dwelling-house of <persName id="t18450106-name-195" type="victimName">
+                        <interp inst="t18450106-name-195" type="gender" value="male"></interp>
+                        <interp inst="t18450106-name-195" type="surname" value="ROBERTSON"></interp>
+                        <interp inst="t18450106-name-195" type="given" value="JOHN DAVID"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18450106-316-offence-1 t18450106-name-195"></join>John David Robertson</persName>, on the <rs id="t18450106-cd-16" type="crimeDate">
+                        <join result="offenceCrimeDate" targOrder="Y" targets="t18450106-316-offence-1 t18450106-cd-16"></join>4th of Jan</rs>., at <placeName id="t18450106-geo-5">
+                        <join result="offencePlace" targOrder="Y" targets="t18450106-316-offence-1 t18450106-geo-5"></join>All Saints, Poplar</placeName>, and stealing therein, 3 coats, value 5<hi rend="italic">l</hi>.; 4 waistcoats, 2<hi rend="italic">l</hi>.; 2 pairs of trowsers, 2<hi rend="italic">l</hi>.; 2 shifts,. 10<hi rend="italic">s</hi>.; 4 hand<lb></lb>kerchiefs, 10<hi rend="italic">s</hi>.; 3 neckerchiefs, 10<hi rend="italic">s</hi>.; 3 stocks, 8<hi rend="italic">s</hi>.; 1 watch, 18<hi rend="italic">s</hi>.; and 1 pair of stockings, 1<hi rend="italic">s</hi>.; the goods of <persName id="t18450106-name-196" type="victimName">
+                        <interp inst="t18450106-name-196" type="gender" value="male"></interp>
+                        <interp inst="t18450106-name-196" type="surname" value="BRENDELL"></interp>
+                        <interp inst="t18450106-name-196" type="given" value="CHRISTTNAN"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t18450106-316-offence-1 t18450106-name-196"></join>Christtnan Brendell</persName>; to which</rs>
+               </p>
+               <p>
+                  <hi rend="largeCaps">FRANCIS</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18450106-316-verdict-1" type="verdictDescription">
+                        <interp inst="t18450106-316-verdict-1" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18450106-316-verdict-1" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 25.</p>
+               <p>
+                  <hi rend="largeCaps">SALT</hi> pleaded <hi rend="smallCaps">
+                     <rs id="t18450106-316-verdict-2" type="verdictDescription">
+                        <interp inst="t18450106-316-verdict-2" type="verdictCategory" value="guilty"></interp>
+                        <interp inst="t18450106-316-verdict-2" type="verdictSubcategory" value="pleadedGuilty"></interp>GUILTY</rs>
+                  </hi>. Aged 18.</p>
+               <p>
+                  <hi rend="italic">
+                     <rs id="t18450106-316-punishment-19" type="punishmentDescription">
+                        <interp inst="t18450106-316-punishment-19" type="punishmentCategory" value="transport"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="def1-316-18450106 t18450106-316-punishment-19"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="def2-316-18450106 t18450106-316-punishment-19"></join>Transported for Ten Years</rs>.</hi>
+               </p>
+            </div1>

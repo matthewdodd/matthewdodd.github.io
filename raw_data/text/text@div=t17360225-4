@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-4">
+               <interp inst="t17360225-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-4" type="year" value="1736"></interp>
+               <interp inst="t17360225-4" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-4" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-4-off18-c38" targOrder="Y" targets="t17360225-4-defend42 t17360225-4-off18 t17360225-4-verdict23"></join>
+         
+               <p>4. 
+               
+                  <persName id="t17360225-4-defend42" type="defendantName">
+                     Henry 
+                     Blackwell 
+                  <interp inst="t17360225-4-defend42" type="surname" value="Blackwell"></interp>
+                     <interp inst="t17360225-4-defend42" type="given" value="Henry"></interp>
+                     <interp inst="t17360225-4-defend42" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360225-4-off18" type="offenceDescription">
+                     <interp inst="t17360225-4-off18" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-4-off18" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 6 Yards of Checqu'd Holland, value 10s
+            </rs>, the Goods of 
+               <persName id="t17360225-4-victim43" type="victimName">
+                     <interp inst="t17360225-4-victim43" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-4-off18 t17360225-4-victim43"></join>
+                  </persName>
+             
+                  <rs id="t17360225-4-viclabel19" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-4-victim43 t17360225-4-viclabel19"></join>, in the Parish of <placeName id="t17360225-4-defloc20">St. Andrew Holborn</placeName>
+                  <interp inst="t17360225-4-defloc20" type="placeName" value="St. Andrew Holborn"></interp>
+                  <interp inst="t17360225-4-defloc20" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-4-defend42 t17360225-4-defloc20"></join>, the <rs id="t17360225-4-cd21" type="crimeDate">20th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-4-off18 t17360225-4-cd21"></join> last.</p>
+               <p>T. A. <rs id="t17360225-4-viclabel22" type="occupation">I keep a Linnen-Draper's Shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-4-victim43 t17360225-4-viclabel22"></join>: On the 20th of January I was in a back Room behind my Shop, and saw the Prisoner come in; he went behind the Compter, and took this piece of Checque; I took hold of him before he got out of my Shop; he flung the Goods down and got from me, but I followed him, and cry'd, Stop Thief: He was taken and brought back in five Minutes Time. His Friends have sent to me since the Fact was committed; informing me, they should be very glad to have him sent abroad, and that they dread his coming home again. <rs id="t17360225-4-verdict23" type="verdictDescription">
+                     <interp inst="t17360225-4-verdict23" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-4-verdict23" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4s. 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-4-punish24" type="punishmentDescription">
+                     <interp inst="t17360225-4-punish24" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-4-defend42 t17360225-4-punish24"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

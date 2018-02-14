@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17270705-17">
+               <interp inst="t17270705-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17270705-17" type="year" value="1727"></interp>
+               <interp inst="t17270705-17" type="uri" value="sessionsPapers/17270705"></interp>
+               <interp inst="t17270705-17" type="date" value="17270705"></interp>
+               <join result="criminalCharge" id="t17270705-17-off79-c75" targOrder="Y" targets="t17270705-17-defend103 t17270705-17-off79 t17270705-17-verdict81"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17270705-17-defend103" type="defendantName">
+                     Thomas 
+                     Davis 
+                  <interp inst="t17270705-17-defend103" type="surname" value="Davis"></interp>
+                     <interp inst="t17270705-17-defend103" type="given" value="Thomas"></interp>
+                     <interp inst="t17270705-17-defend103" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17270705-17-defloc78">St. Paul's Crovent-Garden</placeName>
+                  <interp inst="t17270705-17-defloc78" type="placeName" value="St. Paul's Crovent-Garden"></interp>
+                  <interp inst="t17270705-17-defloc78" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17270705-17-defend103 t17270705-17-defloc78"></join> was indicted for <rs id="t17270705-17-off79" type="offenceDescription">
+                     <interp inst="t17270705-17-off79" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17270705-17-off79" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Silver Spoons, value 15 s.
+            </rs> on the <rs id="t17270705-17-cd80" type="crimeDate">13th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17270705-17-off79 t17270705-17-cd80"></join> last, the Goods of 
+               
+                  <persName id="t17270705-17-victim105" type="victimName">
+                     John 
+                     Kenneda 
+                  <interp inst="t17270705-17-victim105" type="surname" value="Kenneda"></interp>
+                     <interp inst="t17270705-17-victim105" type="given" value="John"></interp>
+                     <interp inst="t17270705-17-victim105" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17270705-17-off79 t17270705-17-victim105"></join>
+                  </persName>
+                
+            , which being evidently proved upon him, he was found <rs id="t17270705-17-verdict81" type="verdictDescription">
+                     <interp inst="t17270705-17-verdict81" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17270705-17-verdict81" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty to the Value of 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17270705-17-punish82" type="punishmentDescription">
+                     <interp inst="t17270705-17-punish82" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17270705-17-defend103 t17270705-17-punish82"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

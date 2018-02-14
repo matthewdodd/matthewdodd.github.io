@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17250115-22">
+               <interp inst="t17250115-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17250115-22" type="year" value="1725"></interp>
+               <interp inst="t17250115-22" type="uri" value="sessionsPapers/17250115"></interp>
+               <interp inst="t17250115-22" type="date" value="17250115"></interp>
+               <join result="criminalCharge" id="t17250115-22-off115-c95" targOrder="Y" targets="t17250115-22-defend133 t17250115-22-off115 t17250115-22-verdict120"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17250115-22-defend133" type="defendantName">
+                     John 
+                     Short 
+                  <interp inst="t17250115-22-defend133" type="surname" value="Short"></interp>
+                     <interp inst="t17250115-22-defend133" type="given" value="John"></interp>
+                     <interp inst="t17250115-22-defend133" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17250115-22-defloc114">Aldgate</placeName>
+                  <interp inst="t17250115-22-defloc114" type="placeName" value="Aldgate"></interp>
+                  <interp inst="t17250115-22-defloc114" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17250115-22-defend133 t17250115-22-defloc114"></join>, was indicted for <rs id="t17250115-22-off115" type="offenceDescription">
+                     <interp inst="t17250115-22-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17250115-22-off115" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard value 8 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17250115-22-victim135" type="victimName">
+                     Edward 
+                     Jones 
+                  <interp inst="t17250115-22-victim135" type="surname" value="Jones"></interp>
+                     <interp inst="t17250115-22-victim135" type="given" value="Edward"></interp>
+                     <interp inst="t17250115-22-victim135" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17250115-22-off115 t17250115-22-victim135"></join>
+                  </persName>
+                
+            , on the <rs id="t17250115-22-cd116" type="crimeDate">9th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17250115-22-off115 t17250115-22-cd116"></join> last. It appear'd that the Prosecutor <rs id="t17250115-22-viclabel117" type="occupation">keeps an Alehouse</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17250115-22-victim135 t17250115-22-viclabel117"></join> at the <placeName id="t17250115-22-crimeloc118">Fiery Beacon in Duke's-Place</placeName>
+                  <interp inst="t17250115-22-crimeloc118" type="placeName" value="Fiery Beacon in Duke's-Place"></interp>
+                  <interp inst="t17250115-22-crimeloc118" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17250115-22-off115 t17250115-22-crimeloc118"></join>, and on Saturday Night the Prisoner (who had formerly been his <rs id="t17250115-22-deflabel119" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17250115-22-defend133 t17250115-22-deflabel119"></join>) came in and called for a Pint of Beer, and while the Maid was gone backward, took away the Tankard, and went off, without either drinking his Beer or paying for it. He confess'd the Fact, and that the Tankard was sold by two Women to 
+               <persName id="t17250115-22-person136">
+                  William 
+                  Field 
+               <interp inst="t17250115-22-person136" type="surname" value="Field"></interp>
+                     <interp inst="t17250115-22-person136" type="given" value="William"></interp>
+                     <interp inst="t17250115-22-person136" type="gender" value="male"></interp>
+                  </persName>
+             in Southwark for 56 s. <rs id="t17250115-22-verdict120" type="verdictDescription">
+                     <interp inst="t17250115-22-verdict120" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17250115-22-verdict120" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty to the Value of 39 s
+            </rs>. <rs id="t17250115-22-punish121" type="punishmentDescription">
+                     <interp inst="t17250115-22-punish121" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17250115-22-defend133 t17250115-22-punish121"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

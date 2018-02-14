@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-21">
+               <interp inst="t16900430-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-21" type="year" value="1690"></interp>
+               <interp inst="t16900430-21" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-21" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-21-off91-c94" targOrder="Y" targets="t16900430-21-defend129 t16900430-21-off91 t16900430-21-verdict95"></join>
+               <join result="criminalCharge" id="t16900430-21-off91-c95" targOrder="Y" targets="t16900430-21-defend131 t16900430-21-off91 t16900430-21-verdict95"></join>
+         
+               <p>
+            
+                  <persName id="t16900430-21-defend129" type="defendantName">
+                  James 
+                  Gavel alias <rs id="t16900430-21-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16900430-21-defend129 t16900430-21-alias-4"></join>Gardiner</rs>
+                     <interp inst="t16900430-21-defend129" type="surname" value="Gavel"></interp>
+                     <interp inst="t16900430-21-defend129" type="given" value="James"></interp>
+                     <interp inst="t16900430-21-defend129" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16900430-21-defend131" type="defendantName">
+                     James 
+                     Barrow
+                  <interp inst="t16900430-21-defend131" type="surname" value="Barrow"></interp>
+                     <interp inst="t16900430-21-defend131" type="given" value="James"></interp>
+                     <interp inst="t16900430-21-defend131" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were both Indicted for <rs id="t16900430-21-off91" type="offenceDescription">
+                     <interp inst="t16900430-21-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900430-21-off91" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously taking from 
+                     <persName id="t16900430-21-victim132" type="victimName">
+                        Richard 
+                        Robinson
+                     <interp inst="t16900430-21-victim132" type="surname" value="Robinson"></interp>
+                        <interp inst="t16900430-21-victim132" type="given" value="Richard"></interp>
+                        <interp inst="t16900430-21-victim132" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900430-21-off91 t16900430-21-victim132"></join>
+                     </persName>
+                   
+                     <rs id="t16900430-21-viclabel92" type="occupation">Gentleman</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900430-21-victim132 t16900430-21-viclabel92"></join>, a Silver Hilted Sword value 50 s.
+            </rs> on the <rs id="t16900430-21-cd93" type="crimeDate">24th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900430-21-off91 t16900430-21-cd93"></join> last, the Evidence was plain, that they were seen to jump out at the Window of Mr. Robinson in <placeName id="t16900430-21-crimeloc94">Red-Lyon Square</placeName>
+                  <interp inst="t16900430-21-crimeloc94" type="placeName" value="Red-Lyon Square"></interp>
+                  <interp inst="t16900430-21-crimeloc94" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16900430-21-off91 t16900430-21-crimeloc94"></join> with the Sword in Gavel's Hands, which he threw upon the ground in his flight, the Window being open, they were not accused of Burglary, but they were both found <rs id="t16900430-21-verdict95" type="verdictDescription">
+                     <interp inst="t16900430-21-verdict95" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16900430-21-punish96" type="punishmentDescription">
+                     <interp inst="t16900430-21-punish96" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900430-21-defend129 t16900430-21-punish96"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16900430-21-punish97" type="punishmentDescription">
+                     <interp inst="t16900430-21-punish97" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900430-21-punish97" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900430-21-defend131 t16900430-21-punish97"></join>
+               
+                     <note>[Barrow: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

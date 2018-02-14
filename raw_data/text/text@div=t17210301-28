@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17210301-28">
+               <interp inst="t17210301-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17210301-28" type="year" value="1721"></interp>
+               <interp inst="t17210301-28" type="uri" value="sessionsPapers/17210301"></interp>
+               <interp inst="t17210301-28" type="date" value="17210301"></interp>
+               <join result="criminalCharge" id="t17210301-28-off149-c108" targOrder="Y" targets="t17210301-28-defend166 t17210301-28-off149 t17210301-28-verdict152"></join>
+               <join result="criminalCharge" id="t17210301-28-off149-c109" targOrder="Y" targets="t17210301-28-defend168 t17210301-28-off149 t17210301-28-verdict153"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17210301-28-defend166" type="defendantName">
+                     Mary 
+                     Walker 
+                  <interp inst="t17210301-28-defend166" type="surname" value="Walker"></interp>
+                     <interp inst="t17210301-28-defend166" type="given" value="Mary"></interp>
+                     <interp inst="t17210301-28-defend166" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17210301-28-defend168" type="defendantName">
+                     Mary 
+                     Fletcher 
+                  <interp inst="t17210301-28-defend168" type="surname" value="Fletcher"></interp>
+                     <interp inst="t17210301-28-defend168" type="given" value="Mary"></interp>
+                     <interp inst="t17210301-28-defend168" type="gender" value="female"></interp>
+                  </persName>
+                
+            , of <placeName id="t17210301-28-defloc148">St. Mary in White-Chappel</placeName>
+                  <interp inst="t17210301-28-defloc148" type="placeName" value="St. Mary in White-Chappel"></interp>
+                  <interp inst="t17210301-28-defloc148" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210301-28-defend166 t17210301-28-defloc148"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17210301-28-defend168 t17210301-28-defloc148"></join>, were Indicted for <rs id="t17210301-28-off149" type="offenceDescription">
+                     <interp inst="t17210301-28-off149" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17210301-28-off149" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Brass Kettle value 30 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17210301-28-victim170" type="victimName">
+                     Mary 
+                     Humphreys 
+                  <interp inst="t17210301-28-victim170" type="surname" value="Humphreys"></interp>
+                     <interp inst="t17210301-28-victim170" type="given" value="Mary"></interp>
+                     <interp inst="t17210301-28-victim170" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17210301-28-off149 t17210301-28-victim170"></join>
+                  </persName>
+                
+            , on the <rs id="t17210301-28-cd150" type="crimeDate">21st of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17210301-28-off149 t17210301-28-cd150"></join> last. It appeared to be the Day that the Prosecutor opened her House (the <placeName id="t17210301-28-crimeloc151">Kings Arms in White-Chappel</placeName>
+                  <interp inst="t17210301-28-crimeloc151" type="placeName" value="Kings Arms in White-Chappel"></interp>
+                  <interp inst="t17210301-28-crimeloc151" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17210301-28-off149 t17210301-28-crimeloc151"></join>) and that the Prisoners came in about Noon and staid till 8 at Night; that Fletcher was met with the Pot going towards White-Chappel-Fields, and when she came back her Apron was all crockt on the Inside. There being no Evidence against Walker, who staid in the House all the while, the Jury <rs id="t17210301-28-verdict152" type="verdictDescription">
+                     <interp inst="t17210301-28-verdict152" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> her, and found Fletcher <rs id="t17210301-28-verdict153" type="verdictDescription">
+                     <interp inst="t17210301-28-verdict153" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17210301-28-punish154" type="punishmentDescription">
+                     <interp inst="t17210301-28-punish154" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17210301-28-defend168 t17210301-28-punish154"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

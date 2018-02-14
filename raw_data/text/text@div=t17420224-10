@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420224-10">
+               <interp inst="t17420224-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420224-10" type="year" value="1742"></interp>
+               <interp inst="t17420224-10" type="uri" value="sessionsPapers/17420224"></interp>
+               <interp inst="t17420224-10" type="date" value="17420224"></interp>
+               <join result="criminalCharge" id="t17420224-10-off40-c81" targOrder="Y" targets="t17420224-10-defend101 t17420224-10-off40 t17420224-10-verdict42"></join>
+         
+               <p>6. 
+               
+                  <persName id="t17420224-10-defend101" type="defendantName">
+                     Alice 
+                     Rackett 
+                  <interp inst="t17420224-10-defend101" type="surname" value="Rackett"></interp>
+                     <interp inst="t17420224-10-defend101" type="given" value="Alice"></interp>
+                     <interp inst="t17420224-10-defend101" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17420224-10-off40" type="offenceDescription">
+                     <interp inst="t17420224-10-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420224-10-off40" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 3 Yards of Cotton, value 3 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17420224-10-victim103" type="victimName">
+                     William 
+                     Upmore 
+                  <interp inst="t17420224-10-victim103" type="surname" value="Upmore"></interp>
+                     <interp inst="t17420224-10-victim103" type="given" value="William"></interp>
+                     <interp inst="t17420224-10-victim103" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17420224-10-off40 t17420224-10-victim103"></join>
+                  </persName>
+                
+            , <rs id="t17420224-10-cd41" type="crimeDate">Feb. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420224-10-off40 t17420224-10-cd41"></join>. <rs id="t17420224-10-verdict42" type="verdictDescription">
+                     <interp inst="t17420224-10-verdict42" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17420224-10-verdict42" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17420224-10-punish43" type="punishmentDescription">
+                     <interp inst="t17420224-10-punish43" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420224-10-defend101 t17420224-10-punish43"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

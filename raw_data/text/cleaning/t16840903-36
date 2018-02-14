@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16840903-36">
+               <interp inst="t16840903-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t16840903-36" type="year" value="1684"></interp>
+               <interp inst="t16840903-36" type="uri" value="sessionsPapers/16840903"></interp>
+               <interp inst="t16840903-36" type="date" value="16840903"></interp>
+               <join result="criminalCharge" id="t16840903-36-off155-c119" targOrder="Y" targets="t16840903-36-defend170 t16840903-36-off155 t16840903-36-verdict158"></join>
+               <join result="criminalCharge" id="t16840903-36-off155-c120" targOrder="Y" targets="t16840903-36-defend172 t16840903-36-off155 t16840903-36-verdict158"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16840903-36-defend170" type="defendantName">
+                     William 
+                     Temple
+                  <interp inst="t16840903-36-defend170" type="surname" value="Temple"></interp>
+                     <interp inst="t16840903-36-defend170" type="given" value="William"></interp>
+                     <interp inst="t16840903-36-defend170" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16840903-36-defend172" type="defendantName">
+                     William 
+                     Butler
+                  <interp inst="t16840903-36-defend172" type="surname" value="Butler"></interp>
+                     <interp inst="t16840903-36-defend172" type="given" value="William"></interp>
+                     <interp inst="t16840903-36-defend172" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16840903-36-defloc154">St. Andrew Holborn</placeName>
+                  <interp inst="t16840903-36-defloc154" type="placeName" value="St. Andrew Holborn"></interp>
+                  <interp inst="t16840903-36-defloc154" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16840903-36-defend170 t16840903-36-defloc154"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16840903-36-defend172 t16840903-36-defloc154"></join>, were Indicted for <rs id="t16840903-36-off155" type="offenceDescription">
+                     <interp inst="t16840903-36-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16840903-36-off155" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing of 15 l. 10 s.
+            </rs> from 
+               <persName id="t16840903-36-victim173" type="victimName">
+                  Sarah 
+                  Welsh
+               <interp inst="t16840903-36-victim173" type="surname" value="Welsh"></interp>
+                     <interp inst="t16840903-36-victim173" type="given" value="Sarah"></interp>
+                     <interp inst="t16840903-36-victim173" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16840903-36-off155 t16840903-36-victim173"></join>
+                  </persName>
+            , <rs id="t16840903-36-viclabel156" type="occupation">Widdow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840903-36-victim173 t16840903-36-viclabel156"></join>. 
+               <persName id="t16840903-36-person174">
+                  William 
+                  Temple
+               <interp inst="t16840903-36-person174" type="surname" value="Temple"></interp>
+                     <interp inst="t16840903-36-person174" type="given" value="William"></interp>
+                     <interp inst="t16840903-36-person174" type="gender" value="male"></interp>
+                  </persName>
+             confessed the Fact; but Butler being Tryed, it appear'd that Mrs. Welsh <rs id="t16840903-36-viclabel157" type="occupation">keeps a Publick House</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16840903-36-victim173 t16840903-36-viclabel157"></join>, and both the said Parties coming in to drink, she served them in a Silver Tankard; and being put into a Room where the Money aforesaid lay in a Cup board, upon Mrs. Welshes turning her Back, they got the same thence. After which, they paid their Reckoning and desired the Woman to take care of her Tankard, who look'd upon them as very honest Guest, till she see that they had taken care of her Money, and conveyed the same away. Upon full Evidence they were found <rs id="t16840903-36-verdict158" type="verdictDescription">
+                     <interp inst="t16840903-36-verdict158" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16840903-36-punish159" type="punishmentDescription">
+                     <interp inst="t16840903-36-punish159" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840903-36-defend170 t16840903-36-punish159"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16840903-36-defend172 t16840903-36-punish159"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

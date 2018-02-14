@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17320223-37">
+               <interp inst="t17320223-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17320223-37" type="year" value="1732"></interp>
+               <interp inst="t17320223-37" type="uri" value="sessionsPapers/17320223"></interp>
+               <interp inst="t17320223-37" type="date" value="17320223"></interp>
+               <join result="criminalCharge" id="t17320223-37-off195-c207" targOrder="Y" targets="t17320223-37-defend292 t17320223-37-off195 t17320223-37-verdict198"></join>
+               <join result="criminalCharge" id="t17320223-37-off195-c208" targOrder="Y" targets="t17320223-37-defend294 t17320223-37-off195 t17320223-37-verdict197"></join>
+         
+               <p>45, 46. 
+               <persName id="t17320223-37-defend292" type="defendantName">
+                  Uriah 
+                  Davis 
+               <interp inst="t17320223-37-defend292" type="surname" value="Davis"></interp>
+                     <interp inst="t17320223-37-defend292" type="given" value="Uriah"></interp>
+                     <interp inst="t17320223-37-defend292" type="gender" value="male"></interp>
+                  </persName>
+              and 
+               
+                  <persName id="t17320223-37-defend294" type="defendantName">
+                     John 
+                     Edlin 
+                  <interp inst="t17320223-37-defend294" type="surname" value="Edlin"></interp>
+                     <interp inst="t17320223-37-defend294" type="given" value="John"></interp>
+                     <interp inst="t17320223-37-defend294" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17320223-37-defloc194">Hammersmith</placeName>
+                  <interp inst="t17320223-37-defloc194" type="placeName" value="Hammersmith"></interp>
+                  <interp inst="t17320223-37-defloc194" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17320223-37-defend292 t17320223-37-defloc194"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17320223-37-defend294 t17320223-37-defloc194"></join>, were indicted for <rs id="t17320223-37-off195" type="offenceDescription">
+                     <interp inst="t17320223-37-off195" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17320223-37-off195" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing 2 Heifers, value 4 l. 10 s.
+            </rs> the Goods-of 
+               
+                  <persName id="t17320223-37-victim296" type="victimName">
+                     Marmaduke 
+                     Bramly 
+                  <interp inst="t17320223-37-victim296" type="surname" value="Bramly"></interp>
+                     <interp inst="t17320223-37-victim296" type="given" value="Marmaduke"></interp>
+                     <interp inst="t17320223-37-victim296" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17320223-37-off195 t17320223-37-victim296"></join>
+                  </persName>
+                
+            , <rs id="t17320223-37-cd196" type="crimeDate">Jan. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17320223-37-off195 t17320223-37-cd196"></join>.</p>
+               <p>
+            
+                  <persName id="t17320223-37-person297">
+                  Joseph 
+                  Sleath 
+               <interp inst="t17320223-37-person297" type="surname" value="Sleath"></interp>
+                     <interp inst="t17320223-37-person297" type="given" value="Joseph"></interp>
+                     <interp inst="t17320223-37-person297" type="gender" value="male"></interp>
+                  </persName>
+            . Davis brought the Heifers to Smithfield, and desir'd me to sell 'em for him. Edlin came with him, but stood at a little distance, and did not speak to me.</p>
+               <p>
+            
+                  <persName id="t17320223-37-person298">
+                  Marmaduke 
+                  Bramly 
+               <interp inst="t17320223-37-person298" type="surname" value="Bramly"></interp>
+                     <interp inst="t17320223-37-person298" type="given" value="Marmaduke"></interp>
+                     <interp inst="t17320223-37-person298" type="gender" value="male"></interp>
+                  </persName>
+            . Those were my Heisers, and the same that I had lost. The Jury <rs id="t17320223-37-verdict197" type="verdictDescription">
+                     <interp inst="t17320223-37-verdict197" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> Edlin, and found Davis <rs id="t17320223-37-verdict198" type="verdictDescription">
+                     <interp inst="t17320223-37-verdict198" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17320223-37-punish199" type="punishmentDescription">
+                     <interp inst="t17320223-37-punish199" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17320223-37-defend292 t17320223-37-punish199"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17320223-37-defend294 t17320223-37-punish199"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17300828-72">
+               <interp inst="t17300828-72" type="collection" value="BAILEY"></interp>
+               <interp inst="t17300828-72" type="year" value="1730"></interp>
+               <interp inst="t17300828-72" type="uri" value="sessionsPapers/17300828"></interp>
+               <interp inst="t17300828-72" type="date" value="17300828"></interp>
+               <join result="criminalCharge" id="t17300828-72-off370-c232" targOrder="Y" targets="t17300828-72-defend372 t17300828-72-off370 t17300828-72-verdict372"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17300828-72-defend372" type="defendantName">
+                     Mary 
+                     Brown 
+                  <interp inst="t17300828-72-defend372" type="surname" value="Brown"></interp>
+                     <interp inst="t17300828-72-defend372" type="given" value="Mary"></interp>
+                     <interp inst="t17300828-72-defend372" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17300828-72-defloc369">St. Mary White-Chappel</placeName>
+                  <interp inst="t17300828-72-defloc369" type="placeName" value="St. Mary White-Chappel"></interp>
+                  <interp inst="t17300828-72-defloc369" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300828-72-defend372 t17300828-72-defloc369"></join>, was indicted for <rs id="t17300828-72-off370" type="offenceDescription">
+                     <interp inst="t17300828-72-off370" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17300828-72-off370" type="offenceSubcategory" value="theftFromPlace"></interp>
+               feloniously stealing a Shift, value 4 s. and 4 l. in Money, in the Dwelling-House
+            </rs> of 
+               
+                  <persName id="t17300828-72-victim374" type="victimName">
+                     Edward 
+                     Nichols 
+                  <interp inst="t17300828-72-victim374" type="surname" value="Nichols"></interp>
+                     <interp inst="t17300828-72-victim374" type="given" value="Edward"></interp>
+                     <interp inst="t17300828-72-victim374" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17300828-72-off370 t17300828-72-victim374"></join>
+                  </persName>
+                
+            , the <rs id="t17300828-72-cd371" type="crimeDate">6th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17300828-72-off370 t17300828-72-cd371"></join> last.</p>
+               <p>Mrs. Nichols depos'd, That she being to go to a Christening, and the Prisoner lodging in her House, she offer'd to look after her Child while she went, and that when she came home the Prisoner was gone, and Money too. The Prisoner had confess'd the taking of the Money before the Lord Mayor, and the Jury found her <rs id="t17300828-72-verdict372" type="verdictDescription">
+                     <interp inst="t17300828-72-verdict372" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17300828-72-verdict372" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty to the Value of 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17300828-72-punish373" type="punishmentDescription">
+                     <interp inst="t17300828-72-punish373" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300828-72-defend372 t17300828-72-punish373"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

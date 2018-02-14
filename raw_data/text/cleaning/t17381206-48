@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381206-48">
+               <interp inst="t17381206-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381206-48" type="year" value="1738"></interp>
+               <interp inst="t17381206-48" type="uri" value="sessionsPapers/17381206"></interp>
+               <interp inst="t17381206-48" type="date" value="17381206"></interp>
+               <join result="criminalCharge" id="t17381206-48-off211-c223" targOrder="Y" targets="t17381206-48-defend329 t17381206-48-off211 t17381206-48-verdict213"></join>
+         
+               <p>53. 
+               
+                  <persName id="t17381206-48-defend329" type="defendantName">
+                     Ann 
+                     Grouden 
+                  <interp inst="t17381206-48-defend329" type="surname" value="Grouden"></interp>
+                     <interp inst="t17381206-48-defend329" type="given" value="Ann"></interp>
+                     <interp inst="t17381206-48-defend329" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17381206-48-off211" type="offenceDescription">
+                     <interp inst="t17381206-48-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381206-48-off211" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard, val. 5 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17381206-48-victim331" type="victimName">
+                     Edward 
+                     Blyssard 
+                  <interp inst="t17381206-48-victim331" type="surname" value="Blyssard"></interp>
+                     <interp inst="t17381206-48-victim331" type="given" value="Edward"></interp>
+                     <interp inst="t17381206-48-victim331" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17381206-48-off211 t17381206-48-victim331"></join>
+                  </persName>
+                
+            , <rs id="t17381206-48-cd212" type="crimeDate">Oct. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381206-48-off211 t17381206-48-cd212"></join>. <rs id="t17381206-48-verdict213" type="verdictDescription">
+                     <interp inst="t17381206-48-verdict213" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17381206-48-verdict213" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17381206-48-punish214" type="punishmentDescription">
+                     <interp inst="t17381206-48-punish214" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381206-48-defend329 t17381206-48-punish214"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

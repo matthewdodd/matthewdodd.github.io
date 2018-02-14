@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17220510-11">
+               <interp inst="t17220510-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17220510-11" type="year" value="1722"></interp>
+               <interp inst="t17220510-11" type="uri" value="sessionsPapers/17220510"></interp>
+               <interp inst="t17220510-11" type="date" value="17220510"></interp>
+               <join result="criminalCharge" id="t17220510-11-off54-c80" targOrder="Y" targets="t17220510-11-defend99 t17220510-11-off54 t17220510-11-verdict57"></join>
+               <join result="criminalCharge" id="t17220510-11-off54-c81" targOrder="Y" targets="t17220510-11-defend101 t17220510-11-off54 t17220510-11-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17220510-11-defend99" type="defendantName">
+                     Peter 
+                     Douay 
+                  <interp inst="t17220510-11-defend99" type="surname" value="Douay"></interp>
+                     <interp inst="t17220510-11-defend99" type="given" value="Peter"></interp>
+                     <interp inst="t17220510-11-defend99" type="gender" value="male"></interp>
+                  </persName>
+                
+             ( <rs id="t17220510-11-deflabel52" type="occupation">a Black</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17220510-11-defend99 t17220510-11-deflabel52"></join> ) and 
+               
+                  <persName id="t17220510-11-defend101" type="defendantName">
+                     Nicholas 
+                     Fowler  alias <rs id="t17220510-11-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17220510-11-defend101 t17220510-11-alias-1"></join>John Hunt</rs>
+                     <interp inst="t17220510-11-defend101" type="surname" value="Fowler"></interp>
+                     <interp inst="t17220510-11-defend101" type="given" value="Nicholas"></interp>
+                     <interp inst="t17220510-11-defend101" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17220510-11-defloc53">St. Dunstan the East</placeName>
+                  <interp inst="t17220510-11-defloc53" type="placeName" value="St. Dunstan the East"></interp>
+                  <interp inst="t17220510-11-defloc53" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17220510-11-defend99 t17220510-11-defloc53"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17220510-11-defend101 t17220510-11-defloc53"></join> were indicted for <rs id="t17220510-11-off54" type="offenceDescription">
+                     <interp inst="t17220510-11-off54" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17220510-11-off54" type="offenceSubcategory" value="theftFromPlace"></interp>
+               feloniously stealing an Iron Hundred Weight, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17220510-11-victim103" type="victimName">
+                     Ann 
+                     Job 
+                  <interp inst="t17220510-11-victim103" type="surname" value="Job"></interp>
+                     <interp inst="t17220510-11-victim103" type="given" value="Ann"></interp>
+                     <interp inst="t17220510-11-victim103" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17220510-11-off54 t17220510-11-victim103"></join>
+                  </persName>
+                
+            , on the <rs id="t17220510-11-cd55" type="crimeDate">16th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17220510-11-off54 t17220510-11-cd55"></join> last. It appeared that the Weight was lost from <placeName id="t17220510-11-crimeloc56">Ralph's Key</placeName>
+                  <interp inst="t17220510-11-crimeloc56" type="placeName" value="Ralph's Key"></interp>
+                  <interp inst="t17220510-11-crimeloc56" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17220510-11-off54 t17220510-11-crimeloc56"></join>, and the prisoners offering it to one Nighingal, a Smith in Rosemary lane, were stopt. Fowler in his Defence, said, he saw Douay, pitching the Weight on Dunstan's Hill; who told him if he'd help him up with the Weight, and go with him, and take it down again, he had give him a Pot of Beer, Douay was found <rs id="t17220510-11-verdict57" type="verdictDescription">
+                     <interp inst="t17220510-11-verdict57" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, and Fowler <rs id="t17220510-11-verdict58" type="verdictDescription">
+                     <interp inst="t17220510-11-verdict58" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17220510-11-punish59" type="punishmentDescription">
+                     <interp inst="t17220510-11-punish59" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17220510-11-defend99 t17220510-11-punish59"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

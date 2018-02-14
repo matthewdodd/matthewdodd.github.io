@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17300116-26">
+               <interp inst="t17300116-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17300116-26" type="year" value="1730"></interp>
+               <interp inst="t17300116-26" type="uri" value="sessionsPapers/17300116"></interp>
+               <interp inst="t17300116-26" type="date" value="17300116"></interp>
+               <join result="criminalCharge" id="t17300116-26-off143-c168" targOrder="Y" targets="t17300116-26-defend222 t17300116-26-off143 t17300116-26-verdict146"></join>
+         
+               <p>
+            
+                  <persName id="t17300116-26-defend222" type="defendantName">
+                  Obadiah 
+                  Hanshaw 
+               <interp inst="t17300116-26-defend222" type="surname" value="Hanshaw"></interp>
+                     <interp inst="t17300116-26-defend222" type="given" value="Obadiah"></interp>
+                     <interp inst="t17300116-26-defend222" type="gender" value="male"></interp>
+                  </persName>
+             , of <placeName id="t17300116-26-defloc142">St. Magnus the Martyr</placeName>
+                  <interp inst="t17300116-26-defloc142" type="placeName" value="St. Magnus the Martyr"></interp>
+                  <interp inst="t17300116-26-defloc142" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300116-26-defend222 t17300116-26-defloc142"></join> , was indicted for <rs id="t17300116-26-off143" type="offenceDescription">
+                     <interp inst="t17300116-26-off143" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17300116-26-off143" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Leaden Image, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17300116-26-victim224" type="victimName">
+                     Joseph 
+                     Beachcroft 
+                  <interp inst="t17300116-26-victim224" type="surname" value="Beachcroft"></interp>
+                     <interp inst="t17300116-26-victim224" type="given" value="Joseph"></interp>
+                     <interp inst="t17300116-26-victim224" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17300116-26-off143 t17300116-26-victim224"></join>
+                  </persName>
+                
+             , <rs id="t17300116-26-viclabel144" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17300116-26-victim224 t17300116-26-viclabel144"></join>; <rs id="t17300116-26-cd145" type="crimeDate">January 2.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17300116-26-off143 t17300116-26-cd145"></join> The Fact appearing plain, the Jury found him <rs id="t17300116-26-verdict146" type="verdictDescription">
+                     <interp inst="t17300116-26-verdict146" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17300116-26-verdict146" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17300116-26-punish147" type="punishmentDescription">
+                     <interp inst="t17300116-26-punish147" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300116-26-defend222 t17300116-26-punish147"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

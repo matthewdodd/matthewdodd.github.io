@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490705-43">
+               <interp inst="t17490705-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490705-43" type="year" value="1749"></interp>
+               <interp inst="t17490705-43" type="uri" value="sessionsPapers/17490705"></interp>
+               <interp inst="t17490705-43" type="date" value="17490705"></interp>
+               <join result="criminalCharge" id="t17490705-43-off211-c197" targOrder="Y" targets="t17490705-43-defend275 t17490705-43-off211 t17490705-43-verdict213"></join>
+         
+               <p>419. 
+               
+                  <persName id="t17490705-43-defend275" type="defendantName">
+                     Thomas 
+                     Smith 
+                  <interp inst="t17490705-43-defend275" type="surname" value="Smith"></interp>
+                     <interp inst="t17490705-43-defend275" type="given" value="Thomas"></interp>
+                     <interp inst="t17490705-43-defend275" type="gender" value="male"></interp>
+                  </persName>
+               
+            , late of <placeName id="t17490705-43-defloc210">St. Mary-le-bone</placeName>
+                  <interp inst="t17490705-43-defloc210" type="placeName" value="St. Mary-le-bone"></interp>
+                  <interp inst="t17490705-43-defloc210" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17490705-43-defend275 t17490705-43-defloc210"></join>, was indicted for <rs id="t17490705-43-off211" type="offenceDescription">
+                     <interp inst="t17490705-43-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490705-43-off211" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cloth coat, val. 2 s. two iron keys, val. 2 s. one printed book, val. 2 d.
+            </rs> the goods of 
+               
+                  <persName id="t17490705-43-victim277" type="victimName">
+                     Robert 
+                     Noyes 
+                  <interp inst="t17490705-43-victim277" type="surname" value="Noyes"></interp>
+                     <interp inst="t17490705-43-victim277" type="given" value="Robert"></interp>
+                     <interp inst="t17490705-43-victim277" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490705-43-off211 t17490705-43-victim277"></join>
+                  </persName>
+                
+            , <rs id="t17490705-43-cd212" type="crimeDate">June the 13th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490705-43-off211 t17490705-43-cd212"></join>.</p>
+               <p>
+                  <rs id="t17490705-43-verdict213" type="verdictDescription">
+                     <interp inst="t17490705-43-verdict213" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17490705-43-verdict213" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17490705-43-punish214" type="punishmentDescription">
+                     <interp inst="t17490705-43-punish214" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490705-43-defend275 t17490705-43-punish214"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

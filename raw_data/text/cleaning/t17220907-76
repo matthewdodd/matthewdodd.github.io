@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17220907-76">
+               <interp inst="t17220907-76" type="collection" value="BAILEY"></interp>
+               <interp inst="t17220907-76" type="year" value="1722"></interp>
+               <interp inst="t17220907-76" type="uri" value="sessionsPapers/17220907"></interp>
+               <interp inst="t17220907-76" type="date" value="17220907"></interp>
+               <join result="criminalCharge" id="t17220907-76-off413-c276" targOrder="Y" targets="t17220907-76-defend431 t17220907-76-off413 t17220907-76-verdict415"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17220907-76-defend431" type="defendantName">
+                     John 
+                     Bullman 
+                  <interp inst="t17220907-76-defend431" type="surname" value="Bullman"></interp>
+                     <interp inst="t17220907-76-defend431" type="given" value="John"></interp>
+                     <interp inst="t17220907-76-defend431" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17220907-76-defloc412">White Chappel</placeName>
+                  <interp inst="t17220907-76-defloc412" type="placeName" value="White Chappel"></interp>
+                  <interp inst="t17220907-76-defloc412" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17220907-76-defend431 t17220907-76-defloc412"></join>, was indicted for <rs id="t17220907-76-off413" type="offenceDescription">
+                     <interp inst="t17220907-76-off413" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17220907-76-off413" type="offenceSubcategory" value="other"></interp>
+               stealing 2 Shirts
+            </rs>, the Goods of 
+               
+                  <persName id="t17220907-76-victim433" type="victimName">
+                     Henry 
+                     Waller 
+                  <interp inst="t17220907-76-victim433" type="surname" value="Waller"></interp>
+                     <interp inst="t17220907-76-victim433" type="given" value="Henry"></interp>
+                     <interp inst="t17220907-76-victim433" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17220907-76-off413 t17220907-76-victim433"></join>
+                  </persName>
+                
+            , on the <rs id="t17220907-76-cd414" type="crimeDate">3d of this Instant September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17220907-76-off413 t17220907-76-cd414"></join>; of which Indictment he was found <rs id="t17220907-76-verdict415" type="verdictDescription">
+                     <interp inst="t17220907-76-verdict415" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17220907-76-verdict415" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17220907-76-punish416" type="punishmentDescription">
+                     <interp inst="t17220907-76-punish416" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17220907-76-defend431 t17220907-76-punish416"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

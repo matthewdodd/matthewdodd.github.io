@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360721-10">
+               <interp inst="t17360721-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360721-10" type="year" value="1736"></interp>
+               <interp inst="t17360721-10" type="uri" value="sessionsPapers/17360721"></interp>
+               <interp inst="t17360721-10" type="date" value="17360721"></interp>
+               <join result="criminalCharge" id="t17360721-10-off56-c77" targOrder="Y" targets="t17360721-10-defend103 t17360721-10-off56 t17360721-10-verdict58"></join>
+         
+               <p>12. 
+               
+                  <persName id="t17360721-10-defend103" type="defendantName">
+                     Dorothy 
+                     Edwin 
+                  <interp inst="t17360721-10-defend103" type="surname" value="Edwin"></interp>
+                     <interp inst="t17360721-10-defend103" type="given" value="Dorothy"></interp>
+                     <interp inst="t17360721-10-defend103" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360721-10-off56" type="offenceDescription">
+                     <interp inst="t17360721-10-off56" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360721-10-off56" type="offenceSubcategory" value="other"></interp>
+               stealing a Velvet Cap, two Cambrick Handkerchiefs, a pair of Thread Stockings, and an Apron
+            </rs>, the Goods of 
+               
+                  <persName id="t17360721-10-victim105" type="victimName">
+                     Jane 
+                     Canning 
+                  <interp inst="t17360721-10-victim105" type="surname" value="Canning"></interp>
+                     <interp inst="t17360721-10-victim105" type="given" value="Jane"></interp>
+                     <interp inst="t17360721-10-victim105" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360721-10-off56 t17360721-10-victim105"></join>
+                  </persName>
+                
+            , <rs id="t17360721-10-cd57" type="crimeDate">July 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360721-10-off56 t17360721-10-cd57"></join>, <rs id="t17360721-10-verdict58" type="verdictDescription">
+                     <interp inst="t17360721-10-verdict58" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360721-10-verdict58" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty, single Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17360721-10-punish59" type="punishmentDescription">
+                     <interp inst="t17360721-10-punish59" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360721-10-defend103 t17360721-10-punish59"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

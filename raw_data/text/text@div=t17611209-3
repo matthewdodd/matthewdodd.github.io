@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17611209-3">
+               <interp inst="t17611209-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17611209-3" type="year" value="1761"></interp>
+               <interp inst="t17611209-3" type="uri" value="sessionsPapers/17611209"></interp>
+               <interp inst="t17611209-3" type="date" value="17611209"></interp>
+               <join result="criminalCharge" id="t17611209-3-off14-c47" targOrder="Y" targets="t17611209-3-defend52 t17611209-3-off14 t17611209-3-verdict18"></join>
+         
+               <p>3. (M.) 
+               
+                  <persName id="t17611209-3-defend52" type="defendantName">
+                     Mary 
+                     Arnott 
+                  <interp inst="t17611209-3-defend52" type="surname" value="Arnott"></interp>
+                     <interp inst="t17611209-3-defend52" type="given" value="Mary"></interp>
+                     <interp inst="t17611209-3-defend52" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17611209-3-deflabel13" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17611209-3-defend52 t17611209-3-deflabel13"></join>, was indicted for <rs id="t17611209-3-off14" type="offenceDescription">
+                     <interp inst="t17611209-3-off14" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17611209-3-off14" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of leather clogs, value 3 s. 6 d.
+            </rs> the property of 
+               <persName id="t17611209-3-victim53" type="victimName">
+                  Robert 
+                  Maris 
+               <interp inst="t17611209-3-victim53" type="surname" value="Maris"></interp>
+                     <interp inst="t17611209-3-victim53" type="given" value="Robert"></interp>
+                     <interp inst="t17611209-3-victim53" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17611209-3-off14 t17611209-3-victim53"></join>
+                  </persName>
+             , <rs id="t17611209-3-cd15" type="crimeDate">Dec. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17611209-3-off14 t17611209-3-cd15"></join>.~</p>
+               <p>
+            
+                  <persName id="t17611209-3-person54">
+                  Robert 
+                  Maris 
+               <interp inst="t17611209-3-person54" type="surname" value="Maris"></interp>
+                     <interp inst="t17611209-3-person54" type="given" value="Robert"></interp>
+                     <interp inst="t17611209-3-person54" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17611209-3-viclabel16" type="occupation">keeps a shoe-maker's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17611209-3-victim53 t17611209-3-viclabel16"></join> in <placeName id="t17611209-3-crimeloc17">Holbourn</placeName>
+                  <interp inst="t17611209-3-crimeloc17" type="placeName" value="Holbourn"></interp>
+                  <interp inst="t17611209-3-crimeloc17" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17611209-3-off14 t17611209-3-crimeloc17"></join>. The prisoner went into the shop to inquire after a person, which, she said, lived in the neighbourhood; and, at going out, was observed by a neighbour to take a pair of leather clogs that hung in the window. The neighbour informed the apprentice, who pursued and took her with the clogs upon her.</p>
+               <p>
+                  <rs id="t17611209-3-verdict18" type="verdictDescription">
+                     <interp inst="t17611209-3-verdict18" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17611209-3-verdict18" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17611209-3-punish19" type="punishmentDescription">
+                     <interp inst="t17611209-3-punish19" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17611209-3-defend52 t17611209-3-punish19"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

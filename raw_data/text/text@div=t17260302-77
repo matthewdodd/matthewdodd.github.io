@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17260302-77">
+               <interp inst="t17260302-77" type="collection" value="BAILEY"></interp>
+               <interp inst="t17260302-77" type="year" value="1726"></interp>
+               <interp inst="t17260302-77" type="uri" value="sessionsPapers/17260302"></interp>
+               <interp inst="t17260302-77" type="date" value="17260302"></interp>
+               <join result="criminalCharge" id="t17260302-77-off356-c274" targOrder="Y" targets="t17260302-77-defend447 t17260302-77-off356 t17260302-77-verdict357"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17260302-77-defend447" type="defendantName">
+                     John 
+                     Carpenter 
+                  <interp inst="t17260302-77-defend447" type="surname" value="Carpenter"></interp>
+                     <interp inst="t17260302-77-defend447" type="given" value="John"></interp>
+                     <interp inst="t17260302-77-defend447" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17260302-77-off356" type="offenceDescription">
+                     <interp inst="t17260302-77-off356" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17260302-77-off356" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Cock and two Hens
+            </rs>, the Goods of 
+               
+                  <persName id="t17260302-77-victim449" type="victimName">
+                     Andrew 
+                     Henly 
+                  <interp inst="t17260302-77-victim449" type="surname" value="Henly"></interp>
+                     <interp inst="t17260302-77-victim449" type="given" value="Andrew"></interp>
+                     <interp inst="t17260302-77-victim449" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17260302-77-off356 t17260302-77-victim449"></join>
+                  </persName>
+                
+            . <rs id="t17260302-77-verdict357" type="verdictDescription">
+                     <interp inst="t17260302-77-verdict357" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17260302-77-punish358" type="punishmentDescription">
+                     <interp inst="t17260302-77-punish358" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17260302-77-defend447 t17260302-77-punish358"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

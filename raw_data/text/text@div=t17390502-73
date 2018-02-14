@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390502-73">
+               <interp inst="t17390502-73" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390502-73" type="year" value="1739"></interp>
+               <interp inst="t17390502-73" type="uri" value="sessionsPapers/17390502"></interp>
+               <interp inst="t17390502-73" type="date" value="17390502"></interp>
+               <join result="criminalCharge" id="t17390502-73-off325-c315" targOrder="Y" targets="t17390502-73-defend482 t17390502-73-off325 t17390502-73-verdict328"></join>
+         
+               <p>318. 
+               
+                  <persName id="t17390502-73-defend482" type="defendantName">
+                     Ann 
+                     Seager 
+                  <interp inst="t17390502-73-defend482" type="surname" value="Seager"></interp>
+                     <interp inst="t17390502-73-defend482" type="given" value="Ann"></interp>
+                     <interp inst="t17390502-73-defend482" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390502-73-off325" type="offenceDescription">
+                     <interp inst="t17390502-73-off325" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390502-73-off325" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Velvet Waistcoat, val. 6 s. a Sword with a Steel Hilt, val 5 s. two Pair of Sheets, val. 1 s. a Velvet Cap, val. 1 s. and several other Things
+            </rs>, the Goods of 
+               
+                  <persName id="t17390502-73-victim484" type="victimName">
+                     Samuel 
+                     Skinner 
+                  <interp inst="t17390502-73-victim484" type="surname" value="Skinner"></interp>
+                     <interp inst="t17390502-73-victim484" type="given" value="Samuel"></interp>
+                     <interp inst="t17390502-73-victim484" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17390502-73-off325 t17390502-73-victim484"></join>
+                  </persName>
+                
+            , <rs id="t17390502-73-viclabel326" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17390502-73-victim484 t17390502-73-viclabel326"></join>; <rs id="t17390502-73-cd327" type="crimeDate">Mar. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390502-73-off325 t17390502-73-cd327"></join>. <rs id="t17390502-73-verdict328" type="verdictDescription">
+                     <interp inst="t17390502-73-verdict328" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17390502-73-punish329" type="punishmentDescription">
+                     <interp inst="t17390502-73-punish329" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390502-73-defend482 t17390502-73-punish329"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t18230514-127">
+               <interp inst="t18230514-127" type="collection" value="BAILEY"></interp>
+               <interp inst="t18230514-127" type="year" value="1823"></interp>
+               <interp inst="t18230514-127" type="uri" value="sessionsPapers/18230514"></interp>
+               <interp inst="t18230514-127" type="date" value="18230514"></interp>
+               <join result="criminalCharge" id="t18230514-127-off678-c841" targOrder="Y" targets="t18230514-127-defend1116 t18230514-127-off678 t18230514-127-verdict682"></join>
+               <join result="criminalCharge" id="t18230514-127-off678-c842" targOrder="Y" targets="t18230514-127-defend1118 t18230514-127-off678 t18230514-127-verdict683"></join>
+         
+               <p>848. 
+               
+                  <persName id="t18230514-127-defend1116" type="defendantName">
+                     THOMAS 
+                     JOHNSON
+                  <interp inst="t18230514-127-defend1116" type="surname" value="JOHNSON"></interp>
+                     <interp inst="t18230514-127-defend1116" type="given" value="THOMAS"></interp>
+                     <interp inst="t18230514-127-defend1116" type="gender" value="male"></interp>
+                     <interp inst="t18230514-127-defend1116" type="age" value="15"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t18230514-127-defend1118" type="defendantName">
+                     THOMAS 
+                     JACKSON
+                  <interp inst="t18230514-127-defend1118" type="surname" value="JACKSON"></interp>
+                     <interp inst="t18230514-127-defend1118" type="given" value="THOMAS"></interp>
+                     <interp inst="t18230514-127-defend1118" type="gender" value="male"></interp>
+                     <interp inst="t18230514-127-defend1118" type="age" value="16"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t18230514-127-off678" type="offenceDescription">
+                     <interp inst="t18230514-127-off678" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t18230514-127-off678" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t18230514-127-cd679" type="crimeDate">14th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t18230514-127-off678 t18230514-127-cd679"></join>, thirty-eight yards of carpeting, value 50 s.
+            </rs>, the goods of 
+               <persName id="t18230514-127-victim1119" type="victimName">
+                  Charles 
+                  Walker
+               <interp inst="t18230514-127-victim1119" type="surname" value="Walker"></interp>
+                     <interp inst="t18230514-127-victim1119" type="given" value="Charles"></interp>
+                     <interp inst="t18230514-127-victim1119" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t18230514-127-off678 t18230514-127-victim1119"></join>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t18230514-127-person1120">
+                  CHARLES 
+                  WALKER
+               <interp inst="t18230514-127-person1120" type="surname" value="WALKER"></interp>
+                     <interp inst="t18230514-127-person1120" type="given" value="CHARLES"></interp>
+                     <interp inst="t18230514-127-person1120" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t18230514-127-viclabel680" type="occupation">linendraper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t18230514-127-victim1119 t18230514-127-viclabel680"></join>, and live in <placeName id="t18230514-127-crimeloc681">King's-place, Commercial-road</placeName>
+                  <interp inst="t18230514-127-crimeloc681" type="placeName" value="King's-place, Commercial-road"></interp>
+                  <interp inst="t18230514-127-crimeloc681" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t18230514-127-off678 t18230514-127-crimeloc681"></join>. A boy brought this carpet into the shop before I had missed it.</p>
+               <p>
+            
+                  <persName id="t18230514-127-person1121">
+                  THOMAS 
+                  KERR
+               <interp inst="t18230514-127-person1121" type="surname" value="KERR"></interp>
+                     <interp inst="t18230514-127-person1121" type="given" value="THOMAS"></interp>
+                     <interp inst="t18230514-127-person1121" type="gender" value="male"></interp>
+                  </persName>
+            . I am a linendraper. Last Wednesday<xptr type="pageFacsimile" doc="182305140042"></xptr>I saw the prisoners in the Commercial-road, loitering about backward and forward for near an hour, and then saw Johnson remove the carpet and Jackson take it away. I pursued, and he dropped it in King-street; I secured him, and am certain of them both.</p>
+               <p>JOHNSON - <rs id="t18230514-127-verdict682" type="verdictDescription">
+                     <interp inst="t18230514-127-verdict682" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 15.</p>
+               <p>JACKSON - <rs id="t18230514-127-verdict683" type="verdictDescription">
+                     <interp inst="t18230514-127-verdict683" type="verdictCategory" value="guilty"></interp>
+               GUILTY
+            </rs>. Aged 16.</p>
+               <p>
+                  <rs id="t18230514-127-punish684" type="punishmentDescription">
+                     <interp inst="t18230514-127-punish684" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18230514-127-defend1116 t18230514-127-punish684"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t18230514-127-defend1118 t18230514-127-punish684"></join>
+               Transported for Seven Years
+            </rs>.</p>
+            </div1>

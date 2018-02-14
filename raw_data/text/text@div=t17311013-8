@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17311013-8">
+               <interp inst="t17311013-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17311013-8" type="year" value="1731"></interp>
+               <interp inst="t17311013-8" type="uri" value="sessionsPapers/17311013"></interp>
+               <interp inst="t17311013-8" type="date" value="17311013"></interp>
+               <join result="criminalCharge" id="t17311013-8-off40-c47" targOrder="Y" targets="t17311013-8-defend62 t17311013-8-off40 t17311013-8-verdict43"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17311013-8-defend62" type="defendantName">
+                     Mary 
+                     Salisbury
+                  <interp inst="t17311013-8-defend62" type="surname" value="Salisbury"></interp>
+                     <interp inst="t17311013-8-defend62" type="given" value="Mary"></interp>
+                     <interp inst="t17311013-8-defend62" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17311013-8-defloc39">St. Martin's in the Fields</placeName>
+                  <interp inst="t17311013-8-defloc39" type="placeName" value="St. Martin's in the Fields"></interp>
+                  <interp inst="t17311013-8-defloc39" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17311013-8-defend62 t17311013-8-defloc39"></join>, was indicted for <rs id="t17311013-8-off40" type="offenceDescription">
+                     <interp inst="t17311013-8-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17311013-8-off40" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Pewter Chamber-Pot, value 2 s. 6 d.
+            </rs> the Property of 
+               
+                  <persName id="t17311013-8-victim64" type="victimName">
+                     John 
+                     Cornwal
+                  <interp inst="t17311013-8-victim64" type="surname" value="Cornwal"></interp>
+                     <interp inst="t17311013-8-victim64" type="given" value="John"></interp>
+                     <interp inst="t17311013-8-victim64" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17311013-8-off40 t17311013-8-victim64"></join>
+                  </persName>
+               
+            , the <rs id="t17311013-8-cd41" type="crimeDate">17th of September </rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17311013-8-off40 t17311013-8-cd41"></join>last.</p>
+               <p>It appear'd by the Evidence, That the Pot was stolen from the <placeName id="t17311013-8-crimeloc42">Castle Tavern in Drury-Lane</placeName>
+                  <interp inst="t17311013-8-crimeloc42" type="placeName" value="Castle Tavern in Drury-Lane"></interp>
+                  <interp inst="t17311013-8-crimeloc42" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17311013-8-off40 t17311013-8-crimeloc42"></join>, and that the Prisoner was apprehended selling of it. The Fact being clearly proved, the Jury found her <rs id="t17311013-8-verdict43" type="verdictDescription">
+                     <interp inst="t17311013-8-verdict43" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17311013-8-verdict43" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17311013-8-punish44" type="punishmentDescription">
+                     <interp inst="t17311013-8-punish44" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17311013-8-defend62 t17311013-8-punish44"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17300116-6">
+               <interp inst="t17300116-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17300116-6" type="year" value="1730"></interp>
+               <interp inst="t17300116-6" type="uri" value="sessionsPapers/17300116"></interp>
+               <interp inst="t17300116-6" type="date" value="17300116"></interp>
+               <join result="criminalCharge" id="t17300116-6-off29-c49" targOrder="Y" targets="t17300116-6-defend61 t17300116-6-off29 t17300116-6-verdict31"></join>
+               <join result="criminalCharge" id="t17300116-6-off29-c50" targOrder="Y" targets="t17300116-6-defend62 t17300116-6-off29 t17300116-6-verdict31"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17300116-6-defend61" type="defendantName">
+                     George 
+                     Smith 
+                  <interp inst="t17300116-6-defend61" type="surname" value="Smith"></interp>
+                     <interp inst="t17300116-6-defend61" type="given" value="George"></interp>
+                     <interp inst="t17300116-6-defend61" type="gender" value="male"></interp>
+                  </persName>
+               
+            , (a 
+               <persName id="t17300116-6-defend62" type="defendantName">
+                  Boy
+               <interp inst="t17300116-6-defend62" type="given" value="Boy"></interp>
+                     <interp inst="t17300116-6-defend62" type="gender" value="male"></interp>
+                  </persName>
+            ) of <placeName id="t17300116-6-defloc28">St. Mary-At-Hill, Billinsgate</placeName>
+                  <interp inst="t17300116-6-defloc28" type="placeName" value="St. Mary-At-Hill, Billinsgate"></interp>
+                  <interp inst="t17300116-6-defloc28" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300116-6-defend61 t17300116-6-defloc28"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17300116-6-defend62 t17300116-6-defloc28"></join> , was indicted for <rs id="t17300116-6-off29" type="offenceDescription">
+                     <interp inst="t17300116-6-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17300116-6-off29" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing fifty-six Pound of Sugar, value fifteen Shillings, the Goods of Persons unknown
+            </rs>, <rs id="t17300116-6-cd30" type="crimeDate">Nov. 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17300116-6-off29 t17300116-6-cd30"></join>.</p>
+               <p>
+            
+                  <persName id="t17300116-6-person63">
+                  Robert 
+                  Oliver 
+               <interp inst="t17300116-6-person63" type="surname" value="Oliver"></interp>
+                     <interp inst="t17300116-6-person63" type="given" value="Robert"></interp>
+                     <interp inst="t17300116-6-person63" type="gender" value="male"></interp>
+                  </persName>
+             depos'd, That the Prisoner stole the Sugar.</p>
+               <p>Atkins Moore (the Constable) depos'd, That the Prisoner confessed the Fact when he was taken; the Jury found him <rs id="t17300116-6-verdict31" type="verdictDescription">
+                     <interp inst="t17300116-6-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17300116-6-verdict31" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17300116-6-punish32" type="punishmentDescription">
+                     <interp inst="t17300116-6-punish32" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300116-6-defend61 t17300116-6-punish32"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17300116-6-defend62 t17300116-6-punish32"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

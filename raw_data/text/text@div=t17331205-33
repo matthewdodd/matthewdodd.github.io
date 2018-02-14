@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17331205-33">
+               <interp inst="t17331205-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17331205-33" type="year" value="1733"></interp>
+               <interp inst="t17331205-33" type="uri" value="sessionsPapers/17331205"></interp>
+               <interp inst="t17331205-33" type="date" value="17331205"></interp>
+               <join result="criminalCharge" id="t17331205-33-off149-c192" targOrder="Y" targets="t17331205-33-defend264 t17331205-33-off149 t17331205-33-verdict151"></join>
+         
+               <p>38. 
+               
+                  <persName id="t17331205-33-defend264" type="defendantName">
+                     Thomas 
+                     Bennet 
+                  <interp inst="t17331205-33-defend264" type="surname" value="Bennet"></interp>
+                     <interp inst="t17331205-33-defend264" type="given" value="Thomas"></interp>
+                     <interp inst="t17331205-33-defend264" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17331205-33-off149" type="offenceDescription">
+                     <interp inst="t17331205-33-off149" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17331205-33-off149" type="offenceSubcategory" value="other"></interp>
+               stealing a Hammer, Nails, and old Iron
+            </rs>, the Goods of 
+               
+                  <persName id="t17331205-33-victim266" type="victimName">
+                     Roger 
+                     Kell 
+                  <interp inst="t17331205-33-victim266" type="surname" value="Kell"></interp>
+                     <interp inst="t17331205-33-victim266" type="given" value="Roger"></interp>
+                     <interp inst="t17331205-33-victim266" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17331205-33-off149 t17331205-33-victim266"></join>
+                  </persName>
+                
+            , <rs id="t17331205-33-cd150" type="crimeDate">October 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17331205-33-off149 t17331205-33-cd150"></join>. <rs id="t17331205-33-verdict151" type="verdictDescription">
+                     <interp inst="t17331205-33-verdict151" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17331205-33-punish152" type="punishmentDescription">
+                     <interp inst="t17331205-33-punish152" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17331205-33-defend264 t17331205-33-punish152"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

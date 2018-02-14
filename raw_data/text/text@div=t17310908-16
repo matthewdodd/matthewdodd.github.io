@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17310908-16">
+               <interp inst="t17310908-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17310908-16" type="year" value="1731"></interp>
+               <interp inst="t17310908-16" type="uri" value="sessionsPapers/17310908"></interp>
+               <interp inst="t17310908-16" type="date" value="17310908"></interp>
+               <join result="criminalCharge" id="t17310908-16-off76-c66" targOrder="Y" targets="t17310908-16-defend93 t17310908-16-off76 t17310908-16-verdict78"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17310908-16-defend93" type="defendantName">
+                     Eustace 
+                     Watkins 
+                  <interp inst="t17310908-16-defend93" type="surname" value="Watkins"></interp>
+                     <interp inst="t17310908-16-defend93" type="given" value="Eustace"></interp>
+                     <interp inst="t17310908-16-defend93" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17310908-16-defloc75">St. Bride's</placeName>
+                  <interp inst="t17310908-16-defloc75" type="placeName" value="St. Bride's"></interp>
+                  <interp inst="t17310908-16-defloc75" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17310908-16-defend93 t17310908-16-defloc75"></join>, was indicted for <rs id="t17310908-16-off76" type="offenceDescription">
+                     <interp inst="t17310908-16-off76" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17310908-16-off76" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing a Hat, value 8 s.
+            </rs> the Property of 
+               
+                  <persName id="t17310908-16-victim95" type="victimName">
+                     John 
+                     Bennet 
+                  <interp inst="t17310908-16-victim95" type="surname" value="Bennet"></interp>
+                     <interp inst="t17310908-16-victim95" type="given" value="John"></interp>
+                     <interp inst="t17310908-16-victim95" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17310908-16-off76 t17310908-16-victim95"></join>
+                  </persName>
+                
+            , the <rs id="t17310908-16-cd77" type="crimeDate">17th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17310908-16-off76 t17310908-16-cd77"></join> last. The Fact being plainly prov'd, the Jury found him <rs id="t17310908-16-verdict78" type="verdictDescription">
+                     <interp inst="t17310908-16-verdict78" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17310908-16-verdict78" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17310908-16-punish79" type="punishmentDescription">
+                     <interp inst="t17310908-16-punish79" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17310908-16-defend93 t17310908-16-punish79"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

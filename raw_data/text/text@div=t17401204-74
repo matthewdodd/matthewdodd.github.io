@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17401204-74">
+               <interp inst="t17401204-74" type="collection" value="BAILEY"></interp>
+               <interp inst="t17401204-74" type="year" value="1740"></interp>
+               <interp inst="t17401204-74" type="uri" value="sessionsPapers/17401204"></interp>
+               <interp inst="t17401204-74" type="date" value="17401204"></interp>
+               <join result="criminalCharge" id="t17401204-74-off342-c345" targOrder="Y" targets="t17401204-74-defend508 t17401204-74-off342 t17401204-74-verdict344"></join>
+               <join result="criminalCharge" id="t17401204-74-off342-c346" targOrder="Y" targets="t17401204-74-defend510 t17401204-74-off342 t17401204-74-verdict344"></join>
+         
+               <p>90. 91. 
+               
+                  <persName id="t17401204-74-defend508" type="defendantName">
+                     Christopher 
+                     Proctor 
+                  <interp inst="t17401204-74-defend508" type="surname" value="Proctor"></interp>
+                     <interp inst="t17401204-74-defend508" type="given" value="Christopher"></interp>
+                     <interp inst="t17401204-74-defend508" type="gender" value="male"></interp>
+                  </persName>
+               
+             , and 
+               
+                  <persName id="t17401204-74-defend510" type="defendantName">
+                     James 
+                     Steward 
+                  <interp inst="t17401204-74-defend510" type="surname" value="Steward"></interp>
+                     <interp inst="t17401204-74-defend510" type="given" value="James"></interp>
+                     <interp inst="t17401204-74-defend510" type="gender" value="male"></interp>
+                  </persName>
+               
+             , were indicted for <rs id="t17401204-74-off342" type="offenceDescription">
+                     <interp inst="t17401204-74-off342" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17401204-74-off342" type="offenceSubcategory" value="other"></interp>
+               stealing two Table-Cloths, and other Things
+            </rs>, the Goods of 
+               <persName id="t17401204-74-victim511" type="victimName">
+                  William 
+                  Townsend 
+               <interp inst="t17401204-74-victim511" type="surname" value="Townsend"></interp>
+                     <interp inst="t17401204-74-victim511" type="given" value="William"></interp>
+                     <interp inst="t17401204-74-victim511" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17401204-74-off342 t17401204-74-victim511"></join>
+                  </persName>
+             , <rs id="t17401204-74-cd343" type="crimeDate">November 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17401204-74-off342 t17401204-74-cd343"></join>.</p>
+               <p>
+                  <rs id="t17401204-74-verdict344" type="verdictDescription">
+                     <interp inst="t17401204-74-verdict344" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17401204-74-verdict344" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17401204-74-punish345" type="punishmentDescription">
+                     <interp inst="t17401204-74-punish345" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17401204-74-defend508 t17401204-74-punish345"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17401204-74-defend510 t17401204-74-punish345"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

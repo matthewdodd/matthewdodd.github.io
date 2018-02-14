@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610225-23">
+               <interp inst="t17610225-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610225-23" type="year" value="1761"></interp>
+               <interp inst="t17610225-23" type="uri" value="sessionsPapers/17610225"></interp>
+               <interp inst="t17610225-23" type="date" value="17610225"></interp>
+               <join result="criminalCharge" id="t17610225-23-off112-c258" targOrder="Y" targets="t17610225-23-defend299 t17610225-23-off112 t17610225-23-verdict115"></join>
+         
+               <p>102. (L) 
+               
+                  <persName id="t17610225-23-defend299" type="defendantName">
+                     William 
+                     Stevens 
+                  <interp inst="t17610225-23-defend299" type="surname" value="Stevens"></interp>
+                     <interp inst="t17610225-23-defend299" type="given" value="William"></interp>
+                     <interp inst="t17610225-23-defend299" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17610225-23-off112" type="offenceDescription">
+                     <interp inst="t17610225-23-off112" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610225-23-off112" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing eight pounds and three quarters of beef, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17610225-23-victim301" type="victimName">
+                     Mary 
+                     Philby 
+                  <interp inst="t17610225-23-victim301" type="surname" value="Philby"></interp>
+                     <interp inst="t17610225-23-victim301" type="given" value="Mary"></interp>
+                     <interp inst="t17610225-23-victim301" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610225-23-off112 t17610225-23-victim301"></join>
+                  </persName>
+                
+            , <rs id="t17610225-23-viclabel113" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610225-23-victim301 t17610225-23-viclabel113"></join>, <rs id="t17610225-23-cd114" type="crimeDate">February 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610225-23-off112 t17610225-23-cd114"></join>. ++</p>
+               <p>
+                  <rs id="t17610225-23-verdict115" type="verdictDescription">
+                     <interp inst="t17610225-23-verdict115" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17610225-23-punish116" type="punishmentDescription">
+                     <interp inst="t17610225-23-punish116" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610225-23-defend299 t17610225-23-punish116"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580222-44">
+               <interp inst="t17580222-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580222-44" type="year" value="1758"></interp>
+               <interp inst="t17580222-44" type="uri" value="sessionsPapers/17580222"></interp>
+               <interp inst="t17580222-44" type="date" value="17580222"></interp>
+               <join result="criminalCharge" id="t17580222-44-off221-c302" targOrder="Y" targets="t17580222-44-defend371 t17580222-44-off221 t17580222-44-verdict226"></join>
+         
+               <p>151. (L.) 
+               
+                  <persName id="t17580222-44-defend371" type="defendantName">
+                     William 
+                     Jones 
+                  <interp inst="t17580222-44-defend371" type="surname" value="Jones"></interp>
+                     <interp inst="t17580222-44-defend371" type="given" value="William"></interp>
+                     <interp inst="t17580222-44-defend371" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17580222-44-off221" type="offenceDescription">
+                     <interp inst="t17580222-44-off221" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580222-44-off221" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six pounds weight of chocolate, value 13 s. two pounds weight of tea, value 6 s. one other pound of tea, value 4 s, and one pound of nutmegs, value 7 s.
+            </rs> the goods of 
+               
+                  <persName id="t17580222-44-victim373" type="victimName">
+                     James 
+                     Bennet 
+                  <interp inst="t17580222-44-victim373" type="surname" value="Bennet"></interp>
+                     <interp inst="t17580222-44-victim373" type="given" value="James"></interp>
+                     <interp inst="t17580222-44-victim373" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580222-44-off221 t17580222-44-victim373"></join>
+                  </persName>
+                
+            , <rs id="t17580222-44-cd222" type="crimeDate">Jan. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580222-44-off221 t17580222-44-cd222"></join>. ++</p>
+               <p>The prosecutor is a <rs id="t17580222-44-viclabel223" type="occupation">grocer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580222-44-victim373 t17580222-44-viclabel223"></join> in <placeName id="t17580222-44-crimeloc224">Fenchurch-Street</placeName>
+                  <interp inst="t17580222-44-crimeloc224" type="placeName" value="Fenchurch-Street"></interp>
+                  <interp inst="t17580222-44-crimeloc224" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580222-44-off221 t17580222-44-crimeloc224"></join>, and the prisoner was his <rs id="t17580222-44-deflabel225" type="occupation">porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580222-44-defend371 t17580222-44-deflabel225"></join>, and lodged in the house. The prisoner being suspected to take things out of the shop, his box was searched, and the goods mentioned were found in his box. Upon his being charged with taking them, he acknowledged them to be Mr. Bennet's property.</p>
+               <p>
+                  <rs id="t17580222-44-verdict226" type="verdictDescription">
+                     <interp inst="t17580222-44-verdict226" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17580222-44-punish227" type="punishmentDescription">
+                     <interp inst="t17580222-44-punish227" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580222-44-defend371 t17580222-44-punish227"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

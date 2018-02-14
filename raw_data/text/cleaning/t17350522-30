@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350522-30">
+               <interp inst="t17350522-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350522-30" type="year" value="1735"></interp>
+               <interp inst="t17350522-30" type="uri" value="sessionsPapers/17350522"></interp>
+               <interp inst="t17350522-30" type="date" value="17350522"></interp>
+               <join result="criminalCharge" id="t17350522-30-off163-c216" targOrder="Y" targets="t17350522-30-defend290 t17350522-30-off163 t17350522-30-verdict165"></join>
+         
+               <p>40. 
+               
+                  <persName id="t17350522-30-defend290" type="defendantName">
+                     Mary 
+                     Deacon , alias <rs id="t17350522-30-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17350522-30-defend290 t17350522-30-alias-2"></join>Peacock</rs>
+                     <interp inst="t17350522-30-defend290" type="surname" value="Deacon"></interp>
+                     <interp inst="t17350522-30-defend290" type="given" value="Mary"></interp>
+                     <interp inst="t17350522-30-defend290" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350522-30-off163" type="offenceDescription">
+                     <interp inst="t17350522-30-off163" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350522-30-off163" type="offenceSubcategory" value="other"></interp>
+               stealing a Gold Ring, a Dish, two Aprons, and a Mob
+            </rs>, the Goods of 
+               
+                  <persName id="t17350522-30-victim292" type="victimName">
+                     Susan 
+                     Barnet 
+                  <interp inst="t17350522-30-victim292" type="surname" value="Barnet"></interp>
+                     <interp inst="t17350522-30-victim292" type="given" value="Susan"></interp>
+                     <interp inst="t17350522-30-victim292" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350522-30-off163 t17350522-30-victim292"></join>
+                  </persName>
+                
+            , <rs id="t17350522-30-cd164" type="crimeDate">May 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350522-30-off163 t17350522-30-cd164"></join>. <rs id="t17350522-30-verdict165" type="verdictDescription">
+                     <interp inst="t17350522-30-verdict165" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17350522-30-punish166" type="punishmentDescription">
+                     <interp inst="t17350522-30-punish166" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350522-30-defend290 t17350522-30-punish166"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

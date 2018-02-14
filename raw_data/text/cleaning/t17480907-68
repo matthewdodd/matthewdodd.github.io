@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480907-68">
+               <interp inst="t17480907-68" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480907-68" type="year" value="1748"></interp>
+               <interp inst="t17480907-68" type="uri" value="sessionsPapers/17480907"></interp>
+               <interp inst="t17480907-68" type="date" value="17480907"></interp>
+               <join result="criminalCharge" id="t17480907-68-off353-c452" targOrder="Y" targets="t17480907-68-defend584 t17480907-68-off353 t17480907-68-verdict355"></join>
+         
+               <p>462. 
+               
+                  <persName id="t17480907-68-defend584" type="defendantName">
+                     Michael 
+                     Collins 
+                  <interp inst="t17480907-68-defend584" type="surname" value="Collins"></interp>
+                     <interp inst="t17480907-68-defend584" type="given" value="Michael"></interp>
+                     <interp inst="t17480907-68-defend584" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17480907-68-off353" type="offenceDescription">
+                     <interp inst="t17480907-68-off353" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480907-68-off353" type="offenceSubcategory" value="other"></interp>
+               stealing a silver tea-strainer, 4 silver spoons and a silver handled pen-knife
+            </rs>, the property of 
+               
+                  <persName id="t17480907-68-victim586" type="victimName">
+                     Timothy 
+                     Gard 
+                  <interp inst="t17480907-68-victim586" type="surname" value="Gard"></interp>
+                     <interp inst="t17480907-68-victim586" type="given" value="Timothy"></interp>
+                     <interp inst="t17480907-68-victim586" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480907-68-off353 t17480907-68-victim586"></join>
+                  </persName>
+                
+            . <rs id="t17480907-68-cd354" type="crimeDate">August 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480907-68-off353 t17480907-68-cd354"></join>
+               </p>
+               <p>
+                  <rs id="t17480907-68-verdict355" type="verdictDescription">
+                     <interp inst="t17480907-68-verdict355" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17480907-68-punish356" type="punishmentDescription">
+                     <interp inst="t17480907-68-punish356" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17480907-68-defend584 t17480907-68-punish356"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

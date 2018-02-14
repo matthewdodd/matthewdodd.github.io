@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370114-8">
+               <interp inst="t17370114-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370114-8" type="year" value="1737"></interp>
+               <interp inst="t17370114-8" type="uri" value="sessionsPapers/17370114"></interp>
+               <interp inst="t17370114-8" type="date" value="17370114"></interp>
+               <join result="criminalCharge" id="t17370114-8-off34-c53" targOrder="Y" targets="t17370114-8-defend70 t17370114-8-off34 t17370114-8-verdict36"></join>
+         
+               <p>9. 
+               
+                  <persName id="t17370114-8-defend70" type="defendantName">
+                     John 
+                     Hutchinson 
+                  <interp inst="t17370114-8-defend70" type="surname" value="Hutchinson"></interp>
+                     <interp inst="t17370114-8-defend70" type="given" value="John"></interp>
+                     <interp inst="t17370114-8-defend70" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370114-8-defloc33">Stepney</placeName>
+                  <interp inst="t17370114-8-defloc33" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17370114-8-defloc33" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370114-8-defend70 t17370114-8-defloc33"></join>, was indicted for <rs id="t17370114-8-off34" type="offenceDescription">
+                     <interp inst="t17370114-8-off34" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370114-8-off34" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a set of Chains, used for Horse Harness, value 15 s. the Goods of 
+                     
+                        <persName id="t17370114-8-victim72" type="victimName">
+                           William 
+                           Preston 
+                        <interp inst="t17370114-8-victim72" type="surname" value="Preston"></interp>
+                        <interp inst="t17370114-8-victim72" type="given" value="William"></interp>
+                        <interp inst="t17370114-8-victim72" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370114-8-off34 t17370114-8-victim72"></join>
+                     </persName>
+                      
+                  , in his Stable
+            </rs>, <rs id="t17370114-8-cd35" type="crimeDate">Dec. 31.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370114-8-off34 t17370114-8-cd35"></join> 
+                  <rs id="t17370114-8-verdict36" type="verdictDescription">
+                     <interp inst="t17370114-8-verdict36" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17370114-8-verdict36" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17370114-8-punish37" type="punishmentDescription">
+                     <interp inst="t17370114-8-punish37" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-8-defend70 t17370114-8-punish37"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-29">
+               <interp inst="t16880831-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-29" type="year" value="1688"></interp>
+               <interp inst="t16880831-29" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-29" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-29-off150-c103" targOrder="Y" targets="t16880831-29-defend154 t16880831-29-off150 t16880831-29-verdict152"></join>
+         
+               <p>
+            
+                  <persName id="t16880831-29-defend154" type="defendantName">
+                  Samuel 
+                  Smith
+               <interp inst="t16880831-29-defend154" type="surname" value="Smith"></interp>
+                     <interp inst="t16880831-29-defend154" type="given" value="Samuel"></interp>
+                     <interp inst="t16880831-29-defend154" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16880831-29-defloc149">St. Giles's in the Fields</placeName>
+                  <interp inst="t16880831-29-defloc149" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16880831-29-defloc149" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880831-29-defend154 t16880831-29-defloc149"></join>, was Indicted for <rs id="t16880831-29-off150" type="offenceDescription">
+                     <interp inst="t16880831-29-off150" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880831-29-off150" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Tankard, value 5 l.
+            </rs> from 
+               <persName id="t16880831-29-victim155" type="victimName">
+                  John 
+                  Pearfall
+               <interp inst="t16880831-29-victim155" type="surname" value="Pearfall"></interp>
+                     <interp inst="t16880831-29-victim155" type="given" value="John"></interp>
+                     <interp inst="t16880831-29-victim155" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16880831-29-off150 t16880831-29-victim155"></join>
+                  </persName>
+            , on the <rs id="t16880831-29-cd151" type="crimeDate">23d. of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880831-29-off150 t16880831-29-cd151"></join> last: The Evidence deposed that the Prisoner and another came into the House of the Prosecutor, and called for Drink, and so took away the Tankard; and besides the Prisoner confessed it before a Justice of Peace, so was in fine, found <rs id="t16880831-29-verdict152" type="verdictDescription">
+                     <interp inst="t16880831-29-verdict152" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16880831-29-punish153" type="punishmentDescription">
+                     <interp inst="t16880831-29-punish153" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-29-defend154 t16880831-29-punish153"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

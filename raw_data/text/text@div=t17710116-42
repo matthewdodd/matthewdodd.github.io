@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17710116-42">
+               <interp inst="t17710116-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17710116-42" type="year" value="1771"></interp>
+               <interp inst="t17710116-42" type="uri" value="sessionsPapers/17710116"></interp>
+               <interp inst="t17710116-42" type="date" value="17710116"></interp>
+               <join result="criminalCharge" id="t17710116-42-off214-c325" targOrder="Y" targets="t17710116-42-defend408 t17710116-42-off214 t17710116-42-verdict216"></join>
+         
+               <p>108. (M.) 
+               <persName id="t17710116-42-defend408" type="defendantName">
+                  Edward
+                   Smith
+               <interp inst="t17710116-42-defend408" type="surname" value="Smith"></interp>
+                     <interp inst="t17710116-42-defend408" type="given" value="Edward"></interp>
+                     <interp inst="t17710116-42-defend408" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17710116-42-off214" type="offenceDescription">
+                     <interp inst="t17710116-42-off214" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17710116-42-off214" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one barrow-pig, value 40 s. and one sow pig, value 40 s.
+            </rs> the property of 
+               
+                  <persName id="t17710116-42-victim410" type="victimName">
+                     William
+                      Mason
+                  <interp inst="t17710116-42-victim410" type="surname" value="Mason"></interp>
+                     <interp inst="t17710116-42-victim410" type="given" value="William"></interp>
+                     <interp inst="t17710116-42-victim410" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17710116-42-off214 t17710116-42-victim410"></join>
+                  </persName>
+               
+            , <rs id="t17710116-42-cd215" type="crimeDate">January 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17710116-42-off214 t17710116-42-cd215"></join>. *</p>
+               <p>
+                  <rs id="t17710116-42-verdict216" type="verdictDescription">
+                     <interp inst="t17710116-42-verdict216" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17710116-42-punish217" type="punishmentDescription">
+                     <interp inst="t17710116-42-punish217" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17710116-42-defend408 t17710116-42-punish217"></join>
+               T
+            </rs>.</p>
+            </div1>

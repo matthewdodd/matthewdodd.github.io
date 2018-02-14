@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16831212-23">
+               <interp inst="t16831212-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16831212-23" type="year" value="1683"></interp>
+               <interp inst="t16831212-23" type="uri" value="sessionsPapers/16831212"></interp>
+               <interp inst="t16831212-23" type="date" value="16831212"></interp>
+               <join result="criminalCharge" id="t16831212-23-off94-c58" targOrder="Y" targets="t16831212-23-defend96 t16831212-23-off94 t16831212-23-verdict96"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16831212-23-defend96" type="defendantName">
+                     John 
+                     Howard
+                  <interp inst="t16831212-23-defend96" type="surname" value="Howard"></interp>
+                     <interp inst="t16831212-23-defend96" type="given" value="John"></interp>
+                     <interp inst="t16831212-23-defend96" type="gender" value="male"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16831212-23-off94" type="offenceDescription">
+                     <interp inst="t16831212-23-off94" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16831212-23-off94" type="offenceSubcategory" value="shoplifting"></interp>
+               going into a Shop in <placeName id="t16831212-23-crimeloc95">Shoreditch</placeName>
+                     <interp inst="t16831212-23-crimeloc95" type="placeName" value="Shoreditch"></interp>
+                     <interp inst="t16831212-23-crimeloc95" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16831212-23-off94 t16831212-23-crimeloc95"></join>, and Stealing from thence a Box, and Twelve Shillings in Mony
+            </rs>, was found <rs id="t16831212-23-verdict96" type="verdictDescription">
+                     <interp inst="t16831212-23-verdict96" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16831212-23-punish97" type="punishmentDescription">
+                     <interp inst="t16831212-23-punish97" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16831212-23-defend96 t16831212-23-punish97"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

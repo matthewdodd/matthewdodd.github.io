@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17330112-2">
+               <interp inst="t17330112-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17330112-2" type="year" value="1733"></interp>
+               <interp inst="t17330112-2" type="uri" value="sessionsPapers/17330112"></interp>
+               <interp inst="t17330112-2" type="date" value="17330112"></interp>
+               <join result="criminalCharge" id="t17330112-2-off5-c30" targOrder="Y" targets="t17330112-2-defend32 t17330112-2-off5 t17330112-2-verdict7"></join>
+         
+               <p>2. 
+               
+                  <persName id="t17330112-2-defend32" type="defendantName">
+                     James 
+                     Danselow 
+                  <interp inst="t17330112-2-defend32" type="surname" value="Danselow"></interp>
+                     <interp inst="t17330112-2-defend32" type="given" value="James"></interp>
+                     <interp inst="t17330112-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17330112-2-off5" type="offenceDescription">
+                     <interp inst="t17330112-2-off5" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17330112-2-off5" type="offenceSubcategory" value="theftFromPlace"></interp>
+               privately stealing a Cloth riding Coat, value 20s. the Property of 
+                     
+                        <persName id="t17330112-2-victim34" type="victimName">
+                           Richard 
+                           Taylor 
+                        <interp inst="t17330112-2-victim34" type="surname" value="Taylor"></interp>
+                        <interp inst="t17330112-2-victim34" type="given" value="Richard"></interp>
+                        <interp inst="t17330112-2-victim34" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17330112-2-off5 t17330112-2-victim34"></join>
+                     </persName>
+                      
+                  , in his Stables
+            </rs>, <rs id="t17330112-2-cd6" type="crimeDate">December 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17330112-2-off5 t17330112-2-cd6"></join>. <rs id="t17330112-2-verdict7" type="verdictDescription">
+                     <interp inst="t17330112-2-verdict7" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17330112-2-verdict7" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 3s. 4d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17330112-2-punish8" type="punishmentDescription">
+                     <interp inst="t17330112-2-punish8" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17330112-2-defend32 t17330112-2-punish8"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

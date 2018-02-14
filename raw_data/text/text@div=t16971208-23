@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16971208-23">
+               <interp inst="t16971208-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16971208-23" type="year" value="1697"></interp>
+               <interp inst="t16971208-23" type="uri" value="sessionsPapers/16971208"></interp>
+               <interp inst="t16971208-23" type="date" value="16971208"></interp>
+               <join result="criminalCharge" id="t16971208-23-off112-c76" targOrder="Y" targets="t16971208-23-defend76 t16971208-23-off112 t16971208-23-verdict114"></join>
+         
+               <p>
+            
+                  <persName id="t16971208-23-defend76" type="defendantName">
+                  Thomas 
+                  Morgan
+               <interp inst="t16971208-23-defend76" type="surname" value="Morgan"></interp>
+                     <interp inst="t16971208-23-defend76" type="given" value="Thomas"></interp>
+                     <interp inst="t16971208-23-defend76" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16971208-23-defloc111">St. Giles's in the County of Middlesex</placeName>
+                  <interp inst="t16971208-23-defloc111" type="placeName" value="St. Giles's in the County of Middlesex"></interp>
+                  <interp inst="t16971208-23-defloc111" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16971208-23-defend76 t16971208-23-defloc111"></join>, was indicted for <rs id="t16971208-23-off112" type="offenceDescription">
+                     <interp inst="t16971208-23-off112" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16971208-23-off112" type="offenceSubcategory" value="grandLarceny"></interp>
+               felloniously stealing from 
+                     <persName id="t16971208-23-victim77" type="victimName">
+                        Thomas 
+                        Buckingham
+                     <interp inst="t16971208-23-victim77" type="surname" value="Buckingham"></interp>
+                        <interp inst="t16971208-23-victim77" type="given" value="Thomas"></interp>
+                        <interp inst="t16971208-23-victim77" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16971208-23-off112 t16971208-23-victim77"></join>
+                     </persName>
+                   on the <rs id="t16971208-23-cd113" type="crimeDate">6th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16971208-23-off112 t16971208-23-cd113"></join>, 3 Gold Rings, value 40 s. 4 Handkerchiefs value 2 s. and several other Goods
+            </rs>, to which Indictment he <rs id="t16971208-23-verdict114" type="verdictDescription">
+                     <interp inst="t16971208-23-verdict114" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16971208-23-verdict114" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16971208-23-punish115" type="punishmentDescription">
+                     <interp inst="t16971208-23-punish115" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16971208-23-defend76 t16971208-23-punish115"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

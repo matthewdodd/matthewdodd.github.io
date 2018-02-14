@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17220510-10">
+               <interp inst="t17220510-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17220510-10" type="year" value="1722"></interp>
+               <interp inst="t17220510-10" type="uri" value="sessionsPapers/17220510"></interp>
+               <interp inst="t17220510-10" type="date" value="17220510"></interp>
+               <join result="criminalCharge" id="t17220510-10-off48-c78" targOrder="Y" targets="t17220510-10-defend95 t17220510-10-off48 t17220510-10-verdict50"></join>
+         
+               <p>
+            
+                  <persName id="t17220510-10-defend95" type="defendantName">
+                  William 
+                  Foreman 
+               <interp inst="t17220510-10-defend95" type="surname" value="Foreman"></interp>
+                     <interp inst="t17220510-10-defend95" type="given" value="William"></interp>
+                     <interp inst="t17220510-10-defend95" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <placeName id="t17220510-10-defloc47">St. Martin in the Fields</placeName>
+                  <interp inst="t17220510-10-defloc47" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17220510-10-defloc47" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17220510-10-defend95 t17220510-10-defloc47"></join>, was indicted for <rs id="t17220510-10-off48" type="offenceDescription">
+                     <interp inst="t17220510-10-off48" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t17220510-10-off48" type="offenceSubcategory" value="assault"></interp>
+               assaulting 
+                     
+                        <persName id="t17220510-10-victim97" type="victimName">
+                           Richard 
+                           Philips 
+                        <interp inst="t17220510-10-victim97" type="surname" value="Philips"></interp>
+                        <interp inst="t17220510-10-victim97" type="given" value="Richard"></interp>
+                        <interp inst="t17220510-10-victim97" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17220510-10-off48 t17220510-10-victim97"></join>
+                     </persName>
+                      
+                  , with an intent to spoil his Cloaths, by throwing Agua Fortis on the Cloak, Coat, Hat, and Peruque
+            </rs>, of the said Richard Phillips, on the <rs id="t17220510-10-cd49" type="crimeDate">25th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17220510-10-off48 t17220510-10-cd49"></join> last; (contrary to a late Act, taking force the 24th of June last. To which indictment he pleaded <rs id="t17220510-10-verdict50" type="verdictDescription">
+                     <interp inst="t17220510-10-verdict50" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17220510-10-verdict50" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17220510-10-punish51" type="punishmentDescription">
+                     <interp inst="t17220510-10-punish51" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17220510-10-defend95 t17220510-10-punish51"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

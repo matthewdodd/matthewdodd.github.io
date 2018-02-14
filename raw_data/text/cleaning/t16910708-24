@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910708-24">
+               <interp inst="t16910708-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910708-24" type="year" value="1691"></interp>
+               <interp inst="t16910708-24" type="uri" value="sessionsPapers/16910708"></interp>
+               <interp inst="t16910708-24" type="date" value="16910708"></interp>
+               <join result="criminalCharge" id="t16910708-24-off102-c59" targOrder="Y" targets="t16910708-24-defend59 t16910708-24-off102 t16910708-24-verdict105"></join>
+         
+               <p>
+            
+                  <persName id="t16910708-24-defend59" type="defendantName">
+                  William 
+                  Jones
+               <interp inst="t16910708-24-defend59" type="surname" value="Jones"></interp>
+                     <interp inst="t16910708-24-defend59" type="given" value="William"></interp>
+                     <interp inst="t16910708-24-defend59" type="gender" value="male"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910708-24-off102" type="offenceDescription">
+                     <interp inst="t16910708-24-off102" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910708-24-off102" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     <persName id="t16910708-24-victim60" type="victimName">
+                        Francis 
+                        Rainsford
+                     <interp inst="t16910708-24-victim60" type="surname" value="Rainsford"></interp>
+                        <interp inst="t16910708-24-victim60" type="given" value="Francis"></interp>
+                        <interp inst="t16910708-24-victim60" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910708-24-off102 t16910708-24-victim60"></join>
+                     </persName>
+                  , of <placeName id="t16910708-24-crimeloc103">St. Andrews Holburn</placeName>
+                     <interp inst="t16910708-24-crimeloc103" type="placeName" value="St. Andrews Holburn"></interp>
+                     <interp inst="t16910708-24-crimeloc103" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910708-24-off102 t16910708-24-crimeloc103"></join>, on the <rs id="t16910708-24-cd104" type="crimeDate">12th of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910708-24-off102 t16910708-24-cd104"></join> last. Mr. Rainsford swore, That about 9 of the Clock at Night his House was Robbed of a Gold Watch, and a Locket, a Silver Cup, and other small Goods
+            </rs>. The Prisoner was seen getting out at the Window, and by the Out-cry of Stop Thief he was soon seized; but the Window being open, he was <rs id="t16910708-24-verdict105" type="verdictDescription">
+                     <interp inst="t16910708-24-verdict105" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910708-24-verdict105" type="verdictSubcategory" value="lesserOffence"></interp>
+               Discharged of the Burglary, but found Guilty of the Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t16910708-24-punish106" type="punishmentDescription">
+                     <interp inst="t16910708-24-punish106" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910708-24-defend59 t16910708-24-punish106"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

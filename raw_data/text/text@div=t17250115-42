@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17250115-42">
+               <interp inst="t17250115-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17250115-42" type="year" value="1725"></interp>
+               <interp inst="t17250115-42" type="uri" value="sessionsPapers/17250115"></interp>
+               <interp inst="t17250115-42" type="date" value="17250115"></interp>
+               <join result="criminalCharge" id="t17250115-42-off222-c163" targOrder="Y" targets="t17250115-42-defend248 t17250115-42-off222 t17250115-42-verdict224"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17250115-42-defend248" type="defendantName">
+                     Martha 
+                     Cook 
+                  <interp inst="t17250115-42-defend248" type="surname" value="Cook"></interp>
+                     <interp inst="t17250115-42-defend248" type="given" value="Martha"></interp>
+                     <interp inst="t17250115-42-defend248" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17250115-42-defloc221">S. Sepulcbre's</placeName>
+                  <interp inst="t17250115-42-defloc221" type="placeName" value="S. Sepulcbre's"></interp>
+                  <interp inst="t17250115-42-defloc221" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17250115-42-defend248 t17250115-42-defloc221"></join>, was indicted for <rs id="t17250115-42-off222" type="offenceDescription">
+                     <interp inst="t17250115-42-off222" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17250115-42-off222" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Spoon val. 10 s. a Smock 3 s. and three Aprons 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17250115-42-victim250" type="victimName">
+                     Thomas 
+                     Upton 
+                  <interp inst="t17250115-42-victim250" type="surname" value="Upton"></interp>
+                     <interp inst="t17250115-42-victim250" type="given" value="Thomas"></interp>
+                     <interp inst="t17250115-42-victim250" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17250115-42-off222 t17250115-42-victim250"></join>
+                  </persName>
+                
+            , on the <rs id="t17250115-42-cd223" type="crimeDate">22d of Nov.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17250115-42-off222 t17250115-42-cd223"></join> last. <rs id="t17250115-42-verdict224" type="verdictDescription">
+                     <interp inst="t17250115-42-verdict224" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17250115-42-punish225" type="punishmentDescription">
+                     <interp inst="t17250115-42-punish225" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17250115-42-defend248 t17250115-42-punish225"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

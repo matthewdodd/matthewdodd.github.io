@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17231204-48">
+               <interp inst="t17231204-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17231204-48" type="year" value="1723"></interp>
+               <interp inst="t17231204-48" type="uri" value="sessionsPapers/17231204"></interp>
+               <interp inst="t17231204-48" type="date" value="17231204"></interp>
+               <join result="criminalCharge" id="t17231204-48-off253-c151" targOrder="Y" targets="t17231204-48-defend235 t17231204-48-off253 t17231204-48-verdict255"></join>
+               <join result="criminalCharge" id="t17231204-48-off253-c152" targOrder="Y" targets="t17231204-48-defend237 t17231204-48-off253 t17231204-48-verdict255"></join>
+               <join result="criminalCharge" id="t17231204-48-off253-c153" targOrder="Y" targets="t17231204-48-defend238 t17231204-48-off253 t17231204-48-verdict256"></join>
+         
+               <p>
+            
+                  <persName id="t17231204-48-defend235" type="defendantName">
+                  James 
+                  Hussey 
+               <interp inst="t17231204-48-defend235" type="surname" value="Hussey"></interp>
+                     <interp inst="t17231204-48-defend235" type="given" value="James"></interp>
+                     <interp inst="t17231204-48-defend235" type="gender" value="male"></interp>
+                  </persName>
+             , 
+               
+                  <persName id="t17231204-48-defend237" type="defendantName">
+                     William 
+                     Field 
+                  <interp inst="t17231204-48-defend237" type="surname" value="Field"></interp>
+                     <interp inst="t17231204-48-defend237" type="given" value="William"></interp>
+                     <interp inst="t17231204-48-defend237" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17231204-48-defend238" type="defendantName">
+                  Jane 
+                  Towse 
+               <interp inst="t17231204-48-defend238" type="surname" value="Towse"></interp>
+                     <interp inst="t17231204-48-defend238" type="given" value="Jane"></interp>
+                     <interp inst="t17231204-48-defend238" type="gender" value="female"></interp>
+                  </persName>
+             , of <placeName id="t17231204-48-defloc252">St. Sepulchre</placeName>
+                  <interp inst="t17231204-48-defloc252" type="placeName" value="St. Sepulchre"></interp>
+                  <interp inst="t17231204-48-defloc252" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231204-48-defend235 t17231204-48-defloc252"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231204-48-defend237 t17231204-48-defloc252"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17231204-48-defend238 t17231204-48-defloc252"></join>, were indicted for <rs id="t17231204-48-off253" type="offenceDescription">
+                     <interp inst="t17231204-48-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17231204-48-off253" type="offenceSubcategory" value="grandLarceny"></interp>
+               feloniously stealing two Milk Pails, a Yoke, Milk Pot and Strainer
+            </rs>, the Goods of 
+               <persName id="t17231204-48-victim239" type="victimName">
+                  Thomas 
+                  Lane 
+               <interp inst="t17231204-48-victim239" type="surname" value="Lane"></interp>
+                     <interp inst="t17231204-48-victim239" type="given" value="Thomas"></interp>
+                     <interp inst="t17231204-48-victim239" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17231204-48-off253 t17231204-48-victim239"></join>
+                  </persName>
+             , the <rs id="t17231204-48-cd254" type="crimeDate">23d of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17231204-48-off253 t17231204-48-cd254"></join> last. There not being sufficient Evidence against James Hussey, and Williams Field, they were <rs id="t17231204-48-verdict255" type="verdictDescription">
+                     <interp inst="t17231204-48-verdict255" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, but Jane Towse was found <rs id="t17231204-48-verdict256" type="verdictDescription">
+                     <interp inst="t17231204-48-verdict256" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17231204-48-verdict256" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the Value of 10 d.
+            </rs> 
+                  <rs id="t17231204-48-punish257" type="punishmentDescription">
+                     <interp inst="t17231204-48-punish257" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17231204-48-defend238 t17231204-48-punish257"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

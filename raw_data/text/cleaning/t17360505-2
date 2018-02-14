@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-2">
+               <interp inst="t17360505-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-2" type="year" value="1736"></interp>
+               <interp inst="t17360505-2" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-2" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-2-off15-c38" targOrder="Y" targets="t17360505-2-defend43 t17360505-2-off15 t17360505-2-verdict17"></join>
+         
+               <p>3. 
+               
+                  <persName id="t17360505-2-defend43" type="defendantName">
+                     Isaac 
+                     Thomas 
+                  <interp inst="t17360505-2-defend43" type="surname" value="Thomas"></interp>
+                     <interp inst="t17360505-2-defend43" type="given" value="Isaac"></interp>
+                     <interp inst="t17360505-2-defend43" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360505-2-defloc14">St. Anns Westminster</placeName>
+                  <interp inst="t17360505-2-defloc14" type="placeName" value="St. Anns Westminster"></interp>
+                  <interp inst="t17360505-2-defloc14" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-2-defend43 t17360505-2-defloc14"></join>, was indicted for <rs id="t17360505-2-off15" type="offenceDescription">
+                     <interp inst="t17360505-2-off15" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-2-off15" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a silver Tankard value 7 l. the Goods of 
+                     
+                        <persName id="t17360505-2-victim45" type="victimName">
+                           Thomas 
+                           Powell 
+                        <interp inst="t17360505-2-victim45" type="surname" value="Powell"></interp>
+                        <interp inst="t17360505-2-victim45" type="given" value="Thomas"></interp>
+                        <interp inst="t17360505-2-victim45" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-2-off15 t17360505-2-victim45"></join>
+                     </persName>
+                      
+                  , out of his Dwelling-house
+            </rs>, <rs id="t17360505-2-cd16" type="crimeDate">April 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-2-off15 t17360505-2-cd16"></join>.</p>
+               <p>The Prisoner being suspected by the Prosecutor, was charged with having taken the Tankard; he confess'd the Fact, and inform'd them that he had hid it under his Cellar-stairs, where it was found. <rs id="t17360505-2-verdict17" type="verdictDescription">
+                     <interp inst="t17360505-2-verdict17" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360505-2-verdict17" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-2-punish18" type="punishmentDescription">
+                     <interp inst="t17360505-2-punish18" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-2-defend43 t17360505-2-punish18"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>
