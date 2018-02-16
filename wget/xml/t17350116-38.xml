@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350116-38">
+               <interp inst="t17350116-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350116-38" type="year" value="1735"></interp>
+               <interp inst="t17350116-38" type="uri" value="sessionsPapers/17350116"></interp>
+               <interp inst="t17350116-38" type="date" value="17350116"></interp>
+               <join result="criminalCharge" id="t17350116-38-off165-c175" targOrder="Y" targets="t17350116-38-defend258 t17350116-38-off165 t17350116-38-verdict167"></join>
+         
+               <p>41. 
+               
+                  <persName id="t17350116-38-defend258" type="defendantName">
+                     Susan 
+                     Turner 
+                  <interp inst="t17350116-38-defend258" type="surname" value="Turner"></interp>
+                     <interp inst="t17350116-38-defend258" type="given" value="Susan"></interp>
+                     <interp inst="t17350116-38-defend258" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350116-38-off165" type="offenceDescription">
+                     <interp inst="t17350116-38-off165" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350116-38-off165" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Sauce Pans, a Porringer, a Towel, &amp;c.
+            </rs> the Goods of 
+               
+                  <persName id="t17350116-38-victim260" type="victimName">
+                     George 
+                     Greenwall 
+                  <interp inst="t17350116-38-victim260" type="surname" value="Greenwall"></interp>
+                     <interp inst="t17350116-38-victim260" type="given" value="George"></interp>
+                     <interp inst="t17350116-38-victim260" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350116-38-off165 t17350116-38-victim260"></join>
+                  </persName>
+                
+            , <rs id="t17350116-38-cd166" type="crimeDate">January 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350116-38-off165 t17350116-38-cd166"></join>. No Evidence. <rs id="t17350116-38-verdict167" type="verdictDescription">
+                     <interp inst="t17350116-38-verdict167" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17350116-38-verdict167" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

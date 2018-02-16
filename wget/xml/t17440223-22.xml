@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440223-22">
+               <interp inst="t17440223-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440223-22" type="year" value="1744"></interp>
+               <interp inst="t17440223-22" type="uri" value="sessionsPapers/17440223"></interp>
+               <interp inst="t17440223-22" type="date" value="17440223"></interp>
+               <join result="criminalCharge" id="t17440223-22-off124-c125" targOrder="Y" targets="t17440223-22-defend168 t17440223-22-off124 t17440223-22-verdict126"></join>
+         
+               <p>162. + 
+               
+                  <persName id="t17440223-22-defend168" type="defendantName">
+                     Ann 
+                     Clarke 
+                  <interp inst="t17440223-22-defend168" type="surname" value="Clarke"></interp>
+                     <interp inst="t17440223-22-defend168" type="given" value="Ann"></interp>
+                     <interp inst="t17440223-22-defend168" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440223-22-defloc123">St. James's Westminster</placeName>
+                  <interp inst="t17440223-22-defloc123" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17440223-22-defloc123" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440223-22-defend168 t17440223-22-defloc123"></join>, was indicted for <rs id="t17440223-22-off124" type="offenceDescription">
+                     <interp inst="t17440223-22-off124" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440223-22-off124" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing four pieces of foreign gold coin called thirty six shilling pieces, value 7 l. 4 s. and 36 l. 4 s. 6 d. of lawful money of Great-Britain, the money of 
+                     <persName id="t17440223-22-victim169" type="victimName">
+                        Sibilla 
+                        Hetherington 
+                     <interp inst="t17440223-22-victim169" type="surname" value="Hetherington"></interp>
+                        <interp inst="t17440223-22-victim169" type="given" value="Sibilla"></interp>
+                        <interp inst="t17440223-22-victim169" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17440223-22-off124 t17440223-22-victim169"></join>
+                     </persName>
+                  , in the dwelling-house of 
+                     <persName id="t17440223-22-person170">
+                        Sarah 
+                        Wood 
+                     <interp inst="t17440223-22-person170" type="surname" value="Wood"></interp>
+                        <interp inst="t17440223-22-person170" type="given" value="Sarah"></interp>
+                        <interp inst="t17440223-22-person170" type="gender" value="female"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17440223-22-cd125" type="crimeDate">Feb. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440223-22-off124 t17440223-22-cd125"></join>.</p>
+               <p>Sibilla Hetherington. On Sunday night, while I was at church, I was robbed of four thirty six shilling pieces, and some guineas and half guineas, there was upwards of forty pound in all. I had a ready furnished lodging, and the Prisoner used to come to that house as working for the shop, and she came to do something in my room, and stole this money; it was in a trunk in my room, the nails were drawn out of the trunk: She was represented to me as a very honest person.</p>
+               <p>Q. Was she a lodger in the house?</p>
+               <p>Hetherington. I do not know that.</p>
+               <p>Q. How do you know she took it?</p>
+               <p>Hetherington. Because she went away from us upon that account; and she said before Justice De Veil, that she took it: There is thirty pound of the money in his hand, which he said I should have. The Constable took it from the Prisoner [ the money was produced in court, and shown to the Prosecutrix, viz. four thirty six shilling pieces, and a parcel of guines.]</p>
+               <p>Q. Can you tell what pieces are yours?</p>
+               <p>Hetherington. These four thirty six shillings pieces are mine, I can swear to them, one is a crooked piece, as to the guineas I cannot swear to them, they may be alike. <rs id="t17440223-22-verdict126" type="verdictDescription">
+                     <interp inst="t17440223-22-verdict126" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17440223-22-verdict126" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of single Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17440223-22-punish127" type="punishmentDescription">
+                     <interp inst="t17440223-22-punish127" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440223-22-defend168 t17440223-22-punish127"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

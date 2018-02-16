@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17501205-31">
+               <interp inst="t17501205-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17501205-31" type="year" value="1750"></interp>
+               <interp inst="t17501205-31" type="uri" value="sessionsPapers/17501205"></interp>
+               <interp inst="t17501205-31" type="date" value="17501205"></interp>
+               <join result="criminalCharge" id="t17501205-31-off157-c196" targOrder="Y" targets="t17501205-31-defend262 t17501205-31-off157 t17501205-31-verdict159"></join>
+               <join result="criminalCharge" id="t17501205-31-off157-c197" targOrder="Y" targets="t17501205-31-defend264 t17501205-31-off157 t17501205-31-verdict159"></join>
+               <join result="criminalCharge" id="t17501205-31-off157-c198" targOrder="Y" targets="t17501205-31-defend266 t17501205-31-off157 t17501205-31-verdict159"></join>
+         
+               <p>39, 40, 41. (M.) 
+               
+                  <persName id="t17501205-31-defend262" type="defendantName">
+                     John 
+                     Wright 
+                  <interp inst="t17501205-31-defend262" type="surname" value="Wright"></interp>
+                     <interp inst="t17501205-31-defend262" type="given" value="John"></interp>
+                     <interp inst="t17501205-31-defend262" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17501205-31-defend264" type="defendantName">
+                     James 
+                     Wright 
+                  <interp inst="t17501205-31-defend264" type="surname" value="Wright"></interp>
+                     <interp inst="t17501205-31-defend264" type="given" value="James"></interp>
+                     <interp inst="t17501205-31-defend264" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17501205-31-defend266" type="defendantName">
+                     Andrew 
+                     Pearce 
+                  <interp inst="t17501205-31-defend266" type="surname" value="Pearce"></interp>
+                     <interp inst="t17501205-31-defend266" type="given" value="Andrew"></interp>
+                     <interp inst="t17501205-31-defend266" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted <rs id="t17501205-31-off157" type="offenceDescription">
+                     <interp inst="t17501205-31-off157" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17501205-31-off157" type="offenceSubcategory" value="grandLarceny"></interp>
+               for stealing two pails, a washing tub, a musket, one linen apron
+            </rs>, the goods of 
+               
+                  <persName id="t17501205-31-victim268" type="victimName">
+                     John 
+                     Lockia 
+                  <interp inst="t17501205-31-victim268" type="surname" value="Lockia"></interp>
+                     <interp inst="t17501205-31-victim268" type="given" value="John"></interp>
+                     <interp inst="t17501205-31-victim268" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17501205-31-off157 t17501205-31-victim268"></join>
+                  </persName>
+                
+            , <rs id="t17501205-31-cd158" type="crimeDate">Nov. 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17501205-31-off157 t17501205-31-cd158"></join> ++.</p>
+               <p>The prosecutor lost the goods mention'd. and found them in a garret, in an empty house, and the three prisoners there also.</p>
+               <p>All three <rs id="t17501205-31-verdict159" type="verdictDescription">
+                     <interp inst="t17501205-31-verdict159" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

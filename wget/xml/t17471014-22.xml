@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17471014-22">
+               <interp inst="t17471014-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17471014-22" type="year" value="1747"></interp>
+               <interp inst="t17471014-22" type="uri" value="sessionsPapers/17471014"></interp>
+               <interp inst="t17471014-22" type="date" value="17471014"></interp>
+               <join result="criminalCharge" id="t17471014-22-off116-c270" targOrder="Y" targets="t17471014-22-defend309 t17471014-22-off116 t17471014-22-verdict120"></join>
+         
+               <p>406. 
+               
+                  <persName id="t17471014-22-defend309" type="defendantName">
+                     Elizabeth 
+                     Bates 
+                  <interp inst="t17471014-22-defend309" type="surname" value="Bates"></interp>
+                     <interp inst="t17471014-22-defend309" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17471014-22-defend309" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted <rs id="t17471014-22-off116" type="offenceDescription">
+                     <interp inst="t17471014-22-off116" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17471014-22-off116" type="offenceSubcategory" value="shoplifting"></interp>
+               for stealing, on the <rs id="t17471014-22-cd117" type="crimeDate">12th of Sept.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17471014-22-off116 t17471014-22-cd117"></join> fourteen Pair of Childrens Worsted Stockings value 7 s. the Goods of 
+                     
+                        <persName id="t17471014-22-victim311" type="victimName">
+                           Charles 
+                           Forth 
+                        <interp inst="t17471014-22-victim311" type="surname" value="Forth"></interp>
+                        <interp inst="t17471014-22-victim311" type="given" value="Charles"></interp>
+                        <interp inst="t17471014-22-victim311" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17471014-22-off116 t17471014-22-victim311"></join>
+                     </persName>
+                      
+                   out of his Shop
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17471014-22-person312">
+                  Charles 
+                  Forth 
+               <interp inst="t17471014-22-person312" type="surname" value="Forth"></interp>
+                     <interp inst="t17471014-22-person312" type="given" value="Charles"></interp>
+                     <interp inst="t17471014-22-person312" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17471014-22-crimeloc118">Leather-lane, in the Parish of St Andrew's</placeName>
+                  <interp inst="t17471014-22-crimeloc118" type="placeName" value="Leather-lane, in the Parish of St Andrew's"></interp>
+                  <interp inst="t17471014-22-crimeloc118" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17471014-22-off116 t17471014-22-crimeloc118"></join>; <rs id="t17471014-22-viclabel119" type="occupation">I keep a Hosier's Shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17471014-22-victim311 t17471014-22-viclabel119"></join>; the Stockings were taken, I believe, about two or three o'Clock in the Afternoon; she came about the 9th or 10th, with a Pretence to buy a Pair, and she look'd out a Pair, and said, she wanted 9 d. of the Money; accordingly she came again on the Saturday, and look'd out two Pair again, and agrees for the Price. She said she had not Money, and said she would call for them again, and in about a Quarter of an Hour she was stopp'd, and they sent to know if we had lost any Stockings, and I miss'd them immediately, and I am sure they are mine; I did not see her take them, but she owned it before the Justice.</p>
+               <p>
+            
+                  <persName id="t17471014-22-person313">
+                  Anne 
+                  Fare 
+               <interp inst="t17471014-22-person313" type="surname" value="Fare"></interp>
+                     <interp inst="t17471014-22-person313" type="given" value="Anne"></interp>
+                     <interp inst="t17471014-22-person313" type="gender" value="female"></interp>
+                  </persName>
+            . I live in Baldwin's gardens. The Prisoner came to my Shop about three o'Clock on the Saturday, and she offered me the Stockings to sale; I saw her pull them from under her Petticoat. I did suppose she had stole them. I sent to Mr Forth, my Neighbour, to know if he had lost any thing; in the mean time she tore the Mark off, and went into Mr Wilson's to pawn them, and there she was took. She told me she dealt in them, and she went about the Street to sell them; I said there were Shopkeepers, I did not chuse to deal with such. She was taken before Justice Poulson, and she confess'd she took them out of Mr Forth's Shop.</p>
+               <p>
+                  <rs id="t17471014-22-verdict120" type="verdictDescription">
+                     <interp inst="t17471014-22-verdict120" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17471014-22-verdict120" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17471014-22-punish121" type="punishmentDescription">
+                     <interp inst="t17471014-22-punish121" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17471014-22-punish121" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17471014-22-defend309 t17471014-22-punish121"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

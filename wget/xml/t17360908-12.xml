@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360908-12">
+               <interp inst="t17360908-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360908-12" type="year" value="1736"></interp>
+               <interp inst="t17360908-12" type="uri" value="sessionsPapers/17360908"></interp>
+               <interp inst="t17360908-12" type="date" value="17360908"></interp>
+               <join result="criminalCharge" id="t17360908-12-off63-c80" targOrder="Y" targets="t17360908-12-defend112 t17360908-12-off63 t17360908-12-verdict65"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17360908-12-defend112" type="defendantName">
+                     Isaac 
+                     Eades 
+                  <interp inst="t17360908-12-defend112" type="surname" value="Eades"></interp>
+                     <interp inst="t17360908-12-defend112" type="given" value="Isaac"></interp>
+                     <interp inst="t17360908-12-defend112" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360908-12-off63" type="offenceDescription">
+                     <interp inst="t17360908-12-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360908-12-off63" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking and entering the Dwelling-House of 
+                     
+                        <persName id="t17360908-12-victim114" type="victimName">
+                           Peter 
+                           Balanger 
+                        <interp inst="t17360908-12-victim114" type="surname" value="Balanger"></interp>
+                        <interp inst="t17360908-12-victim114" type="given" value="Peter"></interp>
+                        <interp inst="t17360908-12-victim114" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360908-12-off63 t17360908-12-victim114"></join>
+                     </persName>
+                      
+                  , about the Hour of 12 at noon, and stealing a Drugget Coat and Wastcoat, value 10 s. a pair<xptr type="pageFacsimile" doc="173609080007"></xptr> of Buck-skin Breeches, value 10 s. a Dimity-Wastcoat, value 4 s. a pair of worsted Stockings, value 1 s. a pair of Shoes, value 2 s. a pair of silver Buckles, value 4 s. 3 Shirts, value 5 s. a Hat, value 2 s. and 10 s. in Money
+            </rs>, <rs id="t17360908-12-cd64" type="crimeDate">June 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360908-12-off63 t17360908-12-cd64"></join>. <rs id="t17360908-12-verdict65" type="verdictDescription">
+                     <interp inst="t17360908-12-verdict65" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360908-12-verdict65" type="verdictSubcategory" value="lesserOffence"></interp>
+               Acquitted of the Burglary; guilty of Felony, 4 s. and 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360908-12-punish66" type="punishmentDescription">
+                     <interp inst="t17360908-12-punish66" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360908-12-defend112 t17360908-12-punish66"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

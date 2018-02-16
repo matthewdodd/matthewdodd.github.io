@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600709-30">
+               <interp inst="t17600709-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600709-30" type="year" value="1760"></interp>
+               <interp inst="t17600709-30" type="uri" value="sessionsPapers/17600709"></interp>
+               <interp inst="t17600709-30" type="date" value="17600709"></interp>
+               <join result="criminalCharge" id="t17600709-30-off155-c253" targOrder="Y" targets="t17600709-30-defend304 t17600709-30-off155 t17600709-30-verdict158"></join>
+         
+               <p>239. (M.) 
+               
+                  <persName id="t17600709-30-defend304" type="defendantName">
+                     Catherine 
+                     Lindsey 
+                  <interp inst="t17600709-30-defend304" type="surname" value="Lindsey"></interp>
+                     <interp inst="t17600709-30-defend304" type="given" value="Catherine"></interp>
+                     <interp inst="t17600709-30-defend304" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17600709-30-deflabel154" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600709-30-defend304 t17600709-30-deflabel154"></join>, was indicted for <rs id="t17600709-30-off155" type="offenceDescription">
+                     <interp inst="t17600709-30-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600709-30-off155" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 16 Guineas
+            </rs>, the property of 
+               
+                  <persName id="t17600709-30-victim306" type="victimName">
+                     Eleanor 
+                     Sheldon 
+                  <interp inst="t17600709-30-victim306" type="surname" value="Sheldon"></interp>
+                     <interp inst="t17600709-30-victim306" type="given" value="Eleanor"></interp>
+                     <interp inst="t17600709-30-victim306" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600709-30-off155 t17600709-30-victim306"></join>
+                  </persName>
+                
+            , <rs id="t17600709-30-viclabel156" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600709-30-victim306 t17600709-30-viclabel156"></join>, <rs id="t17600709-30-cd157" type="crimeDate">June 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600709-30-off155 t17600709-30-cd157"></join>. ++</p>
+               <p>Hen. Heathcote. I keep an inn; the prisoner had lived with me 3 different times. The 2d of June the prosecutrix, that has lived in my family a long while, missed 16 guineas; upon enquiring who had taken it the same day, the prisoner went out, and did not return till we found her in Old street.</p>
+               <p>
+            
+                  <persName id="t17600709-30-person307">
+                  Eleanor 
+                  Sheldon 
+               <interp inst="t17600709-30-person307" type="surname" value="Sheldon"></interp>
+                     <interp inst="t17600709-30-person307" type="given" value="Eleanor"></interp>
+                     <interp inst="t17600709-30-person307" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner went away at half an hour past 4 in the afternoon, and we found her in Old street the next morning. She was taken before a magistrate; there she own'd she had taken my 16 guineas, which I had miss'd; we found upon her 11 guineas, and 3 s. which she acknowledged to be my property, I had that again.</p>
+               <p>
+            
+                  <persName id="t17600709-30-person308">
+                  Gabriel 
+                  Hayden 
+               <interp inst="t17600709-30-person308" type="surname" value="Hayden"></interp>
+                     <interp inst="t17600709-30-person308" type="given" value="Gabriel"></interp>
+                     <interp inst="t17600709-30-person308" type="gender" value="male"></interp>
+                  </persName>
+            . I am a near neighbour to Mr. Heathcote; I took the prisoner up in Old street, and brought her back; she confessed she had taken the 16 guineas, and returned 11 guineas and 3 s.</p>
+               <p>Prisoner's defence. I am not guilty.</p>
+               <p>
+                  <rs id="t17600709-30-verdict158" type="verdictDescription">
+                     <interp inst="t17600709-30-verdict158" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17600709-30-punish159" type="punishmentDescription">
+                     <interp inst="t17600709-30-punish159" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17600709-30-defend304 t17600709-30-punish159"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

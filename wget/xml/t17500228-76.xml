@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-76">
+               <interp inst="t17500228-76" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-76" type="year" value="1750"></interp>
+               <interp inst="t17500228-76" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-76" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-76-off322-c361" targOrder="Y" targets="t17500228-76-defend519 t17500228-76-off322 t17500228-76-verdict325"></join>
+         
+               <p>278. 
+               <persName id="t17500228-76-defend519" type="defendantName">
+                  
+                     Samuel 
+                     Barcley 
+                  , otherwise <rs id="t17500228-76-alias-11" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-76-defend519 t17500228-76-alias-11"></join>Barker</rs>
+                     <interp inst="t17500228-76-defend519" type="surname" value="Barcley"></interp>
+                     <interp inst="t17500228-76-defend519" type="given" value="Samuel"></interp>
+                     <interp inst="t17500228-76-defend519" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500228-76-off322" type="offenceDescription">
+                     <interp inst="t17500228-76-off322" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-76-off322" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four planks, val. 4 s.
+            </rs> the goods of 
+               <persName id="t17500228-76-victim521" type="victimName">
+                  Bailey 
+                  Heath 
+               <interp inst="t17500228-76-victim521" type="surname" value="Heath"></interp>
+                     <interp inst="t17500228-76-victim521" type="given" value="Bailey"></interp>
+                     <interp inst="t17500228-76-victim521" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-76-off322 t17500228-76-victim521"></join>
+                  </persName>
+             , <rs id="t17500228-76-viclabel323" type="occupation">Esq;</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-76-victim521 t17500228-76-viclabel323"></join> 
+                  <rs id="t17500228-76-cd324" type="crimeDate">Jan. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-76-off322 t17500228-76-cd324"></join>.</p>
+               <p>
+                  <rs id="t17500228-76-verdict325" type="verdictDescription">
+                     <interp inst="t17500228-76-verdict325" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500228-76-verdict325" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-76-punish326" type="punishmentDescription">
+                     <interp inst="t17500228-76-punish326" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17500228-76-punish326" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-76-defend519 t17500228-76-punish326"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

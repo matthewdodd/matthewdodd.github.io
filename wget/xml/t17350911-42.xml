@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-42">
+               <interp inst="t17350911-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-42" type="year" value="1735"></interp>
+               <interp inst="t17350911-42" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-42" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-42-off189-c191" targOrder="Y" targets="t17350911-42-defend287 t17350911-42-off189 t17350911-42-verdict193"></join>
+               <join result="criminalCharge" id="t17350911-42-off191-c191" targOrder="Y" targets="t17350911-42-defend287 t17350911-42-off191 t17350911-42-verdict193"></join>
+               <join result="criminalCharge" id="t17350911-42-off192-c191" targOrder="Y" targets="t17350911-42-defend287 t17350911-42-off192 t17350911-42-verdict193"></join>
+         
+               <p>48. 
+               
+                  <persName id="t17350911-42-defend287" type="defendantName">
+                     Robert 
+                     Pope 
+                  <interp inst="t17350911-42-defend287" type="surname" value="Pope"></interp>
+                     <interp inst="t17350911-42-defend287" type="given" value="Robert"></interp>
+                     <interp inst="t17350911-42-defend287" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350911-42-off189" type="offenceDescription">
+                     <interp inst="t17350911-42-off189" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-42-off189" type="offenceSubcategory" value="other"></interp>
+               stealing a Sheet and a Quilt
+            </rs>, the Goods of 
+               <persName id="t17350911-42-victim288" type="victimName">
+                  Richard 
+                  Hall 
+               <interp inst="t17350911-42-victim288" type="surname" value="Hall"></interp>
+                     <interp inst="t17350911-42-victim288" type="given" value="Richard"></interp>
+                     <interp inst="t17350911-42-victim288" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-42-off189 t17350911-42-victim288"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-42-off191 t17350911-42-victim288"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-42-off192 t17350911-42-victim288"></join>
+                  </persName>
+             , <rs id="t17350911-42-cd190" type="crimeDate">July 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-42-off189 t17350911-42-cd190"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-42-off191 t17350911-42-cd190"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-42-off192 t17350911-42-cd190"></join>. He was a second time indicted for <rs id="t17350911-42-off191" type="offenceDescription">
+                     <interp inst="t17350911-42-off191" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-42-off191" type="offenceSubcategory" value="other"></interp>
+               stealing two hundred Weight of Lead
+            </rs>, the Goods of Richard Hall, July 31. And a third time for <rs id="t17350911-42-off192" type="offenceDescription">
+                     <interp inst="t17350911-42-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-42-off192" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing twenty Pound Weight of Lead, fixt to the House of Richard Hall
+            </rs>. July 31. <rs id="t17350911-42-verdict193" type="verdictDescription">
+                     <interp inst="t17350911-42-verdict193" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

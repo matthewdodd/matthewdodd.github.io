@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420115-17">
+               <interp inst="t17420115-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420115-17" type="year" value="1742"></interp>
+               <interp inst="t17420115-17" type="uri" value="sessionsPapers/17420115"></interp>
+               <interp inst="t17420115-17" type="date" value="17420115"></interp>
+               <join result="criminalCharge" id="t17420115-17-off81-c135" targOrder="Y" targets="t17420115-17-defend175 t17420115-17-off81 t17420115-17-verdict85"></join>
+               <join result="criminalCharge" id="t17420115-17-off84-c135" targOrder="Y" targets="t17420115-17-defend175 t17420115-17-off84 t17420115-17-verdict85"></join>
+         
+               <p>21. 
+               
+                  <persName id="t17420115-17-defend175" type="defendantName">
+                     John 
+                     Thompson 
+                  <interp inst="t17420115-17-defend175" type="surname" value="Thompson"></interp>
+                     <interp inst="t17420115-17-defend175" type="given" value="John"></interp>
+                     <interp inst="t17420115-17-defend175" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17420115-17-defloc79">St. George , Middlesex</placeName>
+                  <interp inst="t17420115-17-defloc79" type="placeName" value="St. George , Middlesex"></interp>
+                  <interp inst="t17420115-17-defloc79" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17420115-17-defend175 t17420115-17-defloc79"></join>, <rs id="t17420115-17-deflabel80" type="occupation">Victualler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17420115-17-defend175 t17420115-17-deflabel80"></join>, was indicted for that <rs id="t17420115-17-off81" type="offenceDescription">
+                     <interp inst="t17420115-17-off81" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17420115-17-off81" type="offenceSubcategory" value="murder"></interp>
+               he not having God before his Eyes, &amp;c. on the <rs id="t17420115-17-cd82" type="crimeDate">16th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17420115-17-off81 t17420115-17-cd82"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17420115-17-off84 t17420115-17-cd82"></join>, on 
+                     
+                        <persName id="t17420115-17-victim177" type="victimName">
+                           Mary 
+                           Grayling 
+                        <interp inst="t17420115-17-victim177" type="surname" value="Grayling"></interp>
+                        <interp inst="t17420115-17-victim177" type="given" value="Mary"></interp>
+                        <interp inst="t17420115-17-victim177" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17420115-17-off81 t17420115-17-victim177"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17420115-17-off84 t17420115-17-victim177"></join>
+                     </persName>
+                      
+                  , an <rs id="t17420115-17-viclabel83" type="occupation">Infant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17420115-17-victim177 t17420115-17-viclabel83"></join> about the Age of nine Years, in the Peace, &amp;c. feloniously, &amp;c. did make an Assault, and did endeavour and attempt carnally to know and abuse, and, &amp;c. did most grievously lacerate and abuse, &amp;c. of which Laceration she languished from the said 16th of December, to the 2d of January, and then died
+            </rs>.</p>
+               <p>He was a second Time charg'd by Vertue of the Coroner's Inquisition for the said Murder.</p>
+               <p>And a third Time for <rs id="t17420115-17-off84" type="offenceDescription">
+                     <interp inst="t17420115-17-off84" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17420115-17-off84" type="offenceSubcategory" value="assaultWithIntent"></interp>
+               ravishing 
+                     <persName id="t17420115-17-person178">
+                        Mary 
+                        Grayling 
+                     <interp inst="t17420115-17-person178" type="surname" value="Grayling"></interp>
+                        <interp inst="t17420115-17-person178" type="given" value="Mary"></interp>
+                        <interp inst="t17420115-17-person178" type="gender" value="female"></interp>
+                     </persName>
+                   , against the Form of the Statute, &amp;c.
+            </rs>
+               </p>
+               <p>Mr. Cowling Surgeon and Man-Midwife , inspected the Body of the Child a Week after its Death, and gave aparticular Account of the Condition in which he found it, and it was his Opinion, that after she had received so great an Injury, it was impossible she could live.</p>
+               <p>Several Witnesses were produced to give an Account of the Child's Declarations in extremis, but it being the Opinion of the Court that the Child was not of competent Years to make such Declaration, and there being no other Evidence offered in Support of the Indictment, the Prisoner was <rs id="t17420115-17-verdict85" type="verdictDescription">
+                     <interp inst="t17420115-17-verdict85" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

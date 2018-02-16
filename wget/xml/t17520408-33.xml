@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520408-33">
+               <interp inst="t17520408-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520408-33" type="year" value="1752"></interp>
+               <interp inst="t17520408-33" type="uri" value="sessionsPapers/17520408"></interp>
+               <interp inst="t17520408-33" type="date" value="17520408"></interp>
+               <join result="criminalCharge" id="t17520408-33-off177-c188" targOrder="Y" targets="t17520408-33-defend250 t17520408-33-off177 t17520408-33-verdict180"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175204080019"></xptr>243 (L) 
+               
+                  <persName id="t17520408-33-defend250" type="defendantName">
+                     Barnard 
+                     Barry 
+                  <interp inst="t17520408-33-defend250" type="surname" value="Barry"></interp>
+                     <interp inst="t17520408-33-defend250" type="given" value="Barnard"></interp>
+                     <interp inst="t17520408-33-defend250" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17520408-33-off177" type="offenceDescription">
+                     <interp inst="t17520408-33-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520408-33-off177" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one firkin of butter, value 20 s. one wooden firkin, value 6 d.
+            </rs> the goods of 
+               <persName id="t17520408-33-victim251" type="victimName">
+                  
+                     <persName id="t17520408-33-person252" type="victimName">
+                        John 
+                        Child 
+                     <interp inst="t17520408-33-person252" type="surname" value="Child"></interp>
+                        <interp inst="t17520408-33-person252" type="given" value="John"></interp>
+                        <interp inst="t17520408-33-person252" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17520408-33-off177 t17520408-33-person252"></join>
+                     </persName>
+                   
+                     <rs id="t17520408-33-viclabel178" type="occupation">and Co</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17520408-33-victim251 t17520408-33-viclabel178"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17520408-33-person252 t17520408-33-viclabel178"></join>
+                     <interp inst="t17520408-33-victim251" type="surname" value="Child"></interp>
+                     <interp inst="t17520408-33-victim251" type="given" value="John"></interp>
+                     <interp inst="t17520408-33-victim251" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520408-33-off177 t17520408-33-victim251"></join>
+                  </persName>
+            . <rs id="t17520408-33-cd179" type="crimeDate">March 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520408-33-off177 t17520408-33-cd179"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520408-33-person253">
+                  John 
+                  Hitchins 
+               <interp inst="t17520408-33-person253" type="surname" value="Hitchins"></interp>
+                     <interp inst="t17520408-33-person253" type="given" value="John"></interp>
+                     <interp inst="t17520408-33-person253" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the prisoner come out of Mr. Child's and company's shop door March 21, about four in the afternoon, with a firkin, having hold of it by the two ends long ways, he came to my door, and I believe he might be a little in liquor; there he dropped it; I took hold of him and took him into Mr. Child's yard and called some of the servants to come and examine him. I think there was I. H. marked upon the firkin in black ; I was with the prisoner before my Lord Mayor, there he said he took it out of a cart, as it was going along the street.</p>
+               <p>
+            
+                  <persName id="t17520408-33-person254">
+                  John 
+                  Marshall 
+               <interp inst="t17520408-33-person254" type="surname" value="Marshall"></interp>
+                     <interp inst="t17520408-33-person254" type="given" value="John"></interp>
+                     <interp inst="t17520408-33-person254" type="gender" value="male"></interp>
+                  </persName>
+            . The firkin of butter belongs to Mr. Child and Company. (He mentions the partners names.) the other evidence had hold on the prisoner, and the butter lay at his foot ; we had ten firkins of this butter that were told and stood ready to be delivered, in the passage ; I went and looked at them, there was then but nine ; this in the street was the other, they were all mark'd J. C. with ink, we took the prisoner before my Lord Mayor, he said there was a cart going along the street from whence he had it.</p>
+               <p>Q to Hitchens. Did you see the prisoner drop the firkin of butter?</p>
+               <p>Hitchins. I did, he dropt it by reeling, and I laid hold on him directly.</p>
+               <p>Prisoner's defence.</p>
+               <p>There was a cart going by, down a hill, and turning off to the right, the near wheel went into the kennel, and the butter tumbled off, I called to the Carman; Carman, there is your butter off; this man came and said it was you that throwed it down from the cart, said I if you doubt my character, I'll get a character were I work, (please to put my trial back till my master comes with my character from Westminster,) he took hold on me and went and charged me with the beadle.</p>
+               <p>Q. to Marshall. Was this missing from nearest the street, or backwards of the ten you mentioned?</p>
+               <p>Marshall. It was from nearest the street.</p>
+               <p>
+                  <rs id="t17520408-33-verdict180" type="verdictDescription">
+                     <interp inst="t17520408-33-verdict180" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17520408-33-punish181" type="punishmentDescription">
+                     <interp inst="t17520408-33-punish181" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520408-33-defend250 t17520408-33-punish181"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

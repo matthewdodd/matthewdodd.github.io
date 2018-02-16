@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17521026-4">
+               <interp inst="t17521026-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17521026-4" type="year" value="1752"></interp>
+               <interp inst="t17521026-4" type="uri" value="sessionsPapers/17521026"></interp>
+               <interp inst="t17521026-4" type="date" value="17521026"></interp>
+               <join result="criminalCharge" id="t17521026-4-off20-c42" targOrder="Y" targets="t17521026-4-defend48 t17521026-4-off20 t17521026-4-verdict23"></join>
+         
+               <p>503. (M.) 
+               
+                  <persName id="t17521026-4-defend48" type="defendantName">
+                     Eleanor 
+                     Froude 
+                  <interp inst="t17521026-4-defend48" type="surname" value="Froude"></interp>
+                     <interp inst="t17521026-4-defend48" type="given" value="Eleanor"></interp>
+                     <interp inst="t17521026-4-defend48" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17521026-4-deflabel19" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17521026-4-defend48 t17521026-4-deflabel19"></join>, was indicted for <rs id="t17521026-4-off20" type="offenceDescription">
+                     <interp inst="t17521026-4-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17521026-4-off20" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 3 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17521026-4-victim50" type="victimName">
+                     Alexander 
+                     Davidson 
+                  <interp inst="t17521026-4-victim50" type="surname" value="Davidson"></interp>
+                     <interp inst="t17521026-4-victim50" type="given" value="Alexander"></interp>
+                     <interp inst="t17521026-4-victim50" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17521026-4-off20 t17521026-4-victim50"></join>
+                  </persName>
+                
+            , <rs id="t17521026-4-cd21" type="crimeDate">Oct. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17521026-4-off20 t17521026-4-cd21"></join>. * </p>
+               <p>Mary Davidson. I am wife to Alexander. The prisoner lodged at our house in <placeName id="t17521026-4-crimeloc22">Bell Yard, King Street, Westminster</placeName>
+                  <interp inst="t17521026-4-crimeloc22" type="placeName" value="Bell Yard, King Street, Westminster"></interp>
+                  <interp inst="t17521026-4-crimeloc22" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17521026-4-off20 t17521026-4-crimeloc22"></join>. On the 4th of October, out of 9s. 6d. in the shop, I going out into the passage for three or four minutes, miss'd 3s. 6d. as soon as I came in, which was a half crown and a shilling. The prisoner had told me before in the morning she had not a farthing in the world. When I took her up, she was for breaking out at the window. Before the constable came, when I went to search her, she said she had no money about her. As she was struggling to get out at the window, her pocket came off, Mr. Wright pick'd it up, and shook out of it a half crown and a shilling.</p>
+               <p>
+            
+                  <persName id="t17521026-4-person51">
+                  John 
+                  Wright 
+               <interp inst="t17521026-4-person51" type="surname" value="Wright"></interp>
+                     <interp inst="t17521026-4-person51" type="given" value="John"></interp>
+                     <interp inst="t17521026-4-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I lodge in the prosecutor's house. My landlady was in the passage, and I was in the shop; the prisoner came in, my landlady came in and told her money, and missing 3 s. 6 d. she accused the prisoner with taking it. The rest as the former witness.</p>
+               <p>Prisoner's Defence.</p>
+               <p>They took this money from me, and a half-penny. I was forced to jump out at the window, for she swore she would murder me.</p>
+               <p>Q. to Wright. Did you find a halfpenny besides the 3 s. 6 d.?</p>
+               <p>Wright. I did.</p>
+               <p>
+            
+                  <persName id="t17521026-4-person52">
+                  Mary 
+                  Davidson 
+               <interp inst="t17521026-4-person52" type="surname" value="Davidson"></interp>
+                     <interp inst="t17521026-4-person52" type="given" value="Mary"></interp>
+                     <interp inst="t17521026-4-person52" type="gender" value="female"></interp>
+                  </persName>
+             said the same.  <rs id="t17521026-4-verdict23" type="verdictDescription">
+                     <interp inst="t17521026-4-verdict23" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17521026-4-verdict23" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17521026-4-punish24" type="punishmentDescription">
+                     <interp inst="t17521026-4-punish24" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17521026-4-punish24" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17521026-4-defend48 t17521026-4-punish24"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

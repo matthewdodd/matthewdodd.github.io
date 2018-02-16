@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340630-26">
+               <interp inst="t17340630-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340630-26" type="year" value="1734"></interp>
+               <interp inst="t17340630-26" type="uri" value="sessionsPapers/17340630"></interp>
+               <interp inst="t17340630-26" type="date" value="17340630"></interp>
+               <join result="criminalCharge" id="t17340630-26-off124-c195" targOrder="Y" targets="t17340630-26-defend256 t17340630-26-off124 t17340630-26-verdict126"></join>
+         
+               <p>35. 
+               
+                  <persName id="t17340630-26-defend256" type="defendantName">
+                     John 
+                     Cook 
+                  <interp inst="t17340630-26-defend256" type="surname" value="Cook"></interp>
+                     <interp inst="t17340630-26-defend256" type="given" value="John"></interp>
+                     <interp inst="t17340630-26-defend256" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340630-26-off124" type="offenceDescription">
+                     <interp inst="t17340630-26-off124" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340630-26-off124" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing Sheep
+            </rs>, the Property of 
+               
+                  <persName id="t17340630-26-victim258" type="victimName">
+                     Edward 
+                     Bellis 
+                  <interp inst="t17340630-26-victim258" type="surname" value="Bellis"></interp>
+                     <interp inst="t17340630-26-victim258" type="given" value="Edward"></interp>
+                     <interp inst="t17340630-26-victim258" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340630-26-off124 t17340630-26-victim258"></join>
+                  </persName>
+                
+            , <rs id="t17340630-26-cd125" type="crimeDate">March 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340630-26-off124 t17340630-26-cd125"></join>. No Evidence <rs id="t17340630-26-verdict126" type="verdictDescription">
+                     <interp inst="t17340630-26-verdict126" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17340630-26-verdict126" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

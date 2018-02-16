@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670909-43">
+               <interp inst="t17670909-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670909-43" type="year" value="1767"></interp>
+               <interp inst="t17670909-43" type="uri" value="sessionsPapers/17670909"></interp>
+               <interp inst="t17670909-43" type="date" value="17670909"></interp>
+               <join result="criminalCharge" id="t17670909-43-off257-c411" targOrder="Y" targets="t17670909-43-defend497 t17670909-43-off257 t17670909-43-verdict260"></join>
+         
+               <p>455. (L.) 
+               
+                  <persName id="t17670909-43-defend497" type="defendantName">
+                     Robert 
+                     Langham 
+                  <interp inst="t17670909-43-defend497" type="surname" value="Langham"></interp>
+                     <interp inst="t17670909-43-defend497" type="given" value="Robert"></interp>
+                     <interp inst="t17670909-43-defend497" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670909-43-off257" type="offenceDescription">
+                     <interp inst="t17670909-43-off257" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670909-43-off257" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twenty pounds weight of sugar, value 3 s. 6 d.
+            </rs> the property of persons unknown, <rs id="t17670909-43-cd258" type="crimeDate">Sept. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670909-43-off257 t17670909-43-cd258"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17670909-43-person498">
+                  William 
+                  Wiggens 
+               <interp inst="t17670909-43-person498" type="surname" value="Wiggens"></interp>
+                     <interp inst="t17670909-43-person498" type="given" value="William"></interp>
+                     <interp inst="t17670909-43-person498" type="gender" value="male"></interp>
+                  </persName>
+             I am a wharfinger; last Thursday in the evening, I met the prisoner with twenty pounds weight of sugar in an apron, in Thames-street; I stopped him, and delivered him to two of our gangsmen; he told me he would go and put it in the same hogshead he took it out of, if I would forgive him. I have known him nine years; he always appeared to me to be a very industrious man.</p>
+               <p>Prisoner's defence. </p>
+               <p>I was at work at <placeName id="t17670909-43-crimeloc259">Hammond's-key</placeName>
+                  <interp inst="t17670909-43-crimeloc259" type="placeName" value="Hammond's-key"></interp>
+                  <interp inst="t17670909-43-crimeloc259" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670909-43-off257 t17670909-43-crimeloc259"></join>; there was a bit of sugar fell out of a hogshead, I was a little in liquor, and I put it in my apron.</p>
+               <p>
+                  <rs id="t17670909-43-verdict260" type="verdictDescription">
+                     <interp inst="t17670909-43-verdict260" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670909-43-verdict260" type="verdictSubcategory" value="withRecommendation"></interp>
+               Guilty 10 d. Recommended
+            </rs>. <rs id="t17670909-43-punish261" type="punishmentDescription">
+                     <interp inst="t17670909-43-punish261" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17670909-43-punish261" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670909-43-defend497 t17670909-43-punish261"></join>
+               W
+            </rs>.</p>
+            </div1>

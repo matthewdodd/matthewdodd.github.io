@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-30">
+               <interp inst="t16920831-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-30" type="year" value="1692"></interp>
+               <interp inst="t16920831-30" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-30" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-30-off129-c98" targOrder="Y" targets="t16920831-30-defend98 t16920831-30-off129 t16920831-30-verdict132"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-30-defend98" type="defendantName">
+                  William 
+                  Carter
+               <interp inst="t16920831-30-defend98" type="surname" value="Carter"></interp>
+                     <interp inst="t16920831-30-defend98" type="given" value="William"></interp>
+                     <interp inst="t16920831-30-defend98" type="gender" value="male"></interp>
+                  </persName>
+             was Tryed for <rs id="t16920831-30-off129" type="offenceDescription">
+                     <interp inst="t16920831-30-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-30-off129" type="offenceSubcategory" value="pocketpicking"></interp>
+               Picking the Pocket of 
+                     <persName id="t16920831-30-victim99" type="victimName">
+                        Matthew 
+                        Deane
+                     <interp inst="t16920831-30-victim99" type="surname" value="Deane"></interp>
+                        <interp inst="t16920831-30-victim99" type="given" value="Matthew"></interp>
+                        <interp inst="t16920831-30-victim99" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920831-30-off129 t16920831-30-victim99"></join>
+                     </persName>
+                   in <placeName id="t16920831-30-crimeloc130">Smithfield</placeName>
+                     <interp inst="t16920831-30-crimeloc130" type="placeName" value="Smithfield"></interp>
+                     <interp inst="t16920831-30-crimeloc130" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16920831-30-off129 t16920831-30-crimeloc130"></join>, whilst he stood there selling Cattle
+            </rs>, on the <rs id="t16920831-30-cd131" type="crimeDate">19th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920831-30-off129 t16920831-30-cd131"></join>. The Prisoner Confest it before Sir 
+               <persName id="t16920831-30-person100">
+                  William 
+                  Turner
+               <interp inst="t16920831-30-person100" type="surname" value="Turner"></interp>
+                     <interp inst="t16920831-30-person100" type="given" value="William"></interp>
+                     <interp inst="t16920831-30-person100" type="gender" value="male"></interp>
+                  </persName>
+            , that he took it out of Mr. Deane's Pocket, but he denied it at his Tryal; yet he was found <rs id="t16920831-30-verdict132" type="verdictDescription">
+                     <interp inst="t16920831-30-verdict132" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16920831-30-punish133" type="punishmentDescription">
+                     <interp inst="t16920831-30-punish133" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-30-defend98 t16920831-30-punish133"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

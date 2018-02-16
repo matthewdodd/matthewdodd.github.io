@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17371012-12">
+               <interp inst="t17371012-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17371012-12" type="year" value="1737"></interp>
+               <interp inst="t17371012-12" type="uri" value="sessionsPapers/17371012"></interp>
+               <interp inst="t17371012-12" type="date" value="17371012"></interp>
+               <join result="criminalCharge" id="t17371012-12-off55-c99" targOrder="Y" targets="t17371012-12-defend122 t17371012-12-off55 t17371012-12-verdict57"></join>
+         
+               <p>15. 
+               
+                  <persName id="t17371012-12-defend122" type="defendantName">
+                     Ann 
+                     Rickets 
+                  <interp inst="t17371012-12-defend122" type="surname" value="Rickets"></interp>
+                     <interp inst="t17371012-12-defend122" type="given" value="Ann"></interp>
+                     <interp inst="t17371012-12-defend122" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17371012-12-defloc54">St. Luke's, Middlesex</placeName>
+                  <interp inst="t17371012-12-defloc54" type="placeName" value="St. Luke's, Middlesex"></interp>
+                  <interp inst="t17371012-12-defloc54" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17371012-12-defend122 t17371012-12-defloc54"></join>, was indicted for <rs id="t17371012-12-off55" type="offenceDescription">
+                     <interp inst="t17371012-12-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17371012-12-off55" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Linnen Sheet value 2 s. and two Pillows value 6 d. the Goods of 
+                     
+                        <persName id="t17371012-12-victim124" type="victimName">
+                           John 
+                           Bradbury 
+                        <interp inst="t17371012-12-victim124" type="surname" value="Bradbury"></interp>
+                        <interp inst="t17371012-12-victim124" type="given" value="John"></interp>
+                        <interp inst="t17371012-12-victim124" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17371012-12-off55 t17371012-12-victim124"></join>
+                     </persName>
+                      
+                  , in her Lodging
+            </rs>, <rs id="t17371012-12-cd56" type="crimeDate">Sept. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17371012-12-off55 t17371012-12-cd56"></join>.</p>
+               <p>
+                  <rs id="t17371012-12-verdict57" type="verdictDescription">
+                     <interp inst="t17371012-12-verdict57" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17371012-12-verdict57" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor not appearing, the Prisoner was acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17671021-6">
+               <interp inst="t17671021-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17671021-6" type="year" value="1767"></interp>
+               <interp inst="t17671021-6" type="uri" value="sessionsPapers/17671021"></interp>
+               <interp inst="t17671021-6" type="date" value="17671021"></interp>
+               <join result="criminalCharge" id="t17671021-6-off27-c71" targOrder="Y" targets="t17671021-6-defend86 t17671021-6-off27 t17671021-6-verdict30"></join>
+         
+               <p>526. (M.) 
+               
+                  <persName id="t17671021-6-defend86" type="defendantName">
+                     James 
+                     Salisbury 
+                  <interp inst="t17671021-6-defend86" type="surname" value="Salisbury"></interp>
+                     <interp inst="t17671021-6-defend86" type="given" value="James"></interp>
+                     <interp inst="t17671021-6-defend86" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17671021-6-off27" type="offenceDescription">
+                     <interp inst="t17671021-6-off27" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-6-off27" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a brass mortar, value 12 d.
+            </rs> the property of 
+               
+                  <persName id="t17671021-6-victim88" type="victimName">
+                     Thomas 
+                     Sutton 
+                  <interp inst="t17671021-6-victim88" type="surname" value="Sutton"></interp>
+                     <interp inst="t17671021-6-victim88" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-6-victim88" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17671021-6-off27 t17671021-6-victim88"></join>
+                  </persName>
+                
+            , <rs id="t17671021-6-cd28" type="crimeDate">October 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-6-off27 t17671021-6-cd28"></join>. *</p>
+               <p>
+            
+                  <persName id="t17671021-6-person89">
+                  Thomas 
+                  Sutton 
+               <interp inst="t17671021-6-person89" type="surname" value="Sutton"></interp>
+                     <interp inst="t17671021-6-person89" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-6-person89" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17671021-6-viclabel29" type="occupation">keep a public-house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-6-victim88 t17671021-6-viclabel29"></join>; the prisoner came in for some purl; when he was gone out, I was told he had taken a brass mortar off the shelf; I went after him, and took it out of his pocket.</p>
+               <p>
+            
+                  <persName id="t17671021-6-person90">
+                  Mary 
+                  King 
+               <interp inst="t17671021-6-person90" type="surname" value="King"></interp>
+                     <interp inst="t17671021-6-person90" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-6-person90" type="gender" value="female"></interp>
+                  </persName>
+            . I was setting in the bar, the prisoner sat on a chair; I saw him take the brass mortar from the mantle-piece, and put it in his pocket; when he went out I told my master; he went and brought the prisoner and that back.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was so much in liquor, I did not know whether it was brass or iron.</p>
+               <p>
+                  <rs id="t17671021-6-verdict30" type="verdictDescription">
+                     <interp inst="t17671021-6-verdict30" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17671021-6-verdict30" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs> 
+                  <rs id="t17671021-6-punish31" type="punishmentDescription">
+                     <interp inst="t17671021-6-punish31" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17671021-6-punish31" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17671021-6-defend86 t17671021-6-punish31"></join>
+               W
+            </rs>.</p>
+            </div1>

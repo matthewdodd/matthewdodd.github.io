@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-8">
+               <interp inst="t17350911-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-8" type="year" value="1735"></interp>
+               <interp inst="t17350911-8" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-8" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-8-off29-c49" targOrder="Y" targets="t17350911-8-defend66 t17350911-8-off29 t17350911-8-verdict32"></join>
+         
+               <p>9. 
+               
+                  <persName id="t17350911-8-defend66" type="defendantName">
+                     Mary 
+                     Wotton 
+                  <interp inst="t17350911-8-defend66" type="surname" value="Wotton"></interp>
+                     <interp inst="t17350911-8-defend66" type="given" value="Mary"></interp>
+                     <interp inst="t17350911-8-defend66" type="gender" value="female"></interp>
+                     <interp inst="t17350911-8-defend66" type="age" value="Ten next February"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350911-8-off29" type="offenceDescription">
+                     <interp inst="t17350911-8-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-8-off29" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing twenty seven Guineas and a half, and four Shillings and six Pence. the Money of 
+                     
+                        <persName id="t17350911-8-victim68" type="victimName">
+                           John 
+                           Easton 
+                        <interp inst="t17350911-8-victim68" type="surname" value="Easton"></interp>
+                        <interp inst="t17350911-8-victim68" type="given" value="John"></interp>
+                        <interp inst="t17350911-8-victim68" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350911-8-off29 t17350911-8-victim68"></join>
+                     </persName>
+                      
+                  , in the House of 
+                     <persName id="t17350911-8-person69">
+                        Thomas 
+                        Foxly 
+                     <interp inst="t17350911-8-person69" type="surname" value="Foxly"></interp>
+                        <interp inst="t17350911-8-person69" type="given" value="Thomas"></interp>
+                        <interp inst="t17350911-8-person69" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs> 
+                  <rs id="t17350911-8-cd30" type="crimeDate">September 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-8-off29 t17350911-8-cd30"></join>.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173509110004"></xptr>
+            
+                  <persName id="t17350911-8-person70">
+                  John 
+                  Easton 
+               <interp inst="t17350911-8-person70" type="surname" value="Easton"></interp>
+                     <interp inst="t17350911-8-person70" type="given" value="John"></interp>
+                     <interp inst="t17350911-8-person70" type="gender" value="male"></interp>
+                  </persName>
+            . This Girl was put <rs id="t17350911-8-deflabel31" type="occupation">Apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350911-8-defend66 t17350911-8-deflabel31"></join> by the Parish to my Wife.</p>
+               <p>Court. How old is she?</p>
+               <p>John Easton. She is Ten next February; she had lived with us thirteen or fourteen Months. My Wife and I went out in the Afternoon; I returned first about six in the Evening, and the Girl was gone. I did not search the Drawers till my Wife came home; she had run away once before, but did not steal any thing then. We found the Drawers broken open and mist the Money.</p>
+               <p>Mrs. Easton. There was twenty nine Pounds in a Spice Box in my Drawers in Mr. Foxley's House. I went out and left only the Girl in my Room, when I returned the Girl was gone, my Drawers broke open, and the Money taken away. She was found in Rag-Fair, she owned she took the Money, and said at first, that she put it in her Bosom, and sat all Night in Moor-lane, and there a Man came and took it from her - Then she said a Woman took it out of her Apron, and at another time she told me that she gave it to a Girl who was to go out of Town with her.</p>
+               <p>The Jury found her <rs id="t17350911-8-verdict32" type="verdictDescription">
+                     <interp inst="t17350911-8-verdict32" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17350911-8-punish33" type="punishmentDescription">
+                     <interp inst="t17350911-8-punish33" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350911-8-defend66 t17350911-8-punish33"></join>
+               Death
+            </rs>.</p>
+            </div1>

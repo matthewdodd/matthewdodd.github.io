@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17491011-48">
+               <interp inst="t17491011-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17491011-48" type="year" value="1749"></interp>
+               <interp inst="t17491011-48" type="uri" value="sessionsPapers/17491011"></interp>
+               <interp inst="t17491011-48" type="date" value="17491011"></interp>
+               <join result="criminalCharge" id="t17491011-48-off213-c208" targOrder="Y" targets="t17491011-48-defend298 t17491011-48-off213 t17491011-48-verdict216"></join>
+               <join result="criminalCharge" id="t17491011-48-off214-c210" targOrder="Y" targets="t17491011-48-defend302 t17491011-48-off214 t17491011-48-verdict216"></join>
+         
+               <p>657, 658. 
+               
+                  <persName id="t17491011-48-defend298" type="defendantName">
+                     John 
+                     Belson 
+                  <interp inst="t17491011-48-defend298" type="surname" value="Belson"></interp>
+                     <interp inst="t17491011-48-defend298" type="given" value="John"></interp>
+                     <interp inst="t17491011-48-defend298" type="gender" value="male"></interp>
+                  </persName>
+                
+             was indicted <rs id="t17491011-48-off213" type="offenceDescription">
+                     <interp inst="t17491011-48-off213" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17491011-48-off213" type="offenceSubcategory" value="grandLarceny"></interp>
+               for stealing one peg-awl, val. 2 s. the goods of 
+                     
+                        <persName id="t17491011-48-victim300" type="victimName">
+                           Samuel 
+                           Boxton 
+                        <interp inst="t17491011-48-victim300" type="surname" value="Boxton"></interp>
+                        <interp inst="t17491011-48-victim300" type="given" value="Samuel"></interp>
+                        <interp inst="t17491011-48-victim300" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; one iron wedge, val. 1 s. eight iron nails, val. 4 d.
+            </rs> the goods of persons unknown: and 
+               
+                  <persName id="t17491011-48-defend302" type="defendantName">
+                     Edward 
+                     Mortimore 
+                  <interp inst="t17491011-48-defend302" type="surname" value="Mortimore"></interp>
+                     <interp inst="t17491011-48-defend302" type="given" value="Edward"></interp>
+                     <interp inst="t17491011-48-defend302" type="gender" value="male"></interp>
+                  </persName>
+                
+            , for <rs id="t17491011-48-off214" type="offenceDescription">
+                     <interp inst="t17491011-48-off214" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17491011-48-off214" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, knowing them to be stolen
+            </rs>, <rs id="t17491011-48-cd215" type="crimeDate">Oct. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17491011-48-off213 t17491011-48-cd215"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17491011-48-off214 t17491011-48-cd215"></join>.</p>
+               <p>Both <rs id="t17491011-48-verdict216" type="verdictDescription">
+                     <interp inst="t17491011-48-verdict216" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

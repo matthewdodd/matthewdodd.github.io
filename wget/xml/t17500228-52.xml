@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-52">
+               <interp inst="t17500228-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-52" type="year" value="1750"></interp>
+               <interp inst="t17500228-52" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-52" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-52-off225-c301" targOrder="Y" targets="t17500228-52-defend414 t17500228-52-off225 t17500228-52-verdict227"></join>
+         
+               <p>251. 
+               <persName id="t17500228-52-defend414" type="defendantName">
+                  
+                     Thomas 
+                     Cragoe 
+                  , otherwise <rs id="t17500228-52-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17500228-52-defend414 t17500228-52-alias-8"></join>Sham</rs>
+                     <interp inst="t17500228-52-defend414" type="surname" value="Cragoe"></interp>
+                     <interp inst="t17500228-52-defend414" type="given" value="Thomas"></interp>
+                     <interp inst="t17500228-52-defend414" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500228-52-off225" type="offenceDescription">
+                     <interp inst="t17500228-52-off225" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-52-off225" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking and entering the dwellinghouse of 
+                     
+                        <persName id="t17500228-52-victim417" type="victimName">
+                           Sarah 
+                           Savage 
+                        <interp inst="t17500228-52-victim417" type="surname" value="Savage"></interp>
+                        <interp inst="t17500228-52-victim417" type="given" value="Sarah"></interp>
+                        <interp inst="t17500228-52-victim417" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-52-off225 t17500228-52-victim417"></join>
+                     </persName>
+                      
+                  , widow, and stealing out thence four silk handkerchiefs, value 10 s. two linnen handkerchiefs, the goods of the said Sarah
+            </rs>, <rs id="t17500228-52-cd226" type="crimeDate">Jan. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-52-off225 t17500228-52-cd226"></join>. The prisoner had confest the fact. This Cragoe is the person admitted an evidence against Shorey and Davis, No. 63.</p>
+               <p>
+                  <rs id="t17500228-52-verdict227" type="verdictDescription">
+                     <interp inst="t17500228-52-verdict227" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500228-52-verdict227" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-52-punish228" type="punishmentDescription">
+                     <interp inst="t17500228-52-punish228" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-52-defend414 t17500228-52-punish228"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

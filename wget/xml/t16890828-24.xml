@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890828-24">
+               <interp inst="t16890828-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890828-24" type="year" value="1689"></interp>
+               <interp inst="t16890828-24" type="uri" value="sessionsPapers/16890828"></interp>
+               <interp inst="t16890828-24" type="date" value="16890828"></interp>
+               <join result="criminalCharge" id="t16890828-24-off117-c95" targOrder="Y" targets="t16890828-24-defend128 t16890828-24-off117 t16890828-24-verdict119"></join>
+         
+               <p>
+            
+                  <persName id="t16890828-24-defend128" type="defendantName">
+                  Elizabeth 
+                  Nelson
+               <interp inst="t16890828-24-defend128" type="surname" value="Nelson"></interp>
+                     <interp inst="t16890828-24-defend128" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16890828-24-defend128" type="gender" value="female"></interp>
+                  </persName>
+             
+                  <rs id="t16890828-24-deflabel116" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16890828-24-defend128 t16890828-24-deflabel116"></join> of 
+               <persName id="t16890828-24-person129">
+                  John 
+                  Nelson
+               <interp inst="t16890828-24-person129" type="surname" value="Nelson"></interp>
+                     <interp inst="t16890828-24-person129" type="given" value="John"></interp>
+                     <interp inst="t16890828-24-person129" type="gender" value="male"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16890828-24-off117" type="offenceDescription">
+                     <interp inst="t16890828-24-off117" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890828-24-off117" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing 
+                     
+                        <persName id="t16890828-24-victim131" type="victimName">
+                           John 
+                           Gibbons
+                        <interp inst="t16890828-24-victim131" type="surname" value="Gibbons"></interp>
+                        <interp inst="t16890828-24-victim131" type="given" value="John"></interp>
+                        <interp inst="t16890828-24-victim131" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890828-24-off117 t16890828-24-victim131"></join>
+                     </persName>
+                     
+                   of one Tankard<xptr type="pageFacsimile" doc="16890828004"></xptr>value 5 l. one Cup 50 s. five Silver Spoons 50 s. one Scarf 10 s. and some other Goods
+            </rs>. The prisoner was a <rs id="t16890828-24-deflabel118" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16890828-24-defend128 t16890828-24-deflabel118"></join> about a Week in August, to Mr. Gibbons, and had the Plate and things abovesaid committed to her Charge, and while her Mastar was at Dinner, she ran away with the Goods, but none was found in her Custody, only a Scarf, which the Prisoner said the borrowed of another Person, but the Prosecutor owned the Scarf to be his Wives; yet the Evidence did not influence the Jury enough to find her Guilty, she was <rs id="t16890828-24-verdict119" type="verdictDescription">
+                     <interp inst="t16890828-24-verdict119" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>
+               </p>
+            </div1>

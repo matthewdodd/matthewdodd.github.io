@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-5">
+               <interp inst="t17350226-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-5" type="year" value="1735"></interp>
+               <interp inst="t17350226-5" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-5" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-5-off17-c38" targOrder="Y" targets="t17350226-5-defend49 t17350226-5-off17 t17350226-5-verdict19"></join>
+         
+               <p>5. 
+               
+                  <persName id="t17350226-5-defend49" type="defendantName">
+                     Hannah 
+                     Hartford 
+                  <interp inst="t17350226-5-defend49" type="surname" value="Hartford"></interp>
+                     <interp inst="t17350226-5-defend49" type="given" value="Hannah"></interp>
+                     <interp inst="t17350226-5-defend49" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350226-5-off17" type="offenceDescription">
+                     <interp inst="t17350226-5-off17" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350226-5-off17" type="offenceSubcategory" value="other"></interp>
+               stealing a Shirt, two Shifts, and other Linnen
+            </rs>, the Goods of 
+               
+                  <persName id="t17350226-5-victim51" type="victimName">
+                     James 
+                     Lemon 
+                  <interp inst="t17350226-5-victim51" type="surname" value="Lemon"></interp>
+                     <interp inst="t17350226-5-victim51" type="given" value="James"></interp>
+                     <interp inst="t17350226-5-victim51" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350226-5-victim53" type="victimName">
+                     Richard 
+                     Read 
+                  <interp inst="t17350226-5-victim53" type="surname" value="Read"></interp>
+                     <interp inst="t17350226-5-victim53" type="given" value="Richard"></interp>
+                     <interp inst="t17350226-5-victim53" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17350226-5-cd18" type="crimeDate">Jan. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350226-5-off17 t17350226-5-cd18"></join>. <rs id="t17350226-5-verdict19" type="verdictDescription">
+                     <interp inst="t17350226-5-verdict19" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17350226-5-punish20" type="punishmentDescription">
+                     <interp inst="t17350226-5-punish20" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350226-5-defend49 t17350226-5-punish20"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

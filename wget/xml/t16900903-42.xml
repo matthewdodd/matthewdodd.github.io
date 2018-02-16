@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900903-42">
+               <interp inst="t16900903-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900903-42" type="year" value="1690"></interp>
+               <interp inst="t16900903-42" type="uri" value="sessionsPapers/16900903"></interp>
+               <interp inst="t16900903-42" type="date" value="16900903"></interp>
+               <join result="criminalCharge" id="t16900903-42-off182-c151" targOrder="Y" targets="t16900903-42-defend216 t16900903-42-off182 t16900903-42-verdict185"></join>
+         
+               <p>
+            
+                  <persName id="t16900903-42-defend216" type="defendantName">
+                  Joan 
+                  Brown alias <rs id="t16900903-42-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16900903-42-defend216 t16900903-42-alias-1"></join>Varlen</rs>
+                     <interp inst="t16900903-42-defend216" type="surname" value="Brown"></interp>
+                     <interp inst="t16900903-42-defend216" type="given" value="Joan"></interp>
+                     <interp inst="t16900903-42-defend216" type="gender" value="female"></interp>
+                  </persName>
+            , was tryed for <rs id="t16900903-42-off182" type="offenceDescription">
+                     <interp inst="t16900903-42-off182" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900903-42-off182" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing; from Sir 
+                     
+                        <persName id="t16900903-42-victim218" type="victimName">
+                           John 
+                           Peckering
+                        <interp inst="t16900903-42-victim218" type="surname" value="Peckering"></interp>
+                        <interp inst="t16900903-42-victim218" type="given" value="John"></interp>
+                        <interp inst="t16900903-42-victim218" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900903-42-off182 t16900903-42-victim218"></join>
+                     </persName>
+                     
+                   
+                     <rs id="t16900903-42-viclabel183" type="occupation">Baronet</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900903-42-victim218 t16900903-42-viclabel183"></join>, on the <rs id="t16900903-42-cd184" type="crimeDate">8th of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900903-42-off182 t16900903-42-cd184"></join>, one Silver Mug, value 23 s. 5 Silver Forks, value 40 s. Some other Plate and a Night-Gown, value 30 s. with other things
+            </rs>: All which were owned, by the Prosecutor to be his Goods; and the Prisoner was seen to run out of Sir John's Lodgings, and being pursued she dropt them. She denied it, yet she was found <rs id="t16900903-42-verdict185" type="verdictDescription">
+                     <interp inst="t16900903-42-verdict185" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16900903-42-punish186" type="punishmentDescription">
+                     <interp inst="t16900903-42-punish186" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16900903-42-punish186" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900903-42-defend216 t16900903-42-punish186"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

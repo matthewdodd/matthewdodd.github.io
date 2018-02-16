@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-37">
+               <interp inst="t17350226-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-37" type="year" value="1735"></interp>
+               <interp inst="t17350226-37" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-37" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-37-off188-c178" targOrder="Y" targets="t17350226-37-defend274 t17350226-37-off188 t17350226-37-verdict192"></join>
+               <join result="criminalCharge" id="t17350226-37-off189-c179" targOrder="Y" targets="t17350226-37-defend276 t17350226-37-off189 t17350226-37-verdict193"></join>
+         
+               <p>27, 
+               
+                  <persName id="t17350226-37-defend274" type="defendantName">
+                     William 
+                     Cummins 
+                  <interp inst="t17350226-37-defend274" type="surname" value="Cummins"></interp>
+                     <interp inst="t17350226-37-defend274" type="given" value="William"></interp>
+                     <interp inst="t17350226-37-defend274" type="gender" value="male"></interp>
+                  </persName>
+                
+             a Child, and 
+               
+                  <persName id="t17350226-37-defend276" type="defendantName">
+                     Mary 
+                     Cummins 
+                  <interp inst="t17350226-37-defend276" type="surname" value="Cummins"></interp>
+                     <interp inst="t17350226-37-defend276" type="given" value="Mary"></interp>
+                     <interp inst="t17350226-37-defend276" type="gender" value="female"></interp>
+                  </persName>
+                
+             his Mother, were indicted, the <rs id="t17350226-37-deflabel187" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350226-37-defend274 t17350226-37-deflabel187"></join> for <rs id="t17350226-37-off188" type="offenceDescription">
+                     <interp inst="t17350226-37-off188" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350226-37-off188" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twelve Yards of Silver Lace, value 4 l. 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17350226-37-victim278" type="victimName">
+                     John 
+                     Beckwith 
+                  <interp inst="t17350226-37-victim278" type="surname" value="Beckwith"></interp>
+                     <interp inst="t17350226-37-victim278" type="given" value="John"></interp>
+                     <interp inst="t17350226-37-victim278" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and the Mother for <rs id="t17350226-37-off189" type="offenceDescription">
+                     <interp inst="t17350226-37-off189" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350226-37-off189" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same knowing it to be stolen
+            </rs>, <rs id="t17350226-37-cd190" type="crimeDate">Feb. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350226-37-off188 t17350226-37-cd190"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350226-37-off189 t17350226-37-cd190"></join>.</p>
+               <p>It appeared that Will. Cummings was the Prosecutors <rs id="t17350226-37-deflabel191" type="occupation">Errand Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350226-37-defend274 t17350226-37-deflabel191"></join>, and the Lace being mist, he was taken and confest the Fact, and said his Mother enticed him to steal the Lace and received it from him. The Jury found him <rs id="t17350226-37-verdict192" type="verdictDescription">
+                     <interp inst="t17350226-37-verdict192" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17350226-37-verdict192" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs> and <rs id="t17350226-37-verdict193" type="verdictDescription">
+                     <interp inst="t17350226-37-verdict193" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> his Mother.</p>
+               <p>
+                  <rs id="t17350226-37-punish194" type="punishmentDescription">
+                     <interp inst="t17350226-37-punish194" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350226-37-defend274 t17350226-37-punish194"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17470909-14">
+               <interp inst="t17470909-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17470909-14" type="year" value="1747"></interp>
+               <interp inst="t17470909-14" type="uri" value="sessionsPapers/17470909"></interp>
+               <interp inst="t17470909-14" type="date" value="17470909"></interp>
+               <join result="criminalCharge" id="t17470909-14-off61-c108" targOrder="Y" targets="t17470909-14-defend128 t17470909-14-off61 t17470909-14-verdict63"></join>
+         
+               <p>327 
+               <persName id="t17470909-14-defend128" type="defendantName">
+                  John 
+                  Bareclift 
+               <interp inst="t17470909-14-defend128" type="surname" value="Bareclift"></interp>
+                     <interp inst="t17470909-14-defend128" type="given" value="John"></interp>
+                     <interp inst="t17470909-14-defend128" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17470909-14-off61" type="offenceDescription">
+                     <interp inst="t17470909-14-off61" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17470909-14-off61" type="offenceSubcategory" value="other"></interp>
+               stealing three P of Hops
+            </rs>, the Property of 
+               
+                  <persName id="t17470909-14-victim130" type="victimName">
+                     John 
+                     Thompson 
+                  <interp inst="t17470909-14-victim130" type="surname" value="Thompson"></interp>
+                     <interp inst="t17470909-14-victim130" type="given" value="John"></interp>
+                     <interp inst="t17470909-14-victim130" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17470909-14-off61 t17470909-14-victim130"></join>
+                  </persName>
+                
+            . <rs id="t17470909-14-cd62" type="crimeDate">Jan the 4th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17470909-14-off61 t17470909-14-cd62"></join>.</p>
+               <p>These Hops were consigned to Mr Stephens in the Borough. They were sent by the Melton The Prisoner sold these three Bags of Hops to Mr 
+               <persName id="t17470909-14-person131">
+                  John 
+                  Hiam 
+               <interp inst="t17470909-14-person131" type="surname" value="Hiam"></interp>
+                     <interp inst="t17470909-14-person131" type="given" value="John"></interp>
+                     <interp inst="t17470909-14-person131" type="gender" value="male"></interp>
+                  </persName>
+             in Smithfield, and had alter'd the Marks of the Bags. Mr Hiam appear'd in Court, and prov'd the Fact upon him very fully, which made the Prisoner <rs id="t17470909-14-verdict63" type="verdictDescription">
+                     <interp inst="t17470909-14-verdict63" type="verdictCategory" value="notGuilty"></interp>
+               gladly accept of his Majesty's Act of Grace
+            </rs>.</p>
+            </div1>

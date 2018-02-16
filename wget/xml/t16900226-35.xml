@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-35">
+               <interp inst="t16900226-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-35" type="year" value="1690"></interp>
+               <interp inst="t16900226-35" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-35" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-35-off146-c116" targOrder="Y" targets="t16900226-35-defend116 t16900226-35-off146 t16900226-35-verdict150"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16900226004"></xptr>
+            
+                  <persName id="t16900226-35-defend116" type="defendantName">
+                  Richard 
+                  Collins
+               <interp inst="t16900226-35-defend116" type="surname" value="Collins"></interp>
+                     <interp inst="t16900226-35-defend116" type="given" value="Richard"></interp>
+                     <interp inst="t16900226-35-defend116" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16900226-35-off146" type="offenceDescription">
+                     <interp inst="t16900226-35-off146" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900226-35-off146" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the house of <rs id="t16900226-35-viclabel147" type="occupation">Don</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900226-35-victim117 t16900226-35-viclabel147"></join> 
+                  
+                     <persName id="t16900226-35-victim117" type="victimName">
+                        Pedro Don Quillo
+                     <interp inst="t16900226-35-victim117" type="surname" value="Quillo"></interp>
+                        <interp inst="t16900226-35-victim117" type="given" value="Pedro"></interp>
+                        <interp inst="t16900226-35-victim117" type="gender" value="male"></interp>
+                     </persName>
+                   the <rs id="t16900226-35-viclabel148" type="occupation">Spanish Ambassador</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900226-35-victim117 t16900226-35-viclabel148"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900226-35-victim118 t16900226-35-viclabel148"></join>, on the <rs id="t16900226-35-cd149" type="crimeDate">12th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-35-off146 t16900226-35-cd149"></join>, 1688, and taking away 15 Guyneas, value 16 l. 2s. and 6d. 8 pieces of other Gold, value 9l. 8s. 800 Guyneas more, value 844 l. and Fourscore Pound in Money, the Money of one 
+                     <persName id="t16900226-35-victim118" type="victimName">
+                        Jasper 
+                        Leronso
+                     <interp inst="t16900226-35-victim118" type="surname" value="Leronso"></interp>
+                        <interp inst="t16900226-35-victim118" type="given" value="Jasper"></interp>
+                        <interp inst="t16900226-35-victim118" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>. The Evidence seemed to be very circumstantial, and Leronso was out of the way; and he had the Money in the time when the house was Ransackt, and no one could prove any matter upon him, so he was <rs id="t16900226-35-verdict150" type="verdictDescription">
+                     <interp inst="t16900226-35-verdict150" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+            </div1>

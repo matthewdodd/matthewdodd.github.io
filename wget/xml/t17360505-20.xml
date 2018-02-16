@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-20">
+               <interp inst="t17360505-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-20" type="year" value="1736"></interp>
+               <interp inst="t17360505-20" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-20" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-20-off111-c104" targOrder="Y" targets="t17360505-20-defend146 t17360505-20-off111 t17360505-20-verdict113"></join>
+         
+               <p>22. 
+               
+                  <persName id="t17360505-20-defend146" type="defendantName">
+                     Mary 
+                     Hooper 
+                  <interp inst="t17360505-20-defend146" type="surname" value="Hooper"></interp>
+                     <interp inst="t17360505-20-defend146" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-20-defend146" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360505-20-defloc110">St. Margarets New Fish-Street</placeName>
+                  <interp inst="t17360505-20-defloc110" type="placeName" value="St. Margarets New Fish-Street"></interp>
+                  <interp inst="t17360505-20-defloc110" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-20-defend146 t17360505-20-defloc110"></join>, was indicted for <rs id="t17360505-20-off111" type="offenceDescription">
+                     <interp inst="t17360505-20-off111" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-20-off111" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Tea-spoon value 12 d. and two silk Handkerchiefs
+            </rs>, the Goods of 
+               
+                  <persName id="t17360505-20-victim148" type="victimName">
+                     Robert 
+                     Sladen 
+                  <interp inst="t17360505-20-victim148" type="surname" value="Sladen"></interp>
+                     <interp inst="t17360505-20-victim148" type="given" value="Robert"></interp>
+                     <interp inst="t17360505-20-victim148" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360505-20-off111 t17360505-20-victim148"></join>
+                  </persName>
+                
+            , on the <rs id="t17360505-20-cd112" type="crimeDate">30th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-20-off111 t17360505-20-cd112"></join>. <rs id="t17360505-20-verdict113" type="verdictDescription">
+                     <interp inst="t17360505-20-verdict113" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

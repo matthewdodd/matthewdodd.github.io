@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440510-43">
+               <interp inst="t17440510-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440510-43" type="year" value="1744"></interp>
+               <interp inst="t17440510-43" type="uri" value="sessionsPapers/17440510"></interp>
+               <interp inst="t17440510-43" type="date" value="17440510"></interp>
+               <join result="criminalCharge" id="t17440510-43-off216-c474" targOrder="Y" targets="t17440510-43-defend565 t17440510-43-off216 t17440510-43-verdict219"></join>
+         
+               <p>294. 
+               
+                  <persName id="t17440510-43-defend565" type="defendantName">
+                     Robert 
+                     Ker 
+                  <interp inst="t17440510-43-defend565" type="surname" value="Ker"></interp>
+                     <interp inst="t17440510-43-defend565" type="given" value="Robert"></interp>
+                     <interp inst="t17440510-43-defend565" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440510-43-defloc215">St. Mary le Strand</placeName>
+                  <interp inst="t17440510-43-defloc215" type="placeName" value="St. Mary le Strand"></interp>
+                  <interp inst="t17440510-43-defloc215" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440510-43-defend565 t17440510-43-defloc215"></join>, was indicted for <rs id="t17440510-43-off216" type="offenceDescription">
+                     <interp inst="t17440510-43-off216" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440510-43-off216" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six volumes of Shakespear's works, value 15 s. two volumes of Otway's plays, value 2 s. two volumes of Prior's poems, value 2 s. 6 d.
+            </rs> the goods of 
+               
+                  <persName id="t17440510-43-victim567" type="victimName">
+                     Thomas 
+                     Wright 
+                  <interp inst="t17440510-43-victim567" type="surname" value="Wright"></interp>
+                     <interp inst="t17440510-43-victim567" type="given" value="Thomas"></interp>
+                     <interp inst="t17440510-43-victim567" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440510-43-off216 t17440510-43-victim567"></join>
+                  </persName>
+                
+            , <rs id="t17440510-43-cd217" type="crimeDate">April 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440510-43-off216 t17440510-43-cd217"></join>.</p>
+               <p>Mr. Wright deposed that he <rs id="t17440510-43-viclabel218" type="occupation">keeps a library to lend out books to gentlemen by subscription to read</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17440510-43-victim567 t17440510-43-viclabel218"></join>, that the Prisoner used to come for books from one of the subscriber, that he accidentally met with two volumes of Otway's plays at Mr. 
+               <persName id="t17440510-43-person568">
+                  George 
+                  Paine 
+               <interp inst="t17440510-43-person568" type="surname" value="Paine"></interp>
+                     <interp inst="t17440510-43-person568" type="given" value="George"></interp>
+                     <interp inst="t17440510-43-person568" type="gender" value="male"></interp>
+                  </persName>
+            's in Holborn, which he had bought of the Prisoner, and some of Shakespear's works, &amp;c.</p>
+               <p>
+            
+                  <persName id="t17440510-43-person569">
+                  George 
+                  Paine 
+               <interp inst="t17440510-43-person569" type="surname" value="Paine"></interp>
+                     <interp inst="t17440510-43-person569" type="given" value="George"></interp>
+                     <interp inst="t17440510-43-person569" type="gender" value="male"></interp>
+                  </persName>
+             proved the buying Otway's plays of the Prisoner, and three volumes of Shakespear's works at one time, and two at another time.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174405100040"></xptr>
+            
+                  <persName id="t17440510-43-person570">
+                  Henry 
+                  Ward 
+               <interp inst="t17440510-43-person570" type="surname" value="Ward"></interp>
+                     <interp inst="t17440510-43-person570" type="given" value="Henry"></interp>
+                     <interp inst="t17440510-43-person570" type="gender" value="male"></interp>
+                  </persName>
+             deposed that these volumes of Shakespear were never lent to him out of the library. <rs id="t17440510-43-verdict219" type="verdictDescription">
+                     <interp inst="t17440510-43-verdict219" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17440510-43-punish220" type="punishmentDescription">
+                     <interp inst="t17440510-43-punish220" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17440510-43-punish220" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440510-43-defend565 t17440510-43-punish220"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

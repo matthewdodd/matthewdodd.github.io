@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640113-19">
+               <interp inst="t17640113-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640113-19" type="year" value="1764"></interp>
+               <interp inst="t17640113-19" type="uri" value="sessionsPapers/17640113"></interp>
+               <interp inst="t17640113-19" type="date" value="17640113"></interp>
+               <join result="criminalCharge" id="t17640113-19-off104-c161" targOrder="Y" targets="t17640113-19-defend195 t17640113-19-off104 t17640113-19-verdict106"></join>
+         
+               <p>87. (M.) 
+               
+                  <persName id="t17640113-19-defend195" type="defendantName">
+                     Sarah 
+                     Smith 
+                  <interp inst="t17640113-19-defend195" type="surname" value="Smith"></interp>
+                     <interp inst="t17640113-19-defend195" type="given" value="Sarah"></interp>
+                     <interp inst="t17640113-19-defend195" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17640113-19-deflabel103" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640113-19-defend195 t17640113-19-deflabel103"></join>, was indicted for <rs id="t17640113-19-off104" type="offenceDescription">
+                     <interp inst="t17640113-19-off104" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640113-19-off104" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one pair of linnen sheets, value 6 s. one copper tea-kettle, one brass candlestick, and one flat iron, the property of 
+                     
+                        <persName id="t17640113-19-victim197" type="victimName">
+                           William 
+                           Patrick 
+                        <interp inst="t17640113-19-victim197" type="surname" value="Patrick"></interp>
+                        <interp inst="t17640113-19-victim197" type="given" value="William"></interp>
+                        <interp inst="t17640113-19-victim197" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17640113-19-off104 t17640113-19-victim197"></join>
+                     </persName>
+                      
+                  , in her ready furnished lodgings
+            </rs>, <rs id="t17640113-19-cd105" type="crimeDate">December 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640113-19-off104 t17640113-19-cd105"></join>. ||</p>
+               <p>
+                  <rs id="t17640113-19-verdict106" type="verdictDescription">
+                     <interp inst="t17640113-19-verdict106" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640113-19-punish107" type="punishmentDescription">
+                     <interp inst="t17640113-19-punish107" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640113-19-defend195 t17640113-19-punish107"></join>
+               T
+            </rs>.</p>
+            </div1>

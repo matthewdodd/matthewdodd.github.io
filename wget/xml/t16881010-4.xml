@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16881010-4">
+               <interp inst="t16881010-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t16881010-4" type="year" value="1688"></interp>
+               <interp inst="t16881010-4" type="uri" value="sessionsPapers/16881010"></interp>
+               <interp inst="t16881010-4" type="date" value="16881010"></interp>
+               <join result="criminalCharge" id="t16881010-4-off18-c33" targOrder="Y" targets="t16881010-4-defend40 t16881010-4-off18 t16881010-4-verdict21"></join>
+               <join result="criminalCharge" id="t16881010-4-off18-c34" targOrder="Y" targets="t16881010-4-defend42 t16881010-4-off18 t16881010-4-verdict22"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16881010-4-defend40" type="defendantName">
+                     Henry 
+                     Jeane
+                  <interp inst="t16881010-4-defend40" type="surname" value="Jeane"></interp>
+                     <interp inst="t16881010-4-defend40" type="given" value="Henry"></interp>
+                     <interp inst="t16881010-4-defend40" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t16881010-4-defloc16">St. Clement's Danes</placeName>
+                  <interp inst="t16881010-4-defloc16" type="placeName" value="St. Clement's Danes"></interp>
+                  <interp inst="t16881010-4-defloc16" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16881010-4-defend40 t16881010-4-defloc16"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16881010-4-defend42 t16881010-4-defloc16"></join> 
+                  <rs id="t16881010-4-deflabel17" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16881010-4-defend40 t16881010-4-deflabel17"></join> and 
+               
+                  <persName id="t16881010-4-defend42" type="defendantName">
+                     Ann 
+                     Crisp
+                  <interp inst="t16881010-4-defend42" type="surname" value="Crisp"></interp>
+                     <interp inst="t16881010-4-defend42" type="given" value="Ann"></interp>
+                     <interp inst="t16881010-4-defend42" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were Indicted, <rs id="t16881010-4-off18" type="offenceDescription">
+                     <interp inst="t16881010-4-off18" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16881010-4-off18" type="offenceSubcategory" value="murder"></interp>
+               Jeane as Principal, and Crisp as Accessory, for willfully Murthering 
+                     
+                        <persName id="t16881010-4-victim44" type="victimName">
+                           Samuel 
+                           Moore
+                        <interp inst="t16881010-4-victim44" type="surname" value="Moore"></interp>
+                        <interp inst="t16881010-4-victim44" type="given" value="Samuel"></interp>
+                        <interp inst="t16881010-4-victim44" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16881010-4-off18 t16881010-4-victim44"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16881010-4-cd19" type="crimeDate">20th. day of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16881010-4-off18 t16881010-4-cd19"></join> in the <placeName id="t16881010-4-crimeloc20">Strand</placeName>
+                     <interp inst="t16881010-4-crimeloc20" type="placeName" value="Strand"></interp>
+                     <interp inst="t16881010-4-crimeloc20" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16881010-4-off18 t16881010-4-crimeloc20"></join>, at a House near the Thames side
+            </rs>. It appeared upon the Evidence that the Prisoners being at the House of the Deceased at Anny-seed Cleer, there was a Quarrel arose between Moore and Mr. Jeane, and the Prisoner Crisp, about a Naked Bitch that the Deceased had of the Prisoners, which was lost; and the Prisoners were heard to threaten the Deceased that they would have his Blood, or the like: Some time after the Prisoner Jeane and the Deceased happened to meet in the Strand, and there they Quarreled afresh, and Mr. Jeane was seen to give the Deceased one Mortal Wound, of the depth of seven Inches; and that the Deceased was not seen to strike Mr. Jeane, &amp;c. Although Mr. Jeane called several Witnesses, who declared that the Deceased and another Man a Black-a-More, were seen to strike Mr. Jeane the Prisoner several Blows, and that he stood and retired in his own Defence, being set upon by them as aforesaid. But Jeane had no Bruises nor Wounds about him to satisfie the Court that he was hurt: Besides the Chirurgeon declared in Court that the Deceased Died of the Wound that he received. So upon a very full and distinct hearing on both sides, Jeane was found <rs id="t16881010-4-verdict21" type="verdictDescription">
+                     <interp inst="t16881010-4-verdict21" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16881010-4-verdict21" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>, but the Woman was <rs id="t16881010-4-verdict22" type="verdictDescription">
+                     <interp inst="t16881010-4-verdict22" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

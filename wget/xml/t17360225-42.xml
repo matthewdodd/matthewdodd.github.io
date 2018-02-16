@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-42">
+               <interp inst="t17360225-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-42" type="year" value="1736"></interp>
+               <interp inst="t17360225-42" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-42" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-42-off252-c200" targOrder="Y" targets="t17360225-42-defend289 t17360225-42-off252 t17360225-42-verdict254"></join>
+         
+               <p>55. 
+               
+                  <persName id="t17360225-42-defend289" type="defendantName">
+                     William 
+                     Howard 
+                  <interp inst="t17360225-42-defend289" type="surname" value="Howard"></interp>
+                     <interp inst="t17360225-42-defend289" type="given" value="William"></interp>
+                     <interp inst="t17360225-42-defend289" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t17360225-42-defloc251">Stepney</placeName>
+                  <interp inst="t17360225-42-defloc251" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17360225-42-defloc251" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-42-defend289 t17360225-42-defloc251"></join>, was indicted for <rs id="t17360225-42-off252" type="offenceDescription">
+                     <interp inst="t17360225-42-off252" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17360225-42-off252" type="offenceSubcategory" value="robbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17360225-42-victim291" type="victimName">
+                           Isaac 
+                           Gates 
+                        <interp inst="t17360225-42-victim291" type="surname" value="Gates"></interp>
+                        <interp inst="t17360225-42-victim291" type="given" value="Isaac"></interp>
+                        <interp inst="t17360225-42-victim291" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360225-42-off252 t17360225-42-victim291"></join>
+                     </persName>
+                      
+                  , putting him in fear, and taking from him 9d. in Money
+            </rs>, <rs id="t17360225-42-cd253" type="crimeDate">December 26th.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-42-off252 t17360225-42-cd253"></join> 
+                  <rs id="t17360225-42-verdict254" type="verdictDescription">
+                     <interp inst="t17360225-42-verdict254" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

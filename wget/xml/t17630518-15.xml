@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630518-15">
+               <interp inst="t17630518-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630518-15" type="year" value="1763"></interp>
+               <interp inst="t17630518-15" type="uri" value="sessionsPapers/17630518"></interp>
+               <interp inst="t17630518-15" type="date" value="17630518"></interp>
+               <join result="criminalCharge" id="t17630518-15-off87-c130" targOrder="Y" targets="t17630518-15-defend160 t17630518-15-off87 t17630518-15-verdict91"></join>
+         
+               <p>214. (M.) 
+               
+                  <persName id="t17630518-15-defend160" type="defendantName">
+                     Richard 
+                     Fuller 
+                  <interp inst="t17630518-15-defend160" type="surname" value="Fuller"></interp>
+                     <interp inst="t17630518-15-defend160" type="given" value="Richard"></interp>
+                     <interp inst="t17630518-15-defend160" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17630518-15-off87" type="offenceDescription">
+                     <interp inst="t17630518-15-off87" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630518-15-off87" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pannel saw, val. 4 s.
+            </rs> the property of 
+               
+                  <persName id="t17630518-15-victim162" type="victimName">
+                     George 
+                     Rose 
+                  <interp inst="t17630518-15-victim162" type="surname" value="Rose"></interp>
+                     <interp inst="t17630518-15-victim162" type="given" value="George"></interp>
+                     <interp inst="t17630518-15-victim162" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630518-15-off87 t17630518-15-victim162"></join>
+                  </persName>
+                
+            , <rs id="t17630518-15-cd88" type="crimeDate">May 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630518-15-off87 t17630518-15-cd88"></join>. ++</p>
+               <p>The prisoner was seen to go out from a house where the prosecutor, a <rs id="t17630518-15-viclabel89" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17630518-15-victim162 t17630518-15-viclabel89"></join>, was doing business; he was followed, and a hand saw found in his custody the property of the prosecutor.</p>
+               <p>The prisoner, in his defence, said, he came to borrow a saw, as he knew the prosecutor, to do a small job, and seeing nobody there, took it, with intent, when he had done his job, to bring it again.</p>
+               <p>The prosecutor, upon being asked, said, had he asked him to lend him a saw, he should have lent him one. That he had known him almost four years to be a <rs id="t17630518-15-deflabel90" type="occupation">journeyman-carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17630518-15-defend160 t17630518-15-deflabel90"></join>, of whose character he never heard any complaint, and that he was inclinable to thing favourable of him in this affair.</p>
+               <p>
+            
+                  <persName id="t17630518-15-person163">
+                  John 
+                  Taylor 
+               <interp inst="t17630518-15-person163" type="surname" value="Taylor"></interp>
+                     <interp inst="t17630518-15-person163" type="given" value="John"></interp>
+                     <interp inst="t17630518-15-person163" type="gender" value="male"></interp>
+                  </persName>
+            , a breeches-maker, and 
+               <persName id="t17630518-15-person164">
+                  Benjamin 
+                  Lambert 
+               <interp inst="t17630518-15-person164" type="surname" value="Lambert"></interp>
+                     <interp inst="t17630518-15-person164" type="given" value="Benjamin"></interp>
+                     <interp inst="t17630518-15-person164" type="gender" value="male"></interp>
+                  </persName>
+            , a peruks-maker, who had known him some years, gave him the character of a sober industrious man.</p>
+               <p>
+                  <rs id="t17630518-15-verdict91" type="verdictDescription">
+                     <interp inst="t17630518-15-verdict91" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

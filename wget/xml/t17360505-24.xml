@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-24">
+               <interp inst="t17360505-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-24" type="year" value="1736"></interp>
+               <interp inst="t17360505-24" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-24" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-24-off134-c118" targOrder="Y" targets="t17360505-24-defend169 t17360505-24-off134 t17360505-24-verdict136"></join>
+         
+               <p>27. 
+               
+                  <persName id="t17360505-24-defend169" type="defendantName">
+                     Thomas 
+                     Lyell 
+                  <interp inst="t17360505-24-defend169" type="surname" value="Lyell"></interp>
+                     <interp inst="t17360505-24-defend169" type="given" value="Thomas"></interp>
+                     <interp inst="t17360505-24-defend169" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360505-24-defloc133">St. Martin in the Fields</placeName>
+                  <interp inst="t17360505-24-defloc133" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17360505-24-defloc133" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-24-defend169 t17360505-24-defloc133"></join>, was indicted for <rs id="t17360505-24-off134" type="offenceDescription">
+                     <interp inst="t17360505-24-off134" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-24-off134" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Peruke, value 10s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360505-24-victim171" type="victimName">
+                     William 
+                     Gray 
+                  <interp inst="t17360505-24-victim171" type="surname" value="Gray"></interp>
+                     <interp inst="t17360505-24-victim171" type="given" value="William"></interp>
+                     <interp inst="t17360505-24-victim171" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360505-24-off134 t17360505-24-victim171"></join>
+                  </persName>
+                
+            , the <rs id="t17360505-24-cd135" type="crimeDate">20th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-24-off134 t17360505-24-cd135"></join>.</p>
+               <p>
+            
+                  <persName id="t17360505-24-person172">
+                  Mary 
+                  Wellsted 
+               <interp inst="t17360505-24-person172" type="surname" value="Wellsted"></interp>
+                     <interp inst="t17360505-24-person172" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-24-person172" type="gender" value="female"></interp>
+                  </persName>
+            . The Wig was the Property of Mr. Gray: I had borrowed it, and it was stolen from my Apartment. I made my Complaint to a Gentlewoman, who went with me to the Peruke-maker, and he told me the Prisoner had brought him a Wig to be buckled, which prov'd to be the same that I lost; and he confessed he took it before all the Watchmen when he was taken up</p>
+               <p>
+            
+                  <persName id="t17360505-24-person173">
+                  John 
+                  Harrison 
+               <interp inst="t17360505-24-person173" type="surname" value="Harrison"></interp>
+                     <interp inst="t17360505-24-person173" type="given" value="John"></interp>
+                     <interp inst="t17360505-24-person173" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner brought the Wig to me, and desired I would buckle it for him, and let it lie at my Shop, till he should call for it: When this Gentlewoman came to my Shop, I shewed her the Wig, and she own'd it: The Prisoner at first said it was given him, but afterwards he owned he took it from the Bannisters of the Stairs. <rs id="t17360505-24-verdict136" type="verdictDescription">
+                     <interp inst="t17360505-24-verdict136" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

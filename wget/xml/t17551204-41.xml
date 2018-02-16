@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17551204-41">
+               <interp inst="t17551204-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17551204-41" type="year" value="1755"></interp>
+               <interp inst="t17551204-41" type="uri" value="sessionsPapers/17551204"></interp>
+               <interp inst="t17551204-41" type="date" value="17551204"></interp>
+               <join result="criminalCharge" id="t17551204-41-off220-c405" targOrder="Y" targets="t17551204-41-defend472 t17551204-41-off220 t17551204-41-verdict222"></join>
+         
+               <p>49. (M.) 
+               <persName id="t17551204-41-defend472" type="defendantName">
+                  Sarah, <rs id="t17551204-41-deflabel219" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17551204-41-defend472 t17551204-41-deflabel219"></join> of Jos. Hobey<interp inst="t17551204-41-defend472" type="given" value="Sarah"></interp>
+                     <interp inst="t17551204-41-defend472" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17551204-41-off220" type="offenceDescription">
+                     <interp inst="t17551204-41-off220" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17551204-41-off220" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 pewter plates, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17551204-41-victim474" type="victimName">
+                     John 
+                     Velton 
+                  <interp inst="t17551204-41-victim474" type="surname" value="Velton"></interp>
+                     <interp inst="t17551204-41-victim474" type="given" value="John"></interp>
+                     <interp inst="t17551204-41-victim474" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17551204-41-off220 t17551204-41-victim474"></join>
+                  </persName>
+                
+            , <rs id="t17551204-41-cd221" type="crimeDate">December 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17551204-41-off220 t17551204-41-cd221"></join>.</p>
+               <p>+ <rs id="t17551204-41-verdict222" type="verdictDescription">
+                     <interp inst="t17551204-41-verdict222" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17551204-41-verdict222" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17551204-41-punish223" type="punishmentDescription">
+                     <interp inst="t17551204-41-punish223" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17551204-41-punish223" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17551204-41-defend472 t17551204-41-punish223"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

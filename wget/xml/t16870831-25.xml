@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-25">
+               <interp inst="t16870831-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-25" type="year" value="1687"></interp>
+               <interp inst="t16870831-25" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-25" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-25-off126-c97" targOrder="Y" targets="t16870831-25-defend133 t16870831-25-off126 t16870831-25-verdict130"></join>
+               <join result="criminalCharge" id="t16870831-25-off126-c98" targOrder="Y" targets="t16870831-25-defend135 t16870831-25-off126 t16870831-25-verdict130"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870831-25-defend133" type="defendantName">
+                     Peter 
+                     Minchal
+                  <interp inst="t16870831-25-defend133" type="surname" value="Minchal"></interp>
+                     <interp inst="t16870831-25-defend133" type="given" value="Peter"></interp>
+                     <interp inst="t16870831-25-defend133" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16870831-25-defend135" type="defendantName">
+                     George 
+                     Stockwell
+                  <interp inst="t16870831-25-defend135" type="surname" value="Stockwell"></interp>
+                     <interp inst="t16870831-25-defend135" type="given" value="George"></interp>
+                     <interp inst="t16870831-25-defend135" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Tryed for <rs id="t16870831-25-off126" type="offenceDescription">
+                     <interp inst="t16870831-25-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870831-25-off126" type="offenceSubcategory" value="housebreaking"></interp>
+               stealing an Embroidered Housing, a pair of Holster Caps, and 100 Ounces of Silver, from <rs id="t16870831-25-viclabel127" type="occupation">Sir</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870831-25-victim136 t16870831-25-viclabel127"></join> 
+                  
+                     <persName id="t16870831-25-victim136" type="victimName">
+                        Bevil 
+                        Greenvil
+                     <interp inst="t16870831-25-victim136" type="surname" value="Greenvil"></interp>
+                        <interp inst="t16870831-25-victim136" type="given" value="Bevil"></interp>
+                        <interp inst="t16870831-25-victim136" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-25-off126 t16870831-25-victim136"></join>
+                     </persName>
+                  , in the Parish of Heston, on the <rs id="t16870831-25-cd128" type="crimeDate">29th, of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-25-off126 t16870831-25-cd128"></join>; upon Tryal it appeared that Sir Bevil's Stable in the Camp time on <placeName id="t16870831-25-crimeloc129">Hounslow Heath</placeName>
+                     <interp inst="t16870831-25-crimeloc129" type="placeName" value="Hounslow Heath"></interp>
+                     <interp inst="t16870831-25-crimeloc129" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870831-25-off126 t16870831-25-crimeloc129"></join> being broken open
+            </rs>, and the Goods mentioned taken thence, Stockwell was Apprehended in Kings-street, Westminster as a Suspitious person, and upon search, part of the Silver found about him, and soon after it was discovered where he and his Companion had disposed of the Embroidered Housing and Holster-Caps to a Taylor in Truck for Cloaths, to which they Pleaded that they did not steal them, but had them of two Souldiers they met coming from Hounslow, but not being able to make it appear, they were found <rs id="t16870831-25-verdict130" type="verdictDescription">
+                     <interp inst="t16870831-25-verdict130" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870831-25-verdict130" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty, yet of the Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t16870831-25-punish131" type="punishmentDescription">
+                     <interp inst="t16870831-25-punish131" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-25-defend133 t16870831-25-punish131"></join>
+               
+                     <note>[Minchal: Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16870831-25-punish132" type="punishmentDescription">
+                     <interp inst="t16870831-25-punish132" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870831-25-punish132" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-25-defend135 t16870831-25-punish132"></join>
+               
+                     <note>[Stockwell: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

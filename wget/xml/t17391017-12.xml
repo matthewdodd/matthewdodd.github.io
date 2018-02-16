@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391017-12">
+               <interp inst="t17391017-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391017-12" type="year" value="1739"></interp>
+               <interp inst="t17391017-12" type="uri" value="sessionsPapers/17391017"></interp>
+               <interp inst="t17391017-12" type="date" value="17391017"></interp>
+               <join result="criminalCharge" id="t17391017-12-off52-c102" targOrder="Y" targets="t17391017-12-defend126 t17391017-12-off52 t17391017-12-verdict56"></join>
+         
+               <p>501. 
+               
+                  <persName id="t17391017-12-defend126" type="defendantName">
+                     Mary 
+                     Laurence 
+                  <interp inst="t17391017-12-defend126" type="surname" value="Laurence"></interp>
+                     <interp inst="t17391017-12-defend126" type="given" value="Mary"></interp>
+                     <interp inst="t17391017-12-defend126" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17391017-12-off52" type="offenceDescription">
+                     <interp inst="t17391017-12-off52" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391017-12-off52" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Silk Gown, a Calimanco Gown, a Camblet Riding Habit, and several other Things, the Property of 
+                     
+                        <persName id="t17391017-12-victim128" type="victimName">
+                           Edward 
+                           Raper 
+                        <interp inst="t17391017-12-victim128" type="surname" value="Raper"></interp>
+                        <interp inst="t17391017-12-victim128" type="given" value="Edward"></interp>
+                        <interp inst="t17391017-12-victim128" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17391017-12-off52 t17391017-12-victim128"></join>
+                     </persName>
+                      
+                  , in the Dwelling house of 
+                     <persName id="t17391017-12-person129">
+                        Ambrose 
+                        Steed 
+                     <interp inst="t17391017-12-person129" type="surname" value="Steed"></interp>
+                        <interp inst="t17391017-12-person129" type="given" value="Ambrose"></interp>
+                        <interp inst="t17391017-12-person129" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17391017-12-cd53" type="crimeDate">Sept. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391017-12-off52 t17391017-12-cd53"></join>.</p>
+               <p>It appeared from the Evidence, That Mr. Raper's Wife came out of the Country, and took a Lodging at Steed's House, the <placeName id="t17391017-12-crimeloc54">Royal Oak in Newport-street</placeName>
+                  <interp inst="t17391017-12-crimeloc54" type="placeName" value="Royal Oak in Newport-street"></interp>
+                  <interp inst="t17391017-12-crimeloc54" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17391017-12-off52 t17391017-12-crimeloc54"></join>. That the Prisoner was Steed's <rs id="t17391017-12-deflabel55" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17391017-12-defend126 t17391017-12-deflabel55"></join>, and used to make the Prosecutrix's Bed; who missing her Goods out of the Room, after the Prisoner had been there an unusual time, she was tax'd with taking them, and confess'd the Fact; acknowledging, that at the Instigation of one 
+               <persName id="t17391017-12-person130">
+                  Paul 
+                  King 
+               <interp inst="t17391017-12-person130" type="surname" value="King"></interp>
+                     <interp inst="t17391017-12-person130" type="given" value="Paul"></interp>
+                     <interp inst="t17391017-12-person130" type="gender" value="male"></interp>
+                  </persName>
+            , she had thrown all the Things to him out of the Windows in the Prosecutrix's Room. <rs id="t17391017-12-verdict56" type="verdictDescription">
+                     <interp inst="t17391017-12-verdict56" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17391017-12-verdict56" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty, 39 s.
+            </rs>
+               </p>
+            </div1>

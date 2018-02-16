@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910708-21">
+               <interp inst="t16910708-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910708-21" type="year" value="1691"></interp>
+               <interp inst="t16910708-21" type="uri" value="sessionsPapers/16910708"></interp>
+               <interp inst="t16910708-21" type="date" value="16910708"></interp>
+               <join result="criminalCharge" id="t16910708-21-off86-c50" targOrder="Y" targets="t16910708-21-defend50 t16910708-21-off86 t16910708-21-verdict88"></join>
+               <join result="criminalCharge" id="t16910708-21-off86-c51" targOrder="Y" targets="t16910708-21-defend51 t16910708-21-off86 t16910708-21-verdict88"></join>
+         
+               <p>
+            
+                  <persName id="t16910708-21-defend50" type="defendantName">
+                  Mary 
+                  Stretch
+               <interp inst="t16910708-21-defend50" type="surname" value="Stretch"></interp>
+                     <interp inst="t16910708-21-defend50" type="given" value="Mary"></interp>
+                     <interp inst="t16910708-21-defend50" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16910708-21-defend51" type="defendantName">
+                  Katherine 
+                  Seymor
+               <interp inst="t16910708-21-defend51" type="surname" value="Seymor"></interp>
+                     <interp inst="t16910708-21-defend51" type="given" value="Katherine"></interp>
+                     <interp inst="t16910708-21-defend51" type="gender" value="female"></interp>
+                  </persName>
+            , were Tryed for <rs id="t16910708-21-off86" type="offenceDescription">
+                     <interp inst="t16910708-21-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910708-21-off86" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910708-21-victim52" type="victimName">
+                        William 
+                        Smith
+                     <interp inst="t16910708-21-victim52" type="surname" value="Smith"></interp>
+                        <interp inst="t16910708-21-victim52" type="given" value="William"></interp>
+                        <interp inst="t16910708-21-victim52" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910708-21-off86 t16910708-21-victim52"></join>
+                     </persName>
+                  , on the <rs id="t16910708-21-cd87" type="crimeDate">25th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910708-21-off86 t16910708-21-cd87"></join> last, a Serge pettycoat, value 40 s. a Sattin Mantua Gown, value 4 l. with other Goods, &amp;c.
+            </rs> It was sworn, That some of the Goods were found upon them, and they changed their Names, after they were gone from their Lodging. They could not deny it, so they were found <rs id="t16910708-21-verdict88" type="verdictDescription">
+                     <interp inst="t16910708-21-verdict88" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16910708-21-punish89" type="punishmentDescription">
+                     <interp inst="t16910708-21-punish89" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910708-21-defend50 t16910708-21-punish89"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910708-21-defend51 t16910708-21-punish89"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

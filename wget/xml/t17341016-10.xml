@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341016-10">
+               <interp inst="t17341016-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341016-10" type="year" value="1734"></interp>
+               <interp inst="t17341016-10" type="uri" value="sessionsPapers/17341016"></interp>
+               <interp inst="t17341016-10" type="date" value="17341016"></interp>
+               <join result="criminalCharge" id="t17341016-10-off55-c87" targOrder="Y" targets="t17341016-10-defend111 t17341016-10-off55 t17341016-10-verdict59"></join>
+         
+               <p>10. 
+               
+                  <persName id="t17341016-10-defend111" type="defendantName">
+                     Elizabeth 
+                     Williams 
+                  <interp inst="t17341016-10-defend111" type="surname" value="Williams"></interp>
+                     <interp inst="t17341016-10-defend111" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17341016-10-defend111" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17341016-10-off55" type="offenceDescription">
+                     <interp inst="t17341016-10-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17341016-10-off55" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 9 Plates, value 3 s. 2 Napkins, and 2 Knives
+            </rs>, the Goods of 
+               
+                  <persName id="t17341016-10-victim113" type="victimName">
+                     Abraham 
+                     Francia 
+                  <interp inst="t17341016-10-victim113" type="surname" value="Francia"></interp>
+                     <interp inst="t17341016-10-victim113" type="given" value="Abraham"></interp>
+                     <interp inst="t17341016-10-victim113" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17341016-10-off55 t17341016-10-victim113"></join>
+                  </persName>
+                
+            , <rs id="t17341016-10-cd56" type="crimeDate">October 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341016-10-off55 t17341016-10-cd56"></join>.</p>
+               <p>
+            
+                  <persName id="t17341016-10-person114">
+                  Hugh 
+                  Griffith 
+               <interp inst="t17341016-10-person114" type="surname" value="Griffith"></interp>
+                     <interp inst="t17341016-10-person114" type="given" value="Hugh"></interp>
+                     <interp inst="t17341016-10-person114" type="gender" value="male"></interp>
+                  </persName>
+            . I know the Goods that were taken upon the Prisoner belong to my Master Abraham Francia, who is a <rs id="t17341016-10-viclabel57" type="occupation">Wine Merchant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341016-10-victim113 t17341016-10-viclabel57"></join> in the City, but has a Tavern in <placeName id="t17341016-10-crimeloc58">Westminster</placeName>
+                  <interp inst="t17341016-10-crimeloc58" type="placeName" value="Westminster"></interp>
+                  <interp inst="t17341016-10-crimeloc58" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17341016-10-off55 t17341016-10-crimeloc58"></join>, from whence the good were taken.</p>
+               <p>
+            
+                  <persName id="t17341016-10-person115">
+                  Rosanna 
+                  Turner 
+               <interp inst="t17341016-10-person115" type="surname" value="Turner"></interp>
+                     <interp inst="t17341016-10-person115" type="given" value="Rosanna"></interp>
+                     <interp inst="t17341016-10-person115" type="gender" value="female"></interp>
+                  </persName>
+            . I keep the Valiant-Trooper in Beer-street, Westminster; about 10 a Clock on Sunday Night, the Prisoner came into my House, and ask'd me to lend her some Money. For what? says I, for I had never seen her before. Why upon these Plates, says she. I look'd upon them, and saw they were mark'd with the Three-Tuns, by which I knew they belong'd to the Quaker's Tavern in King-street, Westminster; and thereupon I sent for a Watchman, who apprehended her - Mr. Francia is the Master of that Tavern, but he has put another Man into it.</p>
+               <p>The Jury found her <rs id="t17341016-10-verdict59" type="verdictDescription">
+                     <interp inst="t17341016-10-verdict59" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17341016-10-verdict59" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17341016-10-punish60" type="punishmentDescription">
+                     <interp inst="t17341016-10-punish60" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17341016-10-defend111 t17341016-10-punish60"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

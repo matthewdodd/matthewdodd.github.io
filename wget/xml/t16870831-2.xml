@@ -1,3 +1,117 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-2">
+               <interp inst="t16870831-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-2" type="year" value="1687"></interp>
+               <interp inst="t16870831-2" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-2" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-2-off7-c32" targOrder="Y" targets="t16870831-2-defend32 t16870831-2-off7 t16870831-2-verdict10"></join>
+               <join result="criminalCharge" id="t16870831-2-off7-c33" targOrder="Y" targets="t16870831-2-defend33 t16870831-2-off7 t16870831-2-verdict10"></join>
+               <join result="criminalCharge" id="t16870831-2-off7-c34" targOrder="Y" targets="t16870831-2-defend35 t16870831-2-off7 t16870831-2-verdict10"></join>
+         
+               <p>
+            
+                  <persName id="t16870831-2-defend32" type="defendantName">
+                  John 
+                  Moor
+               <interp inst="t16870831-2-defend32" type="surname" value="Moor"></interp>
+                     <interp inst="t16870831-2-defend32" type="given" value="John"></interp>
+                     <interp inst="t16870831-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16870831-2-defend33" type="defendantName">
+                  Obedia 
+                  Bows
+               <interp inst="t16870831-2-defend33" type="surname" value="Bows"></interp>
+                     <interp inst="t16870831-2-defend33" type="given" value="Obedia"></interp>
+                     <interp inst="t16870831-2-defend33" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16870831-2-defend35" type="defendantName">
+                     Richard 
+                     Baston
+                  <interp inst="t16870831-2-defend35" type="surname" value="Baston"></interp>
+                     <interp inst="t16870831-2-defend35" type="given" value="Richard"></interp>
+                     <interp inst="t16870831-2-defend35" type="gender" value="male"></interp>
+                  </persName>
+               
+            , are Tryed upon an Indictment, for <rs id="t16870831-2-off7" type="offenceDescription">
+                     <interp inst="t16870831-2-off7" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t16870831-2-off7" type="offenceSubcategory" value="riot"></interp>
+               Riotously and Tumulteously assembling with divers others to pull down the house of 
+                     
+                        <persName id="t16870831-2-victim37" type="victimName">
+                           Thomas 
+                           Griffith
+                        <interp inst="t16870831-2-victim37" type="surname" value="Griffith"></interp>
+                        <interp inst="t16870831-2-victim37" type="given" value="Thomas"></interp>
+                        <interp inst="t16870831-2-victim37" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-2-off7 t16870831-2-victim37"></join>
+                     </persName>
+                     
+                   of <placeName id="t16870831-2-crimeloc8">St. Andrews Holbourn</placeName>
+                     <interp inst="t16870831-2-crimeloc8" type="placeName" value="St. Andrews Holbourn"></interp>
+                     <interp inst="t16870831-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870831-2-off7 t16870831-2-crimeloc8"></join> on the <rs id="t16870831-2-cd9" type="crimeDate">17th of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-2-off7 t16870831-2-cd9"></join> last, &amp;c.
+            </rs> Upon Tryal it appeared that they were not only active themselves in opposing the Authority that came to suppress the Tumult and, order; but also industrious in Encouraging others do the like, and by throwing of Brickbats, Stones, at the Constables and Guards, &amp;c. and against Baston it<xptr type="pageFacsimile" doc="16870831002"></xptr>was more particularly proved, that he with the help of others, having wrested a Musquet from one 
+               <persName id="t16870831-2-person38">
+                  Thomas 
+                  Mills
+               <interp inst="t16870831-2-person38" type="surname" value="Mills"></interp>
+                     <interp inst="t16870831-2-person38" type="given" value="Thomas"></interp>
+                     <interp inst="t16870831-2-person38" type="gender" value="male"></interp>
+                  </persName>
+             then in Arms, broke it over his Head, and by the forcible blow knock'd him down, and much wounded him, and none of them being capable of denying they were present at that unhappy disturbance, as being taken on the Spot, they were found <rs id="t16870831-2-verdict10" type="verdictDescription">
+                     <interp inst="t16870831-2-verdict10" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the said Ryot.</p>
+               <p>
+                  <rs id="t16870831-2-punish11" type="punishmentDescription">
+                     <interp inst="t16870831-2-punish11" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870831-2-punish11" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend32 t16870831-2-punish11"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend33 t16870831-2-punish11"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend35 t16870831-2-punish11"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16870831-2-punish12" type="punishmentDescription">
+                     <interp inst="t16870831-2-punish12" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870831-2-punish12" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend32 t16870831-2-punish12"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend33 t16870831-2-punish12"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend35 t16870831-2-punish12"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16870831-2-punish13" type="punishmentDescription">
+                     <interp inst="t16870831-2-punish13" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t16870831-2-punish13" type="punishmentSubcategory" value="hardLabour"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend32 t16870831-2-punish13"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend33 t16870831-2-punish13"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend35 t16870831-2-punish13"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16870831-2-punish14" type="punishmentDescription">
+                     <interp inst="t16870831-2-punish14" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870831-2-punish14" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend32 t16870831-2-punish14"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend33 t16870831-2-punish14"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-2-defend35 t16870831-2-punish14"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

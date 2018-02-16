@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17471014-21">
+               <interp inst="t17471014-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17471014-21" type="year" value="1747"></interp>
+               <interp inst="t17471014-21" type="uri" value="sessionsPapers/17471014"></interp>
+               <interp inst="t17471014-21" type="date" value="17471014"></interp>
+               <join result="criminalCharge" id="t17471014-21-off111-c266" targOrder="Y" targets="t17471014-21-defend303 t17471014-21-off111 t17471014-21-verdict114"></join>
+         
+               <p>405. 
+               
+                  <persName id="t17471014-21-defend303" type="defendantName">
+                     Richard 
+                     Henson 
+                  <interp inst="t17471014-21-defend303" type="surname" value="Henson"></interp>
+                     <interp inst="t17471014-21-defend303" type="given" value="Richard"></interp>
+                     <interp inst="t17471014-21-defend303" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17471014-21-off111" type="offenceDescription">
+                     <interp inst="t17471014-21-off111" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17471014-21-off111" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t17471014-21-cd112" type="crimeDate">8th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17471014-21-off111 t17471014-21-cd112"></join>, in the Parish of <placeName id="t17471014-21-crimeloc113">Hampstead</placeName>
+                     <interp inst="t17471014-21-crimeloc113" type="placeName" value="Hampstead"></interp>
+                     <interp inst="t17471014-21-crimeloc113" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17471014-21-off111 t17471014-21-crimeloc113"></join>,<xptr type="pageFacsimile" doc="174710140035"></xptr> one Linen Sheet value 12 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17471014-21-victim305" type="victimName">
+                     Charles 
+                     Cotton 
+                  <interp inst="t17471014-21-victim305" type="surname" value="Cotton"></interp>
+                     <interp inst="t17471014-21-victim305" type="given" value="Charles"></interp>
+                     <interp inst="t17471014-21-victim305" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17471014-21-off111 t17471014-21-victim305"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+            
+                  <persName id="t17471014-21-person306">
+                  Sarah 
+                  Johnson 
+               <interp inst="t17471014-21-person306" type="surname" value="Johnson"></interp>
+                     <interp inst="t17471014-21-person306" type="given" value="Sarah"></interp>
+                     <interp inst="t17471014-21-person306" type="gender" value="female"></interp>
+                  </persName>
+            . I live in the Parish of Hampstead. I hung this Sheet upon the Hedge the 8th of Sept. It was taken away in the Forenoon; the Prisoner and 
+               <persName id="t17471014-21-person307">
+                  Edward 
+                  Wood 
+               <interp inst="t17471014-21-person307" type="surname" value="Wood"></interp>
+                     <interp inst="t17471014-21-person307" type="given" value="Edward"></interp>
+                     <interp inst="t17471014-21-person307" type="gender" value="male"></interp>
+                  </persName>
+            , another Boy between ten and eleven Years old, they took it wet to London to pawn, but the Pawnbroker would not take it, and they carried it to a Baker's. Wood, the Accomplice, said, that Henson took the Sheet, and he stood to watch; that they brought it to Town, and the Pawnbroker they carried it to would not receive it, so they carried it to a Baker's, and they got a Couple of Rolls for it.</p>
+               <p>
+                  <rs id="t17471014-21-verdict114" type="verdictDescription">
+                     <interp inst="t17471014-21-verdict114" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17471014-21-verdict114" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17471014-21-punish115" type="punishmentDescription">
+                     <interp inst="t17471014-21-punish115" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17471014-21-punish115" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17471014-21-defend303 t17471014-21-punish115"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

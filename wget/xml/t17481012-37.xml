@@ -1,3 +1,102 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17481012-37">
+               <interp inst="t17481012-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17481012-37" type="year" value="1748"></interp>
+               <interp inst="t17481012-37" type="uri" value="sessionsPapers/17481012"></interp>
+               <interp inst="t17481012-37" type="date" value="17481012"></interp>
+               <join result="criminalCharge" id="t17481012-37-off211-c274" targOrder="Y" targets="t17481012-37-defend346 t17481012-37-off211 t17481012-37-verdict215"></join>
+               <join result="criminalCharge" id="t17481012-37-off212-c274" targOrder="Y" targets="t17481012-37-defend346 t17481012-37-off212 t17481012-37-verdict215"></join>
+         
+               <p>+ 521. 
+               
+                  <persName id="t17481012-37-defend346" type="defendantName">
+                     Richard 
+                     Jones 
+                  <interp inst="t17481012-37-defend346" type="surname" value="Jones"></interp>
+                     <interp inst="t17481012-37-defend346" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-37-defend346" type="gender" value="male"></interp>
+                  </persName>
+               
+             , was indicted for <rs id="t17481012-37-off211" type="offenceDescription">
+                     <interp inst="t17481012-37-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17481012-37-off211" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing six mother of pearl shells, value 6 s. the property of the hon. the 
+                     <persName id="t17481012-37-victim347" type="victimName">
+                        East India 
+                        Company 
+                     <interp inst="t17481012-37-victim347" type="surname" value="Company"></interp>
+                        <interp inst="t17481012-37-victim347" type="given" value="East India"></interp>
+                        <interp inst="t17481012-37-victim347" type="gender" value="indeterminate"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17481012-37-off211 t17481012-37-victim347"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17481012-37-off212 t17481012-37-victim347"></join>
+                     </persName>
+                  , in a warehouse, belonging to the said company
+            </rs>.</p>
+               <p>The indictment was also laid, for <rs id="t17481012-37-off212" type="offenceDescription">
+                     <interp inst="t17481012-37-off212" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17481012-37-off212" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six mother of pearl shells, value 6 s.
+            </rs> the property of persons unknown.</p>
+               <p>
+                  <rs id="t17481012-37-cd213" type="crimeDate">Sept. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17481012-37-off211 t17481012-37-cd213"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17481012-37-off212 t17481012-37-cd213"></join>.</p>
+               <p>
+            
+                  <persName id="t17481012-37-person348">
+                  Thomas 
+                  Sims 
+               <interp inst="t17481012-37-person348" type="surname" value="Sims"></interp>
+                     <interp inst="t17481012-37-person348" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-37-person348" type="gender" value="male"></interp>
+                  </persName>
+            . I am one of the warehouse keepers of the private trade, belonging to the East India Company: on the nineteenth of September, I was coming out of <placeName id="t17481012-37-crimeloc214">Mark Lane warehouse yard</placeName>
+                  <interp inst="t17481012-37-crimeloc214" type="placeName" value="Mark Lane warehouse yard"></interp>
+                  <interp inst="t17481012-37-crimeloc214" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17481012-37-off211 t17481012-37-crimeloc214"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17481012-37-off212 t17481012-37-crimeloc214"></join>.</p>
+               <p>Q. What time?</p>
+               <p>Sims. About ten minutes before twelve at noon, and the prisoner's pocket seemed to be heavy; I suspected him, and I bid the East India Company's elder porter search this Jones , but I did not see him searched.</p>
+               <p>
+            
+                  <persName id="t17481012-37-person349">
+                  Thomas 
+                  Frost 
+               <interp inst="t17481012-37-person349" type="surname" value="Frost"></interp>
+                     <interp inst="t17481012-37-person349" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-37-person349" type="gender" value="male"></interp>
+                  </persName>
+            . I am elder porter to the East India Company.</p>
+               <p>Q. Did Mr. Sims desire you to search the prisoner ?</p>
+               <p>Frost. Yes ; and I searched him, and found six mother of pearl shells upon him, and the pocket was large , and uncommon.</p>
+               <p>Q. What are the shells worth?</p>
+               <p>Frost. four or five shillings, sometimes they are worth more, and sometimes less, I cannot set a value upon them; and I took him to the Castle in Mark Lane.</p>
+               <p>Q. Do you know whose property they are?</p>
+               <p>Frost. I cannot say, but I missed them out of the warehouse.</p>
+               <p>Q. Did he confess where he had them?</p>
+               <p>Frost . He said he had concealed them for a quarter of a year in the warehouse.</p>
+               <p>Q. Are these the shells you took out of his pocket?</p>
+               <p>Frost. I cannot swear to them, but they are very much like them.</p>
+               <p>Q. Did you seal them up?</p>
+               <p>Frost . I did not seal them up.</p>
+               <p>
+            
+                  <persName id="t17481012-37-person350">
+                  Thomas 
+                  Sims 
+               <interp inst="t17481012-37-person350" type="surname" value="Sims"></interp>
+                     <interp inst="t17481012-37-person350" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-37-person350" type="gender" value="male"></interp>
+                  </persName>
+             . I sealed them up, and they are what I had from Mr. Letchmere .</p>
+               <p>Mr. Letchmere, a warehouse-keeper to the East India Company, produced a letter the prisoner sent to him, directed to Mr. Letchmere, in Mark Lane, in which was a petition to the hon. the East India Company (which was read) in which he humbly acknowledges his fault, in taking six mother of pearl shells, out of the drug warehouse; and asks pardon of the hon. the East India Company, and begs of them to pardon him as being the first time, and assures them, that he never knew any body that robbed them.</p>
+               <p>Q. Is this wrote with his own hand?</p>
+               <p>Letchmere . Only the name I believe.</p>
+               <p>Prisoner. My lord, I bought them?</p>
+               <p>Court. How came you to acknowledge under your own hand, that you took them out of the warehouse.</p>
+               <p>
+                  <rs id="t17481012-37-verdict215" type="verdictDescription">
+                     <interp inst="t17481012-37-verdict215" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

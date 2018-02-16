@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640912-16">
+               <interp inst="t17640912-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640912-16" type="year" value="1764"></interp>
+               <interp inst="t17640912-16" type="uri" value="sessionsPapers/17640912"></interp>
+               <interp inst="t17640912-16" type="date" value="17640912"></interp>
+               <join result="criminalCharge" id="t17640912-16-off86-c136" targOrder="Y" targets="t17640912-16-defend166 t17640912-16-off86 t17640912-16-verdict88"></join>
+         
+               <p>495. (M.) 
+               <persName id="t17640912-16-defend166" type="defendantName">
+                  Ann 
+                  Hill 
+               <interp inst="t17640912-16-defend166" type="surname" value="Hill"></interp>
+                     <interp inst="t17640912-16-defend166" type="given" value="Ann"></interp>
+                     <interp inst="t17640912-16-defend166" type="gender" value="female"></interp>
+                     <interp inst="t17640912-16-defend166" type="age" value="twelve"></interp>
+                  </persName>
+            , <rs id="t17640912-16-deflabel85" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640912-16-defend166 t17640912-16-deflabel85"></join>, was indicted for <rs id="t17640912-16-off86" type="offenceDescription">
+                     <interp inst="t17640912-16-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640912-16-off86" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pair of silver tea-tongs, value 4 s. and one silver tea-spoon, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17640912-16-victim168" type="victimName">
+                     Thomas 
+                     Sanney 
+                  <interp inst="t17640912-16-victim168" type="surname" value="Sanney"></interp>
+                     <interp inst="t17640912-16-victim168" type="given" value="Thomas"></interp>
+                     <interp inst="t17640912-16-victim168" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640912-16-off86 t17640912-16-victim168"></join>
+                  </persName>
+                
+            , <rs id="t17640912-16-cd87" type="crimeDate">August 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640912-16-off86 t17640912-16-cd87"></join>. ++</p>
+               <p>The prisoner was but about twelve years of age, on which account she was <rs id="t17640912-16-verdict88" type="verdictDescription">
+                     <interp inst="t17640912-16-verdict88" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

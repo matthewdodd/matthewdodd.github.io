@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520914-54">
+               <interp inst="t17520914-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520914-54" type="year" value="1752"></interp>
+               <interp inst="t17520914-54" type="uri" value="sessionsPapers/17520914"></interp>
+               <interp inst="t17520914-54" type="date" value="17520914"></interp>
+               <join result="criminalCharge" id="t17520914-54-off273-c353" targOrder="Y" targets="t17520914-54-defend461 t17520914-54-off273 t17520914-54-verdict276"></join>
+         
+               <p>464. (M) 
+               
+                  <persName id="t17520914-54-defend461" type="defendantName">
+                     Sarah 
+                     Osbourne 
+                  <interp inst="t17520914-54-defend461" type="surname" value="Osbourne"></interp>
+                     <interp inst="t17520914-54-defend461" type="given" value="Sarah"></interp>
+                     <interp inst="t17520914-54-defend461" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17520914-54-deflabel272" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520914-54-defend461 t17520914-54-deflabel272"></join>, was indicted for <rs id="t17520914-54-off273" type="offenceDescription">
+                     <interp inst="t17520914-54-off273" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520914-54-off273" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linen shirt val. 1 s. 6 d. the property of 
+                     
+                        <persName id="t17520914-54-victim463" type="victimName">
+                           Edward 
+                           Roberts 
+                        <interp inst="t17520914-54-victim463" type="surname" value="Roberts"></interp>
+                        <interp inst="t17520914-54-victim463" type="given" value="Edward"></interp>
+                        <interp inst="t17520914-54-victim463" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , one linen shirt the roperty of 
+                     <persName id="t17520914-54-victim464" type="victimName">
+                        William 
+                        Waters 
+                     <interp inst="t17520914-54-victim464" type="surname" value="Waters"></interp>
+                        <interp inst="t17520914-54-victim464" type="given" value="William"></interp>
+                        <interp inst="t17520914-54-victim464" type="gender" value="male"></interp>
+                     </persName>
+                   , and 6 linen shirts and one waistcoat
+            </rs>, the goods of 
+               
+                  <persName id="t17520914-54-victim466" type="victimName">
+                     John 
+                     Morris 
+                  <interp inst="t17520914-54-victim466" type="surname" value="Morris"></interp>
+                     <interp inst="t17520914-54-victim466" type="given" value="John"></interp>
+                     <interp inst="t17520914-54-victim466" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17520914-54-cd274" type="crimeDate">July 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520914-54-off273 t17520914-54-cd274"></join>.</p>
+               <p>The goods mention'd were missing from out of the house of Roberts in <placeName id="t17520914-54-crimeloc275">Denmark-street</placeName>
+                  <interp inst="t17520914-54-crimeloc275" type="placeName" value="Denmark-street"></interp>
+                  <interp inst="t17520914-54-crimeloc275" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17520914-54-off273 t17520914-54-crimeloc275"></join>, the prisoner had carried the things to Mrs. Hugoe's, in Johnson's-change, Rosemary-lane to sell. She suspected they were not honestly come by, so stop'd them and had them advertis'd. The prosecutors own'd them. Produced in court and deposed to.</p>
+               <p>The prisoner in her defence said, she found them in Burlington street in a bundle.</p>
+               <p>
+                  <rs id="t17520914-54-verdict276" type="verdictDescription">
+                     <interp inst="t17520914-54-verdict276" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17520914-54-verdict276" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17520914-54-punish277" type="punishmentDescription">
+                     <interp inst="t17520914-54-punish277" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520914-54-defend461 t17520914-54-punish277"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

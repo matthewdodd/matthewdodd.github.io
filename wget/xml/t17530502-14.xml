@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530502-14">
+               <interp inst="t17530502-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530502-14" type="year" value="1753"></interp>
+               <interp inst="t17530502-14" type="uri" value="sessionsPapers/17530502"></interp>
+               <interp inst="t17530502-14" type="date" value="17530502"></interp>
+               <join result="criminalCharge" id="t17530502-14-off71-c138" targOrder="Y" targets="t17530502-14-defend166 t17530502-14-off71 t17530502-14-verdict73"></join>
+               <join result="criminalCharge" id="t17530502-14-off71-c139" targOrder="Y" targets="t17530502-14-defend168 t17530502-14-off71 t17530502-14-verdict73"></join>
+         
+               <p>194, 195. (L.) 
+               <persName id="t17530502-14-defend166" type="defendantName">
+                  Robert 
+                  Russon 
+               <interp inst="t17530502-14-defend166" type="surname" value="Russon"></interp>
+                     <interp inst="t17530502-14-defend166" type="given" value="Robert"></interp>
+                     <interp inst="t17530502-14-defend166" type="gender" value="male"></interp>
+                  </persName>
+             , and 
+               
+                  <persName id="t17530502-14-defend168" type="defendantName">
+                     Lewis 
+                     Currington 
+                  <interp inst="t17530502-14-defend168" type="surname" value="Currington"></interp>
+                     <interp inst="t17530502-14-defend168" type="given" value="Lewis"></interp>
+                     <interp inst="t17530502-14-defend168" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17530502-14-off71" type="offenceDescription">
+                     <interp inst="t17530502-14-off71" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530502-14-off71" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pieces of printed paper stained, containing thirty-six yards, value 9 s.
+            </rs> the goods of 
+               
+                  <persName id="t17530502-14-victim170" type="victimName">
+                     William 
+                     Dover 
+                  <interp inst="t17530502-14-victim170" type="surname" value="Dover"></interp>
+                     <interp inst="t17530502-14-victim170" type="given" value="William"></interp>
+                     <interp inst="t17530502-14-victim170" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17530502-14-off71 t17530502-14-victim170"></join>
+                  </persName>
+                
+            , <rs id="t17530502-14-cd72" type="crimeDate">February 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530502-14-off71 t17530502-14-cd72"></join>. ++.</p>
+               <p>Both <rs id="t17530502-14-verdict73" type="verdictDescription">
+                     <interp inst="t17530502-14-verdict73" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

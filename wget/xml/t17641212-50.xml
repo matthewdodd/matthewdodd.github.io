@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17641212-50">
+               <interp inst="t17641212-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17641212-50" type="year" value="1764"></interp>
+               <interp inst="t17641212-50" type="uri" value="sessionsPapers/17641212"></interp>
+               <interp inst="t17641212-50" type="date" value="17641212"></interp>
+               <join result="criminalCharge" id="t17641212-50-off253-c263" targOrder="Y" targets="t17641212-50-defend362 t17641212-50-off253 t17641212-50-verdict257"></join>
+         
+               <p>52. (L.) 
+               
+                  <persName id="t17641212-50-defend362" type="defendantName">
+                     Thomas 
+                     Ingram 
+                  <interp inst="t17641212-50-defend362" type="surname" value="Ingram"></interp>
+                     <interp inst="t17641212-50-defend362" type="given" value="Thomas"></interp>
+                     <interp inst="t17641212-50-defend362" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17641212-50-off253" type="offenceDescription">
+                     <interp inst="t17641212-50-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17641212-50-off253" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a gold laced hat, value 10 s. a silver laced hat, value 10 s. a cloth coat, value 40 s. a thickset coat and waistcoat, five silver tea-spoons, a silver table-spoon, and a silver cream-pot
+            </rs>, the property of <rs id="t17641212-50-viclabel254" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17641212-50-victim364 t17641212-50-viclabel254"></join> 
+            
+               
+                  <persName id="t17641212-50-victim364" type="victimName">
+                     Simon 
+                     Bradstreet 
+                  <interp inst="t17641212-50-victim364" type="surname" value="Bradstreet"></interp>
+                     <interp inst="t17641212-50-victim364" type="given" value="Simon"></interp>
+                     <interp inst="t17641212-50-victim364" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17641212-50-off253 t17641212-50-victim364"></join>
+                  </persName>
+                
+            , <rs id="t17641212-50-viclabel255" type="occupation">Bart.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17641212-50-victim364 t17641212-50-viclabel255"></join> 
+                  <rs id="t17641212-50-cd256" type="crimeDate">Oct. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-50-off253 t17641212-50-cd256"></join>. ++</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176412120024"></xptr>
+            
+                  <persName id="t17641212-50-person365">
+                  Thomas Augustus 
+                  Sunderland 
+               <interp inst="t17641212-50-person365" type="surname" value="Sunderland"></interp>
+                     <interp inst="t17641212-50-person365" type="given" value="Thomas Augustus"></interp>
+                     <interp inst="t17641212-50-person365" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , servant to the prosecutor, deposed, that the prosecutor's back door opens into the yard that has a communication with a stable-yard, where the prisoner's brother keeps coaches and horses; that the prisoner used to drive the coach for the prosecutor, when he wanted to go out; that he got up, on the 21st of October, in the morning, and found his master's back door open, and missed the things mentioned in the indictment; that he saw the prisoner put two plain cropped hats (produced in court) behind a door, between the stable and the yard, from whence he conjectured the prisoner had taken the things missing; that he discovered it to his master, who, in company with another gentleman, examined him, but never discovered what were become of the things; and that the prisoner continued to drive his master as before, and eat and drank in the house as usual, till the coach was discharged, which was but a few days before the trial; and that the prosecutor never took the prisoner up till after the prisoner's brother had arrested him for debt.</p>
+               <p>The council for the prosecutor declined calling any other evidence.</p>
+               <p>
+                  <rs id="t17641212-50-verdict257" type="verdictDescription">
+                     <interp inst="t17641212-50-verdict257" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

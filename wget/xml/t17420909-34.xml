@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420909-34">
+               <interp inst="t17420909-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420909-34" type="year" value="1742"></interp>
+               <interp inst="t17420909-34" type="uri" value="sessionsPapers/17420909"></interp>
+               <interp inst="t17420909-34" type="date" value="17420909"></interp>
+               <join result="criminalCharge" id="t17420909-34-off180-c299" targOrder="Y" targets="t17420909-34-defend375 t17420909-34-off180 t17420909-34-verdict183"></join>
+         
+               <p>99. 
+               <persName id="t17420909-34-defend375" type="defendantName">
+                  Martha 
+                  Johnson , otherwise <rs id="t17420909-34-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17420909-34-defend375 t17420909-34-alias-2"></join>Sullivan</rs>
+                     <interp inst="t17420909-34-defend375" type="surname" value="Johnson"></interp>
+                     <interp inst="t17420909-34-defend375" type="given" value="Martha"></interp>
+                     <interp inst="t17420909-34-defend375" type="gender" value="female"></interp>
+                  </persName>
+            , of <placeName id="t17420909-34-defloc179">St Giles's in the Fields</placeName>
+                  <interp inst="t17420909-34-defloc179" type="placeName" value="St Giles's in the Fields"></interp>
+                  <interp inst="t17420909-34-defloc179" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17420909-34-defend375 t17420909-34-defloc179"></join>, was indicted for <rs id="t17420909-34-off180" type="offenceDescription">
+                     <interp inst="t17420909-34-off180" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420909-34-off180" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silk Damask Gown, value 21 s. a Sarcenet Gown, value 10 s. and sundry other Goods
+            </rs>, the Property of 
+               
+                  <persName id="t17420909-34-victim377" type="victimName">
+                     Jean 
+                     Chaban 
+                  <interp inst="t17420909-34-victim377" type="surname" value="Chaban"></interp>
+                     <interp inst="t17420909-34-victim377" type="given" value="Jean"></interp>
+                     <interp inst="t17420909-34-victim377" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17420909-34-off180 t17420909-34-victim377"></join>
+                  </persName>
+                
+             , <rs id="t17420909-34-viclabel181" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17420909-34-victim377 t17420909-34-viclabel181"></join>, <rs id="t17420909-34-cd182" type="crimeDate">September 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420909-34-off180 t17420909-34-cd182"></join>.</p>
+               <p>
+            
+                  <persName id="t17420909-34-person378">
+                  Mary 
+                  West 
+               <interp inst="t17420909-34-person378" type="surname" value="West"></interp>
+                     <interp inst="t17420909-34-person378" type="given" value="Mary"></interp>
+                     <interp inst="t17420909-34-person378" type="gender" value="female"></interp>
+                  </persName>
+             deposed. That she found the 2 Gowns, and several other Things of her Mistress's at Mr Simmonds's the Pawnbroker's.</p>
+               <p>Mr Simmonds. The Prisoner brought these things to me to pawn, she said they were her own Cloaths, and wanted 4 Guineas on them; said I, these Cloaths do not look to be your's, they do not fit you, she said she lived over the way, I would have sent my young Man with her to know where she lived, but she would not let him go, then I had a stronger Suspicion, and sent for Mr Harper the Constable; the Prisoner said she was undone, and owned they were her Mistress's Cloaths; and confess'd she open'd her Drawers and took them out. <rs id="t17420909-34-verdict183" type="verdictDescription">
+                     <interp inst="t17420909-34-verdict183" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17420909-34-punish184" type="punishmentDescription">
+                     <interp inst="t17420909-34-punish184" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420909-34-defend375 t17420909-34-punish184"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

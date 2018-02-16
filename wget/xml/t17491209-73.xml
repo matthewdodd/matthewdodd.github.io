@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17491209-73">
+               <interp inst="t17491209-73" type="collection" value="BAILEY"></interp>
+               <interp inst="t17491209-73" type="year" value="1749"></interp>
+               <interp inst="t17491209-73" type="uri" value="sessionsPapers/17491209"></interp>
+               <interp inst="t17491209-73" type="date" value="17491209"></interp>
+               <join result="criminalCharge" id="t17491209-73-off320-c372" targOrder="Y" targets="t17491209-73-defend524 t17491209-73-off320 t17491209-73-verdict322"></join>
+         
+               <p>88. 
+               
+                  <persName id="t17491209-73-defend524" type="defendantName">
+                     Joseph 
+                     Day 
+                  <interp inst="t17491209-73-defend524" type="surname" value="Day"></interp>
+                     <interp inst="t17491209-73-defend524" type="given" value="Joseph"></interp>
+                     <interp inst="t17491209-73-defend524" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for that he <rs id="t17491209-73-off320" type="offenceDescription">
+                     <interp inst="t17491209-73-off320" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17491209-73-off320" type="offenceSubcategory" value="highwayRobbery"></interp>
+               in a certain field, near the king's highway, on 
+                     <persName id="t17491209-73-victim525" type="victimName">
+                        Richard 
+                        Blew 
+                     <interp inst="t17491209-73-victim525" type="surname" value="Blew"></interp>
+                        <interp inst="t17491209-73-victim525" type="given" value="Richard"></interp>
+                        <interp inst="t17491209-73-victim525" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17491209-73-off320 t17491209-73-victim525"></join>
+                     </persName>
+                  , did make an assault, putting him in corporal fear and danger of his life, four-pence halfpenny from his person did steal and take, and carry away
+            </rs>, <rs id="t17491209-73-cd321" type="crimeDate">Octo 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17491209-73-off320 t17491209-73-cd321"></join>.</p>
+
+               <p>
+                  <rs id="t17491209-73-verdict322" type="verdictDescription">
+                     <interp inst="t17491209-73-verdict322" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

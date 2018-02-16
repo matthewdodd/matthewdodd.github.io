@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880222-12">
+               <interp inst="t16880222-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880222-12" type="year" value="1688"></interp>
+               <interp inst="t16880222-12" type="uri" value="sessionsPapers/16880222"></interp>
+               <interp inst="t16880222-12" type="date" value="16880222"></interp>
+               <join result="criminalCharge" id="t16880222-12-off58-c42" targOrder="Y" targets="t16880222-12-defend61 t16880222-12-off58 t16880222-12-verdict60"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880222-12-defend61" type="defendantName">
+                     Elizabeth 
+                     Bromley
+                  <interp inst="t16880222-12-defend61" type="surname" value="Bromley"></interp>
+                     <interp inst="t16880222-12-defend61" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16880222-12-defend61" type="gender" value="female"></interp>
+                  </persName>
+               
+             of <placeName id="t16880222-12-defloc57">St. James's Westminster</placeName>
+                  <interp inst="t16880222-12-defloc57" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t16880222-12-defloc57" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-12-defend61 t16880222-12-defloc57"></join>, was Indicted for <rs id="t16880222-12-off58" type="offenceDescription">
+                     <interp inst="t16880222-12-off58" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880222-12-off58" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing on the <rs id="t16880222-12-cd59" type="crimeDate">14th. of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880222-12-off58 t16880222-12-cd59"></join> last, one Silver Spoon, value 32 s. two yards and a half of Needle-work Lace, one yard of Flanders-Lace, one Sarsnet Hood, value 5 s. and other goods
+            </rs> belonging to 
+               
+                  <persName id="t16880222-12-victim63" type="victimName">
+                     Martin 
+                     Hazlebanck
+                  <interp inst="t16880222-12-victim63" type="surname" value="Hazlebanck"></interp>
+                     <interp inst="t16880222-12-victim63" type="given" value="Martin"></interp>
+                     <interp inst="t16880222-12-victim63" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16880222-12-off58 t16880222-12-victim63"></join>
+                  </persName>
+               
+            : It appearing she was a Lodger in the House and carrying off the said goods, and some of them were found where she had Sold them. She was brought in <rs id="t16880222-12-verdict60" type="verdictDescription">
+                     <interp inst="t16880222-12-verdict60" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880222-12-verdict60" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16880222-12-punish61" type="punishmentDescription">
+                     <interp inst="t16880222-12-punish61" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16880222-12-punish61" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880222-12-defend61 t16880222-12-punish61"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

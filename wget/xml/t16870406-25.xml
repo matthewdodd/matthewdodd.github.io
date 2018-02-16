@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870406-25">
+               <interp inst="t16870406-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870406-25" type="year" value="1687"></interp>
+               <interp inst="t16870406-25" type="uri" value="sessionsPapers/16870406"></interp>
+               <interp inst="t16870406-25" type="date" value="16870406"></interp>
+               <join result="criminalCharge" id="t16870406-25-off128-c98" targOrder="Y" targets="t16870406-25-defend145 t16870406-25-off128 t16870406-25-verdict131"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870406-25-defend145" type="defendantName">
+                     John 
+                     Thomson
+                  <interp inst="t16870406-25-defend145" type="surname" value="Thomson"></interp>
+                     <interp inst="t16870406-25-defend145" type="given" value="John"></interp>
+                     <interp inst="t16870406-25-defend145" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16870406-25-off128" type="offenceDescription">
+                     <interp inst="t16870406-25-off128" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870406-25-off128" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Tankard, value 4 l. 10 s.
+            </rs> from 
+               
+                  <persName id="t16870406-25-victim147" type="victimName">
+                     Hugh 
+                     Bayly
+                  <interp inst="t16870406-25-victim147" type="surname" value="Bayly"></interp>
+                     <interp inst="t16870406-25-victim147" type="given" value="Hugh"></interp>
+                     <interp inst="t16870406-25-victim147" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870406-25-off128 t16870406-25-victim147"></join>
+                  </persName>
+               
+            , in the Parish of <placeName id="t16870406-25-crimeloc129">St. James's Westminster</placeName>
+                  <interp inst="t16870406-25-crimeloc129" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t16870406-25-crimeloc129" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870406-25-off128 t16870406-25-crimeloc129"></join>, on the <rs id="t16870406-25-cd130" type="crimeDate">14th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870406-25-off128 t16870406-25-cd130"></join> last. The Evidence against him was Bayly and others, who deposed that two persons, one of which was believed to be the Prisoner, came into the Prosecutors house, and after shewing some dislike of drinking in a Publick-Room, they sat down and called for a Tankard of Drink, and under pretence of staying for a Gentlemans Butler that lived hard by; they found an opportunity to throw out part of their Drink, and make their Escape with the Tankard; but Thomson utterly denying ever to have been in the house of Bayly's, and calling severale persons to give Testimony as to his honest Reputation; the Jury supposing the Prosecutor might be mistaken in the man, <rs id="t16870406-25-verdict131" type="verdictDescription">
+                     <interp inst="t16870406-25-verdict131" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> him.</p>
+            </div1>

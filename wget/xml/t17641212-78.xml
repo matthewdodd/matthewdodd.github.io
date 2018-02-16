@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17641212-78">
+               <interp inst="t17641212-78" type="collection" value="BAILEY"></interp>
+               <interp inst="t17641212-78" type="year" value="1764"></interp>
+               <interp inst="t17641212-78" type="uri" value="sessionsPapers/17641212"></interp>
+               <interp inst="t17641212-78" type="date" value="17641212"></interp>
+               <join result="criminalCharge" id="t17641212-78-off397-c453" targOrder="Y" targets="t17641212-78-defend602 t17641212-78-off397 t17641212-78-verdict400"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="176412120047"></xptr>85. (M.) 
+               <persName id="t17641212-78-defend602" type="defendantName">
+                  Elizabeth, <rs id="t17641212-78-deflabel396" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-78-defend602 t17641212-78-deflabel396"></join> of 
+                     <persName id="t17641212-78-person603">
+                        Hopkin 
+                        Roberts 
+                     <interp inst="t17641212-78-person603" type="surname" value="Roberts"></interp>
+                        <interp inst="t17641212-78-person603" type="given" value="Hopkin"></interp>
+                        <interp inst="t17641212-78-person603" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17641212-78-defend602" type="surname" value="Roberts"></interp>
+                     <interp inst="t17641212-78-defend602" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17641212-78-defend602" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17641212-78-off397" type="offenceDescription">
+                     <interp inst="t17641212-78-off397" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17641212-78-off397" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a linen gown, value 3 s. two linen shifts, and two linen aprons
+            </rs>, the property of 
+               <persName id="t17641212-78-victim604" type="victimName">
+                  James 
+                  Lane 
+               <interp inst="t17641212-78-victim604" type="surname" value="Lane"></interp>
+                     <interp inst="t17641212-78-victim604" type="given" value="James"></interp>
+                     <interp inst="t17641212-78-victim604" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17641212-78-off397 t17641212-78-victim604"></join>
+                  </persName>
+             , <rs id="t17641212-78-cd398" type="crimeDate">November 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-78-off397 t17641212-78-cd398"></join>. +</p>
+               <p>The prosecutor <rs id="t17641212-78-viclabel399" type="occupation">keeps a chandler's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17641212-78-victim604 t17641212-78-viclabel399"></join> in Shadwell: the things mentioned in the indictment were missing: the prisoner was suspected, and when taken up, she had one of the aprons and gown on; she confessed where she had pledged the other things, and they were found accordingly.</p>
+               <p>
+                  <rs id="t17641212-78-verdict400" type="verdictDescription">
+                     <interp inst="t17641212-78-verdict400" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17641212-78-punish401" type="punishmentDescription">
+                     <interp inst="t17641212-78-punish401" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-78-defend602 t17641212-78-punish401"></join>
+               T
+            </rs>.</p>
+            </div1>

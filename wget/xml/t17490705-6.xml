@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490705-6">
+               <interp inst="t17490705-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490705-6" type="year" value="1749"></interp>
+               <interp inst="t17490705-6" type="uri" value="sessionsPapers/17490705"></interp>
+               <interp inst="t17490705-6" type="date" value="17490705"></interp>
+               <join result="criminalCharge" id="t17490705-6-off35-c63" targOrder="Y" targets="t17490705-6-defend71 t17490705-6-off35 t17490705-6-verdict38"></join>
+         
+               <p>377. 
+               
+                  <persName id="t17490705-6-defend71" type="defendantName">
+                     Margaret 
+                     Harvey 
+                  <interp inst="t17490705-6-defend71" type="surname" value="Harvey"></interp>
+                     <interp inst="t17490705-6-defend71" type="given" value="Margaret"></interp>
+                     <interp inst="t17490705-6-defend71" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17490705-6-deflabel34" type="occupation">wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490705-6-defend71 t17490705-6-deflabel34"></join> of 
+               <persName id="t17490705-6-person72">
+                  John
+                   Harvey, alias <rs id="t17490705-6-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17490705-6-person72 t17490705-6-alias-2"></join>Mason</rs>
+                     <interp inst="t17490705-6-person72" type="surname" value="Harvey"></interp>
+                     <interp inst="t17490705-6-person72" type="given" value="John"></interp>
+                     <interp inst="t17490705-6-person72" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17490705-6-off35" type="offenceDescription">
+                     <interp inst="t17490705-6-off35" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490705-6-off35" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a gold-watch and gold-chain, value 20 l. the goods of 
+                     <persName id="t17490705-6-victim73" type="victimName">
+                        Robert 
+                        Lane 
+                     <interp inst="t17490705-6-victim73" type="surname" value="Lane"></interp>
+                        <interp inst="t17490705-6-victim73" type="given" value="Robert"></interp>
+                        <interp inst="t17490705-6-victim73" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17490705-6-off35 t17490705-6-victim73"></join>
+                     </persName>
+                   , from his person
+            </rs>.</p>
+               <p>
+                  <rs id="t17490705-6-cd36" type="crimeDate">June 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490705-6-off35 t17490705-6-cd36"></join>.</p>
+               <p>Robert Lane. On the 14th of June, betwixt seven and eight in the evening, I was going through <placeName id="t17490705-6-crimeloc37">Russel-street</placeName>
+                  <interp inst="t17490705-6-crimeloc37" type="placeName" value="Russel-street"></interp>
+                  <interp inst="t17490705-6-crimeloc37" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17490705-6-off35 t17490705-6-crimeloc37"></join>, Covent-Garden, this woman was with four men; as I came up, I went betwixt them; the woman had her hand down, and took hold of the chain of my watch; she took it out of my pocket, and put it into her bosom under her cloak: immediately I laid hold of the chain, and, with some difficulty, by twisting my fingers in the chain I got it again: she said, what is the man going to do? I laid hold of her to secure her; one of the men that was with her put my hand from her, and gave her a slight blow on the shoulders says he, let the bitch alone, she is only drunk; she immediately turned up a court, and the men stood before me, to prevent my following her; I went immediately over the way into a public house, the master of the house, and several more, came out. We went cross the way, and secured the woman directly, and had her before the Justice, and she was committed.</p>
+               <p>
+            
+                  <persName id="t17490705-6-person74">
+                  Joseph 
+                  Wetherby 
+               <interp inst="t17490705-6-person74" type="surname" value="Wetherby"></interp>
+                     <interp inst="t17490705-6-person74" type="given" value="Joseph"></interp>
+                     <interp inst="t17490705-6-person74" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor had not been gone out of my house above a minute, or thereabouts, before he returned with his watch in his hand; he told me the case, so I, and some others, run over the way; I knew the court was no thorough-fare; there we took the prisoner at the corner of the court; I took her to my own house, where I sent for an officer.</p>
+               <p>Prisoner's Defence. I never meddled with him; he met me, and asked me to go and drink along with him. Why did he not secure the men he said were with me?</p>
+               <p>
+                  <rs id="t17490705-6-verdict38" type="verdictDescription">
+                     <interp inst="t17490705-6-verdict38" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17490705-6-punish39" type="punishmentDescription">
+                     <interp inst="t17490705-6-punish39" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t17490705-6-punish39" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490705-6-defend71 t17490705-6-punish39"></join>
+               Death
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-74">
+               <interp inst="t17350911-74" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-74" type="year" value="1735"></interp>
+               <interp inst="t17350911-74" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-74" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-74-off329-c349" targOrder="Y" targets="t17350911-74-defend511 t17350911-74-off329 t17350911-74-verdict331"></join>
+         
+               <p>89. 
+               
+                  <persName id="t17350911-74-defend511" type="defendantName">
+                     James 
+                     Tomlinson 
+                  <interp inst="t17350911-74-defend511" type="surname" value="Tomlinson"></interp>
+                     <interp inst="t17350911-74-defend511" type="given" value="James"></interp>
+                     <interp inst="t17350911-74-defend511" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350911-74-off329" type="offenceDescription">
+                     <interp inst="t17350911-74-off329" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-74-off329" type="offenceSubcategory" value="other"></interp>
+               stealing a Silver Pint Mug
+            </rs>, the Goods of 
+               
+                  <persName id="t17350911-74-victim513" type="victimName">
+                     Francis 
+                     Waters 
+                  <interp inst="t17350911-74-victim513" type="surname" value="Waters"></interp>
+                     <interp inst="t17350911-74-victim513" type="given" value="Francis"></interp>
+                     <interp inst="t17350911-74-victim513" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-74-off329 t17350911-74-victim513"></join>
+                  </persName>
+                
+            , <rs id="t17350911-74-cd330" type="crimeDate">July 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-74-off329 t17350911-74-cd330"></join>.</p>
+               <p>The Prisoner had been drinking at the Prosecutor's House, and after he was gone, the Mug was mist. But it appearing that he was a Man of a very good Character, the Jury <rs id="t17350911-74-verdict331" type="verdictDescription">
+                     <interp inst="t17350911-74-verdict331" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> him.</p>
+            </div1>

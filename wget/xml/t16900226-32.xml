@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-32">
+               <interp inst="t16900226-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-32" type="year" value="1690"></interp>
+               <interp inst="t16900226-32" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-32" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-32-off137-c109" targOrder="Y" targets="t16900226-32-defend109 t16900226-32-off137 t16900226-32-verdict139"></join>
+         
+               <p>
+            
+                  <persName id="t16900226-32-defend109" type="defendantName">
+                  John 
+                  Davis
+               <interp inst="t16900226-32-defend109" type="surname" value="Davis"></interp>
+                     <interp inst="t16900226-32-defend109" type="given" value="John"></interp>
+                     <interp inst="t16900226-32-defend109" type="gender" value="male"></interp>
+                  </persName>
+            , another Youth, was Tried for the same fact in kind, (viz.) for <rs id="t16900226-32-off137" type="offenceDescription">
+                     <interp inst="t16900226-32-off137" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900226-32-off137" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking 
+                     <persName id="t16900226-32-victim110" type="victimName">
+                        Edward 
+                        Hicks
+                     <interp inst="t16900226-32-victim110" type="surname" value="Hicks"></interp>
+                        <interp inst="t16900226-32-victim110" type="given" value="Edward"></interp>
+                        <interp inst="t16900226-32-victim110" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-32-off137 t16900226-32-victim110"></join>
+                     </persName>
+                  's house, with an Intention to steal his Goods
+            </rs> on the <rs id="t16900226-32-cd138" type="crimeDate">first of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-32-off137 t16900226-32-cd138"></join> last. The Evidence not charging him fully, he was <rs id="t16900226-32-verdict139" type="verdictDescription">
+                     <interp inst="t16900226-32-verdict139" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+            </div1>

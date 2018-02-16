@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-6">
+               <interp inst="t16910218-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-6" type="year" value="1691"></interp>
+               <interp inst="t16910218-6" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-6" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-6-off26-c42" targOrder="Y" targets="t16910218-6-defend42 t16910218-6-off26 t16910218-6-verdict29"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-6-defend42" type="defendantName">
+                  George 
+                  Jarrott
+               <interp inst="t16910218-6-defend42" type="surname" value="Jarrott"></interp>
+                     <interp inst="t16910218-6-defend42" type="given" value="George"></interp>
+                     <interp inst="t16910218-6-defend42" type="gender" value="male"></interp>
+                  </persName>
+            , was tryed for <rs id="t16910218-6-off26" type="offenceDescription">
+                     <interp inst="t16910218-6-off26" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-6-off26" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Gelding, coloured brown
+            </rs>, price 5 l. on the <rs id="t16910218-6-cd27" type="crimeDate">29th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910218-6-off26 t16910218-6-cd27"></join> last, the Goods of one 
+               <persName id="t16910218-6-victim43" type="victimName">
+                  John 
+                  Marsh
+               <interp inst="t16910218-6-victim43" type="surname" value="Marsh"></interp>
+                     <interp inst="t16910218-6-victim43" type="given" value="John"></interp>
+                     <interp inst="t16910218-6-victim43" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16910218-6-off26 t16910218-6-victim43"></join>
+                  </persName>
+             of Hendon. Mr. Marsh's Man swore, That he was met by several High-way-men, upon <placeName id="t16910218-6-crimeloc28">Shoot-up-hill, near Hendon</placeName>
+                  <interp inst="t16910218-6-crimeloc28" type="placeName" value="Shoot-up-hill, near Hendon"></interp>
+                  <interp inst="t16910218-6-crimeloc28" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910218-6-off26 t16910218-6-crimeloc28"></join>, and that they took away the Horse, and the Horse was brought to the Horseshoe Tavern in Drewry Lane by the Prisoner, and Marsh swore that it was his Horse. The Prisoner said, That the Horse was given him to lead to the Tavern by another Man, but could not prove it; so he was found <rs id="t16910218-6-verdict29" type="verdictDescription">
+                     <interp inst="t16910218-6-verdict29" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16910218-6-punish30" type="punishmentDescription">
+                     <interp inst="t16910218-6-punish30" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910218-6-defend42 t16910218-6-punish30"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

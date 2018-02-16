@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17450710-8">
+               <interp inst="t17450710-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17450710-8" type="year" value="1745"></interp>
+               <interp inst="t17450710-8" type="uri" value="sessionsPapers/17450710"></interp>
+               <interp inst="t17450710-8" type="date" value="17450710"></interp>
+               <join result="criminalCharge" id="t17450710-8-off40-c60" targOrder="Y" targets="t17450710-8-defend73 t17450710-8-off40 t17450710-8-verdict42"></join>
+               <join result="criminalCharge" id="t17450710-8-off40-c61" targOrder="Y" targets="t17450710-8-defend75 t17450710-8-off40 t17450710-8-verdict42"></join>
+         
+               <p>305, 306. 
+               
+                  <persName id="t17450710-8-defend73" type="defendantName">
+                     John 
+                     Hewett 
+                  <interp inst="t17450710-8-defend73" type="surname" value="Hewett"></interp>
+                     <interp inst="t17450710-8-defend73" type="given" value="John"></interp>
+                     <interp inst="t17450710-8-defend73" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17450710-8-defend75" type="defendantName">
+                     Elizabeth 
+                     Hewett 
+                  <interp inst="t17450710-8-defend75" type="surname" value="Hewett"></interp>
+                     <interp inst="t17450710-8-defend75" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17450710-8-defend75" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were indicted for <rs id="t17450710-8-off40" type="offenceDescription">
+                     <interp inst="t17450710-8-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17450710-8-off40" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a sheet, val. 12 d. a looking glass, val. 2 s. a tea-kettle, val. 2 s. &amp;c. in their lodging
+            </rs>, <rs id="t17450710-8-cd41" type="crimeDate">June 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17450710-8-off40 t17450710-8-cd41"></join>. <rs id="t17450710-8-verdict42" type="verdictDescription">
+                     <interp inst="t17450710-8-verdict42" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

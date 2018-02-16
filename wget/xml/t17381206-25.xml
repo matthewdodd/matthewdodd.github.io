@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381206-25">
+               <interp inst="t17381206-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381206-25" type="year" value="1738"></interp>
+               <interp inst="t17381206-25" type="uri" value="sessionsPapers/17381206"></interp>
+               <interp inst="t17381206-25" type="date" value="17381206"></interp>
+               <join result="criminalCharge" id="t17381206-25-off112-c130" targOrder="Y" targets="t17381206-25-defend184 t17381206-25-off112 t17381206-25-verdict116"></join>
+         
+               <p>28. 
+               
+                  <persName id="t17381206-25-defend184" type="defendantName">
+                     David 
+                     Marshall 
+                  <interp inst="t17381206-25-defend184" type="surname" value="Marshall"></interp>
+                     <interp inst="t17381206-25-defend184" type="given" value="David"></interp>
+                     <interp inst="t17381206-25-defend184" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17381206-25-off112" type="offenceDescription">
+                     <interp inst="t17381206-25-off112" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381206-25-off112" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Silk Stockings, val. 18 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17381206-25-victim186" type="victimName">
+                     John 
+                     Horner 
+                  <interp inst="t17381206-25-victim186" type="surname" value="Horner"></interp>
+                     <interp inst="t17381206-25-victim186" type="given" value="John"></interp>
+                     <interp inst="t17381206-25-victim186" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17381206-25-off112 t17381206-25-victim186"></join>
+                  </persName>
+                
+            , <rs id="t17381206-25-cd113" type="crimeDate">Nov. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381206-25-off112 t17381206-25-cd113"></join>.</p>
+               <p>It appeared that Mr. Horner, a <rs id="t17381206-25-viclabel114" type="occupation">Stocking-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17381206-25-victim186 t17381206-25-viclabel114"></join> in <placeName id="t17381206-25-crimeloc115">Pancras-Lane</placeName>
+                  <interp inst="t17381206-25-crimeloc115" type="placeName" value="Pancras-Lane"></interp>
+                  <interp inst="t17381206-25-crimeloc115" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17381206-25-off112 t17381206-25-crimeloc115"></join>, lost three Silk Stockings, one of which was brought to him by Mr. Bridgen, a Dyer, who received it from one Brown, and Brown swore he bought it of the Prisoner for 2 s. 6 d. the other two were sold by the Prisoner to Mr. Denny near the Cloysters for six Shillings: And it appearing the Goods were sold at an Under-price, the Court very severaly censur'd Brown and Denny's Behaviour in this respect. <rs id="t17381206-25-verdict116" type="verdictDescription">
+                     <interp inst="t17381206-25-verdict116" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17381206-25-punish117" type="punishmentDescription">
+                     <interp inst="t17381206-25-punish117" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17381206-25-punish117" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381206-25-defend184 t17381206-25-punish117"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

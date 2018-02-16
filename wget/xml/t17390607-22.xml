@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390607-22">
+               <interp inst="t17390607-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390607-22" type="year" value="1739"></interp>
+               <interp inst="t17390607-22" type="uri" value="sessionsPapers/17390607"></interp>
+               <interp inst="t17390607-22" type="date" value="17390607"></interp>
+               <join result="criminalCharge" id="t17390607-22-off107-c139" targOrder="Y" targets="t17390607-22-defend190 t17390607-22-off107 t17390607-22-verdict109"></join>
+         
+               <p>357. 
+               
+                  <persName id="t17390607-22-defend190" type="defendantName">
+                     William 
+                     Alexander 
+                  <interp inst="t17390607-22-defend190" type="surname" value="Alexander"></interp>
+                     <interp inst="t17390607-22-defend190" type="given" value="William"></interp>
+                     <interp inst="t17390607-22-defend190" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390607-22-off107" type="offenceDescription">
+                     <interp inst="t17390607-22-off107" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390607-22-off107" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the Dwelling-house of 
+                     
+                        <persName id="t17390607-22-victim192" type="victimName">
+                           Jacob 
+                           Mannicau 
+                        <interp inst="t17390607-22-victim192" type="surname" value="Mannicau"></interp>
+                        <interp inst="t17390607-22-victim192" type="given" value="Jacob"></interp>
+                        <interp inst="t17390607-22-victim192" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17390607-22-off107 t17390607-22-victim192"></join>
+                     </persName>
+                      
+                  , about Eight at Night, and stealing a great Cloth Coat, val. 5 s
+            </rs>. <rs id="t17390607-22-cd108" type="crimeDate">Jan. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390607-22-off107 t17390607-22-cd108"></join>. <rs id="t17390607-22-verdict109" type="verdictDescription">
+                     <interp inst="t17390607-22-verdict109" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, Felony.</p>
+            </div1>

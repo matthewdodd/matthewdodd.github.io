@@ -1,3 +1,93 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-62">
+               <interp inst="t17580913-62" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-62" type="year" value="1758"></interp>
+               <interp inst="t17580913-62" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-62" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-62-off307-c477" targOrder="Y" targets="t17580913-62-defend590 t17580913-62-off307 t17580913-62-verdict309"></join>
+         
+               <p>318. (L.) 
+               
+                  <persName id="t17580913-62-defend590" type="defendantName">
+                     Anne 
+                     Neat 
+                  <interp inst="t17580913-62-defend590" type="surname" value="Neat"></interp>
+                     <interp inst="t17580913-62-defend590" type="given" value="Anne"></interp>
+                     <interp inst="t17580913-62-defend590" type="gender" value="female"></interp>
+                     <interp inst="t17580913-62-defend590" type="age" value="sixteen years of age"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17580913-62-off307" type="offenceDescription">
+                     <interp inst="t17580913-62-off307" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-62-off307" type="offenceSubcategory" value="other"></interp>
+               stealing two aprons, two handkerchiefs, two shifts, one silver tea spoon, one calimanco petticoat, one camblet petticoat, one cotton gown, and one calimanco gown
+            </rs>, the property of 
+               
+                  <persName id="t17580913-62-victim592" type="victimName">
+                     Elizabeth 
+                     Kingman 
+                  <interp inst="t17580913-62-victim592" type="surname" value="Kingman"></interp>
+                     <interp inst="t17580913-62-victim592" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-62-victim592" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580913-62-off307 t17580913-62-victim592"></join>
+                  </persName>
+                
+            , <rs id="t17580913-62-cd308" type="crimeDate">August 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-62-off307 t17580913-62-cd308"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17580913-62-person593">
+                  Elizabeth 
+                  Kingman 
+               <interp inst="t17580913-62-person593" type="surname" value="Kingman"></interp>
+                     <interp inst="t17580913-62-person593" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-62-person593" type="gender" value="female"></interp>
+                  </persName>
+            . I lost the goods mentioned in the indictment, they are all found again, except the spoon, which the prisoner said she had sold.</p>
+               <p>
+            
+                  <persName id="t17580913-62-person594">
+                  William 
+                  Jennings 
+               <interp inst="t17580913-62-person594" type="surname" value="Jennings"></interp>
+                     <interp inst="t17580913-62-person594" type="given" value="William"></interp>
+                     <interp inst="t17580913-62-person594" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable, I took the prisoner, she had a calimanco petticoat on, which the prosecutrix owned. The prisoner confess'd where she had pawned the other things, and I went by her direction and found them.</p>
+               <p>Prisoner's defence.</p>
+               <p>I am but sixteen years of age.</p>
+               <p>She called 
+               <persName id="t17580913-62-person595">
+                  Mary 
+                  Curfey 
+               <interp inst="t17580913-62-person595" type="surname" value="Curfey"></interp>
+                     <interp inst="t17580913-62-person595" type="given" value="Mary"></interp>
+                     <interp inst="t17580913-62-person595" type="gender" value="female"></interp>
+                  </persName>
+            , who had known her twelve years, and 
+               <persName id="t17580913-62-person596">
+                  Elizabeth 
+                  Dadley 
+               <interp inst="t17580913-62-person596" type="surname" value="Dadley"></interp>
+                     <interp inst="t17580913-62-person596" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-62-person596" type="gender" value="female"></interp>
+                  </persName>
+            , from three<xptr type="pageFacsimile" doc="175809130059"></xptr> or four years of age, who gave her a good character.</p>
+               <p>
+                  <rs id="t17580913-62-verdict309" type="verdictDescription">
+                     <interp inst="t17580913-62-verdict309" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17580913-62-verdict309" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17580913-62-punish310" type="punishmentDescription">
+                     <interp inst="t17580913-62-punish310" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17580913-62-punish310" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580913-62-defend590 t17580913-62-punish310"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

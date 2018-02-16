@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16911209-3">
+               <interp inst="t16911209-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16911209-3" type="year" value="1691"></interp>
+               <interp inst="t16911209-3" type="uri" value="sessionsPapers/16911209"></interp>
+               <interp inst="t16911209-3" type="date" value="16911209"></interp>
+               <join result="criminalCharge" id="t16911209-3-off12-c30" targOrder="Y" targets="t16911209-3-defend30 t16911209-3-off12 t16911209-3-verdict15"></join>
+               <join result="criminalCharge" id="t16911209-3-off12-c31" targOrder="Y" targets="t16911209-3-defend31 t16911209-3-off12 t16911209-3-verdict15"></join>
+               <join result="criminalCharge" id="t16911209-3-off12-c32" targOrder="Y" targets="t16911209-3-defend32 t16911209-3-off12 t16911209-3-verdict15"></join>
+         
+               <p>
+            
+                  <persName id="t16911209-3-defend30" type="defendantName">
+                  B - 
+                  G -
+               <interp inst="t16911209-3-defend30" type="surname" value="G -"></interp>
+                     <interp inst="t16911209-3-defend30" type="given" value="B -"></interp>
+                     <interp inst="t16911209-3-defend30" type="gender" value="female"></interp>
+                  </persName>
+            , of the County of <placeName id="t16911209-3-defloc9">Denbigh</placeName>
+                  <interp inst="t16911209-3-defloc9" type="placeName" value="Denbigh"></interp>
+                  <interp inst="t16911209-3-defloc9" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16911209-3-defend30 t16911209-3-defloc9"></join> 
+                  <rs id="t16911209-3-deflabel10" type="occupation">Gentlewoman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16911209-3-defend30 t16911209-3-deflabel10"></join>, 
+               <persName id="t16911209-3-defend31" type="defendantName">
+                  Anne 
+                  Richardson
+               <interp inst="t16911209-3-defend31" type="surname" value="Richardson"></interp>
+                     <interp inst="t16911209-3-defend31" type="given" value="Anne"></interp>
+                     <interp inst="t16911209-3-defend31" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16911209-3-defend32" type="defendantName">
+                  Jane 
+                  Bromley
+               <interp inst="t16911209-3-defend32" type="surname" value="Bromley"></interp>
+                     <interp inst="t16911209-3-defend32" type="given" value="Jane"></interp>
+                     <interp inst="t16911209-3-defend32" type="gender" value="female"></interp>
+                  </persName>
+             of <placeName id="t16911209-3-defloc11">Westminster</placeName>
+                  <interp inst="t16911209-3-defloc11" type="placeName" value="Westminster"></interp>
+                  <interp inst="t16911209-3-defloc11" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16911209-3-defend31 t16911209-3-defloc11"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16911209-3-defend32 t16911209-3-defloc11"></join>, were all Three Indicted; B - G - as Principle, and the two latter as Accessary; for the <rs id="t16911209-3-off12" type="offenceDescription">
+                     <interp inst="t16911209-3-off12" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16911209-3-off12" type="offenceSubcategory" value="infanticide"></interp>
+               Murther of Mrs. B - G -s Female Infant
+            </rs>, on the <rs id="t16911209-3-cd13" type="crimeDate">4th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16911209-3-off12 t16911209-3-cd13"></join> last: The Evidence for the King Deposed, that the Child was found Dead, lying in a Vault, in some Old Ruined Houses, in <placeName id="t16911209-3-crimeloc14">Park-Street Westminster</placeName>
+                  <interp inst="t16911209-3-crimeloc14" type="placeName" value="Park-Street Westminster"></interp>
+                  <interp inst="t16911209-3-crimeloc14" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16911209-3-off12 t16911209-3-crimeloc14"></join>, being a most amazing Spectacle, having no Covering about it; and its Tongue forced out of the Mouth which was done by great Violence; it was further declared<xptr type="pageFacsimile" doc="16911209002"></xptr>by a person of Quality, with whom Mrs. B. had lived, that she complained of the Gripes, and took a Coach and went abroad, and after this it was proved by others, that she was Deliver'd at Richardson House, at Westminster, and that Richardson and Bromley carried the Child after it was Born, to the place above said, and that B. - owned it to be hers; but there was no Evidence, that could Charge her to have offered any Violence to the Child, and Richardson and Bromley came for her after she was Delivered, and found the Child Dead, But whether born alive or no, could not be found, and the Prisoner Mrs B - had made provision for her lying in; So in the End they were all <rs id="t16911209-3-verdict15" type="verdictDescription">
+                     <interp inst="t16911209-3-verdict15" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

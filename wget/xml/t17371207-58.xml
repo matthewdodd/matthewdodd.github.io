@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17371207-58">
+               <interp inst="t17371207-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t17371207-58" type="year" value="1737"></interp>
+               <interp inst="t17371207-58" type="uri" value="sessionsPapers/17371207"></interp>
+               <interp inst="t17371207-58" type="date" value="17371207"></interp>
+               <join result="criminalCharge" id="t17371207-58-off280-c265" targOrder="Y" targets="t17371207-58-defend387 t17371207-58-off280 t17371207-58-verdict284"></join>
+         
+               <p>67. 
+               
+                  <persName id="t17371207-58-defend387" type="defendantName">
+                     Joseph 
+                     Fisher 
+                  <interp inst="t17371207-58-defend387" type="surname" value="Fisher"></interp>
+                     <interp inst="t17371207-58-defend387" type="given" value="Joseph"></interp>
+                     <interp inst="t17371207-58-defend387" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17371207-58-off280" type="offenceDescription">
+                     <interp inst="t17371207-58-off280" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17371207-58-off280" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a silk Handkerchief, value 3 s. from the Person of 
+                     
+                        <persName id="t17371207-58-victim389" type="victimName">
+                           Richard 
+                           Legg 
+                        <interp inst="t17371207-58-victim389" type="surname" value="Legg"></interp>
+                        <interp inst="t17371207-58-victim389" type="given" value="Richard"></interp>
+                        <interp inst="t17371207-58-victim389" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17371207-58-off280 t17371207-58-victim389"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17371207-58-cd281" type="crimeDate">Oct. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17371207-58-off280 t17371207-58-cd281"></join>.</p>
+               <p>Legg. I was going past the <placeName id="t17371207-58-crimeloc282">Fleet-Market</placeName>
+                  <interp inst="t17371207-58-crimeloc282" type="placeName" value="Fleet-Market"></interp>
+                  <interp inst="t17371207-58-crimeloc282" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17371207-58-off280 t17371207-58-crimeloc282"></join> about half an Hour after 7 at Night, and the Prisoner put his Hand into my Pocket, and took my Handkerchief. I seiz'd him, but he beat me, and ask'd me if I had a Mind to rob him. I saw him by the Light of the Market, and am positive he is the Man.</p>
+               <p>
+            
+                  <persName id="t17371207-58-person390">
+                  Edward 
+                  Gardiner 
+               <interp inst="t17371207-58-person390" type="surname" value="Gardiner"></interp>
+                     <interp inst="t17371207-58-person390" type="given" value="Edward"></interp>
+                     <interp inst="t17371207-58-person390" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Bell-Court in Gray's-Inn-Lane, and keep a Chandler's Shop. The Prisoner did live with his Father at the Rainbow Coffee-House; since that he has been a Gentleman's <rs id="t17371207-58-deflabel283" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17371207-58-defend387 t17371207-58-deflabel283"></join>, but I believe he has not been in Business these 2 Years. <rs id="t17371207-58-verdict284" type="verdictDescription">
+                     <interp inst="t17371207-58-verdict284" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17371207-58-verdict284" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17371207-58-punish285" type="punishmentDescription">
+                     <interp inst="t17371207-58-punish285" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17371207-58-defend387 t17371207-58-punish285"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

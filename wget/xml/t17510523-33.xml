@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-33">
+               <interp inst="t17510523-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-33" type="year" value="1751"></interp>
+               <interp inst="t17510523-33" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-33" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-33-off187-c225" targOrder="Y" targets="t17510523-33-defend294 t17510523-33-off187 t17510523-33-verdict192"></join>
+         
+               <p>387. (M.) 
+               
+                  <persName id="t17510523-33-defend294" type="defendantName">
+                     Edward 
+                     Meredith 
+                  <interp inst="t17510523-33-defend294" type="surname" value="Meredith"></interp>
+                     <interp inst="t17510523-33-defend294" type="given" value="Edward"></interp>
+                     <interp inst="t17510523-33-defend294" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510523-33-off187" type="offenceDescription">
+                     <interp inst="t17510523-33-off187" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-33-off187" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twelve moidores, three 36 s. pieces, seven guineas
+            </rs>, the money of 
+               
+                  <persName id="t17510523-33-victim296" type="victimName">
+                     Charles 
+                     Wittingham 
+                  <interp inst="t17510523-33-victim296" type="surname" value="Wittingham"></interp>
+                     <interp inst="t17510523-33-victim296" type="given" value="Charles"></interp>
+                     <interp inst="t17510523-33-victim296" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-33-off187 t17510523-33-victim296"></join>
+                  </persName>
+                
+            , <rs id="t17510523-33-cd188" type="crimeDate">May 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-33-off187 t17510523-33-cd188"></join>. *</p>
+               <p>Charles Wittingham. I am a <rs id="t17510523-33-viclabel189" type="occupation">poulterer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510523-33-victim296 t17510523-33-viclabel189"></join>, and the prisoner was my <rs id="t17510523-33-deflabel190" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510523-33-defend294 t17510523-33-deflabel190"></join>. I live in <placeName id="t17510523-33-crimeloc191">Thieving-lane, Westminster</placeName>
+                  <interp inst="t17510523-33-crimeloc191" type="placeName" value="Thieving-lane, Westminster"></interp>
+                  <interp inst="t17510523-33-crimeloc191" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510523-33-off187 t17510523-33-crimeloc191"></join>. On the 14th of May, my wife and I went to Clare-market to see my brother and sister; before I went out I had taken four guineas and put them along with some more in a bag, in my drawer in the kitchen, I told the whole, which was twelve moidores, three 36 s. pieces, and seven guineas. We came home at about eleven o'clock at night. I was taken ill coming home, so went to bed directly. I got up next morning to go to market, I went to the drawer and it was open, the money and bag were gone.</p>
+               <p>Q. Was the drawer lock'd when you left it before?</p>
+               <p>Wittingham. I cannot say whether it was or not: The prisoner being missing I went to his wife that morning and ask'd where he was, but she did not know. I found him in St. James's-market on a horse he had bought that morning; I took him off the horse, he fell down and lay some time, but would not speak; I search'd him there and found ten moidores, one 36 s. piece, five guineas, seven shillings, and a penny; I took him home, then before Justice Lediard, he confess'd there he took the money out of a drawer of mine.</p>
+               <p>Prisoner's defence.</p>
+               <p>I am a young man that has had a great deal of trouble with a young woman which I lately married, she was brought to bed about six months ago; I had no money to support her and my brains were turned, and between whiles I am not in my senses.</p>
+               <p>
+                  <rs id="t17510523-33-verdict192" type="verdictDescription">
+                     <interp inst="t17510523-33-verdict192" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17510523-33-punish193" type="punishmentDescription">
+                     <interp inst="t17510523-33-punish193" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510523-33-defend294 t17510523-33-punish193"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

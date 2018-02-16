@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880531-1">
+               <interp inst="t16880531-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880531-1" type="year" value="1688"></interp>
+               <interp inst="t16880531-1" type="uri" value="sessionsPapers/16880531"></interp>
+               <interp inst="t16880531-1" type="date" value="16880531"></interp>
+               <join result="criminalCharge" id="t16880531-1-off1-c27" targOrder="Y" targets="t16880531-1-defend28 t16880531-1-off1 t16880531-1-verdict4"></join>
+         
+               <p>London Side. 
+               
+                  <persName id="t16880531-1-defend28" type="defendantName">
+                     George 
+                     Kirby
+                  <interp inst="t16880531-1-defend28" type="surname" value="Kirby"></interp>
+                     <interp inst="t16880531-1-defend28" type="given" value="George"></interp>
+                     <interp inst="t16880531-1-defend28" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16880531-1-off1" type="offenceDescription">
+                     <interp inst="t16880531-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880531-1-off1" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in Breaking the House of 
+                     
+                        <persName id="t16880531-1-victim30" type="victimName">
+                           George 
+                           Sherbone
+                        <interp inst="t16880531-1-victim30" type="surname" value="Sherbone"></interp>
+                        <interp inst="t16880531-1-victim30" type="given" value="George"></interp>
+                        <interp inst="t16880531-1-victim30" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880531-1-off1 t16880531-1-victim30"></join>
+                     </persName>
+                     
+                  , and taking thence forty yards of Black Bengal Silk, value 20 s. three yards of Silver Lace, value 4 l. forty six yards of Calico, value 40 s. 277 yards of Narrow Silk Ribboning. value 50 s. thirty five yards more of Silk Galloon, value 8 s. one Silk Cloak, value 3 l. one Purple Morning-Gown, value 12 s. with other Goods, all amounting to the value of about 50 l.
+            </rs> The Evidence against the Prisoner, was Mr. Sherbone, who Deposed, that the Prisoner was a <rs id="t16880531-1-deflabel2" type="occupation">Journey-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880531-1-defend28 t16880531-1-deflabel2"></join> to him; he being a <rs id="t16880531-1-viclabel3" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880531-1-victim30 t16880531-1-viclabel3"></join> and dealt in the aforesaid Goods, the Prisoner making a false Key got into the Shop, in the Morning Early, before the Family was stirring, and so removed the Goods and made them away. The Prisoner did not deny but that he had some of the Goods, but declared, that he did not Break the House. But he having nothing material to say for himself, whereby to clear his Innocency, he was found <rs id="t16880531-1-verdict4" type="verdictDescription">
+                     <interp inst="t16880531-1-verdict4" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880531-1-verdict4" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of the Felony, but not of the Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t16880531-1-punish5" type="punishmentDescription">
+                     <interp inst="t16880531-1-punish5" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880531-1-punish5" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880531-1-defend28 t16880531-1-punish5"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17531024-28">
+               <interp inst="t17531024-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17531024-28" type="year" value="1753"></interp>
+               <interp inst="t17531024-28" type="uri" value="sessionsPapers/17531024"></interp>
+               <interp inst="t17531024-28" type="date" value="17531024"></interp>
+               <join result="criminalCharge" id="t17531024-28-off120-c142" targOrder="Y" targets="t17531024-28-defend188 t17531024-28-off120 t17531024-28-verdict123"></join>
+               <join result="criminalCharge" id="t17531024-28-off120-c143" targOrder="Y" targets="t17531024-28-defend190 t17531024-28-off120 t17531024-28-verdict122"></join>
+         
+               <p>470, 471 (M.) 
+               <persName id="t17531024-28-defend188" type="defendantName">
+                  
+                     
+                        
+                           <persName id="t17531024-28-defend190" type="defendantName">
+                              Richard 
+                              Mooney 
+                           <interp inst="t17531024-28-defend190" type="surname" value="Mooney"></interp>
+                        <interp inst="t17531024-28-defend190" type="given" value="Richard"></interp>
+                        <interp inst="t17531024-28-defend190" type="gender" value="male"></interp>
+                     </persName>
+                         
+                     
+                   and Joyce
+                   his 
+                  <rs id="t17531024-28-deflabel119" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17531024-28-defend188 t17531024-28-deflabel119"></join>
+                     <interp inst="t17531024-28-defend188" type="surname" value="Mooney"></interp>
+                     <interp inst="t17531024-28-defend188" type="given" value="Joyce"></interp>
+                     <interp inst="t17531024-28-defend188" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17531024-28-off120" type="offenceDescription">
+                     <interp inst="t17531024-28-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17531024-28-off120" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two pewter plates, val. 4 d. one pewter dish, val 6 d. one linnen sheet, val. 4 d. one blanket, val 4 d. one feather bolster, val. 3 d. and seven lb. wt. of feathers, val. 2 s. 6 d. the goods of 
+                     
+                        <persName id="t17531024-28-victim192" type="victimName">
+                           Alice 
+                           Hughes 
+                        <interp inst="t17531024-28-victim192" type="surname" value="Hughes"></interp>
+                        <interp inst="t17531024-28-victim192" type="given" value="Alice"></interp>
+                        <interp inst="t17531024-28-victim192" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17531024-28-off120 t17531024-28-victim192"></join>
+                     </persName>
+                      
+                  , out of a certain lodging room let by contract
+            </rs>, <rs id="t17531024-28-cd121" type="crimeDate">Oct. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17531024-28-off120 t17531024-28-cd121"></join>. +</p>
+               <p>Richard, <rs id="t17531024-28-verdict122" type="verdictDescription">
+                     <interp inst="t17531024-28-verdict122" type="verdictCategory" value="notGuilty"></interp>
+               Acq
+            </rs>.</p>
+               <p>Joyce, <rs id="t17531024-28-verdict123" type="verdictDescription">
+                     <interp inst="t17531024-28-verdict123" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17531024-28-punish124" type="punishmentDescription">
+                     <interp inst="t17531024-28-punish124" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17531024-28-punish124" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17531024-28-defend188 t17531024-28-punish124"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17531024-28-defend190 t17531024-28-punish124"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

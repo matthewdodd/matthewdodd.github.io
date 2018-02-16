@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500425-36">
+               <interp inst="t17500425-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500425-36" type="year" value="1750"></interp>
+               <interp inst="t17500425-36" type="uri" value="sessionsPapers/17500425"></interp>
+               <interp inst="t17500425-36" type="date" value="17500425"></interp>
+               <join result="criminalCharge" id="t17500425-36-off180-c233" targOrder="Y" targets="t17500425-36-defend303 t17500425-36-off180 t17500425-36-verdict182"></join>
+         
+               <p>332. 
+               <persName id="t17500425-36-defend303" type="defendantName">
+                  John 
+                  Copless 
+               <interp inst="t17500425-36-defend303" type="surname" value="Copless"></interp>
+                     <interp inst="t17500425-36-defend303" type="given" value="John"></interp>
+                     <interp inst="t17500425-36-defend303" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for the <rs id="t17500425-36-off180" type="offenceDescription">
+                     <interp inst="t17500425-36-off180" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17500425-36-off180" type="offenceSubcategory" value="murder"></interp>
+               murder
+            </rs> of 
+               <persName id="t17500425-36-victim304" type="victimName">
+                  John 
+                  Green 
+               <interp inst="t17500425-36-victim304" type="surname" value="Green"></interp>
+                     <interp inst="t17500425-36-victim304" type="given" value="John"></interp>
+                     <interp inst="t17500425-36-victim304" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500425-36-off180 t17500425-36-victim304"></join>
+                  </persName>
+             : He also stood charged upon the Coroner's Inquisition of Manslaughter, <rs id="t17500425-36-cd181" type="crimeDate">Mar. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500425-36-off180 t17500425-36-cd181"></join>.</p>
+               <p>
+                  <rs id="t17500425-36-verdict182" type="verdictDescription">
+                     <interp inst="t17500425-36-verdict182" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17500425-36-verdict182" type="verdictSubcategory" value="accidentalDeath"></interp>
+               Accidental Death
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870406-12">
+               <interp inst="t16870406-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870406-12" type="year" value="1687"></interp>
+               <interp inst="t16870406-12" type="uri" value="sessionsPapers/16870406"></interp>
+               <interp inst="t16870406-12" type="date" value="16870406"></interp>
+               <join result="criminalCharge" id="t16870406-12-off62-c61" targOrder="Y" targets="t16870406-12-defend85 t16870406-12-off62 t16870406-12-verdict65"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870406-12-defend85" type="defendantName">
+                     Mary 
+                     Burton
+                  <interp inst="t16870406-12-defend85" type="surname" value="Burton"></interp>
+                     <interp inst="t16870406-12-defend85" type="given" value="Mary"></interp>
+                     <interp inst="t16870406-12-defend85" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16870406-12-off62" type="offenceDescription">
+                     <interp inst="t16870406-12-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870406-12-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tumbler valu'd 25 s.
+            </rs> from 
+               
+                  <persName id="t16870406-12-victim87" type="victimName">
+                     John 
+                     Perry
+                  <interp inst="t16870406-12-victim87" type="surname" value="Perry"></interp>
+                     <interp inst="t16870406-12-victim87" type="given" value="John"></interp>
+                     <interp inst="t16870406-12-victim87" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870406-12-off62 t16870406-12-victim87"></join>
+                  </persName>
+               
+             of <placeName id="t16870406-12-crimeloc63">St. Pauls Covent Garden</placeName>
+                  <interp inst="t16870406-12-crimeloc63" type="placeName" value="St. Pauls Covent Garden"></interp>
+                  <interp inst="t16870406-12-crimeloc63" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870406-12-off62 t16870406-12-crimeloc63"></join>, on the <rs id="t16870406-12-cd64" type="crimeDate">22d. of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870406-12-off62 t16870406-12-cd64"></join> last, upon her Tryal it appeared that she being a Lodger in the House of Perry, found means to take the Cup which she sold to a Broker in Hounds ditch for Twelve Shillings; where by her directions Perry found it, and had it restor'd him by the Broker, and she confessing as much in Court, the Jury in consideration it appeared to be her first Fact found her <rs id="t16870406-12-verdict65" type="verdictDescription">
+                     <interp inst="t16870406-12-verdict65" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870406-12-verdict65" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty but to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870406-12-punish66" type="punishmentDescription">
+                     <interp inst="t16870406-12-punish66" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870406-12-punish66" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870406-12-defend85 t16870406-12-punish66"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

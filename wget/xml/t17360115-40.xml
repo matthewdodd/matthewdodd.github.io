@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-40">
+               <interp inst="t17360115-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-40" type="year" value="1736"></interp>
+               <interp inst="t17360115-40" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-40" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-40-off223-c205" targOrder="Y" targets="t17360115-40-defend296 t17360115-40-off223 t17360115-40-verdict225"></join>
+         
+               <p>44. 
+               
+                  <persName id="t17360115-40-defend296" type="defendantName">
+                     Nathaniel 
+                     Hazledine 
+                  <interp inst="t17360115-40-defend296" type="surname" value="Hazledine"></interp>
+                     <interp inst="t17360115-40-defend296" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17360115-40-defend296" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-40-defloc222">St. Mary le Bow in Middlesex</placeName>
+                  <interp inst="t17360115-40-defloc222" type="placeName" value="St. Mary le Bow in Middlesex"></interp>
+                  <interp inst="t17360115-40-defloc222" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-40-defend296 t17360115-40-defloc222"></join> , was indicted for <rs id="t17360115-40-off223" type="offenceDescription">
+                     <interp inst="t17360115-40-off223" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-40-off223" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 4 Shirts, 3 Sheets and a Shift , value 20 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360115-40-victim298" type="victimName">
+                     John 
+                     Adams 
+                  <interp inst="t17360115-40-victim298" type="surname" value="Adams"></interp>
+                     <interp inst="t17360115-40-victim298" type="given" value="John"></interp>
+                     <interp inst="t17360115-40-victim298" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17360115-40-victim300" type="victimName">
+                     Jacob 
+                     Maccartney 
+                  <interp inst="t17360115-40-victim300" type="surname" value="Maccartney"></interp>
+                     <interp inst="t17360115-40-victim300" type="given" value="Jacob"></interp>
+                     <interp inst="t17360115-40-victim300" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17360115-40-cd224" type="crimeDate">December 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-40-off223 t17360115-40-cd224"></join>. last.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173601150016"></xptr>Jacob Adams. I caught this Man taking the Linnen off the Lines in my Yard; and asked him, where he was going with it: The Linnen is my own, says he - You are mistaken, 'tis mine, says I; I seized him, and he dropped it in the Yard.</p>
+               <p>Maccartney. I happened to come in, while Mr. Adams had the Prisoner by the Collar, and saw the Linnen on the Ground.</p>
+               <p>
+            
+                  <persName id="t17360115-40-person301">
+                  Mary 
+                  Clay 
+               <interp inst="t17360115-40-person301" type="surname" value="Clay"></interp>
+                     <interp inst="t17360115-40-person301" type="given" value="Mary"></interp>
+                     <interp inst="t17360115-40-person301" type="gender" value="female"></interp>
+                  </persName>
+            's Evidence was to the same Purpose. <rs id="t17360115-40-verdict225" type="verdictDescription">
+                     <interp inst="t17360115-40-verdict225" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-40-verdict225" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17360115-40-punish226" type="punishmentDescription">
+                     <interp inst="t17360115-40-punish226" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-40-defend296 t17360115-40-punish226"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

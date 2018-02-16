@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17611209-42">
+               <interp inst="t17611209-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17611209-42" type="year" value="1761"></interp>
+               <interp inst="t17611209-42" type="uri" value="sessionsPapers/17611209"></interp>
+               <interp inst="t17611209-42" type="date" value="17611209"></interp>
+               <join result="criminalCharge" id="t17611209-42-off244-c373" targOrder="Y" targets="t17611209-42-defend455 t17611209-42-off244 t17611209-42-verdict246"></join>
+         
+               <p>47. (L). 
+               <persName id="t17611209-42-defend455" type="defendantName">
+                  Patrick
+                   Mc. Cay
+               <interp inst="t17611209-42-defend455" type="surname" value="Mc. Cay"></interp>
+                     <interp inst="t17611209-42-defend455" type="given" value="Patrick"></interp>
+                     <interp inst="t17611209-42-defend455" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17611209-42-off244" type="offenceDescription">
+                     <interp inst="t17611209-42-off244" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17611209-42-off244" type="offenceSubcategory" value="seducingAllegiance"></interp>
+               unlawfully and wickedly endeavouring to intice and persuade 
+                     
+                        <persName id="t17611209-42-victim457" type="victimName">
+                           Joseph 
+                           Read 
+                        <interp inst="t17611209-42-victim457" type="surname" value="Read"></interp>
+                        <interp inst="t17611209-42-victim457" type="given" value="Joseph"></interp>
+                        <interp inst="t17611209-42-victim457" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17611209-42-off244 t17611209-42-victim457"></join>
+                     </persName>
+                      
+                  , a subject of Great Britain, to enter into the French king's service, without leave or licence first had
+            </rs>, &amp;c. <rs id="t17611209-42-cd245" type="crimeDate">Sept. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17611209-42-off244 t17611209-42-cd245"></join>. +</p>
+               <p>
+                  <rs id="t17611209-42-verdict246" type="verdictDescription">
+                     <interp inst="t17611209-42-verdict246" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

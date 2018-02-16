@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-12">
+               <interp inst="t16880711-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-12" type="year" value="1688"></interp>
+               <interp inst="t16880711-12" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-12" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-12-off58-c57" targOrder="Y" targets="t16880711-12-defend80 t16880711-12-off58 t16880711-12-verdict61"></join>
+         
+               <p>
+            
+                  <persName id="t16880711-12-defend80" type="defendantName">
+                  A - 
+                  E -
+               <interp inst="t16880711-12-defend80" type="surname" value="E -"></interp>
+                     <interp inst="t16880711-12-defend80" type="given" value="A -"></interp>
+                     <interp inst="t16880711-12-defend80" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16880711-12-defloc57">St. Mary Colechurch</placeName>
+                  <interp inst="t16880711-12-defloc57" type="placeName" value="St. Mary Colechurch"></interp>
+                  <interp inst="t16880711-12-defloc57" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880711-12-defend80 t16880711-12-defloc57"></join>, was Tried for a <rs id="t16880711-12-off58" type="offenceDescription">
+                     <interp inst="t16880711-12-off58" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t16880711-12-off58" type="offenceSubcategory" value="rape"></interp>
+               Rape committed upon the Body of 
+                     
+                        <persName id="t16880711-12-victim82" type="victimName">
+                           Ruth 
+                           Ubanck
+                        <interp inst="t16880711-12-victim82" type="surname" value="Ubanck"></interp>
+                        <interp inst="t16880711-12-victim82" type="given" value="Ruth"></interp>
+                        <interp inst="t16880711-12-victim82" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880711-12-off58 t16880711-12-victim82"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>, on the <rs id="t16880711-12-cd59" type="crimeDate">28th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880711-12-off58 t16880711-12-cd59"></join> last. The Evidence was very Numerous against him, viz. the Father and Mother of the <rs id="t16880711-12-viclabel60" type="occupation">Child</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880711-12-victim82 t16880711-12-viclabel60"></join>, and two or three Midwives, besides the Childs Evidence, who said, That he threw her upon a Bed in the House, whilst the Family was abroad, and used her Body in a violent manner, and gave her Farthings to entice her. The Child also said that she cried out, which was proved by another Witness The Evidence further deposed, That the Prisoner stopp'd the Childs Mouth. The Midwives declared that the Child was used in a very bad manner, and that it came to pass by the Use of a Man, and no other way, according to the best of their Skill. But a Chyrurgeon being call'd to Search the Child, and another strange Midwife, who differed from the other in their Opinions, and said it was not done by any force of a Man, &amp;c. After a large Hearing on both Sides, the Jury brought him in <rs id="t16880711-12-verdict61" type="verdictDescription">
+                     <interp inst="t16880711-12-verdict61" type="verdictCategory" value="guilty"></interp>
+               Guil
+            </rs>- of Felony.</p>
+               <p>
+                  <rs id="t16880711-12-punish62" type="punishmentDescription">
+                     <interp inst="t16880711-12-punish62" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-12-defend80 t16880711-12-punish62"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

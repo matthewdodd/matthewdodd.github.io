@@ -1,3 +1,95 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-53">
+               <interp inst="t16890516-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-53" type="year" value="1689"></interp>
+               <interp inst="t16890516-53" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-53" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-53-off233-c146" targOrder="Y" targets="t16890516-53-defend226 t16890516-53-off233 t16890516-53-verdict237"></join>
+               <join result="criminalCharge" id="t16890516-53-off238-c146" targOrder="Y" targets="t16890516-53-defend226 t16890516-53-off238 t16890516-53-verdict237"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-53-defend226" type="defendantName">
+                     Charles 
+                     Walsingham
+                  <interp inst="t16890516-53-defend226" type="surname" value="Walsingham"></interp>
+                     <interp inst="t16890516-53-defend226" type="given" value="Charles"></interp>
+                     <interp inst="t16890516-53-defend226" type="gender" value="male"></interp>
+                  </persName>
+               
+             
+                  <rs id="t16890516-53-deflabel232" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16890516-53-defend226 t16890516-53-deflabel232"></join> was a second time Indicted for the <rs id="t16890516-53-off233" type="offenceDescription">
+                     <interp inst="t16890516-53-off233" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16890516-53-off233" type="offenceSubcategory" value="murder"></interp>
+               Murder of 
+                     
+                        <persName id="t16890516-53-victim228" type="victimName">
+                           John 
+                           Stoner
+                        <interp inst="t16890516-53-victim228" type="surname" value="Stoner"></interp>
+                        <interp inst="t16890516-53-victim228" type="given" value="John"></interp>
+                        <interp inst="t16890516-53-victim228" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   
+                     <rs id="t16890516-53-viclabel234" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16890516-53-victim228 t16890516-53-viclabel234"></join> on the <rs id="t16890516-53-cd235" type="crimeDate">29th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-53-off233 t16890516-53-cd235"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-53-off238 t16890516-53-cd235"></join> last, with a Rapier value 5 s. giving him a mortal wound upon the left part of his Belly 6 Inches deep
+            </rs>. The Evidence deposed that about one a clock in the morning the two Prisoners came into <placeName id="t16890516-53-crimeloc236">Drury lane</placeName>
+                  <interp inst="t16890516-53-crimeloc236" type="placeName" value="Drury lane"></interp>
+                  <interp inst="t16890516-53-crimeloc236" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16890516-53-off233 t16890516-53-crimeloc236"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t16890516-53-off238 t16890516-53-crimeloc236"></join> in a Coach, and there fought, and the Prisoner wounded Mr. Stoner. It was further testified also, That Mr. Stoner had no Sword, nor other Weapon. And Mr. Walsingham said before the Surgeon, That if he lived he must pay for the Care; if he died, he must suffer for it, &amp;c. and Mr. Stoner said, That Mr. Walsingham had given him the Wound. The Prisoner said in his defence, That Mr. Stoner and some others persued him in Drury-lane, and gave him very ill Language, calling of him Coward, &amp;c. And that he did not draw his Sword first, and that he pulled him by the hair of the Head, and then fell upon his sword. He called some Evidence, who said that the Deceased was full of Drink, and did not know that he gave him any Affront, only pulled his hair, after Mr. Walsingham had draw his sword in his own Defence. But it further appeared, That he drew upon a Naked Man, which was looked upon by the Court to be a most desperate and wilful Act in the Prisoner, and beneath a Gentleman. So after a distinct Hearing on both sides, the Court directed the Jury to be very careful in their Verdict, and left it to their own Consciences, &amp;c. after which they found him <rs id="t16890516-53-verdict237" type="verdictDescription">
+                     <interp inst="t16890516-53-verdict237" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of wilful Murder.</p>
+               <p>
+            
+                  <persName id="t16890516-53-person229">
+                  Charles 
+                  Walsingham
+               <interp inst="t16890516-53-person229" type="surname" value="Walsingham"></interp>
+                     <interp inst="t16890516-53-person229" type="given" value="Charles"></interp>
+                     <interp inst="t16890516-53-person229" type="gender" value="male"></interp>
+                  </persName>
+             was a third time Indicted, for <rs id="t16890516-53-off238" type="offenceDescription">
+                     <interp inst="t16890516-53-off238" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16890516-53-off238" type="offenceSubcategory" value="other"></interp>
+               killing 
+                     
+                        <persName id="t16890516-53-victim231" type="victimName">
+                           John 
+                           Harbin
+                        <interp inst="t16890516-53-victim231" type="surname" value="Harbin"></interp>
+                        <interp inst="t16890516-53-victim231" type="given" value="John"></interp>
+                        <interp inst="t16890516-53-victim231" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   
+                     <rs id="t16890516-53-viclabel239" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16890516-53-victim231 t16890516-53-viclabel239"></join> giving him one mortal wound of the depth of 6 Inches, under his right Arm-hole, of which he instantly died
+            </rs>. Upon the Evidence he appeared, That on the <rs id="t16890516-53-cd240" type="crimeDate">28th day of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-53-off233 t16890516-53-cd240"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-53-off238 t16890516-53-cd240"></join> 1688, the Prisoner and the Deceased went abroad in a Coach together, and Mr Harbin returned in about an hour and an half after alone, and was much wounded, as aforesaid, and the Surgeon swore he died immediately after he had drest his wound. It was further declared by very credible Evidence, that the Prisoner had received great Abuses while they went abroad in the Coach, and when they came to <placeName id="t16890516-53-crimeloc241">Hide Park</placeName>
+                  <interp inst="t16890516-53-crimeloc241" type="placeName" value="Hide Park"></interp>
+                  <interp inst="t16890516-53-crimeloc241" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16890516-53-off233 t16890516-53-crimeloc241"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t16890516-53-off238 t16890516-53-crimeloc241"></join>, they drew upon each other, and the Prisoner gave him his Life and his Sword, for that he the deceased had struck him twice, and then he gave him the Thrust. This was confessed by the Prisoner before the King's Coroner, and this was lookt upon to be a grudge between them, because of the precedent Quarrel going to Hide Park. It appeared further, that Mr. Harbin gave the Prisoner very abusive Language, calling him Rogue, and very infamous Titles, and urged him to fight him, This was evidenced by the Witness on the Prisoner's side, how that they quarrelled about the Coach, it was in the Night-time about 10 a clock, and there was wounds on both sides. So after the Court had well weighed the whole course of the Evidence on both sides to the Jury, he was found <rs id="t16890516-53-verdict242" type="verdictDescription">
+                     <interp inst="t16890516-53-verdict242" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16890516-53-verdict242" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16890516-53-punish243" type="punishmentDescription">
+                     <interp inst="t16890516-53-punish243" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-53-defend226 t16890516-53-punish243"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

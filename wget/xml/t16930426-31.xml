@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-31">
+               <interp inst="t16930426-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-31" type="year" value="1693"></interp>
+               <interp inst="t16930426-31" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-31" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-31-off145-c99" targOrder="Y" targets="t16930426-31-defend99 t16930426-31-off145 t16930426-31-verdict147"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-31-defend99" type="defendantName">
+                  Lucey 
+                  Whale
+               <interp inst="t16930426-31-defend99" type="surname" value="Whale"></interp>
+                     <interp inst="t16930426-31-defend99" type="given" value="Lucey"></interp>
+                     <interp inst="t16930426-31-defend99" type="gender" value="female"></interp>
+                  </persName>
+            , was Tried for <rs id="t16930426-31-off145" type="offenceDescription">
+                     <interp inst="t16930426-31-off145" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-31-off145" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing one 
+                     <persName id="t16930426-31-victim100" type="victimName">
+                        Robert 
+                        Elliot
+                     <interp inst="t16930426-31-victim100" type="surname" value="Elliot"></interp>
+                        <interp inst="t16930426-31-victim100" type="given" value="Robert"></interp>
+                        <interp inst="t16930426-31-victim100" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-31-off145 t16930426-31-victim100"></join>
+                     </persName>
+                   of <placeName id="t16930426-31-crimeloc146">Covent-Garden</placeName>
+                     <interp inst="t16930426-31-crimeloc146" type="placeName" value="Covent-Garden"></interp>
+                     <interp inst="t16930426-31-crimeloc146" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16930426-31-off145 t16930426-31-crimeloc146"></join> of four pair of Callico Curtains, value 8s. a pair of Sheets and Blankets, a Looking-glass
+            </rs>. She lodged in Mr. Elliot's House, and confest that she took the things and Pawned them, having urgent occasion for Money for a Weeks time, with a design to bring them again; that was all the defence she made: she was found <rs id="t16930426-31-verdict147" type="verdictDescription">
+                     <interp inst="t16930426-31-verdict147" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16930426-31-verdict147" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16930426-31-punish148" type="punishmentDescription">
+                     <interp inst="t16930426-31-punish148" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16930426-31-punish148" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-31-defend99 t16930426-31-punish148"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-23">
+               <interp inst="t16880831-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-23" type="year" value="1688"></interp>
+               <interp inst="t16880831-23" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-23" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-23-off120-c90" targOrder="Y" targets="t16880831-23-defend133 t16880831-23-off120 t16880831-23-verdict122"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880831-23-defend133" type="defendantName">
+                     William 
+                     Wood
+                  <interp inst="t16880831-23-defend133" type="surname" value="Wood"></interp>
+                     <interp inst="t16880831-23-defend133" type="given" value="William"></interp>
+                     <interp inst="t16880831-23-defend133" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16880831-23-defloc119">St. Giles's in the Fields</placeName>
+                  <interp inst="t16880831-23-defloc119" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16880831-23-defloc119" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880831-23-defend133 t16880831-23-defloc119"></join>, was Indicted for <rs id="t16880831-23-off120" type="offenceDescription">
+                     <interp inst="t16880831-23-off120" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t16880831-23-off120" type="offenceSubcategory" value="assault"></interp>
+               Biting off a piece of the Tongue of one 
+                     <persName id="t16880831-23-victim134" type="victimName">
+                        William 
+                        St. John Child
+                     <interp inst="t16880831-23-victim134" type="surname" value="St. John Child"></interp>
+                        <interp inst="t16880831-23-victim134" type="given" value="William"></interp>
+                        <interp inst="t16880831-23-victim134" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880831-23-off120 t16880831-23-victim134"></join>
+                     </persName>
+                  
+               
+                  </rs>, on the <rs id="t16880831-23-cd121" type="crimeDate">26th. of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880831-23-off120 t16880831-23-cd121"></join> last; there was a Quarrel hapned between the Prisoner and Mr. Child, and some others in the Prisoner's House, and Wood and his Wife fell upon Mr. Child, and she held him whil'st her Husband bit off his Tongue about half an Inch; all which the Prisoner denied, and said that he knew nothing of it, and called several Witnesses on his side; but in the Conclusion it did not appear to the Jury that any one saw him commit the Fact, so he was <rs id="t16880831-23-verdict122" type="verdictDescription">
+                     <interp inst="t16880831-23-verdict122" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

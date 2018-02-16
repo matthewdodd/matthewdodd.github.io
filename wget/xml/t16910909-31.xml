@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910909-31">
+               <interp inst="t16910909-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910909-31" type="year" value="1691"></interp>
+               <interp inst="t16910909-31" type="uri" value="sessionsPapers/16910909"></interp>
+               <interp inst="t16910909-31" type="date" value="16910909"></interp>
+               <join result="criminalCharge" id="t16910909-31-off146-c98" targOrder="Y" targets="t16910909-31-defend98 t16910909-31-off146 t16910909-31-verdict148"></join>
+               <join result="criminalCharge" id="t16910909-31-off146-c99" targOrder="Y" targets="t16910909-31-defend99 t16910909-31-off146 t16910909-31-verdict148"></join>
+         
+               <p>
+            
+                  <persName id="t16910909-31-defend98" type="defendantName">
+                  George 
+                  Powell
+               <interp inst="t16910909-31-defend98" type="surname" value="Powell"></interp>
+                     <interp inst="t16910909-31-defend98" type="given" value="George"></interp>
+                     <interp inst="t16910909-31-defend98" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16910909-31-defend99" type="defendantName">
+                  Daniel 
+                  Kirkham
+               <interp inst="t16910909-31-defend99" type="surname" value="Kirkham"></interp>
+                     <interp inst="t16910909-31-defend99" type="given" value="Daniel"></interp>
+                     <interp inst="t16910909-31-defend99" type="gender" value="male"></interp>
+                  </persName>
+            , were both Indicted for <rs id="t16910909-31-off146" type="offenceDescription">
+                     <interp inst="t16910909-31-off146" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-31-off146" type="offenceSubcategory" value="theftFromPlace"></interp>
+               Robbing the <placeName id="t16910909-31-crimeloc147">Play-House in Salisbury-Court</placeName>
+                     <interp inst="t16910909-31-crimeloc147" type="placeName" value="Play-House in Salisbury-Court"></interp>
+                     <interp inst="t16910909-31-crimeloc147" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-31-off146 t16910909-31-crimeloc147"></join>, on the 23d of July last, of abundance of Silver and Gold Lace
+            </rs>; but there was no Evidence produced that could charge the prisoners, so they were immediately <rs id="t16910909-31-verdict148" type="verdictDescription">
+                     <interp inst="t16910909-31-verdict148" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

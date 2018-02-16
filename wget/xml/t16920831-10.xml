@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-10">
+               <interp inst="t16920831-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-10" type="year" value="1692"></interp>
+               <interp inst="t16920831-10" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-10" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-10-off43-c49" targOrder="Y" targets="t16920831-10-defend49 t16920831-10-off43 t16920831-10-verdict46"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-10-defend49" type="defendantName">
+                  Francis 
+                  Turner
+               <interp inst="t16920831-10-defend49" type="surname" value="Turner"></interp>
+                     <interp inst="t16920831-10-defend49" type="given" value="Francis"></interp>
+                     <interp inst="t16920831-10-defend49" type="gender" value="male"></interp>
+                  </persName>
+             was Tryed for <rs id="t16920831-10-off43" type="offenceDescription">
+                     <interp inst="t16920831-10-off43" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-10-off43" type="offenceSubcategory" value="pocketpicking"></interp>
+               Picking the Pocket of one 
+                     <persName id="t16920831-10-victim50" type="victimName">
+                        Philip 
+                        Deaves
+                     <interp inst="t16920831-10-victim50" type="surname" value="Deaves"></interp>
+                        <interp inst="t16920831-10-victim50" type="given" value="Philip"></interp>
+                        <interp inst="t16920831-10-victim50" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920831-10-off43 t16920831-10-victim50"></join>
+                     </persName>
+                  , on the <rs id="t16920831-10-cd44" type="crimeDate">4th of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16920831-10-off43 t16920831-10-cd44"></join> in the <placeName id="t16920831-10-crimeloc45">Tower Ward</placeName>
+                     <interp inst="t16920831-10-crimeloc45" type="placeName" value="Tower Ward"></interp>
+                     <interp inst="t16920831-10-crimeloc45" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16920831-10-off43 t16920831-10-crimeloc45"></join>, and took out of it 20s. in Money
+            </rs>. The Prisoner being in the Prosecutors House a Drinking, he pick'd his Pocket; and Mr. Deaves Swore positively, that he was the Person, for that he run away whilst he was stooping down for two Pieces that he had dropt. He was found about two months after. The Prisoner denied the Fact, and said, that he did not run away, but no one was in the House but the Prisoner, the Prosecutor was very sure that he was the Person. He was found <rs id="t16920831-10-verdict46" type="verdictDescription">
+                     <interp inst="t16920831-10-verdict46" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16920831-10-punish47" type="punishmentDescription">
+                     <interp inst="t16920831-10-punish47" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-10-defend49 t16920831-10-punish47"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

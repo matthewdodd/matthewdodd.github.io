@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640502-42">
+               <interp inst="t17640502-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640502-42" type="year" value="1764"></interp>
+               <interp inst="t17640502-42" type="uri" value="sessionsPapers/17640502"></interp>
+               <interp inst="t17640502-42" type="date" value="17640502"></interp>
+               <join result="criminalCharge" id="t17640502-42-off234-c273" targOrder="Y" targets="t17640502-42-defend350 t17640502-42-off234 t17640502-42-verdict237"></join>
+         
+               <p>269. (M.) 
+               <persName id="t17640502-42-defend350" type="defendantName">
+                  Mary
+                   McGuire, <rs id="t17640502-42-deflabel233" type="occupation">spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17640502-42-defend350 t17640502-42-deflabel233"></join>, otherwise <rs id="t17640502-42-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17640502-42-defend350 t17640502-42-alias-8"></join>Mary Ryley</rs>
+                     <interp inst="t17640502-42-defend350" type="surname" value="McGuire"></interp>
+                     <interp inst="t17640502-42-defend350" type="given" value="Mary"></interp>
+                     <interp inst="t17640502-42-defend350" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17640502-42-off234" type="offenceDescription">
+                     <interp inst="t17640502-42-off234" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640502-42-off234" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of stone buttons, set in silver, value 5 s. one linen apron, and one cloth cloak
+            </rs>, the property of 
+               <persName id="t17640502-42-victim351" type="victimName">
+                  Rowland 
+                  Wilstead 
+               <interp inst="t17640502-42-victim351" type="surname" value="Wilstead"></interp>
+                     <interp inst="t17640502-42-victim351" type="given" value="Rowland"></interp>
+                     <interp inst="t17640502-42-victim351" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640502-42-off234 t17640502-42-victim351"></join>
+                  </persName>
+             , <rs id="t17640502-42-cd235" type="crimeDate">April 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640502-42-off234 t17640502-42-cd235"></join>. +</p>
+               <p>
+            
+                  <persName id="t17640502-42-person352">
+                  Eleanor 
+                  Wilstead 
+               <interp inst="t17640502-42-person352" type="surname" value="Wilstead"></interp>
+                     <interp inst="t17640502-42-person352" type="given" value="Eleanor"></interp>
+                     <interp inst="t17640502-42-person352" type="gender" value="female"></interp>
+                  </persName>
+            . My husband's name is Rowland. On the 14th of April, I lost the things mentioned in the indictment, and found them again with the prisoner at the bar; she had the buttons in her hand, and the cloak was in a closet in the house where I found her, in Cross-lane, by Newtoner's-lane: she owned to the taking the things, and directed us to the pawnbroker, where she had pawned the apron.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>E. Wilstead. I took her as a <rs id="t17640502-42-deflabel236" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640502-42-defend350 t17640502-42-deflabel236"></join> upon trial; she staid a fortnight, and then went away.</p>
+               <p>
+            
+                  <persName id="t17640502-42-person353">
+                  Charles 
+                  Spencer 
+               <interp inst="t17640502-42-person353" type="surname" value="Spencer"></interp>
+                     <interp inst="t17640502-42-person353" type="given" value="Charles"></interp>
+                     <interp inst="t17640502-42-person353" type="gender" value="male"></interp>
+                  </persName>
+            . On the 14th of April, I was at the prosecutor's house: Mrs. Wilstead sent the prisoner up to make the bed; she went up. Soon after, Mr. Wilstead went up, and returned and said, the girl and things mentioned, were missing; she desired me to go to a young fellow that the girl kept company with, to enquire for her. I did, and was informed she was in Cross-lane: we went there, and found her; she had the buttons in her hand, the cloak was found in a closet, and the apron was pawned: she seemed to be pretty much in liquor: all this was in about an hour after she and the things were missing.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I had been with Mrs. Wilstead three weeks: I got up on a Thursday morning; she came down, and we had words; she gave me warning to go away. I gave her 1 s. 6 d. for the cloak, the apron she gave me; as to the other things, I know nothing of them.</p>
+               <p>Q. to E. Wilstead. Is what the prisoner says true?</p>
+               <p>E. Wilstead. It is all false: I did not give or sell her any thing.</p>
+               <p>
+                  <rs id="t17640502-42-verdict237" type="verdictDescription">
+                     <interp inst="t17640502-42-verdict237" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640502-42-punish238" type="punishmentDescription">
+                     <interp inst="t17640502-42-punish238" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17640502-42-punish238" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640502-42-defend350 t17640502-42-punish238"></join>
+               W
+            </rs>
+               </p>
+            </div1>

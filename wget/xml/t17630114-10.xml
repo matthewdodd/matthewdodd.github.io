@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630114-10">
+               <interp inst="t17630114-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630114-10" type="year" value="1763"></interp>
+               <interp inst="t17630114-10" type="uri" value="sessionsPapers/17630114"></interp>
+               <interp inst="t17630114-10" type="date" value="17630114"></interp>
+               <join result="criminalCharge" id="t17630114-10-off49-c81" targOrder="Y" targets="t17630114-10-defend99 t17630114-10-off49 t17630114-10-verdict51"></join>
+         
+               <p>69. (L.) 
+               
+                  <persName id="t17630114-10-defend99" type="defendantName">
+                     Thomas 
+                     Matthews 
+                  <interp inst="t17630114-10-defend99" type="surname" value="Matthews"></interp>
+                     <interp inst="t17630114-10-defend99" type="given" value="Thomas"></interp>
+                     <interp inst="t17630114-10-defend99" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17630114-10-off49" type="offenceDescription">
+                     <interp inst="t17630114-10-off49" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630114-10-off49" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 30 hempen seed sacks, val. 20 s.
+            </rs> the property of 
+               
+                  <persName id="t17630114-10-victim101" type="victimName">
+                     Robert 
+                     Statfield 
+                  <interp inst="t17630114-10-victim101" type="surname" value="Statfield"></interp>
+                     <interp inst="t17630114-10-victim101" type="given" value="Robert"></interp>
+                     <interp inst="t17630114-10-victim101" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17630114-10-victim103" type="victimName">
+                     Thomas 
+                     Pierce 
+                  <interp inst="t17630114-10-victim103" type="surname" value="Pierce"></interp>
+                     <interp inst="t17630114-10-victim103" type="given" value="Thomas"></interp>
+                     <interp inst="t17630114-10-victim103" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17630114-10-victim104" type="victimName">
+                  Eleonora 
+                  Neal 
+               <interp inst="t17630114-10-victim104" type="surname" value="Neal"></interp>
+                     <interp inst="t17630114-10-victim104" type="given" value="Eleonora"></interp>
+                     <interp inst="t17630114-10-victim104" type="gender" value="female"></interp>
+                  </persName>
+             , <rs id="t17630114-10-cd50" type="crimeDate">Dec. 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630114-10-off49 t17630114-10-cd50"></join>. ++</p>
+               <p>
+                  <rs id="t17630114-10-verdict51" type="verdictDescription">
+                     <interp inst="t17630114-10-verdict51" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

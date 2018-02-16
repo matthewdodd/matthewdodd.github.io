@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680518-31">
+               <interp inst="t17680518-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680518-31" type="year" value="1768"></interp>
+               <interp inst="t17680518-31" type="uri" value="sessionsPapers/17680518"></interp>
+               <interp inst="t17680518-31" type="date" value="17680518"></interp>
+               <join result="criminalCharge" id="t17680518-31-off162-c281" targOrder="Y" targets="t17680518-31-defend353 t17680518-31-off162 t17680518-31-verdict167"></join>
+               <join result="criminalCharge" id="t17680518-31-off162-c282" targOrder="Y" targets="t17680518-31-defend355 t17680518-31-off162 t17680518-31-verdict167"></join>
+         
+               <p>376, 377. (L.) 
+               
+                  <persName id="t17680518-31-defend353" type="defendantName">
+                     Abraham 
+                     Key 
+                  <interp inst="t17680518-31-defend353" type="surname" value="Key"></interp>
+                     <interp inst="t17680518-31-defend353" type="given" value="Abraham"></interp>
+                     <interp inst="t17680518-31-defend353" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680518-31-defend355" type="defendantName">
+                     William 
+                     Willoughby 
+                  <interp inst="t17680518-31-defend355" type="surname" value="Willoughby"></interp>
+                     <interp inst="t17680518-31-defend355" type="given" value="William"></interp>
+                     <interp inst="t17680518-31-defend355" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17680518-31-off162" type="offenceDescription">
+                     <interp inst="t17680518-31-off162" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680518-31-off162" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing a linen handkerchief, value 8 d.
+            </rs> the property of 
+               
+                  <persName id="t17680518-31-victim357" type="victimName">
+                     John 
+                     Mapson 
+                  <interp inst="t17680518-31-victim357" type="surname" value="Mapson"></interp>
+                     <interp inst="t17680518-31-victim357" type="given" value="John"></interp>
+                     <interp inst="t17680518-31-victim357" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680518-31-off162 t17680518-31-victim357"></join>
+                  </persName>
+               
+            , <rs id="t17680518-31-cd163" type="crimeDate">May 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-31-off162 t17680518-31-cd163"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680518-31-person358">
+                  John 
+                  Mapson 
+               <interp inst="t17680518-31-person358" type="surname" value="Mapson"></interp>
+                     <interp inst="t17680518-31-person358" type="given" value="John"></interp>
+                     <interp inst="t17680518-31-person358" type="gender" value="male"></interp>
+                  </persName>
+            . I was going up <placeName id="t17680518-31-crimeloc164">Ludgate-hill</placeName>
+                  <interp inst="t17680518-31-crimeloc164" type="placeName" value="Ludgate-hill"></interp>
+                  <interp inst="t17680518-31-crimeloc164" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-31-off162 t17680518-31-crimeloc164"></join> last Sunday night, between nine and ten o'clock; I had just turned into <placeName id="t17680518-31-crimeloc165">St. Paul's-church-yard</placeName>
+                  <interp inst="t17680518-31-crimeloc165" type="placeName" value="St. Paul's-church-yard"></interp>
+                  <interp inst="t17680518-31-crimeloc165" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-31-off162 t17680518-31-crimeloc165"></join>, Mr. Pain came to me, and asked me if I had not lost my handkerchief; I felt, and found I had; he took me back to the prisoners, and said, these are the persons that have taken it; I laid hold of one, and Mr. Pain the other; the handkerchief was then dropped between them; a gentleman coming by picked it up (produced in court;) to all appearance it is mine, though I have no direct mark<xptr type="pageFacsimile" doc="176805180024"></xptr> upon it; I described it before it was shown to me.</p>
+               <p>
+            
+                  <persName id="t17680518-31-person359">
+                  William 
+                  Pain 
+               <interp inst="t17680518-31-person359" type="surname" value="Pain"></interp>
+                     <interp inst="t17680518-31-person359" type="given" value="William"></interp>
+                     <interp inst="t17680518-31-person359" type="gender" value="male"></interp>
+                  </persName>
+            . I met these two lads, one I know very well, I turned and followed them; just as they were turning the corner of St. Paul's-church-yard, Willoughby put his hand into the prosecutor's pocket, and took out a handkerchief; I stepped up to him, and said, you have lost a handkerchief (the rest as the prosecutor had said.)</p>
+               <p>Willoughby's defence.</p>
+               <p>I know nothing of the handkerchief, nor never saw it; I am a <rs id="t17680518-31-deflabel166" type="occupation">shoemaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680518-31-defend355 t17680518-31-deflabel166"></join>, and work with Mr. Keele in Old-street.</p>
+               <p>Mr. Keele appeared, and gave him a good character.</p>
+               <p>Both <rs id="t17680518-31-verdict167" type="verdictDescription">
+                     <interp inst="t17680518-31-verdict167" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

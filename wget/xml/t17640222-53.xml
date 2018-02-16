@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640222-53">
+               <interp inst="t17640222-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640222-53" type="year" value="1764"></interp>
+               <interp inst="t17640222-53" type="uri" value="sessionsPapers/17640222"></interp>
+               <interp inst="t17640222-53" type="date" value="17640222"></interp>
+               <join result="criminalCharge" id="t17640222-53-off293-c395" targOrder="Y" targets="t17640222-53-defend509 t17640222-53-off293 t17640222-53-verdict296"></join>
+         
+               <p>190. (M.) 
+               <persName id="t17640222-53-defend509" type="defendantName">
+                  
+                     William 
+                     Frost 
+                  , otherwise <rs id="t17640222-53-alias-9" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17640222-53-defend509 t17640222-53-alias-9"></join>Cooper</rs>
+                     <interp inst="t17640222-53-defend509" type="surname" value="Frost"></interp>
+                     <interp inst="t17640222-53-defend509" type="given" value="William"></interp>
+                     <interp inst="t17640222-53-defend509" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17640222-53-off293" type="offenceDescription">
+                     <interp inst="t17640222-53-off293" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640222-53-off293" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two wooden casks, value 2 s.
+            </rs> the property of 
+               <persName id="t17640222-53-victim511" type="victimName">
+                  
+                     <persName id="t17640222-53-person512" type="victimName">
+                        John 
+                        Porter 
+                     <interp inst="t17640222-53-person512" type="surname" value="Porter"></interp>
+                        <interp inst="t17640222-53-person512" type="given" value="John"></interp>
+                        <interp inst="t17640222-53-person512" type="gender" value="male"></interp>
+                     </persName>
+                   and <rs id="t17640222-53-viclabel294" type="occupation">Co.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17640222-53-victim511 t17640222-53-viclabel294"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17640222-53-person512 t17640222-53-viclabel294"></join>
+                     <interp inst="t17640222-53-victim511" type="surname" value="Porter"></interp>
+                     <interp inst="t17640222-53-victim511" type="given" value="John"></interp>
+                     <interp inst="t17640222-53-victim511" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640222-53-off293 t17640222-53-victim511"></join>
+                  </persName>
+            
+               </p>
+               <p>It appeared the prisoner had been <rs id="t17640222-53-deflabel295" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640222-53-defend509 t17640222-53-deflabel295"></join> to the prosecutors; and knowing the customers, he got empty casks from some, and put clay bungs on them, and carried them to others, and took money of them, as of hear; so, as the casks were not taken away with an intent to steal them, but with intent to afraud and cheat the customers, he was <rs id="t17640222-53-verdict296" type="verdictDescription">
+                     <interp inst="t17640222-53-verdict296" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

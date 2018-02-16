@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-40">
+               <interp inst="t17360225-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-40" type="year" value="1736"></interp>
+               <interp inst="t17360225-40" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-40" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-40-off238-c185" targOrder="Y" targets="t17360225-40-defend269 t17360225-40-off238 t17360225-40-verdict240"></join>
+         
+               <p>52. 
+               
+                  <persName id="t17360225-40-defend269" type="defendantName">
+                     Elizabeth 
+                     Brannam 
+                  <interp inst="t17360225-40-defend269" type="surname" value="Brannam"></interp>
+                     <interp inst="t17360225-40-defend269" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17360225-40-defend269" type="gender" value="female"></interp>
+                  </persName>
+               
+             of <placeName id="t17360225-40-defloc237">St. Martin in the Fields</placeName>
+                  <interp inst="t17360225-40-defloc237" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17360225-40-defloc237" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-40-defend269 t17360225-40-defloc237"></join> was indicted for <rs id="t17360225-40-off238" type="offenceDescription">
+                     <interp inst="t17360225-40-off238" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-40-off238" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 22 Yards of Linnen, value 25 Shillings
+            </rs>, the Goods of 
+               
+                  <persName id="t17360225-40-victim271" type="victimName">
+                     John 
+                     Reavis 
+                  <interp inst="t17360225-40-victim271" type="surname" value="Reavis"></interp>
+                     <interp inst="t17360225-40-victim271" type="given" value="John"></interp>
+                     <interp inst="t17360225-40-victim271" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-40-off238 t17360225-40-victim271"></join>
+                  </persName>
+                
+            , the <rs id="t17360225-40-cd239" type="crimeDate">6th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-40-off238 t17360225-40-cd239"></join>. The Prisoner and 
+               <persName id="t17360225-40-person272">
+                  Ann 
+                  Curson 
+               <interp inst="t17360225-40-person272" type="surname" value="Curson"></interp>
+                     <interp inst="t17360225-40-person272" type="given" value="Ann"></interp>
+                     <interp inst="t17360225-40-person272" type="gender" value="female"></interp>
+                  </persName>
+             went to the Prosecutor's Shop to cheapen some Linnen: The Prisoner had a Child in her Arms, and convey'd away the 22 Yards of Linnen under the Child's Cloaths. Curson was taken up on suspicion of being concerned in another Robbery, and before Justice Mitford she confessed being concerned with the Prisoner in this Fact. <rs id="t17360225-40-verdict240" type="verdictDescription">
+                     <interp inst="t17360225-40-verdict240" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-40-verdict240" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty, 4s. 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-40-punish241" type="punishmentDescription">
+                     <interp inst="t17360225-40-punish241" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-40-defend269 t17360225-40-punish241"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

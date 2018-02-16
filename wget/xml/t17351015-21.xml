@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351015-21">
+               <interp inst="t17351015-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351015-21" type="year" value="1735"></interp>
+               <interp inst="t17351015-21" type="uri" value="sessionsPapers/17351015"></interp>
+               <interp inst="t17351015-21" type="date" value="17351015"></interp>
+               <join result="criminalCharge" id="t17351015-21-off80-c128" targOrder="Y" targets="t17351015-21-defend175 t17351015-21-off80 t17351015-21-verdict82"></join>
+               <join result="criminalCharge" id="t17351015-21-off80-c129" targOrder="Y" targets="t17351015-21-defend177 t17351015-21-off80 t17351015-21-verdict82"></join>
+               <join result="criminalCharge" id="t17351015-21-off80-c130" targOrder="Y" targets="t17351015-21-defend179 t17351015-21-off80 t17351015-21-verdict82"></join>
+         
+
+               <p>26, 27, 28. 
+               
+                  <persName id="t17351015-21-defend175" type="defendantName">
+                     Daniel 
+                     Farrel 
+                  <interp inst="t17351015-21-defend175" type="surname" value="Farrel"></interp>
+                     <interp inst="t17351015-21-defend175" type="given" value="Daniel"></interp>
+                     <interp inst="t17351015-21-defend175" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17351015-21-defend177" type="defendantName">
+                     Philip 
+                     Cammel 
+                  <interp inst="t17351015-21-defend177" type="surname" value="Cammel"></interp>
+                     <interp inst="t17351015-21-defend177" type="given" value="Philip"></interp>
+                     <interp inst="t17351015-21-defend177" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17351015-21-defend179" type="defendantName">
+                     Patrick 
+                     Marman 
+                  <interp inst="t17351015-21-defend179" type="surname" value="Marman"></interp>
+                     <interp inst="t17351015-21-defend179" type="given" value="Patrick"></interp>
+                     <interp inst="t17351015-21-defend179" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17351015-21-off80" type="offenceDescription">
+                     <interp inst="t17351015-21-off80" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17351015-21-off80" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17351015-21-victim181" type="victimName">
+                           John 
+                           Eastwood 
+                        <interp inst="t17351015-21-victim181" type="surname" value="Eastwood"></interp>
+                        <interp inst="t17351015-21-victim181" type="given" value="John"></interp>
+                        <interp inst="t17351015-21-victim181" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17351015-21-off80 t17351015-21-victim181"></join>
+                     </persName>
+                      
+                   on the Highway, and robbing him of a Hat, a Wig, a Cane, and 29 Shillings
+            </rs>, <rs id="t17351015-21-cd81" type="crimeDate">Septemb. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351015-21-off80 t17351015-21-cd81"></join>. <rs id="t17351015-21-verdict82" type="verdictDescription">
+                     <interp inst="t17351015-21-verdict82" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

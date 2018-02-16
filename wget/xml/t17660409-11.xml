@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-11">
+               <interp inst="t17660409-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-11" type="year" value="1766"></interp>
+               <interp inst="t17660409-11" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-11" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-11-off56-c91" targOrder="Y" targets="t17660409-11-defend111 t17660409-11-off56 t17660409-11-verdict61"></join>
+         
+               <p>212. (L.) 
+               
+                  <persName id="t17660409-11-defend111" type="defendantName">
+                     John 
+                     Freeman 
+                  <interp inst="t17660409-11-defend111" type="surname" value="Freeman"></interp>
+                     <interp inst="t17660409-11-defend111" type="given" value="John"></interp>
+                     <interp inst="t17660409-11-defend111" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660409-11-off56" type="offenceDescription">
+                     <interp inst="t17660409-11-off56" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660409-11-off56" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 24 pounds weight of wheaten flour, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17660409-11-victim113" type="victimName">
+                     Thomas 
+                     Wakefield 
+                  <interp inst="t17660409-11-victim113" type="surname" value="Wakefield"></interp>
+                     <interp inst="t17660409-11-victim113" type="given" value="Thomas"></interp>
+                     <interp inst="t17660409-11-victim113" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17660409-11-victim115" type="victimName">
+                     William 
+                     George 
+                  <interp inst="t17660409-11-victim115" type="surname" value="George"></interp>
+                     <interp inst="t17660409-11-victim115" type="given" value="William"></interp>
+                     <interp inst="t17660409-11-victim115" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17660409-11-cd57" type="crimeDate">April 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-11-off56 t17660409-11-cd57"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660409-11-person116">
+                  William 
+                  George 
+               <interp inst="t17660409-11-person116" type="surname" value="George"></interp>
+                     <interp inst="t17660409-11-person116" type="given" value="William"></interp>
+                     <interp inst="t17660409-11-person116" type="gender" value="male"></interp>
+                  </persName>
+            . I am in <rs id="t17660409-11-viclabel58" type="occupation">partnership</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-11-victim113 t17660409-11-viclabel58"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-11-victim115 t17660409-11-viclabel58"></join> with 
+               <persName id="t17660409-11-person117">
+                  Thomas 
+                  Wakefield 
+               <interp inst="t17660409-11-person117" type="surname" value="Wakefield"></interp>
+                     <interp inst="t17660409-11-person117" type="given" value="Thomas"></interp>
+                     <interp inst="t17660409-11-person117" type="gender" value="male"></interp>
+                  </persName>
+            ; we are <rs id="t17660409-11-viclabel59" type="occupation">loaders</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-11-victim113 t17660409-11-viclabel59"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-11-victim115 t17660409-11-viclabel59"></join> at <placeName id="t17660409-11-crimeloc60">Queenhithe</placeName>
+                  <interp inst="t17660409-11-crimeloc60" type="placeName" value="Queenhithe"></interp>
+                  <interp inst="t17660409-11-crimeloc60" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660409-11-off56 t17660409-11-crimeloc60"></join>; we take in and deliver out goods; we watch every other night. I was watching on the 5th of April; I saw the prisoner come over into the wharf, between 8 and 9 o'clock; he cut open the mouth of a sack, and took out some flour: when he got about half way out, I went and took hold of him. He had 26 pounds weight of flour in a bag; it was the property of Mr. Boys in the country, but we are answerable if any is lost.</p>
+               <p>Prisoner's defence.</p>
+               <p>I wish I had it now to make a dumplin of; I got it for that use; I had had no victuals for two or three days.</p>
+               <p>
+                  <rs id="t17660409-11-verdict61" type="verdictDescription">
+                     <interp inst="t17660409-11-verdict61" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17660409-11-punish62" type="punishmentDescription">
+                     <interp inst="t17660409-11-punish62" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660409-11-defend111 t17660409-11-punish62"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-13">
+               <interp inst="t16880711-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-13" type="year" value="1688"></interp>
+               <interp inst="t16880711-13" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-13" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-13-off64-c59" targOrder="Y" targets="t16880711-13-defend83 t16880711-13-off64 t16880711-13-verdict68"></join>
+         
+               <p>
+            
+                  <persName id="t16880711-13-defend83" type="defendantName">
+                  Lothland 
+                  Mackingtash
+               <interp inst="t16880711-13-defend83" type="surname" value="Mackingtash"></interp>
+                     <interp inst="t16880711-13-defend83" type="given" value="Lothland"></interp>
+                     <interp inst="t16880711-13-defend83" type="gender" value="male"></interp>
+                  </persName>
+             a Scotch Man, of the Parish of <placeName id="t16880711-13-defloc63">Thistleworth</placeName>
+                  <interp inst="t16880711-13-defloc63" type="placeName" value="Thistleworth"></interp>
+                  <interp inst="t16880711-13-defloc63" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880711-13-defend83 t16880711-13-defloc63"></join>, was Indicted for the <rs id="t16880711-13-off64" type="offenceDescription">
+                     <interp inst="t16880711-13-off64" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880711-13-off64" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     
+                        <persName id="t16880711-13-victim85" type="victimName">
+                           William 
+                           Frazier
+                        <interp inst="t16880711-13-victim85" type="surname" value="Frazier"></interp>
+                        <interp inst="t16880711-13-victim85" type="given" value="William"></interp>
+                        <interp inst="t16880711-13-victim85" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880711-13-off64 t16880711-13-victim85"></join>
+                     </persName>
+                     
+                   a <rs id="t16880711-13-viclabel65" type="occupation">Soldier</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16880711-13-victim85 t16880711-13-viclabel65"></join> at the Camp, on the <rs id="t16880711-13-cd66" type="crimeDate">1st. day of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880711-13-off64 t16880711-13-cd66"></join>, giving him a Mortal Wound near his Left Pap; with a Sword, value 2 s. 6 d. of the breadth of one Inch and the depth of five Inches, of which he the said Frazier then and there instantly Died
+            </rs>. The Evidence against him was the Serjeant belonging to one of the King's Companies, wherein the Prisoner was a <rs id="t16880711-13-deflabel67" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880711-13-defend83 t16880711-13-deflabel67"></join>, who said that the Prisoner came into his Tent very Drunk, and was wholly bent to Kill some one or other, and the Serjeant interposing to qualifie him, he was for doing him a Mischief, had he not stood upon his Guard: Another Person coming in to the said Serjeants Assistance, viz. the Deceased, (who was the familiar Friend of the Prisoners) the Prisoner happen'd to give him the Wound as aforesaid; but no Malice propense being proved between them, he was found <rs id="t16880711-13-verdict68" type="verdictDescription">
+                     <interp inst="t16880711-13-verdict68" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880711-13-verdict68" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty only of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16880711-13-punish69" type="punishmentDescription">
+                     <interp inst="t16880711-13-punish69" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880711-13-punish69" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-13-defend83 t16880711-13-punish69"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

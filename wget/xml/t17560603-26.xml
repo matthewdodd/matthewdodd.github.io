@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560603-26">
+               <interp inst="t17560603-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560603-26" type="year" value="1756"></interp>
+               <interp inst="t17560603-26" type="uri" value="sessionsPapers/17560603"></interp>
+               <interp inst="t17560603-26" type="date" value="17560603"></interp>
+               <join result="criminalCharge" id="t17560603-26-off128-c301" targOrder="Y" targets="t17560603-26-defend350 t17560603-26-off128 t17560603-26-verdict131"></join>
+         
+               <p>268. (L) 
+               
+                  <persName id="t17560603-26-defend350" type="defendantName">
+                     Charles 
+                     Farrel 
+                  <interp inst="t17560603-26-defend350" type="surname" value="Farrel"></interp>
+                     <interp inst="t17560603-26-defend350" type="given" value="Charles"></interp>
+                     <interp inst="t17560603-26-defend350" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17560603-26-off128" type="offenceDescription">
+                     <interp inst="t17560603-26-off128" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17560603-26-off128" type="offenceSubcategory" value="seditiousWords"></interp>
+               speaking seditious words against his majesty king George
+            </rs>, <rs id="t17560603-26-cd129" type="crimeDate">April 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560603-26-off128 t17560603-26-cd129"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17560603-26-person351">
+                  John 
+                  Moutlow 
+               <interp inst="t17560603-26-person351" type="surname" value="Moutlow"></interp>
+                     <interp inst="t17560603-26-person351" type="given" value="John"></interp>
+                     <interp inst="t17560603-26-person351" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17560603-26-crimeloc130">Gravel Lane, Houndsditch</placeName>
+                  <interp inst="t17560603-26-crimeloc130" type="placeName" value="Gravel Lane, Houndsditch"></interp>
+                  <interp inst="t17560603-26-crimeloc130" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17560603-26-off128 t17560603-26-crimeloc130"></join>, and keep a publick ouse. he prisoner was in my house on the 8th of April last about 7 in the evening, I was backwards in my kitchen, and heard him speak bad words respecting the government. I went into the fore room to him, and said, such words were not agreeable to me, and desired him to pay for his liquor and go about his business. He seemed to be pacified for a while, but soon began again, and repeated words worse than before.</p>
+               <p>Q. What words did he make use of?</p>
+               <p>Moutlow. He was damning his present majesty.</p>
+               <p>Q. Repeat the words he said.</p>
+               <p>Moutlow. They were so many that it is out of my power. I went and took hold of him, and said, you rascal what do you mean by making use of such words as these? He immediately cross'd himself, and told me I was a thief, and his present majesty was a thief, and he was determined to shoot him if it lay in his power, that he had no right to the throne. I am resolved as far as in me lies to set Charley on the throne, for he is the right heir, and he was in duty bound to kill us all, he being a catholick, with a great many more expressions of the like nature; he damn'd the royal family, and said he'd shoot his present majesty on the throne, and that he'd destroy them all.</p>
+               <p>Q. Was he in liquor?</p>
+               <p>Moutlow. I think he was not; but upon hearing those abominable expressions, I was in a great heat, so that I cannot be so good a judge as if I had been cool, or had been more used to him, having never seen him before.</p>
+
+               <p>
+            
+                  <persName id="t17560603-26-person352">
+                  John 
+                  Oliver 
+               <interp inst="t17560603-26-person352" type="surname" value="Oliver"></interp>
+                     <interp inst="t17560603-26-person352" type="given" value="John"></interp>
+                     <interp inst="t17560603-26-person352" type="gender" value="male"></interp>
+                  </persName>
+            . I was at Mr. Moutlow's house, at the time these words were made use of by the prisoner. He confirmed the evidence of Mr. Moutlow.</p>
+               <p>
+            
+                  <persName id="t17560603-26-person353">
+                  John 
+                  Stevens 
+               <interp inst="t17560603-26-person353" type="surname" value="Stevens"></interp>
+                     <interp inst="t17560603-26-person353" type="given" value="John"></interp>
+                     <interp inst="t17560603-26-person353" type="gender" value="male"></interp>
+                  </persName>
+            . I was at Mr. Moutlow's house and heard the prisoner make use of very bad words against his present majesty, and the royal family. He confirmed the testimony given before, with this addition, that the prisoner was quite sober.</p>
+               <p>Prisoner's defence. I have been out of my senses, and for that reason was turned out of the guards.</p>
+               <p>
+                  <rs id="t17560603-26-verdict131" type="verdictDescription">
+                     <interp inst="t17560603-26-verdict131" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17560603-26-punish132" type="punishmentDescription">
+                     <interp inst="t17560603-26-punish132" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17560603-26-punish132" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17560603-26-defend350 t17560603-26-punish132"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17560603-26-punish133" type="punishmentDescription">
+                     <interp inst="t17560603-26-punish133" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17560603-26-punish133" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17560603-26-defend350 t17560603-26-punish133"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

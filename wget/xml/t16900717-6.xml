@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-6">
+               <interp inst="t16900717-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-6" type="year" value="1690"></interp>
+               <interp inst="t16900717-6" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-6" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-6-off28-c44" targOrder="Y" targets="t16900717-6-defend52 t16900717-6-off28 t16900717-6-verdict32"></join>
+               <join result="criminalCharge" id="t16900717-6-off28-c45" targOrder="Y" targets="t16900717-6-defend54 t16900717-6-off28 t16900717-6-verdict33"></join>
+         
+               <p>
+            
+                  <persName id="t16900717-6-defend52" type="defendantName">
+                  William 
+                  Wilson
+               <interp inst="t16900717-6-defend52" type="surname" value="Wilson"></interp>
+                     <interp inst="t16900717-6-defend52" type="given" value="William"></interp>
+                     <interp inst="t16900717-6-defend52" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t16900717-6-deflabel26" type="occupation">Rat-catcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-6-defend52 t16900717-6-deflabel26"></join>, and 
+               
+                  <persName id="t16900717-6-defend54" type="defendantName">
+                     Susannah 
+                     Wilson
+                  <interp inst="t16900717-6-defend54" type="surname" value="Wilson"></interp>
+                     <interp inst="t16900717-6-defend54" type="given" value="Susannah"></interp>
+                     <interp inst="t16900717-6-defend54" type="gender" value="female"></interp>
+                  </persName>
+               
+             his <rs id="t16900717-6-deflabel27" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-6-defend54 t16900717-6-deflabel27"></join>, were both Tryed for <rs id="t16900717-6-off28" type="offenceDescription">
+                     <interp inst="t16900717-6-off28" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-6-off28" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from <rs id="t16900717-6-viclabel29" type="occupation">Dr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900717-6-victim56 t16900717-6-viclabel29"></join> 
+                  
+                     
+                        <persName id="t16900717-6-victim56" type="victimName">
+                           Thomas 
+                           Gill
+                        <interp inst="t16900717-6-victim56" type="surname" value="Gill"></interp>
+                        <interp inst="t16900717-6-victim56" type="given" value="Thomas"></interp>
+                        <interp inst="t16900717-6-victim56" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900717-6-off28 t16900717-6-victim56"></join>
+                     </persName>
+                     
+                   of <placeName id="t16900717-6-crimeloc30">Edmonton</placeName>
+                     <interp inst="t16900717-6-crimeloc30" type="placeName" value="Edmonton"></interp>
+                     <interp inst="t16900717-6-crimeloc30" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16900717-6-off28 t16900717-6-crimeloc30"></join>, on<xptr type="pageFacsimile" doc="16900717002"></xptr>the <rs id="t16900717-6-cd31" type="crimeDate">23d Day of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-6-off28 t16900717-6-cd31"></join>, 4 Coach-glasses value 6 l. 3 Pullets 18 d.
+            </rs> The Evidence Swore, that the Prisoners came to the house in the Evening, to Enquire if the house was troubled with any Rats or Mice, but being Answered in the Negative, they went away, but on the Morrow the Coach-house was found broke open, and the Glasses taken away. The Prisoners denyed it stifly, and pretended to be in another place when the Robbery was done, and called some Evidence, but it prevailed nothing to their advantage, so William Wilson the Ratcatcher was found <rs id="t16900717-6-verdict32" type="verdictDescription">
+                     <interp inst="t16900717-6-verdict32" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony, but his Wife was <rs id="t16900717-6-verdict33" type="verdictDescription">
+                     <interp inst="t16900717-6-verdict33" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+               <p>
+                  <rs id="t16900717-6-punish34" type="punishmentDescription">
+                     <interp inst="t16900717-6-punish34" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900717-6-defend52 t16900717-6-punish34"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

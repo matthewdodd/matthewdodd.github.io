@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871207-53">
+               <interp inst="t16871207-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871207-53" type="year" value="1687"></interp>
+               <interp inst="t16871207-53" type="uri" value="sessionsPapers/16871207"></interp>
+               <interp inst="t16871207-53" type="date" value="16871207"></interp>
+               <join result="criminalCharge" id="t16871207-53-off245-c141" targOrder="Y" targets="t16871207-53-defend229 t16871207-53-off245 t16871207-53-verdict247"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16871207-53-defend229" type="defendantName">
+                     John 
+                     Knight
+                  <interp inst="t16871207-53-defend229" type="surname" value="Knight"></interp>
+                     <interp inst="t16871207-53-defend229" type="given" value="John"></interp>
+                     <interp inst="t16871207-53-defend229" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16871207-53-defloc244">St. Clements Danes</placeName>
+                  <interp inst="t16871207-53-defloc244" type="placeName" value="St. Clements Danes"></interp>
+                  <interp inst="t16871207-53-defloc244" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16871207-53-defend229 t16871207-53-defloc244"></join> was Indicted for <rs id="t16871207-53-off245" type="offenceDescription">
+                     <interp inst="t16871207-53-off245" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871207-53-off245" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a cloath Coat on the <rs id="t16871207-53-cd246" type="crimeDate">20th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16871207-53-off245 t16871207-53-cd246"></join> last, from 
+                     
+                        <persName id="t16871207-53-victim231" type="victimName">
+                           James 
+                           Jervas
+                        <interp inst="t16871207-53-victim231" type="surname" value="Jervas"></interp>
+                        <interp inst="t16871207-53-victim231" type="given" value="James"></interp>
+                        <interp inst="t16871207-53-victim231" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16871207-53-off245 t16871207-53-victim231"></join>
+                     </persName>
+                     
+                  , value 5 s.
+            </rs> No Evidence coming against him, he was brought in <rs id="t16871207-53-verdict247" type="verdictDescription">
+                     <interp inst="t16871207-53-verdict247" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16871207-53-verdict247" type="verdictSubcategory" value="noEvidence"></interp>
+               not Guilty
+            </rs>.</p>
+            </div1>

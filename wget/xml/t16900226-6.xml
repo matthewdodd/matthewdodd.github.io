@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-6">
+               <interp inst="t16900226-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-6" type="year" value="1690"></interp>
+               <interp inst="t16900226-6" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-6" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-6-off30-c42" targOrder="Y" targets="t16900226-6-defend42 t16900226-6-off30 t16900226-6-verdict31"></join>
+               <join result="criminalCharge" id="t16900226-6-off30-c43" targOrder="Y" targets="t16900226-6-defend43 t16900226-6-off30 t16900226-6-verdict31"></join>
+         
+               <p>On Thursday Morning 
+               <persName id="t16900226-6-defend42" type="defendantName">
+                  J - 
+                  V -
+               <interp inst="t16900226-6-defend42" type="surname" value="V -"></interp>
+                     <interp inst="t16900226-6-defend42" type="given" value="J -"></interp>
+                     <interp inst="t16900226-6-defend42" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16900226-6-defend43" type="defendantName">
+                  J - 
+                  E -
+               <interp inst="t16900226-6-defend43" type="surname" value="E -"></interp>
+                     <interp inst="t16900226-6-defend43" type="given" value="J -"></interp>
+                     <interp inst="t16900226-6-defend43" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t16900226-6-deflabel29" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900226-6-defend43 t16900226-6-deflabel29"></join> (who were concern'd with Mr. Floyd, and Richard Jones, in the <rs id="t16900226-6-off30" type="offenceDescription">
+                     <interp inst="t16900226-6-off30" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16900226-6-off30" type="offenceSubcategory" value="murder"></interp>
+               Murther of 
+                     <persName id="t16900226-6-victim44" type="victimName">
+                        Joseph 
+                        Burson
+                     <interp inst="t16900226-6-victim44" type="surname" value="Burson"></interp>
+                        <interp inst="t16900226-6-victim44" type="given" value="Joseph"></interp>
+                        <interp inst="t16900226-6-victim44" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-6-off30 t16900226-6-victim44"></join>
+                     </persName>
+                  
+               
+                  </rs>, as is before Incerted,) surrendered themselves in Court, and the Indictment being Read against them, the Evidence declared much to the same effect, as in Floyd's Tryal, &amp;c. how that V - would have had the Coach away from them, and Swore at his Servant Jones, commanding him to draw at Burson, upon which he Cryed out that he was killed, and died with 24 hours after: But no Evidence swore flatly that V - gave the mortal Thrust, nor likewise that Mr. Edwards made any Pass, but only had his Sword drawn with the rest, by the Coach-side. After a distinct hearing on both sides, they were found <rs id="t16900226-6-verdict31" type="verdictDescription">
+                     <interp inst="t16900226-6-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900226-6-verdict31" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16900226-6-punish32" type="punishmentDescription">
+                     <interp inst="t16900226-6-punish32" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16900226-6-punish32" type="punishmentSubcategory" value="pardon"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900226-6-defend42 t16900226-6-punish32"></join>
+               
+                     <note>[J V: Pardon. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16900226-6-punish33" type="punishmentDescription">
+                     <interp inst="t16900226-6-punish33" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900226-6-punish33" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900226-6-defend43 t16900226-6-punish33"></join>
+               
+                     <note>[J E: Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

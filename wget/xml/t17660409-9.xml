@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-9">
+               <interp inst="t17660409-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-9" type="year" value="1766"></interp>
+               <interp inst="t17660409-9" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-9" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-9-off45-c79" targOrder="Y" targets="t17660409-9-defend97 t17660409-9-off45 t17660409-9-verdict48"></join>
+         
+               <p>210. (L.) 
+               
+                  <persName id="t17660409-9-defend97" type="defendantName">
+                     James 
+                     Cook 
+                  <interp inst="t17660409-9-defend97" type="surname" value="Cook"></interp>
+                     <interp inst="t17660409-9-defend97" type="given" value="James"></interp>
+                     <interp inst="t17660409-9-defend97" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660409-9-off45" type="offenceDescription">
+                     <interp inst="t17660409-9-off45" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660409-9-off45" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing a silk handkerchief, value 10 d.
+            </rs> the property of 
+               <persName id="t17660409-9-victim98" type="victimName">
+                  John 
+                  Righton 
+               <interp inst="t17660409-9-victim98" type="surname" value="Righton"></interp>
+                     <interp inst="t17660409-9-victim98" type="given" value="John"></interp>
+                     <interp inst="t17660409-9-victim98" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660409-9-off45 t17660409-9-victim98"></join>
+                  </persName>
+             , <rs id="t17660409-9-cd46" type="crimeDate">February 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-9-off45 t17660409-9-cd46"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660409-9-person99">
+                  John 
+                  Righton 
+               <interp inst="t17660409-9-person99" type="surname" value="Righton"></interp>
+                     <interp inst="t17660409-9-person99" type="given" value="John"></interp>
+                     <interp inst="t17660409-9-person99" type="gender" value="male"></interp>
+                  </persName>
+            . I was going down <placeName id="t17660409-9-crimeloc47">Newgate-street</placeName>
+                  <interp inst="t17660409-9-crimeloc47" type="placeName" value="Newgate-street"></interp>
+                  <interp inst="t17660409-9-crimeloc47" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660409-9-off45 t17660409-9-crimeloc47"></join>, between St. Martin's-le-grand and Butcher-hall lane, going towards Newgate; I felt a hand in my pocket, and touched the prisoner's hand; it was out of my pocket, with my handkerchief three parts out. I took him by the collar, and asked him what he was about. He said, going home to his father in Goswell-street. As we were talking, a constable came by with two pickpockets; he asked what was the matter; I told him; he desired I would deliver him to him, which I did; he was taken before my Lord-Mayor, and he committed him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176604090006"></xptr>Prisoner's defence.</p>
+               <p>I did not touch the handkerchief.</p>
+               <p>He called 
+               <persName id="t17660409-9-person100">
+                  Peter 
+                  Stephens 
+               <interp inst="t17660409-9-person100" type="surname" value="Stephens"></interp>
+                     <interp inst="t17660409-9-person100" type="given" value="Peter"></interp>
+                     <interp inst="t17660409-9-person100" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17660409-9-person101">
+                  Anthony 
+                  Deane 
+               <interp inst="t17660409-9-person101" type="surname" value="Deane"></interp>
+                     <interp inst="t17660409-9-person101" type="given" value="Anthony"></interp>
+                     <interp inst="t17660409-9-person101" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17660409-9-person102">
+                  Jane 
+                  Bradley 
+               <interp inst="t17660409-9-person102" type="surname" value="Bradley"></interp>
+                     <interp inst="t17660409-9-person102" type="given" value="Jane"></interp>
+                     <interp inst="t17660409-9-person102" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17660409-9-person103">
+                  Jane 
+                  Edwards 
+               <interp inst="t17660409-9-person103" type="surname" value="Edwards"></interp>
+                     <interp inst="t17660409-9-person103" type="given" value="Jane"></interp>
+                     <interp inst="t17660409-9-person103" type="gender" value="female"></interp>
+                  </persName>
+            , who gave him a good character.</p>
+               <p>
+                  <rs id="t17660409-9-verdict48" type="verdictDescription">
+                     <interp inst="t17660409-9-verdict48" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

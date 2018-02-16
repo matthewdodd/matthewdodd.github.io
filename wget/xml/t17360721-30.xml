@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360721-30">
+               <interp inst="t17360721-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360721-30" type="year" value="1736"></interp>
+               <interp inst="t17360721-30" type="uri" value="sessionsPapers/17360721"></interp>
+               <interp inst="t17360721-30" type="date" value="17360721"></interp>
+               <join result="criminalCharge" id="t17360721-30-off145-c155" targOrder="Y" targets="t17360721-30-defend232 t17360721-30-off145 t17360721-30-verdict147"></join>
+               <join result="criminalCharge" id="t17360721-30-off145-c156" targOrder="Y" targets="t17360721-30-defend234 t17360721-30-off145 t17360721-30-verdict147"></join>
+         
+               <p>33, 34. 
+               
+                  <persName id="t17360721-30-defend232" type="defendantName">
+                     Jane 
+                     Dale 
+                  <interp inst="t17360721-30-defend232" type="surname" value="Dale"></interp>
+                     <interp inst="t17360721-30-defend232" type="given" value="Jane"></interp>
+                     <interp inst="t17360721-30-defend232" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17360721-30-defend234" type="defendantName">
+                     William 
+                     Bowen 
+                  <interp inst="t17360721-30-defend234" type="surname" value="Bowen"></interp>
+                     <interp inst="t17360721-30-defend234" type="given" value="William"></interp>
+                     <interp inst="t17360721-30-defend234" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17360721-30-off145" type="offenceDescription">
+                     <interp inst="t17360721-30-off145" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360721-30-off145" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Buttock of Beef, weight 10 lb. value 2 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17360721-30-victim236" type="victimName">
+                     Griffith 
+                     Evans 
+                  <interp inst="t17360721-30-victim236" type="surname" value="Evans"></interp>
+                     <interp inst="t17360721-30-victim236" type="given" value="Griffith"></interp>
+                     <interp inst="t17360721-30-victim236" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360721-30-off145 t17360721-30-victim236"></join>
+                  </persName>
+                
+            , <rs id="t17360721-30-cd146" type="crimeDate">July 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360721-30-off145 t17360721-30-cd146"></join>.</p>
+               <p>
+                  <rs id="t17360721-30-verdict147" type="verdictDescription">
+                     <interp inst="t17360721-30-verdict147" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17360721-30-verdict147" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor not appearing, they were acquitted
+            </rs>.</p>
+            </div1>

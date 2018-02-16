@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440912-6">
+               <interp inst="t17440912-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440912-6" type="year" value="1744"></interp>
+               <interp inst="t17440912-6" type="uri" value="sessionsPapers/17440912"></interp>
+               <interp inst="t17440912-6" type="date" value="17440912"></interp>
+               <join result="criminalCharge" id="t17440912-6-off28-c52" targOrder="Y" targets="t17440912-6-defend64 t17440912-6-off28 t17440912-6-verdict32"></join>
+         
+               <p>357. + 
+               
+                  <persName id="t17440912-6-defend64" type="defendantName">
+                     James 
+                     Bullock 
+                  <interp inst="t17440912-6-defend64" type="surname" value="Bullock"></interp>
+                     <interp inst="t17440912-6-defend64" type="given" value="James"></interp>
+                     <interp inst="t17440912-6-defend64" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440912-6-defloc27">St. Botolph Aldgate</placeName>
+                  <interp inst="t17440912-6-defloc27" type="placeName" value="St. Botolph Aldgate"></interp>
+                  <interp inst="t17440912-6-defloc27" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440912-6-defend64 t17440912-6-defloc27"></join>, in Middlesex, was indicted for <rs id="t17440912-6-off28" type="offenceDescription">
+                     <interp inst="t17440912-6-off28" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440912-6-off28" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a silver tankard, value 6 l. the goods of 
+                     
+                        <persName id="t17440912-6-victim66" type="victimName">
+                           Charles 
+                           Barton 
+                        <interp inst="t17440912-6-victim66" type="surname" value="Barton"></interp>
+                        <interp inst="t17440912-6-victim66" type="given" value="Charles"></interp>
+                        <interp inst="t17440912-6-victim66" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17440912-6-off28 t17440912-6-victim66"></join>
+                     </persName>
+                      
+                  , in his dwelling house
+            </rs>, <rs id="t17440912-6-cd29" type="crimeDate">August 4th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440912-6-off28 t17440912-6-cd29"></join>.</p>
+               <p>
+            
+                  <persName id="t17440912-6-person67">
+                  Charles 
+                  Barton 
+               <interp inst="t17440912-6-person67" type="surname" value="Barton"></interp>
+                     <interp inst="t17440912-6-person67" type="given" value="Charles"></interp>
+                     <interp inst="t17440912-6-person67" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the sign of the Ship in <placeName id="t17440912-6-crimeloc30">Swan-Alley in East-Smithfield</placeName>
+                  <interp inst="t17440912-6-crimeloc30" type="placeName" value="Swan-Alley in East-Smithfield"></interp>
+                  <interp inst="t17440912-6-crimeloc30" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17440912-6-off28 t17440912-6-crimeloc30"></join>; on the 4th of August I lost a silver tankard. The Prisoner came to my house and called for a halfpenny worth of beer and sat at the cellar door; the tankard was in the cellar just before, and in a very little time it was gone. The Prisoner lives within 3 or 4 doors of me, but when he went out, instead of going to his own house he ran away. I pursued him to his sister's by the Seven Dials and took him; he owned that he took the tankard, and had sold it to a Fence * for 30 s. I went to look after it, but the people he had sold it to were run away, and I never got it again - There was nobody in the house at that time, except my wife and child, but the Prisoner - The cellar, the drinking room, and kitchen, are all on a floor; and it is not 4 foot from the place where the Prisoner sat, to the place where the tankard stood, and I saw him come out of the cellar and run out at the back door - It was not two minutes after I saw the tankard before I missed it; when I found him in St. Giles's he jumped out of the window, I caught hold of him, and he left half his shirt in my hand and run away, but was retaken - He is a <rs id="t17440912-6-deflabel31" type="occupation">Plaisterer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17440912-6-defend64 t17440912-6-deflabel31"></join>. <rs id="t17440912-6-verdict32" type="verdictDescription">
+                     <interp inst="t17440912-6-verdict32" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>*A Fence is a Receiver of stolen goods.</p>
+            </div1>

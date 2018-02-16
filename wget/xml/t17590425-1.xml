@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590425-1">
+               <interp inst="t17590425-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590425-1" type="year" value="1759"></interp>
+               <interp inst="t17590425-1" type="uri" value="sessionsPapers/17590425"></interp>
+               <interp inst="t17590425-1" type="date" value="17590425"></interp>
+               <join result="criminalCharge" id="t17590425-1-off1-c30" targOrder="Y" targets="t17590425-1-defend31 t17590425-1-off1 t17590425-1-verdict5"></join>
+         
+               <p>144. (L.) 
+               
+                  <persName id="t17590425-1-defend31" type="defendantName">
+                     John 
+                     Hughes 
+                  <interp inst="t17590425-1-defend31" type="surname" value="Hughes"></interp>
+                     <interp inst="t17590425-1-defend31" type="given" value="John"></interp>
+                     <interp inst="t17590425-1-defend31" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17590425-1-off1" type="offenceDescription">
+                     <interp inst="t17590425-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590425-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one hempen sack, value 6 d. and two bushels of coals, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17590425-1-victim33" type="victimName">
+                     Ann 
+                     Louch 
+                  <interp inst="t17590425-1-victim33" type="surname" value="Louch"></interp>
+                     <interp inst="t17590425-1-victim33" type="given" value="Ann"></interp>
+                     <interp inst="t17590425-1-victim33" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590425-1-off1 t17590425-1-victim33"></join>
+                  </persName>
+                
+            , <rs id="t17590425-1-viclabel2" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590425-1-victim33 t17590425-1-viclabel2"></join>; <rs id="t17590425-1-cd3" type="crimeDate">April 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590425-1-off1 t17590425-1-cd3"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17590425-1-person34">
+                  William 
+                  Hivenson 
+               <interp inst="t17590425-1-person34" type="surname" value="Hivenson"></interp>
+                     <interp inst="t17590425-1-person34" type="given" value="William"></interp>
+                     <interp inst="t17590425-1-person34" type="gender" value="male"></interp>
+                  </persName>
+            . I met the prisoner with two bushels of coals in a sack, upon his back, in Thames-street, on the 3d of April.</p>
+               <p>Q. Which way was he going?</p>
+               <p>Hivenson. Towards Queenhithe.</p>
+               <p>Q. Had you known him before?</p>
+               <p>Hivenson. He worked at Mrs Louch's at that time: his business was to <rs id="t17590425-1-deflabel4" type="occupation">load coals for her at the wharf</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590425-1-defend31 t17590425-1-deflabel4"></join>; I turned him back and made him put them into the cart.</p>
+               <p>Q. Do you know where he took them from?</p>
+               <p>Hivenson. We suppose from out of a lighter.</p>
+               <p>Q. How do you know, but that he had an order to carry them for his mistress?</p>
+               <p>Hivenson. No, he had no order.</p>
+               <p>Q. What is the value of them?</p>
+               <p>Hivenson. They are valued at half a crown: he said he had never been guilty of such a thing before.</p>
+               <p>Q. Whose coals were they?</p>
+               <p>Hivenson. The sack was Mrs. Louch's, but the coals were not: she only had the carriage of them.</p>
+               <p>Q. Did you promise him forgiveness at the time he confessed this?</p>
+               <p>Hivenson. No, I did not.</p>
+               <p>Q. What are you?</p>
+               <p>Hivenson. I am servant to Mrs. Louch</p>
+               <p>Prisoner's Defence.</p>
+               <p>They were sweepings of a lighter, about a bushel or a little more, and I was going to carry them to a poor family.</p>
+               <p>
+                  <rs id="t17590425-1-verdict5" type="verdictDescription">
+                     <interp inst="t17590425-1-verdict5" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17590425-1-punish6" type="punishmentDescription">
+                     <interp inst="t17590425-1-punish6" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590425-1-defend31 t17590425-1-punish6"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

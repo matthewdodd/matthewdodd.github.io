@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460702-29">
+               <interp inst="t17460702-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460702-29" type="year" value="1746"></interp>
+               <interp inst="t17460702-29" type="uri" value="sessionsPapers/17460702"></interp>
+               <interp inst="t17460702-29" type="date" value="17460702"></interp>
+               <join result="criminalCharge" id="t17460702-29-off121-c472" targOrder="Y" targets="t17460702-29-defend532 t17460702-29-off121 t17460702-29-verdict123"></join>
+         
+               <p>276. 
+               
+                  <persName id="t17460702-29-defend532" type="defendantName">
+                     Agnes 
+                     Brown 
+                  <interp inst="t17460702-29-defend532" type="surname" value="Brown"></interp>
+                     <interp inst="t17460702-29-defend532" type="given" value="Agnes"></interp>
+                     <interp inst="t17460702-29-defend532" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17460702-29-off121" type="offenceDescription">
+                     <interp inst="t17460702-29-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460702-29-off121" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Linnen Sheet, Value 10 s. one Dimity Waistcoat, a Holland Frock, and one Holland Shift
+            </rs>, the Goods of 
+               
+                  <persName id="t17460702-29-victim534" type="victimName">
+                     Abraham 
+                     Julian 
+                  <interp inst="t17460702-29-victim534" type="surname" value="Julian"></interp>
+                     <interp inst="t17460702-29-victim534" type="given" value="Abraham"></interp>
+                     <interp inst="t17460702-29-victim534" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17460702-29-off121 t17460702-29-victim534"></join>
+                  </persName>
+                
+            , the <rs id="t17460702-29-cd122" type="crimeDate">1st of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460702-29-off121 t17460702-29-cd122"></join> .</p>
+               <p>
+                  <rs id="t17460702-29-verdict123" type="verdictDescription">
+                     <interp inst="t17460702-29-verdict123" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17460702-29-punish124" type="punishmentDescription">
+                     <interp inst="t17460702-29-punish124" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17460702-29-punish124" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460702-29-defend532 t17460702-29-punish124"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

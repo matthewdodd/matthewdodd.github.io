@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670218-39">
+               <interp inst="t17670218-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670218-39" type="year" value="1767"></interp>
+               <interp inst="t17670218-39" type="uri" value="sessionsPapers/17670218"></interp>
+               <interp inst="t17670218-39" type="date" value="17670218"></interp>
+               <join result="criminalCharge" id="t17670218-39-off222-c311" targOrder="Y" targets="t17670218-39-defend386 t17670218-39-off222 t17670218-39-verdict225"></join>
+         
+               <p>173. (M.) 
+               
+                  <persName id="t17670218-39-defend386" type="defendantName">
+                     John 
+                     Cape 
+                  <interp inst="t17670218-39-defend386" type="surname" value="Cape"></interp>
+                     <interp inst="t17670218-39-defend386" type="given" value="John"></interp>
+                     <interp inst="t17670218-39-defend386" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670218-39-off222" type="offenceDescription">
+                     <interp inst="t17670218-39-off222" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670218-39-off222" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two woollen blankets, value 6 s. and one linen sheet, value 1 s. the property of 
+                     
+                        <persName id="t17670218-39-victim388" type="victimName">
+                           Archibald 
+                           Cluth 
+                        <interp inst="t17670218-39-victim388" type="surname" value="Cluth"></interp>
+                        <interp inst="t17670218-39-victim388" type="given" value="Archibald"></interp>
+                        <interp inst="t17670218-39-victim388" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17670218-39-off222 t17670218-39-victim388"></join>
+                     </persName>
+                      
+                  , in a certain lodging room lett by contract
+            </rs>, &amp;c. <rs id="t17670218-39-cd223" type="crimeDate">Feb. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670218-39-off222 t17670218-39-cd223"></join>. *</p>
+               <p>
+            
+                  <persName id="t17670218-39-person389">
+                  Archibald 
+                  Cluth 
+               <interp inst="t17670218-39-person389" type="surname" value="Cluth"></interp>
+                     <interp inst="t17670218-39-person389" type="given" value="Archibald"></interp>
+                     <interp inst="t17670218-39-person389" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17670218-39-crimeloc224">Lower East Smithfield</placeName>
+                  <interp inst="t17670218-39-crimeloc224" type="placeName" value="Lower East Smithfield"></interp>
+                  <interp inst="t17670218-39-crimeloc224" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670218-39-off222 t17670218-39-crimeloc224"></join>; the prisoner and I agreed for him to pay me a shilling a week for his bed; he was not to have the whole room, there was another man lay in the room sometimes; the prisoner continued with me between two and three months; he went away last Saturday, and carried away two of the blankets and one sheet from that bed; we took him up last Monday, and before the Justice when we charged<xptr type="pageFacsimile" doc="176702180028"></xptr> him, he told us he had sold them to one Bourn, and took us to him; these we had them again, only one of the blankets was changed.</p>
+               <p>Isabella Cluth his wife, and Isabella Frazer the servant, both confirmed the evidence given by the prosecutor.</p>
+               <p>The prisoner said nothing in his defence.</p>
+               <p>
+                  <rs id="t17670218-39-verdict225" type="verdictDescription">
+                     <interp inst="t17670218-39-verdict225" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670218-39-verdict225" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs> 
+                  <rs id="t17670218-39-punish226" type="punishmentDescription">
+                     <interp inst="t17670218-39-punish226" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17670218-39-punish226" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670218-39-defend386 t17670218-39-punish226"></join>
+               W
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341204-75">
+               <interp inst="t17341204-75" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341204-75" type="year" value="1734"></interp>
+               <interp inst="t17341204-75" type="uri" value="sessionsPapers/17341204"></interp>
+               <interp inst="t17341204-75" type="date" value="17341204"></interp>
+               <join result="criminalCharge" id="t17341204-75-off367-c395" targOrder="Y" targets="t17341204-75-defend561 t17341204-75-off367 t17341204-75-verdict370"></join>
+         
+               <p>72. 
+               
+                  <persName id="t17341204-75-defend561" type="defendantName">
+                     William 
+                     Kenneday , alias <rs id="t17341204-75-alias-14" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17341204-75-defend561 t17341204-75-alias-14"></join>Canaday</rs>
+                     <interp inst="t17341204-75-defend561" type="surname" value="Kenneday"></interp>
+                     <interp inst="t17341204-75-defend561" type="given" value="William"></interp>
+                     <interp inst="t17341204-75-defend561" type="gender" value="male"></interp>
+                  </persName>
+               
+            , <rs id="t17341204-75-deflabel365" type="occupation">Gent</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341204-75-defend561 t17341204-75-deflabel365"></join>. of <placeName id="t17341204-75-defloc366">St. Clement's Danes</placeName>
+                  <interp inst="t17341204-75-defloc366" type="placeName" value="St. Clement's Danes"></interp>
+                  <interp inst="t17341204-75-defloc366" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17341204-75-defend561 t17341204-75-defloc366"></join>, was indicted for <rs id="t17341204-75-off367" type="offenceDescription">
+                     <interp inst="t17341204-75-off367" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17341204-75-off367" type="offenceSubcategory" value="rape"></interp>
+               assaulting, and wickedly, unlawfully, and carnally knowing, and abusing 
+                     
+                        <persName id="t17341204-75-victim563" type="victimName">
+                           Ann 
+                           Cooper 
+                        <interp inst="t17341204-75-victim563" type="surname" value="Cooper"></interp>
+                        <interp inst="t17341204-75-victim563" type="given" value="Ann"></interp>
+                        <interp inst="t17341204-75-victim563" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17341204-75-off367 t17341204-75-victim563"></join>
+                     </persName>
+                      
+                  , an <rs id="t17341204-75-viclabel368" type="occupation">Infant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17341204-75-victim563 t17341204-75-viclabel368"></join> of nine Years of Age
+            </rs>, <rs id="t17341204-75-cd369" type="crimeDate">Sept. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341204-75-off367 t17341204-75-cd369"></join>. But no Evidence appearing he was <rs id="t17341204-75-verdict370" type="verdictDescription">
+                     <interp inst="t17341204-75-verdict370" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17341204-75-verdict370" type="verdictSubcategory" value="noEvidence"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520914-76">
+               <interp inst="t17520914-76" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520914-76" type="year" value="1752"></interp>
+               <interp inst="t17520914-76" type="uri" value="sessionsPapers/17520914"></interp>
+               <interp inst="t17520914-76" type="date" value="17520914"></interp>
+               <join result="criminalCharge" id="t17520914-76-off381-c466" targOrder="Y" targets="t17520914-76-defend616 t17520914-76-off381 t17520914-76-verdict383"></join>
+         
+               <p>495. (L.) 
+               
+                  <persName id="t17520914-76-defend616" type="defendantName">
+                     Abraham 
+                     Russel 
+                  <interp inst="t17520914-76-defend616" type="surname" value="Russel"></interp>
+                     <interp inst="t17520914-76-defend616" type="given" value="Abraham"></interp>
+                     <interp inst="t17520914-76-defend616" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17520914-76-off381" type="offenceDescription">
+                     <interp inst="t17520914-76-off381" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520914-76-off381" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing thirteen-pence halfpeny
+            </rs>, the money of 
+               
+                  <persName id="t17520914-76-victim618" type="victimName">
+                     William 
+                     Allen 
+                  <interp inst="t17520914-76-victim618" type="surname" value="Allen"></interp>
+                     <interp inst="t17520914-76-victim618" type="given" value="William"></interp>
+                     <interp inst="t17520914-76-victim618" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520914-76-off381 t17520914-76-victim618"></join>
+                  </persName>
+                
+            , <rs id="t17520914-76-cd382" type="crimeDate">August 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520914-76-off381 t17520914-76-cd382"></join>.</p>
+               <p>
+            
+                  <persName id="t17520914-76-person619">
+                  William 
+                  Allen 
+               <interp inst="t17520914-76-person619" type="surname" value="Allen"></interp>
+                     <interp inst="t17520914-76-person619" type="given" value="William"></interp>
+                     <interp inst="t17520914-76-person619" type="gender" value="male"></interp>
+                  </persName>
+            , the prosecutor, having missed money out of his draw in the shop, and suspecting his servants, he marked one shilling, two sixpences, and eight halfpence with the letter A, and put them into the drawer. The prisoner used to come early in the morning, to help make candles, he came betwixt twelve and one o'clock, August the 20th. In the morning the prosecutor got up, missed one shilling and four halfpence; the prisoner had been out for a halfpenyworth of tobacco. A constable was sent for and the prisoner searched, and there was found upon him one shilling and three-halfpence, all marked, which the prosecutor deposed to.</p>
+               <p>
+                  <rs id="t17520914-76-verdict383" type="verdictDescription">
+                     <interp inst="t17520914-76-verdict383" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17520914-76-punish384" type="punishmentDescription">
+                     <interp inst="t17520914-76-punish384" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17520914-76-punish384" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520914-76-defend616 t17520914-76-punish384"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

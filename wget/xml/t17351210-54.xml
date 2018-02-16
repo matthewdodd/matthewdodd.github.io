@@ -1,3 +1,769 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-54">
+               <interp inst="t17351210-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-54" type="year" value="1735"></interp>
+               <interp inst="t17351210-54" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-54" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-54-off219-c233" targOrder="Y" targets="t17351210-54-defend349 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c234" targOrder="Y" targets="t17351210-54-defend351 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c235" targOrder="Y" targets="t17351210-54-defend353 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c236" targOrder="Y" targets="t17351210-54-defend355 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c237" targOrder="Y" targets="t17351210-54-defend357 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c233" targOrder="Y" targets="t17351210-54-defend349 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c234" targOrder="Y" targets="t17351210-54-defend351 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c235" targOrder="Y" targets="t17351210-54-defend353 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c236" targOrder="Y" targets="t17351210-54-defend355 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off219-c237" targOrder="Y" targets="t17351210-54-defend357 t17351210-54-off219 t17351210-54-verdict225"></join>
+               <join result="criminalCharge" id="t17351210-54-off222-c237" targOrder="Y" targets="t17351210-54-defend357 t17351210-54-off222 t17351210-54-verdict225"></join>
+         
+               <p>67, 68, 69, 70, 71. 
+               
+                  <persName id="t17351210-54-defend349" type="defendantName">
+                     William 
+                     Wreathock 
+                  <interp inst="t17351210-54-defend349" type="surname" value="Wreathock"></interp>
+                     <interp inst="t17351210-54-defend349" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-defend349" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17351210-54-defend351" type="defendantName">
+                     Peter 
+                     Chamberlain 
+                  <interp inst="t17351210-54-defend351" type="surname" value="Chamberlain"></interp>
+                     <interp inst="t17351210-54-defend351" type="given" value="Peter"></interp>
+                     <interp inst="t17351210-54-defend351" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17351210-54-defend353" type="defendantName">
+                     James 
+                     Russet , alias <rs id="t17351210-54-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-54-defend353 t17351210-54-alias-8"></join>Rushead</rs>
+                     <interp inst="t17351210-54-defend353" type="surname" value="Russet"></interp>
+                     <interp inst="t17351210-54-defend353" type="given" value="James"></interp>
+                     <interp inst="t17351210-54-defend353" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17351210-54-defend355" type="defendantName">
+                     George 
+                     Bird 
+                  <interp inst="t17351210-54-defend355" type="surname" value="Bird"></interp>
+                     <interp inst="t17351210-54-defend355" type="given" value="George"></interp>
+                     <interp inst="t17351210-54-defend355" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17351210-54-deflabel218" type="occupation">the younger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17351210-54-defend355 t17351210-54-deflabel218"></join>, and 
+               
+                  <persName id="t17351210-54-defend357" type="defendantName">
+                     Gilbert 
+                     Campbell 
+                  <interp inst="t17351210-54-defend357" type="surname" value="Campbell"></interp>
+                     <interp inst="t17351210-54-defend357" type="given" value="Gilbert"></interp>
+                     <interp inst="t17351210-54-defend357" type="gender" value="male"></interp>
+                  </persName>
+                
+            . were indicted for <rs id="t17351210-54-off219" type="offenceDescription">
+                     <interp inst="t17351210-54-off219" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17351210-54-off219" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17351210-54-victim359" type="victimName">
+                           Nathaniel 
+                           Lancaster 
+                        <interp inst="t17351210-54-victim359" type="surname" value="Lancaster"></interp>
+                        <interp inst="t17351210-54-victim359" type="given" value="Nathaniel"></interp>
+                        <interp inst="t17351210-54-victim359" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , <rs id="t17351210-54-viclabel220" type="occupation">Doctor of Laws</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17351210-54-victim359 t17351210-54-viclabel220"></join>, on the Highway, putting him in fear, and taking from him a Gold-Watch, two Iron Keys, six pieces of Foreign Silver-Coin, three pieces of Foreign Gold-Coin, and one Shilling and six Pence
+            </rs>, <rs id="t17351210-54-cd221" type="crimeDate">June the 11th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-54-off219 t17351210-54-cd221"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-54-off222 t17351210-54-cd221"></join>.</p>
+               <p>72. 
+               <persName id="t17351210-54-person360">
+                  Gilbert 
+                  Campbel 
+               <interp inst="t17351210-54-person360" type="surname" value="Campbel"></interp>
+                     <interp inst="t17351210-54-person360" type="given" value="Gilbert"></interp>
+                     <interp inst="t17351210-54-person360" type="gender" value="male"></interp>
+                  </persName>
+            , was a second time indicted for <rs id="t17351210-54-off222" type="offenceDescription">
+                     <interp inst="t17351210-54-off222" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17351210-54-off222" type="offenceSubcategory" value="perjury"></interp>
+               Perjury
+            </rs>, in his Evidence given at the Tryal of 
+               <persName id="t17351210-54-person361">
+                  Thomas 
+                  Maccray 
+               <interp inst="t17351210-54-person361" type="surname" value="Maccray"></interp>
+                     <interp inst="t17351210-54-person361" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-54-person361" type="gender" value="male"></interp>
+                  </persName>
+            , in July last.</p>
+               <p>Dr. Lancaster. On Wednesday the 11th of June, passing in a Hackney-Coach from <placeName id="t17351210-54-crimeloc223">little Chelsea</placeName>
+                  <interp inst="t17351210-54-crimeloc223" type="placeName" value="little Chelsea"></interp>
+                  <interp inst="t17351210-54-crimeloc223" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17351210-54-off219 t17351210-54-crimeloc223"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17351210-54-off222 t17351210-54-crimeloc223"></join>, towards <placeName id="t17351210-54-crimeloc224">Buckingham-house</placeName>
+                  <interp inst="t17351210-54-crimeloc224" type="placeName" value="Buckingham-house"></interp>
+                  <interp inst="t17351210-54-crimeloc224" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17351210-54-off219 t17351210-54-crimeloc224"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17351210-54-off222 t17351210-54-crimeloc224"></join>, I was robb'd by a Man since known to me by the Name of Maccray, at seven Minutes past nine in the Evening. He took from me a Gold-Watch, two Keys, some foreign Silver and Gold Coin, and one Shilling and six Pence in Money, one Window of the Coach was drawn up (I think it was Canvas) so that I could not see if any Body was on that side. Maccray attacked me on the other-side between the Coach and Hedge, at his going off he bid the Coachman drive slow. When he was gone, I got out of the Coach, and saw three, four or five Men on Horse-back in the Road, I can't exactly say at what distance they were but I believe one might be about fifty Yards of, another a hundred, another two Hundred, and another three Hundred. I held up both my Hands thus to alarm them. They did not seem to regard me. but rode on towards London, which was contrary to the way which Maccray went. I met with some Persons on Foot, and told them I had been robb'd, I described the Man and Horse, and desired them to pursue him.</p>
+               <p>Wreathock. When Maccray was on his Trial for this Robbery, did you then mention that you saw any other Persons on the Road.</p>
+               <p>Dr. Lancaster. No, nor did I suspect that he had any Companions.</p>
+               <p>Campbell. Did your Reverence know the Faces of any of those People?</p>
+               <p>Dr. Lancaster. No, not one of them.</p>
+               <p>Campbell. Did you ever give any Money to 
+               <persName id="t17351210-54-person362">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person362" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person362" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person362" type="gender" value="male"></interp>
+                  </persName>
+            's Wife?</p>
+               <p>Dr. Lancaster. Finding Brown in a very weak Condition, I allow'd him Meat and Drink for his Subsistence, but no more than was absolutely necessary. I consulted some Lawyers, and looked into Law-Books myself on this Occasion. Brown's Confession was made before Col Deveil, before I knew any thing of it, and the Colonel advised me to go and see him. I said I had been so ill treated, that my Life was in danger, and I had often fled for it. However, I went, and I laid before Brown in the strongest light I was able, the danger of Perjury both here and hereafter He told me among other things, that Wreathock offered him One Hundred Guineas to kill me.</p>
+               <p>Wreathock. Did you ever see me before this Day?</p>
+               <p>Dr. Lancaster. No.</p>
+               <p>Wreathock, Did you never say, you believed none of us were ever guilty of Robbing on the Highway?</p>
+               <p>Dr. Lancaster. No.</p>
+               <p>Wreathock. Did you not jump out of the Coach immediately and give a Gardners Boy a Crown to pursue Maccray only.</p>
+               <p>Dr. Lancaster. I did promise him something to drink, he told me, that he saw the Man rob me, but there was not a Word said, as to what number of Men there were upon the Road.</p>
+               <p>Wreathock. Did not you and the Boy pursue Maccray to the Turnpike. - This I do to strengthen the Boys Evidence. -</p>
+               <p>Council. We shall now call 
+               <persName id="t17351210-54-person363">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person363" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person363" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person363" type="gender" value="male"></interp>
+                  </persName>
+             - He still is in a weak Condition, his Voice is low and he speaks but bad English, but I hope if be takes time, and the People are quiet we shall understand him.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person364">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person364" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person364" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person364" type="gender" value="male"></interp>
+                  </persName>
+            . I believe I can speak de Anglish so vel as to be understand, I ave know Wreatock Sis or Saven Mont - On de 11th Day of June. I go to his 'ouse in de 'atton Garden near eight in de Afternoon. He vas at his Door, and he say, I be very glad you come, I was justa now to go to your 'ouse. I say to him, vat you want vid me, and he say, take you dis Horse and ride slow to 'Oborn, and I shall over take you, and you shall meet to Shelsea Road, and dare vill be Maccray and 
+               <persName id="t17351210-54-person365">
+                  Peter 
+                  Shamberlain 
+               <interp inst="t17351210-54-person365" type="surname" value="Shamberlain"></interp>
+                     <interp inst="t17351210-54-person365" type="given" value="Peter"></interp>
+                     <interp inst="t17351210-54-person365" type="gender" value="male"></interp>
+                  </persName>
+            , and Jemmy Ruffit, and Campbell, and Bird, and You, and I. And den ve shall rob a Gentleman, and ave his Money. So I take a de Horse, and he meet a me by Moumot-street. and ve go togader to Shelsea-Road, and dare ve find Maccray first,<xptr type="pageFacsimile" doc="173512100019"></xptr> and he say, Stand a you dis a vay at a distaunce. I vait for a Doctor in a Coash, and I shall rob him and ave his Money.</p>
+               <p>Wreathock. He can speak louder if he will, for as bad as he pretends to be, he eat a whole Fowl yesterday for his Dinner.</p>
+               <p>Council. I will ask you particularly, who was there with you in Chelsea-Road - Was Wreathock there?</p>
+               <p>Brown. Yes he was one.</p>
+               <p>Council. Name the Rest.</p>
+
+               <p>Brown. Shamberlain Two, Ruffit Three, Bird Four, Campbell Five, and I and Maccray, dat vas Seven.</p>
+               <p>Council. And are you Positive, these were all there?</p>
+               <p>Brown. Yes, very Positive - Wreatock ve call de General, because he gives Instrution - His Reverence de Doctor come in de Coash at seven minutes after Nine. His Reverence sit vid his Back towards the Horses, and dare vas a Gentleman and a Gentlewoman sit togader on de oder side, den Maccray come from de side of de Hedge and bid de Coash Stop! Stop! Den he clap the Pistole to his Reverence Stomack, and tell his Reverence to deliver vat he have, and I turn my Horses Head to look, and I see his Reverence deliver his Vash and Keys into Maccray's Hat. Wreatock vas den at a leetel distaunce, and Maccray run to him and trow de Vast into his Hat, Wreatock put it into his Vastcoat Pockate, and he say, ve must not go all togadar, and his Reverence come out of de Coath, and hold up his Hands, and cry Highwayman! Tees !</p>
+               <p>- I did see a leetel Boy by the Coash, but I no take mush notice.</p>
+               <p>Dr. Lancaster. I said to Brown, before I go on with this Prosecution, you must convince me by some private token that you was there. And then he told me this Sign, of holding up my Hands, and this encouraged me to prosecute.</p>
+               <p>Brown. Ven his Reverence 'old up his Hands, I vas so far from him as to dat Vall in de Yard. Shambarlain vas in de middle of us, and he say to Maccray, D - you, vy you no blow his Brains out - Ven de Coash was rob, I vas so far off as twice dat Vall in de Yard - Bird, Campbell, Wreatock, and Maccray go all four togadar, and Chamberlain and Ruffit, go togader, and they say to me, You go that vay, I go vid mine self, and miss no Gallop. Ven I come to Atton-Garden, I meet Wreatock, coming out of his 'ouse and he tye my Horse to his Rail, and ask me to Drink Vine at de Tavern, in de Corner of dat Street. Ve go dare and drink von Pint at de Door, Den he said, I have business, I must go in de City, and in a couple of Days you may call at my 'Ouse - So ven I came again, he say to me. God bless my Soul Tom is taken Yesterday - dat is Tom Maccray - and I told Wreatock, Vat you do vid de Vash, O, he said, it is to soon to sell it now, but in a leatel time, I will sell it and den everyone shall have a Share.</p>
+               <p>Bird Did you not on Maccray's Trial, Swear that you and Maccray were at an Alehouse in Holborn at the time this Robbery was committed?</p>
+               <p>Brown. Yes, I did, I don't deny it, but there, I forswore myself.</p>
+               <p>Q. How came you say so?</p>
+               <p>Brown. Wreatock, had all de Witnesses at de Kings-Head in 'Oborn, and said he you'd give five Guineas a piece to swear for Maccray, and dere vas to be six Witnesses in de Hall, and four in de Court, I said, it is very hard for me to forswear myself. And he answer'd G - D - ye! if you don't, dey will swear your Life away. But ven I vas Sick nine Weeks, I tink it vas a very vicked ting to rob his Reverence and forswear myself, and so I make de general Confession and Information  to clear my Conscience.</p>
+               <p>Council. What time of Night was it when you was at the Tavern with Wreathock.</p>
+               <p>Brown. From Ten till Three in the Morning.</p>
+               <p>Council. I don't mean the Night when the Witnesses met, but the Night of the Robbery?</p>
+               <p>Brown. Ven I came to Wreatock's house vid de Horse, it was two or three minutes past Ten, and den ve go directly to de Tavern,</p>
+               <p>Campbell. Did we go towards London, or Chelsea?</p>
+               <p>Brown. I came directly home, for I turn'd myself and past de Coash, and dey took another way on de left Hand.</p>
+               <p>Q. Did Wreathock go by the Coach.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173512100020"></xptr>Brown. No, he was before it, and den dey vent to London and Maccray vid them.</p>
+               <p>Campbell. We shall contradict that.</p>
+               <p>Brown. Dere is no two suth Rogues in Europe to find false Vitness.</p>
+               <p>Wreathock. How came you acquained with me?</p>
+               <p>Brown. In your own House. Campbell brought me</p>
+               <p>Campbell. Did Mac Cray ride towards London when he had robb'd the Coach?</p>
+               <p>Brown. Wreatock, Campbell, Bird and Mac-Cray, all four come togader toward London.</p>
+               <p>Campbell. The Doctor swears Mac Cray went directly from the Coach the contrary way.</p>
+               <p>Brown. He might turn off anoder way, when he was out of my sight.</p>
+               <p>Wreathock. Did I or my Footman give you the Horse at my Door?</p>
+               <p>Brown. Wreatock did, and he give me two Pistols just as I go avay.</p>
+               <p>Q, How came you to make the Discovery?</p>
+               <p>Brown. I vas nine Weeks very ill and bad, and expect my self to die, and I tink it very hard upon my Conscience, to rob his Reverance, and to lose my Soul and forswear my self: So I sent for Justice Deveil, and he say to me, Take care - consider - recollect - speak noting but de Trute, I beg you, for it is a great matter. He tell me dis an Hour before he write - I sent for de Doctor, and his Reverance tell me, Speak de Trute, I beg you for God's sake, and noting else; and so he say, fivety times every Day - I make dis Discovery to comfort my Conscience, for I tink of God to be my Judge.</p>
+               <p>Justice Deveil. On the thirty first of October, while I was at Dinner with a Gentleman, a (Justice of the Peace,) I received a Letter from one Wolham a Prisoner in the King's Bench; I at first suspected it might be a Trap laid for me, but considering it was in a Prison, I took the Justice with me, and went. Wolham said he had a Man ready to carry me to 
+               <persName id="t17351210-54-person366">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person366" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person366" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person366" type="gender" value="male"></interp>
+                  </persName>
+            ; when I heard his Name, I suspected a Design to murder me, but yet, as I was willing to know what he had to say, I took four Men well arm'd and the Justice with me, and went to Brown's House: I found him in a very weak Condition, he said he sent for me to take his Information; I charg'd him to be cautious, and not to accuse any Man wrongfully, for it was a Matter of the utmost consequence. He answered, that what he desired to do, was to purge his Conscience. I was above three Hours with him, tho' I could scarce bear the smell of him and the Room.</p>
+               <p>Wreathock. What's his Character?</p>
+               <p>Deveil. That he has been a very ill Man, but this was on his Repentance.</p>
+               <p>Juryman. Did the Doctor mention the signal before the Confession was made?</p>
+               <p>Dr. Lancaster, I never told that Circumstance to any one living, till after Brown's Confession.</p>
+               <p>Campbell. Brown might have that Signal from Mac Cray.</p>
+               <p>Dr. Lancaster. Mac Cray did not see that Signal.</p>
+               <p>Campbell. The Doctor lifted up his Hands to some Persons (as he himself has sworn) and they might speak of it to others.</p>
+               <p>The Defence of the Prisoners.</p>
+               <p>Wreathock. I have been an Attorney these eighteen Years, and have acquired in this Capacity a small Fortune. I have lived (in Hatton-Garden ) eleven Years, in as much Credit as Dr. Lancaster himself I kept two Clerks, a Footman, and Women Servants and have constantly been in a Hurry of Business, and therefore under no Temptation to hazard my Life, by robbing on the Highway. I was not taken, but surrendered my self, which it cannot be suppos'd I would have done, had I known my self to be guilty: It is not indeed impossible, but far from being probable, that seven Men should ride out together to commit a Robbery. Brown says he has known me six or seven Months; it 'tis six Months since this Fact was done, and 'tis unaccountable that on such a short Acquaintance, I should venture to accompany him in such an Expedition, and espe-cially that I should do this in a Place where I was likely to meet some that knew me for having an Estate at Fulham, I often pass'd that Road.</p>
+         
+               <p>The Impatience of the Town for these Trials, obliges us to defer the Second Part for several Days.</p>
+         
+               <div1 type="frontMatter" id="t17351210-54">
+                  <interp inst="t17351210-54" type="collection" value="BAILEY"></interp>
+                  <interp inst="t17351210-54" type="year" value="1735"></interp>
+                  <interp inst="t17351210-54" type="uri" value="sessionsPapers/17351210"></interp>
+                  <interp inst="t17351210-54" type="date" value="17351210"></interp>
+            
+                  <p>
+                     <xptr type="pageFacsimile" doc="173512100021"></xptr>THE PROCEEDINGS AT THE Sessions of the Peace, and Oyer and Terminer, FOR THE City of LONDON, AND County of MIDDLESEX, ON</p>
+                  <p>Wednesday the 10th, Thursday the 11th, Friday the 12th, Saturday the 13th, and Monday the 15th of December, 1735. in the Ninth Year of His MAJESTY's Reign.</p>
+                  <p>Being the First SESSIONS in the Mayoralty of the Right Honourable Sir JOHN WILLIAMS, Knt. Lord-Mayor of the City of LONDON, in the Year 1735.</p>
+                  <p>NUMBER I. PART II.</p>
+                  <p>LONDON:</p>
+                  <p>Printed for J. ROBERTS, at the Oxford-Arms in Warwick-Lane.</p>
+                  <p>M.DCC.XXXV.</p>
+                  <p>(Price Six Pence.)</p>
+                  <p>
+                     <xptr type="pageFacsimile" doc="173512100022"></xptr>The PROCEEDINGS, &amp;c.</p>
+               </div1>
+               <p>WREATHOCK, none of us were ever charged with any thing of this nature, before the Birth of this execrable Device, for such I hope it will appear to be. 'Tis very strange that a Man should this foolishly, and without being under the least necessity, put his Life into the Power of others.</p>
+               <p>We should call the Coachman, the Gardener's Boy, the Turnpike Men, and others, to prove, there were not (tho' Brown swears the Truth there must have been) six or seven Men on the Road when the Robbery was Committed. And has to myself in particular, I shall prove that I was at the Kings-Head in Holborn from eight that Evening, till twelve at Night - What I observ'd as to the time of my acquaintance with Brown, has been only from his own Words but in fact, I never knew nor so much as saw him till about five Months ago, he was tryed in this Court for a Rape.</p>
+               <p>Campbell. The six first Witnesses we shall call are Persons who were upon the Spot, and their Evidence will be in behalf of us all.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person367">
+                  Henry 
+                  Duck 
+               <interp inst="t17351210-54-person367" type="surname" value="Duck"></interp>
+                     <interp inst="t17351210-54-person367" type="given" value="Henry"></interp>
+                     <interp inst="t17351210-54-person367" type="gender" value="male"></interp>
+                  </persName>
+            , Coachman. I drove the Coach when Dr. Lancaster was robb'd. There was he and another Gentleman and a Gentlewoman in the Coach, but how they sat, or whether the Windows were drawn up or not, I cannot say. Just by the Coach side when the Robbery was committed there was a Soldier and a Woman, who went towards Chelsea after the Highwayman went away, and I saw no other Persons. The Doctor got out at Bloody-Bridge, where two Men met him. He spoke to them and he and they went towards Chelsea. After the Highwayman, I saw no Horses on the Road, till I came to London, and if there had been any I must have seen them for I turn'd my Head and look'd about. I know not the Day of the Month or Week, but it was between eight and nine a Clock. A clear Evening but duskish.</p>
+               <p>Campbell. I would ask the Doctor if this is not the Coachman.</p>
+               <p>Dr. Lancaster. I don't remember that I observ'd the Coachman's Face. But I afterwards saw such a Coach, and enquiring who drove it at that Time, the Master of the Coach produced his Man.</p>
+               <p>Council. Why did not you call him for a Witness at Maccray's Trial?</p>
+               <p>
+            
+                  <persName id="t17351210-54-person368">
+                  John 
+                  Moore 
+               <interp inst="t17351210-54-person368" type="surname" value="Moore"></interp>
+                     <interp inst="t17351210-54-person368" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person368" type="gender" value="male"></interp>
+                  </persName>
+            , the Gardener's Boy As I was coming out of the Red Lyon Ale-house in the Kings Road, at nine or little after, I saw a Man turn from the Coach, and I saw no other Horseman on the Road. I followed the Coach to Bloody-Bridge, where my Master lives, and where it stopt, and the Doctor got out, and told the Landlord of the House there, that he had been robb'd, by a single Highwayman, and said he would give a Crown a Piece to some Men to pursue him - There was a Soldier and a Woman hard by.</p>
+               <p>Wreathock. If there had been any Horsemen on the Road, do you think you should have seen them.</p>
+               <p>Boy. Yes, I must seen them, for the Road is but twenty three foot Wide.</p>
+               <p>Wreathock. Could not you see a quarter of a Mile, both Ways from the Lyon?</p>
+               <p>Boy. No, not above three hundred Yards, for it was dusky, and the Road is not Straight.</p>
+               <p>Juryman. Is there not one turning to Chelsea, and one to Chelsea-Common, near that House.</p>
+               <p>Boy. Yes there is - It was a Haizey Evening. and it had rained that Afternoon.</p>
+               <p>Q. To the Coachman. Did you see the Highwayman come out from the Hedge?</p>
+               <p>
+            
+                  <persName id="t17351210-54-person369">
+                  William 
+                  Coats 
+               <interp inst="t17351210-54-person369" type="surname" value="Coats"></interp>
+                     <interp inst="t17351210-54-person369" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person369" type="gender" value="male"></interp>
+                  </persName>
+            . Apothccary in Chelsea. I neither saw the Robbery nor the Coach, but Mr. Jones who keeps the White-Hart in the Kings-Road near Chelsea, came to me and said, a Gentleman at his House wanted to see me. I went with him and by the way a Man rid by us towards London, in such a manner that I suspected him, going a little farther I met two or three Men on Foot, in pursuit of him<xptr type="pageFacsimile" doc="173512100023"></xptr> and presently after, I met the Doctor, who said he had been robb'd, and enquired if we had met such a Man, This was about one hundred and fifty or near two hundred Yards, from the place where I heard the Robbery was done. I saw no other Person on the Road - It was a clear Night but it had been rainy.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person370">
+                  Richard 
+                  Jones 
+               <interp inst="t17351210-54-person370" type="surname" value="Jones"></interp>
+                     <interp inst="t17351210-54-person370" type="given" value="Richard"></interp>
+                     <interp inst="t17351210-54-person370" type="gender" value="male"></interp>
+                  </persName>
+            . (who was with Mr. Coats( depos'd, to the same Effect</p>
+               <p>
+            
+                  <persName id="t17351210-54-person371">
+                  John 
+                  Baker 
+               <interp inst="t17351210-54-person371" type="surname" value="Baker"></interp>
+                     <interp inst="t17351210-54-person371" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person371" type="gender" value="male"></interp>
+                  </persName>
+            . Attorney. I live in Fulham Parish. In the close of the Evening it was near nine a Clock ( but as light as it is now at half an hour past four) I went over the Fields with a Gentleman, on Foot from Hidepark Corner, and going towards Bloody-Bridge, there was a Crowd of People about the House. They said a Person had been robb'd presently a Horseman came full speed from Fulham. One of the Company said he believed that was the Man upon which the Gentleman who was with me, having a Bayonet at the end off his quarter Staff. Stopt the Horse and examined the Man. He told us he was no such Person as they took him to be, but that he had met a Man riding the other way - I saw no other Horseman on the Road.</p>
+
+               <p>
+            
+                  <persName id="t17351210-54-person372">
+                  Mary 
+                  Lovell 
+               <interp inst="t17351210-54-person372" type="surname" value="Lovell"></interp>
+                     <interp inst="t17351210-54-person372" type="given" value="Mary"></interp>
+                     <interp inst="t17351210-54-person372" type="gender" value="female"></interp>
+                  </persName>
+            . I keep the House at Bloody-Bridge. I was sitting in my Kitchen, which is next the Road. and hearing a Coach stop I went to the Door. The Doctor came out of the Coach, and asked if I had any Men in the House, for the had been robb'd. My House was as far from where the Robbery was done as it is from hence to Newgate-street. I saw no body in the Road, but those that belong'd to the Coach, and a Soldier and a Woman that past by my Door.</p>
+               <p>Wreathock. As you sat in the Kitchen next the Road, if any Horsemen had past by, do you think you should have heard them?</p>
+               <p>M. Lovell. The Road is but five Yards broad in that place - it had been a dull wet Day.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person373">
+                  John 
+                  Thompson 
+               <interp inst="t17351210-54-person373" type="surname" value="Thompson"></interp>
+                     <interp inst="t17351210-54-person373" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person373" type="gender" value="male"></interp>
+                  </persName>
+            . I was Smoaking a Pipe at my Door, and talking to an old Man, when a Horseman came riding full speed, towards Fulham: Says I, that Fellow rides as if he were drunk or Mad - I saw no Horseman on the Road but him; two Men on foot came up, and said that Man had robb'd a Person, between the lion and Bloody-Bridge and that the Parson between the Red Lion and Bloody Bridge, and that the Person would give a reward for pursuing him, they pull'd of their Coats, and left them in my House - The Doctor than came up, and told us he had been robb'd. The Turupike is just above my House, and was open, I stay'd at the Door till ten at Night.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person374">
+                  Richard 
+                  Thomas 
+               <interp inst="t17351210-54-person374" type="surname" value="Thomas"></interp>
+                     <interp inst="t17351210-54-person374" type="given" value="Richard"></interp>
+                     <interp inst="t17351210-54-person374" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the Red Lyon in the Kings-Road, and was called out to pursue a Highwayman, and on the promise of Crown, I followed to Fulham Bridge, but saw no Horses except one in a Chaise, and a Cart Horse, which a Man was riding on near Fulham.</p>
+               <p>Wreathock. On the eleventh of June, I attended the Court of   to try a Cause before my Lord Hardwick, after which I went to Serjeant's Inn Coffee-House, where I stay'd from six 'till eight in the Evening, and went from thence, to the King's Head Tavern in Holborn, where I stay'd till twelve at Night - But before I call Evidence to prove where I was that Night, I would settle one Point. It has been sworn, that Mac Cray rid towards Fulham: Now I would once more ask the Doctor, whether when Mac Cray robb'd the Coach, he rode directly that Way or towards London.</p>
+               <p>Dr. Lancaster. He did not ride towards London, but he rid the other Way.</p>
+               <p>Wreathock. I thank you Doctor ! This is a full Contradiction to Brown, who swore that when Mac Cray left the Coach, he rid directly towards London.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person375">
+                  Thomas 
+                  Bullock 
+               <interp inst="t17351210-54-person375" type="surname" value="Bullock"></interp>
+                     <interp inst="t17351210-54-person375" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-54-person375" type="gender" value="male"></interp>
+                  </persName>
+            , of Clement's Inn. On the eleventh of June in Trinity Term, I delivered a Copy of a Notice to Mr. Ray, Mr. Wreathock's Clerk.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person376">
+                  William 
+                  Ray 
+               <interp inst="t17351210-54-person376" type="surname" value="Ray"></interp>
+                     <interp inst="t17351210-54-person376" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person376" type="gender" value="male"></interp>
+                  </persName>
+            . The Notice was delivered to me at Serjeant's Inn Coffee-House, between six and seven in the Evening. Mr,Wreathock coming in, I gave him this Notice, for executing a Writ of Enquiry - He was then concern'd in a Cause, between Lun and Ormond. He staid there 'till near eight, and then went out with Mr. Brookshank, and I saw him no more that Night - the Cause was try'd on the sixteenth of June; but the Entry was made in the Marshall's Book the eleventh of June.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173512100024"></xptr>I have lived Clerk with Mr. Wreathock twelve Years, he had full Business for three Clerks, by which he has got much Money, and is now worth two or three hundred Pounds a Year - He bears a very good Character.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person377">
+                  John 
+                  Totteridge 
+               <interp inst="t17351210-54-person377" type="surname" value="Totteridge"></interp>
+                     <interp inst="t17351210-54-person377" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person377" type="gender" value="male"></interp>
+                  </persName>
+            . I live In Westminster, and have worked as a Carpenter to Mr. Wreathock, four Years. He told me he had a Mortgage on an Estate, in Little-Britain: The Houses not being finish'd, he asked me what it would cost him to finish them, and I computed it at two thousand Pounds: He said his was a second Mortgage, and he wanted some Goods upon the Premises to be remov'd, he desired me to do it on the eleventh of June, because that being a Holyday, the first Mortgagee could not then prevent it. Accordingly I got Assistance, and on the eleventh of June we moved the Goods from Little-Britain, to the Windmill Ale-House by Hicks's Hall. When this was done, we went to inform him of it: We found him at Mr. Lincolns the King's Head in Middle-Row Holborn. It was five or ten Minutes past eight when we came there, I supp'd with him upon Calves Liver and Bacon fryed, and staid 'till twelve at Night, and he was never our of my Company but once, when he stept into another Room to speak with a Gentleman - I am certain it was the eleventh of June, both by my Father's Books, and my own.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person378">
+                  Abraham 
+                  Brookshank 
+               <interp inst="t17351210-54-person378" type="surname" value="Brookshank"></interp>
+                     <interp inst="t17351210-54-person378" type="given" value="Abraham"></interp>
+                     <interp inst="t17351210-54-person378" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Mr. Wreathock sixteen Years, and did Business for him. I made the second Mortgage; and afterwards waiting upon the first Mortgagee; I thought by his Discourse, we had Reason to fear a Writ of Execution, upon which I advised Wreathock, to move the Goods; which he concluded to do, on the eleventh of June, because an Ejectment could not be taken out that Day, it being a Holyday. In the Evening I was with him at Serjeant's Inn Coffee-House, At near eight of the Clock, we went from thence, to the King's Head Tavern: Between eight and nine, Totteridge and Whitman came in, and said, they had moved the Goods; we said 'till twelve, and then Totteridge and I went out at the Back-door. I went through Chancery-Lane, and coming to the Temple-Gate, I saw the Embers of the Bonfire, that had been made that Night.</p>
+               <p>- Whitman. I live at Fulham, and work for Mr. Totteridge. He told me. that on Wednesday the eleventh of June, he should want me in the City, to move some goods. We mov'd them accordingly, and then went to the King's Head, where Mr. Wreathock was: He said, you are in a miserable dirty condition- and so indeed I was, with moving the Goods = I wash'd my self, and then sat down. We sup'd upon Calves Liver and Bacon. I staid there in Mr. Wreathock's Company till between twelve and one. He has an extraordinary good Character.</p>
+               <p>Mr. Andrews. I live near the King's Head. I do not remember the Day of the Month, but the Day the Goods were removed, I went to that Tavern, and bid the Cook fry me some Liver and Bacon for Supper. She fryed some, but Mr. Wreathock coming in, I ordered her to do more - Wreathock and I supt together - two Workmen came, and said, they had removed the Goods - We staid there till twelve.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person379">
+                  Gregory 
+                  Big 
+               <interp inst="t17351210-54-person379" type="surname" value="Big"></interp>
+                     <interp inst="t17351210-54-person379" type="given" value="Gregory"></interp>
+                     <interp inst="t17351210-54-person379" type="gender" value="male"></interp>
+                  </persName>
+            , the Drawer at the King's Head. Mr. Wreathock came in at eight a-Clock, and staid till past twelve, and I lighted him out - He had a Fry (as we call it) of Liver and Bacon - Totteridge came in very black and dirty, and went and washed himself. I am not sure what Day of the Month it was.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person380">
+                  Margaret 
+                  Lloyd 
+               <interp inst="t17351210-54-person380" type="surname" value="Lloyd"></interp>
+                     <interp inst="t17351210-54-person380" type="given" value="Margaret"></interp>
+                     <interp inst="t17351210-54-person380" type="gender" value="female"></interp>
+                  </persName>
+            , the Cook at the King's Head. Wreathock came in between seven or eight a Clock, and staid till past twelve. I drest the Liver and Bacon for Supper, and they supped in the Kitchen. Totteridge came in very black and dirty, and said he wanted to wash himself. I told him he had need have a whole Cistern of Water. I carried him a Candle. I don't know what Day it was.</p>
+               <p>Juryman. What Occasion was there for a Candle, at eight o' the Clock?</p>
+               <p>Wreathock. The Place had no Light.</p>
+               <p>Q. Is it usual for People to take a Candle when they go to wash themselves there?</p>
+               <p>M. Lovel. Yes at Night when it's dark.</p>
+               <p>Q. It was not dark at eight in the Evening on the eleventh of June?</p>
+               <p>Dr Butler. I have been his Physician eight Years, and have attended him in three Fevers. He bore a very good Character.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person381">
+                  Thomas 
+                  Poulter 
+               <interp inst="t17351210-54-person381" type="surname" value="Poulter"></interp>
+                     <interp inst="t17351210-54-person381" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-54-person381" type="gender" value="male"></interp>
+                  </persName>
+            , Brewer, in Chiswell-street.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173512100025"></xptr>I have known him fifteen Years, I have employ'd him as an Attorney: He behaved as a very honest Man. I never knew, nor ever hear'd any harm of him.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person382">
+                  John 
+                  Searle 
+               <interp inst="t17351210-54-person382" type="surname" value="Searle"></interp>
+                     <interp inst="t17351210-54-person382" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person382" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him from a Child, and never hear'd an ill Character of him. He has employed me several times as a Proctor, and he paid me honestly.</p>
+               <p>Mr. Garnham, 
+               <persName id="t17351210-54-person383">
+                  Richard 
+                  Culson 
+               <interp inst="t17351210-54-person383" type="surname" value="Culson"></interp>
+                     <interp inst="t17351210-54-person383" type="given" value="Richard"></interp>
+                     <interp inst="t17351210-54-person383" type="gender" value="male"></interp>
+                  </persName>
+            , Mr. Jones, Mr. Cook, Wiliam Wilson, 
+               <persName id="t17351210-54-person384">
+                  William 
+                  Rhodes 
+               <interp inst="t17351210-54-person384" type="surname" value="Rhodes"></interp>
+                     <interp inst="t17351210-54-person384" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person384" type="gender" value="male"></interp>
+                  </persName>
+            , and others, deposed, that they had known him several Years, and most of them, that they had employ'd him as an Attorney, and they all said, he was a Man of a good Reputation.</p>
+               <p>* For 
+               <persName id="t17351210-54-person385">
+                  Peter 
+                  Chamberlain 
+               <interp inst="t17351210-54-person385" type="surname" value="Chamberlain"></interp>
+                     <interp inst="t17351210-54-person385" type="given" value="Peter"></interp>
+                     <interp inst="t17351210-54-person385" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>* Chamberlain, was a Witness for Mac-Cray, and swore he saw him take up the three Keys in a Bunch at Charing-Cross, on the twelfth of June; which Dr. Lancaster swore Mac Cray robb'd him off, and which were found in Mac-Cray's Pocket, when taken in White-Chapple.</p>
+               <p>Chamberlain. I am a heavy bulky Man, and very unfit to ride on Horse-back - I have several Friends to my Character.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person386">
+                  Charles 
+                  Horsey 
+               <interp inst="t17351210-54-person386" type="surname" value="Horsey"></interp>
+                     <interp inst="t17351210-54-person386" type="given" value="Charles"></interp>
+                     <interp inst="t17351210-54-person386" type="gender" value="male"></interp>
+                  </persName>
+            , of Clare-market, Mr. Thomas, Mr. Dews, Mr. Cooper, (formerly a Poulterer, but now a Victualler in Vere-street, Clare-market) deposed that they had known him several Years, that he had an honest Character, and that they had never heard he was charged with any thing of this kind before.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person387">
+                  Edward 
+                  Kennell 
+               <interp inst="t17351210-54-person387" type="surname" value="Kennell"></interp>
+                     <interp inst="t17351210-54-person387" type="given" value="Edward"></interp>
+                     <interp inst="t17351210-54-person387" type="gender" value="male"></interp>
+                  </persName>
+            , of Clare-market, deposed that he never heard he was guilty of Theft, but only that he had been wild.</p>
+               <p>For 
+               <persName id="t17351210-54-person388">
+                  George 
+                  Bird 
+               <interp inst="t17351210-54-person388" type="surname" value="Bird"></interp>
+                     <interp inst="t17351210-54-person388" type="given" value="George"></interp>
+                     <interp inst="t17351210-54-person388" type="gender" value="male"></interp>
+                  </persName>
+            , the younger.</p>
+               <p>Bird. I shall prove where I was from three till eleven that Evening the Doctor was robbed.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person389">
+                  George 
+                  Bird 
+               <interp inst="t17351210-54-person389" type="surname" value="Bird"></interp>
+                     <interp inst="t17351210-54-person389" type="given" value="George"></interp>
+                     <interp inst="t17351210-54-person389" type="gender" value="male"></interp>
+                  </persName>
+            , a Victualler, and Bailiff in Clare-market. The Prisoner is my Brother. On the eleventh of June, I went to Acton, and returned home at six in the Evening, when I found the Prisoner in my House, and he staid there till eleven at Night. It was a very wet Day, and when I came home, I shifted my Cloaths - I remember the Day, because the next Day he took a Bail Bond of Mr. Lampton, and that Bond was dated the twelfth of June.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person390">
+                  Jonathan 
+                  Gumey 
+               <interp inst="t17351210-54-person390" type="surname" value="Gumey"></interp>
+                     <interp inst="t17351210-54-person390" type="given" value="Jonathan"></interp>
+                     <interp inst="t17351210-54-person390" type="gender" value="male"></interp>
+                  </persName>
+            , Shoemaker. I was present when the Bond was filled up, but I did not read it.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person391">
+                  Edward 
+                  Chace 
+               <interp inst="t17351210-54-person391" type="surname" value="Chace"></interp>
+                     <interp inst="t17351210-54-person391" type="given" value="Edward"></interp>
+                     <interp inst="t17351210-54-person391" type="gender" value="male"></interp>
+                  </persName>
+            , in Fox Court. The Prisoner is a Sheriff's Officer, he arrested a Man on the eleventh of June - here is the Warrant - I left him at five in the Evening at his Brother's House.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person392">
+                  Christopher 
+                  Higginson 
+               <interp inst="t17351210-54-person392" type="surname" value="Higginson"></interp>
+                     <interp inst="t17351210-54-person392" type="given" value="Christopher"></interp>
+                     <interp inst="t17351210-54-person392" type="gender" value="male"></interp>
+                  </persName>
+            . On the eleventh of June, I was three times at Bird's House, and saw the Prisoner there. The first time was at noon, the second between four and five in the afternoon, and the third between nine and ten at night.</p>
+
+               <p>
+            
+                  <persName id="t17351210-54-person393">
+                  James 
+                  Norton 
+               <interp inst="t17351210-54-person393" type="surname" value="Norton"></interp>
+                     <interp inst="t17351210-54-person393" type="given" value="James"></interp>
+                     <interp inst="t17351210-54-person393" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person394">
+                  George 
+                  Lines 
+               <interp inst="t17351210-54-person394" type="surname" value="Lines"></interp>
+                     <interp inst="t17351210-54-person394" type="given" value="George"></interp>
+                     <interp inst="t17351210-54-person394" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person395">
+                  John 
+                  Lewis 
+               <interp inst="t17351210-54-person395" type="surname" value="Lewis"></interp>
+                     <interp inst="t17351210-54-person395" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person395" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person396">
+                  Robert 
+                  Davis 
+               <interp inst="t17351210-54-person396" type="surname" value="Davis"></interp>
+                     <interp inst="t17351210-54-person396" type="given" value="Robert"></interp>
+                     <interp inst="t17351210-54-person396" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person397">
+                  Samuel 
+                  Norton 
+               <interp inst="t17351210-54-person397" type="surname" value="Norton"></interp>
+                     <interp inst="t17351210-54-person397" type="given" value="Samuel"></interp>
+                     <interp inst="t17351210-54-person397" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person398">
+                  Benjamin 
+                  Pickering 
+               <interp inst="t17351210-54-person398" type="surname" value="Pickering"></interp>
+                     <interp inst="t17351210-54-person398" type="given" value="Benjamin"></interp>
+                     <interp inst="t17351210-54-person398" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person399">
+                  John 
+                  Burley 
+               <interp inst="t17351210-54-person399" type="surname" value="Burley"></interp>
+                     <interp inst="t17351210-54-person399" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person399" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person400">
+                  John 
+                  Giles 
+               <interp inst="t17351210-54-person400" type="surname" value="Giles"></interp>
+                     <interp inst="t17351210-54-person400" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person400" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person401">
+                  Thomas 
+                  Jones 
+               <interp inst="t17351210-54-person401" type="surname" value="Jones"></interp>
+                     <interp inst="t17351210-54-person401" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-54-person401" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17351210-54-person402">
+                  James 
+                  Agur 
+               <interp inst="t17351210-54-person402" type="surname" value="Agur"></interp>
+                     <interp inst="t17351210-54-person402" type="given" value="James"></interp>
+                     <interp inst="t17351210-54-person402" type="gender" value="male"></interp>
+                  </persName>
+            , deposed, that they had known the Prisoner several Years, and that he had a very good Character.</p>
+               <p>+ For Campbell</p>
+               <p>+ Campbell was an Evidence for 
+               <persName id="t17351210-54-person403">
+                  John 
+                  Smith 
+               <interp inst="t17351210-54-person403" type="surname" value="Smith"></interp>
+                     <interp inst="t17351210-54-person403" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person403" type="gender" value="male"></interp>
+                  </persName>
+            , who was tryed in February last for stealing the Money of 
+               <persName id="t17351210-54-person404">
+                  Nicholas 
+                  Pollamounter 
+               <interp inst="t17351210-54-person404" type="surname" value="Pollamounter"></interp>
+                     <interp inst="t17351210-54-person404" type="given" value="Nicholas"></interp>
+                     <interp inst="t17351210-54-person404" type="gender" value="male"></interp>
+                  </persName>
+             at the Angel Tavern the Corner of Sheer Lane. And at Maccray's Trial, Campbell swore he was at the Stagg and Hounds, a House in Holborn, with Ruffhead and 
+               <persName id="t17351210-54-person405">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person405" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person405" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person405" type="gender" value="male"></interp>
+                  </persName>
+             (his two Clients) and Maccray, from six in the Evening till eleven at Night, on the eleventh of June; and that neither of them stirred out of the Room.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person406">
+                  Francis 
+                  Howard 
+               <interp inst="t17351210-54-person406" type="surname" value="Howard"></interp>
+                     <interp inst="t17351210-54-person406" type="given" value="Francis"></interp>
+                     <interp inst="t17351210-54-person406" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17351210-54-person407">
+                  William 
+                  Salisbury 
+               <interp inst="t17351210-54-person407" type="surname" value="Salisbury"></interp>
+                     <interp inst="t17351210-54-person407" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person407" type="gender" value="male"></interp>
+                  </persName>
+            , deposed, that he had a good Character</p>
+               <p>++ For Ruffet.</p>
+               <p>++ Rufhead was a Witness for Mac Cray, at his Tryal, and swore he was with him at the same House.</p>
+               <p>
+            
+                  <persName id="t17351210-54-person408">
+                  Edward 
+                  Railton 
+               <interp inst="t17351210-54-person408" type="surname" value="Railton"></interp>
+                     <interp inst="t17351210-54-person408" type="given" value="Edward"></interp>
+                     <interp inst="t17351210-54-person408" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoner from a Child. I was Apprentice to, and afterwards Partner with his Father, who was in good Circumstances, and left him three hundred Pounds, and a Share of his Goods, He was a sober honest Lad - He has not been of Age above these five Months, but his Friends have let him have Money - He had Ten pound in March last.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173512100026"></xptr>
+            
+                  <persName id="t17351210-54-person409">
+                  James
+                   Hall - Evans
+               <interp inst="t17351210-54-person409" type="surname" value="Hall - Evans"></interp>
+                     <interp inst="t17351210-54-person409" type="given" value="James"></interp>
+                     <interp inst="t17351210-54-person409" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person410">
+                  Robert 
+                  Sanders 
+               <interp inst="t17351210-54-person410" type="surname" value="Sanders"></interp>
+                     <interp inst="t17351210-54-person410" type="given" value="Robert"></interp>
+                     <interp inst="t17351210-54-person410" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person411">
+                  Joseph 
+                  Griffith 
+               <interp inst="t17351210-54-person411" type="surname" value="Griffith"></interp>
+                     <interp inst="t17351210-54-person411" type="given" value="Joseph"></interp>
+                     <interp inst="t17351210-54-person411" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person412">
+                  John 
+                  Lemon 
+               <interp inst="t17351210-54-person412" type="surname" value="Lemon"></interp>
+                     <interp inst="t17351210-54-person412" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person412" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person413">
+                  John 
+                  Ballard 
+               <interp inst="t17351210-54-person413" type="surname" value="Ballard"></interp>
+                     <interp inst="t17351210-54-person413" type="given" value="John"></interp>
+                     <interp inst="t17351210-54-person413" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person414">
+                  William 
+                  Briton 
+               <interp inst="t17351210-54-person414" type="surname" value="Briton"></interp>
+                     <interp inst="t17351210-54-person414" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person414" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17351210-54-person415">
+                  Tempest 
+                  Brown 
+               <interp inst="t17351210-54-person415" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person415" type="given" value="Tempest"></interp>
+                     <interp inst="t17351210-54-person415" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17351210-54-person416">
+                  William 
+                  Killingworth 
+               <interp inst="t17351210-54-person416" type="surname" value="Killingworth"></interp>
+                     <interp inst="t17351210-54-person416" type="given" value="William"></interp>
+                     <interp inst="t17351210-54-person416" type="gender" value="male"></interp>
+                  </persName>
+            , gave him the Character of a sober honest fair dealing Man.</p>
+               <p>Justice Deveil. When Chamberlain was taken I prest him to be an Evidence. He said he was unconcerned in the Robbery, But as to what he swore at Maccray's Trial about finding the Keys he confest he was perjured - When Bird was examined he said he did not know 
+               <persName id="t17351210-54-person417">
+                  Julian 
+                  Brown 
+               <interp inst="t17351210-54-person417" type="surname" value="Brown"></interp>
+                     <interp inst="t17351210-54-person417" type="given" value="Julian"></interp>
+                     <interp inst="t17351210-54-person417" type="gender" value="male"></interp>
+                  </persName>
+            . But finding that Brown knew him, he then said that Brown would not have known him but by his Frock, What! says I, had you that frock on when you committed the Robbery?</p>
+               <p>Dr. Lancaster. I heard Chamberlain own himself Perjur'd, and to confirm what I say, I desire Mr. Crofts may be called.</p>
+               <p>Mr. Crofts. Chamberlain being somewhat related to me, when I heard he was sent to the Gate-house, I was willing to have a little discourse with him, for which purpose I waited on Justice Deveil - I asked Chamberlain if he was concern'd in the Robbery. And his answer was, that he knew nothing of it. But says he, I was never more sorry for anything than I am for the Perjury, and kneeling down he added - As to the Perjury Wreathock is to blame. This I had in trust, and Mr. Deveil promised me that I should not be called upon to his hurt, I told this in Confidence to Dr. Lancaster, and I am much mistaken if he did not make me the same promise.</p>
+               <p>Mr. Deveil. Sir, it was not I that called upon ye to give Evidence to this.</p>
+               <p>Mr. Crofts. No Sir, but Doctor 
+               <persName id="t17351210-54-person418">
+                  Lancaster
+               <interp inst="t17351210-54-person418" type="given" value="Lancaster"></interp>
+                     <interp inst="t17351210-54-person418" type="gender" value="indeterminate"></interp>
+                  </persName>
+             did.</p>
+               <p>Dr. Lancaster. Upon honour, I made no such promise.</p>
+               <p>The Jury found all the Prisoners <rs id="t17351210-54-verdict225" type="verdictDescription">
+                     <interp inst="t17351210-54-verdict225" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17351210-54-punish226" type="punishmentDescription">
+                     <interp inst="t17351210-54-punish226" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-54-defend349 t17351210-54-punish226"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-54-defend351 t17351210-54-punish226"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-54-defend353 t17351210-54-punish226"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-54-defend355 t17351210-54-punish226"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-54-defend357 t17351210-54-punish226"></join>
+               Death
+            </rs>.</p>
+            </div1>

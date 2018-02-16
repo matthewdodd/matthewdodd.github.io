@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-18">
+               <interp inst="t16880831-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-18" type="year" value="1688"></interp>
+               <interp inst="t16880831-18" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-18" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-18-off93-c76" targOrder="Y" targets="t16880831-18-defend111 t16880831-18-off93 t16880831-18-verdict96"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880831-18-defend111" type="defendantName">
+                     John 
+                     Prassley
+                  <interp inst="t16880831-18-defend111" type="surname" value="Prassley"></interp>
+                     <interp inst="t16880831-18-defend111" type="given" value="John"></interp>
+                     <interp inst="t16880831-18-defend111" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t16880831-18-defloc91">St. Mary Whitechappel</placeName>
+                  <interp inst="t16880831-18-defloc91" type="placeName" value="St. Mary Whitechappel"></interp>
+                  <interp inst="t16880831-18-defloc91" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880831-18-defend111 t16880831-18-defloc91"></join> 
+                  <rs id="t16880831-18-deflabel92" type="occupation">Souldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-18-defend111 t16880831-18-deflabel92"></join>, was Indicted together with one 
+               <persName id="t16880831-18-person112">
+                  Thomas 
+                  Yarrow
+               <interp inst="t16880831-18-person112" type="surname" value="Yarrow"></interp>
+                     <interp inst="t16880831-18-person112" type="given" value="Thomas"></interp>
+                     <interp inst="t16880831-18-person112" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16880831-18-person113">
+                  Thomas 
+                  Dawson
+               <interp inst="t16880831-18-person113" type="surname" value="Dawson"></interp>
+                     <interp inst="t16880831-18-person113" type="given" value="Thomas"></interp>
+                     <interp inst="t16880831-18-person113" type="gender" value="male"></interp>
+                  </persName>
+            , both Souldiers also, (but not yet taken) for the <rs id="t16880831-18-off93" type="offenceDescription">
+                     <interp inst="t16880831-18-off93" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880831-18-off93" type="offenceSubcategory" value="murder"></interp>
+               Murther of one Mr. Page a <rs id="t16880831-18-viclabel94" type="occupation">Victualler</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16880831-18-victim115 t16880831-18-viclabel94"></join>, on the <rs id="t16880831-18-cd95" type="crimeDate">6th. of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880831-18-off93 t16880831-18-cd95"></join>, giving him a Mortal Wound on the left side of his Belly, of the depth of five Inches, of which he Died on the 10th. day of the same Month
+            </rs>. The Evidence was Mrs. Page, Widdow of the said 
+               
+                  <persName id="t16880831-18-victim115" type="victimName">
+                     Robert 
+                     Page
+                  <interp inst="t16880831-18-victim115" type="surname" value="Page"></interp>
+                     <interp inst="t16880831-18-victim115" type="given" value="Robert"></interp>
+                     <interp inst="t16880831-18-victim115" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16880831-18-off93 t16880831-18-victim115"></join>
+                  </persName>
+               
+            , who deposed for the King, that the Prisoner came by the Door while her Husband was endeavouring to get the Reckoning of Yarrow and Dawson, and espoused their Quarrel so far that he was seen to make a Thrust into the Belly of the said Page; upon which he was immediately Apprehended, but the other two got away: So upon a fair Hearing, he was found <rs id="t16880831-18-verdict96" type="verdictDescription">
+                     <interp inst="t16880831-18-verdict96" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of wilful Murther.</p>
+               <p>
+                  <rs id="t16880831-18-punish97" type="punishmentDescription">
+                     <interp inst="t16880831-18-punish97" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-18-defend111 t16880831-18-punish97"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

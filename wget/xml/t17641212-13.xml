@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17641212-13">
+               <interp inst="t17641212-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17641212-13" type="year" value="1764"></interp>
+               <interp inst="t17641212-13" type="uri" value="sessionsPapers/17641212"></interp>
+               <interp inst="t17641212-13" type="date" value="17641212"></interp>
+               <join result="criminalCharge" id="t17641212-13-off63-c91" targOrder="Y" targets="t17641212-13-defend120 t17641212-13-off63 t17641212-13-verdict64"></join>
+         
+               <p>14. (M.) 
+               
+                  <persName id="t17641212-13-defend120" type="defendantName">
+                     Mary 
+                     Fulham 
+                  <interp inst="t17641212-13-defend120" type="surname" value="Fulham"></interp>
+                     <interp inst="t17641212-13-defend120" type="given" value="Mary"></interp>
+                     <interp inst="t17641212-13-defend120" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17641212-13-deflabel62" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17641212-13-defend120 t17641212-13-deflabel62"></join>, was indicted for <rs id="t17641212-13-off63" type="offenceDescription">
+                     <interp inst="t17641212-13-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17641212-13-off63" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five pints of brandy, value 6 s. and three glass quart bottles, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17641212-13-victim122" type="victimName">
+                     John 
+                     Bowstrell 
+                  <interp inst="t17641212-13-victim122" type="surname" value="Bowstrell"></interp>
+                     <interp inst="t17641212-13-victim122" type="given" value="John"></interp>
+                     <interp inst="t17641212-13-victim122" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17641212-13-off63 t17641212-13-victim122"></join>
+                  </persName>
+                
+            ; to which she <rs id="t17641212-13-verdict64" type="verdictDescription">
+                     <interp inst="t17641212-13-verdict64" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17641212-13-verdict64" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>. <rs id="t17641212-13-punish65" type="punishmentDescription">
+                     <interp inst="t17641212-13-punish65" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17641212-13-punish65" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-13-defend120 t17641212-13-punish65"></join>
+               B
+            </rs>.</p>
+            </div1>

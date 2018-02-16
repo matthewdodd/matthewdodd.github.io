@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380412-25">
+               <interp inst="t17380412-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380412-25" type="year" value="1738"></interp>
+               <interp inst="t17380412-25" type="uri" value="sessionsPapers/17380412"></interp>
+               <interp inst="t17380412-25" type="date" value="17380412"></interp>
+               <join result="criminalCharge" id="t17380412-25-off121-c128" targOrder="Y" targets="t17380412-25-defend181 t17380412-25-off121 t17380412-25-verdict123"></join>
+         
+               <p>31. 
+               
+                  <persName id="t17380412-25-defend181" type="defendantName">
+                     William 
+                     Sawbridge 
+                  <interp inst="t17380412-25-defend181" type="surname" value="Sawbridge"></interp>
+                     <interp inst="t17380412-25-defend181" type="given" value="William"></interp>
+                     <interp inst="t17380412-25-defend181" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380412-25-off121" type="offenceDescription">
+                     <interp inst="t17380412-25-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380412-25-off121" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Basket, value 6d, and six Loaves of Bread, value 2s.
+            </rs> the Goods of 
+               
+                  <persName id="t17380412-25-victim183" type="victimName">
+                     Robert 
+                     Smith 
+                  <interp inst="t17380412-25-victim183" type="surname" value="Smith"></interp>
+                     <interp inst="t17380412-25-victim183" type="given" value="Robert"></interp>
+                     <interp inst="t17380412-25-victim183" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380412-25-off121 t17380412-25-victim183"></join>
+                  </persName>
+                
+            , <rs id="t17380412-25-cd122" type="crimeDate">April 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-25-off121 t17380412-25-cd122"></join>. <rs id="t17380412-25-verdict123" type="verdictDescription">
+                     <interp inst="t17380412-25-verdict123" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380412-25-verdict123" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17380412-25-punish124" type="punishmentDescription">
+                     <interp inst="t17380412-25-punish124" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380412-25-defend181 t17380412-25-punish124"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

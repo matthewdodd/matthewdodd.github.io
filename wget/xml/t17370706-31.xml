@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370706-31">
+               <interp inst="t17370706-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370706-31" type="year" value="1737"></interp>
+               <interp inst="t17370706-31" type="uri" value="sessionsPapers/17370706"></interp>
+               <interp inst="t17370706-31" type="date" value="17370706"></interp>
+               <join result="criminalCharge" id="t17370706-31-off153-c170" targOrder="Y" targets="t17370706-31-defend240 t17370706-31-off153 t17370706-31-verdict155"></join>
+         
+               <p>37. 
+               
+                  <persName id="t17370706-31-defend240" type="defendantName">
+                     William 
+                     Hatton , otherwise <rs id="t17370706-31-alias-6" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17370706-31-defend240 t17370706-31-alias-6"></join>Hatter</rs>
+                     <interp inst="t17370706-31-defend240" type="surname" value="Hatton"></interp>
+                     <interp inst="t17370706-31-defend240" type="given" value="William"></interp>
+                     <interp inst="t17370706-31-defend240" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370706-31-defloc152">Ryslip Middlesex</placeName>
+                  <interp inst="t17370706-31-defloc152" type="placeName" value="Ryslip Middlesex"></interp>
+                  <interp inst="t17370706-31-defloc152" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370706-31-defend240 t17370706-31-defloc152"></join>, was indicted for <rs id="t17370706-31-off153" type="offenceDescription">
+                     <interp inst="t17370706-31-off153" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370706-31-off153" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking and entering the House of 
+                     
+                        <persName id="t17370706-31-victim242" type="victimName">
+                           Thomas 
+                           Grimsdale 
+                        <interp inst="t17370706-31-victim242" type="surname" value="Grimsdale"></interp>
+                        <interp inst="t17370706-31-victim242" type="given" value="Thomas"></interp>
+                        <interp inst="t17370706-31-victim242" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370706-31-off153 t17370706-31-victim242"></join>
+                     </persName>
+                      
+                  , about the Hour of 12 at Noon, (no one being in the said House) and stealing a Cloth Suit of Cloaths, a pair of Shag Breeches, a pair of Worsted Stockings, and other Things
+            </rs>, <rs id="t17370706-31-cd154" type="crimeDate">June 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370706-31-off153 t17370706-31-cd154"></join>. <rs id="t17370706-31-verdict155" type="verdictDescription">
+                     <interp inst="t17370706-31-verdict155" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17370706-31-verdict155" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17370706-31-punish156" type="punishmentDescription">
+                     <interp inst="t17370706-31-punish156" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370706-31-defend240 t17370706-31-punish156"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

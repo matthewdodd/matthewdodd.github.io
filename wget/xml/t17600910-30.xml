@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600910-30">
+               <interp inst="t17600910-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600910-30" type="year" value="1760"></interp>
+               <interp inst="t17600910-30" type="uri" value="sessionsPapers/17600910"></interp>
+               <interp inst="t17600910-30" type="date" value="17600910"></interp>
+               <join result="criminalCharge" id="t17600910-30-off155-c233" targOrder="Y" targets="t17600910-30-defend298 t17600910-30-off155 t17600910-30-verdict158"></join>
+         
+               <p>273. (L.) 
+               
+                  <persName id="t17600910-30-defend298" type="defendantName">
+                     Thomas 
+                     Robinson 
+                  <interp inst="t17600910-30-defend298" type="surname" value="Robinson"></interp>
+                     <interp inst="t17600910-30-defend298" type="given" value="Thomas"></interp>
+                     <interp inst="t17600910-30-defend298" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for stealing <rs id="t17600910-30-off155" type="offenceDescription">
+                     <interp inst="t17600910-30-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600910-30-off155" type="offenceSubcategory" value="grandLarceny"></interp>
+               one saddle girt, value 6 d. and one bridle, value 10 d.
+            </rs> the property of 
+               
+                  <persName id="t17600910-30-victim300" type="victimName">
+                     James 
+                     Crompton 
+                  <interp inst="t17600910-30-victim300" type="surname" value="Crompton"></interp>
+                     <interp inst="t17600910-30-victim300" type="given" value="James"></interp>
+                     <interp inst="t17600910-30-victim300" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600910-30-off155 t17600910-30-victim300"></join>
+                  </persName>
+                
+            , <rs id="t17600910-30-cd156" type="crimeDate">July 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600910-30-off155 t17600910-30-cd156"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17600910-30-person301">
+                  James 
+                  Crompton 
+               <interp inst="t17600910-30-person301" type="surname" value="Crompton"></interp>
+                     <interp inst="t17600910-30-person301" type="given" value="James"></interp>
+                     <interp inst="t17600910-30-person301" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17600910-30-crimeloc157">the Axe inn in Aldermanbury</placeName>
+                  <interp inst="t17600910-30-crimeloc157" type="placeName" value="the Axe inn in Aldermanbury"></interp>
+                  <interp inst="t17600910-30-crimeloc157" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17600910-30-off155 t17600910-30-crimeloc157"></join>; there was a bridle and girt taken away, I can't tell who took them.</p>
+               <p>
+            
+                  <persName id="t17600910-30-person302">
+                  Robert 
+                  Turner 
+               <interp inst="t17600910-30-person302" type="surname" value="Turner"></interp>
+                     <interp inst="t17600910-30-person302" type="given" value="Robert"></interp>
+                     <interp inst="t17600910-30-person302" type="gender" value="male"></interp>
+                  </persName>
+            . I took this bridle and girt from the prisoner at the bar ( produc'd in court.) I am servant to Mr. Crompton, I had a suspicion of the prisoner, and found them in his pocket.</p>
+               <p>Cross Examination.</p>
+               <p>Q. Whose bridle and girt are they?</p>
+               <p>Turner. I cannot tell, they belong to some person in the country.</p>
+               <p>Q. How long had they been in your custody?</p>
+               <p>Turner. They had not been in my custody but about two days.</p>
+               <p>Q. Did you ever see the prisoner in the stable?</p>
+               <p>Turner. No, he was drinking at our house all that afternoon, and I saw him in the yard.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I know nothing at all about them.</p>
+               <p>For the prisoner.</p>
+
+               <p>Mr. Green. I have known the prisoner between three and four years, I never knew no ill of him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176009100037"></xptr>Mr. Wright. I knew him from a child, he is a very honest man, and comes of honest parents,</p>
+               <p>Mr. Dixon. I have known him 13 years, he bears the character of an honest man.</p>
+               <p>Mr. Flowers. I have known the prisoner sometime, he bears the character of an honest man.</p>
+               <p>
+                  <rs id="t17600910-30-verdict158" type="verdictDescription">
+                     <interp inst="t17600910-30-verdict158" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350702-43">
+               <interp inst="t17350702-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350702-43" type="year" value="1735"></interp>
+               <interp inst="t17350702-43" type="uri" value="sessionsPapers/17350702"></interp>
+               <interp inst="t17350702-43" type="date" value="17350702"></interp>
+               <join result="criminalCharge" id="t17350702-43-off202-c236" targOrder="Y" targets="t17350702-43-defend334 t17350702-43-off202 t17350702-43-verdict206"></join>
+         
+               <p>53. 
+               
+                  <persName id="t17350702-43-defend334" type="defendantName">
+                     Mary 
+                     Loyd 
+                  <interp inst="t17350702-43-defend334" type="surname" value="Loyd"></interp>
+                     <interp inst="t17350702-43-defend334" type="given" value="Mary"></interp>
+                     <interp inst="t17350702-43-defend334" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350702-43-off202" type="offenceDescription">
+                     <interp inst="t17350702-43-off202" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350702-43-off202" type="offenceSubcategory" value="other"></interp>
+               stealing a Shift, an Apron, a Handkerchief, a Mob, and a Tortoise Shell Snuff Box with a Silver Rim
+            </rs>, the Goods of 
+               
+                  <persName id="t17350702-43-victim336" type="victimName">
+                     William 
+                     Gordon 
+                  <interp inst="t17350702-43-victim336" type="surname" value="Gordon"></interp>
+                     <interp inst="t17350702-43-victim336" type="given" value="William"></interp>
+                     <interp inst="t17350702-43-victim336" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350702-43-off202 t17350702-43-victim336"></join>
+                  </persName>
+                
+            , <rs id="t17350702-43-cd203" type="crimeDate">June 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350702-43-off202 t17350702-43-cd203"></join>.</p>
+               <p>The Prosecutor and his Wife were burnt out at the Fire in Cecil Court, and afterwards took Lodgings in <placeName id="t17350702-43-crimeloc204">Cranbourn Alley</placeName>
+                  <interp inst="t17350702-43-crimeloc204" type="placeName" value="Cranbourn Alley"></interp>
+                  <interp inst="t17350702-43-crimeloc204" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17350702-43-off202 t17350702-43-crimeloc204"></join>, the Prisoner was their <rs id="t17350702-43-deflabel205" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350702-43-defend334 t17350702-43-deflabel205"></join>, she recommended herself to them by a Letter of her own forging in the Name of a Gentlewoman of Credit. She went away while the Prosecutor and his<xptr type="pageFacsimile" doc="173507020020"></xptr> Wife were gone from home. When they returned they mist their Goods. In a few Days she was taken with the Goods upon her, and being brought to the Prosecutor's House, she pulled them all off and returned them. It appeared that she had a very ill Character, and the Jury <rs id="t17350702-43-verdict206" type="verdictDescription">
+                     <interp inst="t17350702-43-verdict206" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

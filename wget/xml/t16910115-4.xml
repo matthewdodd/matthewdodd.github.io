@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910115-4">
+               <interp inst="t16910115-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910115-4" type="year" value="1691"></interp>
+               <interp inst="t16910115-4" type="uri" value="sessionsPapers/16910115"></interp>
+               <interp inst="t16910115-4" type="date" value="16910115"></interp>
+               <join result="criminalCharge" id="t16910115-4-off16-c32" targOrder="Y" targets="t16910115-4-defend32 t16910115-4-off16 t16910115-4-verdict20"></join>
+               <join result="criminalCharge" id="t16910115-4-off16-c33" targOrder="Y" targets="t16910115-4-defend33 t16910115-4-off16 t16910115-4-verdict21"></join>
+         
+               <p>
+            
+                  <persName id="t16910115-4-defend32" type="defendantName">
+                  Joseph 
+                  Trant
+               <interp inst="t16910115-4-defend32" type="surname" value="Trant"></interp>
+                     <interp inst="t16910115-4-defend32" type="given" value="Joseph"></interp>
+                     <interp inst="t16910115-4-defend32" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16910115-4-defend33" type="defendantName">
+                  Sarah 
+                  Rate
+               <interp inst="t16910115-4-defend33" type="surname" value="Rate"></interp>
+                     <interp inst="t16910115-4-defend33" type="given" value="Sarah"></interp>
+                     <interp inst="t16910115-4-defend33" type="gender" value="female"></interp>
+                  </persName>
+            , were both tryed for <rs id="t16910115-4-off16" type="offenceDescription">
+                     <interp inst="t16910115-4-off16" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910115-4-off16" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary in breaking the Dwelling House of 
+                     <persName id="t16910115-4-victim34" type="victimName">
+                        William 
+                        Williams
+                     <interp inst="t16910115-4-victim34" type="surname" value="Williams"></interp>
+                        <interp inst="t16910115-4-victim34" type="given" value="William"></interp>
+                        <interp inst="t16910115-4-victim34" type="gender" value="male"></interp>
+                     </persName>
+                  , in the Parish of <placeName id="t16910115-4-crimeloc17">S. Clements Danes</placeName>
+                     <interp inst="t16910115-4-crimeloc17" type="placeName" value="S. Clements Danes"></interp>
+                     <interp inst="t16910115-4-crimeloc17" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910115-4-off16 t16910115-4-crimeloc17"></join>, on the <rs id="t16910115-4-cd18" type="crimeDate">26th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910115-4-off16 t16910115-4-cd18"></join> last, and stealing a Silk-Pettycoat quitted, value 4 l. a Silk twilight 10 s. Night Gown, value 3 l. and some other Things of good value
+            </rs>, the Goods of 
+               <persName id="t16910115-4-victim35" type="victimName">
+                  Alathea 
+                  Ward
+               <interp inst="t16910115-4-victim35" type="surname" value="Ward"></interp>
+                     <interp inst="t16910115-4-victim35" type="given" value="Alathea"></interp>
+                     <interp inst="t16910115-4-victim35" type="gender" value="female"></interp>
+                  </persName>
+             
+                  <rs id="t16910115-4-viclabel19" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910115-4-victim35 t16910115-4-viclabel19"></join>. The Evidence deposed, That the Garrat Window was broken open and the Goods were taken out of a Trunk and two Boxes, which were found broke upon; some of which Goods were found in the House of one Mrs. L - , a Prisoner in Newgate: who said That Trant brought them to her. But there being some Defect in the Indictment, an Amendment was ordered to be made: And they being called again, Trant was found <rs id="t16910115-4-verdict20" type="verdictDescription">
+                     <interp inst="t16910115-4-verdict20" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony and Burglary, but the Woman was <rs id="t16910115-4-verdict21" type="verdictDescription">
+                     <interp inst="t16910115-4-verdict21" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16910115-4-punish22" type="punishmentDescription">
+                     <interp inst="t16910115-4-punish22" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910115-4-defend32 t16910115-4-punish22"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

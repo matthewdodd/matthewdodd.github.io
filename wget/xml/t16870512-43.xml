@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870512-43">
+               <interp inst="t16870512-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870512-43" type="year" value="1687"></interp>
+               <interp inst="t16870512-43" type="uri" value="sessionsPapers/16870512"></interp>
+               <interp inst="t16870512-43" type="date" value="16870512"></interp>
+               <join result="criminalCharge" id="t16870512-43-off203-c115" targOrder="Y" targets="t16870512-43-defend169 t16870512-43-off203 t16870512-43-verdict204"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870512-43-defend169" type="defendantName">
+                     William 
+                     Borrough
+                  <interp inst="t16870512-43-defend169" type="surname" value="Borrough"></interp>
+                     <interp inst="t16870512-43-defend169" type="given" value="William"></interp>
+                     <interp inst="t16870512-43-defend169" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t16870512-43-defloc202">St. James's Westminster</placeName>
+                  <interp inst="t16870512-43-defloc202" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t16870512-43-defloc202" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870512-43-defend169 t16870512-43-defloc202"></join>, was tryed for <rs id="t16870512-43-off203" type="offenceDescription">
+                     <interp inst="t16870512-43-off203" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870512-43-off203" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Tankard, value 8 l.
+            </rs> from 
+               
+                  <persName id="t16870512-43-victim171" type="victimName">
+                     Edward 
+                     Godard
+                  <interp inst="t16870512-43-victim171" type="surname" value="Godard"></interp>
+                     <interp inst="t16870512-43-victim171" type="given" value="Edward"></interp>
+                     <interp inst="t16870512-43-victim171" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870512-43-off203 t16870512-43-victim171"></join>
+                  </persName>
+               
+             by breaking the Window and taking it out at the Casement; but the Evidence not being possitive he was <rs id="t16870512-43-verdict204" type="verdictDescription">
+                     <interp inst="t16870512-43-verdict204" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

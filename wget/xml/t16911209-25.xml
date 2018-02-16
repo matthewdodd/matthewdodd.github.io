@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16911209-25">
+               <interp inst="t16911209-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16911209-25" type="year" value="1691"></interp>
+               <interp inst="t16911209-25" type="uri" value="sessionsPapers/16911209"></interp>
+               <interp inst="t16911209-25" type="date" value="16911209"></interp>
+               <join result="criminalCharge" id="t16911209-25-off104-c79" targOrder="Y" targets="t16911209-25-defend79 t16911209-25-off104 t16911209-25-verdict107"></join>
+               <join result="criminalCharge" id="t16911209-25-off106-c79" targOrder="Y" targets="t16911209-25-defend79 t16911209-25-off106 t16911209-25-verdict107"></join>
+               <join result="criminalCharge" id="t16911209-25-off108-c79" targOrder="Y" targets="t16911209-25-defend79 t16911209-25-off108 t16911209-25-verdict107"></join>
+         
+               <p>
+            
+                  <persName id="t16911209-25-defend79" type="defendantName">
+                  Thomas 
+                  Taylor
+               <interp inst="t16911209-25-defend79" type="surname" value="Taylor"></interp>
+                     <interp inst="t16911209-25-defend79" type="given" value="Thomas"></interp>
+                     <interp inst="t16911209-25-defend79" type="gender" value="male"></interp>
+                  </persName>
+             was arraigned, and tryed upon two several Indictments, the first for <rs id="t16911209-25-off104" type="offenceDescription">
+                     <interp inst="t16911209-25-off104" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16911209-25-off104" type="offenceSubcategory" value="grandLarceny"></interp>
+               robbing one 
+                     <persName id="t16911209-25-victim80" type="victimName">
+                        Ralph 
+                        Azowby
+                     <interp inst="t16911209-25-victim80" type="surname" value="Azowby"></interp>
+                        <interp inst="t16911209-25-victim80" type="given" value="Ralph"></interp>
+                        <interp inst="t16911209-25-victim80" type="gender" value="male"></interp>
+                     </persName>
+                   of <placeName id="t16911209-25-crimeloc105">Islington</placeName>
+                     <interp inst="t16911209-25-crimeloc105" type="placeName" value="Islington"></interp>
+                     <interp inst="t16911209-25-crimeloc105" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off104 t16911209-25-crimeloc105"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off106 t16911209-25-crimeloc105"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off108 t16911209-25-crimeloc105"></join>, of 2 Cloth Coats, value 45 s. 2. Silk Scarves, value 14 s. a Lac'd Tippet, and divers other small Goods
+            </rs>. The Second for <rs id="t16911209-25-off106" type="offenceDescription">
+                     <interp inst="t16911209-25-off106" type="offenceCategory" value="damage"></interp>
+                     <interp inst="t16911209-25-off106" type="offenceSubcategory" value="arson"></interp>
+               setting Fire on the Barn, and burning the Hay therein value, 30 s. being the Barn and Hay of one 
+                     <persName id="t16911209-25-victim81" type="victimName">
+                        Thomas 
+                        Sedgwick
+                     <interp inst="t16911209-25-victim81" type="surname" value="Sedgwick"></interp>
+                        <interp inst="t16911209-25-victim81" type="given" value="Thomas"></interp>
+                        <interp inst="t16911209-25-victim81" type="gender" value="male"></interp>
+                     </persName>
+                   of Islington above said
+            </rs>. The Evidence against him him was, that the Barn being near the House; on a sudden it fell a Fire, and the Prisoner was seen near it, Crying out, Fire, fire, after which whil'st the Family went out of the House, to quench the Fire; he went up Stairs into the Chamber, where the Prosecutor's Wife was and pretending to help her away with the Goods to save them from the Fire, he run away with the Parcels beforementioned; he denyed the Fact, but that was to no purpose for it was fully proved, so he was found <rs id="t16911209-25-verdict107" type="verdictDescription">
+                     <interp inst="t16911209-25-verdict107" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of both Indictments.</p>
+               <p>Immediately after this, he was try'd upon a Third Indictment, for <rs id="t16911209-25-off108" type="offenceDescription">
+                     <interp inst="t16911209-25-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16911209-25-off108" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     <persName id="t16911209-25-victim82" type="victimName">
+                        Seth 
+                        Bunckley
+                     <interp inst="t16911209-25-victim82" type="surname" value="Bunckley"></interp>
+                        <interp inst="t16911209-25-victim82" type="given" value="Seth"></interp>
+                        <interp inst="t16911209-25-victim82" type="gender" value="male"></interp>
+                     </persName>
+                   of <placeName id="t16911209-25-crimeloc109">Hackney</placeName>
+                     <interp inst="t16911209-25-crimeloc109" type="placeName" value="Hackney"></interp>
+                     <interp inst="t16911209-25-crimeloc109" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off104 t16911209-25-crimeloc109"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off106 t16911209-25-crimeloc109"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16911209-25-off108 t16911209-25-crimeloc109"></join>, about Twelve a Clock at Night, on the <rs id="t16911209-25-cd110" type="crimeDate">23 day of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16911209-25-off104 t16911209-25-cd110"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16911209-25-off106 t16911209-25-cd110"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16911209-25-off108 t16911209-25-cd110"></join> last, and carrying thence, a Diaper Table-Cloth, value 3 l. 6 d. and some Napkins
+            </rs>: The Evidence declared that the House was broke open, and the Goods were took in the Prisoner's custody; besides the same Night, the Robbery was done, there was another Barn burnt, near the same place said he found the<xptr type="pageFacsimile" doc="16911209004"></xptr>resented it as a most Notorious, New-found, base way, stealing, so he was found <rs id="t16911209-25-verdict111" type="verdictDescription">
+                     <interp inst="t16911209-25-verdict111" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Indictment.</p>
+            </div1>

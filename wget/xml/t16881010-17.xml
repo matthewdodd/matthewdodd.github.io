@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16881010-17">
+               <interp inst="t16881010-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16881010-17" type="year" value="1688"></interp>
+               <interp inst="t16881010-17" type="uri" value="sessionsPapers/16881010"></interp>
+               <interp inst="t16881010-17" type="date" value="16881010"></interp>
+               <join result="criminalCharge" id="t16881010-17-off86-c65" targOrder="Y" targets="t16881010-17-defend94 t16881010-17-off86 t16881010-17-verdict88"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16881010-17-defend94" type="defendantName">
+                     George 
+                     Wood
+                  <interp inst="t16881010-17-defend94" type="surname" value="Wood"></interp>
+                     <interp inst="t16881010-17-defend94" type="given" value="George"></interp>
+                     <interp inst="t16881010-17-defend94" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t16881010-17-defloc85">Stepney</placeName>
+                  <interp inst="t16881010-17-defloc85" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16881010-17-defloc85" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16881010-17-defend94 t16881010-17-defloc85"></join>, was Indicted as Principal, and one 
+               <persName id="t16881010-17-person95">
+                  William 
+                  Hunt
+               <interp inst="t16881010-17-person95" type="surname" value="Hunt"></interp>
+                     <interp inst="t16881010-17-person95" type="given" value="William"></interp>
+                     <interp inst="t16881010-17-person95" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16881010-17-person96">
+                  Mary 
+                  Rice
+               <interp inst="t16881010-17-person96" type="surname" value="Rice"></interp>
+                     <interp inst="t16881010-17-person96" type="given" value="Mary"></interp>
+                     <interp inst="t16881010-17-person96" type="gender" value="female"></interp>
+                  </persName>
+             as Accessories, (not yet Taken) for <rs id="t16881010-17-off86" type="offenceDescription">
+                     <interp inst="t16881010-17-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16881010-17-off86" type="offenceSubcategory" value="burglary"></interp>
+               Breaking the House of one 
+                     
+                        <persName id="t16881010-17-victim98" type="victimName">
+                           Thomas 
+                           Burgan
+                        <interp inst="t16881010-17-victim98" type="surname" value="Burgan"></interp>
+                        <interp inst="t16881010-17-victim98" type="given" value="Thomas"></interp>
+                        <interp inst="t16881010-17-victim98" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16881010-17-off86 t16881010-17-victim98"></join>
+                     </persName>
+                     
+                   in the Night-time on the <rs id="t16881010-17-cd87" type="crimeDate">15th. day of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16881010-17-off86 t16881010-17-cd87"></join> last, and taking out thence fourteen Ells of Holland, value 3 l. a parsel of Muslin, value 3 s. eight Smocks, value 2 l. 12 s. two Smocks, value 2 s. nine other Smocks, value 1 l. 11 s. nine Shirts, value 1 l. 1 s. five pair of Holland Sleeves, value 1 l. four Childrens Frocks, value 18 s. one Suit of Child-bed Linnen, value 7 s. seven Yards of Fustion, value<xptr type="pageFacsimile" doc="16881010004"></xptr>8 s. three Dozen of Childrens Caps, value 18 s. three Muslin Aprons, value 7 s. 6 d. with several other Goods of a considerable value
+            </rs>, the Goods of 
+               <persName id="t16881010-17-person99">
+                  Thomas 
+                  Burgan
+               <interp inst="t16881010-17-person99" type="surname" value="Burgan"></interp>
+                     <interp inst="t16881010-17-person99" type="given" value="Thomas"></interp>
+                     <interp inst="t16881010-17-person99" type="gender" value="male"></interp>
+                  </persName>
+             aforesaid. The Evidence for the King against the Prisoner was Mr. Burgan and others, who deposed that his House was Broke open between the Hours of Twelve and three in the Morning, and the Goods aforesaid were taken away whil'st the Family was in Bed: The Prosecutor afterwards making Search and Enquiry after them, he found some of them in the House of one 
+               <persName id="t16881010-17-person100">
+                  Sarah 
+                  Shaw
+               <interp inst="t16881010-17-person100" type="surname" value="Shaw"></interp>
+                     <interp inst="t16881010-17-person100" type="given" value="Sarah"></interp>
+                     <interp inst="t16881010-17-person100" type="gender" value="female"></interp>
+                  </persName>
+            , at the Falcon in Southwark, where they were left, and offer'd to Sale by the Prisoner and the other two Accessories, who are since Fled. The Prisoner said that he knew nothing of the Breaking of the House, neither was he there; and that he was Innocent. But having no Evidence on his side, he was found <rs id="t16881010-17-verdict88" type="verdictDescription">
+                     <interp inst="t16881010-17-verdict88" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16881010-17-verdict88" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of the Felony, but Acquitted of the Burglary
+            </rs>.</p>
+            </div1>

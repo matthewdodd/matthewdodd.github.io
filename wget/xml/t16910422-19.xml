@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-19">
+               <interp inst="t16910422-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-19" type="year" value="1691"></interp>
+               <interp inst="t16910422-19" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-19" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-19-off100-c88" targOrder="Y" targets="t16910422-19-defend88 t16910422-19-off100 t16910422-19-verdict101"></join>
+               <join result="criminalCharge" id="t16910422-19-off100-c90" targOrder="Y" targets="t16910422-19-defend90 t16910422-19-off100 t16910422-19-verdict101"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-19-defend88" type="defendantName">
+                  Mary 
+                  Price
+               <interp inst="t16910422-19-defend88" type="surname" value="Price"></interp>
+                     <interp inst="t16910422-19-defend88" type="given" value="Mary"></interp>
+                     <interp inst="t16910422-19-defend88" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t16910422-19-deflabel98" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910422-19-defend88 t16910422-19-deflabel98"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910422-19-defend90 t16910422-19-deflabel98"></join> of 
+               <persName id="t16910422-19-person89">
+                  Edward 
+                  Price
+               <interp inst="t16910422-19-person89" type="surname" value="Price"></interp>
+                     <interp inst="t16910422-19-person89" type="given" value="Edward"></interp>
+                     <interp inst="t16910422-19-person89" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16910422-19-defend90" type="defendantName">
+                  Elizabeth 
+                  Jones
+               <interp inst="t16910422-19-defend90" type="surname" value="Jones"></interp>
+                     <interp inst="t16910422-19-defend90" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16910422-19-defend90" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t16910422-19-deflabel99" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910422-19-defend90 t16910422-19-deflabel99"></join> of Peter Jones, were both tryed for <rs id="t16910422-19-off100" type="offenceDescription">
+                     <interp inst="t16910422-19-off100" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t16910422-19-off100" type="offenceSubcategory" value="assault"></interp>
+               assaulting one 
+                     <persName id="t16910422-19-victim91" type="victimName">
+                        Peter 
+                        Jones
+                     <interp inst="t16910422-19-victim91" type="surname" value="Jones"></interp>
+                        <interp inst="t16910422-19-victim91" type="given" value="Peter"></interp>
+                        <interp inst="t16910422-19-victim91" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910422-19-off100 t16910422-19-victim91"></join>
+                     </persName>
+                  , Husband of the latter
+            </rs>. He said that he was drinking with the Prisoners in Carter-Lane, and as he was going to his Lodging, over Lincolns Inn Fields, they met him with two Men and fell upon him, viz. the same Night, and took away from him 10 l. 15 s. in Mony. It did appear upon the Tryal very Comical in Court, that a Man should endeavour to hang his own Wife; but it further appeared that she had not lived with him for a considerable time; and he could not say which of them it was that Robbed him, and the Men were gone. It appearing to be a Malicious Prosecution, they were both <rs id="t16910422-19-verdict101" type="verdictDescription">
+                     <interp inst="t16910422-19-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

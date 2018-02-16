@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-75">
+               <interp inst="t16890516-75" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-75" type="year" value="1689"></interp>
+               <interp inst="t16890516-75" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-75" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-75-off332-c207" targOrder="Y" targets="t16890516-75-defend338 t16890516-75-off332 t16890516-75-verdict333"></join>
+         
+               <p>
+            
+                  <persName id="t16890516-75-defend338" type="defendantName">
+                  John 
+                  Ingham
+               <interp inst="t16890516-75-defend338" type="surname" value="Ingham"></interp>
+                     <interp inst="t16890516-75-defend338" type="given" value="John"></interp>
+                     <interp inst="t16890516-75-defend338" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16890516-75-off332" type="offenceDescription">
+                     <interp inst="t16890516-75-off332" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t16890516-75-off332" type="offenceSubcategory" value="forgery"></interp>
+               Forgery, in making a false Warrant, procuring one 
+                     <persName id="t16890516-75-person339">
+                        Edward 
+                        Williams
+                     <interp inst="t16890516-75-person339" type="surname" value="Williams"></interp>
+                        <interp inst="t16890516-75-person339" type="given" value="Edward"></interp>
+                        <interp inst="t16890516-75-person339" type="gender" value="male"></interp>
+                     </persName>
+                   to be discharged out of Newgate by it
+            </rs>. The Evidence against him said, That he sent a Writing for his Discharge signed by two Justices of Peace, viz. Ri. Fowler, and H. Roe. Mr. Roe was in Court, and said, That that was none of his Hand, this was dated the 9th of April. Another Evidence said, That the Prisoner sollicited him to get a Justice of Peace his Head to a Warrant for the Discharge of one in Newgate, telling him that he might get some Guinea's by it, or to that Effect, for that he had got 4 l. that morning by it, which the Prisoner owned when he was apprehended, and that he had forged the Hands as aforesaid. But he denied it all upon his Tryal, yet in the end he was found <rs id="t16890516-75-verdict333" type="verdictDescription">
+                     <interp inst="t16890516-75-verdict333" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Forgery.</p>
+               <p>
+                  <rs id="t16890516-75-punish334" type="punishmentDescription">
+                     <interp inst="t16890516-75-punish334" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16890516-75-punish334" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-75-defend338 t16890516-75-punish334"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16890516-75-punish335" type="punishmentDescription">
+                     <interp inst="t16890516-75-punish335" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16890516-75-punish335" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-75-defend338 t16890516-75-punish335"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

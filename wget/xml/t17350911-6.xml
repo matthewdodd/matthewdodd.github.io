@@ -1,3 +1,126 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-6">
+               <interp inst="t17350911-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-6" type="year" value="1735"></interp>
+               <interp inst="t17350911-6" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-6" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-6-off18-c38" targOrder="Y" targets="t17350911-6-defend49 t17350911-6-off18 t17350911-6-verdict24"></join>
+               <join result="criminalCharge" id="t17350911-6-off18-c39" targOrder="Y" targets="t17350911-6-defend51 t17350911-6-off18 t17350911-6-verdict24"></join>
+               <join result="criminalCharge" id="t17350911-6-off20-c38" targOrder="Y" targets="t17350911-6-defend49 t17350911-6-off20 t17350911-6-verdict24"></join>
+         
+               <p>6, 7. 
+               
+                  <persName id="t17350911-6-defend49" type="defendantName">
+                     Eleanor 
+                     Byrom 
+                  <interp inst="t17350911-6-defend49" type="surname" value="Byrom"></interp>
+                     <interp inst="t17350911-6-defend49" type="given" value="Eleanor"></interp>
+                     <interp inst="t17350911-6-defend49" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350911-6-defend51" type="defendantName">
+                     John 
+                     Freeman 
+                  <interp inst="t17350911-6-defend51" type="surname" value="Freeman"></interp>
+                     <interp inst="t17350911-6-defend51" type="given" value="John"></interp>
+                     <interp inst="t17350911-6-defend51" type="gender" value="male"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17350911-6-off18" type="offenceDescription">
+                     <interp inst="t17350911-6-off18" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17350911-6-off18" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17350911-6-victim53" type="victimName">
+                           Joshua 
+                           Travers 
+                        <interp inst="t17350911-6-victim53" type="surname" value="Travers"></interp>
+                        <interp inst="t17350911-6-victim53" type="given" value="Joshua"></interp>
+                        <interp inst="t17350911-6-victim53" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the Highway, and robbing him of a Mourning Ring
+            </rs>, <rs id="t17350911-6-cd19" type="crimeDate">July 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-6-off18 t17350911-6-cd19"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-6-off20 t17350911-6-cd19"></join>.</p>
+               <p>She was a second time indicted for <rs id="t17350911-6-off20" type="offenceDescription">
+                     <interp inst="t17350911-6-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-6-off20" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a Silver Watch, from the Person of 
+                     <persName id="t17350911-6-person54">
+                        Joshua 
+                        Travers 
+                     <interp inst="t17350911-6-person54" type="surname" value="Travers"></interp>
+                        <interp inst="t17350911-6-person54" type="given" value="Joshua"></interp>
+                        <interp inst="t17350911-6-person54" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, July 27.</p>
+               <p>
+            
+                  <persName id="t17350911-6-person55">
+                  Joshua 
+                  Travers 
+               <interp inst="t17350911-6-person55" type="surname" value="Travers"></interp>
+                     <interp inst="t17350911-6-person55" type="given" value="Joshua"></interp>
+                     <interp inst="t17350911-6-person55" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17350911-6-viclabel21" type="occupation">Cellar-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350911-6-victim53 t17350911-6-viclabel21"></join> at the Crown Tavern within Bishopsgate. On Saturday Night between twelve and one, as I was going home to my Wife and Family, I met the Prisoner 
+               <persName id="t17350911-6-person56">
+                  Nell 
+                  Byrom 
+               <interp inst="t17350911-6-person56" type="surname" value="Byrom"></interp>
+                     <interp inst="t17350911-6-person56" type="given" value="Nell"></interp>
+                     <interp inst="t17350911-6-person56" type="gender" value="female"></interp>
+                  </persName>
+             and another Woman: They said I should give them a Tankard of Ale; I told them it was too late; No, says Nell, I know a House that is open all night, and so they took me to the <placeName id="t17350911-6-crimeloc22">Three Daggers Ale-house in Fore-street</placeName>
+                  <interp inst="t17350911-6-crimeloc22" type="placeName" value="Three Daggers Ale-house in Fore-street"></interp>
+                  <interp inst="t17350911-6-crimeloc22" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17350911-6-off18 t17350911-6-crimeloc22"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17350911-6-off20 t17350911-6-crimeloc22"></join>, where we found the other Prisoner Freeman, and several more. He sat down with us and we drank together till six in the Morning; and then says Freeman to me, We will have a Funny Wedding, You shall be married to Nell. No, says I, You know that she has got a Husband now in Newgate lying for Transportation: And I have got a Wife and two Children, and my Wife is half gone with another. Then we agreed to take Coach and go to Hornsey, and Nell and I and Freeman and one Allington got in; but Freeman bid the Coachman drive to the Two Sawyers and Hand-and-pen in Fleet-lane. I asked him what he meant by that; Why, says he, It signifies nothing talking, We will have a Funny Wedding. To make short of my Story, I was carried to that Ale-house in the Fleet, and we had hardly been there a Quarter of an Hour before<xptr type="pageFacsimile" doc="173509110003"></xptr> she shewed me this Mourning Ring, and asked me if I knew it: Yes, says I, 'Tis mine, How came you by it? By G - , says she, It has tyed us so fast we shall not be easily untied - She gave me the Ring again, and then we took Coach to go back to the Three Daggers. While we were in the Coach she began to be very rustical, and Freeman held up my Hand while she took the Ring off my Finger.</p>
+               <p>Court. And is this what you call a Robbery on the Highway? Freeman, Have you any Body to your Character?</p>
+               <p>Freeman. Several, my Lord.</p>
+               <p>Court. Call one or two.</p>
+               <p>Mr. Bell. I have known him twenty Years, I have trusted him with many score Pounds, but never knew any harm of him. He is a <rs id="t17350911-6-deflabel23" type="occupation">Watchmaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350911-6-defend51 t17350911-6-deflabel23"></join>.</p>
+               <p>Second Indictment.</p>
+               <p>
+            
+                  <persName id="t17350911-6-person57">
+                  Joshua 
+                  Travers 
+               <interp inst="t17350911-6-person57" type="surname" value="Travers"></interp>
+                     <interp inst="t17350911-6-person57" type="given" value="Joshua"></interp>
+                     <interp inst="t17350911-6-person57" type="gender" value="male"></interp>
+                  </persName>
+            . When we came back to the Three Daggers Alehouse I laid my self on a Box to sleep, and while I was dozing, Nell Byrom snatched the Watch out of my Pocket; I asked her what she meant by that; Why, says she, This is mine as well as the Ring; but I will give it you again if you will go with me to see my Husband in Newgate. So in hopes of getting my Watch, I went with her; but when we came there, her Husband Will Byrom was in bed, and she said to him, Billy, I am married to this Man, but not for Love or Goodwill, but only to get what I can from him and bring it to you; and here is his Watch; it will serve you to see what's a-Clock in Newgate; but if he wants to know how the time goes, he can look at the Clocks in the Street. So she gave him the Watch. I desired him to return it to me, but he said he knew better, for he should have occasion for it himself.</p>
+               <p>Eleanor Byrom. The Prosecutor courted me seven Years ago, and meeting me that Sunday Morning, he asked me to drink; We went to the Three Daggers and staid till six in the Morning, and then he asked me to go and be married. I told him I did not much care if I did; so we went to the Fleet and were married, and here is the Doctor to prove it.</p>
+               <p>Wyat. Between seven and eight on Sunday Morning, I married this Couple.</p>
+               <p>Court. Was not the Man drunk?</p>
+               <p>Wyat. He was neither drunk nor sober, but they brought two sober Men with them.</p>
+               <p>Court. Sober! They had been drinking all Night - Did you perform the whole Ceremony according to the Rites of the Church of England?</p>
+               <p>Wyat. I cannot say that I repeated all of it.</p>
+               <p>Court. What do you mean?</p>
+               <p>Wyat. I did not give them St. Paul's Advice, but left them to take it or let it alone as they might think proper. I always omit that, and I know it is omitted in several Churches.</p>
+               <p>Court. Was the Man capable of knowing what he was doing?</p>
+               <p>Wyat. Yes; for he gave half a Guinea to change; I returned him a Crown, and he insisted upon having the odd Six pence. And next Day he came to me in a Coach for a Certificate, and told me that he very well approved of his Choice, and would take care of her.</p>
+               <p>Court. Then he ought to be indicted for having two Wives - Officer, take him into Custody - The Woman too may be prosecuted for having two Husbands.</p>
+               <p>
+            
+                  <persName id="t17350911-6-person58">
+                  Eleanor 
+                  Byrom 
+               <interp inst="t17350911-6-person58" type="surname" value="Byrom"></interp>
+                     <interp inst="t17350911-6-person58" type="given" value="Eleanor"></interp>
+                     <interp inst="t17350911-6-person58" type="gender" value="female"></interp>
+                  </persName>
+            . My Husband Will Byrom has been dead three Quarters of a Year - And this Will Byrom in Newgate is none of my Husband, but only a Kinsman of his.</p>
+               <p>The Prisoners were <rs id="t17350911-6-verdict24" type="verdictDescription">
+                     <interp inst="t17350911-6-verdict24" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>; and the Court granted Freeman a Copy of his Indictment; but advised him to take care how he frequented such disorderly Houses, and kept such ill Company.</p>
+            </div1>

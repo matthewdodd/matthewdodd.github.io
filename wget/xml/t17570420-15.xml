@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570420-15">
+               <interp inst="t17570420-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570420-15" type="year" value="1757"></interp>
+               <interp inst="t17570420-15" type="uri" value="sessionsPapers/17570420"></interp>
+               <interp inst="t17570420-15" type="date" value="17570420"></interp>
+               <join result="criminalCharge" id="t17570420-15-off73-c142" targOrder="Y" targets="t17570420-15-defend167 t17570420-15-off73 t17570420-15-verdict75"></join>
+         
+               <p>156. ( M.) 
+               
+                  <persName id="t17570420-15-defend167" type="defendantName">
+                     Elizabeth 
+                     Stanley 
+                  <interp inst="t17570420-15-defend167" type="surname" value="Stanley"></interp>
+                     <interp inst="t17570420-15-defend167" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17570420-15-defend167" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17570420-15-deflabel72" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570420-15-defend167 t17570420-15-deflabel72"></join>, was indicted for <rs id="t17570420-15-off73" type="offenceDescription">
+                     <interp inst="t17570420-15-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570420-15-off73" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linen sheet, value 2 s. one<xptr type="pageFacsimile" doc="175704200019"></xptr> copper tea-kettle, three blankets, one copper saucepan, one pewter dish, one pewter plate, and one linen apron
+            </rs>, the goods of 
+               
+                  <persName id="t17570420-15-victim169" type="victimName">
+                     Lewis
+                      de St. Amond
+                  <interp inst="t17570420-15-victim169" type="surname" value="de St. Amond"></interp>
+                     <interp inst="t17570420-15-victim169" type="given" value="Lewis"></interp>
+                     <interp inst="t17570420-15-victim169" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17570420-15-off73 t17570420-15-victim169"></join>
+                  </persName>
+               
+            , <rs id="t17570420-15-cd74" type="crimeDate">February 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570420-15-off73 t17570420-15-cd74"></join>.</p>
+
+               <p>
+                  <rs id="t17570420-15-verdict75" type="verdictDescription">
+                     <interp inst="t17570420-15-verdict75" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

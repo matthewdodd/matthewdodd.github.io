@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17501205-56">
+               <interp inst="t17501205-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17501205-56" type="year" value="1750"></interp>
+               <interp inst="t17501205-56" type="uri" value="sessionsPapers/17501205"></interp>
+               <interp inst="t17501205-56" type="date" value="17501205"></interp>
+               <join result="criminalCharge" id="t17501205-56-off276-c330" targOrder="Y" targets="t17501205-56-defend445 t17501205-56-off276 t17501205-56-verdict279"></join>
+         
+               <p>68. (M.) 
+               
+                  <persName id="t17501205-56-defend445" type="defendantName">
+                     Joseph 
+                     Hatchett 
+                  <interp inst="t17501205-56-defend445" type="surname" value="Hatchett"></interp>
+                     <interp inst="t17501205-56-defend445" type="given" value="Joseph"></interp>
+                     <interp inst="t17501205-56-defend445" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17501205-56-off276" type="offenceDescription">
+                     <interp inst="t17501205-56-off276" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17501205-56-off276" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five pieces of cardus binding, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17501205-56-victim447" type="victimName">
+                     Richard 
+                     Avery 
+                  <interp inst="t17501205-56-victim447" type="surname" value="Avery"></interp>
+                     <interp inst="t17501205-56-victim447" type="given" value="Richard"></interp>
+                     <interp inst="t17501205-56-victim447" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17501205-56-off276 t17501205-56-victim447"></join>
+                  </persName>
+                
+            , <rs id="t17501205-56-cd277" type="crimeDate">Nov. 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17501205-56-off276 t17501205-56-cd277"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17501205-56-person448">
+                  Sarah 
+                  Avery 
+               <interp inst="t17501205-56-person448" type="surname" value="Avery"></interp>
+                     <interp inst="t17501205-56-person448" type="given" value="Sarah"></interp>
+                     <interp inst="t17501205-56-person448" type="gender" value="female"></interp>
+                  </persName>
+            . On the 7th of November the prisoner came into my shop.</p>
+               <p>Q. What sort of a shop do you keep?</p>
+               <p>S. Avery . I <rs id="t17501205-56-viclabel278" type="occupation">keep a chandler's shop, and sell binding, and such things</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17501205-56-victim447 t17501205-56-viclabel278"></join>; my little girl was at the door, she call'd, and said, there is a man come in, and gone out again, and said nothing; I then went to the door, and upon the floor I found a piece of green binding; I saw the prisoner at the bar going a-cross the kennel, I ask'd him what he wanted in my house; said he, I wanted some small beer, and you told me you had none; he went on, and I went in to see if he had taken away any thing; I soon miss'd some binding, and immediately pursued him: two men, by my desire, ran after him, and took these pieces of carduus binding from him; here are five of them, four he had about him, and one lay upon the ground; [They were produc'd in court, and depos'd to.] they were in the shop window about a quarter of an hour before the prisoner came in.</p>
+               <p>
+            
+                  <persName id="t17501205-56-person449">
+                  John 
+                  Howard 
+               <interp inst="t17501205-56-person449" type="surname" value="Howard"></interp>
+                     <interp inst="t17501205-56-person449" type="given" value="John"></interp>
+                     <interp inst="t17501205-56-person449" type="gender" value="male"></interp>
+                  </persName>
+            . I met this woman in ropemaker's field near her house, who told me she had been robb'd, so I ran after the man, and asked him what he had got in his bosom; I took hold of him and found the four pieces in the side of his bosom, which I delivered to the constable. I will not swear these are the same pieces, having never seen them since, but they are like them, if not the same.</p>
+               <p>
+            
+                  <persName id="t17501205-56-person450">
+                  Thomas 
+                  Barnet 
+               <interp inst="t17501205-56-person450" type="surname" value="Barnet"></interp>
+                     <interp inst="t17501205-56-person450" type="given" value="Thomas"></interp>
+                     <interp inst="t17501205-56-person450" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable. The last witness gave me these four pieces of cardus; I was coming by just as the prisoner was taken into custody.</p>
+               <p>
+                  <rs id="t17501205-56-verdict279" type="verdictDescription">
+                     <interp inst="t17501205-56-verdict279" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17501205-56-punish280" type="punishmentDescription">
+                     <interp inst="t17501205-56-punish280" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t17501205-56-punish280" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17501205-56-defend445 t17501205-56-punish280"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

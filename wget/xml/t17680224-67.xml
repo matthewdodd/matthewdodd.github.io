@@ -1,3 +1,137 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-67">
+               <interp inst="t17680224-67" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-67" type="year" value="1768"></interp>
+               <interp inst="t17680224-67" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-67" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-67-off425-c567" targOrder="Y" targets="t17680224-67-defend717 t17680224-67-off425 t17680224-67-verdict431"></join>
+         
+               <p>239. (M.) 
+               
+                  <persName id="t17680224-67-defend717" type="defendantName">
+                     John 
+                     Parker 
+                  <interp inst="t17680224-67-defend717" type="surname" value="Parker"></interp>
+                     <interp inst="t17680224-67-defend717" type="given" value="John"></interp>
+                     <interp inst="t17680224-67-defend717" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17680224-67-off425" type="offenceDescription">
+                     <interp inst="t17680224-67-off425" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680224-67-off425" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a piece of linen cloth, containing 25 yards, value 39 s.
+            </rs> the property of 
+               
+                  <persName id="t17680224-67-victim719" type="victimName">
+                     Tobias 
+                     Batty 
+                  <interp inst="t17680224-67-victim719" type="surname" value="Batty"></interp>
+                     <interp inst="t17680224-67-victim719" type="given" value="Tobias"></interp>
+                     <interp inst="t17680224-67-victim719" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680224-67-off425 t17680224-67-victim719"></join>
+                  </persName>
+               
+            , <rs id="t17680224-67-cd426" type="crimeDate">February 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-67-off425 t17680224-67-cd426"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680224-67-person720">
+                  Tobias 
+                  Batty 
+               <interp inst="t17680224-67-person720" type="surname" value="Batty"></interp>
+                     <interp inst="t17680224-67-person720" type="given" value="Tobias"></interp>
+                     <interp inst="t17680224-67-person720" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17680224-67-viclabel427" type="occupation">journeyman-baker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-67-victim719 t17680224-67-viclabel427"></join>, I bought a piece of cloth, containing 25 yards, of Mr. Morris, a linen-draper, five weeks ago last Friday; I left it in Mr. Hall's care, a publican in Theobald's-row.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person721">
+                  Henry 
+                  Hall 
+               <interp inst="t17680224-67-person721" type="surname" value="Hall"></interp>
+                     <interp inst="t17680224-67-person721" type="given" value="Henry"></interp>
+                     <interp inst="t17680224-67-person721" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the <placeName id="t17680224-67-crimeloc428">Horse and Groom, Theobald's-</placeName>
+                  <interp inst="t17680224-67-crimeloc428" type="placeName" value="Horse and Groom, Theobald's-"></interp>
+                  <interp inst="t17680224-67-crimeloc428" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680224-67-off425 t17680224-67-crimeloc428"></join>row; the prosecutor delivered a piece of cloth to me about five weeks ago; I put it in the kitchen on the dresser, I believe it might lie there about three weeks, we did not miss it till last Saturday se'nnight; on the Tuesday after we went to Justice Welch, he persuaded me to advertise it; it was put in the paper last Wednesday; in about two hours a woman came to our neighbourhood, and said a man had bought a piece of cloth for 12 s. I went and acquainted the Justice with this; he said I must find out the person that bought it, and he would grant a warrant to take him up; I found it to be the prisoner, we took him up; he said he bought the cloth in Smithfield, and he went with us to Mrs. Green's, there we found the cloth, about 25 yards.</p>
+               <p>Q. What is the prisoner?</p>
+               <p>Hall. He is a <rs id="t17680224-67-deflabel429" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-67-defend717 t17680224-67-deflabel429"></join> and <rs id="t17680224-67-deflabel430" type="occupation">joiner</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-67-defend717 t17680224-67-deflabel430"></join>, he works in our neighbourhood, he has used my house some time.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person722">
+                  Joseph 
+                  Morris 
+               <interp inst="t17680224-67-person722" type="surname" value="Morris"></interp>
+                     <interp inst="t17680224-67-person722" type="given" value="Joseph"></interp>
+                     <interp inst="t17680224-67-person722" type="gender" value="male"></interp>
+                  </persName>
+            . I am a linen-draper, I sold 
+               <persName id="t17680224-67-person723">
+                  Tobias 
+                  Batty 
+               <interp inst="t17680224-67-person723" type="surname" value="Batty"></interp>
+                     <interp inst="t17680224-67-person723" type="given" value="Tobias"></interp>
+                     <interp inst="t17680224-67-person723" type="gender" value="male"></interp>
+                  </persName>
+             a piece of cloth; I was at Mrs. Green's, and found a piece I believe to be the same, with my mark upon it, and the same number which I sold to Batty; I never sold a whole piece of that cloth besides, that till to-day.</p>
+               <p>Mr. Clay. Last Tuesday night, about five or six o'clock, Mr. Hall came to me, and informed me he had lost a piece of cloth from his house, and he believed he had some knowledge where it was; I went with him to the young woman, and asked her about it; she hesitated some time, and at last showed me the person, which was the prisoner at the bar; I asked him about it; he said he did buy a piece of cloth in the middle of Smithfield; I asked him where it was; he said he could fetch it soon; I desired him to give me directions; he did, to one Mrs. Green in Denmark-court; we went to Mrs. Green's room, the piece of cloth was asked for, she produced it; I desired Mr. Morris to look at it, and see if it was the same piece he sold the prosecutor; he said he believed it was the same piece; I asked Mr. Hall to look at it, to see if it was the same the prosecutor left in his care; he said he believed it was, he could almost swear to the piece of paper on the outside; then I took the prisoner to Mr. Welch; Mr. Welch desired him to produce the person he bought it of for 12 s. he said he could not.</p>
+               <p>Anne Green. I live in Denmark-court, I have known the prisoner about five years, he brought this piece of cloth for me to make him some shirts, on the 16th of February; he told me he bought it in Smithfield for 12 s. I asked him how he came to get such a bargain; he said he met a man in the middle of Smithfield, who proffered it to him for 15 s. he said to the man he did not want such cloth; the man followed him, and said, he would let him have it a bargain, and upon looking at it he told him he would give him half a guinea; then the other said he should have it for 12 s. so he bought it; he asked me what I thought it was worth; I told him I thought 2 s. a yard, and I thought the man came dishonestly by it; he said the man pressed it upon him; he desired me to measure it; I had no yard in the house, I had a yard of ribbon, and when I came to measure it with that I found It to be 24 yards and a half.</p>
+               <p>Q. to Hall. Do you know whether the prisoner had seen the cloth in your house?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176802240048"></xptr>Hall. I do not know that he had.</p>
+               <p>Q. to Morris. How many yards were there of that you sold the prosecutor?</p>
+               <p>Morris. I have many of the same pieces and the same number; they commonly run 25 or 26 yards, I sold the piece to the prosecutor for 49 s.</p>
+               <p>Prisoner's defence.</p>
+               <p>I bought the piece of cloth in Smithfield upon Shrove Tuesday, I do not know the man, I never saw him before, he was a stranger to me; he did not tell me the quantity, I thought there might be about 14 yards of it; I bought it in the path-way, not in a house.</p>
+               <p>To his character.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person724">
+                  George 
+                  Hewet 
+               <interp inst="t17680224-67-person724" type="surname" value="Hewet"></interp>
+                     <interp inst="t17680224-67-person724" type="given" value="George"></interp>
+                     <interp inst="t17680224-67-person724" type="gender" value="male"></interp>
+                  </persName>
+            . I am a carpenter, and live in Dean's-yard, Westminster; the prisoner worked under my direction about a year and a half; he was very sober and very careful, I believe he did not lose half a day in half a year; his general character is good.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person725">
+                  John 
+                  Crist 
+               <interp inst="t17680224-67-person725" type="surname" value="Crist"></interp>
+                     <interp inst="t17680224-67-person725" type="given" value="John"></interp>
+                     <interp inst="t17680224-67-person725" type="gender" value="male"></interp>
+                  </persName>
+            . I am a cabinet-maker; he has worked off and on for me about four years; he has been gone from me but a month; he is a very industrious sober man.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person726">
+                  Tho 
+                  Rutherford 
+               <interp inst="t17680224-67-person726" type="surname" value="Rutherford"></interp>
+                     <interp inst="t17680224-67-person726" type="given" value="Tho"></interp>
+                     <interp inst="t17680224-67-person726" type="gender" value="male"></interp>
+                  </persName>
+            . I was a victualler, and did live in St. Martin's-lane; I have known him two years; I always took him to be an honest young man.</p>
+               <p>
+            
+                  <persName id="t17680224-67-person727">
+                  William 
+                  Webster 
+               <interp inst="t17680224-67-person727" type="surname" value="Webster"></interp>
+                     <interp inst="t17680224-67-person727" type="given" value="William"></interp>
+                     <interp inst="t17680224-67-person727" type="gender" value="male"></interp>
+                  </persName>
+            . I am a carpenter; I have known him betwixt four and five years, he has worked for me three quarters of a year; he has acted with as much honour as a man could do; I never heard any ill of him in my life.</p>
+               <p>
+                  <rs id="t17680224-67-verdict431" type="verdictDescription">
+                     <interp inst="t17680224-67-verdict431" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

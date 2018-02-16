@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680706-7">
+               <interp inst="t17680706-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680706-7" type="year" value="1768"></interp>
+               <interp inst="t17680706-7" type="uri" value="sessionsPapers/17680706"></interp>
+               <interp inst="t17680706-7" type="date" value="17680706"></interp>
+               <join result="criminalCharge" id="t17680706-7-off31-c65" targOrder="Y" targets="t17680706-7-defend80 t17680706-7-off31 t17680706-7-verdict33"></join>
+         
+               <p>414. 
+               
+                  <persName id="t17680706-7-defend80" type="defendantName">
+                     John 
+                     Jarret 
+                  <interp inst="t17680706-7-defend80" type="surname" value="Jarret"></interp>
+                     <interp inst="t17680706-7-defend80" type="given" value="John"></interp>
+                     <interp inst="t17680706-7-defend80" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17680706-7-off31" type="offenceDescription">
+                     <interp inst="t17680706-7-off31" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680706-7-off31" type="offenceSubcategory" value="other"></interp>
+               stealing a feather-bed, a bolster, a pillow, two blankets, and a counterpane
+            </rs>, the property of 
+               
+                  <persName id="t17680706-7-victim82" type="victimName">
+                     Catherine 
+                     Murphy 
+                  <interp inst="t17680706-7-victim82" type="surname" value="Murphy"></interp>
+                     <interp inst="t17680706-7-victim82" type="given" value="Catherine"></interp>
+                     <interp inst="t17680706-7-victim82" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680706-7-off31 t17680706-7-victim82"></join>
+                  </persName>
+                
+            , <rs id="t17680706-7-viclabel32" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680706-7-victim82 t17680706-7-viclabel32"></join>.</p>
+               <p>The prosecutrix was called and did not appear.</p>
+               <p>
+                  <rs id="t17680706-7-verdict33" type="verdictDescription">
+                     <interp inst="t17680706-7-verdict33" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17680706-7-verdict33" type="verdictSubcategory" value="noProsecutor"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

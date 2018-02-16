@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380222-41">
+               <interp inst="t17380222-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380222-41" type="year" value="1738"></interp>
+               <interp inst="t17380222-41" type="uri" value="sessionsPapers/17380222"></interp>
+               <interp inst="t17380222-41" type="date" value="17380222"></interp>
+               <join result="criminalCharge" id="t17380222-41-off177-c183" targOrder="Y" targets="t17380222-41-defend274 t17380222-41-off177 t17380222-41-verdict178"></join>
+         
+               <p>47. 
+               
+                  <persName id="t17380222-41-defend274" type="defendantName">
+                     Jonathan 
+                     Richardson 
+                  <interp inst="t17380222-41-defend274" type="surname" value="Richardson"></interp>
+                     <interp inst="t17380222-41-defend274" type="given" value="Jonathan"></interp>
+                     <interp inst="t17380222-41-defend274" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380222-41-off177" type="offenceDescription">
+                     <interp inst="t17380222-41-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380222-41-off177" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 200 Weight of Lead, value 30 s. fixt to the Malt-loft of 
+                     
+                        <persName id="t17380222-41-victim276" type="victimName">
+                           Francis 
+                           Griffith 
+                        <interp inst="t17380222-41-victim276" type="surname" value="Griffith"></interp>
+                        <interp inst="t17380222-41-victim276" type="given" value="Francis"></interp>
+                        <interp inst="t17380222-41-victim276" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17380222-41-off177 t17380222-41-victim276"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>. <rs id="t17380222-41-verdict178" type="verdictDescription">
+                     <interp inst="t17380222-41-verdict178" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380222-41-verdict178" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17380222-41-punish179" type="punishmentDescription">
+                     <interp inst="t17380222-41-punish179" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380222-41-defend274 t17380222-41-punish179"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490705-17">
+               <interp inst="t17490705-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490705-17" type="year" value="1749"></interp>
+               <interp inst="t17490705-17" type="uri" value="sessionsPapers/17490705"></interp>
+               <interp inst="t17490705-17" type="date" value="17490705"></interp>
+               <join result="criminalCharge" id="t17490705-17-off90-c94" targOrder="Y" targets="t17490705-17-defend118 t17490705-17-off90 t17490705-17-verdict92"></join>
+         
+               <p>388. 
+               
+                  <persName id="t17490705-17-defend118" type="defendantName">
+                     Hannah 
+                     Bradley 
+                  <interp inst="t17490705-17-defend118" type="surname" value="Bradley"></interp>
+                     <interp inst="t17490705-17-defend118" type="given" value="Hannah"></interp>
+                     <interp inst="t17490705-17-defend118" type="gender" value="female"></interp>
+                  </persName>
+               
+            , late of <placeName id="t17490705-17-defloc89">St. George's, Hanover-square</placeName>
+                  <interp inst="t17490705-17-defloc89" type="placeName" value="St. George's, Hanover-square"></interp>
+                  <interp inst="t17490705-17-defloc89" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17490705-17-defend118 t17490705-17-defloc89"></join>, was indicted for <rs id="t17490705-17-off90" type="offenceDescription">
+                     <interp inst="t17490705-17-off90" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490705-17-off90" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cotton gown, val. 6 s. one linnen apron, val. 1 s. one cloth pocket, val. one penny, and 5 s. in money
+            </rs>, the property of 
+               
+                  <persName id="t17490705-17-victim120" type="victimName">
+                     Richard 
+                     Pocock 
+                  <interp inst="t17490705-17-victim120" type="surname" value="Pocock"></interp>
+                     <interp inst="t17490705-17-victim120" type="given" value="Richard"></interp>
+                     <interp inst="t17490705-17-victim120" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490705-17-off90 t17490705-17-victim120"></join>
+                  </persName>
+                
+            , <rs id="t17490705-17-cd91" type="crimeDate">June 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490705-17-off90 t17490705-17-cd91"></join>.</p>
+               <p>The prisoner owned before the Justice she had the pocket and money, and the other things.</p>
+               <p>
+                  <rs id="t17490705-17-verdict92" type="verdictDescription">
+                     <interp inst="t17490705-17-verdict92" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17490705-17-punish93" type="punishmentDescription">
+                     <interp inst="t17490705-17-punish93" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490705-17-defend118 t17490705-17-punish93"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

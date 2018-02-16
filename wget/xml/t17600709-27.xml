@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600709-27">
+               <interp inst="t17600709-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600709-27" type="year" value="1760"></interp>
+               <interp inst="t17600709-27" type="uri" value="sessionsPapers/17600709"></interp>
+               <interp inst="t17600709-27" type="date" value="17600709"></interp>
+               <join result="criminalCharge" id="t17600709-27-off140-c237" targOrder="Y" targets="t17600709-27-defend282 t17600709-27-off140 t17600709-27-verdict145"></join>
+         
+               <p>236. (M.) 
+               
+                  <persName id="t17600709-27-defend282" type="defendantName">
+                     John 
+                     Drake 
+                  <interp inst="t17600709-27-defend282" type="surname" value="Drake"></interp>
+                     <interp inst="t17600709-27-defend282" type="given" value="John"></interp>
+                     <interp inst="t17600709-27-defend282" type="gender" value="male"></interp>
+                     <interp inst="t17600709-27-defend282" type="age" value="13 and 14"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17600709-27-off140" type="offenceDescription">
+                     <interp inst="t17600709-27-off140" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600709-27-off140" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 7 s. in money, numbered
+            </rs> the property of 
+               
+                  <persName id="t17600709-27-victim284" type="victimName">
+                     William 
+                     Christopher 
+                  <interp inst="t17600709-27-victim284" type="surname" value="Christopher"></interp>
+                     <interp inst="t17600709-27-victim284" type="given" value="William"></interp>
+                     <interp inst="t17600709-27-victim284" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600709-27-off140 t17600709-27-victim284"></join>
+                  </persName>
+                
+            , <rs id="t17600709-27-cd141" type="crimeDate">May 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600709-27-off140 t17600709-27-cd141"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17600709-27-person285">
+                  Ann 
+                  Christopher 
+               <interp inst="t17600709-27-person285" type="surname" value="Christopher"></interp>
+                     <interp inst="t17600709-27-person285" type="given" value="Ann"></interp>
+                     <interp inst="t17600709-27-person285" type="gender" value="female"></interp>
+                  </persName>
+            . I live at <placeName id="t17600709-27-crimeloc142">Lanehouse</placeName>
+                  <interp inst="t17600709-27-crimeloc142" type="placeName" value="Lanehouse"></interp>
+                  <interp inst="t17600709-27-crimeloc142" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17600709-27-off140 t17600709-27-crimeloc142"></join>, my husband's name is William; the prisoner is between 13 and 14 years of age, we took him <rs id="t17600709-27-deflabel143" type="occupation">apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600709-27-defend282 t17600709-27-deflabel143"></join> out of the workhouse, to go on errands and draw beer. We <rs id="t17600709-27-viclabel144" type="occupation">keep an alehouse</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600709-27-victim284 t17600709-27-viclabel144"></join>, he has often run away, the last time was on the 29th of May; his mother lock'd him up, and brought him again; I shut him up in the garret till his master came from church. I went to fetch him down to give him some victuals, and he was gone, he had broke through an empty house; he was brought to me by Mr. 
+               <persName id="t17600709-27-person286">
+                  Neal
+               <interp inst="t17600709-27-person286" type="given" value="Neal"></interp>
+                     <interp inst="t17600709-27-person286" type="gender" value="male"></interp>
+                  </persName>
+             the next day; then I had miss'd some halfpence; I charg'd him with taking them; he confess'd he went out of that empty house in the night, and round a stack of chimnies, and into our fore garret, then down into my parlour, and broke a cupboard open, and took out 7 s. in halfpence; we found them upon him; this was the 9th or 10th time of his eloping in this manner.</p>
+               <p>Mr. Neal. On the 30th of May I was walking from Bow, I met the boy at the bar in the fields, and knowing his manner of behaviour, took him back to his mistress.</p>
+               <p>
+            
+                  <persName id="t17600709-27-person287">
+                  Sam 
+                  Lidall 
+               <interp inst="t17600709-27-person287" type="surname" value="Lidall"></interp>
+                     <interp inst="t17600709-27-person287" type="given" value="Sam"></interp>
+                     <interp inst="t17600709-27-person287" type="gender" value="male"></interp>
+                  </persName>
+             deposed to that of the prisoner's confession, and the money being found upon him, the prisoner had nothing to say in his defence.</p>
+               <p>
+                  <rs id="t17600709-27-verdict145" type="verdictDescription">
+                     <interp inst="t17600709-27-verdict145" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17600709-27-punish146" type="punishmentDescription">
+                     <interp inst="t17600709-27-punish146" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17600709-27-punish146" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17600709-27-defend282 t17600709-27-punish146"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

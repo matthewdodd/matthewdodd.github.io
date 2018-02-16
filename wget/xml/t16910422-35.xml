@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-35">
+               <interp inst="t16910422-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-35" type="year" value="1691"></interp>
+               <interp inst="t16910422-35" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-35" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-35-off172-c128" targOrder="Y" targets="t16910422-35-defend128 t16910422-35-off172 t16910422-35-verdict173"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-35-defend128" type="defendantName">
+                  William 
+                  Bolton
+               <interp inst="t16910422-35-defend128" type="surname" value="Bolton"></interp>
+                     <interp inst="t16910422-35-defend128" type="given" value="William"></interp>
+                     <interp inst="t16910422-35-defend128" type="gender" value="male"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910422-35-off172" type="offenceDescription">
+                     <interp inst="t16910422-35-off172" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910422-35-off172" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pair of Sheets, value, 10 s.
+            </rs> the Goods of 
+               <persName id="t16910422-35-victim129" type="victimName">
+                  William 
+                  Pigg
+               <interp inst="t16910422-35-victim129" type="surname" value="Pigg"></interp>
+                     <interp inst="t16910422-35-victim129" type="given" value="William"></interp>
+                     <interp inst="t16910422-35-victim129" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16910422-35-off172 t16910422-35-victim129"></join>
+                  </persName>
+            . The Evidence swore, That he was a Lodger in Pigg's House, and took the Sheets off the Beed and carryed them away, which he confest before the Justice, but denyed it at the Tryal: but the Matter being plain, he was found <rs id="t16910422-35-verdict173" type="verdictDescription">
+                     <interp inst="t16910422-35-verdict173" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910422-35-verdict173" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16910422-35-punish174" type="punishmentDescription">
+                     <interp inst="t16910422-35-punish174" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16910422-35-punish174" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910422-35-defend128 t16910422-35-punish174"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

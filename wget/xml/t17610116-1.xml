@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610116-1">
+               <interp inst="t17610116-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610116-1" type="year" value="1761"></interp>
+               <interp inst="t17610116-1" type="uri" value="sessionsPapers/17610116"></interp>
+               <interp inst="t17610116-1" type="date" value="17610116"></interp>
+               <join result="criminalCharge" id="t17610116-1-off1-c33" targOrder="Y" targets="t17610116-1-defend34 t17610116-1-off1 t17610116-1-verdict5"></join>
+         
+               <p>38. (M) 
+               
+                  <persName id="t17610116-1-defend34" type="defendantName">
+                     John 
+                     Beverstock 
+                  <interp inst="t17610116-1-defend34" type="surname" value="Beverstock"></interp>
+                     <interp inst="t17610116-1-defend34" type="given" value="John"></interp>
+                     <interp inst="t17610116-1-defend34" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17610116-1-off1" type="offenceDescription">
+                     <interp inst="t17610116-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610116-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one shilling and sixpence, in money numbered
+            </rs>, the money of 
+               
+                  <persName id="t17610116-1-victim36" type="victimName">
+                     Edmund 
+                     Worger 
+                  <interp inst="t17610116-1-victim36" type="surname" value="Worger"></interp>
+                     <interp inst="t17610116-1-victim36" type="given" value="Edmund"></interp>
+                     <interp inst="t17610116-1-victim36" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610116-1-off1 t17610116-1-victim36"></join>
+                  </persName>
+                
+            , <rs id="t17610116-1-cd2" type="crimeDate">January 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610116-1-off1 t17610116-1-cd2"></join>. ||</p>
+               <p>Edmund Worger. I am a <rs id="t17610116-1-viclabel3" type="occupation">grocer and blue-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-1-victim36 t17610116-1-viclabel3"></join>, and live in Carnaby-street; the prisoner has been <rs id="t17610116-1-deflabel4" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-1-defend34 t17610116-1-deflabel4"></join> to me and my father two years, wanting about a month.</p>
+               <p>Q. Is your father alive?</p>
+               <p>Worger. He is, but he was not at home at that time the money was taken. I had for some time missed several goods, and having four servants, could not tell which to lay it to. I endeavoured, if possible, to detect the guilty person. Upon which, on Friday night, the 2d of January, I laid 18 d. upon the counter, the last thing before I went to bed. I had marked both the shilling and sixpence. On the next morning I saw the money laying where I had left it before the shop was opened: the prisoner's business was to open the shop.</p>
+               <p>Q. Did he lie in your house?</p>
+               <p>Worger. No, there was but one of the four lay in my house. The money was soon taken away, before any of the others had been in the shop. I did not think proper to appear in it myself at that time, so desired my journeyman to borrow a shilling of the prisoner. He did, and brought it to me [producing one] this is it, here is the mark I made by filing it over the head; it is a king William's shilling, with the letter B at the bottom; I suppose made after the battle of<xptr type="pageFacsimile" doc="176101160003"></xptr> the Boyne. The person's name, who I got to borrow the money, is Clark. Then I went to justice Fielding, who granted me a warrant to take up the prisoner. I took him up: he at first denied it. He was committed to the Gatehouse, and on Monday he was re-examined, and then he denied it, but at last he owned it.</p>
+               <p>Q. Did you find the sixpence upon him?</p>
+               <p>Worger. He changed such a sixpence at a publick-house, but I have not got it again.</p>
+               <p>Q. from prisoner. Did I ever wrong you of a farthing before?</p>
+               <p>Worger. I have missed a great many things, but I cannot charge them upon the prisoner.</p>
+               <p>Clemmell Clark. I am servant to Mr. Worger, he desired me to borrow a shilling of the prisoner that morning (this is the same here produced.) I at that time did not know any thing of the affair, till my master explained it afterwards.</p>
+               <p>Prisoner's Defence.</p>
+               <p>The money that I lent the last evidence, was not my master's property, I had it of a tallow-chandler, at the next door, the night before; and the sixpence, that my master mentioned, I had of a soldier. I came from Wiltshire, and have no witnesses in town.</p>
+               <p>
+                  <rs id="t17610116-1-verdict5" type="verdictDescription">
+                     <interp inst="t17610116-1-verdict5" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17610116-1-punish6" type="punishmentDescription">
+                     <interp inst="t17610116-1-punish6" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610116-1-defend34 t17610116-1-punish6"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

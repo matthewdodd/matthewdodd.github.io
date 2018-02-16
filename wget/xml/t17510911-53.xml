@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510911-53">
+               <interp inst="t17510911-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510911-53" type="year" value="1751"></interp>
+               <interp inst="t17510911-53" type="uri" value="sessionsPapers/17510911"></interp>
+               <interp inst="t17510911-53" type="date" value="17510911"></interp>
+               <join result="criminalCharge" id="t17510911-53-off244-c333" targOrder="Y" targets="t17510911-53-defend433 t17510911-53-off244 t17510911-53-verdict247"></join>
+         
+               <p>528. (M.) 
+               <persName id="t17510911-53-defend433" type="defendantName">
+                  Sarah, <rs id="t17510911-53-deflabel243" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17510911-53-defend433 t17510911-53-deflabel243"></join> of 
+                     <persName id="t17510911-53-person434">
+                        Richard 
+                        Lewis 
+                     <interp inst="t17510911-53-person434" type="surname" value="Lewis"></interp>
+                        <interp inst="t17510911-53-person434" type="given" value="Richard"></interp>
+                        <interp inst="t17510911-53-person434" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17510911-53-defend433" type="surname" value="Lewis"></interp>
+                     <interp inst="t17510911-53-defend433" type="given" value="Sarah"></interp>
+                     <interp inst="t17510911-53-defend433" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17510911-53-off244" type="offenceDescription">
+                     <interp inst="t17510911-53-off244" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510911-53-off244" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two aprons, value 6 d. one pair of stockings, value 6 d. one linen shirt, value 6 d.
+            </rs> the goods of 
+               
+                  <persName id="t17510911-53-victim436" type="victimName">
+                     Elizabeth 
+                     Craven 
+                  <interp inst="t17510911-53-victim436" type="surname" value="Craven"></interp>
+                     <interp inst="t17510911-53-victim436" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17510911-53-victim436" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510911-53-off244 t17510911-53-victim436"></join>
+                  </persName>
+                
+            , <rs id="t17510911-53-cd245" type="crimeDate">July 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510911-53-off244 t17510911-53-cd245"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17510911-53-person437">
+                  Elizabeth 
+                  Craven 
+               <interp inst="t17510911-53-person437" type="surname" value="Craven"></interp>
+                     <interp inst="t17510911-53-person437" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17510911-53-person437" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17510911-53-crimeloc246">Pall-mall</placeName>
+                  <interp inst="t17510911-53-crimeloc246" type="placeName" value="Pall-mall"></interp>
+                  <interp inst="t17510911-53-crimeloc246" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510911-53-off244 t17510911-53-crimeloc246"></join>. I saw the goods mentioned, in the house, and missed them before nine o'clock, the 24th of July. I was told the prisoner had stolen them, and she was taken up the next morning; there was one apron found upon her, and she confessed she had the rest of the things.</p>
+               <p>Prisoner's Defence.</p>
+               <p>The girl gave me the things to wash; I work'd in the house a great while with another woman, and her mother and she had them again.</p>
+               <p>Q. to 
+               <persName id="t17510911-53-person438">
+                  Elizabeth 
+                  Craven 
+               <interp inst="t17510911-53-person438" type="surname" value="Craven"></interp>
+                     <interp inst="t17510911-53-person438" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17510911-53-person438" type="gender" value="female"></interp>
+                  </persName>
+            . Did you give her the things to wash?</p>
+               <p>E. Craven. No, I did not, my lord.</p>
+               <p>
+                  <rs id="t17510911-53-verdict247" type="verdictDescription">
+                     <interp inst="t17510911-53-verdict247" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

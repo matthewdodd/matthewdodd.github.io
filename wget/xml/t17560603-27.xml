@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560603-27">
+               <interp inst="t17560603-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560603-27" type="year" value="1756"></interp>
+               <interp inst="t17560603-27" type="uri" value="sessionsPapers/17560603"></interp>
+               <interp inst="t17560603-27" type="date" value="17560603"></interp>
+               <join result="criminalCharge" id="t17560603-27-off134-c305" targOrder="Y" targets="t17560603-27-defend355 t17560603-27-off134 t17560603-27-verdict136"></join>
+         
+               <p>269. 
+               
+                  <persName id="t17560603-27-defend355" type="defendantName">
+                     Richard 
+                     Todd 
+                  <interp inst="t17560603-27-defend355" type="surname" value="Todd"></interp>
+                     <interp inst="t17560603-27-defend355" type="given" value="Richard"></interp>
+                     <interp inst="t17560603-27-defend355" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17560603-27-off134" type="offenceDescription">
+                     <interp inst="t17560603-27-off134" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560603-27-off134" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 7 printed books, intitled, A Compendium of Voyages, value 20 s.
+            </rs> the goods of 
+               
+                  <persName id="t17560603-27-victim357" type="victimName">
+                     Thomas 
+                     Jefferys 
+                  <interp inst="t17560603-27-victim357" type="surname" value="Jefferys"></interp>
+                     <interp inst="t17560603-27-victim357" type="given" value="Thomas"></interp>
+                     <interp inst="t17560603-27-victim357" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17560603-27-off134 t17560603-27-victim357"></join>
+                  </persName>
+                
+            , <rs id="t17560603-27-cd135" type="crimeDate">May 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560603-27-off134 t17560603-27-cd135"></join>.</p>
+               <p>
+                  <rs id="t17560603-27-verdict136" type="verdictDescription">
+                     <interp inst="t17560603-27-verdict136" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17560603-27-verdict136" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor did not appear.Acquitted
+            </rs>.</p>
+            </div1>

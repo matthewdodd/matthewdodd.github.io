@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360610-61">
+               <interp inst="t17360610-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360610-61" type="year" value="1736"></interp>
+               <interp inst="t17360610-61" type="uri" value="sessionsPapers/17360610"></interp>
+               <interp inst="t17360610-61" type="date" value="17360610"></interp>
+               <join result="criminalCharge" id="t17360610-61-off253-c290" targOrder="Y" targets="t17360610-61-defend427 t17360610-61-off253 t17360610-61-verdict255"></join>
+         
+               <p>73. 
+               
+                  <persName id="t17360610-61-defend427" type="defendantName">
+                     William 
+                     Hadley 
+                  <interp inst="t17360610-61-defend427" type="surname" value="Hadley"></interp>
+                     <interp inst="t17360610-61-defend427" type="given" value="William"></interp>
+                     <interp inst="t17360610-61-defend427" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360610-61-off253" type="offenceDescription">
+                     <interp inst="t17360610-61-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360610-61-off253" type="offenceSubcategory" value="other"></interp>
+               stealing a Linnen Gown, and five Linnen Handkerchiefs and three Aprons
+            </rs>, the Goods of 
+               <persName id="t17360610-61-victim428" type="victimName">
+                  Eliz.
+                   Burnet
+               <interp inst="t17360610-61-victim428" type="surname" value="Burnet"></interp>
+                     <interp inst="t17360610-61-victim428" type="given" value="Eliz."></interp>
+                     <interp inst="t17360610-61-victim428" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360610-61-off253 t17360610-61-victim428"></join>
+                  </persName>
+            , <rs id="t17360610-61-cd254" type="crimeDate">May 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360610-61-off253 t17360610-61-cd254"></join>. The <rs id="t17360610-61-verdict255" type="verdictDescription">
+                     <interp inst="t17360610-61-verdict255" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17360610-61-verdict255" type="verdictSubcategory" value="noProsecutor"></interp>
+               Prosecutrix not appearing, the Prisoner was acquitted
+            </rs>.</p>
+            </div1>

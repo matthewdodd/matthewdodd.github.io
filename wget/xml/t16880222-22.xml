@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880222-22">
+               <interp inst="t16880222-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880222-22" type="year" value="1688"></interp>
+               <interp inst="t16880222-22" type="uri" value="sessionsPapers/16880222"></interp>
+               <interp inst="t16880222-22" type="date" value="16880222"></interp>
+               <join result="criminalCharge" id="t16880222-22-off109-c72" targOrder="Y" targets="t16880222-22-defend116 t16880222-22-off109 t16880222-22-verdict111"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880222-22-defend116" type="defendantName">
+                     Philip 
+                     Davis
+                  <interp inst="t16880222-22-defend116" type="surname" value="Davis"></interp>
+                     <interp inst="t16880222-22-defend116" type="given" value="Philip"></interp>
+                     <interp inst="t16880222-22-defend116" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t16880222-22-defloc108">St. Pauls Shadwel</placeName>
+                  <interp inst="t16880222-22-defloc108" type="placeName" value="St. Pauls Shadwel"></interp>
+                  <interp inst="t16880222-22-defloc108" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-22-defend116 t16880222-22-defloc108"></join>, was Indicted for <rs id="t16880222-22-off109" type="offenceDescription">
+                     <interp inst="t16880222-22-off109" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880222-22-off109" type="offenceSubcategory" value="burglary"></interp>
+               breaking open the House of 
+                     
+                        <persName id="t16880222-22-victim118" type="victimName">
+                           Richard 
+                           Lamprey
+                        <interp inst="t16880222-22-victim118" type="surname" value="Lamprey"></interp>
+                        <interp inst="t16880222-22-victim118" type="given" value="Richard"></interp>
+                        <interp inst="t16880222-22-victim118" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880222-22-off109 t16880222-22-victim118"></join>
+                     </persName>
+                     
+                   on the <rs id="t16880222-22-cd110" type="crimeDate">fourteenth day of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880222-22-off109 t16880222-22-cd110"></join> last past, at two in the Night, and stealing from thence one Serge Pair of Breeches, value five Shillings one Cloth Coat value twenty Shillings, one Caster Hat, value ten Shillings
+            </rs>. It appeared upon the Evidence, that the Coat and Breeches were found upon the Prisoner some time after, and that there was a hole made through the Wall into the lower part of the House: but he pretending he bought the Goods, and the proof of the Burglary upon him not being positive, he was brought in <rs id="t16880222-22-verdict111" type="verdictDescription">
+                     <interp inst="t16880222-22-verdict111" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880222-22-verdict111" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t16880222-22-punish112" type="punishmentDescription">
+                     <interp inst="t16880222-22-punish112" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880222-22-punish112" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880222-22-defend116 t16880222-22-punish112"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

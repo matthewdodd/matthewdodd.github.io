@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-23">
+               <interp inst="t16930426-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-23" type="year" value="1693"></interp>
+               <interp inst="t16930426-23" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-23" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-23-off97-c76" targOrder="Y" targets="t16930426-23-defend76 t16930426-23-off97 t16930426-23-verdict101"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-23-defend76" type="defendantName">
+                  George 
+                  Gwynn
+               <interp inst="t16930426-23-defend76" type="surname" value="Gwynn"></interp>
+                     <interp inst="t16930426-23-defend76" type="given" value="George"></interp>
+                     <interp inst="t16930426-23-defend76" type="gender" value="male"></interp>
+                  </persName>
+            , was likewise Tried for <rs id="t16930426-23-off97" type="offenceDescription">
+                     <interp inst="t16930426-23-off97" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-23-off97" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately Stealing a Sword from <rs id="t16930426-23-viclabel98" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16930426-23-victim77 t16930426-23-viclabel98"></join> 
+                  
+                     <persName id="t16930426-23-victim77" type="victimName">
+                        John 
+                        Chase
+                     <interp inst="t16930426-23-victim77" type="surname" value="Chase"></interp>
+                        <interp inst="t16930426-23-victim77" type="given" value="John"></interp>
+                        <interp inst="t16930426-23-victim77" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-23-off97 t16930426-23-victim77"></join>
+                     </persName>
+                   on the <rs id="t16930426-23-cd99" type="crimeDate">11th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-23-off97 t16930426-23-cd99"></join>
+               
+                  </rs>. Mr. Chase was going over <placeName id="t16930426-23-crimeloc100">Tower-hill</placeName>
+                  <interp inst="t16930426-23-crimeloc100" type="placeName" value="Tower-hill"></interp>
+                  <interp inst="t16930426-23-crimeloc100" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930426-23-off97 t16930426-23-crimeloc100"></join>, and the Prisoner with him; Mr Chase having first Treated the said Gwynn at the Tydehouse at Billingsgate; when they came upon the Hill, the Prisoner came behind Mr. Chase, and knockt him down with an Oaken Plant, redoubling the blows several times; then he drew his Sword out of the Scabbard naked, and beat Mr. Chase over the Head, and then rifled him, and took his Peruke, and then gave him above a dozen blows more, which he kept off with his Hands as well as he could; then he left him lying upon the ground almost dead, calling at the Watch-house in St. Katherines, telling them that he had been abused by the Prosecutor, and that he drew his Sword upon him first; and it not appearing that the Prisoner had any intent to rob Mr. Chase, he was <rs id="t16930426-23-verdict101" type="verdictDescription">
+                     <interp inst="t16930426-23-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

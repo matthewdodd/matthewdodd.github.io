@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900115-20">
+               <interp inst="t16900115-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900115-20" type="year" value="1690"></interp>
+               <interp inst="t16900115-20" type="uri" value="sessionsPapers/16900115"></interp>
+               <interp inst="t16900115-20" type="date" value="16900115"></interp>
+               <join result="criminalCharge" id="t16900115-20-off82-c71" targOrder="Y" targets="t16900115-20-defend98 t16900115-20-off82 t16900115-20-verdict84"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16900115003"></xptr>
+            
+               
+                  <persName id="t16900115-20-defend98" type="defendantName">
+                     Mary 
+                     Smith
+                  <interp inst="t16900115-20-defend98" type="surname" value="Smith"></interp>
+                     <interp inst="t16900115-20-defend98" type="given" value="Mary"></interp>
+                     <interp inst="t16900115-20-defend98" type="gender" value="female"></interp>
+                  </persName>
+               
+             
+                  <rs id="t16900115-20-deflabel81" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900115-20-defend98 t16900115-20-deflabel81"></join> of 
+               <persName id="t16900115-20-person99">
+                  John 
+                  Smith
+               <interp inst="t16900115-20-person99" type="surname" value="Smith"></interp>
+                     <interp inst="t16900115-20-person99" type="given" value="John"></interp>
+                     <interp inst="t16900115-20-person99" type="gender" value="male"></interp>
+                  </persName>
+            , was tryed for <rs id="t16900115-20-off82" type="offenceDescription">
+                     <interp inst="t16900115-20-off82" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900115-20-off82" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing six yards of Serge value 12 s. on the <rs id="t16900115-20-cd83" type="crimeDate">24th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900115-20-off82 t16900115-20-cd83"></join>, from 
+                     
+                        <persName id="t16900115-20-victim101" type="victimName">
+                           Robert 
+                           Acton
+                        <interp inst="t16900115-20-victim101" type="surname" value="Acton"></interp>
+                        <interp inst="t16900115-20-victim101" type="given" value="Robert"></interp>
+                        <interp inst="t16900115-20-victim101" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900115-20-off82 t16900115-20-victim101"></join>
+                     </persName>
+                     
+                  , who deposed, That the Prisoner with two more came to the Prosecutor's Shop to cheapen some Serge, and at last took away the Serge
+            </rs> which was found upon her, being pursued; she deni'd it, but she was found <rs id="t16900115-20-verdict84" type="verdictDescription">
+                     <interp inst="t16900115-20-verdict84" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900115-20-verdict84" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16900115-20-punish85" type="punishmentDescription">
+                     <interp inst="t16900115-20-punish85" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16900115-20-punish85" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900115-20-defend98 t16900115-20-punish85"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

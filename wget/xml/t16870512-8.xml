@@ -1,3 +1,106 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870512-8">
+               <interp inst="t16870512-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870512-8" type="year" value="1687"></interp>
+               <interp inst="t16870512-8" type="uri" value="sessionsPapers/16870512"></interp>
+               <interp inst="t16870512-8" type="date" value="16870512"></interp>
+               <join result="criminalCharge" id="t16870512-8-off41-c41" targOrder="Y" targets="t16870512-8-defend52 t16870512-8-off41 t16870512-8-verdict44"></join>
+               <join result="criminalCharge" id="t16870512-8-off41-c42" targOrder="Y" targets="t16870512-8-defend54 t16870512-8-off41 t16870512-8-verdict43"></join>
+               <join result="criminalCharge" id="t16870512-8-off41-c43" targOrder="Y" targets="t16870512-8-defend55 t16870512-8-off41 t16870512-8-verdict43"></join>
+         
+               <p>
+            
+                  <persName id="t16870512-8-defend52" type="defendantName">
+                  
+                     
+                           <persName id="t16870512-8-defend54" type="defendantName">
+                              William 
+                              Harris
+                           <interp inst="t16870512-8-defend54" type="surname" value="Harris"></interp>
+                        <interp inst="t16870512-8-defend54" type="given" value="William"></interp>
+                        <interp inst="t16870512-8-defend54" type="gender" value="male"></interp>
+                     </persName>
+                        
+                     , Elizabeth his <rs id="t16870512-8-deflabel39" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870512-8-defend52 t16870512-8-deflabel39"></join>
+                     <interp inst="t16870512-8-defend52" type="surname" value="Harris"></interp>
+                     <interp inst="t16870512-8-defend52" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16870512-8-defend52" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16870512-8-defend55" type="defendantName">
+                  Benjamin 
+                  Buttler
+               <interp inst="t16870512-8-defend55" type="surname" value="Buttler"></interp>
+                     <interp inst="t16870512-8-defend55" type="given" value="Benjamin"></interp>
+                     <interp inst="t16870512-8-defend55" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t16870512-8-defloc40">St. Giles's in the Fields</placeName>
+                  <interp inst="t16870512-8-defloc40" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16870512-8-defloc40" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870512-8-defend52 t16870512-8-defloc40"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870512-8-defend54 t16870512-8-defloc40"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870512-8-defend55 t16870512-8-defloc40"></join>, were Tryed upon an Indictment of High-Treason, for <rs id="t16870512-8-off41" type="offenceDescription">
+                     <interp inst="t16870512-8-off41" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16870512-8-off41" type="offenceSubcategory" value="coiningOffences"></interp>
+               Coining divers Counterfeit Pieces in imitation of the New Mill'd Groats, &amp;c.
+            </rs> on the <rs id="t16870512-8-cd42" type="crimeDate">8th. of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870512-8-off41 t16870512-8-cd42"></join>, and upon Tryal it appeared against them, by the Testimony of 
+               <persName id="t16870512-8-person56">
+                  Francis 
+                  Paylor
+               <interp inst="t16870512-8-person56" type="surname" value="Paylor"></interp>
+                     <interp inst="t16870512-8-person56" type="given" value="Francis"></interp>
+                     <interp inst="t16870512-8-person56" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16870512-8-person57">
+                  William 
+                  Williams
+               <interp inst="t16870512-8-person57" type="surname" value="Williams"></interp>
+                     <interp inst="t16870512-8-person57" type="given" value="William"></interp>
+                     <interp inst="t16870512-8-person57" type="gender" value="male"></interp>
+                  </persName>
+            , that 
+               <persName id="t16870512-8-person58">
+                  William 
+                  Harris
+               <interp inst="t16870512-8-person58" type="surname" value="Harris"></interp>
+                     <interp inst="t16870512-8-person58" type="given" value="William"></interp>
+                     <interp inst="t16870512-8-person58" type="gender" value="male"></interp>
+                  </persName>
+             had at sundry times Coined pieces in the like imitation, with a Stamp made for that purpose, and that 
+               <persName id="t16870512-8-person59">
+                  Benjamin 
+                  Buttler
+               <interp inst="t16870512-8-person59" type="surname" value="Buttler"></interp>
+                     <interp inst="t16870512-8-person59" type="given" value="Benjamin"></interp>
+                     <interp inst="t16870512-8-person59" type="gender" value="male"></interp>
+                  </persName>
+             was assisting to him therein, especially in washing or silvering them over, as also in puting them away as Currant Moneys, and further, by the Constable and others that Apprehended them, that much Counterfeit Moneys of this kind, together with the Stamp produced in Court, &amp;c. was found about 
+               <persName id="t16870512-8-person60">
+                  William 
+                  Harris
+               <interp inst="t16870512-8-person60" type="surname" value="Harris"></interp>
+                     <interp inst="t16870512-8-person60" type="given" value="William"></interp>
+                     <interp inst="t16870512-8-person60" type="gender" value="male"></interp>
+                  </persName>
+            , and in his house; he and Buttler were found <rs id="t16870512-8-verdict43" type="verdictDescription">
+                     <interp inst="t16870512-8-verdict43" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Treason, but the proof being in no wise possitive against the Wife, she was <rs id="t16870512-8-verdict44" type="verdictDescription">
+                     <interp inst="t16870512-8-verdict44" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16870512-8-punish45" type="punishmentDescription">
+                     <interp inst="t16870512-8-punish45" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16870512-8-punish45" type="punishmentSubcategory" value="drawnAndQuartered"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870512-8-defend54 t16870512-8-punish45"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870512-8-defend55 t16870512-8-punish45"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

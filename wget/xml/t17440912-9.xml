@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440912-9">
+               <interp inst="t17440912-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440912-9" type="year" value="1744"></interp>
+               <interp inst="t17440912-9" type="uri" value="sessionsPapers/17440912"></interp>
+               <interp inst="t17440912-9" type="date" value="17440912"></interp>
+               <join result="criminalCharge" id="t17440912-9-off45-c65" targOrder="Y" targets="t17440912-9-defend82 t17440912-9-off45 t17440912-9-verdict47"></join>
+         
+               <p>360. + 
+               <persName id="t17440912-9-defend82" type="defendantName">
+                  William 
+                  Lawrence 
+               <interp inst="t17440912-9-defend82" type="surname" value="Lawrence"></interp>
+                     <interp inst="t17440912-9-defend82" type="given" value="William"></interp>
+                     <interp inst="t17440912-9-defend82" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17440912-9-defloc44">St. Mary Stratford Bow</placeName>
+                  <interp inst="t17440912-9-defloc44" type="placeName" value="St. Mary Stratford Bow"></interp>
+                  <interp inst="t17440912-9-defloc44" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440912-9-defend82 t17440912-9-defloc44"></join>, was indicted for <rs id="t17440912-9-off45" type="offenceDescription">
+                     <interp inst="t17440912-9-off45" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440912-9-off45" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a lamb, value 14 s.
+            </rs> the property of 
+               
+                  <persName id="t17440912-9-victim84" type="victimName">
+                     John 
+                     Nunnelly 
+                  <interp inst="t17440912-9-victim84" type="surname" value="Nunnelly"></interp>
+                     <interp inst="t17440912-9-victim84" type="given" value="John"></interp>
+                     <interp inst="t17440912-9-victim84" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440912-9-off45 t17440912-9-victim84"></join>
+                  </persName>
+                
+            , <rs id="t17440912-9-cd46" type="crimeDate">July 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440912-9-off45 t17440912-9-cd46"></join>.</p>
+               <p>
+            
+                  <persName id="t17440912-9-person85">
+                  John 
+                  Nunnelly 
+               <interp inst="t17440912-9-person85" type="surname" value="Nunnelly"></interp>
+                     <interp inst="t17440912-9-person85" type="given" value="John"></interp>
+                     <interp inst="t17440912-9-person85" type="gender" value="male"></interp>
+                  </persName>
+            . On the 16th of July I lost a lamb, which was in a field of mine at Stratford ; I saw the lamb and the skin at Mr. Potter's the Constable at Bow: this is the skin, I know it by the mark - It is not my mark, it is the country mark. The Prisoner owned he had stole a lamb out of my field by Stratford turnpike.</p>
+               <p>
+            
+                  <persName id="t17440912-9-person86">
+                  Samuel 
+                  Austin 
+               <interp inst="t17440912-9-person86" type="surname" value="Austin"></interp>
+                     <interp inst="t17440912-9-person86" type="given" value="Samuel"></interp>
+                     <interp inst="t17440912-9-person86" type="gender" value="male"></interp>
+                  </persName>
+            . I was called up between 5 and 6 in the morning by Mr. Boot , who told me there was a man in his field killing one of my sheep. I was willing to see who it was, the man who is the Prisoner at the bar perceiving me come after him, run away, and I run after him: I run over 4 or 5 fields before I caught him; there was a man in the lane who ran along with me. The Prisoner had a hatchet with him, and a stick in his hand. I bid him lay down the hatchet or I would shoot him through the head, and he laid down his hatchet - I saw him stand by the lamb - The lamb was dead and warm, and the skin stripped ready to carry away.</p>
+               <p>Q. Do you know whose lamb it was?</p>
+               <p>Martin. I did not know then, I have been informed since; the lamb was given away in our town.</p>
+               <p>Q. Is this the skin that you saw then?</p>
+               <p>Austin. I know it to be the skin.</p>
+               <p>
+            
+                  <persName id="t17440912-9-person87">
+                  John 
+                  Potter 
+               <interp inst="t17440912-9-person87" type="surname" value="Potter"></interp>
+                     <interp inst="t17440912-9-person87" type="given" value="John"></interp>
+                     <interp inst="t17440912-9-person87" type="gender" value="male"></interp>
+                  </persName>
+            . I am Constable, July the 16th there was a lamb brought to my house, the head was cut off, and the skin was half off.</p>
+               <p>Mr. Boot deposed that he saw a man killing a lamb in one of his fields, and went and acquainted Mr. Austin with it.</p>
+               <p>Prisoner. I was going to Stratford to bring some beasts to Smithfield market, as I had done several market days, and found the lamb almost dead in a lane , and so I killed it. <rs id="t17440912-9-verdict47" type="verdictDescription">
+                     <interp inst="t17440912-9-verdict47" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17440912-9-punish48" type="punishmentDescription">
+                     <interp inst="t17440912-9-punish48" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440912-9-defend82 t17440912-9-punish48"></join>
+               Death
+            </rs>.</p>
+               <p>The Jury recommended him to the Court as an object of his Majesty's mercy.</p>
+            </div1>

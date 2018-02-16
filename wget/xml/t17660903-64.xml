@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660903-64">
+               <interp inst="t17660903-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660903-64" type="year" value="1766"></interp>
+               <interp inst="t17660903-64" type="uri" value="sessionsPapers/17660903"></interp>
+               <interp inst="t17660903-64" type="date" value="17660903"></interp>
+               <join result="criminalCharge" id="t17660903-64-off345-c454" targOrder="Y" targets="t17660903-64-defend588 t17660903-64-off345 t17660903-64-verdict348"></join>
+         
+               <p>462. (M.) 
+               
+                  <persName id="t17660903-64-defend588" type="defendantName">
+                     James 
+                     Butler 
+                  <interp inst="t17660903-64-defend588" type="surname" value="Butler"></interp>
+                     <interp inst="t17660903-64-defend588" type="given" value="James"></interp>
+                     <interp inst="t17660903-64-defend588" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for stealing a <rs id="t17660903-64-off345" type="offenceDescription">
+                     <interp inst="t17660903-64-off345" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660903-64-off345" type="offenceSubcategory" value="grandLarceny"></interp>
+               red fox's skin, value 4 s.
+            </rs> the property of 
+               
+                  <persName id="t17660903-64-victim590" type="victimName">
+                     Christopher 
+                     Smith 
+                  <interp inst="t17660903-64-victim590" type="surname" value="Smith"></interp>
+                     <interp inst="t17660903-64-victim590" type="given" value="Christopher"></interp>
+                     <interp inst="t17660903-64-victim590" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660903-64-off345 t17660903-64-victim590"></join>
+                  </persName>
+                
+            , <rs id="t17660903-64-cd346" type="crimeDate">August 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660903-64-off345 t17660903-64-cd346"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660903-64-person591">
+                  John 
+                  Wordie 
+               <interp inst="t17660903-64-person591" type="surname" value="Wordie"></interp>
+                     <interp inst="t17660903-64-person591" type="given" value="John"></interp>
+                     <interp inst="t17660903-64-person591" type="gender" value="male"></interp>
+                  </persName>
+            . I am mate of the ship Peter, 
+               <persName id="t17660903-64-person592">
+                  Christopher 
+                  Smith 
+               <interp inst="t17660903-64-person592" type="surname" value="Smith"></interp>
+                     <interp inst="t17660903-64-person592" type="given" value="Christopher"></interp>
+                     <interp inst="t17660903-64-person592" type="gender" value="male"></interp>
+                  </persName>
+            , master; the ship was lying off <placeName id="t17660903-64-crimeloc347">Wapping Old Stairs</placeName>
+                  <interp inst="t17660903-64-crimeloc347" type="placeName" value="Wapping Old Stairs"></interp>
+                  <interp inst="t17660903-64-crimeloc347" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660903-64-off345 t17660903-64-crimeloc347"></join>, the prisoner was a lumper on board; I ordered the people that ed to the hold to go down; after they there five or six minutes, nothing came chway; I jumpt down, and the people seemed to be in a confusion; the prisoner was one of them, he stood up close by the side of the ship, with his frock tucked up close to his armpits; when he saw me he said, let's go to work with pleasure; then he un did his cloaths, and let them all drop behind him; I went and looked under them, and there was a red fox's skin, which we imagined belonged to the cargo, as we had several bales of skins on board; I carried him on shore to Justice Hodgson, he was committed; this was the 6th of August.</p>
+               <p>Walter Marshly, another seaman, who was in the hold, gave the same account.</p>
+               <p>Prisoner's defence.</p>
+               <p>I flung down my cloaths it being very hot, but I know nothing at all of the skin, or how it came there.</p>
+               <p>
+                  <rs id="t17660903-64-verdict348" type="verdictDescription">
+                     <interp inst="t17660903-64-verdict348" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

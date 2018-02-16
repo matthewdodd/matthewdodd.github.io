@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920115-14">
+               <interp inst="t16920115-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920115-14" type="year" value="1692"></interp>
+               <interp inst="t16920115-14" type="uri" value="sessionsPapers/16920115"></interp>
+               <interp inst="t16920115-14" type="date" value="16920115"></interp>
+               <join result="criminalCharge" id="t16920115-14-off71-c60" targOrder="Y" targets="t16920115-14-defend60 t16920115-14-off71 t16920115-14-verdict74"></join>
+               <join result="criminalCharge" id="t16920115-14-off71-c61" targOrder="Y" targets="t16920115-14-defend61 t16920115-14-off71 t16920115-14-verdict74"></join>
+               <join result="criminalCharge" id="t16920115-14-off71-c62" targOrder="Y" targets="t16920115-14-defend62 t16920115-14-off71 t16920115-14-verdict74"></join>
+         
+               <p>
+            
+                  <persName id="t16920115-14-defend60" type="defendantName">
+                  Samuel 
+                  Hurley
+               <interp inst="t16920115-14-defend60" type="surname" value="Hurley"></interp>
+                     <interp inst="t16920115-14-defend60" type="given" value="Samuel"></interp>
+                     <interp inst="t16920115-14-defend60" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16920115-14-defend61" type="defendantName">
+                  John 
+                  Butcher, alias <rs id="t16920115-14-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16920115-14-defend61 t16920115-14-alias-1"></join>Shorter</rs>
+                     <interp inst="t16920115-14-defend61" type="surname" value="Butcher"></interp>
+                     <interp inst="t16920115-14-defend61" type="given" value="John"></interp>
+                     <interp inst="t16920115-14-defend61" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16920115-14-defend62" type="defendantName">
+                  John 
+                  Nunn
+               <interp inst="t16920115-14-defend62" type="surname" value="Nunn"></interp>
+                     <interp inst="t16920115-14-defend62" type="given" value="John"></interp>
+                     <interp inst="t16920115-14-defend62" type="gender" value="male"></interp>
+                  </persName>
+             all three young <rs id="t16920115-14-deflabel70" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920115-14-defend60 t16920115-14-deflabel70"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920115-14-defend61 t16920115-14-deflabel70"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920115-14-defend62 t16920115-14-deflabel70"></join>s, were tryed for <rs id="t16920115-14-off71" type="offenceDescription">
+                     <interp inst="t16920115-14-off71" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920115-14-off71" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in breaking the House of 
+                     <persName id="t16920115-14-victim63" type="victimName">
+                        Thomas 
+                        Burgan
+                     <interp inst="t16920115-14-victim63" type="surname" value="Burgan"></interp>
+                        <interp inst="t16920115-14-victim63" type="given" value="Thomas"></interp>
+                        <interp inst="t16920115-14-victim63" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920115-14-off71 t16920115-14-victim63"></join>
+                     </persName>
+                   in <placeName id="t16920115-14-crimeloc72">Ratcliff-High-way</placeName>
+                     <interp inst="t16920115-14-crimeloc72" type="placeName" value="Ratcliff-High-way"></interp>
+                     <interp inst="t16920115-14-crimeloc72" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16920115-14-off71 t16920115-14-crimeloc72"></join>, on the <rs id="t16920115-14-cd73" type="crimeDate">12th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16920115-14-off71 t16920115-14-cd73"></join> last; Mr. Burgan swore that his House was broke open about One a Clock in the Morning; and the Goods took away, were One Silver Tankard, value 8 l. 40 Yards of brown Cloth 40 s. 1 s. Yards of Muzlin 26 s. Two Holland skull Caps, value 18 d. a Muzlin Comode 7 s. 2 silk Hoods, a Walking-Cane, 2 Pair of Buckles, 2 Ells of Holland; and several other Household Goods of good value
+            </rs>. There was a Boy one Scofeld, who was committed with the abovesaid Prisoners; but Recanting, he was called as a Witness against them; but being young, and a suspicious Boy, his Evidence was not allowed of in Court; but the Prosecutor was ordered, immediately to prefer an Indictment against him; And the Evidence being weak against the Prisoners, they were all <rs id="t16920115-14-verdict74" type="verdictDescription">
+                     <interp inst="t16920115-14-verdict74" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>; but not without good Grounds of Suspicion to the contrary.</p>
+            </div1>

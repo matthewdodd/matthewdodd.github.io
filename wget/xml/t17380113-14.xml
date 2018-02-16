@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380113-14">
+               <interp inst="t17380113-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380113-14" type="year" value="1738"></interp>
+               <interp inst="t17380113-14" type="uri" value="sessionsPapers/17380113"></interp>
+               <interp inst="t17380113-14" type="date" value="17380113"></interp>
+               <join result="criminalCharge" id="t17380113-14-off83-c120" targOrder="Y" targets="t17380113-14-defend150 t17380113-14-off83 t17380113-14-verdict86"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17380113-14-defend150" type="defendantName">
+                     John 
+                     Waterman 
+                  <interp inst="t17380113-14-defend150" type="surname" value="Waterman"></interp>
+                     <interp inst="t17380113-14-defend150" type="given" value="John"></interp>
+                     <interp inst="t17380113-14-defend150" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380113-14-off83" type="offenceDescription">
+                     <interp inst="t17380113-14-off83" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17380113-14-off83" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17380113-14-victim152" type="victimName">
+                           Thomas 
+                           Wheeler 
+                        <interp inst="t17380113-14-victim152" type="surname" value="Wheeler"></interp>
+                        <interp inst="t17380113-14-victim152" type="given" value="Thomas"></interp>
+                        <interp inst="t17380113-14-victim152" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17380113-14-off83 t17380113-14-victim152"></join>
+                     </persName>
+                      
+                   on the King's Highway, &amp;c. and taking from a Silver Watch, a French Crown, 3 Guineas, and 20 s.
+            </rs> 
+                  <rs id="t17380113-14-cd84" type="crimeDate">Sept. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380113-14-off83 t17380113-14-cd84"></join>.</p>
+               <p>Wheeler. The 27 th of Sept. near 7 o'Clock in the Evening, I was going over the Bridge towards <placeName id="t17380113-14-crimeloc85">Holloway</placeName>
+                  <interp inst="t17380113-14-crimeloc85" type="placeName" value="Holloway"></interp>
+                  <interp inst="t17380113-14-crimeloc85" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17380113-14-off83 t17380113-14-crimeloc85"></join>, and a Man came up to me with a Pistol, and said, - Sir, I want your Money. Immediately 2 more came behind me with Pistols in their Hands. Then they took my Money, and because my Watch came out hard, they threatn'd to shoot me if I did not undo my Breeches. They took my Watch with a Packthread String, 3 Guineas, and about 22 or 23 s. from me, with a French Crown, which was among the Silver. The Prisoner was the first Man that stopp'd me, the other two I do not know. I heard the Prisoner was taken, so I went to see him in Newgate, the Beginning of this Month, and knew him to be the Man that stopp'd me. I tax'd him with the Fact, and he own'd it, and told me the Watch was at Endfield, and the French Crown was at the House where he used to lie.</p>
+               <p>Prisoner. I would ask him whether he knew me before I told him the manner in which I robb'd him?</p>
+               <p>Wheeler. Yes, I knew him when I first saw him in Newgate; I did not know of any Information he had made then.</p>
+               <p>Mr. Holst. The Prisoner made his Information a Fortnight or three Weeks ago, before Mr. Justice Chamberlain, and I believe Wheeler knew little of the Prisoner, till I gave him the Intelligence, for I asked him next Morning, if he should know any of the Men again? and he told me, his Surprize was so great when the Pistols came about him, that he verily believ'd he should not know any of them again. About a Fortnight or three Weeks ago, I sent Wheeler a Letter to let him know, the Prisoner had made his Information of this Robbery, and several others, and that he was accepted as an Evidence by Mr. Chamberlain, but I saw nothing of him, till last Tuesday I met him at Hicks's-Hall, and he told me he had preferr'd his Bill against the Prisoner. I told him it was a wrong Step he had taken; and he said, he should be glad to have the Prisoner admitted an Evidence, and that he would prefer another Bill against the other two. <rs id="t17380113-14-verdict86" type="verdictDescription">
+                     <interp inst="t17380113-14-verdict86" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17380113-14-punish87" type="punishmentDescription">
+                     <interp inst="t17380113-14-punish87" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380113-14-defend150 t17380113-14-punish87"></join>
+               Death
+            </rs>.</p>
+            </div1>

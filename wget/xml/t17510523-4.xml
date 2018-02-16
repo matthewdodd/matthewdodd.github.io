@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-4">
+               <interp inst="t17510523-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-4" type="year" value="1751"></interp>
+               <interp inst="t17510523-4" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-4" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-4-off20-c40" targOrder="Y" targets="t17510523-4-defend46 t17510523-4-off20 t17510523-4-verdict25"></join>
+         
+               <p>354. (M.) 
+               
+                  <persName id="t17510523-4-defend46" type="defendantName">
+                     Samuel 
+                     Collings 
+                  <interp inst="t17510523-4-defend46" type="surname" value="Collings"></interp>
+                     <interp inst="t17510523-4-defend46" type="given" value="Samuel"></interp>
+                     <interp inst="t17510523-4-defend46" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510523-4-off20" type="offenceDescription">
+                     <interp inst="t17510523-4-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-4-off20" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 36 pound weight of lead, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17510523-4-victim48" type="victimName">
+                     John 
+                     Rivers 
+                  <interp inst="t17510523-4-victim48" type="surname" value="Rivers"></interp>
+                     <interp inst="t17510523-4-victim48" type="given" value="John"></interp>
+                     <interp inst="t17510523-4-victim48" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-4-off20 t17510523-4-victim48"></join>
+                  </persName>
+                
+            , <rs id="t17510523-4-cd21" type="crimeDate">May 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-4-off20 t17510523-4-cd21"></join> *.</p>
+               <p>
+            
+                  <persName id="t17510523-4-person49">
+                  John 
+                  Rivers 
+               <interp inst="t17510523-4-person49" type="surname" value="Rivers"></interp>
+                     <interp inst="t17510523-4-person49" type="given" value="John"></interp>
+                     <interp inst="t17510523-4-person49" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17510523-4-crimeloc22">St. Luke's parish, Middlesex</placeName>
+                  <interp inst="t17510523-4-crimeloc22" type="placeName" value="St. Luke's parish, Middlesex"></interp>
+                  <interp inst="t17510523-4-crimeloc22" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510523-4-off20 t17510523-4-crimeloc22"></join>: I can only give an account that the lead is my property.</p>
+               <p>Justice Jones. I live with Mr. Rivers, he is a <rs id="t17510523-4-deflabel23" type="occupation">
+                     <rs id="t17510523-4-viclabel24" type="occupation">cloth-worker</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17510523-4-victim48 t17510523-4-viclabel24"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510523-4-defend46 t17510523-4-deflabel23"></join>, the prisoner is of the same trade; he came into our shop and sat down being out of business; we had missed some lead when he had been there before, so we watched him; I saw him take this away with him, on the 6th of May, and I went out of the shop after him and stop'd him, he then confess'd he had taken that on Saturday before, and sold it for half a crown to a plumber opposite the Crown alehouse at little Moregate; we went there and found part of the lead unmelted, but I will not swear to that. The lead was produced in court he took on the 6th of May, weighing six pound and a half, and depos'd to.</p>
+               <p>
+            
+                  <persName id="t17510523-4-person50">
+                  John 
+                  Trueman 
+               <interp inst="t17510523-4-person50" type="surname" value="Trueman"></interp>
+                     <interp inst="t17510523-4-person50" type="given" value="John"></interp>
+                     <interp inst="t17510523-4-person50" type="gender" value="male"></interp>
+                  </persName>
+            . I was in the shop at the time, and saw the prisoner-take this piece of lead. He confirmed the testimony of Jones.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was out of business and had no friends, and in great necessity, so I did it for want.</p>
+               <p>
+                  <rs id="t17510523-4-verdict25" type="verdictDescription">
+                     <interp inst="t17510523-4-verdict25" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17510523-4-verdict25" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17510523-4-punish26" type="punishmentDescription">
+                     <interp inst="t17510523-4-punish26" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17510523-4-punish26" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510523-4-defend46 t17510523-4-punish26"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

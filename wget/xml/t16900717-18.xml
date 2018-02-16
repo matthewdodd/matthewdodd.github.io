@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-18">
+               <interp inst="t16900717-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-18" type="year" value="1690"></interp>
+               <interp inst="t16900717-18" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-18" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-18-off96-c73" targOrder="Y" targets="t16900717-18-defend102 t16900717-18-off96 t16900717-18-verdict98"></join>
+               <join result="criminalCharge" id="t16900717-18-off96-c74" targOrder="Y" targets="t16900717-18-defend104 t16900717-18-off96 t16900717-18-verdict98"></join>
+         
+               <p>
+            
+                  <persName id="t16900717-18-defend102" type="defendantName">
+                  Rebeckah 
+                  Cook
+               <interp inst="t16900717-18-defend102" type="surname" value="Cook"></interp>
+                     <interp inst="t16900717-18-defend102" type="given" value="Rebeckah"></interp>
+                     <interp inst="t16900717-18-defend102" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16900717-18-defend104" type="defendantName">
+                     Sarah 
+                     Tomson
+                  <interp inst="t16900717-18-defend104" type="surname" value="Tomson"></interp>
+                     <interp inst="t16900717-18-defend104" type="given" value="Sarah"></interp>
+                     <interp inst="t16900717-18-defend104" type="gender" value="female"></interp>
+                  </persName>
+               
+            , a Couple of young <rs id="t16900717-18-deflabel95" type="occupation">Girl</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-18-defend102 t16900717-18-deflabel95"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-18-defend104 t16900717-18-deflabel95"></join>s, were both Indicted for <rs id="t16900717-18-off96" type="offenceDescription">
+                     <interp inst="t16900717-18-off96" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-18-off96" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing on the <rs id="t16900717-18-cd97" type="crimeDate">20th day of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-18-off96 t16900717-18-cd97"></join> last, 50 Yards of Silk Stuff, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t16900717-18-victim106" type="victimName">
+                     Thomas 
+                     Chamberlain
+                  <interp inst="t16900717-18-victim106" type="surname" value="Chamberlain"></interp>
+                     <interp inst="t16900717-18-victim106" type="given" value="Thomas"></interp>
+                     <interp inst="t16900717-18-victim106" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900717-18-off96 t16900717-18-victim106"></join>
+                  </persName>
+               
+            : It appeared that one 
+               <persName id="t16900717-18-person107">
+                  Elizabeth 
+                  Burzey
+               <interp inst="t16900717-18-person107" type="surname" value="Burzey"></interp>
+                     <interp inst="t16900717-18-person107" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16900717-18-person107" type="gender" value="female"></interp>
+                  </persName>
+             was the Receiver, but was gone away, and did sell the Stuff for 30 s. to one 
+               <persName id="t16900717-18-person108">
+                  Margaret 
+                  Woodborne
+               <interp inst="t16900717-18-person108" type="surname" value="Woodborne"></interp>
+                     <interp inst="t16900717-18-person108" type="given" value="Margaret"></interp>
+                     <interp inst="t16900717-18-person108" type="gender" value="female"></interp>
+                  </persName>
+            , as their Confessions before the Justice did testifie, they both deny'd it, but however the Jury found them both <rs id="t16900717-18-verdict98" type="verdictDescription">
+                     <interp inst="t16900717-18-verdict98" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900717-18-verdict98" type="verdictSubcategory" value="theftunder10s"></interp>
+               Guilty to the Value of Nine Shillings
+            </rs>.</p>
+               <p>
+                  <rs id="t16900717-18-punish99" type="punishmentDescription">
+                     <interp inst="t16900717-18-punish99" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900717-18-punish99" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900717-18-defend102 t16900717-18-punish99"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900717-18-defend104 t16900717-18-punish99"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

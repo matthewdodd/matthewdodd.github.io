@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-7">
+               <interp inst="t16880831-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-7" type="year" value="1688"></interp>
+               <interp inst="t16880831-7" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-7" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-7-off36-c46" targOrder="Y" targets="t16880831-7-defend59 t16880831-7-off36 t16880831-7-verdict38"></join>
+         
+               <p>
+            
+                  <persName id="t16880831-7-defend59" type="defendantName">
+                  Walter 
+                  Davis
+               <interp inst="t16880831-7-defend59" type="surname" value="Davis"></interp>
+                     <interp inst="t16880831-7-defend59" type="given" value="Walter"></interp>
+                     <interp inst="t16880831-7-defend59" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16880831-7-defloc35">St. Mary Whitechappel</placeName>
+                  <interp inst="t16880831-7-defloc35" type="placeName" value="St. Mary Whitechappel"></interp>
+                  <interp inst="t16880831-7-defloc35" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880831-7-defend59 t16880831-7-defloc35"></join>, was Indicted for <rs id="t16880831-7-off36" type="offenceDescription">
+                     <interp inst="t16880831-7-off36" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880831-7-off36" type="offenceSubcategory" value="other"></interp>
+               Killing one 
+                     
+                        <persName id="t16880831-7-victim61" type="victimName">
+                           Richard 
+                           Clarke
+                        <interp inst="t16880831-7-victim61" type="surname" value="Clarke"></interp>
+                        <interp inst="t16880831-7-victim61" type="given" value="Richard"></interp>
+                        <interp inst="t16880831-7-victim61" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880831-7-off36 t16880831-7-victim61"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16880831-7-cd37" type="crimeDate">19th. day of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880831-7-off36 t16880831-7-cd37"></join>; with a Rapier value 2 s.<xptr type="pageFacsimile" doc="16880831002"></xptr>giving him a Mortal Wound near the Short-ribs of, the depth of five Inches, of which he Languished and Died the 21st. of August following
+            </rs>. The Evidence for the King deposed, that the Prisoner was coming along Mile-end Town in the Company of a Woman, supposed to be a Person of a Lewd Life; after whom the Boys ran and Reflected upon them, at which the Prisoner was much disturbed, and vowed Revenge upon the next he met, which hapned to be the Deceased; he going over the way before him, the Prisoner ran after him, and he ran into a Ditch to save himself, where the Prisoner gave him the Wound aforesaid: This was Sworn by the Deceased's Wife and others. The Prisoner Argued in his Defence, that the Deceased Pursued him, and that he stood in his own Defence, and called several Witnesses to prove it; but their Evidence was not of any particular Satisfaction to the Court, the Jury not being satisfied with the truth of what they deposited: After a distinct hearing on both Sides, he was found <rs id="t16880831-7-verdict38" type="verdictDescription">
+                     <interp inst="t16880831-7-verdict38" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880831-7-verdict38" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16880831-7-punish39" type="punishmentDescription">
+                     <interp inst="t16880831-7-punish39" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880831-7-punish39" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-7-defend59 t16880831-7-punish39"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500912-39">
+               <interp inst="t17500912-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500912-39" type="year" value="1750"></interp>
+               <interp inst="t17500912-39" type="uri" value="sessionsPapers/17500912"></interp>
+               <interp inst="t17500912-39" type="date" value="17500912"></interp>
+               <join result="criminalCharge" id="t17500912-39-off173-c236" targOrder="Y" targets="t17500912-39-defend314 t17500912-39-off173 t17500912-39-verdict175"></join>
+         
+               <p>549. 
+               <persName id="t17500912-39-defend314" type="defendantName">
+                  Nehemiah 
+                  Willoughby 
+               <interp inst="t17500912-39-defend314" type="surname" value="Willoughby"></interp>
+                     <interp inst="t17500912-39-defend314" type="given" value="Nehemiah"></interp>
+                     <interp inst="t17500912-39-defend314" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500912-39-off173" type="offenceDescription">
+                     <interp inst="t17500912-39-off173" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500912-39-off173" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of linen sheets, three diaper napkins, one silk handkerchief, one linen ditto, one pair of leather breeches, and other things, and 15 s. in money number'd
+            </rs>, the property of 
+               
+                  <persName id="t17500912-39-victim316" type="victimName">
+                     John 
+                     Foxhall 
+                  <interp inst="t17500912-39-victim316" type="surname" value="Foxhall"></interp>
+                     <interp inst="t17500912-39-victim316" type="given" value="John"></interp>
+                     <interp inst="t17500912-39-victim316" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500912-39-off173 t17500912-39-victim316"></join>
+                  </persName>
+               
+            , <rs id="t17500912-39-cd174" type="crimeDate">August 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500912-39-off173 t17500912-39-cd174"></join>.</p>
+               <p>
+                  <rs id="t17500912-39-verdict175" type="verdictDescription">
+                     <interp inst="t17500912-39-verdict175" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500912-39-verdict175" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+            </div1>

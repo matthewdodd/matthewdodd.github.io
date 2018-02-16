@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580222-12">
+               <interp inst="t17580222-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580222-12" type="year" value="1758"></interp>
+               <interp inst="t17580222-12" type="uri" value="sessionsPapers/17580222"></interp>
+               <interp inst="t17580222-12" type="date" value="17580222"></interp>
+               <join result="criminalCharge" id="t17580222-12-off65-c101" targOrder="Y" targets="t17580222-12-defend118 t17580222-12-off65 t17580222-12-verdict68"></join>
+         
+               <p>116. (M.) 
+               
+                  <persName id="t17580222-12-defend118" type="defendantName">
+                     Mary 
+                     Cottis 
+                  <interp inst="t17580222-12-defend118" type="surname" value="Cottis"></interp>
+                     <interp inst="t17580222-12-defend118" type="given" value="Mary"></interp>
+                     <interp inst="t17580222-12-defend118" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17580222-12-deflabel64" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580222-12-defend118 t17580222-12-deflabel64"></join>, was indicted for <rs id="t17580222-12-off65" type="offenceDescription">
+                     <interp inst="t17580222-12-off65" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580222-12-off65" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver spoon, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17580222-12-victim120" type="victimName">
+                     Henry 
+                     Russel 
+                  <interp inst="t17580222-12-victim120" type="surname" value="Russel"></interp>
+                     <interp inst="t17580222-12-victim120" type="given" value="Henry"></interp>
+                     <interp inst="t17580222-12-victim120" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580222-12-off65 t17580222-12-victim120"></join>
+                  </persName>
+                
+            , <rs id="t17580222-12-cd66" type="crimeDate">January 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580222-12-off65 t17580222-12-cd66"></join>. +</p>
+               <p>
+            
+                  <persName id="t17580222-12-person121">
+                  Elizabeth 
+                  Wheetly 
+               <interp inst="t17580222-12-person121" type="surname" value="Wheetly"></interp>
+                     <interp inst="t17580222-12-person121" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580222-12-person121" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17580222-12-crimeloc67">Oxford Road</placeName>
+                  <interp inst="t17580222-12-crimeloc67" type="placeName" value="Oxford Road"></interp>
+                  <interp inst="t17580222-12-crimeloc67" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580222-12-off65 t17580222-12-crimeloc67"></join>. On Sunday the 8th of January, in the evening, the prisoner came into my kitchen on a message, and on the Monday morning I missed a spoon.</p>
+               <p>Q. Had she been alone in your kitchen?</p>
+               <p>E. Wheetly. I only left her by herself about three minutes. The spoon was on a shelf when she came into the kitchen; I had put it there about three minutes before. On missing it I went to Mr. Stubbs, a pawnbroker, near where the prisoner lived, and found it. Then I got a warrant and took her up. (Produced in court.) It is Mr. Russel's property. I am his housekeeper. She own'd she took the spoon off the shelf as soon as I took her up.</p>
+               <p>
+            
+                  <persName id="t17580222-12-person122">
+                  James 
+                  Hunt 
+               <interp inst="t17580222-12-person122" type="surname" value="Hunt"></interp>
+                     <interp inst="t17580222-12-person122" type="given" value="James"></interp>
+                     <interp inst="t17580222-12-person122" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Stubbs. One 
+               <persName id="t17580222-12-person123">
+                  Mary 
+                  Perfect 
+               <interp inst="t17580222-12-person123" type="surname" value="Perfect"></interp>
+                     <interp inst="t17580222-12-person123" type="given" value="Mary"></interp>
+                     <interp inst="t17580222-12-person123" type="gender" value="female"></interp>
+                  </persName>
+             brought the spoon, and pawn'd it with me on the 9th of January, at night, who was bound over to appear, but she lies in now.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I know nothing at all of the matter.</p>
+               <p>
+                  <rs id="t17580222-12-verdict68" type="verdictDescription">
+                     <interp inst="t17580222-12-verdict68" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

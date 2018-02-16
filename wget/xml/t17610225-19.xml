@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610225-19">
+               <interp inst="t17610225-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610225-19" type="year" value="1761"></interp>
+               <interp inst="t17610225-19" type="uri" value="sessionsPapers/17610225"></interp>
+               <interp inst="t17610225-19" type="date" value="17610225"></interp>
+               <join result="criminalCharge" id="t17610225-19-off95-c235" targOrder="Y" targets="t17610225-19-defend267 t17610225-19-off95 t17610225-19-verdict98"></join>
+         
+               <p>98. (L) 
+               
+                  <persName id="t17610225-19-defend267" type="defendantName">
+                     Edward 
+                     Foster 
+                  <interp inst="t17610225-19-defend267" type="surname" value="Foster"></interp>
+                     <interp inst="t17610225-19-defend267" type="given" value="Edward"></interp>
+                     <interp inst="t17610225-19-defend267" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17610225-19-off95" type="offenceDescription">
+                     <interp inst="t17610225-19-off95" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610225-19-off95" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Hebrew-Bible, value 3 s. and one Bible and Common-Prayer Book, in the Spanish language, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17610225-19-victim269" type="victimName">
+                     Sarah 
+                     Galindo 
+                  <interp inst="t17610225-19-victim269" type="surname" value="Galindo"></interp>
+                     <interp inst="t17610225-19-victim269" type="given" value="Sarah"></interp>
+                     <interp inst="t17610225-19-victim269" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610225-19-off95 t17610225-19-victim269"></join>
+                  </persName>
+                
+            , <rs id="t17610225-19-cd96" type="crimeDate">February 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610225-19-off95 t17610225-19-cd96"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17610225-19-person270">
+                  Sarah 
+                  Galindo 
+               <interp inst="t17610225-19-person270" type="surname" value="Galindo"></interp>
+                     <interp inst="t17610225-19-person270" type="given" value="Sarah"></interp>
+                     <interp inst="t17610225-19-person270" type="gender" value="female"></interp>
+                  </persName>
+            . I am a Jew; Mr. Andrade brought a child to school. (<rs id="t17610225-19-viclabel97" type="occupation">I teach school</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610225-19-victim269 t17610225-19-viclabel97"></join>.) He told me he had a suspicion of a person he had seen in my yard. I went down stairs, and missed the two books mentioned in the indictment, from out of a cupboard. We stopped the prisoner, and found them both upon him.</p>
+               <p>
+            
+                  <persName id="t17610225-19-person271">
+                  David 
+                  Andrado 
+               <interp inst="t17610225-19-person271" type="surname" value="Andrado"></interp>
+                     <interp inst="t17610225-19-person271" type="given" value="David"></interp>
+                     <interp inst="t17610225-19-person271" type="gender" value="male"></interp>
+                  </persName>
+             confirmed the prosecutrix's account.</p>
+               <p>
+                  <rs id="t17610225-19-verdict98" type="verdictDescription">
+                     <interp inst="t17610225-19-verdict98" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17610225-19-verdict98" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17610225-19-punish99" type="punishmentDescription">
+                     <interp inst="t17610225-19-punish99" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610225-19-defend267 t17610225-19-punish99"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

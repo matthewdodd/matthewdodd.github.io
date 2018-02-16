@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630114-26">
+               <interp inst="t17630114-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630114-26" type="year" value="1763"></interp>
+               <interp inst="t17630114-26" type="uri" value="sessionsPapers/17630114"></interp>
+               <interp inst="t17630114-26" type="date" value="17630114"></interp>
+               <join result="criminalCharge" id="t17630114-26-off138-c212" targOrder="Y" targets="t17630114-26-defend256 t17630114-26-off138 t17630114-26-verdict142"></join>
+         
+               <p>87. (L.) 
+               <persName id="t17630114-26-defend256" type="defendantName">
+                  Jane 
+                  Fitzmorris 
+               <interp inst="t17630114-26-defend256" type="surname" value="Fitzmorris"></interp>
+                     <interp inst="t17630114-26-defend256" type="given" value="Jane"></interp>
+                     <interp inst="t17630114-26-defend256" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17630114-26-deflabel137" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17630114-26-defend256 t17630114-26-deflabel137"></join>, was indicted for <rs id="t17630114-26-off138" type="offenceDescription">
+                     <interp inst="t17630114-26-off138" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630114-26-off138" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver watch, val. 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17630114-26-victim258" type="victimName">
+                     George 
+                     Hethcote 
+                  <interp inst="t17630114-26-victim258" type="surname" value="Hethcote"></interp>
+                     <interp inst="t17630114-26-victim258" type="given" value="George"></interp>
+                     <interp inst="t17630114-26-victim258" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630114-26-off138 t17630114-26-victim258"></join>
+                  </persName>
+                
+            , <rs id="t17630114-26-cd139" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630114-26-off138 t17630114-26-cd139"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17630114-26-person259">
+                  George 
+                  Hethcote 
+               <interp inst="t17630114-26-person259" type="surname" value="Hethcote"></interp>
+                     <interp inst="t17630114-26-person259" type="given" value="George"></interp>
+                     <interp inst="t17630114-26-person259" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17630114-26-viclabel140" type="occupation">porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17630114-26-victim258 t17630114-26-viclabel140"></join>, and live with Mr. Stretton, a chymist and druggist in Smithfield. I was coming home full of liquor between 1 and 2 in the morning, after boxing day, I met with the prisoner at the bar, we went in at <placeName id="t17630114-26-crimeloc141">the Anchor alehouse in Chick-lane</placeName>
+                  <interp inst="t17630114-26-crimeloc141" type="placeName" value="the Anchor alehouse in Chick-lane"></interp>
+                  <interp inst="t17630114-26-crimeloc141" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17630114-26-off138 t17630114-26-crimeloc141"></join>; as I went out at the door, the prisoner laid hold of my arm and said, she was destitute of a lodging, and said, she owed 2 s. already for lodging. I gave her half a crown; my watch was then in my pocket. She clasped my arm round just at parting, I had not power to get up, and I missed my watch directly.</p>
+               <p>Q. Was you fallen down?</p>
+               <p>Hethcote. No, I was standing. I found my watch gone, and I got up.</p>
+               <p>Q. Had you been down?</p>
+               <p>Hethcote. I had. She put her hands round me while I was taking out my money, and I fell down, and had not power to get up. I said, you have got my watch; she said, go about your business home.</p>
+               <p>Q. Did you ever get your watch again?</p>
+               <p>Hethcote. No. The next morning I went there again, and she came in. We took her to Guildhall; she said there, she had no watch, but the two women that were left behind had it.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I go a-washing. This man came into the house where I was in Chick-lane. I never saw him in my life before. I went away and left him in the house. The next morning I was coming up the lane, I saw him; there were two women there that sat by him. I asked him, if I ever meddled with his watch? he said, he did not know, the women imbibed it in his head that I took it. He swore first before the sitting Alderman, that he lost it out of his coat-pocket, tied up in a silk handkerchief. Please to call the constable.</p>
+               <p>Mr. Dolman. I am the constable. The prosecutor charged me with the prisoner for stealing his watch. I know nothing at all of it. All I know of her is, she is a very bad woman as possibly can be. When I took her in charge, both he and she were so drunk that I believe they hardly knew one another.</p>
+               <p>Q. to prosecutor. Was you in company with any other women at that time?</p>
+               <p>Prosecutor. No, I was not.</p>
+               <p>
+                  <rs id="t17630114-26-verdict142" type="verdictDescription">
+                     <interp inst="t17630114-26-verdict142" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

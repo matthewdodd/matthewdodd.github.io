@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-35">
+               <interp inst="t17340911-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-35" type="year" value="1734"></interp>
+               <interp inst="t17340911-35" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-35" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-35-off167-c189" targOrder="Y" targets="t17340911-35-defend275 t17340911-35-off167 t17340911-35-verdict170"></join>
+         
+               <p>43 
+               
+                  <persName id="t17340911-35-defend275" type="defendantName">
+                     Nary 
+                     Gill 
+                  <interp inst="t17340911-35-defend275" type="surname" value="Gill"></interp>
+                     <interp inst="t17340911-35-defend275" type="given" value="Nary"></interp>
+                     <interp inst="t17340911-35-defend275" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17340911-35-off167" type="offenceDescription">
+                     <interp inst="t17340911-35-off167" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340911-35-off167" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 3 Handkerchiefs, a pair of Stockings, a Leghorn Hat, and 22 Guineas, the Goods and Money of 
+                     
+                        <persName id="t17340911-35-victim277" type="victimName">
+                           William 
+                           Ovet 
+                        <interp inst="t17340911-35-victim277" type="surname" value="Ovet"></interp>
+                        <interp inst="t17340911-35-victim277" type="given" value="William"></interp>
+                        <interp inst="t17340911-35-victim277" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340911-35-off167 t17340911-35-victim277"></join>
+                     </persName>
+                      
+                   in his House
+            </rs>, <rs id="t17340911-35-cd168" type="crimeDate">July 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-35-off167 t17340911-35-cd168"></join>.</p>
+               <p>William Ovet. The Prisoner was my <rs id="t17340911-35-deflabel169" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17340911-35-defend275 t17340911-35-deflabel169"></join>. I saw the Money in my Drawers on Friday Noon, July 19. I went out in the Afternoon, and return'd about 10 at Night, and the Prisoner was gone from home. I mist 22 Guineas about 8 o'Clock next Morning. Upon which I went to her Brother, and he went with me to the Castle and Faulcon-Inn in Aldersgate-Street, between 10 and a 11, and there we found the Prisoner drinking Tea, with the Goods and some of the Money upon her: She was carried to the Constable, where she dropt a Box with 14 Guineas in it.</p>
+               <p>
+            
+                  <persName id="t17340911-35-person278">
+                  John 
+                  Tredway 
+               <interp inst="t17340911-35-person278" type="surname" value="Tredway"></interp>
+                     <interp inst="t17340911-35-person278" type="given" value="John"></interp>
+                     <interp inst="t17340911-35-person278" type="gender" value="male"></interp>
+                  </persName>
+            , Constable. I found these Handkerchiefs and Stockings, and this Hat, and 2 Guineas and a half, and 2 s. upon the Prisoner at the Castle and Faulcon; from whence I carried her to my House. She deny'd that she had any more Money, and charged 2 others of her acquaintance, with being concern'd with her. But in half an Hour's time there was a Box dropt under the Table where she sat, and the Dog got it in his Mouth, and plaid with it. It was taken up, and 14 Guineas were in it She own'd the Box to be hers.</p>
+               <p>The Jury found her <rs id="t17340911-35-verdict170" type="verdictDescription">
+                     <interp inst="t17340911-35-verdict170" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17340911-35-punish171" type="punishmentDescription">
+                     <interp inst="t17340911-35-punish171" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340911-35-defend275 t17340911-35-punish171"></join>
+               Death
+            </rs>.</p>
+            </div1>

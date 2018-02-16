@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871207-42">
+               <interp inst="t16871207-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871207-42" type="year" value="1687"></interp>
+               <interp inst="t16871207-42" type="uri" value="sessionsPapers/16871207"></interp>
+               <interp inst="t16871207-42" type="date" value="16871207"></interp>
+               <join result="criminalCharge" id="t16871207-42-off192-c115" targOrder="Y" targets="t16871207-42-defend187 t16871207-42-off192 t16871207-42-verdict196"></join>
+               <join result="criminalCharge" id="t16871207-42-off195-c116" targOrder="Y" targets="t16871207-42-defend189 t16871207-42-off195 t16871207-42-verdict196"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16871207-42-defend187" type="defendantName">
+                     John 
+                     Grevil
+                  <interp inst="t16871207-42-defend187" type="surname" value="Grevil"></interp>
+                     <interp inst="t16871207-42-defend187" type="given" value="John"></interp>
+                     <interp inst="t16871207-42-defend187" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16871207-42-defloc191">St. Andrew Holbourn</placeName>
+                  <interp inst="t16871207-42-defloc191" type="placeName" value="St. Andrew Holbourn"></interp>
+                  <interp inst="t16871207-42-defloc191" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16871207-42-defend187 t16871207-42-defloc191"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16871207-42-defend189 t16871207-42-defloc191"></join>, and 
+               
+                  <persName id="t16871207-42-defend189" type="defendantName">
+                     Margaret 
+                     Smith
+                  <interp inst="t16871207-42-defend189" type="surname" value="Smith"></interp>
+                     <interp inst="t16871207-42-defend189" type="given" value="Margaret"></interp>
+                     <interp inst="t16871207-42-defend189" type="gender" value="female"></interp>
+                  </persName>
+               
+             of the same Parish, were Indicted for <rs id="t16871207-42-off192" type="offenceDescription">
+                     <interp inst="t16871207-42-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871207-42-off192" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of <rs id="t16871207-42-viclabel193" type="occupation">Sir</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16871207-42-victim191 t16871207-42-viclabel193"></join> 
+                  
+                     
+                        <persName id="t16871207-42-victim191" type="victimName">
+                           Edmund 
+                           Anderson
+                        <interp inst="t16871207-42-victim191" type="surname" value="Anderson"></interp>
+                        <interp inst="t16871207-42-victim191" type="given" value="Edmund"></interp>
+                        <interp inst="t16871207-42-victim191" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , on the <rs id="t16871207-42-cd194" type="crimeDate">27th, of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16871207-42-off192 t16871207-42-cd194"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16871207-42-off195 t16871207-42-cd194"></join> last, between the hours of Twelve and One, and taking thence one point Cornet, value 10 l. one point Crevat, value 11 l. one point Pinner, value 10 l. one pair of point Ruffles, value 50 s. one green Velvet Mantle, value 10 l. one Cloth Bed lined with Sarsnet, one pair of cloath Vallens with Silk Fringe, value l. 23 Silver and Silk Cushions, value 5 l.
+            </rs> and there were many Witnesses to prove the Fact upon Grevil, he being principal, and the Evidence against Smith, was, for <rs id="t16871207-42-off195" type="offenceDescription">
+                     <interp inst="t16871207-42-off195" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871207-42-off195" type="offenceSubcategory" value="receiving"></interp>
+               receiving, harbouring and conveying away the Goods
+            </rs>. They were both found <rs id="t16871207-42-verdict196" type="verdictDescription">
+                     <interp inst="t16871207-42-verdict196" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16871207-42-punish197" type="punishmentDescription">
+                     <interp inst="t16871207-42-punish197" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871207-42-defend187 t16871207-42-punish197"></join>
+               
+                     <note>[Grevil: Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16871207-42-punish198" type="punishmentDescription">
+                     <interp inst="t16871207-42-punish198" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16871207-42-punish198" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871207-42-defend189 t16871207-42-punish198"></join>
+               
+                     <note>[Smith: Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

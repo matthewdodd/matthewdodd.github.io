@@ -1,3 +1,115 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670218-22">
+               <interp inst="t17670218-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670218-22" type="year" value="1767"></interp>
+               <interp inst="t17670218-22" type="uri" value="sessionsPapers/17670218"></interp>
+               <interp inst="t17670218-22" type="date" value="17670218"></interp>
+               <join result="criminalCharge" id="t17670218-22-off124-c152" targOrder="Y" targets="t17670218-22-defend189 t17670218-22-off124 t17670218-22-verdict128"></join>
+               <join result="criminalCharge" id="t17670218-22-off124-c153" targOrder="Y" targets="t17670218-22-defend191 t17670218-22-off124 t17670218-22-verdict128"></join>
+         
+               <p>152, 153. (L.) 
+               
+                  <persName id="t17670218-22-defend189" type="defendantName">
+                     Mary 
+                     White 
+                  <interp inst="t17670218-22-defend189" type="surname" value="White"></interp>
+                     <interp inst="t17670218-22-defend189" type="given" value="Mary"></interp>
+                     <interp inst="t17670218-22-defend189" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17670218-22-defend191" type="defendantName">
+                     Sarah 
+                     Matthews 
+                  <interp inst="t17670218-22-defend191" type="surname" value="Matthews"></interp>
+                     <interp inst="t17670218-22-defend191" type="given" value="Sarah"></interp>
+                     <interp inst="t17670218-22-defend191" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17670218-22-deflabel123" type="occupation">widows</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670218-22-defend189 t17670218-22-deflabel123"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670218-22-defend191 t17670218-22-deflabel123"></join>, were indicted for <rs id="t17670218-22-off124" type="offenceDescription">
+                     <interp inst="t17670218-22-off124" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670218-22-off124" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing two sattin cloaks, value 30 s. the property of 
+                     
+                        <persName id="t17670218-22-victim193" type="victimName">
+                           Samuel 
+                           Stansbury 
+                        <interp inst="t17670218-22-victim193" type="surname" value="Stansbury"></interp>
+                        <interp inst="t17670218-22-victim193" type="given" value="Samuel"></interp>
+                        <interp inst="t17670218-22-victim193" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   and 
+                     
+                        <persName id="t17670218-22-victim195" type="victimName">
+                           Thomas 
+                           Smith 
+                        <interp inst="t17670218-22-victim195" type="surname" value="Smith"></interp>
+                        <interp inst="t17670218-22-victim195" type="given" value="Thomas"></interp>
+                        <interp inst="t17670218-22-victim195" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , privately in that shop
+            </rs>, <rs id="t17670218-22-cd125" type="crimeDate">Jan. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670218-22-off124 t17670218-22-cd125"></join>. +</p>
+               <p>
+            
+                  <persName id="t17670218-22-person196">
+                  Samuel 
+                  Spencer 
+               <interp inst="t17670218-22-person196" type="surname" value="Spencer"></interp>
+                     <interp inst="t17670218-22-person196" type="given" value="Samuel"></interp>
+                     <interp inst="t17670218-22-person196" type="gender" value="male"></interp>
+                  </persName>
+            . I am shopman to <rs id="t17670218-22-viclabel126" type="occupation">Mess.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670218-22-victim193 t17670218-22-viclabel126"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670218-22-victim195 t17670218-22-viclabel126"></join> 
+            
+                  <persName id="t17670218-22-person197">
+                  Samuel 
+                  Stansbury 
+               <interp inst="t17670218-22-person197" type="surname" value="Stansbury"></interp>
+                     <interp inst="t17670218-22-person197" type="given" value="Samuel"></interp>
+                     <interp inst="t17670218-22-person197" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17670218-22-person198">
+                  Thomas 
+                  Smith 
+               <interp inst="t17670218-22-person198" type="surname" value="Smith"></interp>
+                     <interp inst="t17670218-22-person198" type="given" value="Thomas"></interp>
+                     <interp inst="t17670218-22-person198" type="gender" value="male"></interp>
+                  </persName>
+            ; the two prisoner came to our shop on the 19th of last month, in <placeName id="t17670218-22-crimeloc127">the Long wall in the cloisters, near West Smithfield</placeName>
+                  <interp inst="t17670218-22-crimeloc127" type="placeName" value="the Long wall in the cloisters, near West Smithfield"></interp>
+                  <interp inst="t17670218-22-crimeloc127" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670218-22-off124 t17670218-22-crimeloc127"></join>, they are there; the prisoner desired to see some do: they had each a young child in their arm, (as they have now;) they both sat down by the counter; I shewed them about half a dozen; after they desired to see one a little larger to the drawer, I missed a cloak which I had just before shewed to them, which I knew by a particular trimming and pattern, it was a flowered sattin; then I went up stairs to Mr. Smith, and told him; he came down; I had taken no notice to the prisoners about it; they then bid me money for one, which I think I asked 27 s. for; I not agreeing for price, they were going out of the shop; I asked Mr. Smith what I should do; we called them in, and said we would abate 2 s. one of them came in, and said we would leave 6 d earnest, as she had come out by mistake without money in her pocket; the other stood at the door; then my master desired them both to come in, saying, he had something to say to them; I think he partly pulled the other woman in; they answered, they knew what it was for; they both went on their knees, and begged he would forgive them; at the same time one cloak fell from one, and another from the other; I saw that fall which fell from White, and the other was lying at the place where Matthews was when she got from her knees; Mr. Smith ordered the constable to be called, he lives next door but one to us; they were taken before the Alderman; there they said they did not know that they had the cloaks; (the produced in court, with the tickets on them, and deposed to.) I imagine the other cloak was taken when I went up to Mr. Smith.</p>
+               <p>
+            
+                  <persName id="t17670218-22-person199">
+                  Joseph 
+                  Andrews 
+               <interp inst="t17670218-22-person199" type="surname" value="Andrews"></interp>
+                     <interp inst="t17670218-22-person199" type="given" value="Joseph"></interp>
+                     <interp inst="t17670218-22-person199" type="gender" value="male"></interp>
+                  </persName>
+            . I am a servant to Mess. Stansbury and Smith; I came into the shop while the two prisoners were sitting by the counter, looking at the cloaks; I was engaged with a lady, who bought a cloak of me; after the prisoners went out, I heard Mr. Smith say something to them; when they came in, they went on their knees; they seemed to shake themselves, and I saw a cloak drop from each of them; they were on their knees at the time; they begged forgiveness, and made a great noise, squalling out, while the hackney coach was getting ready to take them away.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176702180013"></xptr>Mr. Smith. When I came down, I found the two prisoners sitting by the counter; White had a long scarlet cardinal on, which covered her child's head; I examined the cloaks, and found a figured cloak, as my servant had told me, was missing; when Matthews was out of the shop, I stopped them, and desired her to come in again; at that time White had left 6 d. earnest, saying, she had but 18 d. in her pocket; I told them. I wanted to speak to them; they said, they knew what I wanted, and went both on their knees, and begged for mercy for the sake of their children, crying, Mercy, mercy, mercy, which raised the whole neighbourhood; when they got up, the two cloaks lay as it were behind them.</p>
+               <p>Q. Were any thing lying on the floor before there?</p>
+               <p>Smith. No, there were not; they were about six yards from the place where they had been shewed the cloaks.</p>
+               <p>The prisoners in their defence said, if there were any cloaks on the ground, they fell from the counter, and begged mercy on account of their children.</p>
+               <p>Both <rs id="t17670218-22-verdict128" type="verdictDescription">
+                     <interp inst="t17670218-22-verdict128" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670218-22-verdict128" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 2 s.
+            </rs> each. <rs id="t17670218-22-punish129" type="punishmentDescription">
+                     <interp inst="t17670218-22-punish129" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670218-22-defend189 t17670218-22-punish129"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670218-22-defend191 t17670218-22-punish129"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-46">
+               <interp inst="t17660409-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-46" type="year" value="1766"></interp>
+               <interp inst="t17660409-46" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-46" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-46-off276-c360" targOrder="Y" targets="t17660409-46-defend471 t17660409-46-off276 t17660409-46-verdict280"></join>
+         
+               <p>256. (M.) 
+               
+                  <persName id="t17660409-46-defend471" type="defendantName">
+                     John 
+                     Cunningham 
+                  <interp inst="t17660409-46-defend471" type="surname" value="Cunningham"></interp>
+                     <interp inst="t17660409-46-defend471" type="given" value="John"></interp>
+                     <interp inst="t17660409-46-defend471" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660409-46-off276" type="offenceDescription">
+                     <interp inst="t17660409-46-off276" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660409-46-off276" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 1 man's hat, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17660409-46-victim473" type="victimName">
+                     William 
+                     Warner 
+                  <interp inst="t17660409-46-victim473" type="surname" value="Warner"></interp>
+                     <interp inst="t17660409-46-victim473" type="given" value="William"></interp>
+                     <interp inst="t17660409-46-victim473" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660409-46-off276 t17660409-46-victim473"></join>
+                  </persName>
+                
+            , <rs id="t17660409-46-cd277" type="crimeDate">March 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-46-off276 t17660409-46-cd277"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660409-46-person474">
+                  William 
+                  Warner 
+               <interp inst="t17660409-46-person474" type="surname" value="Warner"></interp>
+                     <interp inst="t17660409-46-person474" type="given" value="William"></interp>
+                     <interp inst="t17660409-46-person474" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17660409-46-viclabel278" type="occupation">gardener</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-46-victim473 t17660409-46-viclabel278"></join> to Mr. Langford at <placeName id="t17660409-46-crimeloc279">Highgate</placeName>
+                  <interp inst="t17660409-46-crimeloc279" type="placeName" value="Highgate"></interp>
+                  <interp inst="t17660409-46-crimeloc279" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660409-46-off276 t17660409-46-crimeloc279"></join>; I lost my hat last Saturday was a week, out of the servants-hall, and the prisoner was seen about the place; I found it at 
+               <persName id="t17660409-46-person475">
+                  Elizabeth 
+                  Gorie 
+               <interp inst="t17660409-46-person475" type="surname" value="Gorie"></interp>
+                     <interp inst="t17660409-46-person475" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17660409-46-person475" type="gender" value="female"></interp>
+                  </persName>
+            's, who keeps a green-stall; after which the prisoner was taken up: he said at first he found it; after that, he said he bought it; the hall communicates with a court that goes out into the street, and the gate was open.</p>
+               <p>
+            
+                  <persName id="t17660409-46-person476">
+                  Elizabeth 
+                  Gorie 
+               <interp inst="t17660409-46-person476" type="surname" value="Gorie"></interp>
+                     <interp inst="t17660409-46-person476" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17660409-46-person476" type="gender" value="female"></interp>
+                  </persName>
+            . I sell greens at Highgate. On Saturday was se'nnight, about 4 or 5 in the afternoon, the prisoner came, and wanted me to buy a hat; he was quite a stranger: I gave him 9 d. for it. He said he found it; and the next morning he said he bought it of a woman.</p>
+               <p>Prisoner's defence.</p>
+               <p>I bought that hat at Highgate, within 20 yards of that woman's house, for 6 d.</p>
+               <p>
+                  <rs id="t17660409-46-verdict280" type="verdictDescription">
+                     <interp inst="t17660409-46-verdict280" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

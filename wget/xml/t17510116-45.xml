@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510116-45">
+               <interp inst="t17510116-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510116-45" type="year" value="1751"></interp>
+               <interp inst="t17510116-45" type="uri" value="sessionsPapers/17510116"></interp>
+               <interp inst="t17510116-45" type="date" value="17510116"></interp>
+               <join result="criminalCharge" id="t17510116-45-off211-c334" targOrder="Y" targets="t17510116-45-defend420 t17510116-45-off211 t17510116-45-verdict214"></join>
+               <join result="criminalCharge" id="t17510116-45-off213-c335" targOrder="Y" targets="t17510116-45-defend421 t17510116-45-off213 t17510116-45-verdict215"></join>
+         
+               <p>149, 150. (M.) 
+               
+                  <persName id="t17510116-45-defend420" type="defendantName">
+                     Martha 
+                     Harris 
+                  <interp inst="t17510116-45-defend420" type="surname" value="Harris"></interp>
+                     <interp inst="t17510116-45-defend420" type="given" value="Martha"></interp>
+                     <interp inst="t17510116-45-defend420" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17510116-45-defend421" type="defendantName">
+                  Mary, wife of Job Watts<interp inst="t17510116-45-defend421" type="given" value="Mary"></interp>
+                     <interp inst="t17510116-45-defend421" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted, the first for <rs id="t17510116-45-off211" type="offenceDescription">
+                     <interp inst="t17510116-45-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510116-45-off211" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pair of leather breeches, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17510116-45-victim423" type="victimName">
+                     Caleb 
+                     Muckson 
+                  <interp inst="t17510116-45-victim423" type="surname" value="Muckson"></interp>
+                     <interp inst="t17510116-45-victim423" type="given" value="Caleb"></interp>
+                     <interp inst="t17510116-45-victim423" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17510116-45-cd212" type="crimeDate">Dec. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510116-45-off211 t17510116-45-cd212"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510116-45-off213 t17510116-45-cd212"></join>. and the other for <rs id="t17510116-45-off213" type="offenceDescription">
+                     <interp inst="t17510116-45-off213" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510116-45-off213" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, knowing them to be stolen
+            </rs>.</p>
+               <p>|| Harris <rs id="t17510116-45-verdict214" type="verdictDescription">
+                     <interp inst="t17510116-45-verdict214" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>Watts <rs id="t17510116-45-verdict215" type="verdictDescription">
+                     <interp inst="t17510116-45-verdict215" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17510116-45-punish216" type="punishmentDescription">
+                     <interp inst="t17510116-45-punish216" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17510116-45-punish216" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510116-45-defend420 t17510116-45-punish216"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510116-45-defend421 t17510116-45-punish216"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

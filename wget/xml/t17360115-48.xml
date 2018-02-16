@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-48">
+               <interp inst="t17360115-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-48" type="year" value="1736"></interp>
+               <interp inst="t17360115-48" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-48" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-48-off270-c256" targOrder="Y" targets="t17360115-48-defend366 t17360115-48-off270 t17360115-48-verdict273"></join>
+         
+               <p>54. 
+               
+                  <persName id="t17360115-48-defend366" type="defendantName">
+                     Philip 
+                     Clerk 
+                  <interp inst="t17360115-48-defend366" type="surname" value="Clerk"></interp>
+                     <interp inst="t17360115-48-defend366" type="given" value="Philip"></interp>
+                     <interp inst="t17360115-48-defend366" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-48-defloc269">St. James's Westminster</placeName>
+                  <interp inst="t17360115-48-defloc269" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17360115-48-defloc269" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-48-defend366 t17360115-48-defloc269"></join>, was indicted for <rs id="t17360115-48-off270" type="offenceDescription">
+                     <interp inst="t17360115-48-off270" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-48-off270" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 2 Guineas, one half Guinea, and 3s. 6d. in silver, the Goods of 
+                     
+                        <persName id="t17360115-48-victim368" type="victimName">
+                           Patrick 
+                           Halfpenny 
+                        <interp inst="t17360115-48-victim368" type="surname" value="Halfpenny"></interp>
+                        <interp inst="t17360115-48-victim368" type="given" value="Patrick"></interp>
+                        <interp inst="t17360115-48-victim368" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360115-48-off270 t17360115-48-victim368"></join>
+                     </persName>
+                      
+                  , in the House of 
+                     <persName id="t17360115-48-person369">
+                        Christopher 
+                        Coyle 
+                     <interp inst="t17360115-48-person369" type="surname" value="Coyle"></interp>
+                        <interp inst="t17360115-48-person369" type="given" value="Christopher"></interp>
+                        <interp inst="t17360115-48-person369" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, the <rs id="t17360115-48-cd271" type="crimeDate">1st of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-48-off270 t17360115-48-cd271"></join> last.</p>
+               <p>
+            
+                  <persName id="t17360115-48-person370">
+                  Sarah 
+                  Halfpenny 
+               <interp inst="t17360115-48-person370" type="surname" value="Halfpenny"></interp>
+                     <interp inst="t17360115-48-person370" type="given" value="Sarah"></interp>
+                     <interp inst="t17360115-48-person370" type="gender" value="female"></interp>
+                  </persName>
+            . My Husband is a <rs id="t17360115-48-viclabel272" type="occupation">Baker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360115-48-victim368 t17360115-48-viclabel272"></join>, and is imployed at Fulham all the Week, the Money was in a Trunk in my Room; and the Prisoner, who lodged in the same House with me, forced his Hand into my pocket and took the Key; he kept it from the Tuesday to Friday, then he returned me the Key; I looked into the Trunk and the Money was there; and my Husband coming Home on Saturday, I gave him the Key, and he carried it with him to Fulham. On the Wednesday following I catched the Prisoner locking the Trunk, with the Money in his Hands.</p>
+               <p>Patrick Half-penny. I left the Money in the Trunk on Sunday, and when I came Home on Saturday my Wife told me Philip Clark had taken it.</p>
+               <p>Justice Hilder gave an Account that the Prosecutor appeared not against the Prisoner till November last; and others, that they had heard the Prosecutor threaten his Wife, in order to make her charge the Prisoner with a Robbery. <rs id="t17360115-48-verdict273" type="verdictDescription">
+                     <interp inst="t17360115-48-verdict273" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

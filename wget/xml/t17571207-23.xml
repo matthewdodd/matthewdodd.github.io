@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17571207-23">
+               <interp inst="t17571207-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17571207-23" type="year" value="1757"></interp>
+               <interp inst="t17571207-23" type="uri" value="sessionsPapers/17571207"></interp>
+               <interp inst="t17571207-23" type="date" value="17571207"></interp>
+               <join result="criminalCharge" id="t17571207-23-off120-c177" targOrder="Y" targets="t17571207-23-defend217 t17571207-23-off120 t17571207-23-verdict124"></join>
+         
+               <p>28. (M.) 
+               <persName id="t17571207-23-defend217" type="defendantName">
+                  Sebisa 
+                  Hewett 
+               <interp inst="t17571207-23-defend217" type="surname" value="Hewett"></interp>
+                     <interp inst="t17571207-23-defend217" type="given" value="Sebisa"></interp>
+                     <interp inst="t17571207-23-defend217" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17571207-23-deflabel119" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17571207-23-defend217 t17571207-23-deflabel119"></join>, was indicted for <rs id="t17571207-23-off120" type="offenceDescription">
+                     <interp inst="t17571207-23-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17571207-23-off120" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing eighteen pounds weight of fat, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17571207-23-victim219" type="victimName">
+                     Mary 
+                     Bates 
+                  <interp inst="t17571207-23-victim219" type="surname" value="Bates"></interp>
+                     <interp inst="t17571207-23-victim219" type="given" value="Mary"></interp>
+                     <interp inst="t17571207-23-victim219" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17571207-23-off120 t17571207-23-victim219"></join>
+                  </persName>
+                
+            . <rs id="t17571207-23-viclabel121" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17571207-23-victim219 t17571207-23-viclabel121"></join>, <rs id="t17571207-23-cd122" type="crimeDate">November 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17571207-23-off120 t17571207-23-cd122"></join>. ++</p>
+               <p>Mary Bates. The prisoner was my <rs id="t17571207-23-deflabel123" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17571207-23-defend217 t17571207-23-deflabel123"></join>, and had been with me a fortnight and one day. I missed some fa of house. The prisoner had been gone When she came in I taxed her with it; she had been to carry some shavings out.</p>
+               <p>Q. What is your business?</p>
+               <p>M. Bates. My business is melting down sat, to sell to the tall chandlers. I went out among the tallow chandlers to see if I could find it, and found it at Mr. Hewett's tallow chandler, whose servant told me gave three halfpence a pound for it to a girl that had brought it there. I desired him to let his servant come to my house, to see if he knew the prisoner. He came and said that was she. The girl said she could swear against Mr. Huggins, for he encouraged her to take it, and own'd before the justice she had sold eighteen pound of it to him, at five different times, for three halfpence a pound.</p>
+               <p>Q. What is it worth a pound?</p>
+               <p>M. Bates. I sell it to the tallow chandlers for 3 d. a pound.</p>
+               <p>
+            
+                  <persName id="t17571207-23-person220">
+                  Esther 
+                  Webb 
+               <interp inst="t17571207-23-person220" type="surname" value="Webb"></interp>
+                     <interp inst="t17571207-23-person220" type="given" value="Esther"></interp>
+                     <interp inst="t17571207-23-person220" type="gender" value="female"></interp>
+                  </persName>
+            . I am servant to the prosecutrix and saw this fat at Mr. Huggins's; it was of a particular fat hog and beef fat together.</p>
+               <p>
+                  <rs id="t17571207-23-verdict124" type="verdictDescription">
+                     <interp inst="t17571207-23-verdict124" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17571207-23-punish125" type="punishmentDescription">
+                     <interp inst="t17571207-23-punish125" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17571207-23-punish125" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17571207-23-defend217 t17571207-23-punish125"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

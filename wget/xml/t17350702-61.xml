@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350702-61">
+               <interp inst="t17350702-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350702-61" type="year" value="1735"></interp>
+               <interp inst="t17350702-61" type="uri" value="sessionsPapers/17350702"></interp>
+               <interp inst="t17350702-61" type="date" value="17350702"></interp>
+               <join result="criminalCharge" id="t17350702-61-off268-c297" targOrder="Y" targets="t17350702-61-defend432 t17350702-61-off268 t17350702-61-verdict270"></join>
+         
+               <p>70. 
+               
+                  <persName id="t17350702-61-defend432" type="defendantName">
+                     John 
+                     Brown 
+                  <interp inst="t17350702-61-defend432" type="surname" value="Brown"></interp>
+                     <interp inst="t17350702-61-defend432" type="given" value="John"></interp>
+                     <interp inst="t17350702-61-defend432" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350702-61-off268" type="offenceDescription">
+                     <interp inst="t17350702-61-off268" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350702-61-off268" type="offenceSubcategory" value="other"></interp>
+               stealing a Shirt and a Hay-fork, the Goods<xptr type="pageFacsimile" doc="173507020023"></xptr> of 
+                     
+                        <persName id="t17350702-61-victim434" type="victimName">
+                           Jonathan 
+                           Sly 
+                        <interp inst="t17350702-61-victim434" type="surname" value="Sly"></interp>
+                        <interp inst="t17350702-61-victim434" type="given" value="Jonathan"></interp>
+                        <interp inst="t17350702-61-victim434" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; and a Pair of Stockings, the Goods of 
+                     
+                        <persName id="t17350702-61-victim436" type="victimName">
+                           Charles 
+                           Harris 
+                        <interp inst="t17350702-61-victim436" type="surname" value="Harris"></interp>
+                        <interp inst="t17350702-61-victim436" type="given" value="Charles"></interp>
+                        <interp inst="t17350702-61-victim436" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17350702-61-cd269" type="crimeDate">May 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350702-61-off268 t17350702-61-cd269"></join>
+               </p>
+               <p>Jonathan Sly. The Prisoner stole the Shirt and Fork from me.</p>
+               <p>Prisoner. I pawn'd them for two Pence to buy me some Victuals.</p>
+               <p>
+            
+                  <persName id="t17350702-61-person437">
+                  William 
+                  Tredwell 
+               <interp inst="t17350702-61-person437" type="surname" value="Tredwell"></interp>
+                     <interp inst="t17350702-61-person437" type="given" value="William"></interp>
+                     <interp inst="t17350702-61-person437" type="gender" value="male"></interp>
+                  </persName>
+            . I saw him take the Stockings off the Hedge.</p>
+               <p>Prisoner. This is my first Fact, and I hope you'l get me off to shove the Tumbler's Arse. *<rs id="t17350702-61-verdict270" type="verdictDescription">
+                     <interp inst="t17350702-61-verdict270" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p> * <rs id="t17350702-61-punish271" type="punishmentDescription">
+                     <interp inst="t17350702-61-punish271" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17350702-61-punish271" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350702-61-defend432 t17350702-61-punish271"></join>
+               To be Whipt at the Cart's Tail
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17501205-45">
+               <interp inst="t17501205-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17501205-45" type="year" value="1750"></interp>
+               <interp inst="t17501205-45" type="uri" value="sessionsPapers/17501205"></interp>
+               <interp inst="t17501205-45" type="date" value="17501205"></interp>
+               <join result="criminalCharge" id="t17501205-45-off224-c277" targOrder="Y" targets="t17501205-45-defend373 t17501205-45-off224 t17501205-45-verdict228"></join>
+         
+               <p>57. (L.) 
+               
+                  <persName id="t17501205-45-defend373" type="defendantName">
+                     James 
+                     Hanks 
+                  <interp inst="t17501205-45-defend373" type="surname" value="Hanks"></interp>
+                     <interp inst="t17501205-45-defend373" type="given" value="James"></interp>
+                     <interp inst="t17501205-45-defend373" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17501205-45-off224" type="offenceDescription">
+                     <interp inst="t17501205-45-off224" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17501205-45-off224" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one calf skin, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17501205-45-victim375" type="victimName">
+                     Richard 
+                     Highton 
+                  <interp inst="t17501205-45-victim375" type="surname" value="Highton"></interp>
+                     <interp inst="t17501205-45-victim375" type="given" value="Richard"></interp>
+                     <interp inst="t17501205-45-victim375" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17501205-45-off224 t17501205-45-victim375"></join>
+                  </persName>
+                
+            , <rs id="t17501205-45-cd225" type="crimeDate">October 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17501205-45-off224 t17501205-45-cd225"></join>. ++</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175012050018"></xptr>
+            
+                  <persName id="t17501205-45-person376">
+                  Richard 
+                  Highton 
+               <interp inst="t17501205-45-person376" type="surname" value="Highton"></interp>
+                     <interp inst="t17501205-45-person376" type="given" value="Richard"></interp>
+                     <interp inst="t17501205-45-person376" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17501205-45-viclabel226" type="occupation">watchman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17501205-45-victim375 t17501205-45-viclabel226"></join>, and look after the carcasses, sheep, and calves skins, &amp;c. in <placeName id="t17501205-45-crimeloc227">Whitechapel</placeName>
+                  <interp inst="t17501205-45-crimeloc227" type="placeName" value="Whitechapel"></interp>
+                  <interp inst="t17501205-45-crimeloc227" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17501205-45-off224 t17501205-45-crimeloc227"></join>, and what are lost I must make good. On October the 25th, between eleven and twelve at night, the watchman that was down lower than I met him with a calf skin on his back, and it appeared to be one which I had put upon a pack of veal upon a stall just before.</p>
+               <p>Q. What did you know it by?</p>
+               <p>Highton. I had put two there together, one was a pyed, the other a brown; the brown one was taken away, which I missed in about two minutes; the prisoner had carried it about 80 yards: my partner called to me, upon which I ran down, and found that he was stopp'd.</p>
+               <p>
+            
+                  <persName id="t17501205-45-person377">
+                  George 
+                  Benskin 
+               <interp inst="t17501205-45-person377" type="surname" value="Benskin"></interp>
+                     <interp inst="t17501205-45-person377" type="given" value="George"></interp>
+                     <interp inst="t17501205-45-person377" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman, &amp;c. He stopped the prisoner, and confirmed the above.</p>
+               <p>Prisoner. If I did it I was drunk, for I was so when I came to the Poultry Compter; I had been but six weeks in London, and did not know where to sell it.</p>
+               <p>
+                  <rs id="t17501205-45-verdict228" type="verdictDescription">
+                     <interp inst="t17501205-45-verdict228" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17501205-45-verdict228" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17501205-45-punish229" type="punishmentDescription">
+                     <interp inst="t17501205-45-punish229" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17501205-45-punish229" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17501205-45-defend373 t17501205-45-punish229"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930116-48">
+               <interp inst="t16930116-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930116-48" type="year" value="1693"></interp>
+               <interp inst="t16930116-48" type="uri" value="sessionsPapers/16930116"></interp>
+               <interp inst="t16930116-48" type="date" value="16930116"></interp>
+               <join result="criminalCharge" id="t16930116-48-off215-c141" targOrder="Y" targets="t16930116-48-defend141 t16930116-48-off215 t16930116-48-verdict216"></join>
+         
+               <p>
+            
+                  <persName id="t16930116-48-defend141" type="defendantName">
+                  John 
+                  Rowley
+               <interp inst="t16930116-48-defend141" type="surname" value="Rowley"></interp>
+                     <interp inst="t16930116-48-defend141" type="given" value="John"></interp>
+                     <interp inst="t16930116-48-defend141" type="gender" value="male"></interp>
+                  </persName>
+             was tried for being accessary to 
+               <persName id="t16930116-48-person142">
+                  Catharine 
+                  Davis
+               <interp inst="t16930116-48-person142" type="surname" value="Davis"></interp>
+                     <interp inst="t16930116-48-person142" type="given" value="Catharine"></interp>
+                     <interp inst="t16930116-48-person142" type="gender" value="female"></interp>
+                  </persName>
+             in the Felony she committed in the House of her Master, one 
+               <persName id="t16930116-48-victim143" type="victimName">
+                     <rs id="t16930116-48-viclabel214" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16930116-48-victim143 t16930116-48-viclabel214"></join> 
+                  Petrey
+               <interp inst="t16930116-48-victim143" type="surname" value="Petrey"></interp>
+                     <interp inst="t16930116-48-victim143" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930116-48-off215 t16930116-48-victim143"></join>
+                  </persName>
+            ; it was witnessed that <rs id="t16930116-48-off215" type="offenceDescription">
+                     <interp inst="t16930116-48-off215" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930116-48-off215" type="offenceSubcategory" value="receiving"></interp>
+               Rowley bought some of the Goods of her, but he did not know them to be stolen
+            </rs>; So he was <rs id="t16930116-48-verdict216" type="verdictDescription">
+                     <interp inst="t16930116-48-verdict216" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

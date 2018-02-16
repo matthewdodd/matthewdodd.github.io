@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400903-41">
+               <interp inst="t17400903-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400903-41" type="year" value="1740"></interp>
+               <interp inst="t17400903-41" type="uri" value="sessionsPapers/17400903"></interp>
+               <interp inst="t17400903-41" type="date" value="17400903"></interp>
+               <join result="criminalCharge" id="t17400903-41-off239-c243" targOrder="Y" targets="t17400903-41-defend310 t17400903-41-off239 t17400903-41-verdict241"></join>
+         
+               <p>410. 
+               
+                  <persName id="t17400903-41-defend310" type="defendantName">
+                     William 
+                     Watson 
+                  <interp inst="t17400903-41-defend310" type="surname" value="Watson"></interp>
+                     <interp inst="t17400903-41-defend310" type="given" value="William"></interp>
+                     <interp inst="t17400903-41-defend310" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17400903-41-off239" type="offenceDescription">
+                     <interp inst="t17400903-41-off239" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400903-41-off239" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Bushel and a Half of Coals, value 15 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17400903-41-victim312" type="victimName">
+                     John 
+                     Williams 
+                  <interp inst="t17400903-41-victim312" type="surname" value="Williams"></interp>
+                     <interp inst="t17400903-41-victim312" type="given" value="John"></interp>
+                     <interp inst="t17400903-41-victim312" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400903-41-off239 t17400903-41-victim312"></join>
+                  </persName>
+                
+            , <rs id="t17400903-41-cd240" type="crimeDate">Aug. 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400903-41-off239 t17400903-41-cd240"></join>. <rs id="t17400903-41-verdict241" type="verdictDescription">
+                     <interp inst="t17400903-41-verdict241" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

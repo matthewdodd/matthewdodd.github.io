@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640728-61">
+               <interp inst="t17640728-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640728-61" type="year" value="1764"></interp>
+               <interp inst="t17640728-61" type="uri" value="sessionsPapers/17640728"></interp>
+               <interp inst="t17640728-61" type="date" value="17640728"></interp>
+               <join result="criminalCharge" id="t17640728-61-off302-c441" targOrder="Y" targets="t17640728-61-defend574 t17640728-61-off302 t17640728-61-verdict305"></join>
+         
+               <p>464. (L.) 
+               
+                  <persName id="t17640728-61-defend574" type="defendantName">
+                     John 
+                     Webb 
+                  <interp inst="t17640728-61-defend574" type="surname" value="Webb"></interp>
+                     <interp inst="t17640728-61-defend574" type="given" value="John"></interp>
+                     <interp inst="t17640728-61-defend574" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640728-61-off302" type="offenceDescription">
+                     <interp inst="t17640728-61-off302" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640728-61-off302" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a canvas bag, value 1 d. thirty-one guineas, thirty-two half guineas, and two shillings in money numbered
+            </rs>, the property of 
+               
+                  <persName id="t17640728-61-victim576" type="victimName">
+                     Thomas 
+                     Smith 
+                  <interp inst="t17640728-61-victim576" type="surname" value="Smith"></interp>
+                     <interp inst="t17640728-61-victim576" type="given" value="Thomas"></interp>
+                     <interp inst="t17640728-61-victim576" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17640728-61-victim578" type="victimName">
+                     John 
+                     Wright 
+                  <interp inst="t17640728-61-victim578" type="surname" value="Wright"></interp>
+                     <interp inst="t17640728-61-victim578" type="given" value="John"></interp>
+                     <interp inst="t17640728-61-victim578" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17640728-61-victim580" type="victimName">
+                     Henry 
+                     Gray 
+                  <interp inst="t17640728-61-victim580" type="surname" value="Gray"></interp>
+                     <interp inst="t17640728-61-victim580" type="given" value="Henry"></interp>
+                     <interp inst="t17640728-61-victim580" type="gender" value="male"></interp>
+                  </persName>
+                
+            : it was laid also for stealing the said bag and money, the property of persons unknown, <rs id="t17640728-61-cd303" type="crimeDate">July 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640728-61-off302 t17640728-61-cd303"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17640728-61-person581">
+                  Thomas 
+                  Bradford 
+               <interp inst="t17640728-61-person581" type="surname" value="Bradford"></interp>
+                     <interp inst="t17640728-61-person581" type="given" value="Thomas"></interp>
+                     <interp inst="t17640728-61-person581" type="gender" value="male"></interp>
+                  </persName>
+            . Last Friday sevennight I was going up <placeName id="t17640728-61-crimeloc304">White-Lion-alley</placeName>
+                  <interp inst="t17640728-61-crimeloc304" type="placeName" value="White-Lion-alley"></interp>
+                  <interp inst="t17640728-61-crimeloc304" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640728-61-off302 t17640728-61-crimeloc304"></join>; I saw the prisoner and 
+               <persName id="t17640728-61-person582">
+                  Elias 
+                  Ware 
+               <interp inst="t17640728-61-person582" type="surname" value="Ware"></interp>
+                     <interp inst="t17640728-61-person582" type="given" value="Elias"></interp>
+                     <interp inst="t17640728-61-person582" type="gender" value="male"></interp>
+                  </persName>
+            , clerk to Smith, Wright and Gray, struggling together. Ware had hold of the prisoner, and the prisoner was striving to get away; Ware called to me, and begged, for Christ's sake, I would stop that man, for he had robbed him of near 50 l. upon which I ran up and seized him by the collar, and the moment I laid hold on him he flung something from him, down into a cellar opposite to him. I told Ware, whatever he had lost, the man had flung down into that cellar; we took him into the shop, and the man of the house and Mr. Ware went down into the cellar, while I took care of him; they came up, and said they could find nothing: they went down again with a candle, and brought the bag up, and when they had told the money over, there wanted a guinea, upon which Ware went down and brought up two half guineas. The bag was not tied but twisted round at the neck. We took him before my Lord-Mayor, and he was committed. Mr. Ware and his masters are Quakers, and he will not swear.</p>
+               <p>Edward Williams, the master of the cellar, confirmed the account of finding the bag and money.</p>
+               <p>
+                  <rs id="t17640728-61-verdict305" type="verdictDescription">
+                     <interp inst="t17640728-61-verdict305" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640728-61-punish306" type="punishmentDescription">
+                     <interp inst="t17640728-61-punish306" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640728-61-defend574 t17640728-61-punish306"></join>
+               T
+            </rs>.</p>
+            </div1>

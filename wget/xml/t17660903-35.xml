@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660903-35">
+               <interp inst="t17660903-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660903-35" type="year" value="1766"></interp>
+               <interp inst="t17660903-35" type="uri" value="sessionsPapers/17660903"></interp>
+               <interp inst="t17660903-35" type="date" value="17660903"></interp>
+               <join result="criminalCharge" id="t17660903-35-off188-c233" targOrder="Y" targets="t17660903-35-defend304 t17660903-35-off188 t17660903-35-verdict191"></join>
+         
+               <p>432. (M.) 
+               <persName id="t17660903-35-defend304" type="defendantName">
+                  Stephen 
+                  Kingsland 
+               <interp inst="t17660903-35-defend304" type="surname" value="Kingsland"></interp>
+                     <interp inst="t17660903-35-defend304" type="given" value="Stephen"></interp>
+                     <interp inst="t17660903-35-defend304" type="gender" value="male"></interp>
+                     <interp inst="t17660903-35-defend304" type="age" value="ten"></interp>
+                  </persName>
+             was indicted for <rs id="t17660903-35-off188" type="offenceDescription">
+                     <interp inst="t17660903-35-off188" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660903-35-off188" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a black gelding, value 20 s.
+            </rs> the property of 
+               
+                  <persName id="t17660903-35-victim306" type="victimName">
+                     William 
+                     Phillips 
+                  <interp inst="t17660903-35-victim306" type="surname" value="Phillips"></interp>
+                     <interp inst="t17660903-35-victim306" type="given" value="William"></interp>
+                     <interp inst="t17660903-35-victim306" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660903-35-off188 t17660903-35-victim306"></join>
+                  </persName>
+                
+            , <rs id="t17660903-35-cd189" type="crimeDate">Aug. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660903-35-off188 t17660903-35-cd189"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660903-35-person307">
+                  William 
+                  Phillips 
+               <interp inst="t17660903-35-person307" type="surname" value="Phillips"></interp>
+                     <interp inst="t17660903-35-person307" type="given" value="William"></interp>
+                     <interp inst="t17660903-35-person307" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Hoxton; I lost a black gelding out of a field opposite <placeName id="t17660903-35-crimeloc190">Hackney-turnpike</placeName>
+                  <interp inst="t17660903-35-crimeloc190" type="placeName" value="Hackney-turnpike"></interp>
+                  <interp inst="t17660903-35-crimeloc190" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660903-35-off188 t17660903-35-crimeloc190"></join>, on the 23d of August; the horse was stopt by Mr. Tuck at Edmonton the same day.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Phillips. He had been about the fields with the haymakers some time.</p>
+               <p>Q. How old is he?</p>
+               <p>Phillips. His father tells me he is ten years of age; I was afraid of being prosecuted myself, or I had not prosecuted him.</p>
+               <p>
+            
+                  <persName id="t17660903-35-person308">
+                  Thomas 
+                  Tuck 
+               <interp inst="t17660903-35-person308" type="surname" value="Tuck"></interp>
+                     <interp inst="t17660903-35-person308" type="given" value="Thomas"></interp>
+                     <interp inst="t17660903-35-person308" type="gender" value="male"></interp>
+                  </persName>
+            . I am a butcher, and live at Edmonton. On the 23d of August I was in my shop; the boy at the bar came up and said, Butcher, will you buy a horse? I said, what do you ask for him? he said 20 s. I said, you rogue, you have stole this horse; he said, no, I have not; I said, nobody will send you out with this horse to sell; where do you live: he said he lived at Old Ford, and that the horse belonged to Mr. 
+               <persName id="t17660903-35-person309">
+                  Jones
+               <interp inst="t17660903-35-person309" type="given" value="Jones"></interp>
+                     <interp inst="t17660903-35-person309" type="gender" value="male"></interp>
+                  </persName>
+             the callicoe-printer. I asked him his name, he said his name was Reiley. My man was going towards Mr. Jones's, I would have had him went with my man, but he would not; I secured him and the horse, and ordered my man to enquire. When he came back, he said he could hear of no such person as Reiley; I kept him all night, then I sent him in a cart to Old Ford: my man returned, and said the prisoner confessed going along, that he stole the horse, and whose it was; then I sent the prisoner and the horse to the prosecutor: (it was a blind horse.)</p>
+               <p>
+                  <rs id="t17660903-35-verdict191" type="verdictDescription">
+                     <interp inst="t17660903-35-verdict191" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted, on account of his tender age
+            </rs>.</p>
+            </div1>

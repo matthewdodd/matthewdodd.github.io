@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891211-13">
+               <interp inst="t16891211-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891211-13" type="year" value="1689"></interp>
+               <interp inst="t16891211-13" type="uri" value="sessionsPapers/16891211"></interp>
+               <interp inst="t16891211-13" type="date" value="16891211"></interp>
+               <join result="criminalCharge" id="t16891211-13-off53-c56" targOrder="Y" targets="t16891211-13-defend76 t16891211-13-off53 t16891211-13-verdict57"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16891211-13-defend76" type="defendantName">
+                     Mary 
+                     Lamb
+                  <interp inst="t16891211-13-defend76" type="surname" value="Lamb"></interp>
+                     <interp inst="t16891211-13-defend76" type="given" value="Mary"></interp>
+                     <interp inst="t16891211-13-defend76" type="gender" value="female"></interp>
+                  </persName>
+               
+            , Indicted for <rs id="t16891211-13-off53" type="offenceDescription">
+                     <interp inst="t16891211-13-off53" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16891211-13-off53" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Spoon value 9 s.
+            </rs> from 
+               
+                  <persName id="t16891211-13-victim78" type="victimName">
+                     William 
+                     Story
+                  <interp inst="t16891211-13-victim78" type="surname" value="Story"></interp>
+                     <interp inst="t16891211-13-victim78" type="given" value="William"></interp>
+                     <interp inst="t16891211-13-victim78" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16891211-13-off53 t16891211-13-victim78"></join>
+                  </persName>
+               
+             of <placeName id="t16891211-13-crimeloc54">St. Martins in the Fields</placeName>
+                  <interp inst="t16891211-13-crimeloc54" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16891211-13-crimeloc54" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16891211-13-off53 t16891211-13-crimeloc54"></join> on the <rs id="t16891211-13-cd55" type="crimeDate">2d of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16891211-13-off53 t16891211-13-cd55"></join> last. The chief witness against her said, that she was a <rs id="t16891211-13-deflabel56" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16891211-13-defend76 t16891211-13-deflabel56"></join> to him, and that she took the spoon, and broke it in pieces, and offered it to Sale at a Goldsmiths in Holbourn, which was fully sworn against her, altho' she denied it upon her Tryal; yet she was found <rs id="t16891211-13-verdict57" type="verdictDescription">
+                     <interp inst="t16891211-13-verdict57" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16891211-13-verdict57" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16891211-13-punish58" type="punishmentDescription">
+                     <interp inst="t16891211-13-punish58" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16891211-13-punish58" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16891211-13-defend76 t16891211-13-punish58"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

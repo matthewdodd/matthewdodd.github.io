@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-22">
+               <interp inst="t17360115-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-22" type="year" value="1736"></interp>
+               <interp inst="t17360115-22" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-22" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-22-off131-c129" targOrder="Y" targets="t17360115-22-defend184 t17360115-22-off131 t17360115-22-verdict134"></join>
+         
+               <p>26. 
+               
+                  <persName id="t17360115-22-defend184" type="defendantName">
+                     Edward 
+                     Jackson 
+                  <interp inst="t17360115-22-defend184" type="surname" value="Jackson"></interp>
+                     <interp inst="t17360115-22-defend184" type="given" value="Edward"></interp>
+                     <interp inst="t17360115-22-defend184" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-22-defloc130">St. Mary le Strand</placeName>
+                  <interp inst="t17360115-22-defloc130" type="placeName" value="St. Mary le Strand"></interp>
+                  <interp inst="t17360115-22-defloc130" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-22-defend184 t17360115-22-defloc130"></join>, was indicted for <rs id="t17360115-22-off131" type="offenceDescription">
+                     <interp inst="t17360115-22-off131" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-22-off131" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing one Sword with a Brass Hilt, and a Scabbard, value 5 s. from the Person of 
+                     
+                        <persName id="t17360115-22-victim186" type="victimName">
+                           Henry 
+                           Anderson 
+                        <interp inst="t17360115-22-victim186" type="surname" value="Anderson"></interp>
+                        <interp inst="t17360115-22-victim186" type="given" value="Henry"></interp>
+                        <interp inst="t17360115-22-victim186" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360115-22-off131 t17360115-22-victim186"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, the <rs id="t17360115-22-cd132" type="crimeDate">17th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-22-off131 t17360115-22-cd132"></join> last.</p>
+               <p>Henry Anderson. On the 17th of December I was going along the <placeName id="t17360115-22-crimeloc133">Strand</placeName>
+                  <interp inst="t17360115-22-crimeloc133" type="placeName" value="Strand"></interp>
+                  <interp inst="t17360115-22-crimeloc133" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360115-22-off131 t17360115-22-crimeloc133"></join>, and I felt a Push against my Hip, I turned about and saw the Prisoner with my Sword in his Hand: I laid hold of my Sword, and struck him two or three Blows to make him let it go.</p>
+               <p>
+            
+                  <persName id="t17360115-22-person187">
+                  John 
+                  Walker 
+               <interp inst="t17360115-22-person187" type="surname" value="Walker"></interp>
+                     <interp inst="t17360115-22-person187" type="given" value="John"></interp>
+                     <interp inst="t17360115-22-person187" type="gender" value="male"></interp>
+                  </persName>
+             swore to the same Effect; and the Jury found him <rs id="t17360115-22-verdict134" type="verdictDescription">
+                     <interp inst="t17360115-22-verdict134" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-22-verdict134" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360115-22-punish135" type="punishmentDescription">
+                     <interp inst="t17360115-22-punish135" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-22-defend184 t17360115-22-punish135"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

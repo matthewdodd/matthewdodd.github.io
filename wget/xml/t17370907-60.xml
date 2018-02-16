@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370907-60">
+               <interp inst="t17370907-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370907-60" type="year" value="1737"></interp>
+               <interp inst="t17370907-60" type="uri" value="sessionsPapers/17370907"></interp>
+               <interp inst="t17370907-60" type="date" value="17370907"></interp>
+               <join result="criminalCharge" id="t17370907-60-off309-c289" targOrder="Y" targets="t17370907-60-defend408 t17370907-60-off309 t17370907-60-verdict311"></join>
+         
+               <p>65. 
+               
+                  <persName id="t17370907-60-defend408" type="defendantName">
+                     Charles 
+                     Collins 
+                  <interp inst="t17370907-60-defend408" type="surname" value="Collins"></interp>
+                     <interp inst="t17370907-60-defend408" type="given" value="Charles"></interp>
+                     <interp inst="t17370907-60-defend408" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370907-60-defloc308">St. George, Hanover-Square</placeName>
+                  <interp inst="t17370907-60-defloc308" type="placeName" value="St. George, Hanover-Square"></interp>
+                  <interp inst="t17370907-60-defloc308" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370907-60-defend408 t17370907-60-defloc308"></join>, was indicted for <rs id="t17370907-60-off309" type="offenceDescription">
+                     <interp inst="t17370907-60-off309" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370907-60-off309" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 50 lbs. Weight of Lead, fixed to a Stable
+            </rs>, in the Possession of 
+               
+                  <persName id="t17370907-60-victim410" type="victimName">
+                     Abraham 
+                     Castle 
+                  <interp inst="t17370907-60-victim410" type="surname" value="Castle"></interp>
+                     <interp inst="t17370907-60-victim410" type="given" value="Abraham"></interp>
+                     <interp inst="t17370907-60-victim410" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17370907-60-off309 t17370907-60-victim410"></join>
+                  </persName>
+                
+            , <rs id="t17370907-60-cd310" type="crimeDate">August 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370907-60-off309 t17370907-60-cd310"></join>.</p>
+               <p>Abraham Castle. I charge the Prisoner with stealing about 40 lbs. of Lead from my Stable We found him sitting in St. Ann's-Court with a Parcel of it under him, while his Companion Reeves was selling the rest at an Ironmonger's over the Way in Dean-Street. The Prisoner was taken with this Lead in his Possession, and he impeach'd Reeves.</p>
+               <p>
+            
+                  <persName id="t17370907-60-person411">
+                  Daniel 
+                  Bumpstead 
+               <interp inst="t17370907-60-person411" type="surname" value="Bumpstead"></interp>
+                     <interp inst="t17370907-60-person411" type="given" value="Daniel"></interp>
+                     <interp inst="t17370907-60-person411" type="gender" value="male"></interp>
+                  </persName>
+            . On the first of August we miss'd about a third Part of the Lead from the Gutter over my Master's Stables, and about a Week after one Dyos, a Carver, told us he had taken a Man with a Quantity of Lead in his Custody; I went to St. Ann's Round House, and saw the Prisoner; from thence he was carried before Mr. Justice Deveil. The Lead we found all belonged to Mr. Castle, and the Prisoner told us he had it from Reeves, and directed us to Reeves's Cellar, where we might find more. We went accordingly, and found several Pieces more; and upon comparing it with the rest that was left upon the Gutter, it tally'd so exactly, that I am sure nothing but the Knife parted it. The Prisoner was pretty open in his Confession; he owned that he helped Reeves up to the Top of the Stable, and received the Lead from him. <rs id="t17370907-60-verdict311" type="verdictDescription">
+                     <interp inst="t17370907-60-verdict311" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370907-60-punish312" type="punishmentDescription">
+                     <interp inst="t17370907-60-punish312" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370907-60-defend408 t17370907-60-punish312"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

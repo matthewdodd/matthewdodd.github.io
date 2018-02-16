@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17521206-34">
+               <interp inst="t17521206-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17521206-34" type="year" value="1752"></interp>
+               <interp inst="t17521206-34" type="uri" value="sessionsPapers/17521206"></interp>
+               <interp inst="t17521206-34" type="date" value="17521206"></interp>
+               <join result="criminalCharge" id="t17521206-34-off168-c221" targOrder="Y" targets="t17521206-34-defend284 t17521206-34-off168 t17521206-34-verdict172"></join>
+         
+               <p>41. (M.) 
+               
+                  <persName id="t17521206-34-defend284" type="defendantName">
+                     Mary 
+                     Taylor 
+                  <interp inst="t17521206-34-defend284" type="surname" value="Taylor"></interp>
+                     <interp inst="t17521206-34-defend284" type="given" value="Mary"></interp>
+                     <interp inst="t17521206-34-defend284" type="gender" value="female"></interp>
+                  </persName>
+                
+            , spinster, was indicted for <rs id="t17521206-34-off168" type="offenceDescription">
+                     <interp inst="t17521206-34-off168" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17521206-34-off168" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver watch value 10 s. one steel chain value 12 d. one silver seal value 12 d.
+            </rs> the goods of 
+               
+                  <persName id="t17521206-34-victim286" type="victimName">
+                     William 
+                     Hargroves 
+                  <interp inst="t17521206-34-victim286" type="surname" value="Hargroves"></interp>
+                     <interp inst="t17521206-34-victim286" type="given" value="William"></interp>
+                     <interp inst="t17521206-34-victim286" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17521206-34-off168 t17521206-34-victim286"></join>
+                  </persName>
+                
+            , <rs id="t17521206-34-cd169" type="crimeDate">December 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17521206-34-off168 t17521206-34-cd169"></join>. *</p>
+               <p>William Hargroves. I live at the corner of <placeName id="t17521206-34-crimeloc170">Newport-Street in St. Martin's-Lane</placeName>
+                  <interp inst="t17521206-34-crimeloc170" type="placeName" value="Newport-Street in St. Martin's-Lane"></interp>
+                  <interp inst="t17521206-34-crimeloc170" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17521206-34-off168 t17521206-34-crimeloc170"></join>, and am an <rs id="t17521206-34-viclabel171" type="occupation">upholsterer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17521206-34-victim286 t17521206-34-viclabel171"></join>. My watch is a silver one, and was hanging up in my room where I work last Saturday; I was told it was missing about eleven in the morning. The prisoner at the bar worked at the needle for me, though at the same time she was gone away: she left the door a-jar, which gave reason to suspect her. I handed some bills amongst the pawnbrokers,<xptr type="pageFacsimile" doc="175212060020"></xptr> brokers, and sent my boy to see if he could find her, which he did on the Monday following; she immediately confessed she had taken and pawned the watch to Mr. Gunston in Germain Street. I got a constable, and went with her; she asked for the watch, and it was brought out with the chain and seal on it; I found she had had nothing upon it. Produced in court and deposed to.</p>
+               <p>Mr. Gunston. The prisoner brought this watch to me on Saturday last in the morning between nine and ten o'clock. and wanted to borrow three guineas and a half on it; I asked her where she brought it from, and she said from her father in Piccadilly, that he had broke his leg, and if I disputed it she would fetch her mother; she went, but did not return. On the Monday morning I saw an advertisement, but before I could get myself ready to go as directed, the prosecutor came with the prisoner.</p>
+               <p>Prisoner's Defence.</p>
+               <p>My prosecutor offered me three guineas and a half to lie with me; I asked him for the money on the Friday night, and he said he had none, but bid me take the watch and pledge it for three guineas and a half, so I went and the gentleman stopped it.</p>
+               <p>To her Character.</p>
+               <p>Mary M'Gennes. I have known the prisoner two years, but never heard any thing of her but what was very honest.</p>
+               <p>
+            
+                  <persName id="t17521206-34-person287">
+                  Mary 
+                  Jordan 
+               <interp inst="t17521206-34-person287" type="surname" value="Jordan"></interp>
+                     <interp inst="t17521206-34-person287" type="given" value="Mary"></interp>
+                     <interp inst="t17521206-34-person287" type="gender" value="female"></interp>
+                  </persName>
+            . I have known her two years, and she is a very honest young creature.</p>
+               <p>
+                  <rs id="t17521206-34-verdict172" type="verdictDescription">
+                     <interp inst="t17521206-34-verdict172" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17521206-34-verdict172" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17521206-34-punish173" type="punishmentDescription">
+                     <interp inst="t17521206-34-punish173" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17521206-34-punish173" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17521206-34-defend284 t17521206-34-punish173"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

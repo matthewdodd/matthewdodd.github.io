@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-11">
+               <interp inst="t16870223-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-11" type="year" value="1687"></interp>
+               <interp inst="t16870223-11" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-11" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-11-off52-c54" targOrder="Y" targets="t16870223-11-defend75 t16870223-11-off52 t16870223-11-verdict54"></join>
+               <join result="criminalCharge" id="t16870223-11-off52-c55" targOrder="Y" targets="t16870223-11-defend77 t16870223-11-off52 t16870223-11-verdict55"></join>
+         
+               <p>
+            
+                  <persName id="t16870223-11-defend75" type="defendantName">
+                  
+                     
+                           <persName id="t16870223-11-defend77" type="defendantName">
+                              John 
+                              English
+                           <interp inst="t16870223-11-defend77" type="surname" value="English"></interp>
+                        <interp inst="t16870223-11-defend77" type="given" value="John"></interp>
+                        <interp inst="t16870223-11-defend77" type="gender" value="male"></interp>
+                     </persName>
+                        
+                     , and Jane his <rs id="t16870223-11-deflabel51" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870223-11-defend75 t16870223-11-deflabel51"></join>
+                     <interp inst="t16870223-11-defend75" type="surname" value="English"></interp>
+                     <interp inst="t16870223-11-defend75" type="given" value="Jane"></interp>
+                     <interp inst="t16870223-11-defend75" type="gender" value="female"></interp>
+                  </persName>
+            , were Tryed for <rs id="t16870223-11-off52" type="offenceDescription">
+                     <interp inst="t16870223-11-off52" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16870223-11-off52" type="offenceSubcategory" value="coiningOffences"></interp>
+               Clipping Ten Half Crowns, and Twenty Shillings, of King Charles the First
+            </rs>, in the Parish of <placeName id="t16870223-11-crimeloc53">Stepney</placeName>
+                  <interp inst="t16870223-11-crimeloc53" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16870223-11-crimeloc53" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870223-11-off52 t16870223-11-crimeloc53"></join>. Against the latter of which, it appearing that she had been used to Rub Clip'd Silver, and to put away large Money to one 
+               <persName id="t16870223-11-person78">
+                  Elizabeth 
+                  Mathews
+               <interp inst="t16870223-11-person78" type="surname" value="Mathews"></interp>
+                     <interp inst="t16870223-11-person78" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16870223-11-person78" type="gender" value="female"></interp>
+                  </persName>
+            , a notorious Clipper now fled, for 3 s. advantage in the Pound, and that she had been seen to carry her money in order to have it Clip'd, besides signs and tokens of Clipping, and Clip'd money found about her, she was found <rs id="t16870223-11-verdict54" type="verdictDescription">
+                     <interp inst="t16870223-11-verdict54" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, but the former, viz. 
+               <persName id="t16870223-11-person79">
+                  John 
+                  English
+               <interp inst="t16870223-11-person79" type="surname" value="English"></interp>
+                     <interp inst="t16870223-11-person79" type="given" value="John"></interp>
+                     <interp inst="t16870223-11-person79" type="gender" value="male"></interp>
+                  </persName>
+             her Husband was <rs id="t16870223-11-verdict55" type="verdictDescription">
+                     <interp inst="t16870223-11-verdict55" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16870223-11-punish56" type="punishmentDescription">
+                     <interp inst="t16870223-11-punish56" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16870223-11-punish56" type="punishmentSubcategory" value="burning"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-11-defend75 t16870223-11-punish56"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

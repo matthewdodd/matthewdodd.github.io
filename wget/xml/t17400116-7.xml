@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400116-7">
+               <interp inst="t17400116-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400116-7" type="year" value="1740"></interp>
+               <interp inst="t17400116-7" type="uri" value="sessionsPapers/17400116"></interp>
+               <interp inst="t17400116-7" type="date" value="17400116"></interp>
+               <join result="criminalCharge" id="t17400116-7-off40-c75" targOrder="Y" targets="t17400116-7-defend92 t17400116-7-off40 t17400116-7-verdict42"></join>
+         
+               <p>88. + 
+               
+                  <persName id="t17400116-7-defend92" type="defendantName">
+                     Robert 
+                     Onion 
+                  <interp inst="t17400116-7-defend92" type="surname" value="Onion"></interp>
+                     <interp inst="t17400116-7-defend92" type="given" value="Robert"></interp>
+                     <interp inst="t17400116-7-defend92" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for that he, on the <rs id="t17400116-7-cd38" type="crimeDate">15th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400116-7-off40 t17400116-7-cd38"></join>, in the Parish of <placeName id="t17400116-7-defloc39">St Gregory by St Paul's</placeName>
+                  <interp inst="t17400116-7-defloc39" type="placeName" value="St Gregory by St Paul's"></interp>
+                  <interp inst="t17400116-7-defloc39" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400116-7-defend92 t17400116-7-defloc39"></join>, <rs id="t17400116-7-off40" type="offenceDescription">
+                     <interp inst="t17400116-7-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400116-7-off40" type="offenceSubcategory" value="theftFromPlace"></interp>
+               8 brass Nossels, together with 8 brass Cups, and 8 brass Bosses, val. 25 s. and a brass Arm of a Sconce, val. 5 s. the Goods of the 
+                     <persName id="t17400116-7-victim93" type="victimName">
+                        Dean
+                         and Chapter of St Paul's
+                     <interp inst="t17400116-7-victim93" type="surname" value="and Chapter of St Paul's"></interp>
+                        <interp inst="t17400116-7-victim93" type="given" value="Dean"></interp>
+                        <interp inst="t17400116-7-victim93" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17400116-7-off40 t17400116-7-victim93"></join>
+                     </persName>
+                  , in the <placeName id="t17400116-7-crimeloc41">Cathedral Church of St Paul's</placeName>
+                     <interp inst="t17400116-7-crimeloc41" type="placeName" value="Cathedral Church of St Paul's"></interp>
+                     <interp inst="t17400116-7-crimeloc41" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17400116-7-off40 t17400116-7-crimeloc41"></join>, feloniously and sacrilegiously * did steal, take, &amp;c.
+            </rs>
+               </p>
+               <p> By 25 H. VIII. c. 1. and 1 Edw. VI. c. 12. Persons convicted of feloniously taking of Goods out of any Church, are not to be admitted to the Benefit of Clergy.</p>
+               <p>
+            
+                  <persName id="t17400116-7-person94">
+                  John 
+                  Rowden 
+               <interp inst="t17400116-7-person94" type="surname" value="Rowden"></interp>
+                     <interp inst="t17400116-7-person94" type="given" value="John"></interp>
+                     <interp inst="t17400116-7-person94" type="gender" value="male"></interp>
+                  </persName>
+            . I belong to the Cathedral Church of St Paul. I am Sub-Sachristan and Library-Keeper. On the 15th of December in the Morning, when I went to the Church, I missed the Nossels and the Brass Arms from the Branches. Eight Nossels, 8 Cups and Bosses, and a Brass Arm were gone. I asked our Watchman what was become of them? He could not tell; so I went away to Mr Giles, our Founder, and desired him to make Enquiry after them. About an Hour afterward, I heard some of the Things were found, and being produced before my Lord Mayor, I knew them and owned them; and as the Prisoner was carrying to Goal, I asked him for what was wanting? He told me he had sold some of the Brass at the Sign of the Bell in Long-Lane. I went thither, but the Man of the House denied he had bought any such Thing, upon which we carried the Prisoner to him, and then he owned he had bought the Brass of him, and gave us what was wanting.</p>
+               <p>Prisoner. I did not take them; they were given me to sell.</p>
+               <p>Mr Rowden. He made no such Pretence when we took him; but he acknowledged he concealed himself in the Church all Night, and that he went to work in the Night, and took the Things, which he carried out in the Morning. The Cups screw very tight into the Arms; and one of the Arms he broke off. These are the Goods, and they belong to the Dean and Chapter. <rs id="t17400116-7-verdict42" type="verdictDescription">
+                     <interp inst="t17400116-7-verdict42" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17400116-7-punish43" type="punishmentDescription">
+                     <interp inst="t17400116-7-punish43" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400116-7-defend92 t17400116-7-punish43"></join>
+               Death
+            </rs>.</p>
+            </div1>

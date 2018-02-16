@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660219-8">
+               <interp inst="t17660219-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660219-8" type="year" value="1766"></interp>
+               <interp inst="t17660219-8" type="uri" value="sessionsPapers/17660219"></interp>
+               <interp inst="t17660219-8" type="date" value="17660219"></interp>
+               <join result="criminalCharge" id="t17660219-8-off40-c68" targOrder="Y" targets="t17660219-8-defend87 t17660219-8-off40 t17660219-8-verdict42"></join>
+         
+               <p>120. 
+               
+                  <persName id="t17660219-8-defend87" type="defendantName">
+                     Owen 
+                     Cheslyn 
+                  <interp inst="t17660219-8-defend87" type="surname" value="Cheslyn"></interp>
+                     <interp inst="t17660219-8-defend87" type="given" value="Owen"></interp>
+                     <interp inst="t17660219-8-defend87" type="gender" value="male"></interp>
+                     <interp inst="t17660219-8-defend87" type="age" value="10"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660219-8-off40" type="offenceDescription">
+                     <interp inst="t17660219-8-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660219-8-off40" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a metal watch, value 21 s. the property of 
+                     
+                        <persName id="t17660219-8-victim89" type="victimName">
+                           James 
+                           Bargrove 
+                        <interp inst="t17660219-8-victim89" type="surname" value="Bargrove"></interp>
+                        <interp inst="t17660219-8-victim89" type="given" value="James"></interp>
+                        <interp inst="t17660219-8-victim89" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17660219-8-off40 t17660219-8-victim89"></join>
+                     </persName>
+                      
+                  , privately in the shop of the said James
+            </rs>, <rs id="t17660219-8-cd41" type="crimeDate">December 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660219-8-off40 t17660219-8-cd41"></join>.</p>
+               <p>He was <rs id="t17660219-8-verdict42" type="verdictDescription">
+                     <interp inst="t17660219-8-verdict42" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> without going into the evidence, on account of his youth, being but 10 years of age.</p>
+            </div1>

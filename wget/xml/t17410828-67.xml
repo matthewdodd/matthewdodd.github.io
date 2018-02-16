@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410828-67">
+               <interp inst="t17410828-67" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410828-67" type="year" value="1741"></interp>
+               <interp inst="t17410828-67" type="uri" value="sessionsPapers/17410828"></interp>
+               <interp inst="t17410828-67" type="date" value="17410828"></interp>
+               <join result="criminalCharge" id="t17410828-67-off320-c324" targOrder="Y" targets="t17410828-67-defend474 t17410828-67-off320 t17410828-67-verdict323"></join>
+         
+               <p>82. 
+               <persName id="t17410828-67-defend474" type="defendantName">
+                  Mary
+                   (the 
+                  <rs id="t17410828-67-deflabel318" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17410828-67-defend474 t17410828-67-deflabel318"></join> of Samuel) Stow<interp inst="t17410828-67-defend474" type="surname" value="(the"></interp>
+                     <interp inst="t17410828-67-defend474" type="given" value="Mary"></interp>
+                     <interp inst="t17410828-67-defend474" type="gender" value="female"></interp>
+                  </persName>
+             of <placeName id="t17410828-67-defloc319">St. Botolph Aldersgate</placeName>
+                  <interp inst="t17410828-67-defloc319" type="placeName" value="St. Botolph Aldersgate"></interp>
+                  <interp inst="t17410828-67-defloc319" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17410828-67-defend474 t17410828-67-defloc319"></join> was indicted for <rs id="t17410828-67-off320" type="offenceDescription">
+                     <interp inst="t17410828-67-off320" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410828-67-off320" type="offenceSubcategory" value="other"></interp>
+               stealing two satin gowns, a camlet gown, a pair of cloth shoes, and a cambrick mob
+            </rs>, the goods of 
+               
+                  <persName id="t17410828-67-victim476" type="victimName">
+                     Joshua 
+                     Jordan 
+                  <interp inst="t17410828-67-victim476" type="surname" value="Jordan"></interp>
+                     <interp inst="t17410828-67-victim476" type="given" value="Joshua"></interp>
+                     <interp inst="t17410828-67-victim476" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17410828-67-off320 t17410828-67-victim476"></join>
+                  </persName>
+                
+            , <rs id="t17410828-67-cd321" type="crimeDate">July 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410828-67-off320 t17410828-67-cd321"></join>.</p>
+               <p>Isabella Jordan. About three weeks ago the Prisoner stole three gowns, a pair of shoes, and a cap out of my lodgings in <placeName id="t17410828-67-crimeloc322">Goswel street</placeName>
+                  <interp inst="t17410828-67-crimeloc322" type="placeName" value="Goswel street"></interp>
+                  <interp inst="t17410828-67-crimeloc322" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17410828-67-off320 t17410828-67-crimeloc322"></join>. I got her taken up, and she confess'd the fact before Mr. Hubbard, the next witness, and said nothing in excuse of herself.</p>
+               <p>
+            
+                  <persName id="t17410828-67-person477">
+                  John 
+                  Hubbard 
+               <interp inst="t17410828-67-person477" type="surname" value="Hubbard"></interp>
+                     <interp inst="t17410828-67-person477" type="given" value="John"></interp>
+                     <interp inst="t17410828-67-person477" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner own'd in my presence that she had taken this woman's things and carried them to pawn and I did not heat her make any excuse at all.</p>
+
+               <p>Prisoner. I gave her a shilling in part of payment at Mr. Hubbard's room, and another shilling she took out of my mouth by force. She took me to three Justices, but none of them being in the way, she discharg'd me, and we drank together like friends, and the next morning because I did not come to work she took me up again.</p>
+               <p>Hubbard. Mrs. Jordan could not light of a Justice that day, and as for satisfaction, there was none made that I know of.</p>
+               <p>Prisoner. It was done in Hubbard's room, and he and his wife were both present.</p>
+               <p>Hubbard. The Prisoner did drop a shilling out of her mouth, and Mrs. Jordan took it up.</p>
+               <p>
+            
+                  <persName id="t17410828-67-person478">
+                  Ann 
+                  Hartly 
+               <interp inst="t17410828-67-person478" type="surname" value="Hartly"></interp>
+                     <interp inst="t17410828-67-person478" type="given" value="Ann"></interp>
+                     <interp inst="t17410828-67-person478" type="gender" value="female"></interp>
+                  </persName>
+            . I was present all the time that the pawn-broker was there, and the Prisoner dropp'd a shilling out of her mouth and the pawn-broker took it up, but it was not in part of payment or any thing like it.</p>
+               <p>Prisoner. I have no witnesses here, for Mrs. Jordan told me she would not hurt a hair of my head if I would confess where the things were pawn'd. <rs id="t17410828-67-verdict323" type="verdictDescription">
+                     <interp inst="t17410828-67-verdict323" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

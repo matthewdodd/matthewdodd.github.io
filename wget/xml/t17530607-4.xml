@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530607-4">
+               <interp inst="t17530607-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530607-4" type="year" value="1753"></interp>
+               <interp inst="t17530607-4" type="uri" value="sessionsPapers/17530607"></interp>
+               <interp inst="t17530607-4" type="date" value="17530607"></interp>
+               <join result="criminalCharge" id="t17530607-4-off16-c42" targOrder="Y" targets="t17530607-4-defend47 t17530607-4-off16 t17530607-4-verdict19"></join>
+         
+               <p>262. (M.) 
+               <persName id="t17530607-4-defend47" type="defendantName">
+                  Martha, the <rs id="t17530607-4-deflabel15" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17530607-4-defend47 t17530607-4-deflabel15"></join> of 
+                     <persName id="t17530607-4-person48">
+                        John 
+                        Hoadman 
+                     <interp inst="t17530607-4-person48" type="surname" value="Hoadman"></interp>
+                        <interp inst="t17530607-4-person48" type="given" value="John"></interp>
+                        <interp inst="t17530607-4-person48" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17530607-4-defend47" type="surname" value="Hoadman"></interp>
+                     <interp inst="t17530607-4-defend47" type="given" value="Martha"></interp>
+                     <interp inst="t17530607-4-defend47" type="gender" value="female"></interp>
+                  </persName>
+             was indicted for <rs id="t17530607-4-off16" type="offenceDescription">
+                     <interp inst="t17530607-4-off16" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530607-4-off16" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a copper stew pan, value 2 s. one pair of worsted breeches, value 6 s. two stone flower pots, and one silver knee bucks, value 1 s.
+            </rs> the goods of 
+               
+                  <persName id="t17530607-4-victim50" type="victimName">
+                     William 
+                     Shaw 
+                  <interp inst="t17530607-4-victim50" type="surname" value="Shaw"></interp>
+                     <interp inst="t17530607-4-victim50" type="given" value="William"></interp>
+                     <interp inst="t17530607-4-victim50" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17530607-4-off16 t17530607-4-victim50"></join>
+                  </persName>
+                
+            . <rs id="t17530607-4-cd17" type="crimeDate">May 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530607-4-off16 t17530607-4-cd17"></join> ++.</p>
+               <p>
+            
+                  <persName id="t17530607-4-person51">
+                  William 
+                  Shaw 
+               <interp inst="t17530607-4-person51" type="surname" value="Shaw"></interp>
+                     <interp inst="t17530607-4-person51" type="given" value="William"></interp>
+                     <interp inst="t17530607-4-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17530607-4-crimeloc18">Swallow-street</placeName>
+                  <interp inst="t17530607-4-crimeloc18" type="placeName" value="Swallow-street"></interp>
+                  <interp inst="t17530607-4-crimeloc18" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530607-4-off16 t17530607-4-crimeloc18"></join>. On the 22d day of May I went down into my kitchen, and saw the prisoner there, she hid herself in the closet; it was between 9 and 10 o'clock, I asked who was there, she gave me no answer, I stept to her, and said, What do you do here? She said she was waiting for a person in the house, I stept up stairs, and desired a young man to prevent any body from going out of coors, then I went and enquired of my wife whether there was any body waiting for her below, she told me no, I came down stairs again, and met her coming out of the kitchen, I called down John Green, and sent for the constable, and stopt her till he came; she had two handkerchiefs, with things in them, when the constable came, he opened it, I was present; there was the things mentioned in the indictment; on searching her further he found the stew pan tied under her petticoats, I charged the constable with her, he took her before the justice, she had very little to say for herself, she own'd she took the things.</p>
+               <p>Q. Were all the things your own?</p>
+               <p>
+            
+                  <persName id="t17530607-4-person52">
+                  William 
+                  Shaw 
+               <interp inst="t17530607-4-person52" type="surname" value="Shaw"></interp>
+                     <interp inst="t17530607-4-person52" type="given" value="William"></interp>
+                     <interp inst="t17530607-4-person52" type="gender" value="male"></interp>
+                  </persName>
+            . All the things I have mentioned were; but there were other things in the handkerchief, the property of persons unknown.</p>
+               <p>John Green. I was at work above stairs, my master called me down, I saw a woman upon the stairs, there were two bundles upon the top stair, tied up in handkerchiefs; my master sent me for the constable; when he came I saw him open the bundles, there were the things before mentioned, except the stew pan which dropt from under her petticoats: I went with them before the justice, she made but very little defence, I don't know that she said any thing at all.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I never saw these gentlemen in my life before; I know nothing at all about the goods.</p>
+               <p>
+                  <rs id="t17530607-4-verdict19" type="verdictDescription">
+                     <interp inst="t17530607-4-verdict19" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17530607-4-punish20" type="punishmentDescription">
+                     <interp inst="t17530607-4-punish20" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17530607-4-defend47 t17530607-4-punish20"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

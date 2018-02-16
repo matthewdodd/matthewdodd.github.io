@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500912-85">
+               <interp inst="t17500912-85" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500912-85" type="year" value="1750"></interp>
+               <interp inst="t17500912-85" type="uri" value="sessionsPapers/17500912"></interp>
+               <interp inst="t17500912-85" type="date" value="17500912"></interp>
+               <join result="criminalCharge" id="t17500912-85-off362-c483" targOrder="Y" targets="t17500912-85-defend659 t17500912-85-off362 t17500912-85-verdict365"></join>
+         
+               <p>611. 
+               
+                  <persName id="t17500912-85-defend659" type="defendantName">
+                     Catharine 
+                     Vizey 
+                  <interp inst="t17500912-85-defend659" type="surname" value="Vizey"></interp>
+                     <interp inst="t17500912-85-defend659" type="given" value="Catharine"></interp>
+                     <interp inst="t17500912-85-defend659" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17500912-85-deflabel361" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500912-85-defend659 t17500912-85-deflabel361"></join>, was indicted for <rs id="t17500912-85-off362" type="offenceDescription">
+                     <interp inst="t17500912-85-off362" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500912-85-off362" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking and entering the dwelling-house of 
+                     
+                        <persName id="t17500912-85-victim661" type="victimName">
+                           Thomas 
+                           Cox 
+                        <interp inst="t17500912-85-victim661" type="surname" value="Cox"></interp>
+                        <interp inst="t17500912-85-victim661" type="given" value="Thomas"></interp>
+                        <interp inst="t17500912-85-victim661" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500912-85-off362 t17500912-85-victim661"></join>
+                     </persName>
+                     
+                  , and stealing out thence three shirts, one shift, one linen handkerchief
+            </rs>, the goods of the said Thomas, <rs id="t17500912-85-cd363" type="crimeDate">July 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500912-85-off362 t17500912-85-cd363"></join>.</p>
+               <p>Guilty 10.</p>
+               <p>
+            
+                  <persName id="t17500912-85-person662">
+                  Elizabeth 
+                  Cox 
+               <interp inst="t17500912-85-person662" type="surname" value="Cox"></interp>
+                     <interp inst="t17500912-85-person662" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500912-85-person662" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the prosecutor. We live in the <placeName id="t17500912-85-crimeloc364">Broad-way, Westminster</placeName>
+                  <interp inst="t17500912-85-crimeloc364" type="placeName" value="Broad-way, Westminster"></interp>
+                  <interp inst="t17500912-85-crimeloc364" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500912-85-off362 t17500912-85-crimeloc364"></join>. I went to bed on Saturday night betwixt nine and ten o'clock, about six the next morning I got up; the window was broken, and the things mentioned in the indictment were gone, which before were lying in the window. I had not fastened the shutter overnight.</p>
+               <p>Q. Was this a front window?</p>
+               <p>E. Cox. It was in a publick back yard. She took the opportunity to change her shift, and left an old dirty rag of a shift in the yard. She had liv'd in the yard some time before. She was but that night come from out of trouble. The old shift was known to be the prisoner's, by a little girl who used to lye with her. A neighbour informed me, about ten o'clock at night, she saw the prisoner sitting at the corner of Queen's-square, at a gentleman's door. I went and ask'd her to let me see what sort of a shift she had on, and took her by the arm, and carried her into a neighbour's house, and I described the shift to my neighbour before I searched the prisoner. I found it to be my shift. She was carried to the Round-house, there she pull'd mine off and put her rag on again. It was produced in court, and she swore to it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175009120038"></xptr>Prisoner's defence.</p>
+               <p>I bought that shift in King-street, Westminster. There was cloth enough to make two; the other I have now on my back. The two cost six shillings, and she took that shift from my back.</p>
+               <p>
+                  <rs id="t17500912-85-verdict365" type="verdictDescription">
+                     <interp inst="t17500912-85-verdict365" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500912-85-verdict365" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500912-85-punish366" type="punishmentDescription">
+                     <interp inst="t17500912-85-punish366" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500912-85-defend659 t17500912-85-punish366"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540424-65">
+               <interp inst="t17540424-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540424-65" type="year" value="1754"></interp>
+               <interp inst="t17540424-65" type="uri" value="sessionsPapers/17540424"></interp>
+               <interp inst="t17540424-65" type="date" value="17540424"></interp>
+               <join result="criminalCharge" id="t17540424-65-off335-c573" targOrder="Y" targets="t17540424-65-defend690 t17540424-65-off335 t17540424-65-verdict339"></join>
+         
+               <p>204. (L.) 
+               <persName id="t17540424-65-defend690" type="defendantName">
+                  
+                     Mary 
+                     Walker 
+                  , <rs id="t17540424-65-deflabel334" type="occupation">spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17540424-65-defend690 t17540424-65-deflabel334"></join>, otherwise <rs id="t17540424-65-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17540424-65-defend690 t17540424-65-alias-8"></join>Mary the wife of 
+                        <persName id="t17540424-65-person692">
+                           Thomas 
+                           Sparrow 
+                        <interp inst="t17540424-65-person692" type="surname" value="Sparrow"></interp>
+                           <interp inst="t17540424-65-person692" type="given" value="Thomas"></interp>
+                           <interp inst="t17540424-65-person692" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <interp inst="t17540424-65-defend690" type="surname" value="Walker Sparrow"></interp>
+                     <interp inst="t17540424-65-defend690" type="given" value="Mary Thomas"></interp>
+                     <interp inst="t17540424-65-defend690" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17540424-65-off335" type="offenceDescription">
+                     <interp inst="t17540424-65-off335" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540424-65-off335" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five pewter-plates, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17540424-65-victim694" type="victimName">
+                     William 
+                     Clark 
+                  <interp inst="t17540424-65-victim694" type="surname" value="Clark"></interp>
+                     <interp inst="t17540424-65-victim694" type="given" value="William"></interp>
+                     <interp inst="t17540424-65-victim694" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540424-65-off335 t17540424-65-victim694"></join>
+                  </persName>
+                
+            . <rs id="t17540424-65-cd336" type="crimeDate">Feb. 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540424-65-off335 t17540424-65-cd336"></join>. ++.</p>
+               <p>
+            
+                  <persName id="t17540424-65-person695">
+                  William 
+                  Clark 
+               <interp inst="t17540424-65-person695" type="surname" value="Clark"></interp>
+                     <interp inst="t17540424-65-person695" type="given" value="William"></interp>
+                     <interp inst="t17540424-65-person695" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17540424-65-viclabel337" type="occupation">coachmaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17540424-65-victim694 t17540424-65-viclabel337"></join>, and live in the <placeName id="t17540424-65-crimeloc338">Old-Bailey</placeName>
+                  <interp inst="t17540424-65-crimeloc338" type="placeName" value="Old-Bailey"></interp>
+                  <interp inst="t17540424-65-crimeloc338" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540424-65-off335 t17540424-65-crimeloc338"></join>: I was going out on Sunday morning, the 3d of Feb. I had got about an hundred yards, I saw my door open; I came back again and found the prisoner behind the door; I asked her what she did there? she said, she came in there to warm herself; says I, there is no fire here, how came you to come here? I asked her what she had in her<xptr type="pageFacsimile" doc="175404240054"></xptr> pocket, she said, it was a plate she had borrowed at the two fighting-cocks, in Fleet-Lane.</p>
+               <p>Q. Was that plate your's?</p>
+               <p>Clark. No, I believe it belonged to the publick house down Fleet-lane. I said, What have you got in your apron? She shivered and said she had got nothing, and that she folded up her apron only to keep her warm. I said, Let me see; she then said she had got only two or three plates, but when I look'd there were five, to three of which I can swear. I asked her what was the reason she took them, and she said she was almost starved, and did not know how to get a livelihood unless by these means. There was a man coming by, whom I desired to take care of her, and went myself for a constable.</p>
+               <p>The prisoner had nothing to say, nor any witnesses to call.</p>
+               <p>
+                  <rs id="t17540424-65-verdict339" type="verdictDescription">
+                     <interp inst="t17540424-65-verdict339" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540424-65-punish340" type="punishmentDescription">
+                     <interp inst="t17540424-65-punish340" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540424-65-defend690 t17540424-65-punish340"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

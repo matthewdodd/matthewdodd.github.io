@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520408-26">
+               <interp inst="t17520408-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520408-26" type="year" value="1752"></interp>
+               <interp inst="t17520408-26" type="uri" value="sessionsPapers/17520408"></interp>
+               <interp inst="t17520408-26" type="date" value="17520408"></interp>
+               <join result="criminalCharge" id="t17520408-26-off143-c158" targOrder="Y" targets="t17520408-26-defend207 t17520408-26-off143 t17520408-26-verdict147"></join>
+         
+               <p>236. (L.) 
+               
+                  <persName id="t17520408-26-defend207" type="defendantName">
+                     Rebecca 
+                     Oldridge 
+                  <interp inst="t17520408-26-defend207" type="surname" value="Oldridge"></interp>
+                     <interp inst="t17520408-26-defend207" type="given" value="Rebecca"></interp>
+                     <interp inst="t17520408-26-defend207" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17520408-26-deflabel142" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520408-26-defend207 t17520408-26-deflabel142"></join>, was indicted for <rs id="t17520408-26-off143" type="offenceDescription">
+                     <interp inst="t17520408-26-off143" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520408-26-off143" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a copper stew-pan. value 4 s.
+            </rs> the goods of 
+               
+                  <persName id="t17520408-26-victim209" type="victimName">
+                     John 
+                     Parks 
+                  <interp inst="t17520408-26-victim209" type="surname" value="Parks"></interp>
+                     <interp inst="t17520408-26-victim209" type="given" value="John"></interp>
+                     <interp inst="t17520408-26-victim209" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520408-26-off143 t17520408-26-victim209"></join>
+                  </persName>
+                
+            , <rs id="t17520408-26-cd144" type="crimeDate">March 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520408-26-off143 t17520408-26-cd144"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520408-26-person210">
+                  John 
+                  Parks 
+               <interp inst="t17520408-26-person210" type="surname" value="Parks"></interp>
+                     <interp inst="t17520408-26-person210" type="given" value="John"></interp>
+                     <interp inst="t17520408-26-person210" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17520408-26-viclabel145" type="occupation">keeps the <placeName id="t17520408-26-crimeloc146">Baptist-head in the Old-Baily</placeName>
+                     <interp inst="t17520408-26-crimeloc146" type="placeName" value="Baptist-head in the Old-Baily"></interp>
+                     <interp inst="t17520408-26-crimeloc146" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17520408-26-off143 t17520408-26-crimeloc146"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520408-26-victim209 t17520408-26-viclabel145"></join>; he missed the pan after having used it an hour before, from out of the kitchen ; on the ninth the prisoner went with the pan to William Thatcher, about five doors off the prosecutor's house to sell it ; Mr. Thatcher was drinking at the Baptist-head, Thatcher's wife went to fetch her husband, and the prisoner followed her, and stood at the door; the prosecutor owned the pan, and took the prisoner into custody.  <rs id="t17520408-26-verdict147" type="verdictDescription">
+                     <interp inst="t17520408-26-verdict147" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

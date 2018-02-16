@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-37">
+               <interp inst="t16910422-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-37" type="year" value="1691"></interp>
+               <interp inst="t16910422-37" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-37" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-37-off181-c134" targOrder="Y" targets="t16910422-37-defend134 t16910422-37-off181 t16910422-37-verdict185"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-37-defend134" type="defendantName">
+                  Alice 
+                  Chamberline
+               <interp inst="t16910422-37-defend134" type="surname" value="Chamberline"></interp>
+                     <interp inst="t16910422-37-defend134" type="given" value="Alice"></interp>
+                     <interp inst="t16910422-37-defend134" type="gender" value="female"></interp>
+                  </persName>
+            , was Indicted and Tryed for <rs id="t16910422-37-off181" type="offenceDescription">
+                     <interp inst="t16910422-37-off181" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910422-37-off181" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910422-37-victim135" type="victimName">
+                        Luke 
+                        Page
+                     <interp inst="t16910422-37-victim135" type="surname" value="Page"></interp>
+                        <interp inst="t16910422-37-victim135" type="given" value="Luke"></interp>
+                        <interp inst="t16910422-37-victim135" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910422-37-off181 t16910422-37-victim135"></join>
+                     </persName>
+                  , of <placeName id="t16910422-37-crimeloc182">St. Buttolphs Aldgate</placeName>
+                     <interp inst="t16910422-37-crimeloc182" type="placeName" value="St. Buttolphs Aldgate"></interp>
+                     <interp inst="t16910422-37-crimeloc182" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910422-37-off181 t16910422-37-crimeloc182"></join>, on the <rs id="t16910422-37-cd183" type="crimeDate">22d of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910422-37-off181 t16910422-37-cd183"></join> last, one Amber Necklace, value 15 s. a Laced Crevat, value 6 s. a Tippet, and several other Goods
+            </rs>. The Evidence swore, That the Prisoner was a <rs id="t16910422-37-deflabel184" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910422-37-defend134 t16910422-37-deflabel184"></join> to the Prosecutors Wife, and went away with the things in a Morning before her Mistress was up, which she confest before the Justice, viz. That she stole the Amber Necklace and a Shift, which she sold upon the Road in the Country, about fifty Mile off of London, she was found <rs id="t16910422-37-verdict185" type="verdictDescription">
+                     <interp inst="t16910422-37-verdict185" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910422-37-verdict185" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16910422-37-punish186" type="punishmentDescription">
+                     <interp inst="t16910422-37-punish186" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16910422-37-punish186" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910422-37-defend134 t16910422-37-punish186"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

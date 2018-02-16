@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-23">
+               <interp inst="t16910422-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-23" type="year" value="1691"></interp>
+               <interp inst="t16910422-23" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-23" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-23-off119-c99" targOrder="Y" targets="t16910422-23-defend99 t16910422-23-off119 t16910422-23-verdict123"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-23-defend99" type="defendantName">
+                  Mary 
+                  Pikeman
+               <interp inst="t16910422-23-defend99" type="surname" value="Pikeman"></interp>
+                     <interp inst="t16910422-23-defend99" type="given" value="Mary"></interp>
+                     <interp inst="t16910422-23-defend99" type="gender" value="female"></interp>
+                  </persName>
+            , was tryed for <rs id="t16910422-23-off119" type="offenceDescription">
+                     <interp inst="t16910422-23-off119" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910422-23-off119" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing privately a Watch from 
+                     <persName id="t16910422-23-victim100" type="victimName">
+                        Anne 
+                        Knowles
+                     <interp inst="t16910422-23-victim100" type="surname" value="Knowles"></interp>
+                        <interp inst="t16910422-23-victim100" type="given" value="Anne"></interp>
+                        <interp inst="t16910422-23-victim100" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910422-23-off119 t16910422-23-victim100"></join>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t16910422-23-viclabel120" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910422-23-victim100 t16910422-23-viclabel120"></join> of 
+               <persName id="t16910422-23-person101">
+                  Nicholas 
+                  Knowles
+               <interp inst="t16910422-23-person101" type="surname" value="Knowles"></interp>
+                     <interp inst="t16910422-23-person101" type="given" value="Nicholas"></interp>
+                     <interp inst="t16910422-23-person101" type="gender" value="male"></interp>
+                  </persName>
+            , of St. Giles's in the Fields, on the <rs id="t16910422-23-cd121" type="crimeDate">28th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910422-23-off119 t16910422-23-cd121"></join> last. Mrs. Knowles knocking at a Door, where the Prisoner and others were begging in <placeName id="t16910422-23-crimeloc122">Southhampton street</placeName>
+                  <interp inst="t16910422-23-crimeloc122" type="placeName" value="Southhampton street"></interp>
+                  <interp inst="t16910422-23-crimeloc122" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910422-23-off119 t16910422-23-crimeloc122"></join>, her Watch was taken out of her Pocket: and the Prisoner was heard to threaten the Prosecutor, Mrs. Knowles: but she could not be possitive she took it, so she was <rs id="t16910422-23-verdict123" type="verdictDescription">
+                     <interp inst="t16910422-23-verdict123" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

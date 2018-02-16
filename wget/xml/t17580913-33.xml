@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-33">
+               <interp inst="t17580913-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-33" type="year" value="1758"></interp>
+               <interp inst="t17580913-33" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-33" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-33-off169-c242" targOrder="Y" targets="t17580913-33-defend305 t17580913-33-off169 t17580913-33-verdict173"></join>
+         
+               <p>290. (M.) 
+               
+                  <persName id="t17580913-33-defend305" type="defendantName">
+                     Elizabeth 
+                     Flint 
+                  <interp inst="t17580913-33-defend305" type="surname" value="Flint"></interp>
+                     <interp inst="t17580913-33-defend305" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-33-defend305" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17580913-33-off169" type="offenceDescription">
+                     <interp inst="t17580913-33-off169" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-33-off169" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one dimity counterpane, value 5 s. two linen napkins, value 1 s. one silver spoon, value 10 s. one pillow, value 2 s. one linen pillow case, value 6 d. the goods of 
+                     
+                        <persName id="t17580913-33-victim307" type="victimName">
+                           Mary 
+                           Walthow 
+                        <interp inst="t17580913-33-victim307" type="surname" value="Walthow"></interp>
+                        <interp inst="t17580913-33-victim307" type="given" value="Mary"></interp>
+                        <interp inst="t17580913-33-victim307" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17580913-33-off169 t17580913-33-victim307"></join>
+                     </persName>
+                      
+                  , <rs id="t17580913-33-viclabel170" type="occupation">spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17580913-33-victim307 t17580913-33-viclabel170"></join>, out of her ready furnish'd lodgings
+            </rs>, <rs id="t17580913-33-cd171" type="crimeDate">August 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-33-off169 t17580913-33-cd171"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17580913-33-person308">
+                  Mary 
+                  Walthow 
+               <interp inst="t17580913-33-person308" type="surname" value="Walthow"></interp>
+                     <interp inst="t17580913-33-person308" type="given" value="Mary"></interp>
+                     <interp inst="t17580913-33-person308" type="gender" value="female"></interp>
+                  </persName>
+            . I keep a house in <placeName id="t17580913-33-crimeloc172">Mares-court , Dean-street, Soho</placeName>
+                  <interp inst="t17580913-33-crimeloc172" type="placeName" value="Mares-court , Dean-street, Soho"></interp>
+                  <interp inst="t17580913-33-crimeloc172" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580913-33-off169 t17580913-33-crimeloc172"></join>; the prisoner took a room of me ready furnished, at 5 s. a week, about the beginning of August: she was there about a week and a day or two; the gentleman is a captain and is gone abroad that kept that house, I lived servant with him seven years.</p>
+               <p>Q. To whom does the furniture of that house belong?</p>
+               <p>Walthow. It belongs to me; the captain gave me my liberty to get my bread by them, and if I could not keep them, I might sell them; and he said they were no longer his.</p>
+               <p>Q. Who pays the rent of the house ?</p>
+               <p>Walthow. I do.</p>
+               <p>Q. Who paid it last August?</p>
+               <p>Walthow. I paid it.</p>
+               <p>Q. For whom ? for the captain or yourself?</p>
+               <p>Walthow. For him; but I was the owner of these goods before the first of August.</p>
+               <p>Q. Have you any written power?</p>
+               <p>Walthow. No, I have not; it was by his honour and word.</p>
+               <p>Q. Have you any bill of sale from him?</p>
+               <p>Walthow. No.</p>
+               <p>Q. What is the captain's name that owned them ?</p>
+               <p>Walthow. It is captain Baldwin, he is now in Germany if alive.</p>
+               <p>She not proving the goods her property, the prisoner was <rs id="t17580913-33-verdict173" type="verdictDescription">
+                     <interp inst="t17580913-33-verdict173" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

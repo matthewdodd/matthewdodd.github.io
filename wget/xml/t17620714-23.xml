@@ -1,3 +1,125 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620714-23">
+               <interp inst="t17620714-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620714-23" type="year" value="1762"></interp>
+               <interp inst="t17620714-23" type="uri" value="sessionsPapers/17620714"></interp>
+               <interp inst="t17620714-23" type="date" value="17620714"></interp>
+               <join result="criminalCharge" id="t17620714-23-off98-c154" targOrder="Y" targets="t17620714-23-defend197 t17620714-23-off98 t17620714-23-verdict102"></join>
+               <join result="criminalCharge" id="t17620714-23-off98-c155" targOrder="Y" targets="t17620714-23-defend199 t17620714-23-off98 t17620714-23-verdict102"></join>
+               <join result="criminalCharge" id="t17620714-23-off98-c156" targOrder="Y" targets="t17620714-23-defend201 t17620714-23-off98 t17620714-23-verdict102"></join>
+         
+               <p>198, 199, 200. (L.) 
+               
+                  <persName id="t17620714-23-defend197" type="defendantName">
+                     Ann 
+                     Christian 
+                  <interp inst="t17620714-23-defend197" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-defend197" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-defend197" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17620714-23-deflabel97" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17620714-23-defend197 t17620714-23-deflabel97"></join>; 
+               
+                  <persName id="t17620714-23-defend199" type="defendantName">
+                     Sarah 
+                     Cayton 
+                  <interp inst="t17620714-23-defend199" type="surname" value="Cayton"></interp>
+                     <interp inst="t17620714-23-defend199" type="given" value="Sarah"></interp>
+                     <interp inst="t17620714-23-defend199" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17620714-23-defend201" type="defendantName">
+                     William 
+                     Shakespeare 
+                  <interp inst="t17620714-23-defend201" type="surname" value="Shakespeare"></interp>
+                     <interp inst="t17620714-23-defend201" type="given" value="William"></interp>
+                     <interp inst="t17620714-23-defend201" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17620714-23-off98" type="offenceDescription">
+                     <interp inst="t17620714-23-off98" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620714-23-off98" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing three guineas, the property of 
+                     <persName id="t17620714-23-victim202" type="victimName">
+                        John 
+                        Hall 
+                     <interp inst="t17620714-23-victim202" type="surname" value="Hall"></interp>
+                        <interp inst="t17620714-23-victim202" type="given" value="John"></interp>
+                        <interp inst="t17620714-23-victim202" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17620714-23-off98 t17620714-23-victim202"></join>
+                     </persName>
+                   , privately from his person
+            </rs>, <rs id="t17620714-23-cd99" type="crimeDate">June 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620714-23-off98 t17620714-23-cd99"></join> ++ .</p>
+
+               <p>John Hall. I am a<rs id="t17620714-23-viclabel100" type="occupation">taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17620714-23-victim202 t17620714-23-viclabel100"></join>. I live in Black Friers. I went on Wednesday the 23d of last month to 
+               <persName id="t17620714-23-person203">
+                  Ann 
+                  Christian 
+               <interp inst="t17620714-23-person203" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-person203" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-person203" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17620714-23-person204">
+                  Sarah 
+                  Cayton 
+               <interp inst="t17620714-23-person204" type="surname" value="Cayton"></interp>
+                     <interp inst="t17620714-23-person204" type="given" value="Sarah"></interp>
+                     <interp inst="t17620714-23-person204" type="gender" value="female"></interp>
+                  </persName>
+            's in <placeName id="t17620714-23-crimeloc101">Black Boy Alley</placeName>
+                  <interp inst="t17620714-23-crimeloc101" type="placeName" value="Black Boy Alley"></interp>
+                  <interp inst="t17620714-23-crimeloc101" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17620714-23-off98 t17620714-23-crimeloc101"></join>; they were drinking of tea. I sat down, and said I would have some tea along with them. They said, I must contribute something to the tea. I gave sixpence to 
+               <persName id="t17620714-23-person205">
+                  Ann 
+                  Christian 
+               <interp inst="t17620714-23-person205" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-person205" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-person205" type="gender" value="female"></interp>
+                  </persName>
+             out of my right hand pocket. She went out to buy tea or sugar, and gave me my groat back. I was to be two pence. After that she poured out the liquor, and brought a cup to me. I took it for tea, but found it very nauseous. I said, this is either gin or annifeed. Drink it, Jemmy, says she, it will do you good. Then she asked me to walk up stairs; I did, but found myself very giddy<xptr type="pageFacsimile" doc="176207140012"></xptr> and stupid; I had partly lost my senses: I wish'd myself out of the house; I said I would call at night. I did not lie down on the bed, I laid me on the floor, and immediately fell fast asleep; and while I was on the ground I felt somebody about my left-hand pocket: I was not asleep or awake, but stupid; I lay on my left side where the money was, and they rolled me on my right. The money that I lost was three guineas, bound up in a piece of white paper, and a ribbon bound over it and pinn'd.</p>
+               <p>Q. You say that you was turn'd from your left side to your right side; can you tell who turn'd you?</p>
+               <p>Hall. I cannot tell; I could not observe any particular person turn me; they were both together, 
+               <persName id="t17620714-23-person206">
+                  Ann 
+                  Christian 
+               <interp inst="t17620714-23-person206" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-person206" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-person206" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t17620714-23-person207">
+                  Sarah 
+                  Cayton 
+               <interp inst="t17620714-23-person207" type="surname" value="Cayton"></interp>
+                     <interp inst="t17620714-23-person207" type="given" value="Sarah"></interp>
+                     <interp inst="t17620714-23-person207" type="gender" value="female"></interp>
+                  </persName>
+            . As soon as I waked I saw 
+               <persName id="t17620714-23-person208">
+                  Ann 
+                  Christian 
+               <interp inst="t17620714-23-person208" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-person208" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-person208" type="gender" value="female"></interp>
+                  </persName>
+            ; she was going down stairs; she went down stairs before I could recover; I told her she had robbed me; she then look'd much confused. I brought her up stairs again; Cayton was out of the house. I told 
+               <persName id="t17620714-23-person209">
+                  Ann 
+                  Christian 
+               <interp inst="t17620714-23-person209" type="surname" value="Christian"></interp>
+                     <interp inst="t17620714-23-person209" type="given" value="Ann"></interp>
+                     <interp inst="t17620714-23-person209" type="gender" value="female"></interp>
+                  </persName>
+             she had robbed me; she said she had not; I charged a constable with her. Shakespeare sat in one place all the time.</p>
+               <p>All three <rs id="t17620714-23-verdict102" type="verdictDescription">
+                     <interp inst="t17620714-23-verdict102" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

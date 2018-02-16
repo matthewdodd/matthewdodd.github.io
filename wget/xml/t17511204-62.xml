@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17511204-62">
+               <interp inst="t17511204-62" type="collection" value="BAILEY"></interp>
+               <interp inst="t17511204-62" type="year" value="1751"></interp>
+               <interp inst="t17511204-62" type="uri" value="sessionsPapers/17511204"></interp>
+               <interp inst="t17511204-62" type="date" value="17511204"></interp>
+               <join result="criminalCharge" id="t17511204-62-off337-c441" targOrder="Y" targets="t17511204-62-defend567 t17511204-62-off337 t17511204-62-verdict338"></join>
+         
+               <p>75. 
+               
+                  <persName id="t17511204-62-defend567" type="defendantName">
+                     Ann 
+                     Adams 
+                  <interp inst="t17511204-62-defend567" type="surname" value="Adams"></interp>
+                     <interp inst="t17511204-62-defend567" type="given" value="Ann"></interp>
+                     <interp inst="t17511204-62-defend567" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17511204-62-deflabel336" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-62-defend567 t17511204-62-deflabel336"></join>, was indicted for <rs id="t17511204-62-off337" type="offenceDescription">
+                     <interp inst="t17511204-62-off337" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17511204-62-off337" type="offenceSubcategory" value="perjury"></interp>
+               wilful and corrupt perjury, in swearing there is due to her from 
+                     
+                        <persName id="t17511204-62-victim569" type="victimName">
+                           Catherine 
+                           Reeves 
+                        <interp inst="t17511204-62-victim569" type="surname" value="Reeves"></interp>
+                        <interp inst="t17511204-62-victim569" type="given" value="Catherine"></interp>
+                        <interp inst="t17511204-62-victim569" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17511204-62-off337 t17511204-62-victim569"></join>
+                     </persName>
+                      
+                   five> pounds, nineteen shillings
+            </rs>. No Evidence appeared.</p>
+               <p>
+                  <rs id="t17511204-62-verdict338" type="verdictDescription">
+                     <interp inst="t17511204-62-verdict338" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17511204-62-verdict338" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

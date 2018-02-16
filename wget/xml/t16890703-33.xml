@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890703-33">
+               <interp inst="t16890703-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890703-33" type="year" value="1689"></interp>
+               <interp inst="t16890703-33" type="uri" value="sessionsPapers/16890703"></interp>
+               <interp inst="t16890703-33" type="date" value="16890703"></interp>
+               <join result="criminalCharge" id="t16890703-33-off131-c92" targOrder="Y" targets="t16890703-33-defend107 t16890703-33-off131 t16890703-33-verdict133"></join>
+         
+               <p>
+            
+                  <persName id="t16890703-33-defend107" type="defendantName">
+                  Francis 
+                  Cozens
+               <interp inst="t16890703-33-defend107" type="surname" value="Cozens"></interp>
+                     <interp inst="t16890703-33-defend107" type="given" value="Francis"></interp>
+                     <interp inst="t16890703-33-defend107" type="gender" value="male"></interp>
+                  </persName>
+             of the parish of <placeName id="t16890703-33-defloc130">Wildon</placeName>
+                  <interp inst="t16890703-33-defloc130" type="placeName" value="Wildon"></interp>
+                  <interp inst="t16890703-33-defloc130" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890703-33-defend107 t16890703-33-defloc130"></join>, was tryed for <rs id="t16890703-33-off131" type="offenceDescription">
+                     <interp inst="t16890703-33-off131" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890703-33-off131" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 5 trusses of hay, on the <rs id="t16890703-33-cd132" type="crimeDate">22nd of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890703-33-off131 t16890703-33-cd132"></join>, from one 
+                     <persName id="t16890703-33-victim108" type="victimName">
+                        John 
+                        Franklin
+                     <interp inst="t16890703-33-victim108" type="surname" value="Franklin"></interp>
+                        <interp inst="t16890703-33-victim108" type="given" value="John"></interp>
+                        <interp inst="t16890703-33-victim108" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890703-33-off131 t16890703-33-victim108"></join>
+                     </persName>
+                  , value 6 s
+            </rs>.  The evidence swore, that he the prosecutor lost his hay, and that he found his hay in the prisoners orchard, which the evidence swore they believed to be Franklin's Hay, as they perceived by the tracing of the hay from Franklin's Hay-close to the prisoner's orchard.  But it appeared that there was a kind of a composition made between them, so he was <rs id="t16890703-33-verdict133" type="verdictDescription">
+                     <interp inst="t16890703-33-verdict133" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+            </div1>

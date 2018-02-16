@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640502-8">
+               <interp inst="t17640502-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640502-8" type="year" value="1764"></interp>
+               <interp inst="t17640502-8" type="uri" value="sessionsPapers/17640502"></interp>
+               <interp inst="t17640502-8" type="date" value="17640502"></interp>
+               <join result="criminalCharge" id="t17640502-8-off38-c75" targOrder="Y" targets="t17640502-8-defend90 t17640502-8-off38 t17640502-8-verdict40"></join>
+         
+               <p>230. (M.) 
+               <persName id="t17640502-8-defend90" type="defendantName">
+                  Mary, <rs id="t17640502-8-deflabel37" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17640502-8-defend90 t17640502-8-deflabel37"></join> of 
+                     <persName id="t17640502-8-person91">
+                        John 
+                        Joyce 
+                     <interp inst="t17640502-8-person91" type="surname" value="Joyce"></interp>
+                        <interp inst="t17640502-8-person91" type="given" value="John"></interp>
+                        <interp inst="t17640502-8-person91" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17640502-8-defend90" type="surname" value="Joyce"></interp>
+                     <interp inst="t17640502-8-defend90" type="given" value="Mary"></interp>
+                     <interp inst="t17640502-8-defend90" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17640502-8-off38" type="offenceDescription">
+                     <interp inst="t17640502-8-off38" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640502-8-off38" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one blanket, value 2 s. one linen sheet, value 2 s. one copper tea-kettle, value 2 s. one flat iron, value 6 d. the property of 
+                     
+                        <persName id="t17640502-8-victim93" type="victimName">
+                           William 
+                           Williams 
+                        <interp inst="t17640502-8-victim93" type="surname" value="Williams"></interp>
+                        <interp inst="t17640502-8-victim93" type="given" value="William"></interp>
+                        <interp inst="t17640502-8-victim93" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17640502-8-off38 t17640502-8-victim93"></join>
+                     </persName>
+                      
+                  , in a certain lodging-room let by contract, &amp;c
+            </rs>. <rs id="t17640502-8-cd39" type="crimeDate">Feb. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640502-8-off38 t17640502-8-cd39"></join>. *</p>
+               <p>
+            
+                  <persName id="t17640502-8-person94">
+                  William 
+                  Williams 
+               <interp inst="t17640502-8-person94" type="surname" value="Williams"></interp>
+                     <interp inst="t17640502-8-person94" type="given" value="William"></interp>
+                     <interp inst="t17640502-8-person94" type="gender" value="male"></interp>
+                  </persName>
+            . About a fortnight or three weeks after Christmas, the prisoner came and took a lodging of me, ready furnished, for her husband and she. She said her husband was a waterman. Upon the 23d of February my wife and I went into her room; we missed the things mentioned; she went out, and locked the prisoner and I into the room; she got a constable; we took the prisoner up; she confessed she had taken the things mentioned, and had pawned them for 2 s. each.</p>
+               <p>Allice, his wife, confirmed the testimony he had given.</p>
+               <p>
+            
+                  <persName id="t17640502-8-person95">
+                  James 
+                  Brown 
+               <interp inst="t17640502-8-person95" type="surname" value="Brown"></interp>
+                     <interp inst="t17640502-8-person95" type="given" value="James"></interp>
+                     <interp inst="t17640502-8-person95" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable. The prisoner owned, in my hearing, she had taken and pawned the things, it being very hard times and cold weather, and her husband, being a waterman, had no work. The man is a very industrious man, and I always looked upon her to be very honest.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I took and pledge them with no other intention but to get them again, and put them in their places.</p>
+               <p>
+                  <rs id="t17640502-8-verdict40" type="verdictDescription">
+                     <interp inst="t17640502-8-verdict40" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640502-8-punish41" type="punishmentDescription">
+                     <interp inst="t17640502-8-punish41" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17640502-8-punish41" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640502-8-defend90 t17640502-8-punish41"></join>
+               W
+            </rs>.</p>
+            </div1>

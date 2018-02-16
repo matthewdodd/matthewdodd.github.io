@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880531-4">
+               <interp inst="t16880531-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880531-4" type="year" value="1688"></interp>
+               <interp inst="t16880531-4" type="uri" value="sessionsPapers/16880531"></interp>
+               <interp inst="t16880531-4" type="date" value="16880531"></interp>
+               <join result="criminalCharge" id="t16880531-4-off25-c37" targOrder="Y" targets="t16880531-4-defend43 t16880531-4-off25 t16880531-4-verdict27"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880531-4-defend43" type="defendantName">
+                     William 
+                     Wake
+                  <interp inst="t16880531-4-defend43" type="surname" value="Wake"></interp>
+                     <interp inst="t16880531-4-defend43" type="given" value="William"></interp>
+                     <interp inst="t16880531-4-defend43" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish, of <placeName id="t16880531-4-defloc24">St. Dunstan's in the West</placeName>
+                  <interp inst="t16880531-4-defloc24" type="placeName" value="St. Dunstan's in the West"></interp>
+                  <interp inst="t16880531-4-defloc24" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880531-4-defend43 t16880531-4-defloc24"></join>, was Indicted for <rs id="t16880531-4-off25" type="offenceDescription">
+                     <interp inst="t16880531-4-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880531-4-off25" type="offenceSubcategory" value="housebreaking"></interp>
+               Breaking the House of 
+                     
+                        <persName id="t16880531-4-victim45" type="victimName">
+                           John 
+                           Bush
+                        <interp inst="t16880531-4-victim45" type="surname" value="Bush"></interp>
+                        <interp inst="t16880531-4-victim45" type="given" value="John"></interp>
+                        <interp inst="t16880531-4-victim45" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880531-4-off25 t16880531-4-victim45"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16880531-4-cd26" type="crimeDate">17th. of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880531-4-off25 t16880531-4-cd26"></join> last, and carrying thence two pair of Boots, value 8 s. and one single Boot more, value 5 s. and 15 pair of Mens Shoes, value 30 s.
+            </rs> The Evidence against the Prisoner, was 
+               <persName id="t16880531-4-person46">
+                  John 
+                  Bush
+               <interp inst="t16880531-4-person46" type="surname" value="Bush"></interp>
+                     <interp inst="t16880531-4-person46" type="given" value="John"></interp>
+                     <interp inst="t16880531-4-person46" type="gender" value="male"></interp>
+                  </persName>
+             himself, who deposed, that he took the Padlock off the Door in the Absence of the said Bush's Family, and carried away the Goods. The Prisoner did not deny it, but said, he was in Drink and knew not what he did; but that did not satisfie the Court, so he was found <rs id="t16880531-4-verdict27" type="verdictDescription">
+                     <interp inst="t16880531-4-verdict27" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880531-4-verdict27" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16880531-4-punish28" type="punishmentDescription">
+                     <interp inst="t16880531-4-punish28" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16880531-4-punish28" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880531-4-defend43 t16880531-4-punish28"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

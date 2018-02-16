@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920629-9">
+               <interp inst="t16920629-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920629-9" type="year" value="1692"></interp>
+               <interp inst="t16920629-9" type="uri" value="sessionsPapers/16920629"></interp>
+               <interp inst="t16920629-9" type="date" value="16920629"></interp>
+               <join result="criminalCharge" id="t16920629-9-off55-c44" targOrder="Y" targets="t16920629-9-defend44 t16920629-9-off55 t16920629-9-verdict57"></join>
+         
+               <p>
+            
+                  <persName id="t16920629-9-defend44" type="defendantName">
+                  John 
+                  Algood
+               <interp inst="t16920629-9-defend44" type="surname" value="Algood"></interp>
+                     <interp inst="t16920629-9-defend44" type="given" value="John"></interp>
+                     <interp inst="t16920629-9-defend44" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16920629-9-defloc54">St. Mary Le Bone</placeName>
+                  <interp inst="t16920629-9-defloc54" type="placeName" value="St. Mary Le Bone"></interp>
+                  <interp inst="t16920629-9-defloc54" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16920629-9-defend44 t16920629-9-defloc54"></join>, was Indicted for <rs id="t16920629-9-off55" type="offenceDescription">
+                     <interp inst="t16920629-9-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920629-9-off55" type="offenceSubcategory" value="animalTheft"></interp>
+               Stealing a Dun Gelding, value 10 l. and a Gray Gelding, value 20 l.
+            </rs> on the 24th. Instant, the Goods of 
+               <persName id="t16920629-9-victim45" type="victimName">
+                  John 
+                  Langston
+               <interp inst="t16920629-9-victim45" type="surname" value="Langston"></interp>
+                     <interp inst="t16920629-9-victim45" type="given" value="John"></interp>
+                     <interp inst="t16920629-9-victim45" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16920629-9-off55 t16920629-9-victim45"></join>
+                  </persName>
+             
+                  <rs id="t16920629-9-viclabel56" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920629-9-victim45 t16920629-9-viclabel56"></join>; The Horses were brought on a Saturday Night to the Flying-horse in Goodman's-Fields, by two unknown Persons, who desired that the Horses might be taken care of, and they would send the next Morning, which they did by the hand of the Prisoner, who said, that he was sent by one Pilkington and Whitney to the Livery-Stable to see the Horses feed, but he did not know them to be Thieves: The Contents of his Confession was read in Court, which said that he was sent for by the said Pilkington to a Drinking-house near St. Clements Church, who desired him to go to the Flying-horse to look after the Horses; and that he did suspect Pilkington to be a Highway-Man, for that he had often sent him to one Goodman a Criminal in Newgate: The Prisoner further added, that he knew nothing of the Horses being Stolen; and it could not be fully fix'd upon him, so he was <rs id="t16920629-9-verdict57" type="verdictDescription">
+                     <interp inst="t16920629-9-verdict57" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> of the first Indictment.</p>
+            </div1>

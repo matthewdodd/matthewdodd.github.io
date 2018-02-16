@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17581206-8">
+               <interp inst="t17581206-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17581206-8" type="year" value="1758"></interp>
+               <interp inst="t17581206-8" type="uri" value="sessionsPapers/17581206"></interp>
+               <interp inst="t17581206-8" type="date" value="17581206"></interp>
+               <join result="criminalCharge" id="t17581206-8-off37-c59" targOrder="Y" targets="t17581206-8-defend69 t17581206-8-off37 t17581206-8-verdict41"></join>
+         
+               <p>9. 
+               
+                  <persName id="t17581206-8-defend69" type="defendantName">
+                     Elizabeth 
+                     Jones 
+                  <interp inst="t17581206-8-defend69" type="surname" value="Jones"></interp>
+                     <interp inst="t17581206-8-defend69" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17581206-8-defend69" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17581206-8-deflabel36" type="occupation">single woman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17581206-8-defend69 t17581206-8-deflabel36"></join>, was indicted for <rs id="t17581206-8-off37" type="offenceDescription">
+                     <interp inst="t17581206-8-off37" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17581206-8-off37" type="offenceSubcategory" value="coiningOffences"></interp>
+               uttering a counterfeit guinea to 
+                     
+                        <persName id="t17581206-8-victim71" type="victimName">
+                           Anne 
+                           Bidle 
+                        <interp inst="t17581206-8-victim71" type="surname" value="Bidle"></interp>
+                        <interp inst="t17581206-8-victim71" type="given" value="Anne"></interp>
+                        <interp inst="t17581206-8-victim71" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17581206-8-off37 t17581206-8-victim71"></join>
+                     </persName>
+                      
+                  , and having another piece of the like money in her custody, well knowing the same to be false and counterfeit, against the peace of our sovereign Lord the King, &amp;c
+            </rs>.<xptr type="pageFacsimile" doc="175812060006"></xptr> 
+                  <rs id="t17581206-8-cd38" type="crimeDate">Oct. 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581206-8-off37 t17581206-8-cd38"></join>. There was another against her for a crime nature on the <rs id="t17581206-8-cd39" type="crimeDate">15 of Sept</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581206-8-off37 t17581206-8-cd39"></join>. and another on the <rs id="t17581206-8-cd40" type="crimeDate">29th of Sept</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581206-8-off37 t17581206-8-cd40"></join>. to all which she <rs id="t17581206-8-verdict41" type="verdictDescription">
+                     <interp inst="t17581206-8-verdict41" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17581206-8-verdict41" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17581206-8-punish42" type="punishmentDescription">
+                     <interp inst="t17581206-8-punish42" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17581206-8-punish42" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17581206-8-defend69 t17581206-8-punish42"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17581206-8-punish43" type="punishmentDescription">
+                     <interp inst="t17581206-8-punish43" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17581206-8-punish43" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17581206-8-defend69 t17581206-8-punish43"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

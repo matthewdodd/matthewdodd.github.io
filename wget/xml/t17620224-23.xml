@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620224-23">
+               <interp inst="t17620224-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620224-23" type="year" value="1762"></interp>
+               <interp inst="t17620224-23" type="uri" value="sessionsPapers/17620224"></interp>
+               <interp inst="t17620224-23" type="date" value="17620224"></interp>
+               <join result="criminalCharge" id="t17620224-23-off127-c227" targOrder="Y" targets="t17620224-23-defend268 t17620224-23-off127 t17620224-23-verdict129"></join>
+         
+               <p>111. (M.) 
+               
+                  <persName id="t17620224-23-defend268" type="defendantName">
+                     Ann 
+                     Slade 
+                  <interp inst="t17620224-23-defend268" type="surname" value="Slade"></interp>
+                     <interp inst="t17620224-23-defend268" type="given" value="Ann"></interp>
+                     <interp inst="t17620224-23-defend268" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17620224-23-off127" type="offenceDescription">
+                     <interp inst="t17620224-23-off127" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620224-23-off127" type="offenceSubcategory" value="other"></interp>
+               stealing nine silver tea spoons, 3 large silver spoons, and other plate, with a parcel of foreign silver coins, and a quantity of wearing apparel
+            </rs>, the property of 
+               
+                  <persName id="t17620224-23-victim270" type="victimName">
+                     Robert 
+                     Anderson 
+                  <interp inst="t17620224-23-victim270" type="surname" value="Anderson"></interp>
+                     <interp inst="t17620224-23-victim270" type="given" value="Robert"></interp>
+                     <interp inst="t17620224-23-victim270" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17620224-23-off127 t17620224-23-victim270"></join>
+                  </persName>
+                
+            , <rs id="t17620224-23-cd128" type="crimeDate">Jan.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620224-23-off127 t17620224-23-cd128"></join>
+               </p>
+               <p>
+                  <rs id="t17620224-23-verdict129" type="verdictDescription">
+                     <interp inst="t17620224-23-verdict129" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>. ++</p>
+            </div1>

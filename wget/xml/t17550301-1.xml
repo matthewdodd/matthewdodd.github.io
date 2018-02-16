@@ -1,3 +1,1147 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550301-1">
+               <interp inst="t17550301-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550301-1" type="year" value="1755"></interp>
+               <interp inst="t17550301-1" type="uri" value="sessionsPapers/17550301"></interp>
+               <interp inst="t17550301-1" type="date" value="17550301"></interp>
+               <join result="criminalCharge" id="t17550301-1-off1-c22" targOrder="Y" targets="t17550301-1-defend22 t17550301-1-off1 t17550301-1-verdict4"></join>
+               <join result="criminalCharge" id="t17550301-1-off1-c23" targOrder="Y" targets="t17550301-1-defend24 t17550301-1-off1 t17550301-1-verdict4"></join>
+               <join result="criminalCharge" id="t17550301-1-off1-c24" targOrder="Y" targets="t17550301-1-defend26 t17550301-1-off1 t17550301-1-verdict4"></join>
+               <join result="criminalCharge" id="t17550301-1-off1-c25" targOrder="Y" targets="t17550301-1-defend28 t17550301-1-off1 t17550301-1-verdict4"></join>
+         
+               <p>
+            
+                  <persName id="t17550301-1-defend22" type="defendantName">
+                  Stephen
+                   M'Daniel
+               <interp inst="t17550301-1-defend22" type="surname" value="M'Daniel"></interp>
+                     <interp inst="t17550301-1-defend22" type="given" value="Stephen"></interp>
+                     <interp inst="t17550301-1-defend22" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               
+                  <persName id="t17550301-1-defend24" type="defendantName">
+                     John 
+                     Berry 
+                  <interp inst="t17550301-1-defend24" type="surname" value="Berry"></interp>
+                     <interp inst="t17550301-1-defend24" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-defend24" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17550301-1-defend26" type="defendantName">
+                     James
+                      Egan (otherwise 
+                     <rs id="t17550301-1-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17550301-1-defend26 t17550301-1-alias-1"></join>Gahagan</rs>)<interp inst="t17550301-1-defend26" type="surname" value="Egan (otherwise"></interp>
+                     <interp inst="t17550301-1-defend26" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-defend26" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17550301-1-defend28" type="defendantName">
+                     James 
+                     Salmon 
+                  <interp inst="t17550301-1-defend28" type="surname" value="Salmon"></interp>
+                     <interp inst="t17550301-1-defend28" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-defend28" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17550301-1-off1" type="offenceDescription">
+                     <interp inst="t17550301-1-off1" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17550301-1-off1" type="offenceSubcategory" value="highwayRobbery"></interp>
+               that, at the gaol delivery for our sovereign lord the king at the county gaol at Maidstone for the county of Kent, on Tuesday the 13th of August, in the twenty-eighth year of our said sovereign lord the king, 
+                     <persName id="t17550301-1-person29">
+                        Peter 
+                        Kelly 
+                     <interp inst="t17550301-1-person29" type="surname" value="Kelly"></interp>
+                        <interp inst="t17550301-1-person29" type="given" value="Peter"></interp>
+                        <interp inst="t17550301-1-person29" type="gender" value="male"></interp>
+                     </persName>
+                   and 
+                     <persName id="t17550301-1-person30">
+                        John 
+                        Ellis 
+                     <interp inst="t17550301-1-person30" type="surname" value="Ellis"></interp>
+                        <interp inst="t17550301-1-person30" type="given" value="John"></interp>
+                        <interp inst="t17550301-1-person30" type="gender" value="male"></interp>
+                     </persName>
+                   were in due form of law indicted for a robbery on the king's high-way on 
+                     
+                        <persName id="t17550301-1-victim32" type="victimName">
+                           James 
+                           Salmon 
+                        <interp inst="t17550301-1-victim32" type="surname" value="Salmon"></interp>
+                        <interp inst="t17550301-1-victim32" type="given" value="James"></interp>
+                        <interp inst="t17550301-1-victim32" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17550301-1-off1 t17550301-1-victim32"></join>
+                     </persName>
+                      
+                  , by putting him in corporal fear and danger of his life, in the parish of <placeName id="t17550301-1-crimeloc2">St. Paul, Deptford</placeName>
+                     <interp inst="t17550301-1-crimeloc2" type="placeName" value="St. Paul, Deptford"></interp>
+                     <interp inst="t17550301-1-crimeloc2" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17550301-1-off1 t17550301-1-crimeloc2"></join>, in the county of Kent, and taking from him one linen handkerchief, value 4 d. two pair of leather breeches, one clasp knife, one iron tobacco-box, one silver pocket-piece, one guinea, and one half-crown; and that the said 
+                     <persName id="t17550301-1-person33">
+                        Peter 
+                        Kelly 
+                     <interp inst="t17550301-1-person33" type="surname" value="Kelly"></interp>
+                        <interp inst="t17550301-1-person33" type="given" value="Peter"></interp>
+                        <interp inst="t17550301-1-person33" type="gender" value="male"></interp>
+                     </persName>
+                   and 
+                     <persName id="t17550301-1-person34">
+                        John 
+                        Ellis 
+                     <interp inst="t17550301-1-person34" type="surname" value="Ellis"></interp>
+                        <interp inst="t17550301-1-person34" type="given" value="John"></interp>
+                        <interp inst="t17550301-1-person34" type="gender" value="male"></interp>
+                     </persName>
+                   were tried and convicted for that robbery; and that the said M'Daniel, Berry, Egan, and Salmon, on the <rs id="t17550301-1-cd3" type="crimeDate">23d of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17550301-1-off1 t17550301-1-cd3"></join>, 1755, in the city of London, were accessaries before this felony was committed, and feloniously and maliciously did aid, abet, assist, counsel, hire, and command the said Ellis and Kelly to commit this robbery, against the peace of his majesty, his crown and dignity
+            </rs>.</p>
+               <p>There was a second count in the indictment as an offence at common law.</p>
+               <p>At the desire of Berry the witnesses were examined apart.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010003"></xptr>
+            
+                  <persName id="t17550301-1-person35">
+                  Joseph 
+                  Cox 
+               <interp inst="t17550301-1-person35" type="surname" value="Cox"></interp>
+                     <interp inst="t17550301-1-person35" type="given" value="Joseph"></interp>
+                     <interp inst="t17550301-1-person35" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>He produced the copy of the record of the conviction of 
+               <persName id="t17550301-1-person36">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person36" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person36" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person36" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17550301-1-person37">
+                  John 
+                  Ellis 
+               <interp inst="t17550301-1-person37" type="surname" value="Ellis"></interp>
+                     <interp inst="t17550301-1-person37" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person37" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Where had you this?</p>
+               <p>Cox. I had it of Mr. Knap's clerk.</p>
+               <p>Q. Is it a true copy?</p>
+               <p>Cox. It is; the clerk and I examined it with the record; I looked over the record on the file, while the clerk read this; after that the clerk read the record, while I looked over this. (It is read in court, the purport of which is) '' That 
+               <persName id="t17550301-1-person38">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person38" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person38" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person38" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17550301-1-person39">
+                  John 
+                  Ellis 
+               <interp inst="t17550301-1-person39" type="surname" value="Ellis"></interp>
+                     <interp inst="t17550301-1-person39" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person39" type="gender" value="male"></interp>
+                  </persName>
+             were '' tried on the 13th of August, 1754. at '' Maidstone assizes, before Sir 
+               <persName id="t17550301-1-person40">
+                  Dudley 
+                  Ryder 
+               <interp inst="t17550301-1-person40" type="surname" value="Ryder"></interp>
+                     <interp inst="t17550301-1-person40" type="given" value="Dudley"></interp>
+                     <interp inst="t17550301-1-person40" type="gender" value="male"></interp>
+                  </persName>
+            , '' Knt. and Sir 
+               <persName id="t17550301-1-person41">
+                  Michael 
+                  Foster 
+               <interp inst="t17550301-1-person41" type="surname" value="Foster"></interp>
+                     <interp inst="t17550301-1-person41" type="given" value="Michael"></interp>
+                     <interp inst="t17550301-1-person41" type="gender" value="male"></interp>
+                  </persName>
+            , Knt. for the '' said robbery on the defendant Salmon, and '' found guilty.''</p>
+               <p>
+            
+                  <persName id="t17550301-1-person42">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person42" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person42" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person42" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person43">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person43" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person43" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person43" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner Berry eight or nine years, and M'Daniel twelve months last November. I never had any great acquaintance with Salmon, till through Berry in the month of June last. I have known Egan four or five years, by his coming backwards and forwards to Berry's.</p>
+               <p>Q. Did you know 
+               <persName id="t17550301-1-person44">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person44" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person44" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person44" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17550301-1-person45">
+                  John 
+                  Ellis 
+               <interp inst="t17550301-1-person45" type="surname" value="Ellis"></interp>
+                     <interp inst="t17550301-1-person45" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person45" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Blee. I did; I believe they are now in Maidstone gaol; they were when I came away last Monday.</p>
+               <p>C. Tell the court the first time you had any conversation with them.</p>
+               <p>Blee. I lodged at Berry's house, and work'd for him; Berry said to me, in the beginning of July, go to Mr. M'Daniel, he lived then in Scrub's-court, Holborn, and tell him I want to speak with him. I went, and he and I came back together to Berry's house. They both said, Tom, money grows scarce, you must give a sharp look-out for a couple to go upon the scamp now, and if you can't get two, you must get one.</p>
+               <p>Q. What did they mean by going upon the scamp?</p>
+               <p>Blee. That is to go upon the highway. I told them, as Kidden's was so bad an affair, I did not choose to be concerned more. (See Kidden's tryal, No 129. in Mr. alderman Rawlinson's mayoralty; then compare Kidden's with the tryal of 
+               <persName id="t17550301-1-person46">
+                  Christopher 
+                  Woodland 
+               <interp inst="t17550301-1-person46" type="surname" value="Woodland"></interp>
+                     <interp inst="t17550301-1-person46" type="given" value="Christopher"></interp>
+                     <interp inst="t17550301-1-person46" type="gender" value="male"></interp>
+                  </persName>
+            , No. 30. in the same mayoralty). He was convicted last January was twelve-month, and executed at Tyburn. M'Daniel said, d - n your eyes, if you don't it shall be the worse for you. Then Berry said, I might go about my business; so I went away. The next morning Berry call'd me into his room.</p>
+               <p>Q. Where did he live?</p>
+               <p>Blee. At a place called the George-yard, at the upper-end of Hatton-garden. He then said, go up to Mr. M'Daniel's house, and desire him to meet me in the fields about eleven o'clock. I did, and we went into the Spaw-fields, and Berry came to us. They both said to me, go and look about the fields, and we will sit down on the grass, and see if you can pick up a couple of idle fellows, that will do for the purpose, and introduce yourself into their company.</p>
+               <p>Q. What did they mean by that purpose?</p>
+               <p>Blee. To go upon the scamp were the words they said; accordingly we three went into the fields several days, but could not meet with any body fit for the purpose. I remember one day in particular, it was Monday the 15th of July, that day they ordered me to go into the fields, and said they would come, and I sat there two hours before they came nigh me; then M'Daniel came to the top of the hill and bid me come to the sign of Sir 
+               <persName id="t17550301-1-person47">
+                  John 
+                  Oldcastle 
+               <interp inst="t17550301-1-person47" type="surname" value="Oldcastle"></interp>
+                     <interp inst="t17550301-1-person47" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person47" type="gender" value="male"></interp>
+                  </persName>
+            , a public house, and said my master was there, he and I went there, and down to the bottom of the yard, and in the farthest arbour but one, on the left-hand side, there sat Berry and Salmon the breeches-maker; Berry bid me sit down, which I did, there we all discoursed together about doing this robbery; M'Daniel said, we'll do the thing somewhere towards Black-heath, then he and Berry had a sort of a wrangle whether they should not have it done between New-cross turnpike and Deptford, just facing the four-mile-stone.</p>
+               <p>Q. Was there any particular reason to have it done in that place?</p>
+               <p>Blee. Yes, they said, there is a reward of twenty pounds that is given by the inhabitants of East-greenwich for apprehending highwaymen and footpads; Berry said, suppose we have Egan concerned with us, then they talked about his being the sence, as they call it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010004"></xptr>Q. What did they mean by that word?</p>
+               <p>Blee. That is to buy the goods after Salmon had been robbed of them; M'Daniel made an objection to Egan's being in, because he thought five would be too many to be concerned in the reward; Berry said, we can't cleverly do without him, and if there are five of us concerned it would be pretty nigh twenty pounds each if a constable should come in: and they all three, that is Berry, M'Daniel and Salmon, concluded that Egan should be concerned as a sence in the robbery, and Berry said he would go and let Egan know of it that night, and said to me, now, Tom, you may go home about your business, we will not be seen to walk along the streets together, so I went away and left them; the next morning I went out again to see if I could find any body for the purpose, but I could not that day; the next after, which was on a Wednesday, Mr. Berry called me into his room, and ordered me to go and tell M'Daniel to come to him to the Bell inn in Holborn; I went, and M'Daniel and I went to the Bell together, there were 
+               <persName id="t17550301-1-person48">
+                  James 
+                  Egan 
+               <interp inst="t17550301-1-person48" type="surname" value="Egan"></interp>
+                     <interp inst="t17550301-1-person48" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person48" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17550301-1-person49">
+                  James 
+                  Salmon 
+               <interp inst="t17550301-1-person49" type="surname" value="Salmon"></interp>
+                     <interp inst="t17550301-1-person49" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person49" type="gender" value="male"></interp>
+                  </persName>
+            , and Berry, we were all five together, they bid me come and sit down, which I did, and drank part of a pot of beer, then we all concluded that the thing should be done.</p>
+               <p>Q. Where is the Bell-inn?</p>
+               <p>Blee. It is in the city of London, just beyond Bartlet's-buildings on the right-hand side.</p>
+               <p>Q. What thing was to be done?</p>
+               <p>Blee. That if I could get a couple to go on the highway, that Salmon should be the person to be robbed, and Berry and Salmon talked about making two pair of breeches that Salmon was to be robbed of, and to mark them under the pocket or waistband with some particular mark, to the best of my knowledge it was to be J. S. then Berry and M'Daniel said they must have a particular handkerchief too; then M'Daniel put his hand into his pocket and pulled out this handkerchief that I have now in my hand; 
+               <persName id="t17550301-1-person50">
+                  James 
+                  Salmon 
+               <interp inst="t17550301-1-person50" type="surname" value="Salmon"></interp>
+                     <interp inst="t17550301-1-person50" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person50" type="gender" value="male"></interp>
+                  </persName>
+             said he had got a handkerchief at home that he would mark so as to swear to it, which he was to mark with four oilet holes, one at each corner. Berry said they should want a tobacco-box, M'Daniel said he had got a very remarkable one, that any body might swear to, which I have fetched forty halfpenny-worths of tobacco in for M'Daniel, and I know it to be the same now (taking it in his hand) M'Daniel said he would give it to Salmon to be robbed of; then they said they wanted a halfpenny, and would have it marked. M'Daniel said he had got a pocket-piece, which piece I saw his wife buy for three-pence and a halfpenny-worth of gin some time before, he said that would do, and it should be marked with a shoemaker's tool, and he gave it to Egan to mark it; Egan said he had got a tool that he used to stamp the shoes with, that he would mark the piece with; then they bid me go home about my business, which I did. The next morning Berry called me up into his room again, he gave me three-pence, and ordered me to go down to the Fleet-market to see if I could pick up two men or lads there.</p>
+               <p>Q. Did he say any thing more at that time?</p>
+               <p>Blee. He said, to do the thing. I knew what he meant; accordingly I went down to the market and met with 
+               <persName id="t17550301-1-person51">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person51" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person51" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person51" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17550301-1-person52">
+                  John 
+                  Ellis 
+               <interp inst="t17550301-1-person52" type="surname" value="Ellis"></interp>
+                     <interp inst="t17550301-1-person52" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person52" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Blee. Did you know them before?</p>
+               <p>Blee. I did; I knew them to be very bad lads, that is, pick-pockets. I gave them some gin, but had no discourse with them that day about the thing; the next morning Berry called me into his room again, and gave me three-pence more, and bid me go down to the Fleet-market to them, and be sure to have a little talk with them, and told me what to say, and that was to tell them I knew where to get a brave parcel of lullies.</p>
+               <p>Q. What is the meaning of that?</p>
+               <p>Blee. He meant to get a parcel of linen if they would go with me to Deptford; I went and met them there, and told them as Berry ordered me; that is, I told them I knew where to get a brave parcel of lullies if they would go to Deptford with me.</p>
+               <p>Q. Did you tell them Berry told you so?</p>
+               <p>Blee. No, I did not, if I had they would not have agreed to go; they both agreed to go<xptr type="pageFacsimile" doc="175503010005"></xptr> with me any time I thought proper; then I left them for that day; and bid them a good night.</p>
+               <p>Q. You say you knew Kelly and Ellis before, what are they?</p>
+               <p>Blee. Ellis is a chimney-sweeper about twenty years of age, and the other about twenty-one by their looks. The next morning Berry called me into his room again, I came home pretty late over-night, so I had not seen him then, he ordered me to go and tell M'Daniel to come to him to the sign of the Plumb-tree in Plumb-tree-court, Shoe-lane, at the bottom of Holborn-hill; accordingly M'Daniel and I went there, there were Berry and Salmon. Berry told Salmon I had got two men, Ellis and Kelly, and they had agreed to go along with me any where, where I thought proper, as I had told him before, that morning. Berry bid me drink once and go about my business.</p>
+               <p>Q. Did Salmon say any thing to it then?</p>
+               <p>Blee. No, he did not; the reason they chose, I should go by myself, was, because people should not take notice of me. I went away and left them three all together.</p>
+               <p>Q. Did they say so?</p>
+               <p>Blee. They did.</p>
+               <p>Q. When did they say that?</p>
+               <p>Blee. When Berry and he gave me this great coat I have now on to disguise myself.</p>
+               <p>Q. When was this?</p>
+               <p>Blee. It was on a Friday, I remember it was market-day at Smithfield, and I had been there to Kelly and Ellis. I saw them in the Fleet-market on a pea-cart betwixt five and six o'clock, I asked them if they would have a glass of gin, and gave them each a glass, and bid them good-bye; about two hours after I met them again in the market, and asked them if they would go to Deptford or not? they said yes. Kelly asked me if I had got ever a bag to put the linen in? I said we did not want a bag, I would tell them more of that another time, and left them then. At night, it being Saturday, Berry called me into his room and asked me if I had seen them and talked with them? I said, I had; he said, that was very well; he said, when you get up in the morning come into my room before you go out, which was the Sunday-morning; I got up and went in, he then gave me sixpence to treat them with. I went out into the Brick-fields and found them, and treated them with some gin and beer, and we agreed to go to Deptford to steal some linen, and I bid them a good-bye for that time, and said to them, I would meet them on the morrow-morning. I left them in the Spaw-fields, and went to M'Daniel's house and dined there; I told M'Daniel I had got two lads that I believed would suit for the thing, and told him who they were, and said, I would let him know more of it on the morrow, for I should see them again to-night or to-morrow; he said, that was very well. At night I saw Berry, and told him what had passed between the lads and I; he sai d it was very well, he should see Egan to-morrow morning; then I went to bed; the next morning, which was Monday the 22d of July about five o'clock, Berry called me into his room again, and bid me go and tell M'Daniel not to be out of the way, and he also gave me three-pence to go down to the Fleet-market to treat Ellis and Kelly with some gin. I went down, and there I met with them, and gave them each a halfpenny-worth, and told them I would fix a day when we should go down to Deptford, then I left them, and went to M'Daniel's house, about nine that morning there came Berry and Egan up into his room, Berry said, G - d d - n you, Mack, you and my lord mind nothing but that G - d d - d tea kettle, you don't mind to look after business.</p>
+               <p>Q. What did he mean by my lord?</p>
+               <p>Blee. He meant me, it was a nick-name they gave me, M'Daniel answered, he is just come from the two lads, as he tells me. I said, if Egan has a mind to go, he shall go and see them, he and I went down into the Fleet-market, there were the two lads sitting on a pea-cart, I put my hand into my pocket, and gave them a halfpenny each to go and get some gin. Egan stood not above three or four yards from them at the same time, leaning against a post, then he went one way and I another, I went through Plumb-tree court and met Egan in Shoe-lane; then he went to M'Daniel's house again, Egan said there to<xptr type="pageFacsimile" doc="175503010006"></xptr> M'Daniel and Berry, by G - d they'll do very well, they are two pretty lads.</p>
+               <p>Q. from Berry. Where was this?</p>
+               <p>Blee. You know well enough, it was at M'Daniel's house; then Berry, Egan and I came down stairs, we parted with Egan at the end of the court. Berry and I went over to the Plumb-tree, and as we went by Salmon's door in Shoe-lane, Berry beckoned him out, and he went with us. I staid and drank part of one pint of beer, and then went away by Berry's order, and left them together. On the Tuesday morning Berry and I went to the Plumb-tree alehouse again, he bid me go over and tell M'Daniel he wanted to speak with him, I went and told him, and he came; then I went out of the house to see if I could find the two lads again; I found them in the Fleet-market, and discoursed with them, they said they were going to work, as they called it, in the Artillery-ground.</p>
+               <p>Q. What work?</p>
+               <p>Blee. It was picking of pockets. I came back and acquainted Berry and M'Daniel with it. Berry gave me three-pence in halfpence, and they bid me go out directly to them and keep them company. Berry always found the money, they both said they would come into the Artillery-ground about two o'clock to see the lads, the White-regiment marched that day; I went and walked up and down with them; about half an hour after two I saw Berry in the Artillery-ground (I was to take no notice to Berry and M'Daniel, or they to me) and presently after, walking round by the Artillery-house, I saw M'Daniel; after that I left the lads and went to Berry, as he stood at the Artillery-gate, and said to him, Mr. Berry, do you think they will do?</p>
+               <p>Q. from Berry. What time of the day was this?</p>
+               <p>Blee. It was about three o'clock.</p>
+               <p>Q. What was Berry's answer to that?</p>
+
+               <p>Blee. He said, do, d - n me, I have done less than they over, for March and Newman were less (see their tryal, No. 496, 497 in alderman Cockayne's mayoralty) he put his hand in his pocket and gave me six-pence, and bid me be sure not to leave them.</p>
+               <p>Berry. Here is a man in court will contradict that (painting to one that stood near him).</p>
+               <p>Court. Don't you know at your request all the evidences for the prosecution were put out of court, to be called in one at a time, at which time yours were put out also, how came this witness in again? he must go out, and come in when he is called. ( He went out, but did not come in again to give evidence on Berry's defence).</p>
+               <p>Blee. I went with the six-pence round the Artillery-ground, and met with M'Daniel, he said he was going to Berry; I asked him if he thought the two lads would do? he said, d - n your eyes, I have done less than they over at Kingston.</p>
+               <p>Q. Had he had a fight of them?</p>
+               <p>Blee. He had, as we passed him before, he and Berry went into the ground on purpose to see them. Then I less M'Daniel, and went and gave the boys part of a full pot of beer; then I bid them good-bye, and told them I would see them again the next morning, which was the 24th. I went home, and got up in the morning, and told Berry I was going to them; he gave me 3 d. then I went down into the Fleet-market, and told them I believed the thing would be done on the Friday; this was on the Wednesday; if not, I would let them know farther; then I left them, and at night I went home, and told Berry I had been again along with Ellis and Kelly. He said, d - n you, don't go to deceive us; do you come up to the Bell in Holborn by-and-by, and tell M'Daniel I want him. I went to M'Daniel's house, and left word what Berry ordered me; for M'Daniel was not at home. Then I went to the Bell, and Berry met me just at the door. Just as I was going into the house, he said, here is 3 d. go away to the artillery-ground, be sure to be there about two o'clock. This was on Thursday the 25th, in the morning. He said, don't come in, for Mr. Bagley is there; I don't desire he should see you.</p>
+               <p>Q. Who was that Mr. Bagley?</p>
+               <p>Blee. He was a neighbour of Berry's; I went away to the Artillery-ground at the time, and walked about an hour and a half before I<xptr type="pageFacsimile" doc="175503010007"></xptr> saw either Berry or M'Daniel; but walking by the Artillery-ground, I saw M'Daniel; he told me he had been at dinner along with somebody in the Artillery-house, and said where the d - l is Berry ? I said I never saw any thing of them. About half an hour after that, there was hue-and-cry after a pick-pocket. M'Daniel came to me, and said, G - d d - n me, the chief person is a ducking in the Py'd-horse-yard; follow him, and give him some gin, for they have almost killed him. I followed him (it was Ellis the chimney-sweeper, the biggest of the two lads) cross Moorfields; I saw the people go from him, and there were but two or three people behind him; I gave him a penny or three halfpence, I don't know which, Then I went back to M'Daniel, and told him he was very safe; then he and I came out of the Artillery-ground together: as we were coming out of the ground, we met one they call Plump (his name Brebrook) and another fellow they call Doctor, that was turnkey at Clerkenwell-bridewell. Plump seeing M'Daniel and I together, said to me, G - d d - n you, you rascal, you deserve to be hanged for that affair of Kidden. M'Daniel said to me, come along, don't be afraid of any body. We went over Moorfields together. He ordered me to go to his wife, which I did; and after that I went down the Fleet-market to see if Ellis was safe. I found them both, and told them I would meet them the next morning. They said they had no money to pay for their lodging. I said, here is three-halfpence for you, go and lie in the Brick-field to-night. Then I went home to Mr. Berry's, he told me he had been at the other end of the town about some business, and he could not come into the Artillery-ground. If this affair of Ellis's being ducked had not happened, the robbery of Salmon was to have been committed on the Friday.</p>
+               <p>Q. When was it fixed to be on the Friday?</p>
+               <p>Blee. That was determinedo be on the Wednesday.</p>
+               <p>Q. By who?</p>
+               <p>Blee. Berry and I pitched upon the thing in the morning, and he was to go and let the rest know.</p>
+               <p>Q. Where did you consult this?</p>
+               <p>Blee. We did it in his room, before we went out to go to the Bell.</p>
+               <p>Q. What did he say to you about it then?</p>
+               <p>Blee. He had me tell the lads we should go to Deptford to steal the linen on the Friday.</p>
+               <p>Q. Who did he mean by the rest, which he said he would let know it?</p>
+               <p>Blee. He meant Egan, Salmon, and M'Daniel, on the Thursday-night; I told Berry of Ellis's being ducked; he said, M'Daniel, Egan, Salmon and he had agreed, that it should not be done on the Friday, left the lads should be apprehended on the Saturday, and kept all day on Sunday in the watch-house, and somebody might come to them to whom they might tell something about my being concerned with them, and so by impeaching me I might be apprehended; so he said they had fixed it to be on the Monday, on which morning I got up by Mr. Berry's orders, he gave me two-pence or three-pence, I can't be positive which, to go to the Fleet-market to meet them, and bid them stay till nine o'clock, and say I would come to them again, which I did, and returned as Berry ordered me to him at the Plumb-tree alehouse, there was Salmon and he, he sent me out for M'Daniel; I went to him, and he bid me tell Berry he was shaving himself, and he would come when he had done. I went, and told Berry; he changed a guinea, and gave me five shillings, and bid me not to be extravagant; he gave me that, as he said, to flash to the boys, to shew it to them, and say, I made that last night; I was to pull it out all at once. He gave Salmon half a crown to be robbed of.</p>
+               <p>Q. Was it in one piece?</p>
+               <p>Blee. No; it was two shillings and six-pence.</p>
+               <p>Q. Who were present at this time?</p>
+               <p>Blee. There were 
+               <persName id="t17550301-1-person53">
+                  Berry, M<interp inst="t17550301-1-person53" type="given" value="Berry"></interp>
+                     <interp inst="t17550301-1-person53" type="gender" value="male"></interp>
+                  </persName>
+            'Daniel and Salmon; then Berry said to me, now go away as fast as you can; and I said, at what place shall I stop for you to see you are going, that we may be both sure? I said, I will stop at the Bell in the Borough, and call for a glass of gin, then you may know and be sure that we are going to Deptford. I left them and went to the two boys.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010008"></xptr>Q. About what time was this?</p>
+               <p>Blee. It was about half an hour after nine in the morning. I went with the boys to a house in Little-Britain, there I called for some bee and bread and cheese, and pulled off my coat, and said I must go to the sence to get some money, for the woman has not paid me all. Then I left my great-coat, and went to Berry, and told him to hasten away, for the boys wanted to go. Berry bid me return to them directly, and said he would be over the water time enough for us. I went to the boys again, and called for another pot of beer, to delay the time. After we had drunk that, we went out to go to Deptford. When we came to the Bell in the Borough, we went in, and in the right-hand box there sat Berry and Salmon; there I gave the boys each of them a halfpenny-worth of gin; I was not to take notice of Berry or Salmon. After we came out, Kelly, said, d - n your eyes, there is that old thief-catching son of b - h, your old master, said I, never mind it, I don't belong to him now; Then we went down the Borough market, they bought a breast of lamb for then dinners, and we went to the Black-spread-eagle in Kent-street (which was the house the prisoners and I had appointed for them to come to the next day). We had the lamb fried for our dinners from thence we went to Deptford.</p>
+               <p>Q. What time did you set out from Kent-street?</p>
+               <p>Blee. We set out from thence about half an hour after twelve o'clock; I had made them almost drunk. After we went from thence, it was too soon in the day, we could do nothing till it was dark, I told them, so we would go over into the fields and go to sleep; so to prolong the time we went into the fields, and all three of us went to sleep. They slept pretty heartily. When thought it proper time to awake them, I did, and away we went for Deptford.</p>
+               <p>Q. What time did you set out after this sleep? I bist</p>
+               <p>Blee. I can't tell the time.</p>
+               <p>Q. Was it dark?</p>
+               <p>Blee. No, it was not. We were in Deptford an hour before dark; I went with them to the sign of the Ship, the house that Berry and Salmon had appointed to come to. I called for a pint of beer at the door, and bid them stay there; and said I had a relation in the town, near the water-gate, which I wanted to see. I left them, and went to see for Berry and Salmon. I found Berry, he and I went into a public-house, I think it is the duke William's head; he called for a pint of beer, and bid me return to the two boys, and Salmon should come to the house. I went to them, they were still at the door; I said, come, let us go into the house, I expect my cousin to come to me.</p>
+               <p>Q. Had you let the boys into any knowledge of this affair before you came to this place.</p>
+               <p>Blee. No, I did not; only I had told them it was to steal some linen; they went for no other intent. Then I went in, and called for a pot of beer, and bread and cheese; we eat the bread and cheese, and drank the beer, and called for another pot of beer; in the mean time in came Salmon. He first went and leaned against a dresser for about half a minute, and then came and sat down in the box near us, and began to discourse about going to London (it was then dusk). I saw Berry go by the window, he beckoned his finger, and I went out to him. He said, be sure follow Salmon when he comes out. I went in again, and Salmon presently went out. I changed half a crown, and asked the lads if they would have any gin. When Salmon first came in, Kelly said, there is that old blood of a b - h, the breeches-maker in shoe-lane; his son and I have been picking of pockets together many a time. I said, never mind that, what is that to us? I knew the place where he was to stop at; it was just by the four-mile stone, this was agreed upon before. The two boys and I went on, and by the four-mile stone, by a gate, Salmon stood making believe he was making water; D - n me, said Kelly, there is the old breeches-maker, he is fuckey, let's scamp him.</p>
+               <p>Q. What reason did you give Kelly and Ellis for your going after Salmon?</p>
+               <p>Blee. I said, we will take a walk till it is time to steal the linen.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010009"></xptr>Q. Was it light or dark?</p>
+               <p>Blee. The moon shone. Kelly said, when he came up to 
+               <persName id="t17550301-1-person54">
+                  Salmon, G<interp inst="t17550301-1-person54" type="given" value="Salmon"></interp>
+                     <interp inst="t17550301-1-person54" type="gender" value="male"></interp>
+                  </persName>
+             - d d - n you, what have you got there? Salmon said, gentlemen, take what I have got, don't use me ill. He had the breeches under his arm, and he gave them to me; they were in a blue-and-white handkerchief, and I gave them to Kelly. I said to Kelly, what money have you got? Salmon said, here, gentlemen, what money I have got is in my left-hand waistcoat pocket in a tobacco-box; (he had told me before what money he had got would be there). Kelly put his hand into his pocket, and took the tobacco-box out, and a clasp knife and fork; then away we walked on for London, and came into Kent-street as fast as we could, and lodged there all night, at a house where I paid the lodging-money at going down, by Berry's order, to induce the lads to come there again.</p>
+               <p>Q. What time did you get to Kent-street after the robbery?</p>
+               <p>Blee. I believe we got there about eleven o'clock; the people had no clock in the house.</p>
+               <p>Q. What money did you take from Salmon?</p>
+               <p>Blee. We looked at that coming along; I knew what was in it before; there were two shillings and six-pence, and a pocket-piece with Skilion on it, or some such name, and a punch'd mark in the middle of it. ( Mr. Cox produced the things mentioned ).</p>
+               <p>C. Look at this tobacco-box.</p>
+               <p>Blee. This is the very same, it is riveted within-side; I have had this box a hundred times in my hand before.</p>
+               <p>N. B. The box was an oval iron box, with a rose, and garter round that; and a lion and unicorn (as on the king's-arms) in basso-relieve on the lid.</p>
+               <p>C. Look at this pocket-piece.</p>
+               <p>Blee. This is the same piece which I mentioned before.</p>
+               <p>C. Look at the two pair of breeches and handkerchief.</p>
+               <p>Blee. These are the same breeches and handkerchief.</p>
+               <p>C. Look at this knife.</p>
+               <p>Blee. It is the same knife.</p>
+               <p>N. B. The clasp knife and fork were made to fasten to gether in the handles.</p>
+               <p>Q. What was done the next mornings, when you lay in Kent-street?</p>
+               <p>Blee. We got up the next morning about seven o'clock, and went over the way to the sign of the Black-spread-eagle (the house that Berry ordered me to go to. I called for some beer, and said to Kelly and Ellis, sit down, and I will go get you something for breakfast. I went out with that pretence, and went to the White-bear in the same street, where Berry ordered me to come to let him know. There sat Berry, Egan, and Salmon at the door on the bench. Berry said, that son of a whore M'Daniel is not come yet; now we must wait for him. Go you back, and Egan shall come after you directly. Egan and I walked up the street a little way together. I said, stop there a bit, while I go over to that shop to buy a lamb's liver for breakfast; he said, he would go on. He went on before, and called for a pint of beer; I came after with the liver. I said to Ellis and Kelly, as I was going to cut the liver, that man deals in Rag-fair ( meaning Egan ) at the same time I knew he did not, but I was to say so when he came in. I said, may-be he will buy the breeches; shall I ask him? Yes, said they, with all our hearts. I said to him, master, will you buy some leather breeches? He said, let me look at them; if you and I can agree, I will buy them. After he had looked at them, he said, what will you have for them? I said, six shillings. He said, I will give you five. He put his hand into his pocket, and gave Kelly a shilling earnest, and said he had not so much money about him, but he would come in an hour or two and pay the rest of the money, and he would leave the breeches in our care till he came back. I said, my friend, will you eat a bit of liver and bacon before you go? He said, I don't care if I do. He sat down by the fire-side, and said, landlord, let us have a halfpenny-worth of tobacco, and said God bless me, I don't know what I shall do; I have lost my tobacco-box, (this he was to say to get the tobacco-box of them). I say to Kelly, let us sell him the<xptr type="pageFacsimile" doc="175503010010"></xptr> box, may-be he will buy it. Kelly said, no, let us ding it; it is such a remarkable one, may-be it may be known.</p>
+               <p>Q. What did he mean by dinging it?</p>
+               <p>Blee. He meant to sting it away; I said, no, let us sell it; then Kelly said, master, I will sell you a tobacco-box if you will buy it: said he, let me look at it; he looked at it and asked what he would have for it? Kelly asked six-pence for it; he said, no, he would not give it; I said, we will not have dry money, we'll have some beer; then Egan said, he would give a full pot of twopenny for it; then Kelly said he should have it; after he had eat his breakfast he went out, and goes to Berry and Salmon; I went backwards with the two boys to play at skittle to detain them, but the ground was so wet we could not play, so we found another pastime called the devil and taylors. I kept them there an hour and half, then I said, if the man don't come let us sell the breeches; I said I will go and be shaved, and I left my great coat and went to the White-bear, but when they came there they did not like the people of the house, because when M'Daniel came they did not like him. I went out of the house and saw Berry come out of the Elephant and Castle, they beckoned me over, I went and called for a pint of beer; Berry said to me you may drink with us, and said, d - n you, where is your great coat (which is the same I have now) he bid me turn back and fetch it, and said M'Daniel and Egan shall go.</p>
+
+               <p>Q. Who were there?</p>
+               <p>Blee. There were all the four prisoners there sitting in the box going in on the left-hand side drinking; I went back again to Ellis and Kelly, and said the barber is busy, and can't shave me, I must come again in five or six minutes; I said, the weather is cold, I must put my great coat on; I put it on and went to the Elephant and Castle to them again. Berry bid me go to the Bell in the Borough, and stay there till he came, and to get shaved. I went away, and as I was going, Egan and M'Daniel went out; I got shaved, and went to the Bell in the Borough, and called for a pint of beer and drank it; about an hour after Berry came in and we had another pint, then he and I went homewards together, we went as far as Ludgate-hill, there we saw one Mr. Rogers coming along, so he said, leave me, don't be seen with me, and I left him. At night when Berry came home I said to him, master, be so good as to lend me some money to go to the fair to-morrow; he said, that is right, Uxbridge fair is to-morrow the 31st, he lent me eighteen-pence, saying, it was to go to Billingsgate to buy shrimps with; I went to the fair, and came back again on the 1st of 
+               <persName id="t17550301-1-person55">
+                  August 
+                  Berry 
+               <interp inst="t17550301-1-person55" type="surname" value="Berry"></interp>
+                     <interp inst="t17550301-1-person55" type="given" value="August"></interp>
+                     <interp inst="t17550301-1-person55" type="gender" value="male"></interp>
+                  </persName>
+             bid me not be afraid, saying, he would always keep a good look out, and they always said if I was taken up, Salmon should never appear against me.</p>
+               <p>Q. You say you went to the White-bear in expectation of seeing the prisoners, and after that to the Elephant and Castle, when you came in there what did you see?</p>
+               <p>Blee. I saw Mr. Berry, Salmon and Egan M'Daniel was down in the yard at my first going in, but he came in before I went away.</p>
+               <p>Q. Recollect yourself whether you saw them eat or drink?</p>
+               <p>Blee. I drank part with them, but I had breakfasted before I got there; I know Berry told me they had a rather of bacon, and he said I had had a better breakfast than they.</p>
+               <p>Q. Where did he tell you this?</p>
+               <p>Blee. He told me so at the Bell in the Borough.</p>
+               <p>Q. Was you at the tryal of Kelly and Ellis in Kent?</p>
+               <p>Blee. No, I was not.</p>
+               <p>Q. Where was you at the time of the tryal?</p>
+               <p>Blee. I was taken up on the Friday before, being the 8th day of the month.</p>
+               <p>Q. What day was the robbery committed?</p>
+               <p>Blee. It was on the 29th of July.</p>
+               <p>Cross-examination.</p>
+               <p>Q. You have given an account of several meetings and conversations you had with Kelly and Ellis before the robbery was committed, was not the conversation about stealing linen?</p>
+               <p>Blee. It was.</p>
+               <p>Q. Was there any mention made about a robbery on the highway?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010011"></xptr>Blee. No, none; I said what Berry ordered me to tell them.</p>
+               <p>Q. for Berry. You say Kelly and Ellis went with you under a notion of stealing of linen, and Kelly accidentally pitched on Salmon, and proposed to you to commit a robbery on him?</p>
+               <p>Blee. No, he did not till we just got up with him, then he said there is the old breeches-maker let us scamp him.</p>
+               <p>Q. Before that had you proposed to him to commit a robbery upon Salmon ?</p>
+               <p>Blee. No, sir.</p>
+               <p>Q. Whether Mr. Berry had any conversation with Kelly or Ellis?</p>
+               <p>Blee. No, none at all; he did not chuse to be seen in it.</p>
+               <p>Q. Nor none of the other prisoners?</p>
+               <p>Blee. No, they had not.</p>
+               <p>M'Daniel. He mentioned that he had been four or five times up in Holborn; I never was there with him in my life.</p>
+               <p>Blee. He was several times.</p>
+               <p>M'Daniel. He mentions he was at the Plumb-tree in Shoe-lane, I never was there with him in my life.</p>
+               <p>Blee. Yes he was several times.</p>
+               <p>Q. from Berry. What lodging did you lye in at my house?</p>
+               <p>Blee. Sometimes in Berry's hay-loft, and sometimes in the room adjoining to his; I lay in that room till all the money was gone of Kidden's reward, then I was forced to lie in the hay-loft.</p>
+               <p>Q. from Berry. He says I lent him one shilling and sixpence to go to Uxbridge fair; what time was that ?</p>
+               <p>Blee. It was on the Tuesday-night, the day after the robbery; Uxbridge fair is on the 31st.</p>
+               <p>Berry. Uxbridge fair is always the 20th day of the month.</p>
+               <p>Blee. That is old stile.</p>
+               <p>Q. from M'Daniel. Ask him if he has not had a quarrel with me, and swore he would be revenged on me.</p>
+               <p>Blee to the question. No, never; M'Daniel once got a long knife, and threatened to cut my throat.</p>
+               <p>Berry. Because I took his brother, that was transported, he always swore he would be revenged of me.</p>
+               <p>Blee. I never swore so; he did not take him. (See one 
+               <persName id="t17550301-1-person56">
+                  John 
+                  Blee 
+               <interp inst="t17550301-1-person56" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person56" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person56" type="gender" value="male"></interp>
+                  </persName>
+             cast for transportation for stealing an handkerchief, No. 568. in alderman Cockayne's mayoralty ).</p>
+               <p>Salmon. I have never been at the Bell in Holborn, these five years.</p>
+               <p>Blee. He was there as I have mentioned.</p>
+               <p>Q. from Egan. I want to know if it can appear by any man or woman that I have been in a house with Blee ?</p>
+               <p>Blee. There are several will prove that.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person57">
+                  George 
+                  Holewright 
+               <interp inst="t17550301-1-person57" type="surname" value="Holewright"></interp>
+                     <interp inst="t17550301-1-person57" type="given" value="George"></interp>
+                     <interp inst="t17550301-1-person57" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person58">
+                  George 
+                  Holewright 
+               <interp inst="t17550301-1-person58" type="surname" value="Holewright"></interp>
+                     <interp inst="t17550301-1-person58" type="given" value="George"></interp>
+                     <interp inst="t17550301-1-person58" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Scroop's-court, facing St. Andrew's church, Holborn.</p>
+               <p>Q. Do you know either of the four prisoners at the bar?</p>
+               <p>Holewright. I know three of them.</p>
+               <p>Q. Which are they?</p>
+               <p>Holewright. M'Daniel, Salmon, and Berry. I do not take upon me to know Egan.</p>
+               <p>Q. Do you know Blee the evidence?</p>
+               <p>Holewright. I do.</p>
+               <p>Q. How came you to know M'Daniel ?</p>
+               <p>Holewright. I have known him and Berry some years; M'Daniel kept the sign of the Angel in Scroop's-court.</p>
+               <p>Q. Where did he lodge about July last?</p>
+               <p>Holewright. He and his wife, as he calls her, came into my house on Ash-wednesday was twelve-months. He gave me a crown earnest, and they continued there about four months; he lodged there till he was taken up at Maidstone.</p>
+               <p>Q. Did you ever see the evidence Blee coming to him amongst the rest?</p>
+               <p>Holewright. Yes, many times; he was a very handy man amongst them, and a very willing fellow.</p>
+               <p>Q. Have you seen him often with M'Daniel ?</p>
+               <p>Holewright. I have seen them together many times. Blee used to come there to wash the house and clean the dishes; and he used to come often to ask for his master Berry. They used to be generally together.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010012"></xptr>Q. He has said, in July last he was at M'Daniel's lodgings, in Scroop's-court; do you recollect yourself that he was there in that time ?</p>
+               <p>Holewright. The last time I saw M'Daniel was on the Friday-night, and on the Saturday, the day after, he was gone down to Maidstone, but then I thought he was gone down to Coventry; and I saw Blee at my house much about that time. They were very busy together; but I never did expect to be called upon in court about these things, and have made no account of this; I can't be exact as to the last time he saw Blee there.</p>
+               <p>Q. Was you ever in the Artillery-ground?</p>
+               <p>Holewright. I was, and saw Blee there, running backwards and forwards; that was, I remember, on a Tuesday; I don't know in what month, but it was when the White Regiment marched.</p>
+               <p>Q. In what manner did Blee appear there?</p>
+               <p>Holewright. I think he had a great coat. On running backwards and forwards, I said, Tom, what are you at? He said, hold your tongue, hold your tongue; I saw him cross several times.</p>
+               <p>Q. Did you see either of the prisoners there ?</p>
+               <p>Holewright. I did not see any of them as I remember ?</p>
+               <p>Q. You say M'Daniel went down to Maidstone assizes, did he tell you he was going there?</p>
+               <p>Holewright. No, he never mentioned a word to me of that, he said he had taken a man in Smithfield for a murder, and he expected to have the reward, and said he should go to Coventry one day or another.</p>
+               <p>Q. Did you know the prisoners at the bar were acquainted together?</p>
+               <p>Holewright. I have seen M'Daniel and Berry together especially, Salmon the least; I have seen them all together, except Egan, him I never saw to my knowledge.</p>
+               <p>Q. Have you seen Blee with them?</p>
+               <p>Holewright. I have seen him with all three of them; he was a sort of a runner to them, as I thought.</p>
+               <p>Q. Did they appear as of one company when you have seen them together.</p>
+               <p>Holewright. Very often; and if any thing was to be done, Blee used to run backwards and forwards, and there was whispering together, but it was nothing to me.</p>
+               <p>Q. Had you ever an opportunity of hearing their discourse ?</p>
+               <p>Holewright. No, I never had.</p>
+               <p>Q. from Berry. Where have you seen us drinking together?</p>
+               <p>Holewright. At M'Daniel's, when he kept the Angel in Scroop's-court.</p>
+               <p>Q. How long is that ago?</p>
+               <p>Holewright. It is about five years ago.</p>
+               <p>Q. from Berry. Have you seen me lately?</p>
+               <p>Holewright. I have seen you lately at the Union-arms in Union-court. I have seen them all three there.</p>
+               <p>Q. from Berry. How long is that ago?</p>
+               <p>Holewright. That may be about seven or eight months ago?</p>
+               <p>Berry. We have been in gaol seven months.</p>
+               <p>Q. from Berry. Did you ever see me up at your house where M'Daniel lived?</p>
+               <p>Holewright. No, I never saw you within my door; I have seen you about the door in the court, once, twice, or three times.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person59">
+                  Anne 
+                  Pattey 
+               <interp inst="t17550301-1-person59" type="surname" value="Pattey"></interp>
+                     <interp inst="t17550301-1-person59" type="given" value="Anne"></interp>
+                     <interp inst="t17550301-1-person59" type="gender" value="female"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person60">
+                  Anne 
+                  Pattey 
+               <interp inst="t17550301-1-person60" type="surname" value="Pattey"></interp>
+                     <interp inst="t17550301-1-person60" type="given" value="Anne"></interp>
+                     <interp inst="t17550301-1-person60" type="gender" value="female"></interp>
+                  </persName>
+            . I know Egan and Salmon. I live servant at the Plumb-tree in Plumb-tree-court.</p>
+               <p>C. Look about the court, do you see them?</p>
+               <p>A. Pattey. I don't see them.</p>
+               <p>Court. Go down and look about till you find them out.</p>
+               <p>A. Pattey. Egan is lame on his right-leg. (She goes down and looks at Egan, but said she did not know that to be him).</p>
+               <p>N. B. He is a lame person.</p>
+               <p>Q. Do you know Blee?</p>
+               <p>A. Pattey. I think I do; he was once at our house, he came and had two half pints of beer, my master drew him one and I another, he-stood with his back towards me.</p>
+               <p>Q. Did you ever see Blee and Salmon together ?</p>
+               <p>A. Pattey. No, I can't say I have.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010013"></xptr>
+            
+                  <persName id="t17550301-1-person61">
+                  James 
+                  Kirby 
+               <interp inst="t17550301-1-person61" type="surname" value="Kirby"></interp>
+                     <interp inst="t17550301-1-person61" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person61" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person62">
+                  James 
+                  Kirby 
+               <interp inst="t17550301-1-person62" type="surname" value="Kirby"></interp>
+                     <interp inst="t17550301-1-person62" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person62" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Cross-street, Hatton-garden.</p>
+               <p>Q. Do you know any of the prisoners at the bar?</p>
+               <p>Kirby. I know three of them, 
+               <persName id="t17550301-1-person63">
+                  Berry, M<interp inst="t17550301-1-person63" type="given" value="Berry"></interp>
+                     <interp inst="t17550301-1-person63" type="gender" value="male"></interp>
+                  </persName>
+            'Daniel and Salmon.</p>
+               <p>Q. Where have you seen them?</p>
+               <p>Kirby. I have seen Berry and M'Daniel at the Two-brewers on Saffron-hill, on the 8th of July they were drinking at the door.</p>
+               <p>Q. Did you see any of the others in company together?</p>
+               <p>Kirby. I have seen M'Daniel and Salmon at the Union-arms in Union-court drinking together, I believe it was in the same week, may-be a stay or two after the other, they were busy together in discourse.</p>
+               <p>Q. Did you ever see Blee in company with then ?</p>
+               <p>Kirby. Blee came in that evening at the Union-arms just as Salmon went out, and staid there some small time; M'Daniel's wife came in, and they settled something that Blee had sold for her.</p>
+               <p>Q. Did you ever see them together after that time?</p>
+               <p>Kirby. I saw M'Daniel, Berry and Blee smoaking at the Union-arms in a trifle of time after, may-be the next week after the 8th day of July last.</p>
+               <p>Q. From any thing that you saw pass do you think they were acquainted together?</p>
+               <p>Kirby. They were very well acquainted; Blee appeared to me to be M'Daniel's man.</p>
+               <p>Q. By what do you think he was M'Daniel's man?</p>
+               <p>Kirby. I have seen him come several times to the Union-arms to fetch beer for his master.</p>
+               <p>Q. Did he use to appear as if he shaved often?</p>
+               <p>Kirby. No, his beard was very long most of the time I knew him.</p>
+               <p>Q. How was his beard at that time you saw him last at the Union-arms ?</p>
+               <p>Kirby. It was very long at that time.</p>
+               <p>Q. Did you ever see them three together any other time?</p>
+               <p>Kirby. No, never but once; but I have seen two of them together by turns several times.</p>
+               <p>Q. Did you hear of Salmon's being robbed?</p>
+               <p>Kirby. No, not a word of it, till I was told of it by the constable.</p>
+               <p>Q. from Salmon. How many times have you seen me at the Union-arms ?</p>
+               <p>Kirby. I saw Salmon once in the kitchen with M'Daniel, and another time sitting at the door, and Blee came while he was with M'Daniel drinking, and fetched both away in a great hurry; before Blee came they had got three dogs, and were talking about them; this was a little after the 8th of July.</p>
+               <p>Q. from Berry. What month was this in?</p>
+               <p>Kirby. It was in the month of July.</p>
+               <p>Q. from Berry. Was it in the middle or the beginning of the month?</p>
+               <p>Kirby. I can't say within a fortnight.</p>
+               <p>Q. What apparel was Blee in when you saw him there?</p>
+               <p>Kirby. In his usual apparel.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person64">
+                  James 
+                  Price 
+               <interp inst="t17550301-1-person64" type="surname" value="Price"></interp>
+                     <interp inst="t17550301-1-person64" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person64" type="gender" value="male"></interp>
+                  </persName>
+             Sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person65">
+                  James 
+                  Price 
+               <interp inst="t17550301-1-person65" type="surname" value="Price"></interp>
+                     <interp inst="t17550301-1-person65" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person65" type="gender" value="male"></interp>
+                  </persName>
+            . I know 
+               <persName id="t17550301-1-person66">
+                  John 
+                  Berry 
+               <interp inst="t17550301-1-person66" type="surname" value="Berry"></interp>
+                     <interp inst="t17550301-1-person66" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person66" type="gender" value="male"></interp>
+                  </persName>
+            , he lived in George-yard where I now live. I have seen M'Daniel frequently with him there. I have also seen Egan with him there.</p>
+               <p>Q. Do you know any thing of Salmon ?</p>
+               <p>Price. Salmon came into the yard in August last, and asked me if I had seen Berry; I directed him to the Flat-and-Tun where I had seen him go.</p>
+               <p>Q. Do you know Blee ?</p>
+               <p>Price. I had a warrant against him and young Berry. Berry kept Blee from in his house.</p>
+               <p>Q. At what time was that ?</p>
+               <p>Price. I believe it was about a year ago; I believe I had the warrant in the better part of February. I remember about the beginning of August I saw 
+               <persName id="t17550301-1-person67">
+                  Berry, M<interp inst="t17550301-1-person67" type="given" value="Berry"></interp>
+                     <interp inst="t17550301-1-person67" type="gender" value="male"></interp>
+                  </persName>
+            'Daniel and Egan at the Two-brewers at the bottom of Saffron-hill.</p>
+               <p>Q. Have you often seen them together ?</p>
+               <p>Price. I have often seen M'Daniel and Berry together.</p>
+               <p>Q. Did they seem to be acquainted ?</p>
+               <p>Price. They appeared to me to be very<xptr type="pageFacsimile" doc="175503010014"></xptr> well acquainted, for they were almost always together.</p>
+               <p>Q. from Berry. How many times may you have seen M'Daniel and I together?</p>
+               <p>Price. I believe a hundred times and more I dare swear; they were seldom ever apart; you would seldom see one without the other.</p>
+               <p>Q. How long had you a warrant, in your hands to search after Blee?</p>
+               <p>Price. I believe I had it six months; I could not get at him; this was about the time that Kidden was taken up, and they were afraid of bringing the affair out.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person68">
+                  John 
+                  Samms 
+               <interp inst="t17550301-1-person68" type="surname" value="Samms"></interp>
+                     <interp inst="t17550301-1-person68" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person68" type="gender" value="male"></interp>
+                  </persName>
+             Sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person69">
+                  John 
+                  Samms 
+               <interp inst="t17550301-1-person69" type="surname" value="Samms"></interp>
+                     <interp inst="t17550301-1-person69" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person69" type="gender" value="male"></interp>
+                  </persName>
+            . I know 
+               <persName id="t17550301-1-person70">
+                  Berry, M<interp inst="t17550301-1-person70" type="given" value="Berry"></interp>
+                     <interp inst="t17550301-1-person70" type="gender" value="male"></interp>
+                  </persName>
+            'Daniel, Egan and Salmon.</p>
+               <p>Q. Do you know any body at your left-hand ?</p>
+               <p>Samms. Yes, that is 
+               <persName id="t17550301-1-person71">
+                  Tom 
+                  Blee 
+               <interp inst="t17550301-1-person71" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person71" type="given" value="Tom"></interp>
+                     <interp inst="t17550301-1-person71" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Do you know whether any of them were acquainted together, and who?</p>
+               <p>Samms. I have seen Berry, M'Daniel and Egan together at the George on Saffron-hill,</p>
+               <p>Q. At what time?</p>
+               <p>Samms. For these two years past.</p>
+               <p>Q. When was the last time?</p>
+               <p>Samms. I can't say in particular; I saw them, I believe, in February or April.</p>
+               <p>Q. Did they appear to be tolerably intimate?</p>
+               <p>Samms. Egan has come and asked me many a time whether Berry was at home.</p>
+               <p>Q. Did you ever drink with them?</p>
+               <p>Samms. I have two or three times; M'Daniel has come and asked me many a time whether I had seen Berry, (my stable was opposite Berry's) I have directed M'Daniel where to find him.</p>
+               <p>Q. Have you any reason to think they were acquainted with Blee?</p>
+               <p>Samms. I have; Blee lodged in Berry's house, they all seemed to know Blee. I have seen Blee with them all together, except Salmon.</p>
+               <p>Q. Where have you seen them?</p>
+               <p>Samms. In George-yard.</p>
+               <p>Q. When have you seen them there ?</p>
+
+               <p>Samms. I can't say the times when; I have seen them divers times together.</p>
+               <p>Q. What were they doing?</p>
+               <p>Samms. They were talking together.</p>
+               <p>Q. From Berry. Was you ever up stairs in my house to see what beds I had?</p>
+               <p>Samms. I know, my lord, (that is, Blee) always went up stairs, and when Berry turned his wife out, Blee used to lie there.</p>
+               <p>Q. from Berry. When he had neither shoe or stocking to his foot, was he fit to lie with me ?</p>
+               <p>Samms. I know when Berry has turned his wife out, he has took Blee in, and locked the door.</p>
+               <p>Q. to Kirby. Look at this tobacco-box, did you ever see this before?</p>
+               <p>Kirby. Yes I have, I am pretty sure of it.</p>
+               <p>Q. Whose property is it?</p>
+
+               <p>Kirby. I think it belongs to M'Daniel; I remember the time when Salmon and he were drinking at the Union-arms together, when Salmon was gone there was some tobacco left upon the table, this box was taken out by M'Daniel to put the tobacco in; it is a very remarkable one, I am pretty positive it is the same.</p>
+               <p>Q. When did you see it?</p>
+               <p>Kirby. I believe it was the same week the 8th of July was in.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person72">
+                  John 
+                  Brayder 
+               <interp inst="t17550301-1-person72" type="surname" value="Brayder"></interp>
+                     <interp inst="t17550301-1-person72" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person72" type="gender" value="male"></interp>
+                  </persName>
+             sworn,</p>
+               <p>Q. Look at this pocket-piece, do you know it?</p>
+               <p>
+            
+                  <persName id="t17550301-1-person73">
+                  John 
+                  Brayder 
+               <interp inst="t17550301-1-person73" type="surname" value="Brayder"></interp>
+                     <interp inst="t17550301-1-person73" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person73" type="gender" value="male"></interp>
+                  </persName>
+            . (He takes it in his hand.) I sold a piece once pretty much like this; there was on one side of it wrote skilling; but there was not this mark on it when I sold it, (meaning the mark which Blee said Salmon made in the middle).</p>
+               <p>Q. Do you take it to be of the same specie of that you sold?</p>
+               <p>Brayder. Yes, it was; there was the same writing on one side of it.</p>
+               <p>Q. Who did you sell it to?</p>
+               <p>Brayder. I sold it to a woman.</p>
+               <p>Q. Was any body with that woman when she bought it?</p>
+               <p>Brayder. Yes, one Blee was.</p>
+               <p>Q. Should you know him if you was to see him again?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010015"></xptr>Brayder. I should.</p>
+               <p>C. Turn about, and see if you can find him.</p>
+               <p>Brayder. This is the man. (Pointing to him ).</p>
+               <p>Q. to Blee. Was you by when this man sold such a pocket-piece as this?</p>
+               <p>Blee. I was; he sold it to M'Daniel's wife, or company-keeper; she gave him three-pence and a halfpenny-worth of gin for it.</p>
+               <p>Q. Where was she when she bought it?</p>
+               <p>Blee. It was by the Two-blue-posts in Holborn, in the beginning of July.</p>
+               <p>Q. to Brayder. What time was it you sold that piece you mention ?</p>
+               <p>Brayder. I don't know the time, but I believe it was in the cherry season.</p>
+               <p>Q. What did you sell it for?</p>
+               <p>Brayder. The woman gave me three-pence and a halfpenny dram for it.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person74">
+                  Joseph 
+                  Cox 
+               <interp inst="t17550301-1-person74" type="surname" value="Cox"></interp>
+                     <interp inst="t17550301-1-person74" type="given" value="Joseph"></interp>
+                     <interp inst="t17550301-1-person74" type="gender" value="male"></interp>
+                  </persName>
+             again.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person75">
+                  Joseph 
+                  Cox 
+               <interp inst="t17550301-1-person75" type="surname" value="Cox"></interp>
+                     <interp inst="t17550301-1-person75" type="given" value="Joseph"></interp>
+                     <interp inst="t17550301-1-person75" type="gender" value="male"></interp>
+                  </persName>
+            . I have known M'Daniel two or three years; I never saw the other till I saw them all together at Maidstone assizes; I went down on the 14th of August.</p>
+               <p>Q. What was your business there?</p>
+               <p>Cox. I am chief constable of the lower half-hundred of Black-heath, and I had an information about the 3d or the beginning of August, that a breeches-maker had been robbed in the parish of Deptford, where I live, by three foot-pads, and that two of them were taken by M'Daniel and others, and sent to Maidstone gaol; and the third person, whose name was 
+               <persName id="t17550301-1-person76">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person76" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person76" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person76" type="gender" value="male"></interp>
+                  </persName>
+            , I was informed kept company with M'Daniel; and after two or three days searching, I very fortunately took that third person, with the help of a constable of Greenwich, on Friday the 9th of August, in Newgate-street, very early in the morning. I took him directly to the water-side, in order to carry him to Greenwich. When we got him into the boat, he said he would discover all he could concerning the robbery on the breeches-maker. I bid him not do it then, because of the watermen in the boat, till we came to a magistrate. We took him before a justice of peace. There he made an information. This is it. (Produced one).</p>
+               <p>Q. Do you know whose writing it is?</p>
+               <p>Cox. The name is 
+               <persName id="t17550301-1-person77">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person77" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person77" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person77" type="gender" value="male"></interp>
+                  </persName>
+            's writing, I saw him write it, the other is justice Bell's writing.</p>
+               <p>Q. Was it read over to him before he signed it?</p>
+               <p>Cox. He read it over, and I myself read it over to him before he signed it.</p>
+               <p>Q. When was it taken ?</p>
+               <p>Cox. It was taken on the 9th of August, but not sworn to till the 13th; it was read over to him before the justice, and the justice and Blee signed it in my preference.</p>
+               <p>It is read to this purport:</p>
+               <p>Kent, to wit.</p>
+               <p>The information of 
+               <persName id="t17550301-1-person78">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person78" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person78" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person78" type="gender" value="male"></interp>
+                  </persName>
+            , of the parish of St. Andrew, Holborn, breeches-maker, taken upon oath, &amp;c.</p>
+               <p>'' This informant faith, that about four '' weeks or upwards ago, Stephen M'Daniel '' and 
+               <persName id="t17550301-1-person79">
+                  John 
+                  Berry 
+               <interp inst="t17550301-1-person79" type="surname" value="Berry"></interp>
+                     <interp inst="t17550301-1-person79" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person79" type="gender" value="male"></interp>
+                  </persName>
+             desired him to look out, '' and they gave him money to that intent, '' to get into company with two lads, or men, '' which he should afterwards betray, by '' getting them into a robbery, and they share '' the reward given upon their conviction; '' and in order thereto, they did go frequently '' with the informant into the adjacent fields, '' but could not meet with any. And this '' deponent faith, that he has met Stephen '' M'Daniel, 
+               <persName id="t17550301-1-person80">
+                  John 
+                  Berry 
+               <interp inst="t17550301-1-person80" type="surname" value="Berry"></interp>
+                     <interp inst="t17550301-1-person80" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person80" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17550301-1-person81">
+                  James 
+                  Salmon 
+               <interp inst="t17550301-1-person81" type="surname" value="Salmon"></interp>
+                     <interp inst="t17550301-1-person81" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person81" type="gender" value="male"></interp>
+                  </persName>
+            , '' breeches-maker, and 
+               <persName id="t17550301-1-person82">
+                  James 
+                  Egan 
+               <interp inst="t17550301-1-person82" type="surname" value="Egan"></interp>
+                     <interp inst="t17550301-1-person82" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person82" type="gender" value="male"></interp>
+                  </persName>
+             of Drury-Lane, '' cordwainer, in order to concert and '' put this their said scheme into execution; '' and that he the said deponent met with John '' Ellis and 
+               <persName id="t17550301-1-person83">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person83" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person83" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person83" type="gender" value="male"></interp>
+                  </persName>
+             (now prisoners in the '' county gaol at Maidstone ) in the Fleet-market, '' and as he knew them to be persons '' of bad life and conversation, he introduced '' himself into their company; after '' treating them, he asked them to go with '' him to Deptford, to steal some linen, which '' they agreed to do on the Thursday following; '' but after that put them off till the '' Monday following, by the direction of the '' said M'Daniel, Berry, Salmon, and Egan, '' who had all at different times seen the said<xptr type="pageFacsimile" doc="175503010016"></xptr> '' Ellis and Kelly, and approved of them '' for that purpose; and judged it most  '' to have the robbery committed on the Monday-morning, '' left they should be detained '' near London on the Sunday, and some circumstances '' might render their schemes abortive; '' and that they met at the Bell in '' Surry as they went.</p>
+               <p>'' And this deponent faith, that it had been '' concerted between them, that the intended '' robbery should be between New-cross '' turnpike and Deptford, to intitle them to '' the reward offered by the said parish; that '' he took the said Ellis and Kelly to a public-house, '' known by the sign of the Ship, '' where they had promised to come to him; '' and after staying there some time, he left '' Ellis and Kelly at the Ship, and went out '' to look for Berry, and Salmon; he found '' Berry, who counselled this deponent to return '' to Ellis and Kelly, and said, that Salmon '' should follow him immediately; that '' he returned, and Salmon did come into the '' house at the sign of the Ship, and staid '' there near an hour. During which time '' he, this deponent, treated them with bread, '' cheese, beer and gin, and Salmon going '' away in the evening, they followed, and '' agreed to rob him in the first place that '' Salmon stopt at, which was the four-mile '' stone, under a pretence to urine, but it was '' in order that they might overtake him, that '' being thought the most convenient place; '' that they came up with the said Salmon '' there. And this informant, without his, or '' either of the said Ellis and Kelly, producing '' any weapon, took from under the '' said Salmon's arm two pair of leather '' breeches, which had been purposely mark'd, '' particularly on the waistband or pocket; '' and that he took out of his pocket a clasp '' knife, and a tobacco-box, which tobacco-box '' was, he says, M'Daniel's; but as '' it was a particular and very remarkable one, '' he lent it to the said Salmon on this occasion, '' which had in it two shillings and sixpence '' in silver, and a silver pocket-piece, '' which he had submitted himself tamely to '' be robbed of; and after they had left this '' said Salmon, they went and lodged in Kent-street, '' and in the morning he took them '' to the Spread-eagle, where he had agreed '' with the said M'Daniel, Berry, Salmon, '' and Egan to take them; that about seven '' in the morning, the said Egan came in accordingly '' and that this deponent told the '' said Ellis and Kelly, Egan dealt at Rag-fair, '' and he asked the said Egan if he would buy '' the said leather-breeches, and he agreed to '' pay five shillings for them; that he gave '' them a shilling in part; after that he called '' for a pipe of tobacco, and said that he had '' lost his box, with intent to buy that which '' they had taken from Salmon; that he bought '' it of them for a pot of twopenny; then he '' went out to get the remainder of the money '' for the said breeches, and went to another '' ale-house in Kent-street, to M'Daniel, who '' immediately went with Egan, and secured '' the said Ellis and Kelly with all the things, '' except the said tobacco-box, which Egan '' had purchased of them, as he believes. '' And this deponent farther faith, that he '' has several times been in company with the '' said M'Daniel, Berry, Salmon, and Egan, '' and they have all severally encouraged him, '' and said, if he should be impeached, they '' would say nothing against him; and they '' promised to share the reward and subscription-money '' raised, between the said Berry, '' Salmon, M'Daniel, Egan, and this deponent; '' and that this was contrived to convict '' the said Ellis and Kelly on purpose to '' get the reward.</p>
+               <p>'' Sworn before me, - Bell.''</p>
+               <p>Cox. As soon as this was taken, the same night I obtained a warrant against M'Daniel, another against Berry, another against Salmon, and another against Egan. I was advised to attend the trial of Ellis and Kelly, and not to discover that I had Blee in custody till after the trial, and in order that he did not make his escape, Thomas Warren went down to assist me. When I came to Maidstone I informed myself as soon as I could who was on the back of the bill of indictment of Ellis and Kelly; their trial came on the 15th of August at night; I came into court very soon after the trial began, Blee was<xptr type="pageFacsimile" doc="175503010017"></xptr> then in my custody, but nobody knew it then at Maidstone; he was brought down in the night and stopped short of the town. When I came in I heard Salmon giving evidence against Ellis and Kelly; he said that he went in at the Ship at Deptford and had a pint of beer, that he saw three men drinking in a box, and Ellis and Kelly, the then two prisoners at the bar, were two of the three persons, and the other was a carroty-bearded fellow; that after he had drank his pint of beer, in the dusk of the evening he went out in order to go home to London, and having got as far as the four-mile stone, opposite to which at a gate he stopped to make water, in the mean time the three men came up, and one of them d - d him, and asked where he was going? he said, he desired him not to swear, and said he was going to London; upon that one of them, the carroty-bearded fellow snatched the bundle from under his arm and punched him on the breast. The judge was pleased to ask him if it was light enough to see their faces, and whether he was sure the prisoners were two of the men? yes, he said, it was light enough to see their faces, and he was sure they were two of the people, that robbed him. Then he went on and said, that Kelly, one of the prisoners at the bar, drew a knife, and said, d - n him, let us search him, and took out of his pocket an iron tobacco-box, in which was a guinea in gold, two shillings and six-pence in silver, and a silver pocket-piece, and likewise a clasp-knife and fork out of his pocket; he said the bundle contained two pair of leather breeches marked with J. S. and a figure of 4 under the right-pocket, and that the handkerchief had an oilet hole at each corner, and all those goods were produced in court, and he looked at them and said they were the goods he was robbed of, and that they were his property.</p>
+               <p>Q. Are these produced here the same?</p>
+               <p>Cox. These are the same goods, they were delivered into my care, and have been ever since. The judge was pleased to ask him how he knew the pocket-piece? he said by a particular mark it had in the middle. His lordship was pleased to ask to see it, and it was delivered to him by the constable of Greenwich.</p>
+               <p>C. Look at that pocket-piece and tobacco-box.</p>
+               <p>Cox. I am sure they are the very same things he swore he was robbed of. I asked the judge what he was pleased to have done with the things? his lordship bid me take care of them till the persons were tried. He was pleased to ask the prisoners if they would ask Salmon any questions? Kelly desired Salmon might be asked whether he saw him draw a knife? Salmon said, yes, you did draw a knife, but I suppose you will deny all the rest presently. Kelly said, that can't be, because he had never a knife. There was one circumstance which I had forgot; when the judge had asked him if it was light enough to see their faces, he also asked him if he could know the carroty-bearded man, and if he had ever seen him before? he said, no, he had not to his knowledge.</p>
+               <p>Q. Did you see either of the other prisoners there?</p>
+               <p>Cox. I saw M'Daniel, Salmon and Egan.</p>
+               <p>Q. Did they all give evidence?</p>
+               <p>Cox. They did.</p>
+               <p>Q. from Berry. Did you see me in court?</p>
+               <p>Cox. I did not; I saw him at Maidstone in the time of the assizes. After Salmon had done, Egan was the next evidence; he said, he dealt in old cloaths; that on the 30th of July he went into Kent-street to the Lock-hospital to see if they had any old cloaths to sell, but they not being up, he went into the Black-spread-eagle to get him a pint of beer; that he observed three men sitting in a box drinking, and as he was telling the landlady his business, one of them, a carroty-bearded fellow, not taken, (for they did not know he was taken then) asked him if he would buy two pair of breeches? he said, yes, if they could agree for the price, and that they did agree for five shillings, and that he gave Kelly one shilling earnest to bind the bargain, till his wife should come with more money, or something of that sort; and he was asking the landlady for a halfpenny-worth of tobacco, and as he was saying he had lost his tobacco-box, one of the men offered to sell him one, I have forgot which of the prisoners he said that was, he said he bought it of him for a pot of twopenny<xptr type="pageFacsimile" doc="175503010018"></xptr> (indeed they sell no other liquor at that house ) he said, as he was looking at the breeches, he knew them to be Salmon's property, having heard that Salmon was robbed over night, and after some time he went out, under pretence to get the rest of the money, but meeting with Mr. M'Daniel, an acquaintance of his, and knowing him to be an officer, he told him the story, and M'Daniel said, he need not give himself the trouble to look for an officer, for he could do as well as a constable; and so he returned back with him and took Ellis and Kelly at the Blackspread-eagle, and upon searching them took out of Kelly's pocket a silver pocket-piece, the same that was then produced, and a shilling and a clasp-knife; the judge was pleased to ask him how he knew the breeches belonged to Salmon? he said, by a particular mark they had; he was asked how he knew the mark? he said he had bought breeches of him for himself, and, I think, his son twelve years, and knew his mark particularly well; the judge asked the prisoners if they would ask that witness any questions? and Kelly desired he might be asked if the carroty-bearded man and he did not wink at each other before he offered to sell him the breeches, and Egan also said what gave him the greatest suspicion that the breeches were stolen was, because he had seen one of the two prisoners ducked for picking of pockets in the Artillery-ground. M'Daniel was the next witness; he said he met Egan, an acquaintance of his, and Egan knowing him to be an officer told him the story, and he went with him and took Ellis and Kelly, and upon searching Kelly he found upon him a silver pocket-piece, the same that is now produced in court, a shilling and a clasp-knife, (I suppose the fork was then lost). He said that was all he had to say, only there was a drummer in the room when he was taken, who he ordered to assist him, which he did.</p>
+               <p>Q. Did he say any thing about the tobacco-box ?</p>
+               <p>Cox. I don't remember that he did; the moment the people were called into court to give evidence, I had fixed my eye pretty steadily on Mr. Berry, whom I asked to go with me to drink a glass of wine, he was in the other court, which he did, and I secured him at the Bell; then I went to secure the others according to my warrants. As soon as they had given their evidence the cryer ordered them to go out. We secured them; upon searching M'Daniel I found this knife upon him (produced in court a singular long sheath'd-knife of the Dutch sort) I was told of it before. As soon as they were secured I was forced to get leave to put them in the mayor's goal; I asked Salmon in particular if he knew one 
+               <persName id="t17550301-1-person84">
+                  Thomas 
+                  Blee 
+               <interp inst="t17550301-1-person84" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person84" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person84" type="gender" value="male"></interp>
+                  </persName>
+            ? he did, as he had done before in court, say he knew no such man. I said to him I was sure you must know him; he as positively denied it again; the next day when he was carried before the justices, I believe there were twenty or thirty of them, Blee was brought face to face to him, he looked at him, and then declared he never saw that man in his life before. I asked M'Daniel that night if he knew 
+               <persName id="t17550301-1-person85">
+                  Tom 
+                  Blee 
+               <interp inst="t17550301-1-person85" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person85" type="given" value="Tom"></interp>
+                     <interp inst="t17550301-1-person85" type="gender" value="male"></interp>
+                  </persName>
+            , he denied he knew any such person. I asked Egan the same, and he as posilively denied it as the rest, at the time Berry was in custody at the Bell. I remember as we were going along to the Bell to drink a glass of wine, he asked me what I thought would be the fate of Ellis and Kelly, and who was to pay the expence of the prosecution, for it was very considerable; upon that I could not help observing, that if they were convicted, there would be sufficient to pay the expence very handsomely, and if they were acquitted, the prosecutors, I said, I believed must bear the expence themselves; he said he knew that, and for that reason if this affair was well over he never would be concerned again; by that time we had got to the Bell the discourse dropped, and I took him in custody. When I had secured the others in the mayor's gaol, I went and fetched Berry from the Bell; after I had got him into that gaol I asked him if he knew 
+               <persName id="t17550301-1-person86">
+                  Tom 
+                  Blee 
+               <interp inst="t17550301-1-person86" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person86" type="given" value="Tom"></interp>
+                     <interp inst="t17550301-1-person86" type="gender" value="male"></interp>
+                  </persName>
+            ? he said he did not know any such person. I put them in separate rooms that night, and set a man in each room with them. The next day when Berry had been carried before the justice and was committed, he and I walked together from the Bell to the gaol, in going along he said, he hoped the gentlemen would not admit M'Daniel an evidence (for at that time it was thought he would<xptr type="pageFacsimile" doc="175503010019"></xptr> get to be an evidence) because he had saved himself once before by the same means, but, said he, if the gentlemen will admit me an evidence I can do for M'Daniel and another man, whom he named, that is not in custody, whom I know not whether I should name.</p>
+
+               <p>C. Name that person.</p>
+               <p>Cox. It is 
+               <persName id="t17550301-1-person87">
+                  Ralph 
+                  Mitchel 
+               <interp inst="t17550301-1-person87" type="surname" value="Mitchel"></interp>
+                     <interp inst="t17550301-1-person87" type="given" value="Ralph"></interp>
+                     <interp inst="t17550301-1-person87" type="gender" value="male"></interp>
+                  </persName>
+            . I asked him if he would tell me any particular that he could adedge against them. He said he would write to me in a few days; but he never did. As to M'Daniel, the next morning after he was apprehended, he desired to speak with me in the room where he was confined, I took Mr. Warren, one of the constables of Greenwich, with me, and went to him. He said he had rather speak to me by myself; with that Mr. Warren withdrew; he there cried a good deal, and begged of me to be his friend, and get him committed for farther examination; for he said he could make a very great discovery relating to the public, and could put 500 pounds into my pocket. I told him I would acquaint the gentlemen with what he said. Accordingly I did, and used my endeavour to prevent his being committed for farther examination; he was afterwards committed upon the warrant.</p>
+               <p>Q. from Berry. Did you see me any way busy about the affair?</p>
+               <p>Cox. Berry kept M'Daniel, Salmon, and Egan company, and because it was to be my place to take them, I kept company with them all four for two hours.</p>
+               <p>Q. from Berry. Was I busy in preferring the bill?</p>
+               <p>Cox. I don't know that he was.</p>
+               <p>Q. from Berry. Was I not sitting in Nisi Prius court to see the tryals there?</p>
+               <p>Cox. Yes, he was. When I talked with Berry afterwards, he denied knowing Blee, and pretended to be a stranger to them all, and said he came down into that country about horses. As for Egan, he denied he knew Blee, or ever saw Berry. Some time after, I had some talk with him again, then he declared he never saw Berry in his life till he saw him in the Gravesend boat.</p>
+               <p>Q. Can you recollect whether there were any inquiry made by the judge whether they knew one another upon their oaths?</p>
+               <p>Cox. There was nothing said of that sort, that I remember.</p>
+               <p>Q. from M'Daniel. Whether or no I did not go to 'squire Bell, to charge Blee with a robbery after he was taken?</p>
+               <p>Cox. I know but little of that; but here will be an evidence that can give a very good account of that.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person88">
+                  Elisabeth 
+                  Pragnell 
+               <interp inst="t17550301-1-person88" type="surname" value="Pragnell"></interp>
+                     <interp inst="t17550301-1-person88" type="given" value="Elisabeth"></interp>
+                     <interp inst="t17550301-1-person88" type="gender" value="female"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person89">
+                  Elisabeth 
+                  Pragnell 
+               <interp inst="t17550301-1-person89" type="surname" value="Pragnell"></interp>
+                     <interp inst="t17550301-1-person89" type="given" value="Elisabeth"></interp>
+                     <interp inst="t17550301-1-person89" type="gender" value="female"></interp>
+                  </persName>
+            . I live at the Ship in the Broad-way, Westminster; I remember seeing Blee at our house on the 29th of July in the evening, in company with two lads, each of them dressed in blue-and-white striped waistcoats very dirty, and I saw those two lads at our house the next day, being the 30th; I have heard since one was named Kelly, the other Ellis. On the 29th, in the evening, they came and sat down at the door, and called for a pint of beer; I believe they were there the best part of an hour. The evidence Blee inquired for somebody, I don't know who it was. He went out, and came in again in a little more than half an hour. Then the two lads said to him, will you pay for this pint of beer? He said, yes, come in, and we will have a pot of beer; then they came in, and called for a pot of beer; one of them went over the way to a shop for some bread and cheese; he brought some in, and they eat it; they staid I believe about an hour and half, and went away when it was dark. Salmon also came in, with a bundle under his arm in a handkerchief when they were there; he called for a pint of beer, and pitched himself against the dresser, facing them, and looked at them, then went and sat down in a box with his back toward them; he went out a little before them; I remember Blee went out two or three times.</p>
+               <p>Q. What liquor had Blee and the lads.</p>
+               <p>E. Pragnell. They had two pots and a dram, I can't say whether it was a quartern or not; Blee changed half a crown, and paid for the liquor. On the forenoon the next day, the two lads that were with Blee were brought in again by a constable, and a drummer, named Cornack, to assist him. The man that I took<xptr type="pageFacsimile" doc="175503010020"></xptr> to be the constable, which was M'Daniel, called for a pint of beer; he asked me whether I knew them two boys to have been there overnight? I said, yes. Then he asked me if I knew that man at the door? I said, yes; he had a pint of beer at my house the last night (that was Salmon ).</p>
+               <p>Q. Did he mention Salmon's name, or say he knew him?</p>
+               <p>E. Pragnell. No, he did not.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person90">
+                  James 
+                  Cornack 
+               <interp inst="t17550301-1-person90" type="surname" value="Cornack"></interp>
+                     <interp inst="t17550301-1-person90" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person90" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person91">
+                  James 
+                  Cornack 
+               <interp inst="t17550301-1-person91" type="surname" value="Cornack"></interp>
+                     <interp inst="t17550301-1-person91" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person91" type="gender" value="male"></interp>
+                  </persName>
+            . I am a drummer, I was quartered at the Black-spread-eagle in Kent-street. On the 30th of July last, I came down stairs between eight and nine in the morning, observed three men sitting together in a box, one of them had a carroty beard, which was Blee; they had had some victuals, and there was some drink before them.</p>
+               <p>C. Look about, and see if you see Blee here.</p>
+               <p>Cornack. There he stands (pointing to him,) his beard is now much about the length it was then (it might be six weeks growth,) the other two were the two prisoners that were cast at Maidstone. Blee said, I think I will go out and get shaved; he went out; in about eight or ten minutes after that, in came M'Daniel, with a darkish-coloured coat on, he laid hold of Kelly, and said, come out, you blackguard dog. I said, what makes you abuse the lad in this manner ? He said, d - n him, I have got a warrant against him, I am an officer, they have robbed a man just against the four-mile stone near Deptford; I desire you would aid and assist me. I said, if that is the case, I will. He took a piece of rope out of his pocket, and tied them together. Now, said he, I will take care of them; do you step down to the Elephant-and-castle, you will see two men, one in a light surtout coat, and his own curled hair; I will pay you for your trouble. I went there; there sat Berry the prisoner, and Salmon was coming in from making water. I said to Salmon, I believe you are the gentleman that I want, there is a gentleman at my quarters that wants to speak with you. Berry said, go along with him. Salmon went with me; coming along the street, I said, what is the matter? what has happened? Said he, I happened to be at Deptford-yard last night, and had taken some money, and had some breeches with me; there were three chaps stopt me, and robbed me of a guinea in gold, half a crown in silver, a tobacco-box, and two pair of leather breeches tied up in a handkerchief; and if the breeches are mine, they are marked with J S. and a figure of 4 on the right-pocket; and the handkerchief has an oilet-hole at each corner. We went in; there stood the bundle on the table, and Egan sitting in a box opposite the lads. M'Daniel asked Egan what he had in that handkerchief? He answered it was no business of his, for the handkerchief and the things in it were his, for he had bought them of the lads. I made him open the handkerchief, we found it marked at each corner as Salmon had said, and the breeches 
+               <persName id="t17550301-1-person92">
+                  J.
+                   S. 
+               <interp inst="t17550301-1-person92" type="surname" value="S."></interp>
+                     <interp inst="t17550301-1-person92" type="given" value="J."></interp>
+                     <interp inst="t17550301-1-person92" type="gender" value="indeterminate"></interp>
+                  </persName>
+            4. M'Daniel searched Kelly, and I saw him take a clasp-knife out of his pocket, a shilling and a silver pocket-piece; he gave him the shilling back again, and said the pocket-piece was marked in the middle, and shewed it me, and desired me not to be meally-mouthed when I came before the justice; this he said once or twice. They tied the things all up in a handkerchief, and we set out with them to a justice of the peace at Greenwich.</p>
+               <p>Q. Did you see ever a tobacco-box?</p>
+               <p>Cornack. No, I did not.</p>
+               <p>C. Look at this pocket-piece.</p>
+               <p>Cornack. I think this is the same, it has much the same mark, it is hard for me to swear it, but I believe it is the same. Going along M'Daniel said to the lads, you have made a good hand of it, if you have spent the guinea already; the lads said they never took a guinea from him. M'Daniel said to me, one of them has got money in his stocking, but let them keep it, poor things, they'll want it; he wanted them sadly to confess the robbery, and told them if they would not they would certainly be hanged.</p>
+               <p>Q. What were his words as near as you can recollect?</p>
+               <p>Cornack. He said, you dogs, I would have you confess when you come before the justice, it will be the better for you, and tell me where<xptr type="pageFacsimile" doc="175503010021"></xptr> the other fellow is gone to; they said they could not tell any thing about it, and would give him no answer; they said to him they wanted to go to some Bridewell which I do not know. He said to them if they would confess he would do all in his power for them, and he would untie them when they came into Deptford, and they should go by water. We came to the Five-bells at the end of Deptford-road, there M'Daniel called for a pint of beer, the people brought the beer out. M'Daniel asked the lads if that was the house they had been drinking at the night before? they said no, but they had been drinking at the sign of the Ship; we drank the beer and then set out again. Egan and Salmon followed at a distance. When we came to Deptford M'Daniel took the lads in, and desired Egan and Salmon to stay at the door, he called for a pint of beer.</p>
+               <p>Q. How came Egan to follow you?</p>
+               <p>Cornack. I don't know, he came from my quarters.</p>
+               <p>Q. Did M'Daniel charge him to assist?</p>
+               <p>Cornack. Not a word as I heard; when he and Salmon were at the door M'Daniel asked the landlady if she saw them lads there the night before? she said, yes, they were there the night before, and had some bread and cheese; then he said to her, did you see that man that is now at the door? (meaning Salmon) she said, yes, he was here at the same time, and they went out about ten or twelve minutes distance one of another; said M'Daniel to me, take notice of what this landlady says, and don't be meally-mouthed when you come before the justice. Then we set out and went to Greenwich, and in the clerks office they wanted M'Daniel to be bound over to prosecute, M'Daniel said he could not, for he had a bit of an estate left him in the country, and he could not be there at the time of the assizes, then the justice's clerk was pleased to bind me over. We staid at Greenwich and had some beer, and were pretty merry till almost nine at night; coming home altogether, they let me and Egan go before. Egan swore by the Great G - d and the Sweet Jesus, he would not appear against them at the assizes; said I, you are bound over as well as I, and I can't see you can be off from going down; he said, O, by J - s it is only changing my parish, it has cost me three shillings to-day, and the breeches may go to the d - l, for I will never appear against them. We parted about ten that night; I went to my quarters; M'Daniel told me to come to his house in Union-court. I went in about a week after, but could not hear of such a person; I went to the Union-arms and found the landlord knew something of him, and I found he lived in Scroop's-court; I went and asked there for him but never could find him at home, although I went there three or four times, his woman always told me he was gone in the country; I saw him once, but that was by mere chance, he was then dodging me, or somebody else, at the end of Parliament-street.</p>
+               <p>Q. Was you at the assizes at Maidstone ?</p>
+               <p>Cornack. I was; when I came there I could not find any of them, they kept out of my sight, I imagined for fear, I should come in for part of the reward, at last, I happened to meet Egan in the street, I said, what have you done the thing ? (I meant found the bill) he said, no, we shall not do it this day or two; thinks I, I'll watch you; I did, and by-and by came Salmon and M'Daniel, and, I think, Egan, and one Sergant a constable; they and I went into the clerks office to get the bill of indictment drawn, Berry did not go in, I followed them; when they came in the clerk said, are you all here? yes, said M'Daniel, we are all here; said the clerk, there are six of you, there are but five of us, said M'Daniel; said the clerk, is there not a drummer? oh! said M'Daniel, I forgot him. After we had prepared the bill of indictment, I went to the Cock at Maidstone, there sat Berry; I did not recollect him at that time; said he, how do you do, drummer? I said you have the advantage of me, I can't say I know you; no, said he, don't you know that morning when you went to the Elephant and Castle in Kent-street for Salmon? then I said, I believe you are the gentleman that sat there in the box; yes, said he, I am; then he asked me what I thought of those lads, will they be convicted? I said, it appears very plain against<xptr type="pageFacsimile" doc="175503010022"></xptr> them; then he said, if they are not, I must either beg my bread, or go upon the highway myself.</p>
+               <p>Q. from Berry. Were there any company by at this time?</p>
+               <p>Cornack. No, there were not, Berry was sitting by himself, he generally was by himself, except he was with his companions.</p>
+               <p>Q. Are you certain he said these words to you at that time?</p>
+               <p>Cornack. I am positive of it he did.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person93">
+                  Mary 
+                  Hussy 
+               <interp inst="t17550301-1-person93" type="surname" value="Hussy"></interp>
+                     <interp inst="t17550301-1-person93" type="given" value="Mary"></interp>
+                     <interp inst="t17550301-1-person93" type="gender" value="female"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person94">
+                  Mary 
+                  Hussy 
+               <interp inst="t17550301-1-person94" type="surname" value="Hussy"></interp>
+                     <interp inst="t17550301-1-person94" type="given" value="Mary"></interp>
+                     <interp inst="t17550301-1-person94" type="gender" value="female"></interp>
+                  </persName>
+            . I live at the Elephant-and-castle in Kent-street, I am servant there; my mistress's name is 
+               <persName id="t17550301-1-person95">
+                  Jane 
+                  Smith 
+               <interp inst="t17550301-1-person95" type="surname" value="Smith"></interp>
+                     <interp inst="t17550301-1-person95" type="given" value="Jane"></interp>
+                     <interp inst="t17550301-1-person95" type="gender" value="female"></interp>
+                  </persName>
+            . There came three men into our house, and after that came in M'Daniel; they had a rasher of bacon for breakfast. I don't know the others faces.</p>
+               <p>Q. When was this?</p>
+               <p>M. Hussy. It was in the last summer-time.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person96">
+                  Thomas 
+                  Sergant 
+               <interp inst="t17550301-1-person96" type="surname" value="Sergant"></interp>
+                     <interp inst="t17550301-1-person96" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person96" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person97">
+                  Thomas 
+                  Sergant 
+               <interp inst="t17550301-1-person97" type="surname" value="Sergant"></interp>
+                     <interp inst="t17550301-1-person97" type="given" value="Thomas"></interp>
+                     <interp inst="t17550301-1-person97" type="gender" value="male"></interp>
+                  </persName>
+            . (He is shewn the tobacco-box). I have seen such a one; I made a remark that the unicorn's horn was broke off the box, when M'Daniel shewed it me above a year ago; this I see is broke as that was. His box has been sent to my house many a time, to be filled with tobacco; it is near a year ago since I saw it, this is like it, but I can't tell this is it.</p>
+               <p>Q. How came M'Daniel to shew it you?</p>
+               <p>Sergant. He shewed it me as a piece of curiosity; saying, here is an old thing, a curious thing. I said, it is not perfect now, here wants the horn to the unicorn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person98">
+                  Henry 
+                  Sergant 
+               <interp inst="t17550301-1-person98" type="surname" value="Sergant"></interp>
+                     <interp inst="t17550301-1-person98" type="given" value="Henry"></interp>
+                     <interp inst="t17550301-1-person98" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>
+            
+                  <persName id="t17550301-1-person99">
+                  Henry 
+                  Sergant 
+               <interp inst="t17550301-1-person99" type="surname" value="Sergant"></interp>
+                     <interp inst="t17550301-1-person99" type="given" value="Henry"></interp>
+                     <interp inst="t17550301-1-person99" type="gender" value="male"></interp>
+                  </persName>
+            . I know all the prisoners very well; I was at the taking them all at Maidstone assizes last.</p>
+               <p>C. Give an account what you know of them.</p>
+               <p>Sergant. M'Daniel said I was a young constable, and I should have my share of the reward; he should take the money, and he would see me paid.</p>
+               <p>Q. What reward did he mean?</p>
+               <p>Sergant. The subscription-money of our parish, for the two lads that were tried, 
+               <persName id="t17550301-1-person100">
+                  John 
+                  Ellis 
+               <interp inst="t17550301-1-person100" type="surname" value="Ellis"></interp>
+                     <interp inst="t17550301-1-person100" type="given" value="John"></interp>
+                     <interp inst="t17550301-1-person100" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17550301-1-person101">
+                  Peter 
+                  Kelly 
+               <interp inst="t17550301-1-person101" type="surname" value="Kelly"></interp>
+                     <interp inst="t17550301-1-person101" type="given" value="Peter"></interp>
+                     <interp inst="t17550301-1-person101" type="gender" value="male"></interp>
+                  </persName>
+            ; I carried them down.</p>
+               <p>Q. Did you produce these goods there?</p>
+               <p>Sergant. I did.</p>
+               <p>Q. Where had you them?</p>
+               <p>Sergant. I had them of justice Bell, who sent for me, I being constable.</p>
+               <p>Q. What passed when he said you are a young constable?</p>
+               <p>Sergant. The prisoner Berry said, we shall have a good supper if the prisoners are convicted; and if they were not, he thought he must beg his way home. As I was going along the road with Ellis and Kelly to Maidstone, they told me there was one 
+               <persName id="t17550301-1-person102">
+                  Tom 
+                  Blee 
+               <interp inst="t17550301-1-person102" type="surname" value="Blee"></interp>
+                     <interp inst="t17550301-1-person102" type="given" value="Tom"></interp>
+                     <interp inst="t17550301-1-person102" type="gender" value="male"></interp>
+                  </persName>
+             concerned with them in the robbery; and also where he lived, and what sort of cloaths he wore. I took it down in writing; the justice desired me to go and take him; I said I would give directions to a thief-catcher, which I did to 
+               <persName id="t17550301-1-person103">
+                  Ralph 
+                  Mitchel 
+               <interp inst="t17550301-1-person103" type="surname" value="Mitchel"></interp>
+                     <interp inst="t17550301-1-person103" type="given" value="Ralph"></interp>
+                     <interp inst="t17550301-1-person103" type="gender" value="male"></interp>
+                  </persName>
+            ; but he refused to act in it.</p>
+               <p>Q. Was you upon the trial?</p>
+               <p>Sergant. I was.</p>
+               <p>Q. Was Salmon a witness?</p>
+               <p>Sergant. He was; he swore he lost these things. Also Egan and M'Daniel were both examined upon it.</p>
+               <p>Q. from Berry. Did you see me concern myself at all in the affair, or was I upon the back of the bill?</p>
+               <p>Sergant. No, he was not on the back of the bill; he had no business there, if he could have trusted his friends with the money. I heard M'Daniel and him both say they would share the reward.</p>
+               <p>Q. from Berry. Did not you see me sitting at the Cock all the while?</p>
+               <p>Sergant. No, he walked about with us.</p>
+               <p>Q. to Blee. You say Berry gave you a crown, what money was it?</p>
+               <p>Blee. He gave me a half-crown and two shillings and six-pence that day I went with the lads to Deptford.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010023"></xptr>Berry's Defence.</p>
+               <p>On the 25th of July I was out of town all day, and returned the Sunday following; and staid at home all day the Sunday Blee tells you he was with me, and I gave him a crown. If your lordship will indulge me to put it off till next sessions, then I can bring witnesses to prove he falsely accuses me. I went out on the 5th of August to Bromley fair, I saw Blee with a saddle on his back; he is a pilfering sort of a fellow. I went and took him by the collar, and said I would chastise him; he said, Mr. Berry, I can tell you a great deal if you will not hurt me. I said, if you can tell me a great deal, tell me where my goods are. I heard on the 12th of August that he was taken up at Greenwich; I went there, and took M'Daniel over there, to see if he was taken, on purpose to have charged him with my goods. My son is gone, he has pushed him away, and I have never seen him since, and they would never give me any answer that they had got him. I asked Mr. Sergant if he had got him? he would not tell me. They never took him to give any evidence before the justice. People may go a thieving for ever, if they may get off in this fashion.</p>
+               <p>M'Daniel's defence.</p>
+               <p>I was called out about the 30th of July to go over to the King's-bench; I met this man Egan, he desired me to go and take a couple of thieves in Kent-street; I said, what have they done? he said, I believe they have broke open some house and stole these things. I went with him to the Elephant-and-castle in Kent-street, and staid there some time, till we sent for Mr. Salmon, and when he came Egan came with him to me. I said, is the man come? he said, yes; then I went with Egan to the Black-spread-eagle, there were these two men sitting, one of them said, I believe I have done now. I turned him about and searched him, and took these breeches from under their a - s, and also from one I took this pocket-piece; after this I said to Salmon, the only way to save expence is to examine them before colonel Bell. In carrying of them down, the least of the two said, I wish I could be admitted an evidence I would be glad; I said, you dog, where is the rest of you, where is the other fellow, what is his name? this lord Blee lived along with me six or seven months, I never knew his name; when he told me my lord, I guessed directly; one of them wanted to be admitted an evidence before justice Bell, and he would not admit either of them. After that I heard my lord was taken, I goes down to Greenwich and went to Mitchel at Deptford, and said, here, Cox has taken the other fellow, Ralph, will you come up and see if he has got him? he was afraid of being taken upon some warrants, and would not go, so I went to the colonel myself, the clerk was there, and he was very ill, he said to Mr. M'Daniel, he is not taken, if he was he would be brought to me. After that I stopped a man that had murdered another at Coventry; I brought him to Hicks's-hall, the justices committed him to New-prison. The gentlemen told me I must go down to Coventry along with him. I went down to Maidstone, there I said I could say nothing to the robbery, the drummer could say as much as I could as to the pocket-piece and tobacco-box. As God Almighty is in heaven I know no more of them than your lordship there; I have taken a great many thieves and have ventured my life, and been shot at by them; I never had my name brought in question; I have been offered money to let prisoners go, but I never would do it; I could have had threescore pounds to have done it.</p>
+
+               <p>Salmon's defence.</p>
+               <p>That fellow that swore I had been at the Bell in company with him has swore false; I never was in company with him in the whole course of my life, nor I have not been in that alehouse these five years.</p>
+               <p>Egan's defence.</p>
+               <p>Please to ask where the Bell is? I do not know where it is; I have no knowledge of that man in the world (looking towards Blee).</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175503010024"></xptr>Q. to Berry. Have you any evidences to call to your character?</p>
+               <p>Berry. Call 
+               <persName id="t17550301-1-person104">
+                  Henry 
+                  Warrington 
+               <interp inst="t17550301-1-person104" type="surname" value="Warrington"></interp>
+                     <interp inst="t17550301-1-person104" type="given" value="Henry"></interp>
+                     <interp inst="t17550301-1-person104" type="gender" value="male"></interp>
+                  </persName>
+            . ( He was called but did not appear ).</p>
+               <p>Berry. I lived seventeen years in the yard where this man lives, that is 
+               <persName id="t17550301-1-person105">
+                  James 
+                  Price 
+               <interp inst="t17550301-1-person105" type="surname" value="Price"></interp>
+                     <interp inst="t17550301-1-person105" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person105" type="gender" value="male"></interp>
+                  </persName>
+            ; will you please to call him?</p>
+               <p>
+            
+                  <persName id="t17550301-1-person106">
+                  James 
+                  Price 
+               <interp inst="t17550301-1-person106" type="surname" value="Price"></interp>
+                     <interp inst="t17550301-1-person106" type="given" value="James"></interp>
+                     <interp inst="t17550301-1-person106" type="gender" value="male"></interp>
+                  </persName>
+             again. I have known Berry. I believe, five years.</p>
+               <p>Court. He calls upon you for a character; what character can you give him?</p>
+               <p>Price. A very bad one, my lord.</p>
+               <p>Berry. Please to ask him what he can say as a stain upon my character?</p>
+               <p>Price. It will hurt you if you insist upon it.</p>
+               <p>Q. to M'Daniel. Will you call any witnesses?</p>
+               <p>M'Daniel. There is a man that has known me these nine or ten years, and that I have the best of characters; that is Mr. Holewright.</p>
+               <p>Court. Do you chuse he should be examined to your character?</p>
+               <p>M'Daniel. Yes.</p>
+               <p>G. Holewright again. I believe I have known M'Daniel eight or nine years, or longer; he never did me any injury in his life-time, but as for the rest of it I believe he is bad enough.</p>
+               <p>Q. to Salmon. Have you any witnesses to call?</p>
+               <p>Salmon. No, my lord; I have not had time to send for any ?</p>
+               <p>Q. to Egan. Have you any witnesses to call?</p>
+               <p>Egan. No, my lord, none of my acquaintance know that I am in trouble.</p>
+               <p>
+                  <rs id="t17550301-1-verdict4" type="verdictDescription">
+                     <interp inst="t17550301-1-verdict4" type="verdictCategory" value="specialVerdict"></interp>
+               The jury found them all four guilty of all the facts charged against them in the indictment, but whether the facts charged were within the statutes of the 4th and 5th of Philip and Mary, and the 3d and 4th of William and Mary they knew not, and therefore prayed the assistance of the court. So it was made Special
+            </rs>.</p>
+            </div1>

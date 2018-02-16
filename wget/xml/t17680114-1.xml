@@ -1,3 +1,253 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680114-1">
+               <interp inst="t17680114-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680114-1" type="year" value="1768"></interp>
+               <interp inst="t17680114-1" type="uri" value="sessionsPapers/17680114"></interp>
+               <interp inst="t17680114-1" type="date" value="17680114"></interp>
+               <join result="criminalCharge" id="t17680114-1-off1-c31" targOrder="Y" targets="t17680114-1-defend31 t17680114-1-off1 t17680114-1-verdict11"></join>
+               <join result="criminalCharge" id="t17680114-1-off1-c32" targOrder="Y" targets="t17680114-1-defend33 t17680114-1-off1 t17680114-1-verdict12"></join>
+               <join result="criminalCharge" id="t17680114-1-off7-c31" targOrder="Y" targets="t17680114-1-defend31 t17680114-1-off7 t17680114-1-verdict11"></join>
+               <join result="criminalCharge" id="t17680114-1-off7-c32" targOrder="Y" targets="t17680114-1-defend33 t17680114-1-off7 t17680114-1-verdict12"></join>
+               <join result="criminalCharge" id="t17680114-1-off14-c31" targOrder="Y" targets="t17680114-1-defend31 t17680114-1-off14 t17680114-1-verdict11"></join>
+               <join result="criminalCharge" id="t17680114-1-off14-c32" targOrder="Y" targets="t17680114-1-defend33 t17680114-1-off14 t17680114-1-verdict12"></join>
+         
+               <p>101, 102. (M.) 
+               <persName id="t17680114-1-defend31" type="defendantName">
+                  Patrick 
+                  Swinney 
+               <interp inst="t17680114-1-defend31" type="surname" value="Swinney"></interp>
+                     <interp inst="t17680114-1-defend31" type="given" value="Patrick"></interp>
+                     <interp inst="t17680114-1-defend31" type="gender" value="male"></interp>
+                  </persName>
+              and 
+               
+                  <persName id="t17680114-1-defend33" type="defendantName">
+                     Timothy 
+                     Crawley 
+                  <interp inst="t17680114-1-defend33" type="surname" value="Crawley"></interp>
+                     <interp inst="t17680114-1-defend33" type="given" value="Timothy"></interp>
+                     <interp inst="t17680114-1-defend33" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted, for <rs id="t17680114-1-off1" type="offenceDescription">
+                     <interp inst="t17680114-1-off1" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17680114-1-off1" type="offenceSubcategory" value="highwayRobbery"></interp>
+               that they on the King's highway on 
+                     
+                        <persName id="t17680114-1-victim35" type="victimName">
+                           Thomas 
+                           Sadd 
+                        <interp inst="t17680114-1-victim35" type="surname" value="Sadd"></interp>
+                        <interp inst="t17680114-1-victim35" type="given" value="Thomas"></interp>
+                        <interp inst="t17680114-1-victim35" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   did make an assault, putting him in corporal fear and danger of his life, and violently taking from his person a silver watch, value 30 s. a horse-whip, value 6 d. and a hat, value 18 d.
+            </rs> the property of the said Thomas, <rs id="t17680114-1-cd2" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off1 t17680114-1-cd2"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off7 t17680114-1-cd2"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off14 t17680114-1-cd2"></join>. +.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person36">
+                  Thomas 
+                  Sadd 
+               <interp inst="t17680114-1-person36" type="surname" value="Sadd"></interp>
+                     <interp inst="t17680114-1-person36" type="given" value="Thomas"></interp>
+                     <interp inst="t17680114-1-person36" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17680114-1-viclabel3" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680114-1-victim35 t17680114-1-viclabel3"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680114-1-victim42 t17680114-1-viclabel3"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680114-1-victim48 t17680114-1-viclabel3"></join>, and live at Marybone; I was coming out of Essex on the 28th of December; I was on horseback; in the road between <placeName id="t17680114-1-crimeloc4">Islington</placeName>
+                  <interp inst="t17680114-1-crimeloc4" type="placeName" value="Islington"></interp>
+                  <interp inst="t17680114-1-crimeloc4" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off1 t17680114-1-crimeloc4"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off7 t17680114-1-crimeloc4"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off14 t17680114-1-crimeloc4"></join> and <placeName id="t17680114-1-crimeloc5">Old-street</placeName>
+                  <interp inst="t17680114-1-crimeloc5" type="placeName" value="Old-street"></interp>
+                  <interp inst="t17680114-1-crimeloc5" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off1 t17680114-1-crimeloc5"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off7 t17680114-1-crimeloc5"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off14 t17680114-1-crimeloc5"></join>, about a quarter of an hour after seven in the evening; I saw two men walking before me in the foot-path, one of them was rather taller than the other; (such were the prisoners,) it was moon-light, and there were lamps on each side of the way; when I was not an hundred yards from the turnpike on the Islington side, they both ran together out of the footpath; the tall one laid hold of my bridle, with a pistol in his other hand, and the other with a stick struck me on my head; he repeated his blows till he got me from my horse; then they let my horse go; then the tall one presented the pistol to me, and said, if I made a noise he would blow my brains out; the other still kept beating me on my head; I lay on my belly; then I pulled out my watch and let it go, thinking they might not see it; after they had ceased my crying out, they tore the lappet of my coat quite off, and took away with it my pocket, in which was a wild sowl; then they<xptr type="pageFacsimile" doc="176801140003"></xptr> turned me up, and the tall one took up my watch; then they went away. I cannot positively say the prisoners are the men, but the prisoner Crawley is very much like the tall one; the short one kept beating me so, that I could not see his face; some gentlemen that came to me afterwards, sent a letter to Sir 
+               <persName id="t17680114-1-person37">
+                  John 
+                  Fielding 
+               <interp inst="t17680114-1-person37" type="surname" value="Fielding"></interp>
+                     <interp inst="t17680114-1-person37" type="given" value="John"></interp>
+                     <interp inst="t17680114-1-person37" type="gender" value="male"></interp>
+                  </persName>
+            , I being not able to write, and the next day I received a letter from Sir John to attend there; I went; I there described the watch, and described the men as I have done here; I was then ordered to be there on the Wednesday; Sir John ordered me to go to Justice Welch, there I found my watch and hand-whip; last Tuesday was se'enight I went to the Justice again, the prisoners were there; then Mr. Burnet that took them produced my watch, whip, and hat.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person38">
+                  David 
+                  Burnet 
+               <interp inst="t17680114-1-person38" type="surname" value="Burnet"></interp>
+                     <interp inst="t17680114-1-person38" type="given" value="David"></interp>
+                     <interp inst="t17680114-1-person38" type="gender" value="male"></interp>
+                  </persName>
+            . I am a headborough. On the 28th of last month being my watch night, I was at the watch-house in the parish of St. Giles's; about half an hour after twelve at night, Mr. Creswell that keeps the Noah's Ark alehouse in Dyot-street came to me, and told me there were several people at his house disputing about the reckoning; I told him that did not concern me; he said there were fire-arms amongst them; then I went; I went into a back room behind the bar, there were the two prisoners standing by the side of each other; Crawley's breast was open; I saw this horse-whip in Swinney's left hand; I took it from him; I had been told that a pistol had been taken from Crawley, and was then in the landlord's custody; I took them both in custody, and in searching Swinney, I found a silver watch in his coat-pocket; I found also some paper with gunpowder, and some small pieces of lead, and a turnpike ticket, (produced in court,) the contents W. Midd. Essex 28.</p>
+               <p>Prosecutor. I had a ticket in my hat, which I had at Rumford turnpike; this is one of the same fort, I believe it the very same that carries through Mile-end turnpike; the figures 28 is for the day this fact was done.</p>
+               <p>Burnet. That watch I found then, was not the watch that belongs to the prosecutor; then I went to search Crawley, and found a silver watch in his sob, and another silver one in his pocket on the other side; then I took them and confined them in the round-house till the next day; then I took them before Justice Welch, and there I laid the watches down, and the prosecutor swore to his watch and whip; then he said he had lost his hat also; then I went to Clerkenwell Bridewell, and took the hat from Swinney's head; I had seen it upon Crawley's head in the round-house.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person39">
+                  Richard 
+                  Stevens 
+               <interp inst="t17680114-1-person39" type="surname" value="Stevens"></interp>
+                     <interp inst="t17680114-1-person39" type="given" value="Richard"></interp>
+                     <interp inst="t17680114-1-person39" type="gender" value="male"></interp>
+                  </persName>
+            . I am headborough; I was at the Noah's Ark on the 28th of last month, at past twelve at night, the prisoners were wrangling about the reckoning; the landlady of the house said she wished she could get rid of them; Swinney struck with his heel at me, and wanted to get away; I laid hold of him; the landlord hearing a bustle came to my assistance; he said, the other man had fire-arms; I immediately seized him, and took a pistol from under the inside of his coat; then assistance was sent for to the watch-house, and Mr. Burnet came; I saw him take a horsewhip out of Swinney's hand, and a watch out of his coat-pocket; some powder, some little pieces of lead, and a turnpike ticket; and I saw him take two watches out of Crawley's breeches-pocket; the pistol had a charge of powder, but nothing else; (a horse-pistol, three silver watches, and a horsewhip produced in court.)</p>
+               <p>The prosecutor deposed to one of the watches found upon Crawley, and the whip.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person40">
+                  Elizabeth 
+                  Creswell 
+               <interp inst="t17680114-1-person40" type="surname" value="Creswell"></interp>
+                     <interp inst="t17680114-1-person40" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680114-1-person40" type="gender" value="female"></interp>
+                  </persName>
+            . My husband keeps the Noah's Ark. The two prisoners came to our house on the 28th of December, a little before ten at night, very much in liquor; I ordered my servant not to let them have any liquor without their paying for it; they called for a pint of twopenny, they ordered it to be made hot; after that they had another; they paid for them; they had a third, but would not pay for that; Mr. Stevens being in the house, went into the room with me; Crawley began to struggle with a young man, and Swinney fell upon Stevens; then I called my husband; they took the pistol from Crawley.</p>
+               <p>Swinney's defence.</p>
+               <p>I bought that watch at Barnet for two guineas and a half, and a gallon of beer, of a bricklayer's labourer, about three quarters of a year ago, and I found the whip in Tottenham-court-road about two month ago; I don't know how I came by the ticket; I paid 9 s. and 6 d. for the hat of a Jew in St. Giles's.</p>
+               <p>Crawley's defence.</p>
+               <p>I am innocent of the fact.</p>
+               <p>Both <rs id="t17680114-1-verdict6" type="verdictDescription">
+                     <interp inst="t17680114-1-verdict6" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(M.) They were a second time <rs id="t17680114-1-off7" type="offenceDescription">
+                     <interp inst="t17680114-1-off7" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17680114-1-off7" type="offenceSubcategory" value="highwayRobbery"></interp>
+               indicted for robbing 
+                     
+                        <persName id="t17680114-1-victim42" type="victimName">
+                           Joseph 
+                           Woodward 
+                        <interp inst="t17680114-1-victim42" type="surname" value="Woodward"></interp>
+                        <interp inst="t17680114-1-victim42" type="given" value="Joseph"></interp>
+                        <interp inst="t17680114-1-victim42" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the King's highway of a silver watch, value 4 l. a pain gold ring, value 5 s. two guineas, and two half guineas his property, and against his will
+            </rs>, <rs id="t17680114-1-cd8" type="crimeDate">Dec. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off1 t17680114-1-cd8"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off7 t17680114-1-cd8"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off14 t17680114-1-cd8"></join>. ||</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176801140004"></xptr>
+            
+                  <persName id="t17680114-1-person43">
+                  Joseph 
+                  Woodward 
+               <interp inst="t17680114-1-person43" type="surname" value="Woodward"></interp>
+                     <interp inst="t17680114-1-person43" type="given" value="Joseph"></interp>
+                     <interp inst="t17680114-1-person43" type="gender" value="male"></interp>
+                  </persName>
+            . On Monday the 21st of December, I was coming from <placeName id="t17680114-1-crimeloc9">Stoke Newington</placeName>
+                  <interp inst="t17680114-1-crimeloc9" type="placeName" value="Stoke Newington"></interp>
+                  <interp inst="t17680114-1-crimeloc9" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off1 t17680114-1-crimeloc9"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off7 t17680114-1-crimeloc9"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off14 t17680114-1-crimeloc9"></join> to London, about five in the evening; before I got to <placeName id="t17680114-1-crimeloc10">Islington</placeName>
+                  <interp inst="t17680114-1-crimeloc10" type="placeName" value="Islington"></interp>
+                  <interp inst="t17680114-1-crimeloc10" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off1 t17680114-1-crimeloc10"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off7 t17680114-1-crimeloc10"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off14 t17680114-1-crimeloc10"></join>, I was met by three men; one of them laid hold of my collar and turn'd me about; it was said by one of them, stand and deliver; the tallest of the three presented a pistol, and I delivered them my watch, two guineas, and two half guineas, (the watch produced and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17680114-1-person44">
+                  David 
+                  Burnet 
+               <interp inst="t17680114-1-person44" type="surname" value="Burnet"></interp>
+                     <interp inst="t17680114-1-person44" type="given" value="David"></interp>
+                     <interp inst="t17680114-1-person44" type="gender" value="male"></interp>
+                  </persName>
+             gave the same evidence as on the former trial, with this addition, that the watch which the prosecutor owned, be found upon Crawley.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person45">
+                  Richard 
+                  Stevens 
+               <interp inst="t17680114-1-person45" type="surname" value="Stevens"></interp>
+                     <interp inst="t17680114-1-person45" type="given" value="Richard"></interp>
+                     <interp inst="t17680114-1-person45" type="gender" value="male"></interp>
+                  </persName>
+             gave the same account as before, with this addition, that one of the prisoners said he had bought this watch about three months before; the other his two, about two months before.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person46">
+                  Elizabeth 
+                  Creswell 
+               <interp inst="t17680114-1-person46" type="surname" value="Creswell"></interp>
+                     <interp inst="t17680114-1-person46" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680114-1-person46" type="gender" value="female"></interp>
+                  </persName>
+             the same as before.</p>
+               <p>The two prisoners in their defence, said they were innocent of the fact.</p>
+               <p>Swinney <rs id="t17680114-1-verdict11" type="verdictDescription">
+                     <interp inst="t17680114-1-verdict11" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>Crawley <rs id="t17680114-1-verdict12" type="verdictDescription">
+                     <interp inst="t17680114-1-verdict12" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680114-1-punish13" type="punishmentDescription">
+                     <interp inst="t17680114-1-punish13" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680114-1-defend33 t17680114-1-punish13"></join>
+               Death
+            </rs>.</p>
+               <p>(M.) They were a third time indicted for <rs id="t17680114-1-off14" type="offenceDescription">
+                     <interp inst="t17680114-1-off14" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17680114-1-off14" type="offenceSubcategory" value="highwayRobbery"></interp>
+               robbing 
+                     
+                        <persName id="t17680114-1-victim48" type="victimName">
+                           Richard 
+                           Hewett 
+                        <interp inst="t17680114-1-victim48" type="surname" value="Hewett"></interp>
+                        <interp inst="t17680114-1-victim48" type="given" value="Richard"></interp>
+                        <interp inst="t17680114-1-victim48" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in a certain field and open place near the King's highway, of a silver watch, value 30 s. and 4 s. in money numbered, his property, and against his will
+            </rs>. <rs id="t17680114-1-cd15" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off1 t17680114-1-cd15"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off7 t17680114-1-cd15"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-1-off14 t17680114-1-cd15"></join>. ||.</p>
+               <p>
+            
+                  <persName id="t17680114-1-person49">
+                  Richard 
+                  Hewett 
+               <interp inst="t17680114-1-person49" type="surname" value="Hewett"></interp>
+                     <interp inst="t17680114-1-person49" type="given" value="Richard"></interp>
+                     <interp inst="t17680114-1-person49" type="gender" value="male"></interp>
+                  </persName>
+            . On the 28th of last month, as I was coming home from my master's house at Hoxton, I was met by two men, just at seven in the evening, in <placeName id="t17680114-1-crimeloc16">Hoxton field</placeName>
+                  <interp inst="t17680114-1-crimeloc16" type="placeName" value="Hoxton field"></interp>
+                  <interp inst="t17680114-1-crimeloc16" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off1 t17680114-1-crimeloc16"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off7 t17680114-1-crimeloc16"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-1-off14 t17680114-1-crimeloc16"></join>; I saw them about ten rods before I came at them, it was very moon light; they were about three yards out of the path; as they came, they came one on one side me, and the other on the other side; they bid me good night; I was very suspicious of them; I kept going on; they turned again, and the tallest of them came and said, deliver, or he would blow my brains out; they were both together; I delivered my money; I thought all, but the tall one put his hand into my pocket, and took out 6 d. more; they demanded my watch; I said I had none; they said, they knew I had; I cannot say whether they took it out of my pocket, or whether I delivered it, but they had it; (he took up one of the three watches) this is my watch which I lost that evening.</p>
+               <p>Burnet. That watch I took from Swinney's pocket when I searched them.</p>
+               <p>Hewett. I believe the prisoners are the two men that robbed me; especially the tall one, which is Crawley, but I do not swear positively.</p>
+               <p>Mrs. Creswell gave the same evidence as on the former trials.</p>
+               <p>Swinney's defence:</p>
+               <p>I bought that watch at Barnet about three quarters of a year ago.</p>
+               <p>Crawley's defence.</p>
+               <p>I am innocent of the fact laid to my charge.</p>
+               <p>Both <rs id="t17680114-1-verdict17" type="verdictDescription">
+                     <interp inst="t17680114-1-verdict17" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680114-1-punish18" type="punishmentDescription">
+                     <interp inst="t17680114-1-punish18" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680114-1-defend31 t17680114-1-punish18"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680114-1-defend33 t17680114-1-punish18"></join>
+               Death
+            </rs>.</p>
+            </div1>

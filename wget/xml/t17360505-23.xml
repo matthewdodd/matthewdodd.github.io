@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-23">
+               <interp inst="t17360505-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-23" type="year" value="1736"></interp>
+               <interp inst="t17360505-23" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-23" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-23-off127-c115" targOrder="Y" targets="t17360505-23-defend163 t17360505-23-off127 t17360505-23-verdict132"></join>
+               <join result="criminalCharge" id="t17360505-23-off128-c117" targOrder="Y" targets="t17360505-23-defend167 t17360505-23-off128 t17360505-23-verdict132"></join>
+         
+               <p>25, 26. 
+               
+                  <persName id="t17360505-23-defend163" type="defendantName">
+                     Sarah 
+                     Tooting 
+                  <interp inst="t17360505-23-defend163" type="surname" value="Tooting"></interp>
+                     <interp inst="t17360505-23-defend163" type="given" value="Sarah"></interp>
+                     <interp inst="t17360505-23-defend163" type="gender" value="female"></interp>
+                     <interp inst="t17360505-23-defend163" type="age" value="11 Years old"></interp>
+                  </persName>
+                
+            , of <placeName id="t17360505-23-defloc126">St. Paul Shadwell</placeName>
+                  <interp inst="t17360505-23-defloc126" type="placeName" value="St. Paul Shadwell"></interp>
+                  <interp inst="t17360505-23-defloc126" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-23-defend163 t17360505-23-defloc126"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-23-defend167 t17360505-23-defloc126"></join>, was indicted for <rs id="t17360505-23-off127" type="offenceDescription">
+                     <interp inst="t17360505-23-off127" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-23-off127" type="offenceSubcategory" value="other"></interp>
+               stealing a Silver Coral, a Silver Spoon, and two Razors
+            </rs>, the Goods of 
+               
+                  <persName id="t17360505-23-victim165" type="victimName">
+                     William 
+                     Snute 
+                  <interp inst="t17360505-23-victim165" type="surname" value="Snute"></interp>
+                     <interp inst="t17360505-23-victim165" type="given" value="William"></interp>
+                     <interp inst="t17360505-23-victim165" type="gender" value="male"></interp>
+                  </persName>
+                
+            ; and 
+               
+                  <persName id="t17360505-23-defend167" type="defendantName">
+                     Eliz 
+                     Hinds 
+                  <interp inst="t17360505-23-defend167" type="surname" value="Hinds"></interp>
+                     <interp inst="t17360505-23-defend167" type="given" value="Eliz"></interp>
+                     <interp inst="t17360505-23-defend167" type="gender" value="male"></interp>
+                  </persName>
+                
+             for feloniously <rs id="t17360505-23-off128" type="offenceDescription">
+                     <interp inst="t17360505-23-off128" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-23-off128" type="offenceSubcategory" value="receiving"></interp>
+               receiving the said Goods knowing them to be stolen
+            </rs>, the <rs id="t17360505-23-cd129" type="crimeDate">20th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-23-off127 t17360505-23-cd129"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-23-off128 t17360505-23-cd129"></join>.</p>
+               <p>William Snute. The Prisoner Tooting is my <rs id="t17360505-23-deflabel130" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360505-23-defend163 t17360505-23-deflabel130"></join>, she is about 11 Years old. I lost those Things, and the Girl confessed she carried them to this Woman, who lives in <placeName id="t17360505-23-crimeloc131">King David's Lane</placeName>
+                  <interp inst="t17360505-23-crimeloc131" type="placeName" value="King David's Lane"></interp>
+                  <interp inst="t17360505-23-crimeloc131" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360505-23-off127 t17360505-23-crimeloc131"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17360505-23-off128 t17360505-23-crimeloc131"></join>, and sells Gin, and the Child has been acquainted with her these two Years.</p>
+               <p>- Clymore. My Master sent me to follow this Girl, in order to his finding out the Woman; and tho' I did not see her receive the Goods, yet I heard the Girl confess it before Justice Jones. Both <rs id="t17360505-23-verdict132" type="verdictDescription">
+                     <interp inst="t17360505-23-verdict132" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-30">
+               <interp inst="t17360505-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-30" type="year" value="1736"></interp>
+               <interp inst="t17360505-30" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-30" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-30-off163-c149" targOrder="Y" targets="t17360505-30-defend212 t17360505-30-off163 t17360505-30-verdict165"></join>
+         
+               <p>36. 
+               <persName id="t17360505-30-defend212" type="defendantName">
+                     <interp inst="t17360505-30-defend212" type="gender" value="female"></interp>
+                  </persName>
+             of <placeName id="t17360505-30-defloc162">St. Andrew's Holborn</placeName>
+                  <interp inst="t17360505-30-defloc162" type="placeName" value="St. Andrew's Holborn"></interp>
+                  <interp inst="t17360505-30-defloc162" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-30-defend212 t17360505-30-defloc162"></join>, was indicted for <rs id="t17360505-30-off163" type="offenceDescription">
+                     <interp inst="t17360505-30-off163" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-30-off163" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Feather Bolster, a Linnen Sheet, and two Pillow-beers, out of her Lodging
+            </rs>; the Goods of 
+               <persName id="t17360505-30-victim213" type="victimName">
+                  Humphry 
+                  Bushton 
+               <interp inst="t17360505-30-victim213" type="surname" value="Bushton"></interp>
+                     <interp inst="t17360505-30-victim213" type="given" value="Humphry"></interp>
+                     <interp inst="t17360505-30-victim213" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360505-30-off163 t17360505-30-victim213"></join>
+                  </persName>
+             , <rs id="t17360505-30-cd164" type="crimeDate">March 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-30-off163 t17360505-30-cd164"></join>.</p>
+               <p>Humphry Bushton. The Prisoner and her Husband took the Lodging. Having missed the Goods, and he being missing, I took her up with a Warrant, and she own'd she had pawn'd the Goods at the two Places where I found them.</p>
+               <p>
+            
+                  <persName id="t17360505-30-person214">
+                  John 
+                  Dorman 
+               <interp inst="t17360505-30-person214" type="surname" value="Dorman"></interp>
+                     <interp inst="t17360505-30-person214" type="given" value="John"></interp>
+                     <interp inst="t17360505-30-person214" type="gender" value="male"></interp>
+                  </persName>
+            . A Sheet and two Pillow-beers I took in from the Prisoner: I ask'd her no Questions when she brought them, because she had used our Shop many Years.</p>
+               <p>Q. The People of your Trade are not apt to ask Questions.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173605050008"></xptr>
+            
+                  <persName id="t17360505-30-person215">
+                  Ann 
+                  Gilner 
+               <interp inst="t17360505-30-person215" type="surname" value="Gilner"></interp>
+                     <interp inst="t17360505-30-person215" type="given" value="Ann"></interp>
+                     <interp inst="t17360505-30-person215" type="gender" value="female"></interp>
+                  </persName>
+            . I lent a Shilling upon the Bolster. <rs id="t17360505-30-verdict165" type="verdictDescription">
+                     <interp inst="t17360505-30-verdict165" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360505-30-verdict165" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-30-punish166" type="punishmentDescription">
+                     <interp inst="t17360505-30-punish166" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-30-defend212 t17360505-30-punish166"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

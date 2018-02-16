@@ -1,3 +1,579 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370114-27">
+               <interp inst="t17370114-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370114-27" type="year" value="1737"></interp>
+               <interp inst="t17370114-27" type="uri" value="sessionsPapers/17370114"></interp>
+               <interp inst="t17370114-27" type="date" value="17370114"></interp>
+               <join result="criminalCharge" id="t17370114-27-off138-c142" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-off138 t17370114-27-verdict141"></join>
+               <join result="criminalCharge" id="t17370114-27-off138-c143" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-off138 t17370114-27-verdict141"></join>
+               <join result="criminalCharge" id="t17370114-27-off138-c144" targOrder="Y" targets="t17370114-27-defend213 t17370114-27-off138 t17370114-27-verdict141"></join>
+         
+               <p>33, 34, 35, 
+               
+                  <persName id="t17370114-27-defend209" type="defendantName">
+                     John 
+                     Warwick 
+                  <interp inst="t17370114-27-defend209" type="surname" value="Warwick"></interp>
+                     <interp inst="t17370114-27-defend209" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-defend209" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17370114-27-defloc133">St. Clement Danes</placeName>
+                  <interp inst="t17370114-27-defloc133" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17370114-27-defloc133" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-defloc133"></join>, <rs id="t17370114-27-deflabel134" type="occupation">Victualler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-deflabel134"></join>, 
+               
+                  <persName id="t17370114-27-defend211" type="defendantName">
+                     Christopher 
+                     Baws 
+                  <interp inst="t17370114-27-defend211" type="surname" value="Baws"></interp>
+                     <interp inst="t17370114-27-defend211" type="given" value="Christopher"></interp>
+                     <interp inst="t17370114-27-defend211" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17370114-27-defloc135">St. George's Middlesex</placeName>
+                  <interp inst="t17370114-27-defloc135" type="placeName" value="St. George's Middlesex"></interp>
+                  <interp inst="t17370114-27-defloc135" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-defloc135"></join>, <rs id="t17370114-27-deflabel136" type="occupation">Cordwainer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-deflabel136"></join>, and 
+               
+                  <persName id="t17370114-27-defend213" type="defendantName">
+                     John 
+                     Wills 
+                  <interp inst="t17370114-27-defend213" type="surname" value="Wills"></interp>
+                     <interp inst="t17370114-27-defend213" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-defend213" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of London <rs id="t17370114-27-deflabel137" type="occupation">Brandy-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370114-27-defend213 t17370114-27-deflabel137"></join>, were indicted for a Misdemeanor, in <rs id="t17370114-27-off138" type="offenceDescription">
+                     <interp inst="t17370114-27-off138" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17370114-27-off138" type="offenceSubcategory" value="pervertingJustice"></interp>
+               contriving and conspiring falsly to charge 
+                     
+                        <persName id="t17370114-27-victim215" type="victimName">
+                           John 
+                           Drinkwater 
+                        <interp inst="t17370114-27-victim215" type="surname" value="Drinkwater"></interp>
+                        <interp inst="t17370114-27-victim215" type="given" value="John"></interp>
+                        <interp inst="t17370114-27-victim215" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370114-27-off138 t17370114-27-victim215"></join>
+                     </persName>
+                      
+                   with a Felony and Robbery on the Highway
+            </rs>, <rs id="t17370114-27-cd139" type="crimeDate">April 16, in the 8th Year of his Majesty's Reign</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370114-27-off138 t17370114-27-cd139"></join>.</p>
+               <p>The Counsel for the Prosecution having open'd the Charge, they proceeded to call their Witnesses</p>
+               <p>John Drinkwater I liv'd six Months with Warwick; he kept the Swan in Sheer Lane, 'twas a very disorderly House, for there was scarce a Night pass'd, but Gentlemens Pockets were pick'd, and he always had a share of the Money. He invited me to come and live with him, telling me the Profits of his House would maintain me; but I did not think myself safe there, and would have come away sooner, but I was afraid of being sworn into a Goal. On the 3d, of April, 1735, I apprehended the Prisoner Wills, and one Curtis and Pritchard, and Pye and Williams, for being all concern'd in stealing my Watch. Warwick ordered me my Watch again, but he immediately enter'd an Action against me for 40 l. and I was arrested and carried to Wood street Compter directly: Then to prevent my Wife from assisting me, he arrested her in a Poultry Compter Action, at somebody's suit, - but she'd give an Account of that. Soon after I was lodged in Wood street Compter, I was detain'd by Virtue of a Warrant of Detainer, from Sir 
+               <persName id="t17370114-27-person216">
+                  Richard 
+                  Hopkins 
+               <interp inst="t17370114-27-person216" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17370114-27-person216" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person216" type="gender" value="male"></interp>
+                  </persName>
+            , on Oath of the Prisoner Baws, - I have a Copy of it here, somewhere. After this I had notice, that Warwick had withdrawn his Action for Debt, and that I must remove to Chelmsford Jail in Essex; the Keeper of the Compter told me this on the 21st, of April: They call'd me up betimes in the Morning, and said they had got a Habeas Corpus, to carry me to Chelmsford Jail: I asked them who brought it; they told me one Mr. Ray. Upon this, I set out for Chelmsford, and one 
+               <persName id="t17370114-27-person217">
+                  John 
+                  Clark 
+               <interp inst="t17370114-27-person217" type="surname" value="Clark"></interp>
+                     <interp inst="t17370114-27-person217" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person217" type="gender" value="male"></interp>
+                  </persName>
+            , who was concern'd with the Prisoners in the Conspiracy, came on Horse-back to the Compter-Gate to attend me.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173701140013"></xptr>When we had got about five Miles out of Town, Warwick, Joyce, Meads and Wills, waited for my coming by, and they told the People, that I was one of the Essex Gang, and Broomhall was forced to get me a Stick to defend my self with on the Road. When I came to the Jail, they told the People there, that I had broke out of several Jails already; so upon this Account I was ill used; and they staid with me, to see me loaded with the heaviest Irons that were in the Jail. I was here confin'd and iron'd from the 21st of April, till the Assizes in July following; but the Week before the Assizes, Wills and Warwick came down, and wanted to agree with me. They told me Joyce was put into the Angel Tavern by Temple bar, and that he would be glad to agree likewise; but, say'd they, you have been cruelly and wrongfully charged; but if you'll punish him, you shall be discharged. I told them, I would not agree with them 'till I had brought them to Justice. Then they told me, I should be carry'd to another Jayl, and that my Wife should be in Jayl too. Warwick say'd this, and Wills was in Company with him. Accordingly, on Sunday following, I receiv'd a Letter, informing me, That my Wife was in Prison at the Suit of one 
+               <persName id="t17370114-27-person218">
+                  Mary 
+                  Powel 
+               <interp inst="t17370114-27-person218" type="surname" value="Powel"></interp>
+                     <interp inst="t17370114-27-person218" type="given" value="Mary"></interp>
+                     <interp inst="t17370114-27-person218" type="gender" value="female"></interp>
+                  </persName>
+            , who is in Jayl on a Charge of Perjury.</p>
+               <p>Counsel. Was you acquitted or not at the Assizes?</p>
+               <p>Drinkwater. No body appear'd against me at the Assizes; but I was mov'd from Chelmsford to Hartford Jayl, by one Campbel, who calls himself an Attorney</p>
+               <p>Counsel. Did you ever hear them declare what they would do?</p>
+               <p>Drinkwater. When I was discharged, I came up to London, and had a long Fit of Sickness; and after I had preferr'd a Bill against Wills, and he was taken up, Warwick came into a Publick House and threaten'd me -</p>
+               <p>C. They are indicted for conspiring to charge you with robbing Baws, - speak to that.</p>
+               <p>Drinkwater. When I apprehended Baws, I asked him, how he could do such a cruel Thing? He said, he had never seen me in his Life, but he had heard of, and was privy to, the Conspiracy; and, says he, I did not swear it my self, - they got some body to personate me; and he inform'd me, that they threaten'd him, if he would not swear against me, they would swear against him. Since that they have often apply'd to me to make the Matter up, (tho' not in Person,) but I always shunn'd them, - I always avoided them.</p>
+               <p>Counsel Def. Where had you this Discourse with Baws?</p>
+               <p>Drinkwater. At one Mrs. Best's in Sheer-Lane. There was one Mr Wills present, at that Time, but he is attending the Society for Reformation of Manners at Bow Church.</p>
+               <p>Warwick. I ask if he did not send me Letters from Chelmsford?</p>
+               <p>Drinkwater. If I did, produce them: I did send him some Letters, to ask him how he could be so cruel, and to desire him to discharge my Wife; but never to ask him to come to me.</p>
+               <p>Warwick. Was there any Company present when I talk'd to you in Chelmsford Jayl about discharging you?</p>
+               <p>Drinkwater. No; every one, but your Company was put out of the room; there was none but you, and Wills, and I.</p>
+               <p>Counsel Def. I would not willingly ask you any Questions, to draw you into Difficulties, - but consider, you are upon your Oath. - Have you never threaten'd to put others into this Indictment?</p>
+               <p>Drinkwater. No, Sir; none but what were concern'd.</p>
+               <p>Counsel Def. Have you never receiv'd Money from others, to prevent their being charg'd?</p>
+               <p>Drinkwater. Never, one Farthing</p>
+               <p>Counsel Def. Did not you send to Wills by one 
+               <persName id="t17370114-27-person219">
+                  John 
+                  Morris 
+               <interp inst="t17370114-27-person219" type="surname" value="Morris"></interp>
+                     <interp inst="t17370114-27-person219" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person219" type="gender" value="male"></interp>
+                  </persName>
+            , and offer, that if he would give you two Guineas, you would give him a Release?</p>
+               <p>Drinkwater. Not for two Guineas, nor any such Sum. I was spoke to, by several People, who have offer'd me divers Sums</p>
+               <p>Counsel Def. Did not you send one 
+               <persName id="t17370114-27-person220">
+                  Lydia 
+                  Clark 
+               <interp inst="t17370114-27-person220" type="surname" value="Clark"></interp>
+                     <interp inst="t17370114-27-person220" type="given" value="Lydia"></interp>
+                     <interp inst="t17370114-27-person220" type="gender" value="female"></interp>
+                  </persName>
+             to Wills?</p>
+               <p>Drinkwater. Never in my Life.</p>
+               <p>Counsel Def. Did not you take Money from her?</p>
+               <p>Drinkwater. I never saw a Farthing of her Money; nor did I ever send any body to Wills. Morris and Atkins has spoke to me, but I never spoke to them first. Sir 
+               <persName id="t17370114-27-person221">
+                  Richard 
+                  Brocas 
+               <interp inst="t17370114-27-person221" type="surname" value="Brocas"></interp>
+                     <interp inst="t17370114-27-person221" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person221" type="gender" value="male"></interp>
+                  </persName>
+            's Clerk has asked me about it, but I said, I would never agree with any of them.</p>
+               <p>Counsel Def. Did not you threaten to put others into this Conspiracy?</p>
+               <p>Drinkwater. No, not in this; but that in Hartfordshire I have.</p>
+               <p>Counsel Def. Have not you declared you would hang him if you could?</p>
+               <p>Drinkwater. I never mention'd his Name, or any such Subject.</p>
+               <p>Counsel Def. Have you never said you would hang any of the Defendants?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173701140014"></xptr>Drinkwater. No, never. I have said, I believed Warwick would be hang'd, he was such a prodigious Rogue always. I might say, I believ'd he would come to it.</p>
+               <p>Counsel Def. Did you never threaten to put Lydia Clark into this Conspiracy?</p>
+               <p>Drinkwater. No, never in my Life.</p>
+               <p>Warwick. He was on the Back of the Bill when Sayer indicted me for two Robberies in September last, and before that Trial he declared that he would hang me if he could; if he could not hang me, he would transport me, or keep me in Jayl for Life.</p>
+               <p>Drinkwater. I never said I would do it: I thought you would come to it.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person222">
+                  Eliz 
+                  Sayer 
+               <interp inst="t17370114-27-person222" type="surname" value="Sayer"></interp>
+                     <interp inst="t17370114-27-person222" type="given" value="Eliz"></interp>
+                     <interp inst="t17370114-27-person222" type="gender" value="male"></interp>
+                  </persName>
+            . I know Wills and Warwick - Baws I know as far as the Action he was concern'd in. I kept a House in St. Clement's Church Yard 19 Years, and alter'd my Business, from a Joyner, Shop, to a Coffee-house. Warwick lodged in my House four Months. On the 3d of April, 1735, 
+               <persName id="t17370114-27-person223">
+                  John 
+                  Wills 
+               <interp inst="t17370114-27-person223" type="surname" value="Wills"></interp>
+                     <interp inst="t17370114-27-person223" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person223" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person224">
+                  John 
+                  Clark 
+               <interp inst="t17370114-27-person224" type="surname" value="Clark"></interp>
+                     <interp inst="t17370114-27-person224" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person224" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17370114-27-person225">
+                  Thomas 
+                  Pritchard 
+               <interp inst="t17370114-27-person225" type="surname" value="Pritchard"></interp>
+                     <interp inst="t17370114-27-person225" type="given" value="Thomas"></interp>
+                     <interp inst="t17370114-27-person225" type="gender" value="male"></interp>
+                  </persName>
+            , came to Warwick in the Morning; I shew'd them into the Room where he lay, he had been drunk the Day before, so was a-bed. They told him they had got Drinkwater's Watch; he got up in the Bed, and call'd upon God to d - mn him, and told them they must keep it, and must keep him poor. Afterwards I heard that Drinkwater had got a Warrant for the four Men, who came together to Warwick, and he told them he had arrested Drinkwater in an Action of 40 l. I asked him how he could do such a Thing? and he said he could get People enough to swear it. After he (Drinkwater) was arrested for Debt, there was one Tibbalds the younger, informed Warwick, that Drinkwater was making an Information against him, for Robberies which had been committed in his House, and upon that Account, they all contriv'd to get him out of the Way. After many Consultations, (at which Warwick, Wills, Clark, Pritchard, Curtis, Joyce, and Williams, were all present,) Joyce brought the Prisoner Baws to them, and told them, there was the Man that would do it: I heard every thing upon this terrible Occasion. The Substance of the Discourse was to get a Robbery sworn against Drinkwater. Pritchard was not in their Company when Baws was first brought in, but all the rest of them were; and Warwick asked Baws, whether he would undertake to swear a Robbery against Drinkwater; Baws said, Yes, he would: Then they asked him how much Money he must have; he said, they must give him 20 s. Whether it was Warwick or some of the Company that ask'd the Question, I cannot remember, but it was some of the Company. They ask'd him next, where he would swear the Robbery was committed, - the whole Affair seem'd to me to be left to Warwick's Management, - Baws told them he chose to swear it somewhere about Ham in Essex, because he was best acquainted with that Part of the Country; they asked him what he would swear he lost, he told them he would swear to his Hat, Wig, a Gold Ring, and under 20 s. for, says he, if I swear to too much, they will not believe me, because I am poor in Apparel, and they will know I have not much Money to lose. At the Time they made this Agreement with Baws, there was seven of them in Company, and they collected 3 s a-piece; Warwick, Wills, Clark, Williams, Joyce, and Curtis laid down 3s. each, and Pritchard being absent, they laid down 3s. for him. I said it was a sad Thing to hang a Man wrongfully, and Warwick said, G - d D - n him it was no Sin, for if they did not hang him, he would them all. When they had agreed thus far, Baws and Joyce went down to Justice Newton, to get a Warrant of Detainer against Drinkwater, but Justice Newton would have nothing to do with them: then they went to Sir 
+               <persName id="t17370114-27-person226">
+                  Richard 
+                  Hopkins 
+               <interp inst="t17370114-27-person226" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17370114-27-person226" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person226" type="gender" value="male"></interp>
+                  </persName>
+            , and there they got it, and brought it to Warwick, he was then in Bed, but he got up and said, now G - d D - n him this will hang him. I never slept in my Bed 'till I made Oath of this, before the Lord Chief Justice Ayres, in June following, and I went down to Chelmsford at my own Expence to appear for Drinkwater upon his Trial, but no Body appearing against him, Campbel the Lawyer came down, and (as I heard afterwards) carried him to Hertford Goal.</p>
+               <p>Counc. Pros. Then they never pretended that he was guilty.</p>
+               <p>Sayer. No, they said they must do it to save their own Lives. They talked to Baws about his Cloaths, and told him when he went to the Assizes he should be better rigg'd, and should be well drest: There was six of them in Company, and they paid 3 s. each, round the Table, and one of them laid down 3s. for Pritchard; the odd Shilling he was to have to buy him a Dinner.</p>
+               <p>Q. After they had got the Warrant of Detainer, what happen'd next?</p>
+               <p>Sayer. When they had got the Warrant to detain him, Baws said, I don't know the Man, it will be very proper I should have a Sight of the Man I am to swear against. Warwick describ'd<xptr type="pageFacsimile" doc="173701140015"></xptr> him, his Cloaths, his Speech, and every Thing, very particularly; but Baws said, that will not do, I must see him; then they all six agreed to send a Letter to him, and Drinkwater was to be call'd down in the Compter to receive it, but when Baws came there and asked for him, his Wife answer'd for him, and he did not see him. He came back and told them that he had not seen him; upon which they all agreed that he should see him when they remov'd him to Chelmsford. The next Business was to get an Habeas Corpus, I don't know what it cost them, but they all agreed to club for it.</p>
+               <p>Counc. Pros. Pray what is Warwick?</p>
+               <p>Warwick. I was an old - Acquaintance - of hers, she and I cohabited together as Man and Wife. You'll please to take Notice that all this which she swears was done in Middlesex, and we are now indicted in London.</p>
+               <p>Counc. I remember a Trial in this Court some Time ago; this Woman tried Warwick for a Felony, with relation to the Goods in that House in St. Clements Church Yard.</p>
+               <p>Counc. Warwick was indicted for stealing her Goods, but it came out, that they liv'd together as Man and Wife, so it prov'd to be no Felony.</p>
+               <p>Sayer. It was my Misfortune to let him a Lodging in my House. -</p>
+               <p>Counc. Def You have told a very long Story, Madam; and you have an excellent Memory. Can you tell whether any Body talk'd about the Money but Baws and Warwick?</p>
+               <p>Sayer All the Persons I have nam'd were present, and they all join'd for the Money in my one Pair of Stairs Room, in St. Clements Churchyard.</p>
+               <p>Counc.Def. That is in Middlesex.</p>
+               <p>Sayer. I believe it is.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person227">
+                  Catherine 
+                  Drinkwater 
+               <interp inst="t17370114-27-person227" type="surname" value="Drinkwater"></interp>
+                     <interp inst="t17370114-27-person227" type="given" value="Catherine"></interp>
+                     <interp inst="t17370114-27-person227" type="gender" value="female"></interp>
+                  </persName>
+            . When my Husband was arrested in Warwick's sham Action, Joyce told me if I assisted him, I should be arrested before the Week was out, and accordingly I was arrested at the Suit of 
+               <persName id="t17370114-27-person228">
+                  Lydia 
+                  Goodwin 
+               <interp inst="t17370114-27-person228" type="surname" value="Goodwin"></interp>
+                     <interp inst="t17370114-27-person228" type="given" value="Lydia"></interp>
+                     <interp inst="t17370114-27-person228" type="gender" value="female"></interp>
+                  </persName>
+             alias Clark, and just before the Assizes, they sent me to Newgate. Warwick said they must confine me, that my Husband might be starv'd in Goal; and in the Officers House he told me, if I would sign a Bond, and oblige my self not to assist my Husband, the Plaintiffs should discharge me. Wills was by at the same Time, they were both drinking Punch at Mr. Lepards in Wharton-Court, Holborn, on this side the Bars, nearer London then Middlesex. He told me I might thank my Black-guard Husband for my being arrested. I was then big with Child, and had not an Hour to go, when they hurry'd me to Newgate, and there I was brought to bed. Their Intent was to distress my Husband in Jayl, in order to bring him to sign Releases, that they might not be prosecured for what they had done.</p>
+               <p>Warwick. Ask her what's her Way of Life, and her Husband's?</p>
+               <p>C. Drinkwater. My Husband is a <rs id="t17370114-27-viclabel140" type="occupation">Sadler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370114-27-victim215 t17370114-27-viclabel140"></join> by Trade; and since he came out of Jayl, he has been supported by Friends. I lay 9 Months, and he 12 Months in Jayl.</p>
+               <p>Warwick. Ask her if she is not a common Prostitute?</p>
+               <p>Counc. Pros. And pray what are we to ask you?</p>
+               <p>Mr. North. On Monday April 16. 1735, when Drinkwater was in the Compter, one 
+               <persName id="t17370114-27-person229">
+                  Christopher 
+                  Baws 
+               <interp inst="t17370114-27-person229" type="surname" value="Baws"></interp>
+                     <interp inst="t17370114-27-person229" type="given" value="Christopher"></interp>
+                     <interp inst="t17370114-27-person229" type="gender" value="male"></interp>
+                  </persName>
+             came before Sir 
+               <persName id="t17370114-27-person230">
+                  Richard 
+                  Hopkins 
+               <interp inst="t17370114-27-person230" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17370114-27-person230" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person230" type="gender" value="male"></interp>
+                  </persName>
+            ; I can't swear positively it was the Prisoner, - I have been looking at him, and it was such a sort of a Man, but I can't swear positively to him at this distance of Time, nor can I say positively whether his Information was taken in Writing; I think it was not, but I have these Memorandums which I took from the Book. The Party accused was in Custody in the Compter, and he not being brought before Sir Richard, was the Occasion I believe of it's not being taken in Writing.</p>
+               <p>Counc. Def If there was an Information taken in Writing, that only must be read.</p>
+               <p>Counc. Pros. If there was an Information, 'tis now out of the Way; and shall we not read there Minutes which are the Ground and Substance of what was then sworn, and out of which, if there was an Information, that Information was fram'd? Mr. North, I think is a competent Witness, and we are in the common, usual Course of Evidence.</p>
+               <p>Mr. North. Baws swore before Sir 
+               <persName id="t17370114-27-person231">
+                  Richard 
+                  Hopkins 
+               <interp inst="t17370114-27-person231" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17370114-27-person231" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person231" type="gender" value="male"></interp>
+                  </persName>
+            , that Drinkwater had robb'd him, - I forget the Place, but 'twas somewhere in Essex, of his Hat, Wig, a gold Ring, and 13 s. in Money, these are the Words in my Memorandum. Upon this there was a Warrant of Detainer granted, and Baws enter'd into a Recognizance of 40 l to prosecute him next Assizes. I never saw Baws till that Time; Drinkwater came to me 3 or 4 Months ago, and asked me if I could recollect any Thing of this Transaction, and I described the Prisoners Person to him, and I think he answers the Description.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person232">
+                  Thomas 
+                  Smith 
+               <interp inst="t17370114-27-person232" type="surname" value="Smith"></interp>
+                     <interp inst="t17370114-27-person232" type="given" value="Thomas"></interp>
+                     <interp inst="t17370114-27-person232" type="gender" value="male"></interp>
+                  </persName>
+            . Keeper of Woodstreet Compter. This is the Warrant of Detainer; I can't remember who brought it to me, but Drinkwater was then in Custody on an Action for Debt.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173701140016"></xptr>Mr. North The Body of this Warrant is my own Writing, the Signing was by Sir Richard himself. I deliver'd it into Baws Hands.</p>
+               <p>London. To the Keeper of Woodstreet Compter.</p>
+               <p>Detain in your Custody the Body of John Drinkwater, charged before me, on Oath of Christopher Baws, for assaulting him on the Highway in the County of Essex, and taking from him a Hat, a Wig, a gold Ring, and 13 s. in Money and him keep in safe Custody, 'till he shall be discharged by due Course of Law: given under my Hand and Seal, April 16, 1735. 
+               <persName id="t17370114-27-person233">
+                  Richard 
+                  Hopkins 
+               <interp inst="t17370114-27-person233" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17370114-27-person233" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person233" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Smith. Drinkwater was brought to us the 3 d or 4th of April, and the Action was discharged two or three Days after the Detainer came. He did not stay long with us, before the Habeas Corpus came, by which he was carry'd to. Essex. Mr. Ray brought it to me, and by Virtue of that, I carry'd him to Chelmsford. Warwick and Wills I met at Stratford; I thought they were coming towards London.</p>
+               <p>Drinkwater. Did not they both go some Miles with us hallowing on the Road?</p>
+               <p>Smith. No, neither of them. I don't know that they went a Yard out of the Way. Drinkwater lives upon the Reversion of a Woman; he is a common Sharper, and his Wife is a common Strumpet about the Streets. I should give no Credit to him; but should be asham'd of being seen in his Company.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person234">
+                  Wm 
+                  Ray 
+               <interp inst="t17370114-27-person234" type="surname" value="Ray"></interp>
+                     <interp inst="t17370114-27-person234" type="given" value="Wm"></interp>
+                     <interp inst="t17370114-27-person234" type="gender" value="male"></interp>
+                  </persName>
+            . About a Year and a half ago, I was sent for to Wills's House in Fet er-Lane, and was desired to bring a Habeas Corpus for John Drinkwater. There was Warwick, Wills, Joyce, and others present. This was in Fetter-lane, London. Baws was not there at that Time, but they told me, he was the Prosecutor. I said I would bring an Habeas, if the Prosecutor would give it under his Hand; he did so, and that's the Man at the Bar. This is the Paper he sign'd before me.</p>
+               <p>Clerk reads.</p>
+               <p>Christopher - Baws his Mark. Witness, 
+               <persName id="t17370114-27-person235">
+                  John 
+                  Wills 
+               <interp inst="t17370114-27-person235" type="surname" value="Wills"></interp>
+                     <interp inst="t17370114-27-person235" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person235" type="gender" value="male"></interp>
+                  </persName>
+            . I do hereby authorize you to bring an Habeas Corpus for John Drinkwater, for robbing me on the King's Highway in the County of Essex, and for which I have charged him on a Warrant of Detainer in Wood-street Compter. For your so doing this shall be your sufficient Warrant.</p>
+               <p>Ray. I wanted to know who was to be at the Expence; and as far as I could apprehend, they all joyn'd. There was six of them in all; Warwick, Wills, Joyce, Meads, and two or three more. This was in London.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person236">
+                  Richard 
+                  Broomhall 
+               <interp inst="t17370114-27-person236" type="surname" value="Broomhall"></interp>
+                     <interp inst="t17370114-27-person236" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person236" type="gender" value="male"></interp>
+                  </persName>
+            . Drinkwater became a Prisoner at Warwick's Suit for 40 l. I went with Smith and Drinkwater to Chelmsford, and Clark was with us. I saw Warwick and Wills on the Road. I cut Drinkwater a Stick, to get his Horse along, to defend himself with.</p>
+               <p>Counsel. What is the Character of the Prosecutor!</p>
+               <p>Broomball. Why truly, they are pretty much alike, I know'em all, and I look on the Characters of one to be as bad as the other.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person237">
+                  Ann 
+                  Thorp 
+               <interp inst="t17370114-27-person237" type="surname" value="Thorp"></interp>
+                     <interp inst="t17370114-27-person237" type="given" value="Ann"></interp>
+                     <interp inst="t17370114-27-person237" type="gender" value="female"></interp>
+                  </persName>
+            . Warwick came to me one Day, and asked me if I would be something toward moving Drinkwater into the Country, he wanted me to be a Guinea, and at last 10 s. toward the Charge; but I refused to contribute.</p>
+               <p>Warwick. This Woman was committed with 
+               <persName id="t17370114-27-person238">
+                  Kate 
+                  Buck 
+               <interp inst="t17370114-27-person238" type="surname" value="Buck"></interp>
+                     <interp inst="t17370114-27-person238" type="given" value="Kate"></interp>
+                     <interp inst="t17370114-27-person238" type="gender" value="female"></interp>
+                  </persName>
+            , who was transported some Time ago, and she keeps a common Bawdy-House in Red-Lyon Court. One of her Husbands was my Follower my Lord. The Prosecutor has got me fix'd already in Newgate for Recognizances at the Suit of the King.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person239">
+                  John 
+                  Clark 
+               <interp inst="t17370114-27-person239" type="surname" value="Clark"></interp>
+                     <interp inst="t17370114-27-person239" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person239" type="gender" value="male"></interp>
+                  </persName>
+            . Drinkwater wanted me to swear against the Prisoners, but I told him I knew nothing of this Matter, then he threatned to have me in Goal, and knowing him to be a dangerous Fellow, I took a Release from him and gave him half a Guinea.</p>
+               <p>Wilkinson. This is John Clark's Release from Drinkwater; he was afraid of being call'd to account for Drinkwater's being sent to Chelmsford, so Mr. Francis said he would endeavour to get him a Release. Clark said he knew they had been at 80 l. Charge in pursuing Drinkwater, and knew more than any other of the Conspiracy; so I wrote to Drinkwater and he gave him a Release on Consideration he should give Evidence against the Prisoners in a generous Manner. I know of no Money given on this Occasion, only Mr. Francis gave me a Guinea and half to supersede his Wife out of Prison; whence it came I don't know. I don't believe Drinkwater had any Money given him.</p>
+               <p>John Clark. Drinkwater said to me, that if Wills would give him a Guinea or two, he should not be try'd. He is a dangerous Man, and his Wife is a common Strumpet.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person240">
+                  Margaret 
+                  Boucher 
+               <interp inst="t17370114-27-person240" type="surname" value="Boucher"></interp>
+                     <interp inst="t17370114-27-person240" type="given" value="Margaret"></interp>
+                     <interp inst="t17370114-27-person240" type="gender" value="female"></interp>
+                  </persName>
+            . Last Saturday I met Drinkwater in the Old Bailey; how do you do says he; never the better for you says I, because you have robb'd me of so much; so says he, because you have not sworn against Warwick and Wills, I will swear against you; and some time ago, I heard<xptr type="pageFacsimile" doc="173701140017"></xptr> him say, he would hang Warwick, because he had turn'd him out of his Place. I did live with Mr. Warwick, but now I live in Shoe-Lane, and am a Hair picker. I liv'd in a House which Mr. Warwick hired next Door to his House in Shoe-Lane, and us'd to drink a Glass of Wine or two in his House, now and then. At the White Lyon in Shoe Lane he told me, - Peggy, if you'll swear against Warwick and Wills for the Highway, you shall have a share of the Reward, and that will make you for ever.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person241">
+                  Edmund 
+                  Woodhouse 
+               <interp inst="t17370114-27-person241" type="surname" value="Woodhouse"></interp>
+                     <interp inst="t17370114-27-person241" type="given" value="Edmund"></interp>
+                     <interp inst="t17370114-27-person241" type="gender" value="male"></interp>
+                  </persName>
+            . Drinkwater told me in Chelmsford Jayl, that if ever he liv'd to get out, he would hang Warwick and two more.</p>
+               <p>Drinkwater. That Man's a Smuggler: He was in Jayl for assaulting the King's Officers.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person242">
+                  Joseph 
+                  Cook 
+               <interp inst="t17370114-27-person242" type="surname" value="Cook"></interp>
+                     <interp inst="t17370114-27-person242" type="given" value="Joseph"></interp>
+                     <interp inst="t17370114-27-person242" type="gender" value="male"></interp>
+                  </persName>
+            . I know Sayer, but upon my Life I don't know any thing of her Character; only Warwick and she liv'd together as Man and Wife. I have heard Warwick say, he knew no more of this Matter than the Pope of Rome.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person243">
+                  Wm 
+                  Meads 
+               <interp inst="t17370114-27-person243" type="surname" value="Meads"></interp>
+                     <interp inst="t17370114-27-person243" type="given" value="Wm"></interp>
+                     <interp inst="t17370114-27-person243" type="gender" value="male"></interp>
+                  </persName>
+            , Drinkwater is a notorious Fellow, for some Time ago he got a Woman to indict me</p>
+               <p>Drinkwater The Characters of all these People, if you'll enquire into them, are as bad as, or worse than, that they give me. This Man has some particular Friends of his at Kennington-Common</p>
+               <p>Q. Who're they?</p>
+               <p>Drinkwater Some Friends hanging in Chains,</p>
+               <p>
+            
+                  <persName id="t17370114-27-person244">
+                  Sam 
+                  Roberts 
+               <interp inst="t17370114-27-person244" type="surname" value="Roberts"></interp>
+                     <interp inst="t17370114-27-person244" type="given" value="Sam"></interp>
+                     <interp inst="t17370114-27-person244" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Wills 6 or 7 Years, and I know the Characters of many of the People here.</p>
+               <p>Counsel Pros. Have you never heard Wills had a bad Character?</p>
+               <p>Roberts. Yes, just now, - heard! yes. I can't say as to hearing. - I am a Weaver at Norton Folgate.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person245">
+                  John 
+                  Perry 
+               <interp inst="t17370114-27-person245" type="surname" value="Perry"></interp>
+                     <interp inst="t17370114-27-person245" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person245" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17370114-27-person246">
+                  Roger 
+                  Downes 
+               <interp inst="t17370114-27-person246" type="surname" value="Downes"></interp>
+                     <interp inst="t17370114-27-person246" type="given" value="Roger"></interp>
+                     <interp inst="t17370114-27-person246" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17370114-27-person247">
+                  Mary 
+                  Price 
+               <interp inst="t17370114-27-person247" type="surname" value="Price"></interp>
+                     <interp inst="t17370114-27-person247" type="given" value="Mary"></interp>
+                     <interp inst="t17370114-27-person247" type="gender" value="female"></interp>
+                  </persName>
+            , spake to Will's Character.</p>
+               <p>Counsel. Did you know Wills when Alderman Parsons was Mayor? Did you hear no ill of him then? Did not you hear that he was then call'd down to this Place?</p>
+               <p>Price. No.</p>
+               <p>Counsel. Tis strange you should not hear of it, when 'twas so publick.</p>
+               <p>Also 
+               <persName id="t17370114-27-person248">
+                  Jane 
+                  Wood 
+               <interp inst="t17370114-27-person248" type="surname" value="Wood"></interp>
+                     <interp inst="t17370114-27-person248" type="given" value="Jane"></interp>
+                     <interp inst="t17370114-27-person248" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person249">
+                  Robert 
+                  Farr 
+               <interp inst="t17370114-27-person249" type="surname" value="Farr"></interp>
+                     <interp inst="t17370114-27-person249" type="given" value="Robert"></interp>
+                     <interp inst="t17370114-27-person249" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person250">
+                  Edward 
+                  Bracey 
+               <interp inst="t17370114-27-person250" type="surname" value="Bracey"></interp>
+                     <interp inst="t17370114-27-person250" type="given" value="Edward"></interp>
+                     <interp inst="t17370114-27-person250" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person251">
+                  Thomas 
+                  Butler 
+               <interp inst="t17370114-27-person251" type="surname" value="Butler"></interp>
+                     <interp inst="t17370114-27-person251" type="given" value="Thomas"></interp>
+                     <interp inst="t17370114-27-person251" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person252">
+                  Richard 
+                  Crew 
+               <interp inst="t17370114-27-person252" type="surname" value="Crew"></interp>
+                     <interp inst="t17370114-27-person252" type="given" value="Richard"></interp>
+                     <interp inst="t17370114-27-person252" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17370114-27-person253">
+                  Thomas 
+                  Rose 
+               <interp inst="t17370114-27-person253" type="surname" value="Rose"></interp>
+                     <interp inst="t17370114-27-person253" type="given" value="Thomas"></interp>
+                     <interp inst="t17370114-27-person253" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17370114-27-person254">
+                  James 
+                  Pye 
+               <interp inst="t17370114-27-person254" type="surname" value="Pye"></interp>
+                     <interp inst="t17370114-27-person254" type="given" value="James"></interp>
+                     <interp inst="t17370114-27-person254" type="gender" value="male"></interp>
+                  </persName>
+            , gave Wills a good Character.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person255">
+                  John 
+                  Phillips 
+               <interp inst="t17370114-27-person255" type="surname" value="Phillips"></interp>
+                     <interp inst="t17370114-27-person255" type="given" value="John"></interp>
+                     <interp inst="t17370114-27-person255" type="gender" value="male"></interp>
+                  </persName>
+            , Warwick's Taylor, said he always paid him for his Work, and that was all he knew.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person256">
+                  Joseph 
+                  Cook 
+               <interp inst="t17370114-27-person256" type="surname" value="Cook"></interp>
+                     <interp inst="t17370114-27-person256" type="given" value="Joseph"></interp>
+                     <interp inst="t17370114-27-person256" type="gender" value="male"></interp>
+                  </persName>
+            . Warwick was honest to me, I have known him 3 or 4 Years. I have heard he kept Women, he had one in St. Clement's Church-yard.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person257">
+                  Charles 
+                  Smith 
+               <interp inst="t17370114-27-person257" type="surname" value="Smith"></interp>
+                     <interp inst="t17370114-27-person257" type="given" value="Charles"></interp>
+                     <interp inst="t17370114-27-person257" type="gender" value="male"></interp>
+                  </persName>
+             gave him a good Character.</p>
+               <p>For Baws no one appear'd.</p>
+               <p>- Jones. I know when I was Constable, - that was in Alderman Parson's Mayoralty, they were all of them very bad People.</p>
+               <p>
+            
+                  <persName id="t17370114-27-person258">
+                  William 
+                  Walpole 
+               <interp inst="t17370114-27-person258" type="surname" value="Walpole"></interp>
+                     <interp inst="t17370114-27-person258" type="given" value="William"></interp>
+                     <interp inst="t17370114-27-person258" type="gender" value="male"></interp>
+                  </persName>
+            . Mr. Francis told Drinkwater he would put him in Goal for Debt, if he would not give Clark a general Release; so rather than go to Goal he did.</p>
+               <p>Drinkwater I never conversed with 
+               <persName id="t17370114-27-person259">
+                  Margaret 
+                  Boucher 
+               <interp inst="t17370114-27-person259" type="surname" value="Boucher"></interp>
+                     <interp inst="t17370114-27-person259" type="given" value="Margaret"></interp>
+                     <interp inst="t17370114-27-person259" type="gender" value="female"></interp>
+                  </persName>
+             since March last When I liv'd with Warwick she was one of his Women: she has been try'd in this Court for several Felonies, and is now a common Street Walker</p>
+               <p>C Why, truly I think we are in very bad Company on both Sides. All <rs id="t17370114-27-verdict141" type="verdictDescription">
+                     <interp inst="t17370114-27-verdict141" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370114-27-punish142" type="punishmentDescription">
+                     <interp inst="t17370114-27-punish142" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-punish142"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-punish142"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend213 t17370114-27-punish142"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17370114-27-punish143" type="punishmentDescription">
+                     <interp inst="t17370114-27-punish143" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17370114-27-punish143" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-punish143"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-punish143"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend213 t17370114-27-punish143"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17370114-27-punish144" type="punishmentDescription">
+                     <interp inst="t17370114-27-punish144" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17370114-27-punish144" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend209 t17370114-27-punish144"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend211 t17370114-27-punish144"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370114-27-defend213 t17370114-27-punish144"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

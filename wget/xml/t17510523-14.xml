@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-14">
+               <interp inst="t17510523-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-14" type="year" value="1751"></interp>
+               <interp inst="t17510523-14" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-14" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-14-off76-c96" targOrder="Y" targets="t17510523-14-defend123 t17510523-14-off76 t17510523-14-verdict79"></join>
+         
+               <p>366. (M.) 
+               <persName id="t17510523-14-defend123" type="defendantName">
+                  Ann, <rs id="t17510523-14-deflabel75" type="occupation">wife of 
+                        <persName id="t17510523-14-person124">
+                           John 
+                           Cunningham 
+                        <interp inst="t17510523-14-person124" type="surname" value="Cunningham"></interp>
+                           <interp inst="t17510523-14-person124" type="given" value="John"></interp>
+                           <interp inst="t17510523-14-person124" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17510523-14-defend123 t17510523-14-deflabel75"></join>
+                     <interp inst="t17510523-14-defend123" type="surname" value="Cunningham"></interp>
+                     <interp inst="t17510523-14-defend123" type="given" value="Ann"></interp>
+                     <interp inst="t17510523-14-defend123" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17510523-14-off76" type="offenceDescription">
+                     <interp inst="t17510523-14-off76" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-14-off76" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one copper tea kettle, value 7 s.
+            </rs> the property of 
+               
+                  <persName id="t17510523-14-victim126" type="victimName">
+                     William 
+                     Mason 
+                  <interp inst="t17510523-14-victim126" type="surname" value="Mason"></interp>
+                     <interp inst="t17510523-14-victim126" type="given" value="William"></interp>
+                     <interp inst="t17510523-14-victim126" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-14-off76 t17510523-14-victim126"></join>
+                  </persName>
+                
+            . <rs id="t17510523-14-cd77" type="crimeDate">May 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-14-off76 t17510523-14-cd77"></join>. +</p>
+               <p>
+            
+                  <persName id="t17510523-14-person127">
+                  William 
+                  Mason 
+               <interp inst="t17510523-14-person127" type="surname" value="Mason"></interp>
+                     <interp inst="t17510523-14-person127" type="given" value="William"></interp>
+                     <interp inst="t17510523-14-person127" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the <placeName id="t17510523-14-crimeloc78">White-lion, Brookstreet, Grosvenor-square</placeName>
+                  <interp inst="t17510523-14-crimeloc78" type="placeName" value="White-lion, Brookstreet, Grosvenor-square"></interp>
+                  <interp inst="t17510523-14-crimeloc78" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510523-14-off76 t17510523-14-crimeloc78"></join>. On the 15th of May I lost a copper tea kettle. I miss'd it in about three hours after it was gone. I went to a pawnbroker's about a hundred yards from my house to enquire and found it there. [Produc'd in court and depos'd to. The prisoner acknowledged the fact when taken up.]</p>
+               <p>
+            
+                  <persName id="t17510523-14-person128">
+                  Ambrose 
+                  Pope 
+               <interp inst="t17510523-14-person128" type="surname" value="Pope"></interp>
+                     <interp inst="t17510523-14-person128" type="given" value="Ambrose"></interp>
+                     <interp inst="t17510523-14-person128" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Paradice Row and am a pawnbroker. The prisoner brought this kettle and pawn'd it with me for four shillings, about two hours before the prosecutor came.</p>
+               <p>Prisoner's defence.</p>
+               <p>I met with a woman and drank with her; she asked me to pledge this kettle for her: I pledged<xptr type="pageFacsimile" doc="175105230009"></xptr> it for four shillings. The pawnbroker's wife ask'd me, if it was my own; I said, it was a friend's of mine; I don't know where that woman lives now, she did live in Oxford-market.</p>
+               <p>
+                  <rs id="t17510523-14-verdict79" type="verdictDescription">
+                     <interp inst="t17510523-14-verdict79" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17510523-14-punish80" type="punishmentDescription">
+                     <interp inst="t17510523-14-punish80" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17510523-14-punish80" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510523-14-defend123 t17510523-14-punish80"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

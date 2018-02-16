@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-34">
+               <interp inst="t16930426-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-34" type="year" value="1693"></interp>
+               <interp inst="t16930426-34" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-34" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-34-off159-c108" targOrder="Y" targets="t16930426-34-defend108 t16930426-34-off159 t16930426-34-verdict160"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-34-defend108" type="defendantName">
+                  Charles 
+                  Steward
+               <interp inst="t16930426-34-defend108" type="surname" value="Steward"></interp>
+                     <interp inst="t16930426-34-defend108" type="given" value="Charles"></interp>
+                     <interp inst="t16930426-34-defend108" type="gender" value="male"></interp>
+                  </persName>
+            , was Arraigned for <rs id="t16930426-34-off159" type="offenceDescription">
+                     <interp inst="t16930426-34-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-34-off159" type="offenceSubcategory" value="other"></interp>
+               stealing a Muslin Head-dress, and other small Linnens
+            </rs> from 
+               <persName id="t16930426-34-victim109" type="victimName">
+                  Ann 
+                  Adams
+               <interp inst="t16930426-34-victim109" type="surname" value="Adams"></interp>
+                     <interp inst="t16930426-34-victim109" type="given" value="Ann"></interp>
+                     <interp inst="t16930426-34-victim109" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930426-34-off159 t16930426-34-victim109"></join>
+                  </persName>
+            , to which he <rs id="t16930426-34-verdict160" type="verdictDescription">
+                     <interp inst="t16930426-34-verdict160" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16930426-34-verdict160" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16930426-34-punish161" type="punishmentDescription">
+                     <interp inst="t16930426-34-punish161" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930426-34-punish161" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-34-defend108 t16930426-34-punish161"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

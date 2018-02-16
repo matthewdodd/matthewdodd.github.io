@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-32">
+               <interp inst="t16870831-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-32" type="year" value="1687"></interp>
+               <interp inst="t16870831-32" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-32" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-32-off160-c115" targOrder="Y" targets="t16870831-32-defend162 t16870831-32-off160 t16870831-32-verdict162"></join>
+         
+               <p>
+            
+                  <persName id="t16870831-32-defend162" type="defendantName">
+                  William 
+                  Locton
+               <interp inst="t16870831-32-defend162" type="surname" value="Locton"></interp>
+                     <interp inst="t16870831-32-defend162" type="given" value="William"></interp>
+                     <interp inst="t16870831-32-defend162" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16870831-32-defloc159">Fullham</placeName>
+                  <interp inst="t16870831-32-defloc159" type="placeName" value="Fullham"></interp>
+                  <interp inst="t16870831-32-defloc159" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870831-32-defend162 t16870831-32-defloc159"></join>, in the County of Middlesex, was Tryed for <rs id="t16870831-32-off160" type="offenceDescription">
+                     <interp inst="t16870831-32-off160" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870831-32-off160" type="offenceSubcategory" value="grandLarceny"></interp>
+               taking from 
+                     
+                        <persName id="t16870831-32-victim164" type="victimName">
+                           Ann 
+                           Jones
+                        <interp inst="t16870831-32-victim164" type="surname" value="Jones"></interp>
+                        <interp inst="t16870831-32-victim164" type="given" value="Ann"></interp>
+                        <interp inst="t16870831-32-victim164" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-32-off160 t16870831-32-victim164"></join>
+                     </persName>
+                     
+                   a Stuff Gown, value 5 s.
+            </rs> on the <rs id="t16870831-32-cd161" type="crimeDate">24th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-32-off160 t16870831-32-cd161"></join>, the Evidence against him was 
+               <persName id="t16870831-32-person165">
+                  Ann 
+                  Jones
+               <interp inst="t16870831-32-person165" type="surname" value="Jones"></interp>
+                     <interp inst="t16870831-32-person165" type="given" value="Ann"></interp>
+                     <interp inst="t16870831-32-person165" type="gender" value="female"></interp>
+                  </persName>
+            ; who deposed that she being in her Master's Garden gathering Herbs, the Prisoner came upon her before she was awar and Kick'd her on the Head as she was stooping, then stopped her Mouth full of Stones and Gravel, and striped her of her Gown, and was about to Gag her; but a Gentlemen coming by in the mean time, he fled and left her, as also her Gown in the Hedge, but being pursued he was taken some distance thence in a Field, to which he Pleaded he was not the Man, nor had he been near the house, but was comeing from Oxford and lay the Night before at Stains, but the Maid being positive in her Evidence, he was found <rs id="t16870831-32-verdict162" type="verdictDescription">
+                     <interp inst="t16870831-32-verdict162" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870831-32-verdict162" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870831-32-punish163" type="punishmentDescription">
+                     <interp inst="t16870831-32-punish163" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870831-32-punish163" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-32-defend162 t16870831-32-punish163"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

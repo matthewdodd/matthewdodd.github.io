@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520116-23">
+               <interp inst="t17520116-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520116-23" type="year" value="1752"></interp>
+               <interp inst="t17520116-23" type="uri" value="sessionsPapers/17520116"></interp>
+               <interp inst="t17520116-23" type="date" value="17520116"></interp>
+               <join result="criminalCharge" id="t17520116-23-off129-c209" targOrder="Y" targets="t17520116-23-defend257 t17520116-23-off129 t17520116-23-verdict131"></join>
+         
+               <p>105. (M.) 
+               <persName id="t17520116-23-defend257" type="defendantName">
+                  Ann, <rs id="t17520116-23-deflabel128" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17520116-23-defend257 t17520116-23-deflabel128"></join> of John Kirsham<interp inst="t17520116-23-defend257" type="given" value="Ann"></interp>
+                     <interp inst="t17520116-23-defend257" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17520116-23-off129" type="offenceDescription">
+                     <interp inst="t17520116-23-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520116-23-off129" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two shirts, value 10 s.
+            </rs> the goods of 
+               
+                  <persName id="t17520116-23-victim259" type="victimName">
+                     Martha 
+                     Owen 
+                  <interp inst="t17520116-23-victim259" type="surname" value="Owen"></interp>
+                     <interp inst="t17520116-23-victim259" type="given" value="Martha"></interp>
+                     <interp inst="t17520116-23-victim259" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520116-23-off129 t17520116-23-victim259"></join>
+                  </persName>
+                
+            , <rs id="t17520116-23-cd130" type="crimeDate">Dec. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520116-23-off129 t17520116-23-cd130"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520116-23-person260">
+                  Martha 
+                  Owen 
+               <interp inst="t17520116-23-person260" type="surname" value="Owen"></interp>
+                     <interp inst="t17520116-23-person260" type="given" value="Martha"></interp>
+                     <interp inst="t17520116-23-person260" type="gender" value="female"></interp>
+                  </persName>
+            . I take in linnen to wash; the prisoner ironed for me; the Saturday after Christmas-day I missed the shirts: I took the prisoner up last Friday; she owned it, and said, she was very sorry for what she had done, and begged for mercy, and told us where they were pawn'd; I went by her directions and found them. ( Produced in court and deposed to)</p>
+               <p>
+                  <rs id="t17520116-23-verdict131" type="verdictDescription">
+                     <interp inst="t17520116-23-verdict131" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17520116-23-verdict131" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17520116-23-punish132" type="punishmentDescription">
+                     <interp inst="t17520116-23-punish132" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17520116-23-punish132" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520116-23-defend257 t17520116-23-punish132"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,627 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650227-30">
+               <interp inst="t17650227-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650227-30" type="year" value="1765"></interp>
+               <interp inst="t17650227-30" type="uri" value="sessionsPapers/17650227"></interp>
+               <interp inst="t17650227-30" type="date" value="17650227"></interp>
+               <join result="criminalCharge" id="t17650227-30-off178-c227" targOrder="Y" targets="t17650227-30-defend300 t17650227-30-off178 t17650227-30-verdict184"></join>
+               <join result="criminalCharge" id="t17650227-30-off178-c228" targOrder="Y" targets="t17650227-30-defend302 t17650227-30-off178 t17650227-30-verdict182"></join>
+               <join result="criminalCharge" id="t17650227-30-off178-c229" targOrder="Y" targets="t17650227-30-defend304 t17650227-30-off178 t17650227-30-verdict182"></join>
+               <join result="criminalCharge" id="t17650227-30-off185-c229" targOrder="Y" targets="t17650227-30-defend304 t17650227-30-off185 t17650227-30-verdict182"></join>
+               <join result="criminalCharge" id="t17650227-30-off192-c227" targOrder="Y" targets="t17650227-30-defend300 t17650227-30-off192 t17650227-30-verdict184"></join>
+         
+               <p>191, 192, 193. (M.) 
+               
+                  <persName id="t17650227-30-defend300" type="defendantName">
+                     Joseph 
+                     Sparrow 
+                  <interp inst="t17650227-30-defend300" type="surname" value="Sparrow"></interp>
+                     <interp inst="t17650227-30-defend300" type="given" value="Joseph"></interp>
+                     <interp inst="t17650227-30-defend300" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17650227-30-defend302" type="defendantName">
+                     Richard 
+                     Perry 
+                  <interp inst="t17650227-30-defend302" type="surname" value="Perry"></interp>
+                     <interp inst="t17650227-30-defend302" type="given" value="Richard"></interp>
+                     <interp inst="t17650227-30-defend302" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17650227-30-defend304" type="defendantName">
+                     John 
+                     Taylor 
+                  <interp inst="t17650227-30-defend304" type="surname" value="Taylor"></interp>
+                     <interp inst="t17650227-30-defend304" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-defend304" type="gender" value="male"></interp>
+                     <interp inst="t17650227-30-defend304" type="age" value="25"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17650227-30-off178" type="offenceDescription">
+                     <interp inst="t17650227-30-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650227-30-off178" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the dwelling-house of 
+                     
+                        <persName id="t17650227-30-victim306" type="victimName">
+                           Hannah 
+                           Medley 
+                        <interp inst="t17650227-30-victim306" type="surname" value="Medley"></interp>
+                        <interp inst="t17650227-30-victim306" type="given" value="Hannah"></interp>
+                        <interp inst="t17650227-30-victim306" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , <rs id="t17650227-30-viclabel179" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17650227-30-victim306 t17650227-30-viclabel179"></join>, on the <rs id="t17650227-30-cd180" type="crimeDate">6th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off178 t17650227-30-cd180"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off185 t17650227-30-cd180"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off192 t17650227-30-cd180"></join>, in the night, and stealing five brass candlesticks, value 2 s. one brass pestle, value 1 s. one brass mortar, value 1 s. one copper coffee-pot, value 1 s. three copper sauce-pans, value 6 s. one copper panakin, value 1 s. four copper pottage-pots and cover, value 20 s. one pair of copper scales, value 2 s. and six pewter plates, value 4 s. the property of the said Hannah, in her dwelling-house
+            </rs>. *</p>
+               <p>
+            
+                  <persName id="t17650227-30-person307">
+                  Hannah 
+                  Medley 
+               <interp inst="t17650227-30-person307" type="surname" value="Medley"></interp>
+                     <interp inst="t17650227-30-person307" type="given" value="Hannah"></interp>
+                     <interp inst="t17650227-30-person307" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17650227-30-crimeloc181">North-street, Poplar</placeName>
+                  <interp inst="t17650227-30-crimeloc181" type="placeName" value="North-street, Poplar"></interp>
+                  <interp inst="t17650227-30-crimeloc181" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off178 t17650227-30-crimeloc181"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off185 t17650227-30-crimeloc181"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off192 t17650227-30-crimeloc181"></join>. I went out on Sunday morning, the 6th of January, about ten o'clock, and about eleven my son came to me for the key. I gave it him; he brought it me again; I went home at night, and went to bed about ten; nobody lives in the house but me: I fastened up the street-door, and I saw the back-door was shut; but when I came down in the morning, about nine, I found the back-door open. I miss'd the things mentioned in the indictment (mentioning them by name). I had seen them all that Sunday morning in the kitchen: I suppose they got in at the kitchen window: there was a pane of glass out of the casement before, by which means a hand might be put in and open it; there is no shutter to the window. On the Monday morning we saw the marks of feet as coming over my neighbour's pales. Last Sunday se'ennight a neighbour came and said, there were seven or eight people to be re-examined before Justice Fielding. I, and several of my neighbours, went on the Monday. I heard it call'd out, Has any body lost any brass or pewter? I said, I had: then I was taken in before Sir 
+               <persName id="t17650227-30-person308">
+                  John 
+                  Fielding 
+               <interp inst="t17650227-30-person308" type="surname" value="Fielding"></interp>
+                     <interp inst="t17650227-30-person308" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person308" type="gender" value="male"></interp>
+                  </persName>
+            , and told him what I had lost. Some of the people produced these things: (two copper pottage-pots and<xptr type="pageFacsimile" doc="176502270026"></xptr> covers, a copper sauce-pan, a copper panakin, one pewter plate marked I. M. and five brass candlesticks, produced in court) these are all my property, and were all taken out of my kitchen that night.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person309">
+                  Edward 
+                  Wright 
+               <interp inst="t17650227-30-person309" type="surname" value="Wright"></interp>
+                     <interp inst="t17650227-30-person309" type="given" value="Edward"></interp>
+                     <interp inst="t17650227-30-person309" type="gender" value="male"></interp>
+                  </persName>
+            . I am one of Sir 
+               <persName id="t17650227-30-person310">
+                  John 
+                  Fieldings 
+               <interp inst="t17650227-30-person310" type="surname" value="Fieldings"></interp>
+                     <interp inst="t17650227-30-person310" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person310" type="gender" value="male"></interp>
+                  </persName>
+             people: I was present when this gentlewoman was before Sir John; these are the very goods that were shown to her there: I sealed them up, and opened them yesterday; she swore to them there.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person311">
+                  John 
+                  Medley 
+               <interp inst="t17650227-30-person311" type="surname" value="Medley"></interp>
+                     <interp inst="t17650227-30-person311" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person311" type="gender" value="male"></interp>
+                  </persName>
+            . I am son to the prosecutrix; I am not out of my time, and my mother finds me in cloaths; I always go home on a Sunday to clean myself: I was there on January the 6th, about eleven o'clock: I got a pan of water out at the back door, and shut the door, and shot the bolt again: to the best of my knowledge the door was fast; but if I do not clap my knee against the door, the bolt, being loose, may miss the place, and not go in; but I am certain the door was latch'd; I know the casement was fastened: after I had cleaned myself, I locked the fore door again, and carried the key to my mother; all these things were in the kitchen when I was there. I can swear to them, and also to some other things that we took out of a man's house in St. Catherine's yesterday, which I have in a bag here. I went with my mother to Sir 
+               <persName id="t17650227-30-person312">
+                  John 
+                  Fielding 
+               <interp inst="t17650227-30-person312" type="surname" value="Fielding"></interp>
+                     <interp inst="t17650227-30-person312" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person312" type="gender" value="male"></interp>
+                  </persName>
+            's, when the men were re-examined: my mother saw and swore to these things there. The other things I had at a man's house named Rasbury; he came to me, and said he had some things, and desired I would come and look at them; I went; there were two sauce-pans and a fish-kettle, a coffee-pot, and a pair of scales.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person313">
+                  Edward 
+                  Wright 
+               <interp inst="t17650227-30-person313" type="surname" value="Wright"></interp>
+                     <interp inst="t17650227-30-person313" type="given" value="Edward"></interp>
+                     <interp inst="t17650227-30-person313" type="gender" value="male"></interp>
+                  </persName>
+            . There was one Ball first taken he gave evidence against Cook; I went and took Cook in St. Catherine's: I put him in the Poultry Compter that night; he told me where the three prisoners were to be found; that was at Taylor's house, in an alley in St. Catherine's, called Mouse-alley: there I saw a woman who told me her name was Taylor, and said her husband was gone out: Cook said they had been robbing several people, and he was sure we should find some linen there: I searched, and found about two dozen and a half of napkins, and some towels; I brought these things here out of the house; I found them in the lower part of the house, and the prosecutrix came to Sir 
+               <persName id="t17650227-30-person314">
+                  John 
+                  Fielding 
+               <interp inst="t17650227-30-person314" type="surname" value="Fielding"></interp>
+                     <interp inst="t17650227-30-person314" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person314" type="gender" value="male"></interp>
+                  </persName>
+            's and owned them: the prisoners were taken up in Northampton-shire.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person315">
+                  John 
+                  Brock 
+               <interp inst="t17650227-30-person315" type="surname" value="Brock"></interp>
+                     <interp inst="t17650227-30-person315" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person315" type="gender" value="male"></interp>
+                  </persName>
+            . I live just at the back of Mouse-alley; it is just on this side Wapping: I have seen Perry there backwards and forwards, and Taylor also; and I have seen them both together.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person316">
+                  William 
+                  Callow 
+               <interp inst="t17650227-30-person316" type="surname" value="Callow"></interp>
+                     <interp inst="t17650227-30-person316" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person316" type="gender" value="male"></interp>
+                  </persName>
+            . I know Taylor lives in Mouse-alley: I have been at his house: we went and found some Sheets there; his wife was at home at the time.</p>
+               <p>Q. to Wright. Describe the situation of the house.</p>
+               <p>Wright. The Alley is paved with stones; there is a public house at the corner, at a gateway, and his house is about forty yards distant; there are high steps before you come to it.</p>
+               <p>Q. to Brock. Does he describe it right?</p>
+               <p>Brock. Yes. That alehouse is the sign of the Golden Anchor; there is such a place as he has mentioned, where they go in under a gateway, and there are steps before we come to Taylor's house; I have seen Taylor go into the house; I have served his wife with coals.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person317">
+                  William 
+                  Marks 
+               <interp inst="t17650227-30-person317" type="surname" value="Marks"></interp>
+                     <interp inst="t17650227-30-person317" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person317" type="gender" value="male"></interp>
+                  </persName>
+            . On the 24th of January Perry sent for me to take an Inventory of his goods: I am a broker; I was to sell them to the best advantage: there were bed, bedstead, chairs, tables. No linen, nor brass, nor pewter.</p>
+               <p>Q. Where is his house?</p>
+               <p>Marks. It is a little house in Mouse-alley. I I went and took an Inventory; but he was gone. (He described the house and way to it, as the others.) Taylor's wife is Perry's daughter.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person318">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person318" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person318" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person318" type="gender" value="male"></interp>
+                  </persName>
+            . Taylor, Perry, and I, did this Robbery: it was at Poplar, about ten weeks or three months ago, about midnight.</p>
+               <p>Q. Was it before, or since Christmas?</p>
+               <p>Cook. Since Christmas, I believe.</p>
+               <p>Q. What day of the week?</p>
+               <p>Cook. I don't know. We got over several yards, and the door was upon the latch we went in at. There stood a pot with some water in it; I took and handed that to Taylor, over the pales; it was a larger pot than either of these. I had that at home till I was taken up, and my house-keeper says she sold it to by victuals for the children. That was burst at the sides.</p>
+               <p>Q. Where abouts did you find that?</p>
+               <p>Cock. It stood on the left hand of the back-door, by the side of the house, some distance from the house: Perry was in the next garden, and Taylor came over to me: he pulled out his pistol and gave it to me, while he handed the pots and things over the pales; he and I went in, and struck a light; he always carried a tinder-box, candle, and dark lanthorn.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176502270027"></xptr>Q. Where did you take the pottage-pots from?</p>
+               <p>Cook. They were standing edge-ways on a form, and the other things on the mantle-piece: the plates were on a shelf: we took six plates, five candlesticks, four pottage-pots and covers, two sauce-pans, a pestle and mortar, a pair of scales, and a white apron that lay upon a chest of drawers, in the kitchen: after we had handed them to Perry, we took them among us, some in our pockets, and some in bags that we had, and carried them to Perry's house; we got there between two and three o'clock; the prisoners lived all together.</p>
+               <p>Q. What share did you carry?</p>
+               <p>Cook. I carried the plates, the large pot and candlesticks: we went first into a field with some fowls we had stole and left there: a few days after we shared them: after that Taylor gave me two sauce-pans for one of my pots. Ball was taken up first, and he impeached me, and I was taken up about a month after the things were shared: he knew nothing of this fact, only we told him of it; Sparrow was not with us in this: I lived about 200 yards from Perry's house, in St. Catherine's Lane.</p>
+               <p>The prosecutrix was called in, who was sent out of court while Cook gave his evidence.</p>
+               <p>Q. to prosecutrix. Had you any thing taken from the yard?</p>
+               <p>Prosecutrix. Yes; a larger pot than any of these was standing in the yard, with rain-water in it; that I never saw since.</p>
+               <p>Q. how near the back-door did it stand?</p>
+               <p>Prosecutrix. About six or seven yards; it was burst, and ran out at the ears.</p>
+               <p>Q. Did you lose any linen?</p>
+               <p>Prosecutrix. I lost an apron out of the kitchen, but I did not put that in the indictment.</p>
+               <p>Cook. I was at the Rising-Sun at Hackney, about five weeks ago; Perry, Taylor, and Ball were there: Ball was taken; they said he would impeach them, and they said they would go away.</p>
+               <p>Q. Where did Ball live?</p>
+               <p>Cook. He lodged in Sun-Yard, within about a hundred yards of Perry's house.</p>
+               <p>Perry. He used to bring fowls and things to my house when I was in bed.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person319">
+                  Angel 
+                  Griffith 
+               <interp inst="t17650227-30-person319" type="surname" value="Griffith"></interp>
+                     <interp inst="t17650227-30-person319" type="given" value="Angel"></interp>
+                     <interp inst="t17650227-30-person319" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the Rising-Sun at Hackney; Cook has used my house fourteen or or fifteen years; I remember seeing Perry, Taylor, and Ball, at my house twice; they were there the very night that Ball was taken. The same night that Mr. Callow was robbed, they all went away together, and left the reckoning to pay, saying I had goods of theirs, and they would come on the morrow and pay me; Callow and I drank with them.</p>
+               <p>Q. What goods were that?</p>
+               <p>Griffith. It was gun-powder.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person320">
+                  William 
+                  Callow 
+               <interp inst="t17650227-30-person320" type="surname" value="Callow"></interp>
+                     <interp inst="t17650227-30-person320" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person320" type="gender" value="male"></interp>
+                  </persName>
+            . Last Sunday five weeks, Cook, Ball, Taylor, and Perry, were all at Mr. Griffith's: we drank with them: I have seen Cook and Taylor there three or four times.</p>
+               <p>Perry's Defence.</p>
+               <p>I know nothing of these things being in the house, no farther than Cook brought them in.</p>
+               <p>Taylor's Defence.</p>
+               <p>Cook came on a Monday morning, and asked me leave to let the goods be at our house; he said he bought them at a sale, and that he owed his landlord a little money, and begged me to let them be there. I came from Staffordshire, and am 25 years of age.</p>
+               <p>Perry and Taylor, <rs id="t17650227-30-verdict182" type="verdictDescription">
+                     <interp inst="t17650227-30-verdict182" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17650227-30-punish183" type="punishmentDescription">
+                     <interp inst="t17650227-30-punish183" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650227-30-defend302 t17650227-30-punish183"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650227-30-defend304 t17650227-30-punish183"></join>
+               Death
+            </rs>.</p>
+               <p>Sparrow, <rs id="t17650227-30-verdict184" type="verdictDescription">
+                     <interp inst="t17650227-30-verdict184" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>There were four other indictments against Perry.</p>
+               <p>(M.) 
+               <persName id="t17650227-30-person321">
+                  John 
+                  Taylor 
+               <interp inst="t17650227-30-person321" type="surname" value="Taylor"></interp>
+                     <interp inst="t17650227-30-person321" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person321" type="gender" value="male"></interp>
+                  </persName>
+             was a second time indicted for <rs id="t17650227-30-off185" type="offenceDescription">
+                     <interp inst="t17650227-30-off185" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650227-30-off185" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 150 pounds weight of gunpowder, value 6 l.
+            </rs> the property of 
+               
+                  <persName id="t17650227-30-victim323" type="victimName">
+                     Charles 
+                     Digby 
+                  <interp inst="t17650227-30-victim323" type="surname" value="Digby"></interp>
+                     <interp inst="t17650227-30-victim323" type="given" value="Charles"></interp>
+                     <interp inst="t17650227-30-victim323" type="gender" value="male"></interp>
+                  </persName>
+                
+             the elder, and 
+               
+                  <persName id="t17650227-30-victim325" type="victimName">
+                     Charles 
+                     Digby 
+                  <interp inst="t17650227-30-victim325" type="surname" value="Digby"></interp>
+                     <interp inst="t17650227-30-victim325" type="given" value="Charles"></interp>
+                     <interp inst="t17650227-30-victim325" type="gender" value="male"></interp>
+                  </persName>
+                
+             the younger, <rs id="t17650227-30-cd186" type="crimeDate">September 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off178 t17650227-30-cd186"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off185 t17650227-30-cd186"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off192 t17650227-30-cd186"></join>. *</p>
+               <p>
+            
+                  <persName id="t17650227-30-person326">
+                  Robert 
+                  Evans 
+               <interp inst="t17650227-30-person326" type="surname" value="Evans"></interp>
+                     <interp inst="t17650227-30-person326" type="given" value="Robert"></interp>
+                     <interp inst="t17650227-30-person326" type="gender" value="male"></interp>
+                  </persName>
+            . I did live with Mr. 
+               <persName id="t17650227-30-person327">
+                  Charles 
+                  Digby 
+               <interp inst="t17650227-30-person327" type="surname" value="Digby"></interp>
+                     <interp inst="t17650227-30-person327" type="given" value="Charles"></interp>
+                     <interp inst="t17650227-30-person327" type="gender" value="male"></interp>
+                  </persName>
+            ; he and his father are partners; they are <rs id="t17650227-30-viclabel187" type="occupation">ship-chandlers</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650227-30-victim323 t17650227-30-viclabel187"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650227-30-victim325 t17650227-30-viclabel187"></join>; there was some gun powder lost from a little house in a field <placeName id="t17650227-30-crimeloc188">near Wapping Church</placeName>
+                  <interp inst="t17650227-30-crimeloc188" type="placeName" value="near Wapping Church"></interp>
+                  <interp inst="t17650227-30-crimeloc188" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off178 t17650227-30-crimeloc188"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off185 t17650227-30-crimeloc188"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off192 t17650227-30-crimeloc188"></join>. I am not certain to the quantity lost; it was about an hundred and fifty pounds weight, it might be more or less.</p>
+               <p>Q. Can you be certain to a hundred weight?</p>
+               <p>Evans. I am sure there was that quantity missing.</p>
+               <p>Q. When was it missing?</p>
+               <p>Evans. About the 28th of September last.</p>
+               <p>Q. When had you seen it last?</p>
+               <p>Evans. I had seen it three days before it was missing; it was a vessel about the size of a firkin; that is, half a barrel, or 50 lb. there were two of them lost, and more besides; the door was locked, and I found it locked again.</p>
+               <p>Q. How do you think they got in?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176502270028"></xptr>Evans. The lock might be picked; there was no window at all, only a door.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person328">
+                  William 
+                  Callow 
+               <interp inst="t17650227-30-person328" type="surname" value="Callow"></interp>
+                     <interp inst="t17650227-30-person328" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person328" type="gender" value="male"></interp>
+                  </persName>
+            . About four months ago I saw the prisoner, with about five or six pounds weight of gunpowder, in a paper bag, at the Rising Sun at Hackney: there were old Perry and 
+               <persName id="t17650227-30-person329">
+                  Samuel 
+                  Atkins 
+               <interp inst="t17650227-30-person329" type="surname" value="Atkins"></interp>
+                     <interp inst="t17650227-30-person329" type="given" value="Samuel"></interp>
+                     <interp inst="t17650227-30-person329" type="gender" value="male"></interp>
+                  </persName>
+             with him; they proffered it for sale: I bought some of it; it was large and small together.</p>
+               <p>Q. What is Taylor?</p>
+               <p>Callow. Taylor is a <rs id="t17650227-30-deflabel189" type="occupation">taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650227-30-defend304 t17650227-30-deflabel189"></join> by trade.</p>
+               <p>Q. to Evans. What sort of powder was that which you miss'd?</p>
+               <p>Evans. The two half barrels were what they call single M. that is pretty small; there is smaller and there is larger: we miss'd some very small and some very large, and some middling.</p>
+               <p>Q. to Callow. What did you give a pound for it?</p>
+               <p>Callow. I gave three shillings for five or six pounds: I can't be a judge what it was worth; I never weighed it.</p>
+               <p>Q. to Evans. What was the powder worth a pound, that was missing?</p>
+               <p>Evans. The fine was worth about 14 d. per pound, the other a shilling.</p>
+               <p>Callow. On the 20th of January they brought more powder, and asked the landlord and others to buy it: and on the 21st the prisoner, Ball, Cook and Perry, came with a canvass bag of powder. I believe it to be about 30 lb. weight in all; nobody would buy any of it.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person330">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person330" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person330" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person330" type="gender" value="male"></interp>
+                  </persName>
+            . Taylor and I went and fetched four barrels of powder away one Saturday night, in the month of August, about nine at night, from a place called Jones's field, near Wapping chapel.</p>
+               <p>Q. How did you get in?</p>
+               <p>Cook. Taylor had a key that unlocked the door; we took it out of the powder-house in that field; they were what they call half barrels, fifty pounds each: Taylor had a bundle of keys. The head of one of the barrels was out, it was not quite full; there were two tubs of it glazed powder, very small; one tub was mixed, it was small and large powder: we carried two tubs to the top of the field, and set them down, and went back again and fetched two more, and locked the door: then we carried them to Taylor's house; we were stopped by two custom-house officers, and I told them what it was, and they let us go: we disposed of three tubs to a man at Wandsworth, either on the Monday or Tuesday after; we took it on the Saturday: we carried it in two butter firkins to Queenhithe, and sent it up; and we went up and met it: we had agreed for 8 d. per pound before: when we came there the man said, if we would not take two guineas for it we might take it back again; so we took the two guineas for it.</p>
+               <p>Q. How much was there of it?</p>
+               <p>Cook. There was about an hundred and half of it; some we sold to other people: that we did not sell was not glazed, it was a small sort of powder.</p>
+               <p>Q. Where did you sell the mixed powder?</p>
+               <p>Cook. That went to Wandsworth: I was in company with the prisoner at the Rising Sun, at Hackney.</p>
+               <p>Q. Who went with you to Wandsworth?</p>
+               <p>Cook. Taylor did; he was with me at Hackney: we had some in little bags, and sold some to chandlers-shops, and to two or three people about: we had sold some at the Rising Sun two or three times; the last time we were there we left about 20 lb. weight with the landlord, that was too large for shooting.</p>
+
+               <p>Q. Who was there at that time?</p>
+               <p>Cook. There were Ball, Taylor, Perry, and I. Last Monday it was five weeks ago since we went there first.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person331">
+                  Angel 
+                  Griffith 
+               <interp inst="t17650227-30-person331" type="surname" value="Griffith"></interp>
+                     <interp inst="t17650227-30-person331" type="given" value="Angel"></interp>
+                     <interp inst="t17650227-30-person331" type="gender" value="male"></interp>
+                  </persName>
+            . There were Taylor, Ball, Perry, Cook and Callow, at my house; they left some powder at my house that time: I remember Taylor bringing powder twice, and desiring me to put it by; they said I had enough in my hands for the reckoning, and said they would come again and take it away.</p>
+               <p>Prisoner's Defence.</p>
+               <p>This 
+               <persName id="t17650227-30-person332">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person332" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person332" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person332" type="gender" value="male"></interp>
+                  </persName>
+             brought powder to our house three times, and asked me to let him leave it; the fourth time is about a month or six weeks ago: he said his brother was to bring him some more from on board, and that it was old stores; and said he would give me a little money for houseroom: I would not let him leave it; then he carried it to 
+               <persName id="t17650227-30-person333">
+                  Charles 
+                  Hutchens 
+               <interp inst="t17650227-30-person333" type="surname" value="Hutchens"></interp>
+                     <interp inst="t17650227-30-person333" type="given" value="Charles"></interp>
+                     <interp inst="t17650227-30-person333" type="gender" value="male"></interp>
+                  </persName>
+            's, a painter. On a Sunday Cook and Ball came to our house; each had a bundle under his arm: I asked where they were going: they said to the Rising Sun, at Hackney, and asked me if I would take a walk with them; they said they would pay us for our trouble: we went with them to Hackney; I never was at this little house in Jones's-field in my life.</p>
+               <p>
+                  <rs id="t17650227-30-verdict190" type="verdictDescription">
+                     <interp inst="t17650227-30-verdict190" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17650227-30-punish191" type="punishmentDescription">
+                     <interp inst="t17650227-30-punish191" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650227-30-defend304 t17650227-30-punish191"></join>
+               T
+            </rs>.</p>
+               <p>There were eight other indictments against him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176502270029"></xptr>(M.) 
+               <persName id="t17650227-30-person334">
+                  Joseph 
+                  Sparrow 
+               <interp inst="t17650227-30-person334" type="surname" value="Sparrow"></interp>
+                     <interp inst="t17650227-30-person334" type="given" value="Joseph"></interp>
+                     <interp inst="t17650227-30-person334" type="gender" value="male"></interp>
+                  </persName>
+             was a second time indicted for <rs id="t17650227-30-off192" type="offenceDescription">
+                     <interp inst="t17650227-30-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650227-30-off192" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing five live turkeys, value 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17650227-30-victim336" type="victimName">
+                     Daniel 
+                     Farmer 
+                  <interp inst="t17650227-30-victim336" type="surname" value="Farmer"></interp>
+                     <interp inst="t17650227-30-victim336" type="given" value="Daniel"></interp>
+                     <interp inst="t17650227-30-victim336" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17650227-30-cd193" type="crimeDate">January 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off178 t17650227-30-cd193"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off185 t17650227-30-cd193"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-30-off192 t17650227-30-cd193"></join>. *</p>
+               <p>
+            
+                  <persName id="t17650227-30-person337">
+                  Daniel 
+                  Farmer 
+               <interp inst="t17650227-30-person337" type="surname" value="Farmer"></interp>
+                     <interp inst="t17650227-30-person337" type="given" value="Daniel"></interp>
+                     <interp inst="t17650227-30-person337" type="gender" value="male"></interp>
+                  </persName>
+             the younger. My father is named Daniel, he lives at <placeName id="t17650227-30-crimeloc194">Bethnal-green</placeName>
+                  <interp inst="t17650227-30-crimeloc194" type="placeName" value="Bethnal-green"></interp>
+                  <interp inst="t17650227-30-crimeloc194" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off178 t17650227-30-crimeloc194"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off185 t17650227-30-crimeloc194"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650227-30-off192 t17650227-30-crimeloc194"></join>; I live with him: either the first or second Thursday in January we found our lower gate broke open, the staples were wrenched out; we keep four large dogs; one of the dogs and a live turkey were on the outside the gate, in the morning: we keep such a number of turkeys, that we cannot tell what we lost, or whether we lost any; we could not miss a score, we have so many.</p>
+               <p>Q. Was that turkey yours that was out at the gate?</p>
+               <p>Farmer. That certainly belonged to us.</p>
+               <p>Cook is put out of the court while Ball is examined.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person338">
+                  William 
+                  Ball 
+               <interp inst="t17650227-30-person338" type="surname" value="Ball"></interp>
+                     <interp inst="t17650227-30-person338" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person338" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner twelve months, or better; there was he, 
+               <persName id="t17650227-30-person339">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person339" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person339" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person339" type="gender" value="male"></interp>
+                  </persName>
+            , and I, at Mr. Farmer's house, and Sparrow's mate.</p>
+               <p>Q. Who is he?</p>
+               <p>Ball. Sparrow is a <rs id="t17650227-30-deflabel195" type="occupation">sawyer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650227-30-defend300 t17650227-30-deflabel195"></join>: I do not know his mate's name.</p>
+               <p>Q. When was this?</p>
+               <p>Ball. This was the beginning of January: I think either on a Thursday or Friday night; we 
+               <persName id="t17650227-30-person340">
+                  drew
+               <interp inst="t17650227-30-person340" type="given" value="drew"></interp>
+                     <interp inst="t17650227-30-person340" type="gender" value="male"></interp>
+                  </persName>
+             the staple of the door, at coming into the fields.</p>
+               <p>Q. How did you do it?</p>
+               <p>Ball. We all three did it with our hands; we went in and fetched out five turkeys: a dog catch'd at Sparrow's heels, as he stood at the door: he threw a live turkey at him, as he was jumping and making a noise about him; the dog bit him very much, between his calf and his heel.</p>
+               <p>Q. Did you see the wound?</p>
+               <p>Ball. No, I never did; there were three or four large dogs about him; he was a long time lame: he said it was between the calf and heel that the dog bit him: when we had got the turkeys we went across the fields, into the road: we took them on the other side the water, and sold them the day after: he was so lame he could not stir out of his room.</p>
+               <p>Q. Where did he live?</p>
+               <p>Ball. He lodged at 
+               <persName id="t17650227-30-person341">
+                  John 
+                  Taylor 
+               <interp inst="t17650227-30-person341" type="surname" value="Taylor"></interp>
+                     <interp inst="t17650227-30-person341" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person341" type="gender" value="male"></interp>
+                  </persName>
+            's, in Mouse-alley.</p>
+               <p>Q. How long did he keep within doors?</p>
+               <p>Ball. He might stay within three weeks, or thereabouts.</p>
+               <p>Q. When did you first discover this matter?</p>
+               <p>Ball. I was taken up at Hackney, the 26th of January, at Mr. Callow's, and carried before Justice Fielding the 27th: that day I made a discovery of these turkeys, to Sir John's clerk.</p>
+               <p>Q. What did you do with them?</p>
+               <p>Ball. We carried them over the water.</p>
+               <p>Q. What day did you carry them over the water?</p>
+               <p>Ball. I know it was Sunday morning, when we came back.</p>
+               <p>Q. Where did you lie on the Saturday night?</p>
+               <p>Ball. We were at a public house on the other side the water.</p>
+               <p>Q. What time of the night did you take these turkeys?</p>
+               <p>Ball. We took them between eleven and twelve at night.</p>
+               <p>Q. Where did you go after you stole them?</p>
+               <p>Ball. The prisoner went to Mouse-alley, and I lay at 
+               <persName id="t17650227-30-person342">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person342" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person342" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person342" type="gender" value="male"></interp>
+                  </persName>
+            's house, and lay with him all night: I got up betwixt eight and nine in the morning, and we went to 
+               <persName id="t17650227-30-person343">
+                  John 
+                  Taylor 
+               <interp inst="t17650227-30-person343" type="surname" value="Taylor"></interp>
+                     <interp inst="t17650227-30-person343" type="given" value="John"></interp>
+                     <interp inst="t17650227-30-person343" type="gender" value="male"></interp>
+                  </persName>
+            's, and then we cross'd the water. (Cook was called in and Ball put out.)</p>
+               <p>
+            
+                  <persName id="t17650227-30-person344">
+                  Thomas 
+                  Cook 
+               <interp inst="t17650227-30-person344" type="surname" value="Cook"></interp>
+                     <interp inst="t17650227-30-person344" type="given" value="Thomas"></interp>
+                     <interp inst="t17650227-30-person344" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Sparrow about a year and a half; he is a sawyer.</p>
+               <p>Q. Do you know Mr. Farmer?</p>
+               <p>Cook. Yes; he is a goose-feeder: I was in his field and his yard, about two months, or better, ago.</p>
+               <p>Q. Was it before Christmas or after?</p>
+               <p>Cook. It was since Christmas: I know the prisoner did not come home from Twittenham till Christmas-eve; and it was after he came home.</p>
+               <p>Q. What can a sawyer get a week?</p>
+               <p>Cook. They can get sixteen or seventeen shillings a week.</p>
+               <p>Q. Who was with you, when you was in Mr. Farmer's yard?</p>
+               <p>Cook. There were Sparrow and his mate: I do not know his name, any farther than we called him Thomas, and Ball; Sparrow and Ball broke the gate open, with a wrench they had, and pulled it open together.</p>
+               <p>Q. What do you mean by a wrench?</p>
+               <p>Cook. It is a thing that was made to screw the breech of a gun with; they always carried it with them: I fancy Ball had his hands to the gate, and Sparrow had the wrench: then Ball, I, and Sparrow's man went in: that door was about the middle of the place where the turkeys were, between the field and the yard: the prisoner stood at the door, with the broken end of a screw-gun; it screwed in three place: he had lost the piece that belonged to the shoulder; so the muzzle end of the barrel was left at home. The piece he had, had the lock and breech of the barrel on it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176502270030"></xptr>Q. Was the gun charged?</p>
+               <p>Cook. It was; I brought out two turkeys: as soon as I came out I heard a dog bark; Sparrow's man came next, with three; the dog flew at him, and he threw a turkey at him: then Ball came out with two turkeys, and the dog flew at Sparrow, and catched him by the heel: I, seeing the dog at him, ran away with my two turkeys, and saw no more of them, but went home by myself, and lay at my own house: I got home between one and two, and went to bed directly.</p>
+               <p>Q. Did you see any of them that night after?</p>
+               <p>Cook. No, I did not; only my four children, that lay with me in the same bed.</p>
+               <p>Q. Did not Ball lie with you that night?</p>
+               <p>Cook. No: Ball did lie with me one night; when we got some fowls, but that was before Christmas; he lay a-cross the bed's feet: the next morning I saw either Ball or Sparrow's man; they told me Sparrow was bit: then we went over the water, and sold the turkeys that day.</p>
+               <p>Q. What day was that you carried them over the water?</p>
+               <p>Cook. It was either Friday or Saturday.</p>
+               <p>Q. How many turkeys had you in all?</p>
+               <p>Cook. We had six; we sold five on the other side the water and one on this side: the next morning I went to see Sparrow; he was in bed at Perry's house, in Mouse-alley: he wanted me to get him some beer-dregs, to make a poultice to put to his leg; I went and got some the next day.</p>
+               <p>Q. How long was he confined with this lameness?</p>
+               <p>Cook. He was confined three weeks, or better: he never went out with us afterwards.</p>
+               <p>Q. Where was he taken?</p>
+               <p>Cook. I don't know: I was in prison when he was taken.</p>
+               <p>Q. Where abouts was his wound?</p>
+               <p>Cook. He was bit very much behind, just below the calf; the dog's teeth came through.</p>
+               <p>Q. from prisoner. I desire to know what man that was which you call mine?</p>
+               <p>Cook. It was a man they called Thomas, which the prisoner brought from Twittenham; he knew of a place where were then fowls, at Twittenham; and Sparrow, he, and I, went there and fetched them by night.</p>
+               <p>Ball called in again.</p>
+               <p>Q. to Ball. Do you know any thing of a wrench?</p>
+               <p>Ball. I have one.</p>
+               <p>Q. Had you that with you when you took the turkeys?</p>
+               <p>Ball. To the best of my knowledge we had not that with us that night.</p>
+               <p>Q. How did you get the door open?</p>
+               <p>Ball. To the best of my knowledge we pulled it open with our hands?</p>
+               <p>Q. Are you sure you lay at Cook's the remainder part of that night, along with him?</p>
+               <p>Ball. I am sure I did.</p>
+               <p>Q. Who else were in bed at the time?</p>
+               <p>Ball. There were three children with him: I lay on the side of the bed: I did not strip.</p>
+               <p>Q. How many turkeys did Cook take?</p>
+               <p>Ball. He took two.</p>
+               <p>Q. Who went home with him?</p>
+               <p>Ball. He was gone away before I came out with the turkeys.</p>
+               <p>Q. to Cook. You see how you two differ in this circumstance.</p>
+               <p>Cook. To the best of my knowledge he did not lie there that night.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person345">
+                  William 
+                  Callow 
+               <interp inst="t17650227-30-person345" type="surname" value="Callow"></interp>
+                     <interp inst="t17650227-30-person345" type="given" value="William"></interp>
+                     <interp inst="t17650227-30-person345" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman, and dig the graves at Hackney: I went to Mouse-alley two or three times, in order to take Perry.</p>
+               <p>Q. Did you see Sparrow there?</p>
+               <p>Callow. No; but I saw his wife there.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person346">
+                  Joseph 
+                  Chidley 
+               <interp inst="t17650227-30-person346" type="surname" value="Chidley"></interp>
+                     <interp inst="t17650227-30-person346" type="given" value="Joseph"></interp>
+                     <interp inst="t17650227-30-person346" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Towcester, in Northamptonshire, and am a staymaker; the prisoner was taken there one Sunday morning, five weeks ago to-morrow, for having stole some things: I saw him searched; there was the part of a gun found upon him that contains the lock, and breech of the barrel, it was in his side pocket: he had also a cannister, with a great deal of gunpowder in it. I came up to town with him. (The part of a gun produced in court.)</p>
+               <p>Cook. This is the part of a gun that the prisoner stood with at the door.</p>
+               <p>Ball. I know this to belong to the prisoner.</p>
+               <p>Q. to Chidley. Was the prisoner lame?</p>
+               <p>Chidley. He was lame of one leg: I saw the wound the morning just before he set out to go to Northampton gaol; it looked very much as if it had been shot through with a ball; he said it was cut with an ax; it was near the calf.</p>
+               <p>
+            
+                  <persName id="t17650227-30-person347">
+                  Edward 
+                  Wright 
+               <interp inst="t17650227-30-person347" type="surname" value="Wright"></interp>
+                     <interp inst="t17650227-30-person347" type="given" value="Edward"></interp>
+                     <interp inst="t17650227-30-person347" type="gender" value="male"></interp>
+                  </persName>
+            . I found this piece of a gun (producing the muzzle part of a barrel) in a chest in Taylor's house. He screwed it on to the other piece, found on the prisoner; it exactly fitted.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I took a room in that house of a woman, till I could suit myself better: I went for business into<xptr type="pageFacsimile" doc="176502270031"></xptr> the country; that gun was given me to take down to Birmingham, in order to sell it.</p>
+               <p>
+                  <rs id="t17650227-30-verdict196" type="verdictDescription">
+                     <interp inst="t17650227-30-verdict196" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17650227-30-punish197" type="punishmentDescription">
+                     <interp inst="t17650227-30-punish197" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650227-30-defend300 t17650227-30-punish197"></join>
+               T
+            </rs>.</p>
+               <p>He had four other indictments against him.</p>
+            </div1>

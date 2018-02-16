@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500425-59">
+               <interp inst="t17500425-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500425-59" type="year" value="1750"></interp>
+               <interp inst="t17500425-59" type="uri" value="sessionsPapers/17500425"></interp>
+               <interp inst="t17500425-59" type="date" value="17500425"></interp>
+               <join result="criminalCharge" id="t17500425-59-off285-c319" targOrder="Y" targets="t17500425-59-defend428 t17500425-59-off285 t17500425-59-verdict287"></join>
+               <join result="criminalCharge" id="t17500425-59-off285-c320" targOrder="Y" targets="t17500425-59-defend430 t17500425-59-off285 t17500425-59-verdict287"></join>
+         
+               <p>363, 364. 
+               
+                  <persName id="t17500425-59-defend428" type="defendantName">
+                     John 
+                     Alten 
+                  <interp inst="t17500425-59-defend428" type="surname" value="Alten"></interp>
+                     <interp inst="t17500425-59-defend428" type="given" value="John"></interp>
+                     <interp inst="t17500425-59-defend428" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17500425-59-defend430" type="defendantName">
+                     Michael 
+                     Brian 
+                  <interp inst="t17500425-59-defend430" type="surname" value="Brian"></interp>
+                     <interp inst="t17500425-59-defend430" type="given" value="Michael"></interp>
+                     <interp inst="t17500425-59-defend430" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17500425-59-off285" type="offenceDescription">
+                     <interp inst="t17500425-59-off285" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500425-59-off285" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wooden cask val 3 d. 150 pounds weight of pewter
+            </rs>, the goods of persons unknown.</p>
+               <p>
+                  <rs id="t17500425-59-cd286" type="crimeDate">April 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500425-59-off285 t17500425-59-cd286"></join>.</p>
+               <p>Both <rs id="t17500425-59-verdict287" type="verdictDescription">
+                     <interp inst="t17500425-59-verdict287" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

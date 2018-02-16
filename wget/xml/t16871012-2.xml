@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871012-2">
+               <interp inst="t16871012-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871012-2" type="year" value="1687"></interp>
+               <interp inst="t16871012-2" type="uri" value="sessionsPapers/16871012"></interp>
+               <interp inst="t16871012-2" type="date" value="16871012"></interp>
+               <join result="criminalCharge" id="t16871012-2-off6-c28" targOrder="Y" targets="t16871012-2-defend30 t16871012-2-off6 t16871012-2-verdict9"></join>
+         
+               <p>
+            
+                  <persName id="t16871012-2-defend30" type="defendantName">
+                  Elizabeth 
+                  Handford
+               <interp inst="t16871012-2-defend30" type="surname" value="Handford"></interp>
+                     <interp inst="t16871012-2-defend30" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16871012-2-defend30" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16871012-2-off6" type="offenceDescription">
+                     <interp inst="t16871012-2-off6" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871012-2-off6" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Tankard, value 6 l.
+            </rs> on the <rs id="t16871012-2-cd7" type="crimeDate">27th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16871012-2-off6 t16871012-2-cd7"></join> last, from 
+               
+                  <persName id="t16871012-2-victim32" type="victimName">
+                     Robert 
+                     Mahew
+                  <interp inst="t16871012-2-victim32" type="surname" value="Mahew"></interp>
+                     <interp inst="t16871012-2-victim32" type="given" value="Robert"></interp>
+                     <interp inst="t16871012-2-victim32" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16871012-2-off6 t16871012-2-victim32"></join>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16871012-2-crimeloc8">St. Alhallows Staining</placeName>
+                  <interp inst="t16871012-2-crimeloc8" type="placeName" value="St. Alhallows Staining"></interp>
+                  <interp inst="t16871012-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16871012-2-off6 t16871012-2-crimeloc8"></join>: Upon Tryal the Evidence against her was, that she in the Company of a Man unknown, coming into the house of the Prosecutor, and calling for Drink, took a convenient time when the Woman that drew it was in the Celler to slip away with the Tankard; but she pleading ignorance, and bringing some persons to testifie her being out of Town the day the Tankard was sworn to be stolen, and that she had never absented or absconded her self upon that occasion, the Jury concluded the Witness might be mistaken in the person, and so <rs id="t16871012-2-verdict9" type="verdictDescription">
+                     <interp inst="t16871012-2-verdict9" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-58">
+               <interp inst="t17350226-58" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-58" type="year" value="1735"></interp>
+               <interp inst="t17350226-58" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-58" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-58-off280-c286" targOrder="Y" targets="t17350226-58-defend433 t17350226-58-off280 t17350226-58-verdict282"></join>
+         
+               <p>50. 
+               
+                  <persName id="t17350226-58-defend433" type="defendantName">
+                     Hannah 
+                     Blackhorse 
+                  <interp inst="t17350226-58-defend433" type="surname" value="Blackhorse"></interp>
+                     <interp inst="t17350226-58-defend433" type="given" value="Hannah"></interp>
+                     <interp inst="t17350226-58-defend433" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350226-58-off280" type="offenceDescription">
+                     <interp inst="t17350226-58-off280" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350226-58-off280" type="offenceSubcategory" value="other"></interp>
+               stealing two Sheets, a Looking Glass, a Canlestick, &amp;c.
+            </rs> the Goods of 
+               
+                  <persName id="t17350226-58-victim435" type="victimName">
+                     Jane 
+                     Spencer 
+                  <interp inst="t17350226-58-victim435" type="surname" value="Spencer"></interp>
+                     <interp inst="t17350226-58-victim435" type="given" value="Jane"></interp>
+                     <interp inst="t17350226-58-victim435" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350226-58-off280 t17350226-58-victim435"></join>
+                  </persName>
+                
+            , <rs id="t17350226-58-cd281" type="crimeDate">Feb. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350226-58-off280 t17350226-58-cd281"></join>. <rs id="t17350226-58-verdict282" type="verdictDescription">
+                     <interp inst="t17350226-58-verdict282" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420115-23">
+               <interp inst="t17420115-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420115-23" type="year" value="1742"></interp>
+               <interp inst="t17420115-23" type="uri" value="sessionsPapers/17420115"></interp>
+               <interp inst="t17420115-23" type="date" value="17420115"></interp>
+               <join result="criminalCharge" id="t17420115-23-off108-c155" targOrder="Y" targets="t17420115-23-defend209 t17420115-23-off108 t17420115-23-verdict110"></join>
+         
+               <p>28. 
+               
+                  <persName id="t17420115-23-defend209" type="defendantName">
+                     Samuel 
+                     Phillips 
+                  <interp inst="t17420115-23-defend209" type="surname" value="Phillips"></interp>
+                     <interp inst="t17420115-23-defend209" type="given" value="Samuel"></interp>
+                     <interp inst="t17420115-23-defend209" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17420115-23-off108" type="offenceDescription">
+                     <interp inst="t17420115-23-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420115-23-off108" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 16 Pounds of Sugar, Value 3 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17420115-23-victim211" type="victimName">
+                     Samuel 
+                     Turner 
+                  <interp inst="t17420115-23-victim211" type="surname" value="Turner"></interp>
+                     <interp inst="t17420115-23-victim211" type="given" value="Samuel"></interp>
+                     <interp inst="t17420115-23-victim211" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17420115-23-victim213" type="victimName">
+                     Thomas 
+                     Martin 
+                  <interp inst="t17420115-23-victim213" type="surname" value="Martin"></interp>
+                     <interp inst="t17420115-23-victim213" type="given" value="Thomas"></interp>
+                     <interp inst="t17420115-23-victim213" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17420115-23-cd109" type="crimeDate">Jan. 15th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420115-23-off108 t17420115-23-cd109"></join> 
+                  <rs id="t17420115-23-verdict110" type="verdictDescription">
+                     <interp inst="t17420115-23-verdict110" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17420115-23-verdict110" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17420115-23-punish111" type="punishmentDescription">
+                     <interp inst="t17420115-23-punish111" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420115-23-defend209 t17420115-23-punish111"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

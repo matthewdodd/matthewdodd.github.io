@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550702-28">
+               <interp inst="t17550702-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550702-28" type="year" value="1755"></interp>
+               <interp inst="t17550702-28" type="uri" value="sessionsPapers/17550702"></interp>
+               <interp inst="t17550702-28" type="date" value="17550702"></interp>
+               <join result="criminalCharge" id="t17550702-28-off144-c217" targOrder="Y" targets="t17550702-28-defend272 t17550702-28-off144 t17550702-28-verdict148"></join>
+         
+               <p>282. (M.) 
+               
+                  <persName id="t17550702-28-defend272" type="defendantName">
+                     Mary 
+                     Steff 
+                  <interp inst="t17550702-28-defend272" type="surname" value="Steff"></interp>
+                     <interp inst="t17550702-28-defend272" type="given" value="Mary"></interp>
+                     <interp inst="t17550702-28-defend272" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17550702-28-deflabel143" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550702-28-defend272 t17550702-28-deflabel143"></join>, was indicted for <rs id="t17550702-28-off144" type="offenceDescription">
+                     <interp inst="t17550702-28-off144" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550702-28-off144" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one stock-bed, value 4 s. one brass candlestick, value 6 d. one copper sauce-pan, value 12 d. one sheet, value 1 s. 6 d. one cloth-cloke, value 5 s. one holland shift, value 4 s. two blankets, value 4 s. one silk waistcoat, value 2 s. one copper stew-pan, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17550702-28-victim274" type="victimName">
+                     Thomas 
+                     Morris 
+                  <interp inst="t17550702-28-victim274" type="surname" value="Morris"></interp>
+                     <interp inst="t17550702-28-victim274" type="given" value="Thomas"></interp>
+                     <interp inst="t17550702-28-victim274" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17550702-28-off144 t17550702-28-victim274"></join>
+                  </persName>
+                
+            , <rs id="t17550702-28-cd145" type="crimeDate">June 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550702-28-off144 t17550702-28-cd145"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17550702-28-person275">
+                  Thomas 
+                  Morris 
+               <interp inst="t17550702-28-person275" type="surname" value="Morris"></interp>
+                     <interp inst="t17550702-28-person275" type="given" value="Thomas"></interp>
+                     <interp inst="t17550702-28-person275" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17550702-28-crimeloc146">Drury-lane</placeName>
+                  <interp inst="t17550702-28-crimeloc146" type="placeName" value="Drury-lane"></interp>
+                  <interp inst="t17550702-28-crimeloc146" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17550702-28-off144 t17550702-28-crimeloc146"></join>, and have lost the goods mention'd in the indictment.</p>
+               <p>Q. What reason have you to charge the prisoner?</p>
+               <p>Morris. She was my <rs id="t17550702-28-deflabel147" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550702-28-defend272 t17550702-28-deflabel147"></join>. She came at the beginning of June, and continued with me till the latter end of November. In this time, I lost several things. I suspected the prisoner, and took her up. She owned she took a green silk waistcoat, and gave it to 
+               <persName id="t17550702-28-person276">
+                  Sarah 
+                  Chumley 
+               <interp inst="t17550702-28-person276" type="surname" value="Chumley"></interp>
+                     <interp inst="t17550702-28-person276" type="given" value="Sarah"></interp>
+                     <interp inst="t17550702-28-person276" type="gender" value="female"></interp>
+                  </persName>
+             to pawn. She owned to a bed and bolster; and also to the taking a sheet mark'd T M D, and to two blankets, and a copper stew-pan; which she pawn'd for 8 d. I found them all again, by a search-warrant, by her directions.</p>
+               <p>Q. Was her confession taken in writing ?</p>
+               <p>Morris. It was; and she sign'd and swore to it before justice St. Lawrence. ( There was no such confession returned.)</p>
+
+               <p>
+                  <rs id="t17550702-28-verdict148" type="verdictDescription">
+                     <interp inst="t17550702-28-verdict148" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

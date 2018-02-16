@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391205-17">
+               <interp inst="t17391205-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391205-17" type="year" value="1739"></interp>
+               <interp inst="t17391205-17" type="uri" value="sessionsPapers/17391205"></interp>
+               <interp inst="t17391205-17" type="date" value="17391205"></interp>
+               <join result="criminalCharge" id="t17391205-17-off78-c90" targOrder="Y" targets="t17391205-17-defend122 t17391205-17-off78 t17391205-17-verdict80"></join>
+               <join result="criminalCharge" id="t17391205-17-off81-c90" targOrder="Y" targets="t17391205-17-defend122 t17391205-17-off81 t17391205-17-verdict80"></join>
+         
+               <p>17. 
+               
+                  <persName id="t17391205-17-defend122" type="defendantName">
+                     Elizabeth 
+                     Pierce  , otherwise <rs id="t17391205-17-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17391205-17-defend122 t17391205-17-alias-2"></join>Davis</rs>
+                     <interp inst="t17391205-17-defend122" type="surname" value="Pierce"></interp>
+                     <interp inst="t17391205-17-defend122" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17391205-17-defend122" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17391205-17-defloc77">St. Margaret's , Westminster</placeName>
+                  <interp inst="t17391205-17-defloc77" type="placeName" value="St. Margaret's , Westminster"></interp>
+                  <interp inst="t17391205-17-defloc77" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17391205-17-defend122 t17391205-17-defloc77"></join>, was indicted for <rs id="t17391205-17-off78" type="offenceDescription">
+                     <interp inst="t17391205-17-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-17-off78" type="offenceSubcategory" value="other"></interp>
+               stealing a Linnen Sheet, and several other Things
+            </rs>, the Property of 
+               
+                  <persName id="t17391205-17-victim124" type="victimName">
+                     Seth 
+                     Cary 
+                  <interp inst="t17391205-17-victim124" type="surname" value="Cary"></interp>
+                     <interp inst="t17391205-17-victim124" type="given" value="Seth"></interp>
+                     <interp inst="t17391205-17-victim124" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17391205-17-cd79" type="crimeDate">Oct. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-17-off78 t17391205-17-cd79"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-17-off81 t17391205-17-cd79"></join>. <rs id="t17391205-17-verdict80" type="verdictDescription">
+                     <interp inst="t17391205-17-verdict80" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17391205-17-verdict80" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty, 4 s. 10 d.
+            </rs>
+               </p>
+               <p>She was a Second Time indicted for <rs id="t17391205-17-off81" type="offenceDescription">
+                     <interp inst="t17391205-17-off81" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-17-off81" type="offenceSubcategory" value="other"></interp>
+               stealing a Callico Shirt, the Goods of 
+                     <persName id="t17391205-17-person125">
+                        Thomas 
+                        Baily 
+                     <interp inst="t17391205-17-person125" type="surname" value="Baily"></interp>
+                        <interp inst="t17391205-17-person125" type="given" value="Thomas"></interp>
+                        <interp inst="t17391205-17-person125" type="gender" value="male"></interp>
+                     </persName>
+                  , two Linnen Sheets, a Shirt, and several other Things
+            </rs>, the Property of 
+               
+                  <persName id="t17391205-17-victim127" type="victimName">
+                     Thomas 
+                     Oxton 
+                  <interp inst="t17391205-17-victim127" type="surname" value="Oxton"></interp>
+                     <interp inst="t17391205-17-victim127" type="given" value="Thomas"></interp>
+                     <interp inst="t17391205-17-victim127" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17391205-17-cd82" type="crimeDate">Oct. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-17-off78 t17391205-17-cd82"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-17-off81 t17391205-17-cd82"></join>. <rs id="t17391205-17-verdict83" type="verdictDescription">
+                     <interp inst="t17391205-17-verdict83" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17391205-17-verdict83" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty, 4s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17391205-17-punish84" type="punishmentDescription">
+                     <interp inst="t17391205-17-punish84" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17391205-17-defend122 t17391205-17-punish84"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

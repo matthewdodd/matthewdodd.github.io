@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-10">
+               <interp inst="t17360115-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-10" type="year" value="1736"></interp>
+               <interp inst="t17360115-10" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-10" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-10-off68-c95" targOrder="Y" targets="t17360115-10-defend124 t17360115-10-off68 t17360115-10-verdict72"></join>
+         
+               <p>13 
+               
+                  <persName id="t17360115-10-defend124" type="defendantName">
+                     Simon 
+                     Turner 
+                  <interp inst="t17360115-10-defend124" type="surname" value="Turner"></interp>
+                     <interp inst="t17360115-10-defend124" type="given" value="Simon"></interp>
+                     <interp inst="t17360115-10-defend124" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the <placeName id="t17360115-10-defloc67">Liberty of the Tower</placeName>
+                  <interp inst="t17360115-10-defloc67" type="placeName" value="Liberty of the Tower"></interp>
+                  <interp inst="t17360115-10-defloc67" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-10-defend124 t17360115-10-defloc67"></join>, was indicted for <rs id="t17360115-10-off68" type="offenceDescription">
+                     <interp inst="t17360115-10-off68" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-10-off68" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing a Leaden Glue-pot, value 11 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17360115-10-victim126" type="victimName">
+                     Joseph 
+                     Eades 
+                  <interp inst="t17360115-10-victim126" type="surname" value="Eades"></interp>
+                     <interp inst="t17360115-10-victim126" type="given" value="Joseph"></interp>
+                     <interp inst="t17360115-10-victim126" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-10-off68 t17360115-10-victim126"></join>
+                  </persName>
+                
+            , <rs id="t17360115-10-cd69" type="crimeDate">December 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-10-off68 t17360115-10-cd69"></join>.</p>
+               <p>Eades. I did not see him take it: but the Glew. pot is mine.</p>
+               <p>
+            
+                  <persName id="t17360115-10-person127">
+                  Richard 
+                  Smith 
+               <interp inst="t17360115-10-person127" type="surname" value="Smith"></interp>
+                     <interp inst="t17360115-10-person127" type="given" value="Richard"></interp>
+                     <interp inst="t17360115-10-person127" type="gender" value="male"></interp>
+                  </persName>
+            . I saw him take it and carry it off.</p>
+               <p>Prisoner. I am a <rs id="t17360115-10-deflabel70" type="occupation">Carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360115-10-defend124 t17360115-10-deflabel70"></join>, and had the Leaf of a Table to glue at home; I was acquainted with the young Man that works in the Shop, and went to borrow it: he was not in the Shop; and I only took it for this purpose. The Prosecutor's Shop is in <placeName id="t17360115-10-crimeloc71">Smock-Alley, Petticoat-Lane</placeName>
+                  <interp inst="t17360115-10-crimeloc71" type="placeName" value="Smock-Alley, Petticoat-Lane"></interp>
+                  <interp inst="t17360115-10-crimeloc71" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360115-10-off68 t17360115-10-crimeloc71"></join>. <rs id="t17360115-10-verdict72" type="verdictDescription">
+                     <interp inst="t17360115-10-verdict72" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

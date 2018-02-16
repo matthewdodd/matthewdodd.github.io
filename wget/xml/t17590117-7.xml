@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590117-7">
+               <interp inst="t17590117-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590117-7" type="year" value="1759"></interp>
+               <interp inst="t17590117-7" type="uri" value="sessionsPapers/17590117"></interp>
+               <interp inst="t17590117-7" type="date" value="17590117"></interp>
+               <join result="criminalCharge" id="t17590117-7-off45-c85" targOrder="Y" targets="t17590117-7-defend99 t17590117-7-off45 t17590117-7-verdict49"></join>
+         
+               <p>67. (M.) 
+               
+                  <persName id="t17590117-7-defend99" type="defendantName">
+                     John 
+                     Casey 
+                  <interp inst="t17590117-7-defend99" type="surname" value="Casey"></interp>
+                     <interp inst="t17590117-7-defend99" type="given" value="John"></interp>
+                     <interp inst="t17590117-7-defend99" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17590117-7-off45" type="offenceDescription">
+                     <interp inst="t17590117-7-off45" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590117-7-off45" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one glass-bottle filled with mushrooms; two glass-bottles filled with onions; and five blacking balls
+            </rs>, the property of 
+               
+                  <persName id="t17590117-7-victim101" type="victimName">
+                     Edward 
+                     Kitchen 
+                  <interp inst="t17590117-7-victim101" type="surname" value="Kitchen"></interp>
+                     <interp inst="t17590117-7-victim101" type="given" value="Edward"></interp>
+                     <interp inst="t17590117-7-victim101" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590117-7-off45 t17590117-7-victim101"></join>
+                  </persName>
+                
+            , <rs id="t17590117-7-cd46" type="crimeDate">Jan. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590117-7-off45 t17590117-7-cd46"></join>. +</p>
+               <p>
+            
+                  <persName id="t17590117-7-person102">
+                  Michael 
+                  Dean 
+               <interp inst="t17590117-7-person102" type="surname" value="Dean"></interp>
+                     <interp inst="t17590117-7-person102" type="given" value="Michael"></interp>
+                     <interp inst="t17590117-7-person102" type="gender" value="male"></interp>
+                  </persName>
+            . I live with Mr Kitchen, an <rs id="t17590117-7-viclabel47" type="occupation">Oyl-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590117-7-victim101 t17590117-7-viclabel47"></join> in <placeName id="t17590117-7-crimeloc48">St John's-street</placeName>
+                  <interp inst="t17590117-7-crimeloc48" type="placeName" value="St John's-street"></interp>
+                  <interp inst="t17590117-7-crimeloc48" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590117-7-off45 t17590117-7-crimeloc48"></join>; we lost the things mentioned out of our window, on the 2d of January. The goods produced. They are my master's property. A boy brought them to me, and said, he found them hid in Charterhouse-lane; 
+               <persName id="t17590117-7-person103">
+                  Samuel 
+                  Price 
+               <interp inst="t17590117-7-person103" type="surname" value="Price"></interp>
+                     <interp inst="t17590117-7-person103" type="given" value="Samuel"></interp>
+                     <interp inst="t17590117-7-person103" type="gender" value="male"></interp>
+                  </persName>
+             own'd he and the prisoner took them.</p>
+               <p>
+            
+                  <persName id="t17590117-7-person104">
+                  Samuel 
+                  Price 
+               <interp inst="t17590117-7-person104" type="surname" value="Price"></interp>
+                     <interp inst="t17590117-7-person104" type="given" value="Samuel"></interp>
+                     <interp inst="t17590117-7-person104" type="gender" value="male"></interp>
+                  </persName>
+            . I am fifteen years of age last St Stephen's day; the prisoner, I, and 
+               <persName id="t17590117-7-person105">
+                  Tom 
+                  Bates 
+               <interp inst="t17590117-7-person105" type="surname" value="Bates"></interp>
+                     <interp inst="t17590117-7-person105" type="given" value="Tom"></interp>
+                     <interp inst="t17590117-7-person105" type="gender" value="male"></interp>
+                  </persName>
+            , were coming by this oyl-shop; I cut the two bottle-strings, and we took and carried them away; and was going a second time for more, and Dean took hold of us, and secured us; we took some blacking balls at the same time.</p>
+               <p>Prisoner's defence. I never touched the bottles, and know nothing of them.</p>
+               <p>
+                  <rs id="t17590117-7-verdict49" type="verdictDescription">
+                     <interp inst="t17590117-7-verdict49" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

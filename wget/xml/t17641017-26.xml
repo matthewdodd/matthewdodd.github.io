@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17641017-26">
+               <interp inst="t17641017-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17641017-26" type="year" value="1764"></interp>
+               <interp inst="t17641017-26" type="uri" value="sessionsPapers/17641017"></interp>
+               <interp inst="t17641017-26" type="date" value="17641017"></interp>
+               <join result="criminalCharge" id="t17641017-26-off147-c252" targOrder="Y" targets="t17641017-26-defend308 t17641017-26-off147 t17641017-26-verdict150"></join>
+         
+               <p>574. (L.) 
+               
+                  <persName id="t17641017-26-defend308" type="defendantName">
+                     Christopher 
+                     Macdaniel 
+                  <interp inst="t17641017-26-defend308" type="surname" value="Macdaniel"></interp>
+                     <interp inst="t17641017-26-defend308" type="given" value="Christopher"></interp>
+                     <interp inst="t17641017-26-defend308" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17641017-26-off147" type="offenceDescription">
+                     <interp inst="t17641017-26-off147" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17641017-26-off147" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a linen handkerchief, value 18 d.
+            </rs> the property of 
+               
+                  <persName id="t17641017-26-victim310" type="victimName">
+                     Tho 
+                     Newhouse 
+                  <interp inst="t17641017-26-victim310" type="surname" value="Newhouse"></interp>
+                     <interp inst="t17641017-26-victim310" type="given" value="Tho"></interp>
+                     <interp inst="t17641017-26-victim310" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17641017-26-off147 t17641017-26-victim310"></join>
+                  </persName>
+                
+            , <rs id="t17641017-26-cd148" type="crimeDate">October 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17641017-26-off147 t17641017-26-cd148"></join>. +</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176410170022"></xptr>
+            
+                  <persName id="t17641017-26-person311">
+                  Thomas 
+                  Newhouse 
+               <interp inst="t17641017-26-person311" type="surname" value="Newhouse"></interp>
+                     <interp inst="t17641017-26-person311" type="given" value="Thomas"></interp>
+                     <interp inst="t17641017-26-person311" type="gender" value="male"></interp>
+                  </persName>
+            . My brother and I were walking down <placeName id="t17641017-26-crimeloc149">Snow-hill</placeName>
+                  <interp inst="t17641017-26-crimeloc149" type="placeName" value="Snow-hill"></interp>
+                  <interp inst="t17641017-26-crimeloc149" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17641017-26-off147 t17641017-26-crimeloc149"></join>, on Monday night, between five and six o'clock. I felt something at my pocket; I clapt my hand down, and put it upon the prisoner's; he had hold of my handkerchief, and I had hold of it too; Mr. Smith coming up, I begged his assistance.</p>
+               <p>Q. Did he get it from you?</p>
+               <p>Newhouse. No. I had hold on one end, and he the other.</p>
+               <p>Q. Was it ever out of your possession?</p>
+               <p>Newhouse. No, it was not.</p>
+               <p>
+            
+                  <persName id="t17641017-26-person312">
+                  Benjamin 
+                  Smith 
+               <interp inst="t17641017-26-person312" type="surname" value="Smith"></interp>
+                     <interp inst="t17641017-26-person312" type="given" value="Benjamin"></interp>
+                     <interp inst="t17641017-26-person312" type="gender" value="male"></interp>
+                  </persName>
+            . Last Monday, about half an hour past six at night, I met with Mr. Newhouse at the bottom of Snow-hill; the prisoner and he were struggling together; he said to me, this man has picked my pocket of a handkerchief. I saw the handkerchief in Mr. Newhouse's hand.</p>
+               <p>Q. Did you see it in the possession of the prisoner?</p>
+               <p>Smith. No, I did not.</p>
+               <p>
+                  <rs id="t17641017-26-verdict150" type="verdictDescription">
+                     <interp inst="t17641017-26-verdict150" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

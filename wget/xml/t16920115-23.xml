@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920115-23">
+               <interp inst="t16920115-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920115-23" type="year" value="1692"></interp>
+               <interp inst="t16920115-23" type="uri" value="sessionsPapers/16920115"></interp>
+               <interp inst="t16920115-23" type="date" value="16920115"></interp>
+               <join result="criminalCharge" id="t16920115-23-off110-c84" targOrder="Y" targets="t16920115-23-defend84 t16920115-23-off110 t16920115-23-verdict114"></join>
+         
+               <p>
+            
+                  <persName id="t16920115-23-defend84" type="defendantName">
+                  Sarah 
+                  Taylor
+               <interp inst="t16920115-23-defend84" type="surname" value="Taylor"></interp>
+                     <interp inst="t16920115-23-defend84" type="given" value="Sarah"></interp>
+                     <interp inst="t16920115-23-defend84" type="gender" value="female"></interp>
+                  </persName>
+             was tryed, for <rs id="t16920115-23-off110" type="offenceDescription">
+                     <interp inst="t16920115-23-off110" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920115-23-off110" type="offenceSubcategory" value="pocketpicking"></interp>
+               privily stealing from one 
+                     <persName id="t16920115-23-victim85" type="victimName">
+                        John 
+                        Randale
+                     <interp inst="t16920115-23-victim85" type="surname" value="Randale"></interp>
+                        <interp inst="t16920115-23-victim85" type="given" value="John"></interp>
+                        <interp inst="t16920115-23-victim85" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920115-23-off110 t16920115-23-victim85"></join>
+                     </persName>
+                  , a Lac'd Crevate, value 5 s.
+            </rs> on the <rs id="t16920115-23-cd111" type="crimeDate">Third of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920115-23-off110 t16920115-23-cd111"></join> last, she met him in <placeName id="t16920115-23-crimeloc112">St. Paul's Church-Yard</placeName>
+                  <interp inst="t16920115-23-crimeloc112" type="placeName" value="St. Paul's Church-Yard"></interp>
+                  <interp inst="t16920115-23-crimeloc112" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16920115-23-off110 t16920115-23-crimeloc112"></join>, about Eight a Clock at Night, and suddenly snatch't his Crevate from his Neck, and run away with it, crying ont murther; The Prisoner declared that the Prosecutor solicited her to go into a House with him, but she refusing, he seemed to force her, upon which, she cryed out; She called the Justice of Peace's Clerk, who said, that the Prosecutor gave but a very indifferent account of himself before his Master, and owned to one of the Family that he did usually divert himself by picking up Women in the Streets: The Prisoner furthermore, called some others who said, that she was a <rs id="t16920115-23-deflabel113" type="occupation">Sempster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920115-23-defend84 t16920115-23-deflabel113"></join>, and wrought hard for her Livelihood, and that she was never Reputed to be a Person of such a Character; so she was <rs id="t16920115-23-verdict114" type="verdictDescription">
+                     <interp inst="t16920115-23-verdict114" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

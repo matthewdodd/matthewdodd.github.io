@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-84">
+               <interp inst="t16890516-84" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-84" type="year" value="1689"></interp>
+               <interp inst="t16890516-84" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-84" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-84-off374-c228" targOrder="Y" targets="t16890516-84-defend374 t16890516-84-off374 t16890516-84-verdict376"></join>
+               <join result="criminalCharge" id="t16890516-84-off374-c229" targOrder="Y" targets="t16890516-84-defend376 t16890516-84-off374 t16890516-84-verdict376"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-84-defend374" type="defendantName">
+                     Richard 
+                     Bullen
+                  <interp inst="t16890516-84-defend374" type="surname" value="Bullen"></interp>
+                     <interp inst="t16890516-84-defend374" type="given" value="Richard"></interp>
+                     <interp inst="t16890516-84-defend374" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16890516-84-defend376" type="defendantName">
+                     William 
+                     Miller
+                  <interp inst="t16890516-84-defend376" type="surname" value="Miller"></interp>
+                     <interp inst="t16890516-84-defend376" type="given" value="William"></interp>
+                     <interp inst="t16890516-84-defend376" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16890516-84-defloc373">Stepney</placeName>
+                  <interp inst="t16890516-84-defloc373" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16890516-84-defloc373" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890516-84-defend374 t16890516-84-defloc373"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890516-84-defend376 t16890516-84-defloc373"></join> were both Indicted, for that they together with one 
+               <persName id="t16890516-84-person377">
+                  Peter 
+                  Mason
+               <interp inst="t16890516-84-person377" type="surname" value="Mason"></interp>
+                     <interp inst="t16890516-84-person377" type="given" value="Peter"></interp>
+                     <interp inst="t16890516-84-person377" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t16890516-84-off374" type="offenceDescription">
+                     <interp inst="t16890516-84-off374" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-84-off374" type="offenceSubcategory" value="theftFromPlace"></interp>
+               Robbed 
+                     
+                        <persName id="t16890516-84-victim379" type="victimName">
+                           Thomas 
+                           Meadows
+                        <interp inst="t16890516-84-victim379" type="surname" value="Meadows"></interp>
+                        <interp inst="t16890516-84-victim379" type="given" value="Thomas"></interp>
+                        <interp inst="t16890516-84-victim379" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-84-off374 t16890516-84-victim379"></join>
+                     </persName>
+                     
+                   on the <rs id="t16890516-84-cd375" type="crimeDate">10th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-84-off374 t16890516-84-cd375"></join> of one Silver Tankard value 4 s. two old Coats 5 s. two other coats about 3 s.
+            </rs> The Evidence were Meadows, &amp;c. who said, That there were three men broke in upon his House when he was in Bed, and found him and his Family, and then Rifled his House, and took away the Goods, and afterwards the Goods were found upon the Prisoners at the Katherine Wheel at Mile End. Bullen was in the House, but the Evidence did not Swear that Miller was there, but that he stood at the Back Door. So upon the whole they were found <rs id="t16890516-84-verdict376" type="verdictDescription">
+                     <interp inst="t16890516-84-verdict376" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16890516-84-punish377" type="punishmentDescription">
+                     <interp inst="t16890516-84-punish377" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-84-defend374 t16890516-84-punish377"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-84-defend376 t16890516-84-punish377"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

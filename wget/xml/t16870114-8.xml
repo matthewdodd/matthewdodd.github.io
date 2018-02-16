@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870114-8">
+               <interp inst="t16870114-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870114-8" type="year" value="1687"></interp>
+               <interp inst="t16870114-8" type="uri" value="sessionsPapers/16870114"></interp>
+               <interp inst="t16870114-8" type="date" value="16870114"></interp>
+               <join result="criminalCharge" id="t16870114-8-off39-c43" targOrder="Y" targets="t16870114-8-defend56 t16870114-8-off39 t16870114-8-verdict41"></join>
+               <join result="criminalCharge" id="t16870114-8-off39-c44" targOrder="Y" targets="t16870114-8-defend58 t16870114-8-off39 t16870114-8-verdict41"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870114-8-defend56" type="defendantName">
+                     Thomas 
+                     Barns
+                  <interp inst="t16870114-8-defend56" type="surname" value="Barns"></interp>
+                     <interp inst="t16870114-8-defend56" type="given" value="Thomas"></interp>
+                     <interp inst="t16870114-8-defend56" type="gender" value="male"></interp>
+                  </persName>
+               
+             the Elder, and 
+               
+                  <persName id="t16870114-8-defend58" type="defendantName">
+                     Thomas 
+                     Barns
+                  <interp inst="t16870114-8-defend58" type="surname" value="Barns"></interp>
+                     <interp inst="t16870114-8-defend58" type="given" value="Thomas"></interp>
+                     <interp inst="t16870114-8-defend58" type="gender" value="male"></interp>
+                  </persName>
+               
+             the Younger, of the Parish of <placeName id="t16870114-8-defloc38">Hounslow</placeName>
+                  <interp inst="t16870114-8-defloc38" type="placeName" value="Hounslow"></interp>
+                  <interp inst="t16870114-8-defloc38" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870114-8-defend56 t16870114-8-defloc38"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870114-8-defend58 t16870114-8-defloc38"></join>, were Indicted for <rs id="t16870114-8-off39" type="offenceDescription">
+                     <interp inst="t16870114-8-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870114-8-off39" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of Hair Shag Breeches, value 14 s. and 5 l. 6 s. and 6 d. in Moneys
+            </rs>, the Goods of 
+               <persName id="t16870114-8-victim59" type="victimName">
+                  John 
+                  Brown
+               <interp inst="t16870114-8-victim59" type="surname" value="Brown"></interp>
+                     <interp inst="t16870114-8-victim59" type="given" value="John"></interp>
+                     <interp inst="t16870114-8-victim59" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870114-8-off39 t16870114-8-victim59"></join>
+                  </persName>
+            , on the <rs id="t16870114-8-cd40" type="crimeDate">27th. of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870114-8-off39 t16870114-8-cd40"></join> last. The Evidence against them, deposed that they came into the Chamber of the Prosecutor, the Key being over the door, and took away the aforesaid Goods and Money, and laid the Key in its place; the money being in the Breeches Pocket: The Father said that he found them in the High way in the Dirt, and washed them, and after bid his Son wear them, which he did; and the Evidence being so strong against them, they were both found <rs id="t16870114-8-verdict41" type="verdictDescription">
+                     <interp inst="t16870114-8-verdict41" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16870114-8-punish42" type="punishmentDescription">
+                     <interp inst="t16870114-8-punish42" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870114-8-punish42" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870114-8-defend56 t16870114-8-punish42"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870114-8-defend58 t16870114-8-punish42"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680706-32">
+               <interp inst="t17680706-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680706-32" type="year" value="1768"></interp>
+               <interp inst="t17680706-32" type="uri" value="sessionsPapers/17680706"></interp>
+               <interp inst="t17680706-32" type="date" value="17680706"></interp>
+               <join result="criminalCharge" id="t17680706-32-off169-c209" targOrder="Y" targets="t17680706-32-defend276 t17680706-32-off169 t17680706-32-verdict171"></join>
+         
+               <p>446. 
+               
+                  <persName id="t17680706-32-defend276" type="defendantName">
+                     Thomas 
+                     Roberts 
+                  <interp inst="t17680706-32-defend276" type="surname" value="Roberts"></interp>
+                     <interp inst="t17680706-32-defend276" type="given" value="Thomas"></interp>
+                     <interp inst="t17680706-32-defend276" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17680706-32-off169" type="offenceDescription">
+                     <interp inst="t17680706-32-off169" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680706-32-off169" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four guineas and two half guineas
+            </rs>, the money of 
+               
+                  <persName id="t17680706-32-victim278" type="victimName">
+                     John 
+                     Harrison 
+                  <interp inst="t17680706-32-victim278" type="surname" value="Harrison"></interp>
+                     <interp inst="t17680706-32-victim278" type="given" value="John"></interp>
+                     <interp inst="t17680706-32-victim278" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680706-32-off169 t17680706-32-victim278"></join>
+                  </persName>
+                
+            , <rs id="t17680706-32-cd170" type="crimeDate">July 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680706-32-off169 t17680706-32-cd170"></join>.</p>
+               <p>The prosecutor did not appear.</p>
+               <p>
+                  <rs id="t17680706-32-verdict171" type="verdictDescription">
+                     <interp inst="t17680706-32-verdict171" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17680706-32-verdict171" type="verdictSubcategory" value="noProsecutor"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>His recognizance was ordered to be estreated.</p>
+            </div1>

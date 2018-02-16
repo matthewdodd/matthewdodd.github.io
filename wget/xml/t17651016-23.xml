@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651016-23">
+               <interp inst="t17651016-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651016-23" type="year" value="1765"></interp>
+               <interp inst="t17651016-23" type="uri" value="sessionsPapers/17651016"></interp>
+               <interp inst="t17651016-23" type="date" value="17651016"></interp>
+               <join result="criminalCharge" id="t17651016-23-off129-c202" targOrder="Y" targets="t17651016-23-defend246 t17651016-23-off129 t17651016-23-verdict134"></join>
+         
+               <p>538. (L.) 
+               
+                  <persName id="t17651016-23-defend246" type="defendantName">
+                     John 
+                     Churchman 
+                  <interp inst="t17651016-23-defend246" type="surname" value="Churchman"></interp>
+                     <interp inst="t17651016-23-defend246" type="given" value="John"></interp>
+                     <interp inst="t17651016-23-defend246" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17651016-23-off129" type="offenceDescription">
+                     <interp inst="t17651016-23-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651016-23-off129" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a wooden top to a table, value 6 d. and four wooden pannels, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17651016-23-victim248" type="victimName">
+                     Benjamin 
+                     White 
+                  <interp inst="t17651016-23-victim248" type="surname" value="White"></interp>
+                     <interp inst="t17651016-23-victim248" type="given" value="Benjamin"></interp>
+                     <interp inst="t17651016-23-victim248" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651016-23-off129 t17651016-23-victim248"></join>
+                  </persName>
+                
+            , <rs id="t17651016-23-cd130" type="crimeDate">October 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651016-23-off129 t17651016-23-cd130"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17651016-23-person249">
+                  James 
+                  Taber 
+               <interp inst="t17651016-23-person249" type="surname" value="Taber"></interp>
+                     <interp inst="t17651016-23-person249" type="given" value="James"></interp>
+                     <interp inst="t17651016-23-person249" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner and I were at work at Mr. 
+               <persName id="t17651016-23-person250">
+                  Benjamin 
+                  White 
+               <interp inst="t17651016-23-person250" type="surname" value="White"></interp>
+                     <interp inst="t17651016-23-person250" type="given" value="Benjamin"></interp>
+                     <interp inst="t17651016-23-person250" type="gender" value="male"></interp>
+                  </persName>
+            's, <rs id="t17651016-23-viclabel131" type="occupation">bookseller</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651016-23-victim248 t17651016-23-viclabel131"></join>, in <placeName id="t17651016-23-crimeloc132">Fleet-street</placeName>
+                  <interp inst="t17651016-23-crimeloc132" type="placeName" value="Fleet-street"></interp>
+                  <interp inst="t17651016-23-crimeloc132" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651016-23-off129 t17651016-23-crimeloc132"></join>; we are <rs id="t17651016-23-deflabel133" type="occupation">journeymen carpenters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651016-23-defend246 t17651016-23-deflabel133"></join>: we had lost some tools, and he was suspected; we searched his apartment last Friday, and found the pieces of wood mentioned in the indictment, behind the street door; (Produced in court). I know the top of the table is the property of Mr. White.</p>
+               <p>Q. Has the prisoner that house to himself, where you found the wood?</p>
+               <p>Taber. He has, but he has lodgers; his partner lodged along with him.</p>
+               <p>Q. Do you know who took away the wood?</p>
+               <p>Taber. No. We suspected the prisoner and his partner before any body else.</p>
+               <p>Q. Did the prisoner confess any thing?</p>
+               <p>Taber. No.</p>
+               <p>
+                  <rs id="t17651016-23-verdict134" type="verdictDescription">
+                     <interp inst="t17651016-23-verdict134" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

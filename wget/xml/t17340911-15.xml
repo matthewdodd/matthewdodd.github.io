@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-15">
+               <interp inst="t17340911-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-15" type="year" value="1734"></interp>
+               <interp inst="t17340911-15" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-15" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-15-off73-c110" targOrder="Y" targets="t17340911-15-defend147 t17340911-15-off73 t17340911-15-verdict76"></join>
+               <join result="criminalCharge" id="t17340911-15-off75-c112" targOrder="Y" targets="t17340911-15-defend151 t17340911-15-off75 t17340911-15-verdict77"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17340911-15-defend147" type="defendantName">
+                     Ann 
+                     Allen 
+                  <interp inst="t17340911-15-defend147" type="surname" value="Allen"></interp>
+                     <interp inst="t17340911-15-defend147" type="given" value="Ann"></interp>
+                     <interp inst="t17340911-15-defend147" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17340911-15-off73" type="offenceDescription">
+                     <interp inst="t17340911-15-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340911-15-off73" type="offenceSubcategory" value="other"></interp>
+               stealing a Sheet, a Gown, and a pair of Stays
+            </rs>, the Goods of 
+               
+                  <persName id="t17340911-15-victim149" type="victimName">
+                     Thomas 
+                     Brown 
+                  <interp inst="t17340911-15-victim149" type="surname" value="Brown"></interp>
+                     <interp inst="t17340911-15-victim149" type="given" value="Thomas"></interp>
+                     <interp inst="t17340911-15-victim149" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17340911-15-cd74" type="crimeDate">July 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-15-off73 t17340911-15-cd74"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-15-off75 t17340911-15-cd74"></join>. And,</p>
+               <p>19. 
+               
+                  <persName id="t17340911-15-defend151" type="defendantName">
+                     Jane 
+                     Thomson 
+                  <interp inst="t17340911-15-defend151" type="surname" value="Thomson"></interp>
+                     <interp inst="t17340911-15-defend151" type="given" value="Jane"></interp>
+                     <interp inst="t17340911-15-defend151" type="gender" value="female"></interp>
+                  </persName>
+                
+             for <rs id="t17340911-15-off75" type="offenceDescription">
+                     <interp inst="t17340911-15-off75" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340911-15-off75" type="offenceSubcategory" value="receiving"></interp>
+               receiving the said Sheet
+            </rs>. Allen <rs id="t17340911-15-verdict76" type="verdictDescription">
+                     <interp inst="t17340911-15-verdict76" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, and Thomson <rs id="t17340911-15-verdict77" type="verdictDescription">
+                     <interp inst="t17340911-15-verdict77" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17340911-15-punish78" type="punishmentDescription">
+                     <interp inst="t17340911-15-punish78" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17340911-15-punish78" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340911-15-defend147 t17340911-15-punish78"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

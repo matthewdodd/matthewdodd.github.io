@@ -1,3 +1,109 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590228-11">
+               <interp inst="t17590228-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590228-11" type="year" value="1759"></interp>
+               <interp inst="t17590228-11" type="uri" value="sessionsPapers/17590228"></interp>
+               <interp inst="t17590228-11" type="date" value="17590228"></interp>
+               <join result="criminalCharge" id="t17590228-11-off62-c101" targOrder="Y" targets="t17590228-11-defend121 t17590228-11-off62 t17590228-11-verdict68"></join>
+               <join result="criminalCharge" id="t17590228-11-off63-c103" targOrder="Y" targets="t17590228-11-defend125 t17590228-11-off63 t17590228-11-verdict69"></join>
+         
+               <p>124, 125. (M.) 
+               
+                  <persName id="t17590228-11-defend121" type="defendantName">
+                     Nicholas 
+                     Chatlin 
+                  <interp inst="t17590228-11-defend121" type="surname" value="Chatlin"></interp>
+                     <interp inst="t17590228-11-defend121" type="given" value="Nicholas"></interp>
+                     <interp inst="t17590228-11-defend121" type="gender" value="male"></interp>
+                  </persName>
+                
+             was indicted for <rs id="t17590228-11-off62" type="offenceDescription">
+                     <interp inst="t17590228-11-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590228-11-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one iron chain, value 2 s. and one iron hook, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17590228-11-victim123" type="victimName">
+                     William 
+                     Rickards 
+                  <interp inst="t17590228-11-victim123" type="surname" value="Rickards"></interp>
+                     <interp inst="t17590228-11-victim123" type="given" value="William"></interp>
+                     <interp inst="t17590228-11-victim123" type="gender" value="male"></interp>
+                  </persName>
+                
+            ; and 
+               
+                  <persName id="t17590228-11-defend125" type="defendantName">
+                     Hugh 
+                     Cavenhaugh 
+                  <interp inst="t17590228-11-defend125" type="surname" value="Cavenhaugh"></interp>
+                     <interp inst="t17590228-11-defend125" type="given" value="Hugh"></interp>
+                     <interp inst="t17590228-11-defend125" type="gender" value="male"></interp>
+                  </persName>
+                
+             for <rs id="t17590228-11-off63" type="offenceDescription">
+                     <interp inst="t17590228-11-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590228-11-off63" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same well knowing them to have been stolen
+            </rs>, <rs id="t17590228-11-cd64" type="crimeDate">Feb. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590228-11-off62 t17590228-11-cd64"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590228-11-off63 t17590228-11-cd64"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17590228-11-person126">
+                  William 
+                  Rickards 
+               <interp inst="t17590228-11-person126" type="surname" value="Rickards"></interp>
+                     <interp inst="t17590228-11-person126" type="given" value="William"></interp>
+                     <interp inst="t17590228-11-person126" type="gender" value="male"></interp>
+                  </persName>
+            . On the 4th of February instant, late in the evening, I went into my Glass-house to see how the work went on.</p>
+               <p>Q. Where is your Glass-house?</p>
+               <p>Rickards. It is in the <placeName id="t17590228-11-crimeloc65">Minories</placeName>
+                  <interp inst="t17590228-11-crimeloc65" type="placeName" value="Minories"></interp>
+                  <interp inst="t17590228-11-crimeloc65" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590228-11-off62 t17590228-11-crimeloc65"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17590228-11-off63 t17590228-11-crimeloc65"></join>: I found Chatlin there; I asked him what he did there, and desired him to go out; he pleaded poverty, so I let him lie there that night; he was there also the next day, and the day following; then he went away; we soon after missed a chain and hook, and when I came from church the Sunday following, the prisoner was there again, and my people were accusing him with having taken them away; he confessed he had, and that he had sold them for three pence to the other prisoner; the hook was made to take on and off; we took up the other prisoner, and he told us he had sent it to a Blacksmith to have it made into a poker; the poor fellow Chatlin is a <rs id="t17590228-11-deflabel66" type="occupation">foregner</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590228-11-defend121 t17590228-11-deflabel66"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590228-11-defend125 t17590228-11-deflabel66"></join> and a <rs id="t17590228-11-deflabel67" type="occupation">cripple</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590228-11-defend121 t17590228-11-deflabel67"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590228-11-defend125 t17590228-11-deflabel67"></join>.</p>
+               <p>
+            
+                  <persName id="t17590228-11-person127">
+                  John 
+                  Bowler 
+               <interp inst="t17590228-11-person127" type="surname" value="Bowler"></interp>
+                     <interp inst="t17590228-11-person127" type="given" value="John"></interp>
+                     <interp inst="t17590228-11-person127" type="gender" value="male"></interp>
+                  </persName>
+            . I work for the prosecutor: Chatlin came into our Glass-house, and lay there a night or two, and took a chain away with him, and came on the Sunday night following, and I challenged him with taking it; he owned he had taken it, and carried it to the house of Cavenhaugh where he lodged; I went to Cavenhaugh's and asked him about it; he told me he had carried it to one Hawkins a Smith to make him a poker of it; he owned he had let him have something for victuals and drink; he said he was in bed when it was brought to his house, and that his wife had let him have three pence on it: I went to Hawkins's and found part of the chain. Produced in court.</p>
+               <p>Q. What is the value of it if sold for old iron?</p>
+               <p>Bowler. About two shilling or half a crown.</p>
+               <p>Q. How much was there of it?</p>
+               <p>Bowler. There might be about ten pounds of it.</p>
+               <p>Q. What is the price per pound for old iron?</p>
+               <p>Bowler. The common price is a penny a pound, but this cost my master above half a guinea.</p>
+               <p>For Cavenhaugh.</p>
+               <p>Mr. Hawkins. The prisoner Cavenhaugh gave me this chain to make a poker of: he has always bore the character of an honest man.</p>
+               <p>Prosecutor. Cavenhaugh bears the character of an honest man, I understand since he was taken up; I would not have prosecuted him, had I not been bound over.</p>
+               <p>Chatlin <rs id="t17590228-11-verdict68" type="verdictDescription">
+                     <interp inst="t17590228-11-verdict68" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17590228-11-verdict68" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty 10 d
+            </rs>.</p>
+               <p>Cavenhaugh <rs id="t17590228-11-verdict69" type="verdictDescription">
+                     <interp inst="t17590228-11-verdict69" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17590228-11-punish70" type="punishmentDescription">
+                     <interp inst="t17590228-11-punish70" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17590228-11-punish70" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590228-11-defend121 t17590228-11-punish70"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

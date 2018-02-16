@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17491011-6">
+               <interp inst="t17491011-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17491011-6" type="year" value="1749"></interp>
+               <interp inst="t17491011-6" type="uri" value="sessionsPapers/17491011"></interp>
+               <interp inst="t17491011-6" type="date" value="17491011"></interp>
+               <join result="criminalCharge" id="t17491011-6-off28-c46" targOrder="Y" targets="t17491011-6-defend55 t17491011-6-off28 t17491011-6-verdict31"></join>
+               <join result="criminalCharge" id="t17491011-6-off28-c47" targOrder="Y" targets="t17491011-6-defend57 t17491011-6-off28 t17491011-6-verdict31"></join>
+         
+               <p>605. 
+               <persName id="t17491011-6-defend55" type="defendantName">
+                  Gyles 
+                  Taylor 
+               <interp inst="t17491011-6-defend55" type="surname" value="Taylor"></interp>
+                     <interp inst="t17491011-6-defend55" type="given" value="Gyles"></interp>
+                     <interp inst="t17491011-6-defend55" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17491011-6-off28" type="offenceDescription">
+                     <interp inst="t17491011-6-off28" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17491011-6-off28" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one silver watch, val. 40 s. one pair of leather breeches, val. 5 s. two linen shirts, val. 4 s. one silver stock buckle and 10 s. in money numbered, the property of 
+                     
+                        <persName id="t17491011-6-defend57" type="defendantName">
+                           James 
+                           Scott 
+                        <interp inst="t17491011-6-defend57" type="surname" value="Scott"></interp>
+                        <interp inst="t17491011-6-defend57" type="given" value="James"></interp>
+                        <interp inst="t17491011-6-defend57" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , in the dwelling-house of 
+                     <persName id="t17491011-6-person58">
+                        Henry 
+                        Field 
+                     <interp inst="t17491011-6-person58" type="surname" value="Field"></interp>
+                        <interp inst="t17491011-6-person58" type="given" value="Henry"></interp>
+                        <interp inst="t17491011-6-person58" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17491011-6-cd29" type="crimeDate">July 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17491011-6-off28 t17491011-6-cd29"></join>.</p>
+               <p>
+            
+                  <persName id="t17491011-6-person59">
+                  James 
+                  Scott 
+               <interp inst="t17491011-6-person59" type="surname" value="Scott"></interp>
+                     <interp inst="t17491011-6-person59" type="given" value="James"></interp>
+                     <interp inst="t17491011-6-person59" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17491011-6-crimeloc30">Stoke Newington</placeName>
+                  <interp inst="t17491011-6-crimeloc30" type="placeName" value="Stoke Newington"></interp>
+                  <interp inst="t17491011-6-crimeloc30" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17491011-6-off28 t17491011-6-crimeloc30"></join>, I went to bed the 15th of July between nine and ten o' clock, I saw all these things before I went to bed, I miss'd them the next morning between three and four o'clock; the prisoner lodg'd with me in the same room in another bed, I saw him come into the room after I was in bed, but whether he went into his bed I cannot tell. When he was taken none of these things were found upon him; but after he was in Bridewell he confess'd to me that he had left my watch at Oxford, that he went to have the inside case mended, and that the workman spoil'd it.</p>
+               <p>
+            
+                  <persName id="t17491011-6-person60">
+                  Henry 
+                  Field 
+               <interp inst="t17491011-6-person60" type="surname" value="Field"></interp>
+                     <interp inst="t17491011-6-person60" type="given" value="Henry"></interp>
+                     <interp inst="t17491011-6-person60" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor and prisoner lodg'd together at my house both in one room; that night the prosecutor went to bed about nine o'clock, and the prisoner between eleven and twelve; it was about twelve before I went to sleep, I heard one of them go down stairs betwixt twelve and one, I thought one of them was gone to the vault; about four o'clock the prosecutor call'd me up, and said he had been robb'd; the prisoner was gone, and I never saw him again 'till he was taken up at Kingston and brought back.</p>
+               <p>
+                  <rs id="t17491011-6-verdict31" type="verdictDescription">
+                     <interp inst="t17491011-6-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17491011-6-verdict31" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 10 s
+            </rs>.</p>
+               <p>
+                  <rs id="t17491011-6-punish32" type="punishmentDescription">
+                     <interp inst="t17491011-6-punish32" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17491011-6-punish32" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17491011-6-defend55 t17491011-6-punish32"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17491011-6-defend57 t17491011-6-punish32"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

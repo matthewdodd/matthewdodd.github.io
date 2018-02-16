@@ -1,3 +1,96 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880425-49">
+               <interp inst="t16880425-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880425-49" type="year" value="1688"></interp>
+               <interp inst="t16880425-49" type="uri" value="sessionsPapers/16880425"></interp>
+               <interp inst="t16880425-49" type="date" value="16880425"></interp>
+               <join result="criminalCharge" id="t16880425-49-off237-c149" targOrder="Y" targets="t16880425-49-defend239 t16880425-49-off237 t16880425-49-verdict240"></join>
+               <join result="criminalCharge" id="t16880425-49-off237-c150" targOrder="Y" targets="t16880425-49-defend241 t16880425-49-off237 t16880425-49-verdict241"></join>
+               <join result="criminalCharge" id="t16880425-49-off237-c151" targOrder="Y" targets="t16880425-49-defend243 t16880425-49-off237 t16880425-49-verdict240"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880425-49-defend239" type="defendantName">
+                     Robert 
+                     Atterton
+                  <interp inst="t16880425-49-defend239" type="surname" value="Atterton"></interp>
+                     <interp inst="t16880425-49-defend239" type="given" value="Robert"></interp>
+                     <interp inst="t16880425-49-defend239" type="gender" value="male"></interp>
+                  </persName>
+               
+             
+            
+               
+                  <persName id="t16880425-49-defend241" type="defendantName">
+                     Robert 
+                     Beck
+                  <interp inst="t16880425-49-defend241" type="surname" value="Beck"></interp>
+                     <interp inst="t16880425-49-defend241" type="given" value="Robert"></interp>
+                     <interp inst="t16880425-49-defend241" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16880425-49-defend243" type="defendantName">
+                     Ruth 
+                     Sanders
+                  <interp inst="t16880425-49-defend243" type="surname" value="Sanders"></interp>
+                     <interp inst="t16880425-49-defend243" type="given" value="Ruth"></interp>
+                     <interp inst="t16880425-49-defend243" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were Indicted for <rs id="t16880425-49-off237" type="offenceDescription">
+                     <interp inst="t16880425-49-off237" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880425-49-off237" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     
+                        <persName id="t16880425-49-victim245" type="victimName">
+                           Anthony 
+                           Vary
+                        <interp inst="t16880425-49-victim245" type="surname" value="Vary"></interp>
+                        <interp inst="t16880425-49-victim245" type="given" value="Anthony"></interp>
+                        <interp inst="t16880425-49-victim245" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880425-49-off237 t16880425-49-victim245"></join>
+                     </persName>
+                     
+                   
+                     <rs id="t16880425-49-viclabel238" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16880425-49-victim245 t16880425-49-viclabel238"></join>; and stealing thence a great quantity of linnen
+            </rs> on the <rs id="t16880425-49-cd239" type="crimeDate">2 d. of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880425-49-off237 t16880425-49-cd239"></join> last, the Burglary was not sufficiently proved, and some of the goods being found upon 
+               <persName id="t16880425-49-person246">
+                  Robert 
+                  Atterton
+               <interp inst="t16880425-49-person246" type="surname" value="Atterton"></interp>
+                     <interp inst="t16880425-49-person246" type="given" value="Robert"></interp>
+                     <interp inst="t16880425-49-person246" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16880425-49-person247">
+                  Ruth 
+                  Sanders
+               <interp inst="t16880425-49-person247" type="surname" value="Sanders"></interp>
+                     <interp inst="t16880425-49-person247" type="given" value="Ruth"></interp>
+                     <interp inst="t16880425-49-person247" type="gender" value="female"></interp>
+                  </persName>
+            , they were found <rs id="t16880425-49-verdict240" type="verdictDescription">
+                     <interp inst="t16880425-49-verdict240" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880425-49-verdict240" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty
+            </rs> of Felony, and the other <rs id="t16880425-49-verdict241" type="verdictDescription">
+                     <interp inst="t16880425-49-verdict241" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16880425-49-punish242" type="punishmentDescription">
+                     <interp inst="t16880425-49-punish242" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880425-49-punish242" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880425-49-defend239 t16880425-49-punish242"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880425-49-defend243 t16880425-49-punish242"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

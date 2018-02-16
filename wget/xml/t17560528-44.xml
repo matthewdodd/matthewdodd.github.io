@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560528-44">
+               <interp inst="t17560528-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560528-44" type="year" value="1756"></interp>
+               <interp inst="t17560528-44" type="uri" value="sessionsPapers/17560528"></interp>
+               <interp inst="t17560528-44" type="date" value="17560528"></interp>
+               <join result="criminalCharge" id="t17560528-44-off217-c277" targOrder="Y" targets="t17560528-44-defend356 t17560528-44-off217 t17560528-44-verdict218"></join>
+         
+               <p>227. (L.) 
+               <persName id="t17560528-44-defend356" type="defendantName">
+                  Ann 
+                  <rs id="t17560528-44-deflabel216" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17560528-44-defend356 t17560528-44-deflabel216"></join> of 
+                     <persName id="t17560528-44-person357">
+                        William 
+                        Cramp 
+                     <interp inst="t17560528-44-person357" type="surname" value="Cramp"></interp>
+                        <interp inst="t17560528-44-person357" type="given" value="William"></interp>
+                        <interp inst="t17560528-44-person357" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17560528-44-defend356" type="surname" value="Cramp"></interp>
+                     <interp inst="t17560528-44-defend356" type="given" value="Ann"></interp>
+                     <interp inst="t17560528-44-defend356" type="gender" value="female"></interp>
+                  </persName>
+             was indicted for <rs id="t17560528-44-off217" type="offenceDescription">
+                     <interp inst="t17560528-44-off217" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17560528-44-off217" type="offenceSubcategory" value="fraud"></interp>
+               cheating 
+                     
+                        <persName id="t17560528-44-victim359" type="victimName">
+                           Charles 
+                           Brown 
+                        <interp inst="t17560528-44-victim359" type="surname" value="Brown"></interp>
+                        <interp inst="t17560528-44-victim359" type="given" value="Charles"></interp>
+                        <interp inst="t17560528-44-victim359" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17560528-44-off217 t17560528-44-victim359"></join>
+                     </persName>
+                      
+                   of two pair of shoes, by false tokens and pretences
+            </rs>. No evidence appeared.</p>
+               <p>
+                  <rs id="t17560528-44-verdict218" type="verdictDescription">
+                     <interp inst="t17560528-44-verdict218" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17560528-44-verdict218" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

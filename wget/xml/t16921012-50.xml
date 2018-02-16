@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921012-50">
+               <interp inst="t16921012-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921012-50" type="year" value="1692"></interp>
+               <interp inst="t16921012-50" type="uri" value="sessionsPapers/16921012"></interp>
+               <interp inst="t16921012-50" type="date" value="16921012"></interp>
+               <join result="criminalCharge" id="t16921012-50-off237-c142" targOrder="Y" targets="t16921012-50-defend142 t16921012-50-off237 t16921012-50-verdict238"></join>
+               <join result="criminalCharge" id="t16921012-50-off237-c143" targOrder="Y" targets="t16921012-50-defend143 t16921012-50-off237 t16921012-50-verdict238"></join>
+         
+               <p>
+            
+                  <persName id="t16921012-50-defend142" type="defendantName">
+                  Mary 
+                  Browne
+               <interp inst="t16921012-50-defend142" type="surname" value="Browne"></interp>
+                     <interp inst="t16921012-50-defend142" type="given" value="Mary"></interp>
+                     <interp inst="t16921012-50-defend142" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16921012-50-defend143" type="defendantName">
+                  Sarah 
+                  Sheldon
+               <interp inst="t16921012-50-defend143" type="surname" value="Sheldon"></interp>
+                     <interp inst="t16921012-50-defend143" type="given" value="Sarah"></interp>
+                     <interp inst="t16921012-50-defend143" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t16921012-50-deflabel236" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921012-50-defend143 t16921012-50-deflabel236"></join> of 
+               <persName id="t16921012-50-person144">
+                  Fulk 
+                  Sheldon
+               <interp inst="t16921012-50-person144" type="surname" value="Sheldon"></interp>
+                     <interp inst="t16921012-50-person144" type="given" value="Fulk"></interp>
+                     <interp inst="t16921012-50-person144" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , were Tryed for Felony and High-Treason, for <rs id="t16921012-50-off237" type="offenceDescription">
+                     <interp inst="t16921012-50-off237" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16921012-50-off237" type="offenceSubcategory" value="coiningOffences"></interp>
+               Clipping, Filing and Diminishing the Currant Mony of this Kingdom
+            </rs>, on the 5th Instant, Mrs. Sheldon's House being search'd, Mary Browne was found sitting in a Room with two pair of Shears and some Clipt Mony and Clippings lying before her, and some broad Mony was found in a Chest of Drawers, and Sheldon was found standing without the Chamber-Door. Mrs. Sheldon in her Defence, said she found the Clippings and the other things in the Red-Lyon-Inn Passage in Great Gray's-Inn-Lane, and called some Witnesses of her Neighbours, who could say but little for her, any more than that she paid those that the dealt with in as good Mony as is wont to pass, &amp;c. Browne said she was a hired Servant to Mrs. Sheldon, and was no ways concern'd, but she could not prove it: So they were both found <rs id="t16921012-50-verdict238" type="verdictDescription">
+                     <interp inst="t16921012-50-verdict238" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of High Treason.</p>
+               <p>
+                  <rs id="t16921012-50-punish239" type="punishmentDescription">
+                     <interp inst="t16921012-50-punish239" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16921012-50-punish239" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921012-50-defend142 t16921012-50-punish239"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921012-50-defend143 t16921012-50-punish239"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

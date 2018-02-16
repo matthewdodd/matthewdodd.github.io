@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-12">
+               <interp inst="t16930426-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-12" type="year" value="1693"></interp>
+               <interp inst="t16930426-12" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-12" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-12-off49-c53" targOrder="Y" targets="t16930426-12-defend53 t16930426-12-off49 t16930426-12-verdict51"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16930426002"></xptr>
+            
+                  <persName id="t16930426-12-defend53" type="defendantName">
+                  Thomas 
+                  Floyd
+               <interp inst="t16930426-12-defend53" type="surname" value="Floyd"></interp>
+                     <interp inst="t16930426-12-defend53" type="given" value="Thomas"></interp>
+                     <interp inst="t16930426-12-defend53" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t16930426-12-off49" type="offenceDescription">
+                     <interp inst="t16930426-12-off49" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-12-off49" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of one 
+                     <persName id="t16930426-12-victim54" type="victimName">
+                        Robert 
+                        Albey
+                     <interp inst="t16930426-12-victim54" type="surname" value="Albey"></interp>
+                        <interp inst="t16930426-12-victim54" type="given" value="Robert"></interp>
+                        <interp inst="t16930426-12-victim54" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-12-off49 t16930426-12-victim54"></join>
+                     </persName>
+                   in <placeName id="t16930426-12-crimeloc50">Dacus-street at Westminster</placeName>
+                     <interp inst="t16930426-12-crimeloc50" type="placeName" value="Dacus-street at Westminster"></interp>
+                     <interp inst="t16930426-12-crimeloc50" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16930426-12-off49 t16930426-12-crimeloc50"></join>, and taking away a Lute-string Gown, value 3l. a Petticoat, value 50s. and several other Goods
+            </rs>; there was three of them seen to go into the House, and come out again, the Prisoner being one, who was soon taken, but the other escaped; the Prisoner denied the Fact, but had no witness; he was suspected to have been an old Gamester at the Art of Burglary; So he was found <rs id="t16930426-12-verdict51" type="verdictDescription">
+                     <interp inst="t16930426-12-verdict51" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> both of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16930426-12-punish52" type="punishmentDescription">
+                     <interp inst="t16930426-12-punish52" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-12-defend53 t16930426-12-punish52"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

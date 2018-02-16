@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16881205-7">
+               <interp inst="t16881205-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16881205-7" type="year" value="1688"></interp>
+               <interp inst="t16881205-7" type="uri" value="sessionsPapers/16881205"></interp>
+               <interp inst="t16881205-7" type="date" value="16881205"></interp>
+               <join result="criminalCharge" id="t16881205-7-off27-c38" targOrder="Y" targets="t16881205-7-defend47 t16881205-7-off27 t16881205-7-verdict30"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16881205-7-defend47" type="defendantName">
+                     William 
+                     Mosely
+                  <interp inst="t16881205-7-defend47" type="surname" value="Mosely"></interp>
+                     <interp inst="t16881205-7-defend47" type="given" value="William"></interp>
+                     <interp inst="t16881205-7-defend47" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Tryed for <rs id="t16881205-7-off27" type="offenceDescription">
+                     <interp inst="t16881205-7-off27" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16881205-7-off27" type="offenceSubcategory" value="grandLarceny"></interp>
+               taking or purloining 10 l. of the Monies of 
+                     <persName id="t16881205-7-victim48" type="victimName">
+                        Richard 
+                        Southby
+                     <interp inst="t16881205-7-victim48" type="surname" value="Southby"></interp>
+                        <interp inst="t16881205-7-victim48" type="given" value="Richard"></interp>
+                        <interp inst="t16881205-7-victim48" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16881205-7-off27 t16881205-7-victim48"></join>
+                     </persName>
+                  , with whom he had lived six Years in the nature of an <rs id="t16881205-7-deflabel28" type="occupation">Apprentice</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16881205-7-defend47 t16881205-7-deflabel28"></join>
+               
+                  </rs>. The Evidence against him was, That being suspected and taxed, upon the finding 10 s. about him, he acknowledg'd that at sundry times within the last Year he had defrauded his <rs id="t16881205-7-viclabel29" type="occupation">Master</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16881205-7-victim48 t16881205-7-viclabel29"></join> of 10 l. In Objection to which, being Confession so alledged against him in Court, he said, That what he had confessed was through Fear and Constraint, by reason his Master had struck him, and dealt roughly with him, to extort an Acknowledgment. But his Confession, by other Witnesses, appearing to be rather frankly, than by compulsion; and that he had further acknowledged to have gotten his Master's Key, the better to enable him to take the said Monies, and facilitate the Enterprize without Suspition, he was found <rs id="t16881205-7-verdict30" type="verdictDescription">
+                     <interp inst="t16881205-7-verdict30" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16881205-7-punish31" type="punishmentDescription">
+                     <interp inst="t16881205-7-punish31" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16881205-7-punish31" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16881205-7-defend47 t16881205-7-punish31"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

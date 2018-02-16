@@ -1,3 +1,105 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390221-5">
+               <interp inst="t17390221-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390221-5" type="year" value="1739"></interp>
+               <interp inst="t17390221-5" type="uri" value="sessionsPapers/17390221"></interp>
+               <interp inst="t17390221-5" type="date" value="17390221"></interp>
+               <join result="criminalCharge" id="t17390221-5-off25-c55" targOrder="Y" targets="t17390221-5-defend68 t17390221-5-off25 t17390221-5-verdict32"></join>
+               <join result="criminalCharge" id="t17390221-5-off28-c55" targOrder="Y" targets="t17390221-5-defend68 t17390221-5-off28 t17390221-5-verdict32"></join>
+         
+               <p>149. 
+               
+                  <persName id="t17390221-5-defend68" type="defendantName">
+                     Henry 
+                     Johnson 
+                  <interp inst="t17390221-5-defend68" type="surname" value="Johnson"></interp>
+                     <interp inst="t17390221-5-defend68" type="given" value="Henry"></interp>
+                     <interp inst="t17390221-5-defend68" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390221-5-off25" type="offenceDescription">
+                     <interp inst="t17390221-5-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390221-5-off25" type="offenceSubcategory" value="theftFromPlace"></interp>
+               ripping and stealing 148 lb. of Lead, fixed to the Dwelling-house of 
+                     
+                        <persName id="t17390221-5-victim70" type="victimName">
+                           Hugh 
+                           Colley 
+                        <interp inst="t17390221-5-victim70" type="surname" value="Colley"></interp>
+                        <interp inst="t17390221-5-victim70" type="given" value="Hugh"></interp>
+                        <interp inst="t17390221-5-victim70" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17390221-5-off25 t17390221-5-victim70"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17390221-5-off28 t17390221-5-victim70"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17390221-5-viclabel26" type="occupation">Clerk</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17390221-5-victim70 t17390221-5-viclabel26"></join>, <rs id="t17390221-5-cd27" type="crimeDate">Jan. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390221-5-off25 t17390221-5-cd27"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390221-5-off28 t17390221-5-cd27"></join>.</p>
+               <p>He was a second Time indicted for <rs id="t17390221-5-off28" type="offenceDescription">
+                     <interp inst="t17390221-5-off28" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390221-5-off28" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the Dwelling-house of Hugh Colley, Clerk, about the Hour of Ten at Night, with a felonious Intent to steal his Money and Goods
+            </rs>, <rs id="t17390221-5-cd29" type="crimeDate">Jan. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390221-5-off25 t17390221-5-cd29"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390221-5-off28 t17390221-5-cd29"></join>.</p>
+               <p>The <rs id="t17390221-5-viclabel30" type="occupation">Rev.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17390221-5-victim70 t17390221-5-viclabel30"></join> Mr. Colley. I live at <placeName id="t17390221-5-crimeloc31">Mile-end Green</placeName>
+                  <interp inst="t17390221-5-crimeloc31" type="placeName" value="Mile-end Green"></interp>
+                  <interp inst="t17390221-5-crimeloc31" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17390221-5-off25 t17390221-5-crimeloc31"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17390221-5-off28 t17390221-5-crimeloc31"></join>, on the 18th of Jan. last, about Ten in the Evening, as my Wife and I were sitting by the Fire, in the Parlour, we heard a Cough before the Door: We imagin'd it was somebody going past the Door; but in a little time we heard the Cough repeated several times; my Wife imagin'd it was in the little fore Garden before the House. Immediately following the Coughs, there was a great Noise upon the Top of the House, - the Roof of the House shook; upon which I got up and went into the Hall, Immediately Mr. Owen (a Neighbour) came and said, there was a Man upon the House. Mr. Lee (my Writing-master ) and I went out forwards to see if we could discover any thing, and 
+               <persName id="t17390221-5-person71">
+                  Evan 
+                  Davis 
+               <interp inst="t17390221-5-person71" type="surname" value="Davis"></interp>
+                     <interp inst="t17390221-5-person71" type="given" value="Evan"></interp>
+                     <interp inst="t17390221-5-person71" type="gender" value="male"></interp>
+                  </persName>
+             went out backwards; Afterwards we return'd to the Door to get into the House, but it was shut, and we could not get in. While I stood at the Door, I heard a Noise in the House like breaking open Doors: I was in a great Consternation, and imagin'd that the Rogues had got in backwards, and had taken Possession of the House; upon this I ran to the back Part of the House, and kick'd against a Door in the Middle of the Garden, and got into a Passage, which led to the Window of the Room where my Wife and I lie; she was there crying out, Thieves! Murder! Davis was with me; and when I had got into the House, I call'd in Mr. Lee and Mr. Owen. My Wife was in her Chamber, almost dead with Fear, - the Maid in Fits, and the young Gentlemen were running from one Room to another in their Shirts. After I had encouraged my Wife, Mr. Lee and I examin'd the House, and when we were in the lower Part of it, Davis call'd out, he had taken the Man! and I went out immediately, and saw the Man in his Possession. He had deceived Davis, by running out of the House, and crying Thieves! without his Hat, (which we afterwards found in the House) so Davis at first thought it was Lee, but when he found his Mistake he pursu'd him: he (the Prisoner) had then Trowsers on, and in getting over the back Pales, the Tenter-hooks catched in his Trowsers; there Davis and he were engaged, while I, and Owen, and Lee, were examining the House; and the Prisoner said, he was sorry he had left his Hammer on the Top of the House, for if he had not, he would have dispatch'd him. As to the breaking the House, he broke through a Window into the Garret, and when the Casement was broke open, there was nothing to prevent his Entrance.</p>
+               <p>Mrs. Colley confirm'd the former Circumstances, adding, That she went up Stairs, and heard the Garret Window break, and somebody jump in<xptr type="pageFacsimile" doc="173902210006"></xptr> That the Man was no sooner got in, but he came down Stairs; that upon hearing him come down, she ran into her Chamber, and shut the Door; for she thought he was coming in after her, upon which she ran to the Window, and call'd out Thieves!</p>
+               <p>
+            
+                  <persName id="t17390221-5-person72">
+                  Evan 
+                  Davis 
+               <interp inst="t17390221-5-person72" type="surname" value="Davis"></interp>
+                     <interp inst="t17390221-5-person72" type="given" value="Evan"></interp>
+                     <interp inst="t17390221-5-person72" type="gender" value="male"></interp>
+                  </persName>
+             deposed, That between Nine and Ten that Night, he saw a Man upon the House, and call'd Mr. Lee, his Fellow-servant, and bid him go to the other Side of the House: That he (Davis) saw the Prisoner go to the Garret Window; that he heard the Glass tumble down, upon which he went into the Back-yard, where he found his Master and Mr. Owen; and looking towards 'Squire Heath's Pales, he thought he saw his Coat upon the Pales, but when the Witness came up to the Pales, the Prisoner had got over them into another Garden; that he was not hung upon the Tenter-hooks when he was taken, but was getting over a Brick-wall, when the Witness took him, and that the Prisoner was the Man who was taken by him.</p>
+               <p>Mr. Lee confirm'd the former Accounts, and every Circumstance therein; adding, That Davis was in Pursuit of the Prisoner, and got over the Pales after him; that he call'd out to him (the Witness ) and told him he had got the Man; upon which he got over the Pales likewise, and assisted Davis in bringing the Prisoner to the House: that upon searching him, they found two crooked Nails and a Knife in his Pocket, and that he apprehended the Prisoner broke into the House with an Intent, not only to rob the House, but to murder them.</p>
+               <p>Mr. Owen deposed, That while he was parting with a Friend near his own Door, a Man came from Mr. Colley's Door, and look'd hard at him: That he then gave a slight Cough, and pass'd him; upon which he (the Witness) went into his own House, and listen'd: That hearing his Foot stop all on a Sudden, he partly opened the Door, and saw him at Mr. Colley's Door, and heard him cough again: That he observed him to look up to the Top of Mr. Colley's House; that he look'd up too, and seeing a Man upon the Top of the House, he call'd out to Mr. Colley's People, and told them there were Thieves on the Top of their House; upon which the Man at the Door ran away: That Mr. Colley came out to the Witness, and they both went to Mr. Colley's Door, but could not get in: That they then went backwards, and heard Davis cry out, - He had got the Man, upon which the Witness ran to assist him, and so the Prisoner was taken.</p>
+               <p>Mr. Colley. I believe he would have robb'd the House, after he had got what Lead he could, if he had not been discover'd.</p>
+               <p>
+            
+                  <persName id="t17390221-5-person73">
+                  Thomas 
+                  Lion 
+               <interp inst="t17390221-5-person73" type="surname" value="Lion"></interp>
+                     <interp inst="t17390221-5-person73" type="given" value="Thomas"></interp>
+                     <interp inst="t17390221-5-person73" type="gender" value="male"></interp>
+                  </persName>
+            , the Constable, search'd the Prisoner at the Watch-house, and found two Nails and a Clasp Knife in his Pocket.</p>
+               <p>Bean (Watchman). As we were carrying the Prisoner before Justice Jones, two Women met him, and gave him some Gin; and he mumbled, and said, - D - mn his Eyes, if he had not left his Hammer behind him, he would have kill'd Davis, when he seiz'd him. The Prisoner's Hat was found in Mr. Colley's Hall, and he (the Prisoner) own'd it the next Morning, and we gave it him thro' the Rails of the Cage.</p>
+               <p>
+            
+                  <persName id="t17390221-5-person74">
+                  Mary 
+                  Randall 
+               <interp inst="t17390221-5-person74" type="surname" value="Randall"></interp>
+                     <interp inst="t17390221-5-person74" type="given" value="Mary"></interp>
+                     <interp inst="t17390221-5-person74" type="gender" value="female"></interp>
+                  </persName>
+            . I found the Hat, and carry'd it into the Parlour.</p>
+               <p>Prisoner. I was accidentally coming by, and saw a Man upon the Eaves of the House, as if he would drop from thence; so I went into the Yard, intending to take the Thief, and finding the Back-door open, ran in and cry'd Thieves! two Men stopp'd me upon the Stairs, and said I was one of the Rogues; I got from them, and they took me as I was pursuing the Men that got over the Wall. <rs id="t17390221-5-verdict32" type="verdictDescription">
+                     <interp inst="t17390221-5-verdict32" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17390221-5-punish33" type="punishmentDescription">
+                     <interp inst="t17390221-5-punish33" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390221-5-defend68 t17390221-5-punish33"></join>
+               Death
+            </rs>.</p>
+            </div1>

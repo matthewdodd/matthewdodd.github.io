@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350416-70">
+               <interp inst="t17350416-70" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350416-70" type="year" value="1735"></interp>
+               <interp inst="t17350416-70" type="uri" value="sessionsPapers/17350416"></interp>
+               <interp inst="t17350416-70" type="date" value="17350416"></interp>
+               <join result="criminalCharge" id="t17350416-70-off301-c312" targOrder="Y" targets="t17350416-70-defend463 t17350416-70-off301 t17350416-70-verdict303"></join>
+         
+               <p>78. 
+               
+                  <persName id="t17350416-70-defend463" type="defendantName">
+                     John 
+                     Neal 
+                  <interp inst="t17350416-70-defend463" type="surname" value="Neal"></interp>
+                     <interp inst="t17350416-70-defend463" type="given" value="John"></interp>
+                     <interp inst="t17350416-70-defend463" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350416-70-off301" type="offenceDescription">
+                     <interp inst="t17350416-70-off301" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350416-70-off301" type="offenceSubcategory" value="other"></interp>
+               stealing three Bushels of Wheat
+            </rs>, the Goods of Persons unknown, <rs id="t17350416-70-cd302" type="crimeDate">Nov. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350416-70-off301 t17350416-70-cd302"></join>. No Evidence. <rs id="t17350416-70-verdict303" type="verdictDescription">
+                     <interp inst="t17350416-70-verdict303" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17350416-70-verdict303" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

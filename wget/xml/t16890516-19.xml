@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-19">
+               <interp inst="t16890516-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-19" type="year" value="1689"></interp>
+               <interp inst="t16890516-19" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-19" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-19-off85-c70" targOrder="Y" targets="t16890516-19-defend100 t16890516-19-off85 t16890516-19-verdict87"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-19-defend100" type="defendantName">
+                     Ann 
+                     Harris
+                  <interp inst="t16890516-19-defend100" type="surname" value="Harris"></interp>
+                     <interp inst="t16890516-19-defend100" type="given" value="Ann"></interp>
+                     <interp inst="t16890516-19-defend100" type="gender" value="female"></interp>
+                  </persName>
+               
+             a Notorious Shop lifter, was Tryed for <rs id="t16890516-19-off85" type="offenceDescription">
+                     <interp inst="t16890516-19-off85" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-19-off85" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing 4 yards of broad Silver Lace, value 50 s. The Goods of 
+                     
+                        <persName id="t16890516-19-victim102" type="victimName">
+                           Benjamin 
+                           Wood
+                        <interp inst="t16890516-19-victim102" type="surname" value="Wood"></interp>
+                        <interp inst="t16890516-19-victim102" type="given" value="Benjamin"></interp>
+                        <interp inst="t16890516-19-victim102" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-19-off85 t16890516-19-victim102"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16890516-19-cd86" type="crimeDate">14th day of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-19-off85 t16890516-19-cd86"></join>. It appeared that she came into Mr. Wood's Shop and cheapned some Lace, and Juggled away the piece of Lace
+            </rs>, and being pursued, she dropt it in the next Shop where she ran in for Shelter; She denied it, but she was known to be an old Offender, and used several Evasions whereby to extenuate her Crime, but to no effect, for the Jury found her <rs id="t16890516-19-verdict87" type="verdictDescription">
+                     <interp inst="t16890516-19-verdict87" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16890516-19-punish88" type="punishmentDescription">
+                     <interp inst="t16890516-19-punish88" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16890516-19-punish88" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-19-defend100 t16890516-19-punish88"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

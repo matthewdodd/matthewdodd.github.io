@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-14">
+               <interp inst="t16900717-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-14" type="year" value="1690"></interp>
+               <interp inst="t16900717-14" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-14" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-14-off73-c63" targOrder="Y" targets="t16900717-14-defend85 t16900717-14-off73 t16900717-14-verdict76"></join>
+               <join result="criminalCharge" id="t16900717-14-off73-c64" targOrder="Y" targets="t16900717-14-defend87 t16900717-14-off73 t16900717-14-verdict75"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900717-14-defend85" type="defendantName">
+                     Robert 
+                     Foster
+                  <interp inst="t16900717-14-defend85" type="surname" value="Foster"></interp>
+                     <interp inst="t16900717-14-defend85" type="given" value="Robert"></interp>
+                     <interp inst="t16900717-14-defend85" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16900717-14-defend87" type="defendantName">
+                     Mary 
+                     Tanner
+                  <interp inst="t16900717-14-defend87" type="surname" value="Tanner"></interp>
+                     <interp inst="t16900717-14-defend87" type="given" value="Mary"></interp>
+                     <interp inst="t16900717-14-defend87" type="gender" value="female"></interp>
+                  </persName>
+               
+             were Indicted for <rs id="t16900717-14-off73" type="offenceDescription">
+                     <interp inst="t16900717-14-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-14-off73" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of one 
+                     <persName id="t16900717-14-victim88" type="victimName">
+                        Carter
+                     <interp inst="t16900717-14-victim88" type="surname" value="Carter"></interp>
+                        <interp inst="t16900717-14-victim88" type="gender" value="indeterminate"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900717-14-off73 t16900717-14-victim88"></join>
+                     </persName>
+                  , on <rs id="t16900717-14-cd74" type="crimeDate">Midsummer Day</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-14-off73 t16900717-14-cd74"></join> last in the Morning, and stealing from him two Yards of Tape-Lace, value 3 s. a Lac'd Pinner 5 s. a Looking Glass 12 d. &amp;c. 
+            </rs>The Evidence said, the House was broke open, and that the Goods were lost, and that the Prosecutor found a piece of the Lace hanging in a Broker's Shop Window; and it was further Evidenced against Foster, that the Linnen and a Silver-salt was found in his Breeches; he would have charged it upon the Woman, and Tanner was found to offer the Goods to Sale at a Brokers; the Woman charged the Man, and the Man the Woman; but in the end, the Woman was <rs id="t16900717-14-verdict75" type="verdictDescription">
+                     <interp inst="t16900717-14-verdict75" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, but Foster was found <rs id="t16900717-14-verdict76" type="verdictDescription">
+                     <interp inst="t16900717-14-verdict76" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16900717-14-punish77" type="punishmentDescription">
+                     <interp inst="t16900717-14-punish77" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900717-14-defend85 t16900717-14-punish77"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

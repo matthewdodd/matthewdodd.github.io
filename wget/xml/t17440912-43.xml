@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440912-43">
+               <interp inst="t17440912-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440912-43" type="year" value="1744"></interp>
+               <interp inst="t17440912-43" type="uri" value="sessionsPapers/17440912"></interp>
+               <interp inst="t17440912-43" type="date" value="17440912"></interp>
+               <join result="criminalCharge" id="t17440912-43-off221-c281" targOrder="Y" targets="t17440912-43-defend354 t17440912-43-off221 t17440912-43-verdict224"></join>
+         
+               <p>397. 
+               
+                  <persName id="t17440912-43-defend354" type="defendantName">
+                     John 
+                     Burn 
+                  <interp inst="t17440912-43-defend354" type="surname" value="Burn"></interp>
+                     <interp inst="t17440912-43-defend354" type="given" value="John"></interp>
+                     <interp inst="t17440912-43-defend354" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17440912-43-off221" type="offenceDescription">
+                     <interp inst="t17440912-43-off221" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440912-43-off221" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a dimitty gown, value 10 s. a scarlet cloth cloak, 5 s. a velvet hood, 2 s. 6 d.
+            </rs> the goods of 
+               
+                  <persName id="t17440912-43-victim356" type="victimName">
+                     Hugh 
+                     Montgomery 
+                  <interp inst="t17440912-43-victim356" type="surname" value="Montgomery"></interp>
+                     <interp inst="t17440912-43-victim356" type="given" value="Hugh"></interp>
+                     <interp inst="t17440912-43-victim356" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440912-43-off221 t17440912-43-victim356"></join>
+                  </persName>
+                
+             , <rs id="t17440912-43-cd222" type="crimeDate">August 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440912-43-off221 t17440912-43-cd222"></join>.</p>
+               <p>
+            
+                  <persName id="t17440912-43-person357">
+                  Hugh 
+                  Montgomery 
+               <interp inst="t17440912-43-person357" type="surname" value="Montgomery"></interp>
+                     <interp inst="t17440912-43-person357" type="given" value="Hugh"></interp>
+                     <interp inst="t17440912-43-person357" type="gender" value="male"></interp>
+                  </persName>
+            . I lost these things and found them at Mr. Hutchins's. <rs id="t17440912-43-viclabel223" type="occupation">I keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17440912-43-victim356 t17440912-43-viclabel223"></join>, the Prisoner has used it ever since last April. I believe he was in liquor when he did it - I never heard any body give him an ill character.</p>
+               <p>
+            
+                  <persName id="t17440912-43-person358">
+                  Thomas 
+                  Hutchins 
+               <interp inst="t17440912-43-person358" type="surname" value="Hutchins"></interp>
+                     <interp inst="t17440912-43-person358" type="given" value="Thomas"></interp>
+                     <interp inst="t17440912-43-person358" type="gender" value="male"></interp>
+                  </persName>
+            . I had them of Juditch Dalton, and lent 15 s. upon them. I told the Prisoner so before the Justice, and he said, Then she has sunk 3 s. for she gave me but 12 s. <rs id="t17440912-43-verdict224" type="verdictDescription">
+                     <interp inst="t17440912-43-verdict224" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

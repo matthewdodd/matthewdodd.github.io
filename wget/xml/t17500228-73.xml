@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-73">
+               <interp inst="t17500228-73" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-73" type="year" value="1750"></interp>
+               <interp inst="t17500228-73" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-73" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-73-off311-c356" targOrder="Y" targets="t17500228-73-defend511 t17500228-73-off311 t17500228-73-verdict313"></join>
+         
+               <p>275. 
+               
+                  <persName id="t17500228-73-defend511" type="defendantName">
+                     William 
+                     Alexander 
+                  <interp inst="t17500228-73-defend511" type="surname" value="Alexander"></interp>
+                     <interp inst="t17500228-73-defend511" type="given" value="William"></interp>
+                     <interp inst="t17500228-73-defend511" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500228-73-off311" type="offenceDescription">
+                     <interp inst="t17500228-73-off311" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500228-73-off311" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Fustian Frock, value 1s. one linen Frock, value 1s. and other things
+            </rs>, the goods of 
+               
+                  <persName id="t17500228-73-victim513" type="victimName">
+                     Walter 
+                     Nichols 
+                  <interp inst="t17500228-73-victim513" type="surname" value="Nichols"></interp>
+                     <interp inst="t17500228-73-victim513" type="given" value="Walter"></interp>
+                     <interp inst="t17500228-73-victim513" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500228-73-off311 t17500228-73-victim513"></join>
+                  </persName>
+                
+            , <rs id="t17500228-73-cd312" type="crimeDate">Jan 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-73-off311 t17500228-73-cd312"></join>.</p>
+               <p>
+                  <rs id="t17500228-73-verdict313" type="verdictDescription">
+                     <interp inst="t17500228-73-verdict313" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-73-punish314" type="punishmentDescription">
+                     <interp inst="t17500228-73-punish314" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500228-73-defend511 t17500228-73-punish314"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

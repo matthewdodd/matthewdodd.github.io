@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-8">
+               <interp inst="t17651211-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-8" type="year" value="1765"></interp>
+               <interp inst="t17651211-8" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-8" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-8-off50-c95" targOrder="Y" targets="t17651211-8-defend116 t17651211-8-off50 t17651211-8-verdict53"></join>
+         
+               <p>11. (L.) 
+               
+                  <persName id="t17651211-8-defend116" type="defendantName">
+                     Jane
+                      Jones, <rs id="t17651211-8-deflabel49" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17651211-8-defend116 t17651211-8-deflabel49"></join>, otherwise <rs id="t17651211-8-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17651211-8-defend116 t17651211-8-alias-1"></join>Jane Brooks</rs>
+                     <interp inst="t17651211-8-defend116" type="surname" value="Jones"></interp>
+                     <interp inst="t17651211-8-defend116" type="given" value="Jane"></interp>
+                     <interp inst="t17651211-8-defend116" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17651211-8-off50" type="offenceDescription">
+                     <interp inst="t17651211-8-off50" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-8-off50" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pewter quart mug, value 14 d.
+            </rs> the property of 
+               
+                  <persName id="t17651211-8-victim118" type="victimName">
+                     Abraham 
+                     Marlow 
+                  <interp inst="t17651211-8-victim118" type="surname" value="Marlow"></interp>
+                     <interp inst="t17651211-8-victim118" type="given" value="Abraham"></interp>
+                     <interp inst="t17651211-8-victim118" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651211-8-off50 t17651211-8-victim118"></join>
+                  </persName>
+                
+            , <rs id="t17651211-8-cd51" type="crimeDate">October 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-8-off50 t17651211-8-cd51"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17651211-8-person119">
+                  Abraham 
+                  Marlow 
+               <interp inst="t17651211-8-person119" type="surname" value="Marlow"></interp>
+                     <interp inst="t17651211-8-person119" type="given" value="Abraham"></interp>
+                     <interp inst="t17651211-8-person119" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the <placeName id="t17651211-8-crimeloc52">White Horse in Little Britain</placeName>
+                  <interp inst="t17651211-8-crimeloc52" type="placeName" value="White Horse in Little Britain"></interp>
+                  <interp inst="t17651211-8-crimeloc52" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-8-off50 t17651211-8-crimeloc52"></join>, a public house. The prisoner came into my house on the 30th of October, for a halfpennyworth of aniseed, or gin. She took this quart mug, and put it under her cloak; as she was going out, I stopped her, and said what have you got there. She said nothing, I turned aside her cloake, and sawit under her arm, (produced in court, ) here is my mark upon it.</p>
+               <p>Prisoner's defence.</p>
+               <p>I thought to get a little small beer, so I took it to take it home in.</p>
+               <p>
+                  <rs id="t17651211-8-verdict53" type="verdictDescription">
+                     <interp inst="t17651211-8-verdict53" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17651211-8-verdict53" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs> 
+                  <rs id="t17651211-8-punish54" type="punishmentDescription">
+                     <interp inst="t17651211-8-punish54" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17651211-8-punish54" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17651211-8-defend116 t17651211-8-punish54"></join>
+               W
+            </rs>.</p>
+            </div1>

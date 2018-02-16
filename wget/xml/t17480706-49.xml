@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480706-49">
+               <interp inst="t17480706-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480706-49" type="year" value="1748"></interp>
+               <interp inst="t17480706-49" type="uri" value="sessionsPapers/17480706"></interp>
+               <interp inst="t17480706-49" type="date" value="17480706"></interp>
+               <join result="criminalCharge" id="t17480706-49-off225-c375" targOrder="Y" targets="t17480706-49-defend470 t17480706-49-off225 t17480706-49-verdict227"></join>
+               <join result="criminalCharge" id="t17480706-49-off225-c376" targOrder="Y" targets="t17480706-49-defend472 t17480706-49-off225 t17480706-49-verdict227"></join>
+         
+               <p>373, 374. 
+               
+                  <persName id="t17480706-49-defend470" type="defendantName">
+                     John 
+                     Robinson 
+                  <interp inst="t17480706-49-defend470" type="surname" value="Robinson"></interp>
+                     <interp inst="t17480706-49-defend470" type="given" value="John"></interp>
+                     <interp inst="t17480706-49-defend470" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17480706-49-defend472" type="defendantName">
+                     John 
+                     Lewis 
+                  <interp inst="t17480706-49-defend472" type="surname" value="Lewis"></interp>
+                     <interp inst="t17480706-49-defend472" type="given" value="John"></interp>
+                     <interp inst="t17480706-49-defend472" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17480706-49-defloc224">St. Botolph, Aldgate</placeName>
+                  <interp inst="t17480706-49-defloc224" type="placeName" value="St. Botolph, Aldgate"></interp>
+                  <interp inst="t17480706-49-defloc224" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17480706-49-defend470 t17480706-49-defloc224"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17480706-49-defend472 t17480706-49-defloc224"></join>, in the liberty of the Tower of London, were indicted for <rs id="t17480706-49-off225" type="offenceDescription">
+                     <interp inst="t17480706-49-off225" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480706-49-off225" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a dunghill-cock, value 8 d. and two hens, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17480706-49-victim474" type="victimName">
+                     Richard 
+                     Dust 
+                  <interp inst="t17480706-49-victim474" type="surname" value="Dust"></interp>
+                     <interp inst="t17480706-49-victim474" type="given" value="Richard"></interp>
+                     <interp inst="t17480706-49-victim474" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480706-49-off225 t17480706-49-victim474"></join>
+                  </persName>
+                
+            , <rs id="t17480706-49-cd226" type="crimeDate">June 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480706-49-off225 t17480706-49-cd226"></join>.</p>
+               <p>
+                  <rs id="t17480706-49-verdict227" type="verdictDescription">
+                     <interp inst="t17480706-49-verdict227" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

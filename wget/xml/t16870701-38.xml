@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870701-38">
+               <interp inst="t16870701-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870701-38" type="year" value="1687"></interp>
+               <interp inst="t16870701-38" type="uri" value="sessionsPapers/16870701"></interp>
+               <interp inst="t16870701-38" type="date" value="16870701"></interp>
+               <join result="criminalCharge" id="t16870701-38-off166-c104" targOrder="Y" targets="t16870701-38-defend156 t16870701-38-off166 t16870701-38-verdict168"></join>
+               <join result="criminalCharge" id="t16870701-38-off166-c105" targOrder="Y" targets="t16870701-38-defend158 t16870701-38-off166 t16870701-38-verdict168"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870701-38-defend156" type="defendantName">
+                     Ann 
+                     Cowel
+                  <interp inst="t16870701-38-defend156" type="surname" value="Cowel"></interp>
+                     <interp inst="t16870701-38-defend156" type="given" value="Ann"></interp>
+                     <interp inst="t16870701-38-defend156" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16870701-38-defend158" type="defendantName">
+                     Elizabeth 
+                     Jones
+                  <interp inst="t16870701-38-defend158" type="surname" value="Jones"></interp>
+                     <interp inst="t16870701-38-defend158" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16870701-38-defend158" type="gender" value="female"></interp>
+                  </persName>
+               
+             were tryed for <rs id="t16870701-38-off166" type="offenceDescription">
+                     <interp inst="t16870701-38-off166" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870701-38-off166" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Dram Cup, value 4 s. 6 d.
+            </rs> from 
+               <persName id="t16870701-38-victim159" type="victimName">
+                  Ann 
+                  Hawworth
+               <interp inst="t16870701-38-victim159" type="surname" value="Hawworth"></interp>
+                     <interp inst="t16870701-38-victim159" type="given" value="Ann"></interp>
+                     <interp inst="t16870701-38-victim159" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870701-38-off166 t16870701-38-victim159"></join>
+                  </persName>
+             on the <rs id="t16870701-38-cd167" type="crimeDate">20th. of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870701-38-off166 t16870701-38-cd167"></join> last. The Evidence against them was that they comeing into the house of the Prosecutor and calling for Brandy, had the Cup delivered them and in the end, having no other than Brass Monys to make satisfaction for the reconing, whileft a controversie arose about it, made their escape with the Cup, which was afterwards seen in the hands of Cowel, and neither of them being able to gave any satisfactory account of themselves, they were found <rs id="t16870701-38-verdict168" type="verdictDescription">
+                     <interp inst="t16870701-38-verdict168" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870701-38-verdict168" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty each of them to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870701-38-punish169" type="punishmentDescription">
+                     <interp inst="t16870701-38-punish169" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870701-38-punish169" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870701-38-defend156 t16870701-38-punish169"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870701-38-defend158 t16870701-38-punish169"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550910-31">
+               <interp inst="t17550910-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550910-31" type="year" value="1755"></interp>
+               <interp inst="t17550910-31" type="uri" value="sessionsPapers/17550910"></interp>
+               <interp inst="t17550910-31" type="date" value="17550910"></interp>
+               <join result="criminalCharge" id="t17550910-31-off153-c224" targOrder="Y" targets="t17550910-31-defend280 t17550910-31-off153 t17550910-31-verdict156"></join>
+         
+               <p>334. (L.) 
+               <persName id="t17550910-31-defend280" type="defendantName">
+                  Isabella 
+                  Cook 
+               <interp inst="t17550910-31-defend280" type="surname" value="Cook"></interp>
+                     <interp inst="t17550910-31-defend280" type="given" value="Isabella"></interp>
+                     <interp inst="t17550910-31-defend280" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17550910-31-deflabel152" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550910-31-defend280 t17550910-31-deflabel152"></join>, was indicted for <rs id="t17550910-31-off153" type="offenceDescription">
+                     <interp inst="t17550910-31-off153" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550910-31-off153" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twelve halfpence
+            </rs>, the money of 
+               
+                  <persName id="t17550910-31-victim282" type="victimName">
+                     Phineas 
+                     Patershall 
+                  <interp inst="t17550910-31-victim282" type="surname" value="Patershall"></interp>
+                     <interp inst="t17550910-31-victim282" type="given" value="Phineas"></interp>
+                     <interp inst="t17550910-31-victim282" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17550910-31-off153 t17550910-31-victim282"></join>
+                  </persName>
+                
+            , <rs id="t17550910-31-cd154" type="crimeDate">August 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550910-31-off153 t17550910-31-cd154"></join>*. </p>
+               <p>Phineas Patershall. The prisoner lived <rs id="t17550910-31-deflabel155" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550910-31-defend280 t17550910-31-deflabel155"></join> with me three weeks; we having missed halfpence several times out of the till, I marked three shillings and three halfpence, in halfpence, and<xptr type="pageFacsimile" doc="175509100025"></xptr> went into the country. I returned in the morning, and looked at the lock of the till; I told the halfpence, and missed nine-pence. I suspected our other people, I searched them , and found none upon them. I asked the prisoner what she had in her pocket; she produced her money, and I found amongst it five halfpence marked. She said she knew nothing of it; but when we came before the justice, at Guildhall, she told me if I would forgive her, she would go and live with me for nothing as long as I liv'd.</p>
+               <p>Q. Did she confess she had taken the money?</p>
+               <p>Patershall. She did not directly confess; I had a very good character with her; but when I came to inquire for the people, I found she had never liv'd there at all.</p>
+               <p>
+            
+                  <persName id="t17550910-31-person283">
+                  Elisabeth 
+                  Patershall 
+               <interp inst="t17550910-31-person283" type="surname" value="Patershall"></interp>
+                     <interp inst="t17550910-31-person283" type="given" value="Elisabeth"></interp>
+                     <interp inst="t17550910-31-person283" type="gender" value="female"></interp>
+                  </persName>
+             . I am wife to the prosecutor; five halfpence marked were found upon the prisoner, and two in her box afterwards; and I had left her a shilling, when I went out, to lay out for me, instead of which she had laid out half-pence ; and upon inquiry, we found there were nine marked amongst that shilling's worth.</p>
+               <p>Q. Did you hear her confess any thing?</p>
+               <p>E. Patershall . No; I did not .</p>
+
+               <p>The prisoner had nothing to say in her defence.</p>
+               <p>To her character.</p>
+               <p>
+            
+                  <persName id="t17550910-31-person284">
+                  Mary 
+                  Melvil 
+               <interp inst="t17550910-31-person284" type="surname" value="Melvil"></interp>
+                     <interp inst="t17550910-31-person284" type="given" value="Mary"></interp>
+                     <interp inst="t17550910-31-person284" type="gender" value="female"></interp>
+                  </persName>
+             . I have known the prisoner two years.</p>
+               <p>Q. What is her general character?</p>
+               <p>M. Melvil . She has a very honest character, so far as I know.</p>
+               <p>
+                  <rs id="t17550910-31-verdict156" type="verdictDescription">
+                     <interp inst="t17550910-31-verdict156" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17550910-31-punish157" type="punishmentDescription">
+                     <interp inst="t17550910-31-punish157" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17550910-31-punish157" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17550910-31-defend280 t17550910-31-punish157"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

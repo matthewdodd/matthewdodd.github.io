@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-35">
+               <interp inst="t16880831-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-35" type="year" value="1688"></interp>
+               <interp inst="t16880831-35" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-35" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-35-off179-c120" targOrder="Y" targets="t16880831-35-defend183 t16880831-35-off179 t16880831-35-verdict182"></join>
+               <join result="criminalCharge" id="t16880831-35-off179-c121" targOrder="Y" targets="t16880831-35-defend185 t16880831-35-off179 t16880831-35-verdict183"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880831-35-defend183" type="defendantName">
+                     John 
+                     Gerrard
+                  <interp inst="t16880831-35-defend183" type="surname" value="Gerrard"></interp>
+                     <interp inst="t16880831-35-defend183" type="given" value="John"></interp>
+                     <interp inst="t16880831-35-defend183" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16880831-35-defend185" type="defendantName">
+                     James 
+                     Pidgley
+                  <interp inst="t16880831-35-defend185" type="surname" value="Pidgley"></interp>
+                     <interp inst="t16880831-35-defend185" type="given" value="James"></interp>
+                     <interp inst="t16880831-35-defend185" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were both Indicted for <rs id="t16880831-35-off179" type="offenceDescription">
+                     <interp inst="t16880831-35-off179" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880831-35-off179" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing on the <rs id="t16880831-35-cd180" type="crimeDate">27th. of July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880831-35-off179 t16880831-35-cd180"></join> last, one brown Gelding, value 7 l. and one other Gelding, price 7 l.
+            </rs> the Goods and Chattels of 
+               
+                  <persName id="t16880831-35-victim187" type="victimName">
+                     Edward 
+                     Speare
+                  <interp inst="t16880831-35-victim187" type="surname" value="Speare"></interp>
+                     <interp inst="t16880831-35-victim187" type="given" value="Edward"></interp>
+                     <interp inst="t16880831-35-victim187" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16880831-35-off179 t16880831-35-victim187"></join>
+                  </persName>
+               
+            . It appeared upon their Tryal that they were taken at Bristol offering the Geldings to Sale; Pidgley Sold them and Gerrard was the Voucher, which Mr. Speare Swore plainly against them; how that they were lost out of his Grounds at <placeName id="t16880831-35-crimeloc181">Hammersmith</placeName>
+                  <interp inst="t16880831-35-crimeloc181" type="placeName" value="Hammersmith"></interp>
+                  <interp inst="t16880831-35-crimeloc181" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16880831-35-off179 t16880831-35-crimeloc181"></join>; and when the Prisoners were Apprehended, they said that they found them in the High-way; but Gerrard having not so strong an Evidence against him, he was <rs id="t16880831-35-verdict182" type="verdictDescription">
+                     <interp inst="t16880831-35-verdict182" type="verdictCategory" value="notGuilty"></interp>
+               Cleared
+            </rs>, but Pidgley was found <rs id="t16880831-35-verdict183" type="verdictDescription">
+                     <interp inst="t16880831-35-verdict183" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16880831-35-punish184" type="punishmentDescription">
+                     <interp inst="t16880831-35-punish184" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-35-defend183 t16880831-35-punish184"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

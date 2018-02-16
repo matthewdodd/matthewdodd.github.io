@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17631019-35">
+               <interp inst="t17631019-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17631019-35" type="year" value="1763"></interp>
+               <interp inst="t17631019-35" type="uri" value="sessionsPapers/17631019"></interp>
+               <interp inst="t17631019-35" type="date" value="17631019"></interp>
+               <join result="criminalCharge" id="t17631019-35-off177-c270" targOrder="Y" targets="t17631019-35-defend345 t17631019-35-off177 t17631019-35-verdict180"></join>
+         
+               <p>497. (L.) 
+               
+                  <persName id="t17631019-35-defend345" type="defendantName">
+                     Robert 
+                     Crispin 
+                  <interp inst="t17631019-35-defend345" type="surname" value="Crispin"></interp>
+                     <interp inst="t17631019-35-defend345" type="given" value="Robert"></interp>
+                     <interp inst="t17631019-35-defend345" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17631019-35-off177" type="offenceDescription">
+                     <interp inst="t17631019-35-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17631019-35-off177" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver watch, val. 40 s. a lawn gown, a linnen-shirt, four linnen caps; two linnen shifts, an apron, and a yard of Irish cloth
+            </rs>, the property of 
+               
+                  <persName id="t17631019-35-victim347" type="victimName">
+                     John 
+                     James 
+                  <interp inst="t17631019-35-victim347" type="surname" value="James"></interp>
+                     <interp inst="t17631019-35-victim347" type="given" value="John"></interp>
+                     <interp inst="t17631019-35-victim347" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17631019-35-off177 t17631019-35-victim347"></join>
+                  </persName>
+                
+            , <rs id="t17631019-35-cd178" type="crimeDate">Oct. 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17631019-35-off177 t17631019-35-cd178"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17631019-35-person348">
+                  John 
+                  James 
+               <interp inst="t17631019-35-person348" type="surname" value="James"></interp>
+                     <interp inst="t17631019-35-person348" type="given" value="John"></interp>
+                     <interp inst="t17631019-35-person348" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17631019-35-crimeloc179">Deptford</placeName>
+                  <interp inst="t17631019-35-crimeloc179" type="placeName" value="Deptford"></interp>
+                  <interp inst="t17631019-35-crimeloc179" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17631019-35-off177 t17631019-35-crimeloc179"></join>, the prisoner lodged at my house about half a year, I missed the things mentioned in the indictment (mentioning them by name) last Wednesday was a week, the prisoner was missing at the time, I took him on Saturday last.</p>
+               <p>Q. Do you keep a public-house?</p>
+               <p>James. I did, but do not now. I found the watch pawned at the Three Golden Balls, in the Minories, to 
+               <persName id="t17631019-35-person349">
+                  John 
+                  Green 
+               <interp inst="t17631019-35-person349" type="surname" value="Green"></interp>
+                     <interp inst="t17631019-35-person349" type="given" value="John"></interp>
+                     <interp inst="t17631019-35-person349" type="gender" value="male"></interp>
+                  </persName>
+            , I have the gown again, it had been pawned, and was brought to me.</p>
+               <p>John Green. I am a pawn-broker, and live in the Minories, I believe the prisoner is the man that pledged this watch with me, (Produced and deposed to by the prosecutor.) I asked him how he came by it? he said he bought it of landlord at Deptford, in Flaggon-row.</p>
+               <p>Prisoner's Defence.</p>
+               <p>This man has been guilty of a great many more faults than I have, in robbing seafaring men. I kept company with a woman in his house, she was not my lawful wife. He turned me out of the house when I had no money left, and after he found there was money coming to me, he took me in again. Necessity drove me to do what I did.  <rs id="t17631019-35-verdict180" type="verdictDescription">
+                     <interp inst="t17631019-35-verdict180" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17631019-35-punish181" type="punishmentDescription">
+                     <interp inst="t17631019-35-punish181" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17631019-35-defend345 t17631019-35-punish181"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510116-27">
+               <interp inst="t17510116-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510116-27" type="year" value="1751"></interp>
+               <interp inst="t17510116-27" type="uri" value="sessionsPapers/17510116"></interp>
+               <interp inst="t17510116-27" type="date" value="17510116"></interp>
+               <join result="criminalCharge" id="t17510116-27-off123-c182" targOrder="Y" targets="t17510116-27-defend232 t17510116-27-off123 t17510116-27-verdict125"></join>
+         
+               <p>115. (M.) 
+               <persName id="t17510116-27-defend232" type="defendantName">
+                  
+                     Elizabeth 
+                     Meadows 
+                  , otherwise <rs id="t17510116-27-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17510116-27-defend232 t17510116-27-alias-2"></join>Drew</rs>, otherwise <rs id="t17510116-27-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17510116-27-defend232 t17510116-27-alias-3"></join>Jones</rs>
+                     <interp inst="t17510116-27-defend232" type="surname" value="Meadows"></interp>
+                     <interp inst="t17510116-27-defend232" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17510116-27-defend232" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17510116-27-deflabel122" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510116-27-defend232 t17510116-27-deflabel122"></join>, was indicted for <rs id="t17510116-27-off123" type="offenceDescription">
+                     <interp inst="t17510116-27-off123" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510116-27-off123" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two silver spoons, value 20 s. 24 yards of Irish cloth, one linen frock, six silver tea spoons, one pair of tea tongs, one gold ring with a garnet stone, the goods of 
+                     
+                        <persName id="t17510116-27-victim235" type="victimName">
+                           John 
+                           Ashley 
+                        <interp inst="t17510116-27-victim235" type="surname" value="Ashley"></interp>
+                        <interp inst="t17510116-27-victim235" type="given" value="John"></interp>
+                        <interp inst="t17510116-27-victim235" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17510116-27-off123 t17510116-27-victim235"></join>
+                     </persName>
+                      
+                  , in the dwelling-house of the said John
+            </rs>, <rs id="t17510116-27-cd124" type="crimeDate">Dec. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510116-27-off123 t17510116-27-cd124"></join>. ++</p>
+               <p>The prosecutor had an auction at the late house of Mr. Rosomond, to sell the goods; the prisoner was seen to attend there. The goods mentioned in the indictment being missing, they were advertised, and the pawnbroker who took in the two table spoons and piece of Irish cloth, brought them to the prosecutor, and deposed in court, he took them in from the hands of the prisoner; the prosecutor deposed only to the spoons.</p>
+               <p>The prisoner in her defence said, a young woman who looked after the table where the spoons lay, gave them to her to make money for her.</p>
+               <p>
+                  <rs id="t17510116-27-verdict125" type="verdictDescription">
+                     <interp inst="t17510116-27-verdict125" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17510116-27-verdict125" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of stealing, but not in the dwelling-house
+            </rs>.</p>
+            </div1>

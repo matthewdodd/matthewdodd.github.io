@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360908-5">
+               <interp inst="t17360908-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360908-5" type="year" value="1736"></interp>
+               <interp inst="t17360908-5" type="uri" value="sessionsPapers/17360908"></interp>
+               <interp inst="t17360908-5" type="date" value="17360908"></interp>
+               <join result="criminalCharge" id="t17360908-5-off20-c44" targOrder="Y" targets="t17360908-5-defend58 t17360908-5-off20 t17360908-5-verdict22"></join>
+         
+               <p>10. 
+               
+                  <persName id="t17360908-5-defend58" type="defendantName">
+                     Joshua 
+                     Fielding 
+                  <interp inst="t17360908-5-defend58" type="surname" value="Fielding"></interp>
+                     <interp inst="t17360908-5-defend58" type="given" value="Joshua"></interp>
+                     <interp inst="t17360908-5-defend58" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360908-5-off20" type="offenceDescription">
+                     <interp inst="t17360908-5-off20" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360908-5-off20" type="offenceSubcategory" value="other"></interp>
+               stealing 64 silk Handkerchiefs, a silk Purse, a velvet Cap, 3 velvet Girdles, 6 yards of Ribbon, 7 yards of Cambrick, 2 pair of thread Stockings, and 12 yards of Worsted Gartering
+            </rs>, the Goods of 
+               
+                  <persName id="t17360908-5-victim60" type="victimName">
+                     John 
+                     Knight 
+                  <interp inst="t17360908-5-victim60" type="surname" value="Knight"></interp>
+                     <interp inst="t17360908-5-victim60" type="given" value="John"></interp>
+                     <interp inst="t17360908-5-victim60" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360908-5-off20 t17360908-5-victim60"></join>
+                  </persName>
+                
+            , the <rs id="t17360908-5-cd21" type="crimeDate">7th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360908-5-off20 t17360908-5-cd21"></join>, <rs id="t17360908-5-verdict22" type="verdictDescription">
+                     <interp inst="t17360908-5-verdict22" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360908-5-verdict22" type="verdictSubcategory" value="theftunder40s"></interp>
+               guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360908-5-punish23" type="punishmentDescription">
+                     <interp inst="t17360908-5-punish23" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360908-5-defend58 t17360908-5-punish23"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

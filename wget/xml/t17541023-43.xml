@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17541023-43">
+               <interp inst="t17541023-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17541023-43" type="year" value="1754"></interp>
+               <interp inst="t17541023-43" type="uri" value="sessionsPapers/17541023"></interp>
+               <interp inst="t17541023-43" type="date" value="17541023"></interp>
+               <join result="criminalCharge" id="t17541023-43-off221-c255" targOrder="Y" targets="t17541023-43-defend331 t17541023-43-off221 t17541023-43-verdict223"></join>
+         
+               <p>509. (M.) 
+               
+                  <persName id="t17541023-43-defend331" type="defendantName">
+                     Alice 
+                     Stafford 
+                  <interp inst="t17541023-43-defend331" type="surname" value="Stafford"></interp>
+                     <interp inst="t17541023-43-defend331" type="given" value="Alice"></interp>
+                     <interp inst="t17541023-43-defend331" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17541023-43-deflabel220" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17541023-43-defend331 t17541023-43-deflabel220"></join>, was indicted for <rs id="t17541023-43-off221" type="offenceDescription">
+                     <interp inst="t17541023-43-off221" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17541023-43-off221" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one lawn gown, val. 10 s. one cotton gown, val. 10 s. two lawn aprons, val. 5 s. one pair of stays, one silk capuchin, one dowlass sheet
+            </rs>, the goods of 
+               
+                  <persName id="t17541023-43-victim333" type="victimName">
+                     John 
+                     Williams 
+                  <interp inst="t17541023-43-victim333" type="surname" value="Williams"></interp>
+                     <interp inst="t17541023-43-victim333" type="given" value="John"></interp>
+                     <interp inst="t17541023-43-victim333" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17541023-43-off221 t17541023-43-victim333"></join>
+                  </persName>
+                
+            , <rs id="t17541023-43-cd222" type="crimeDate">Oct. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17541023-43-off221 t17541023-43-cd222"></join>. +.</p>
+               <p>
+                  <rs id="t17541023-43-verdict223" type="verdictDescription">
+                     <interp inst="t17541023-43-verdict223" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17541023-43-verdict223" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17541023-43-punish224" type="punishmentDescription">
+                     <interp inst="t17541023-43-punish224" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17541023-43-punish224" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17541023-43-defend331 t17541023-43-punish224"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

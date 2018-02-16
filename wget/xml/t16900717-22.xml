@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-22">
+               <interp inst="t16900717-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-22" type="year" value="1690"></interp>
+               <interp inst="t16900717-22" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-22" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-22-off115-c87" targOrder="Y" targets="t16900717-22-defend125 t16900717-22-off115 t16900717-22-verdict118"></join>
+               <join result="criminalCharge" id="t16900717-22-off115-c88" targOrder="Y" targets="t16900717-22-defend127 t16900717-22-off115 t16900717-22-verdict118"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900717-22-defend125" type="defendantName">
+                     Elias 
+                     Fryar
+                  <interp inst="t16900717-22-defend125" type="surname" value="Fryar"></interp>
+                     <interp inst="t16900717-22-defend125" type="given" value="Elias"></interp>
+                     <interp inst="t16900717-22-defend125" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16900717-22-defend127" type="defendantName">
+                     John 
+                     Fryar
+                  <interp inst="t16900717-22-defend127" type="surname" value="Fryar"></interp>
+                     <interp inst="t16900717-22-defend127" type="given" value="John"></interp>
+                     <interp inst="t16900717-22-defend127" type="gender" value="male"></interp>
+                  </persName>
+               
+             his Son, were both Indicted for <rs id="t16900717-22-off115" type="offenceDescription">
+                     <interp inst="t16900717-22-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-22-off115" type="offenceSubcategory" value="animalTheft"></interp>
+               Stealing a Gelding, Strawberry Colour, Fifteen Shillings Price
+            </rs>, on the <rs id="t16900717-22-cd116" type="crimeDate">Eleventh Day of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-22-off115 t16900717-22-cd116"></join> from 
+               
+                  <persName id="t16900717-22-victim129" type="victimName">
+                     Anthony 
+                     Morton
+                  <interp inst="t16900717-22-victim129" type="surname" value="Morton"></interp>
+                     <interp inst="t16900717-22-victim129" type="given" value="Anthony"></interp>
+                     <interp inst="t16900717-22-victim129" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900717-22-off115 t16900717-22-victim129"></join>
+                  </persName>
+               
+             of <placeName id="t16900717-22-crimeloc117">Harrow on the Hill</placeName>
+                  <interp inst="t16900717-22-crimeloc117" type="placeName" value="Harrow on the Hill"></interp>
+                  <interp inst="t16900717-22-crimeloc117" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16900717-22-off115 t16900717-22-crimeloc117"></join>; but it appearing upon the Evidence, that Old Fryar Hired the Horse of Morton; and there being no Colour of Felony in it, they were both <rs id="t16900717-22-verdict118" type="verdictDescription">
+                     <interp inst="t16900717-22-verdict118" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

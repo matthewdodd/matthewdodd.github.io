@@ -1,3 +1,351 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17481012-30">
+               <interp inst="t17481012-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17481012-30" type="year" value="1748"></interp>
+               <interp inst="t17481012-30" type="uri" value="sessionsPapers/17481012"></interp>
+               <interp inst="t17481012-30" type="date" value="17481012"></interp>
+               <join result="criminalCharge" id="t17481012-30-off167-c186" targOrder="Y" targets="t17481012-30-defend243 t17481012-30-off167 t17481012-30-verdict171"></join>
+               <join result="criminalCharge" id="t17481012-30-off167-c187" targOrder="Y" targets="t17481012-30-defend245 t17481012-30-off167 t17481012-30-verdict171"></join>
+         
+               <p>+ 510, 511. 
+               <persName id="t17481012-30-defend243" type="defendantName">
+                  Samuel 
+                  Shorer 
+               <interp inst="t17481012-30-defend243" type="surname" value="Shorer"></interp>
+                     <interp inst="t17481012-30-defend243" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-defend243" type="gender" value="male"></interp>
+                  </persName>
+             , and 
+               
+                  <persName id="t17481012-30-defend245" type="defendantName">
+                     Richard 
+                     Shaw 
+                  <interp inst="t17481012-30-defend245" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-defend245" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-defend245" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of the parish of <placeName id="t17481012-30-defloc166">Harrow</placeName>
+                  <interp inst="t17481012-30-defloc166" type="placeName" value="Harrow"></interp>
+                  <interp inst="t17481012-30-defloc166" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17481012-30-defend243 t17481012-30-defloc166"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17481012-30-defend245 t17481012-30-defloc166"></join>, were indicted for <rs id="t17481012-30-off167" type="offenceDescription">
+                     <interp inst="t17481012-30-off167" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17481012-30-off167" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17481012-30-victim247" type="victimName">
+                           John 
+                           Robins 
+                        <interp inst="t17481012-30-victim247" type="surname" value="Robins"></interp>
+                        <interp inst="t17481012-30-victim247" type="given" value="John"></interp>
+                        <interp inst="t17481012-30-victim247" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17481012-30-off167 t17481012-30-victim247"></join>
+                     </persName>
+                      
+                  , on the King's highway, putting him in fear and danger of his life, and taking from him seven shillings and two pence half penny
+            </rs>, <rs id="t17481012-30-cd168" type="crimeDate">Sept. 24th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17481012-30-off167 t17481012-30-cd168"></join>.</p>
+               <p>
+            
+                  <persName id="t17481012-30-person248">
+                  John 
+                  Robins 
+               <interp inst="t17481012-30-person248" type="surname" value="Robins"></interp>
+                     <interp inst="t17481012-30-person248" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person248" type="gender" value="male"></interp>
+                  </persName>
+            . I am a servant to Admiral 
+               <persName id="t17481012-30-person249">
+                  Matthews
+               <interp inst="t17481012-30-person249" type="given" value="Matthews"></interp>
+                     <interp inst="t17481012-30-person249" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Was you robbed of any thing?</p>
+               <p>Robins. Yes. On the 24th of Sept. between eight and nine at night.</p>
+               <p>Q. Where was you robbed?</p>
+               <p>Robins. Between <placeName id="t17481012-30-crimeloc169">Sudbury</placeName>
+                  <interp inst="t17481012-30-crimeloc169" type="placeName" value="Sudbury"></interp>
+                  <interp inst="t17481012-30-crimeloc169" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17481012-30-off167 t17481012-30-crimeloc169"></join> and <placeName id="t17481012-30-crimeloc170">Wimley</placeName>
+                  <interp inst="t17481012-30-crimeloc170" type="placeName" value="Wimley"></interp>
+                  <interp inst="t17481012-30-crimeloc170" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17481012-30-off167 t17481012-30-crimeloc170"></join>.</p>
+               <p>Q. What was you robbed of?</p>
+               <p>Robins. On seven shillings and two pence half penny.</p>
+               <p>Q. Who was you robbed by?</p>
+               <p>Robins. By 
+               <persName id="t17481012-30-person250">
+                  Samuel 
+                  Shorer 
+               <interp inst="t17481012-30-person250" type="surname" value="Shorer"></interp>
+                     <interp inst="t17481012-30-person250" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-person250" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17481012-30-person251">
+                  Richard 
+                  Shaw 
+               <interp inst="t17481012-30-person251" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person251" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-person251" type="gender" value="male"></interp>
+                  </persName>
+            , as they told me there names were.</p>
+               <p>Q. Had you any body with you?</p>
+               <p>Robins. No body at all.</p>
+               <p>Q. What sort of a night was it?</p>
+               <p>Robins. It was a very moon shiney night.</p>
+               <p>Q. Were they on horseback, or on foot?</p>
+               <p>Robins. They were on foot; and 
+               <persName id="t17481012-30-person252">
+                  Richard 
+                  Shaw 
+               <interp inst="t17481012-30-person252" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person252" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-person252" type="gender" value="male"></interp>
+                  </persName>
+            , the young one, laid hold of my horse's bridle; and I did not see him till he had hold of my horse's head.</p>
+               <p>Q. When he had hold of your horse's head, did he speak to you?</p>
+               <p>Robins. Yes; he demanded my money.</p>
+               <p>Q. Who was that?</p>
+               <p>Robins. 
+               <persName id="t17481012-30-person253">
+                  Samuel 
+                  Shorer 
+               <interp inst="t17481012-30-person253" type="surname" value="Shorer"></interp>
+                     <interp inst="t17481012-30-person253" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-person253" type="gender" value="male"></interp>
+                  </persName>
+            . They had both clubs, and held them up, but they never struck me.</p>
+               <p>Q. What did they look like?</p>
+               <p>Robins. They looked like hedge stakes.</p>
+               <p>Q. Then you was not afraid of them?</p>
+               <p>Robins. I can't say I was, only as I had nothing to defend myself with; and I desired, as I was going further, that they would give me something, and they gave me the two pence half penny back again.</p>
+               <p>Q. What did they say to you?</p>
+               <p>Robins. They said they must have my money.</p>
+               <p>Q. Did they use any oaths or threats?</p>
+               <p>Robins. No; and when they had got this they went away.</p>
+               <p>Q. How far was you from any town or village?</p>
+               <p>Robins. There was a village about half a mile off, and they bid me go on; and I went to my master's house, and 
+               <persName id="t17481012-30-person254">
+                  John 
+                  Middleton 
+               <interp inst="t17481012-30-person254" type="surname" value="Middleton"></interp>
+                     <interp inst="t17481012-30-person254" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person254" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17481012-30-person255">
+                  John 
+                  Agnes 
+               <interp inst="t17481012-30-person255" type="surname" value="Agnes"></interp>
+                     <interp inst="t17481012-30-person255" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person255" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17481012-30-person256">
+                  John 
+                  Howard 
+               <interp inst="t17481012-30-person256" type="surname" value="Howard"></interp>
+                     <interp inst="t17481012-30-person256" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person256" type="gender" value="male"></interp>
+                  </persName>
+             the groom, and I, went after them.</p>
+               <p>Q. Where did you come up with them?</p>
+               <p>Robins. At Wimley Green .</p>
+               <p>Q. Had they any sticks then?</p>
+               <p>Robins. Yes; they had common sticks then.</p>
+               <p>Q. Perhaps your fear magnified their sticks into clubs: I had a brace of pistols, and I told them to surrender themselves, for they were my prisoners; the Groom had a blunderbuss, and Agnes had one pistol.</p>
+               <p>Q. Did you tell them why you took them up?</p>
+               <p>Robins. Yes; I told them they had robbed me, and that they were my prisoners; I delivered them into the hands of others, till I could get a constable  I had changed my clothes then.</p>
+               <p>Q. Why did you do that?</p>
+               <p>Robins. Because I thought they would rob me again, and the next day, I carried them before Justice Poulson.</p>
+               <p>Q. When they were charged with this fact be fore Justice Poulson, what did they say for themselves?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174810120023"></xptr>Robins. They both said they were guilty of the fact; and the Justice asked them if they had any questions to ask the prosecutor, and they said they had not.</p>
+               <p>Justice Poulson . On Sunday the 25th of September, the prisoners were brought before me, and they were charged by that man for robbing him on the highway, as he has now related; my clerk was not at home, and I took their confessions myself, here are the confessions: I asked them if they were free and ready to do it, and they said they were free and ready to do it; there was no compulsion, and I did not say any thing to them to induce them to do it; this is the hand of 
+               <persName id="t17481012-30-person257">
+                  Richard 
+                  Shaw 
+               <interp inst="t17481012-30-person257" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person257" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-person257" type="gender" value="male"></interp>
+                  </persName>
+            , and this is the mark of 
+               <persName id="t17481012-30-person258">
+                  Samuel 
+                  Shorer 
+               <interp inst="t17481012-30-person258" type="surname" value="Shorer"></interp>
+                     <interp inst="t17481012-30-person258" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-person258" type="gender" value="male"></interp>
+                  </persName>
+            , and they are both signed by me.</p>
+               <p>Q. Were they read to them, and were they asked whether they understood what they were going to do, and the consequences of it?</p>
+               <p>Poulson. Yes; and I told them they were not compelled to do it, and they said they did it freely.</p>
+               <p>[The Confession of 
+               <persName id="t17481012-30-person259">
+                  Samuel 
+                  Shorer 
+               <interp inst="t17481012-30-person259" type="surname" value="Shorer"></interp>
+                     <interp inst="t17481012-30-person259" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-person259" type="gender" value="male"></interp>
+                  </persName>
+            , was read, viz.]</p>
+               <p>'' The voluntary confession of 
+               <persName id="t17481012-30-person260">
+                  Samuel 
+                  Shor 
+               <interp inst="t17481012-30-person260" type="surname" value="Shor"></interp>
+                     <interp inst="t17481012-30-person260" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-30-person260" type="gender" value="male"></interp>
+                  </persName>
+             er, '' taken this 25th of Sept. 1748, wherein he '' faith , that he, in company with one Richard '' Shaw, on the 24th of September, between 8 '' and 9 in the evening, did stop one 
+               <persName id="t17481012-30-person261">
+                  John 
+                  Robins 
+               <interp inst="t17481012-30-person261" type="surname" value="Robins"></interp>
+                     <interp inst="t17481012-30-person261" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person261" type="gender" value="male"></interp>
+                  </persName>
+            , '' on the King's Highway, between Sudbury, '' and Wimley , and demanded his money; and '' feloniously took from him seven shillings, and '' two-pence half-penny, and that they afterwards '' shared the money between them.''</p>
+               <p>[The Confession of 
+               <persName id="t17481012-30-person262">
+                  Richard 
+                  Shaw 
+               <interp inst="t17481012-30-person262" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person262" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-person262" type="gender" value="male"></interp>
+                  </persName>
+            , which was to the same Effect, was also read.]</p>
+               <p>Q. Did they speak of any accomplices?</p>
+               <p>J. Poulson. They said they were not concerned with any body; but by what they said, I had reason to believe they were concerned in those parts.</p>
+               <p>Q. Did they say it was the first robbery they had committed?</p>
+               <p>J. Poulson. They said they would not give any account of any robberies they had committed; and that they knew of nothing but what was done among themselves.</p>
+               <p>
+            
+                  <persName id="t17481012-30-person263">
+                  John 
+                  Middleton 
+               <interp inst="t17481012-30-person263" type="surname" value="Middleton"></interp>
+                     <interp inst="t17481012-30-person263" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person263" type="gender" value="male"></interp>
+                  </persName>
+            . I am coachman to admiral Matthews ; my fellow servant came home, and said he had been robbed by two men, and asked my master, whether he should go and pursue them; and he ask'd me to go with him, and I said I would go if my master would let me.</p>
+               <p>Q. How many went?</p>
+               <p>Middleton. There was the groom, and 
+               <persName id="t17481012-30-person264">
+                  John 
+                  Agnes 
+               <interp inst="t17481012-30-person264" type="surname" value="Agnes"></interp>
+                     <interp inst="t17481012-30-person264" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person264" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17481012-30-person265">
+                  John 
+                  Howard 
+               <interp inst="t17481012-30-person265" type="surname" value="Howard"></interp>
+                     <interp inst="t17481012-30-person265" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person265" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17481012-30-person266">
+                  John 
+                  Robins 
+               <interp inst="t17481012-30-person266" type="surname" value="Robins"></interp>
+                     <interp inst="t17481012-30-person266" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person266" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Did he tell you whether those who robbed him, were on horseback or on foot?</p>
+               <p>Middleton. He said they were on foot, 
+               <persName id="t17481012-30-person267">
+                  John 
+                  Robins 
+               <interp inst="t17481012-30-person267" type="surname" value="Robins"></interp>
+                     <interp inst="t17481012-30-person267" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person267" type="gender" value="male"></interp>
+                  </persName>
+             was on horseback, and the groom was on horseback, I and the others were on foot.</p>
+               <p>Q. Did Robins tell you where he was robbed?</p>
+               <p>Middleton. He said, between Wimley and Sudbury ?</p>
+               <p>Q. Did you meet with the prisoners at the bar?</p>
+               <p>Middleton. Yes; we met them on the highway, Robins had given us a description of them before, that, the old man was dressed in a dark coat, and the young man, in a lose light coloured coat; 
+               <persName id="t17481012-30-person268">
+                  John 
+                  Robins 
+               <interp inst="t17481012-30-person268" type="surname" value="Robins"></interp>
+                     <interp inst="t17481012-30-person268" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person268" type="gender" value="male"></interp>
+                  </persName>
+            , charged them with robbing him, and they said they knew nothing of him, but they did confess before the morning, that they were the men.</p>
+               <p>Q. Who set up with them?</p>
+               <p>Middleton. I did, Agnes and Howard.</p>
+               <p>Q. Was you before a magistrate with them?</p>
+               <p>Middleton. Yes; I was before Justice Poulson.</p>
+               <p>Q. How near have you a magistrate?</p>
+               <p>Middleton. About two miles.</p>
+               <p>Prisoner Shorer . I had been sick for want of victuals, and for want of work; and it was necessity that drove me to it, for I could get nothing to eat but apples.</p>
+               <p>
+            
+                  <persName id="t17481012-30-person269">
+                  William 
+                  Shaw 
+               <interp inst="t17481012-30-person269" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person269" type="given" value="William"></interp>
+                     <interp inst="t17481012-30-person269" type="gender" value="male"></interp>
+                  </persName>
+            . I come in the behalf of 
+               <persName id="t17481012-30-person270">
+                  Richard 
+                  Shaw 
+               <interp inst="t17481012-30-person270" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person270" type="given" value="Richard"></interp>
+                     <interp inst="t17481012-30-person270" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. What are you his brother?</p>
+               <p>Shaw. Yes.</p>
+               <p>Q. What has he been brought up to?</p>
+               <p>Shaw. To labouring business.</p>
+               <p>Q. What age is he?</p>
+               <p>Shaw. I believe he is about 18 years of age, I never heard when he went to the plough when he was at home, but that he was a sober honest boy; and when he went to service, his masters always said they could trust him with any thing.</p>
+               <p>Q. Where do you live?</p>
+               <p>Shaw. At Windsor .</p>
+               <p>Q. How long has he been gone from you?</p>
+               <p>Shaw. He went away about Whitson Week.</p>
+               <p>Q. Is your father living?</p>
+               <p>Shaw. No; his mother kept him till he was fit to go to service.</p>
+               <p>
+            
+                  <persName id="t17481012-30-person271">
+                  John 
+                  Shaw 
+               <interp inst="t17481012-30-person271" type="surname" value="Shaw"></interp>
+                     <interp inst="t17481012-30-person271" type="given" value="John"></interp>
+                     <interp inst="t17481012-30-person271" type="gender" value="male"></interp>
+                  </persName>
+            . I am the prisoner's second brother.</p>
+               <p>Q. What have you to say with respect to your brother?</p>
+               <p>Shaw. He was bred up in an honest way, and always behaved so, as far as ever I heard.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174810120024"></xptr>Q. Where do you live?</p>
+               <p>Shaw. I live almost as far as Whiltshire, and I know he had a good character from his masters.</p>
+               <rs id="t17481012-30-verdict171" type="verdictDescription">
+                  <interp inst="t17481012-30-verdict171" type="verdictCategory" value="guilty"></interp>
+                  <interp inst="t17481012-30-verdict171" type="verdictSubcategory" value="withRecommendation"></interp>
+            
+                  <p>Both Guilty.</p>
+                  <p>
+                     <rs id="t17481012-30-punish172" type="punishmentDescription">
+                        <interp inst="t17481012-30-punish172" type="punishmentCategory" value="death"></interp>
+                        <join result="defendantPunishment" targOrder="Y" targets="t17481012-30-defend243 t17481012-30-punish172"></join>
+                        <join result="defendantPunishment" targOrder="Y" targets="t17481012-30-defend245 t17481012-30-punish172"></join>
+                     Death
+                  </rs>.</p>
+                  <p>The Jury, desired the court to recommend them to the Lord's Justices for mercy, on account of the youth of one, and their poverty; and as it may probably be the first fact they committed.</p>
+            
+               </rs>
+               <p>And the court unanimously agreed, to recommend them to the Lord Justices for mercy.</p>
+            </div1>

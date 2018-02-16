@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870701-13">
+               <interp inst="t16870701-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870701-13" type="year" value="1687"></interp>
+               <interp inst="t16870701-13" type="uri" value="sessionsPapers/16870701"></interp>
+               <interp inst="t16870701-13" type="date" value="16870701"></interp>
+               <join result="criminalCharge" id="t16870701-13-off56-c55" targOrder="Y" targets="t16870701-13-defend75 t16870701-13-off56 t16870701-13-verdict59"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870701-13-defend75" type="defendantName">
+                     Sarah 
+                     Bond-Bavin
+                  <interp inst="t16870701-13-defend75" type="surname" value="Bond-Bavin"></interp>
+                     <interp inst="t16870701-13-defend75" type="given" value="Sarah"></interp>
+                     <interp inst="t16870701-13-defend75" type="gender" value="female"></interp>
+                  </persName>
+               
+             was Tryed for <rs id="t16870701-13-off56" type="offenceDescription">
+                     <interp inst="t16870701-13-off56" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870701-13-off56" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing a Gown and Petticoat value 3 s.
+            </rs> from 
+               
+                  <persName id="t16870701-13-victim77" type="victimName">
+                     Michael 
+                     Steevens
+                  <interp inst="t16870701-13-victim77" type="surname" value="Steevens"></interp>
+                     <interp inst="t16870701-13-victim77" type="given" value="Michael"></interp>
+                     <interp inst="t16870701-13-victim77" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870701-13-off56 t16870701-13-victim77"></join>
+                  </persName>
+               
+             of <placeName id="t16870701-13-crimeloc57">Allhollows Barkin</placeName>
+                  <interp inst="t16870701-13-crimeloc57" type="placeName" value="Allhollows Barkin"></interp>
+                  <interp inst="t16870701-13-crimeloc57" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870701-13-off56 t16870701-13-crimeloc57"></join>, on the <rs id="t16870701-13-cd58" type="crimeDate">10th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870701-13-off56 t16870701-13-cd58"></join> last, and upon Tryal, it being proved that the Goods were taken upon her, she was found <rs id="t16870701-13-verdict59" type="verdictDescription">
+                     <interp inst="t16870701-13-verdict59" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870701-13-verdict59" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, yet only to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870701-13-punish60" type="punishmentDescription">
+                     <interp inst="t16870701-13-punish60" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870701-13-punish60" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870701-13-defend75 t16870701-13-punish60"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

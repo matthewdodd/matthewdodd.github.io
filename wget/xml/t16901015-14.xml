@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901015-14">
+               <interp inst="t16901015-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901015-14" type="year" value="1690"></interp>
+               <interp inst="t16901015-14" type="uri" value="sessionsPapers/16901015"></interp>
+               <interp inst="t16901015-14" type="date" value="16901015"></interp>
+               <join result="criminalCharge" id="t16901015-14-off53-c56" targOrder="Y" targets="t16901015-14-defend81 t16901015-14-off53 t16901015-14-verdict56"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16901015-14-defend81" type="defendantName">
+                     John 
+                     Clarke
+                  <interp inst="t16901015-14-defend81" type="surname" value="Clarke"></interp>
+                     <interp inst="t16901015-14-defend81" type="given" value="John"></interp>
+                     <interp inst="t16901015-14-defend81" type="gender" value="male"></interp>
+                  </persName>
+               
+             was tryed for <rs id="t16901015-14-off53" type="offenceDescription">
+                     <interp inst="t16901015-14-off53" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901015-14-off53" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Taster, value 18 d. and 8 l. in Money numbered
+            </rs>, from 
+               
+                  <persName id="t16901015-14-victim83" type="victimName">
+                     John 
+                     Andgrave
+                  <interp inst="t16901015-14-victim83" type="surname" value="Andgrave"></interp>
+                     <interp inst="t16901015-14-victim83" type="given" value="John"></interp>
+                     <interp inst="t16901015-14-victim83" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16901015-14-off53 t16901015-14-victim83"></join>
+                  </persName>
+               
+             of <placeName id="t16901015-14-crimeloc54">S. James's Westminster</placeName>
+                  <interp inst="t16901015-14-crimeloc54" type="placeName" value="S. James's Westminster"></interp>
+                  <interp inst="t16901015-14-crimeloc54" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901015-14-off53 t16901015-14-crimeloc54"></join>, on the <rs id="t16901015-14-cd55" type="crimeDate">24th of September</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16901015-14-off53 t16901015-14-cd55"></join> last. This Prisoner was indicted, on the first day of the Sessions, by the name of 
+               <persName id="t16901015-14-person84">
+                  Philip 
+                  O Neale
+               <interp inst="t16901015-14-person84" type="surname" value="O Neale"></interp>
+                     <interp inst="t16901015-14-person84" type="given" value="Philip"></interp>
+                     <interp inst="t16901015-14-person84" type="gender" value="male"></interp>
+                  </persName>
+            , as aforesaid. He and another came to the Prosecutor's House, and after they had eat some Pork, the Prisoner took the Mony, and run away with it; but being pursued, the Mony was found in 2 Bags about him. The Prisoner said, That the Mony was given him by another Person, but he could not prove any thing: He was found <rs id="t16901015-14-verdict56" type="verdictDescription">
+                     <interp inst="t16901015-14-verdict56" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16901015-14-punish57" type="punishmentDescription">
+                     <interp inst="t16901015-14-punish57" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16901015-14-punish57" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901015-14-defend81 t16901015-14-punish57"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

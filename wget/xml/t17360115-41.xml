@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-41">
+               <interp inst="t17360115-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-41" type="year" value="1736"></interp>
+               <interp inst="t17360115-41" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-41" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-41-off228-c209" targOrder="Y" targets="t17360115-41-defend303 t17360115-41-off228 t17360115-41-verdict230"></join>
+         
+               <p>45. 
+               
+                  <persName id="t17360115-41-defend303" type="defendantName">
+                     Esther 
+                     Hawkins 
+                  <interp inst="t17360115-41-defend303" type="surname" value="Hawkins"></interp>
+                     <interp inst="t17360115-41-defend303" type="given" value="Esther"></interp>
+                     <interp inst="t17360115-41-defend303" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-41-defloc227">St. John's Wapping</placeName>
+                  <interp inst="t17360115-41-defloc227" type="placeName" value="St. John's Wapping"></interp>
+                  <interp inst="t17360115-41-defloc227" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-41-defend303 t17360115-41-defloc227"></join> , was indicted for <rs id="t17360115-41-off228" type="offenceDescription">
+                     <interp inst="t17360115-41-off228" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-41-off228" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 44 Silver Buttons, value 20 s. and two Silver Buckles, value 4 s. and other things
+            </rs>, the Goods of 
+               
+                  <persName id="t17360115-41-victim305" type="victimName">
+                     Charles 
+                     Turvey 
+                  <interp inst="t17360115-41-victim305" type="surname" value="Turvey"></interp>
+                     <interp inst="t17360115-41-victim305" type="given" value="Charles"></interp>
+                     <interp inst="t17360115-41-victim305" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-41-off228 t17360115-41-victim305"></join>
+                  </persName>
+                
+            , <rs id="t17360115-41-cd229" type="crimeDate">October 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-41-off228 t17360115-41-cd229"></join>. <rs id="t17360115-41-verdict230" type="verdictDescription">
+                     <interp inst="t17360115-41-verdict230" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650918-18">
+               <interp inst="t17650918-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650918-18" type="year" value="1765"></interp>
+               <interp inst="t17650918-18" type="uri" value="sessionsPapers/17650918"></interp>
+               <interp inst="t17650918-18" type="date" value="17650918"></interp>
+               <join result="criminalCharge" id="t17650918-18-off101-c152" targOrder="Y" targets="t17650918-18-defend189 t17650918-18-off101 t17650918-18-verdict104"></join>
+         
+               <p>435. (M.) 
+               
+                  <persName id="t17650918-18-defend189" type="defendantName">
+                     Ann 
+                     Killing 
+                  <interp inst="t17650918-18-defend189" type="surname" value="Killing"></interp>
+                     <interp inst="t17650918-18-defend189" type="given" value="Ann"></interp>
+                     <interp inst="t17650918-18-defend189" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17650918-18-deflabel100" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650918-18-defend189 t17650918-18-deflabel100"></join>, was indicted for <rs id="t17650918-18-off101" type="offenceDescription">
+                     <interp inst="t17650918-18-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650918-18-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of linen drawers, value 1 s. one pair of worsted stockings, value 6 d. and one pair of men's leather pumps, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17650918-18-victim191" type="victimName">
+                     Emanuel 
+                     Mansfield 
+                  <interp inst="t17650918-18-victim191" type="surname" value="Mansfield"></interp>
+                     <interp inst="t17650918-18-victim191" type="given" value="Emanuel"></interp>
+                     <interp inst="t17650918-18-victim191" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17650918-18-off101 t17650918-18-victim191"></join>
+                  </persName>
+                
+            , <rs id="t17650918-18-cd102" type="crimeDate">July 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650918-18-off101 t17650918-18-cd102"></join>. *</p>
+               <p>
+            
+                  <persName id="t17650918-18-person192">
+                  Emanuel 
+                  Mansfield 
+               <interp inst="t17650918-18-person192" type="surname" value="Mansfield"></interp>
+                     <interp inst="t17650918-18-person192" type="given" value="Emanuel"></interp>
+                     <interp inst="t17650918-18-person192" type="gender" value="male"></interp>
+                  </persName>
+            . I live at one Mr. Scafe's in <placeName id="t17650918-18-crimeloc103">Baldwin's Gardens</placeName>
+                  <interp inst="t17650918-18-crimeloc103" type="placeName" value="Baldwin's Gardens"></interp>
+                  <interp inst="t17650918-18-crimeloc103" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17650918-18-off101 t17650918-18-crimeloc103"></join>. On the 24th of July, my master and mistress were at dinner; I heard somebody in the entry; I went to see, and saw the prisoner going out at the door; I followed her, and turn'd up her cloak, and said, What do you do here? I saw the knee of my drawers; then I brought her back, and she throw'd the things mentioned down into the entry, my property. (Produced in court).</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was almost starved; I had not had a bit of victuals all that day; I am but between twelve and thirteen years of age; I have a poor mother, but she can do nothing for me.</p>
+               <p>
+                  <rs id="t17650918-18-verdict104" type="verdictDescription">
+                     <interp inst="t17650918-18-verdict104" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17650918-18-verdict104" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs> 
+                  <rs id="t17650918-18-punish105" type="punishmentDescription">
+                     <interp inst="t17650918-18-punish105" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17650918-18-punish105" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650918-18-defend189 t17650918-18-punish105"></join>
+               W
+            </rs>.</p>
+            </div1>

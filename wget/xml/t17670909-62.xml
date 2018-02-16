@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670909-62">
+               <interp inst="t17670909-62" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670909-62" type="year" value="1767"></interp>
+               <interp inst="t17670909-62" type="uri" value="sessionsPapers/17670909"></interp>
+               <interp inst="t17670909-62" type="date" value="17670909"></interp>
+               <join result="criminalCharge" id="t17670909-62-off363-c548" targOrder="Y" targets="t17670909-62-defend680 t17670909-62-off363 t17670909-62-verdict366"></join>
+         
+               <p>484. (M.) 
+               
+                  <persName id="t17670909-62-defend680" type="defendantName">
+                     Benjamin 
+                     Owen 
+                  <interp inst="t17670909-62-defend680" type="surname" value="Owen"></interp>
+                     <interp inst="t17670909-62-defend680" type="given" value="Benjamin"></interp>
+                     <interp inst="t17670909-62-defend680" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670909-62-off363" type="offenceDescription">
+                     <interp inst="t17670909-62-off363" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670909-62-off363" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing two fowls, value 3 s. 6 d and six pounds weight of iron, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17670909-62-victim682" type="victimName">
+                     William 
+                     How 
+                  <interp inst="t17670909-62-victim682" type="surname" value="How"></interp>
+                     <interp inst="t17670909-62-victim682" type="given" value="William"></interp>
+                     <interp inst="t17670909-62-victim682" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670909-62-off363 t17670909-62-victim682"></join>
+                  </persName>
+                
+            , <rs id="t17670909-62-cd364" type="crimeDate">July 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670909-62-off363 t17670909-62-cd364"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17670909-62-person683">
+                  William 
+                  How 
+               <interp inst="t17670909-62-person683" type="surname" value="How"></interp>
+                     <interp inst="t17670909-62-person683" type="given" value="William"></interp>
+                     <interp inst="t17670909-62-person683" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the <placeName id="t17670909-62-crimeloc365">parish of Kingsbury, near Edgware</placeName>
+                  <interp inst="t17670909-62-crimeloc365" type="placeName" value="parish of Kingsbury, near Edgware"></interp>
+                  <interp inst="t17670909-62-crimeloc365" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670909-62-off363 t17670909-62-crimeloc365"></join>; I missed two fowls on the 20th of July; the prisoner had made hay for me two or three years, but this year he made hay for a neighbour; I was at St. James's market when Mr. Sweetman brought the things to me, I knew them to be my property; then I went to Mr. Welch's, there I saw the prisoner; he acknowledged he had them from my house.</p>
+               <p>
+            
+                  <persName id="t17670909-62-person684">
+                  John 
+                  Sweetman 
+               <interp inst="t17670909-62-person684" type="surname" value="Sweetman"></interp>
+                     <interp inst="t17670909-62-person684" type="given" value="John"></interp>
+                     <interp inst="t17670909-62-person684" type="gender" value="male"></interp>
+                  </persName>
+            . I stopt the prisoner between one and two o'clock, just behind Mr. Whitefield's chapel in Tottenham-court road, about the 20th of July; he had two sacks, two fowls, and some iron twiripins; the next day I carried the things to St. James's market, and found the prosecutor out by the mark of the sack (the iron produced and deposed to.)</p>
+               <p>Prisoner's defence.</p>
+               <p>Coming by that gentleman's house, I found a bag, and all the things in it, on the road; I took it up, and carried it; I thought some cart had dropt it; I met the constable near Mr. Whitefield's chapel; I did not offer to run away, I am sure I could, for they were all three as drunk as they could stand.</p>
+               <p>
+                  <rs id="t17670909-62-verdict366" type="verdictDescription">
+                     <interp inst="t17670909-62-verdict366" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670909-62-verdict366" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>. <rs id="t17670909-62-punish367" type="punishmentDescription">
+                     <interp inst="t17670909-62-punish367" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670909-62-defend680 t17670909-62-punish367"></join>
+               Died before sentence past
+            </rs>.</p>
+            </div1>

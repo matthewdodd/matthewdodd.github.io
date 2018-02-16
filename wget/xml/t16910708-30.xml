@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910708-30">
+               <interp inst="t16910708-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910708-30" type="year" value="1691"></interp>
+               <interp inst="t16910708-30" type="uri" value="sessionsPapers/16910708"></interp>
+               <interp inst="t16910708-30" type="date" value="16910708"></interp>
+               <join result="criminalCharge" id="t16910708-30-off128-c76" targOrder="Y" targets="t16910708-30-defend76 t16910708-30-off128 t16910708-30-verdict130"></join>
+         
+               <p>
+            
+                  <persName id="t16910708-30-defend76" type="defendantName">
+                  Millicent 
+                  Hummerson
+               <interp inst="t16910708-30-defend76" type="surname" value="Hummerson"></interp>
+                     <interp inst="t16910708-30-defend76" type="given" value="Millicent"></interp>
+                     <interp inst="t16910708-30-defend76" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910708-30-off128" type="offenceDescription">
+                     <interp inst="t16910708-30-off128" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910708-30-off128" type="offenceSubcategory" value="other"></interp>
+               Robbing one 
+                     <persName id="t16910708-30-victim77" type="victimName">
+                        Rebekah 
+                        Twyger
+                     <interp inst="t16910708-30-victim77" type="surname" value="Twyger"></interp>
+                        <interp inst="t16910708-30-victim77" type="given" value="Rebekah"></interp>
+                        <interp inst="t16910708-30-victim77" type="gender" value="female"></interp>
+                     </persName>
+                   and one 
+                     <persName id="t16910708-30-victim78" type="victimName">
+                        Mary 
+                        Meriddee
+                     <interp inst="t16910708-30-victim78" type="surname" value="Meriddee"></interp>
+                        <interp inst="t16910708-30-victim78" type="given" value="Mary"></interp>
+                        <interp inst="t16910708-30-victim78" type="gender" value="female"></interp>
+                     </persName>
+                  , of a Stuff Gown, and some Scarves and Hoods
+            </rs>, and Laces, on the <rs id="t16910708-30-cd129" type="crimeDate">8th of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910708-30-off128 t16910708-30-cd129"></join> last. She was met upon the Stayrs with the Goods in her Apron, which she denyed; yet the Matter being plain, she was found <rs id="t16910708-30-verdict130" type="verdictDescription">
+                     <interp inst="t16910708-30-verdict130" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910708-30-verdict130" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16910708-30-punish131" type="punishmentDescription">
+                     <interp inst="t16910708-30-punish131" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16910708-30-punish131" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910708-30-defend76 t16910708-30-punish131"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

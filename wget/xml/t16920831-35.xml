@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-35">
+               <interp inst="t16920831-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-35" type="year" value="1692"></interp>
+               <interp inst="t16920831-35" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-35" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-35-off152-c109" targOrder="Y" targets="t16920831-35-defend109 t16920831-35-off152 t16920831-35-verdict154"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-35-defend109" type="defendantName">
+                  Katharine 
+                  Morris
+               <interp inst="t16920831-35-defend109" type="surname" value="Morris"></interp>
+                     <interp inst="t16920831-35-defend109" type="given" value="Katharine"></interp>
+                     <interp inst="t16920831-35-defend109" type="gender" value="female"></interp>
+                  </persName>
+             was Tryed, for that she <rs id="t16920831-35-off152" type="offenceDescription">
+                     <interp inst="t16920831-35-off152" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-35-off152" type="offenceSubcategory" value="grandLarceny"></interp>
+               together with 
+                     <persName id="t16920831-35-person110">
+                        Susan 
+                        Morris, alias Knight
+                     <interp inst="t16920831-35-person110" type="surname" value="Morris, alias Knight"></interp>
+                        <interp inst="t16920831-35-person110" type="given" value="Susan"></interp>
+                        <interp inst="t16920831-35-person110" type="gender" value="female"></interp>
+                     </persName>
+                  , not taken, did Steal (on the <rs id="t16920831-35-cd153" type="crimeDate">16th of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16920831-35-off152 t16920831-35-cd153"></join>) Twelve dozen of Child-bed Linnen, value 12 s. Four Hoods, value 16 s. a Silk Scarf, and divers other things
+            </rs> which were found in the Prisoners House of Office, some of them and others found in her Trunk, which was fully proved: So she was found <rs id="t16920831-35-verdict154" type="verdictDescription">
+                     <interp inst="t16920831-35-verdict154" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16920831-35-punish155" type="punishmentDescription">
+                     <interp inst="t16920831-35-punish155" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16920831-35-punish155" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-35-defend109 t16920831-35-punish155"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

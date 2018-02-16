@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-77">
+               <interp inst="t16890516-77" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-77" type="year" value="1689"></interp>
+               <interp inst="t16890516-77" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-77" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-77-off341-c211" targOrder="Y" targets="t16890516-77-defend344 t16890516-77-off341 t16890516-77-verdict343"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-77-defend344" type="defendantName">
+                     Jonas 
+                     Ratcliffe
+                  <interp inst="t16890516-77-defend344" type="surname" value="Ratcliffe"></interp>
+                     <interp inst="t16890516-77-defend344" type="given" value="Jonas"></interp>
+                     <interp inst="t16890516-77-defend344" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Tryed for <rs id="t16890516-77-off341" type="offenceDescription">
+                     <interp inst="t16890516-77-off341" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-77-off341" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard on the <rs id="t16890516-77-cd342" type="crimeDate">3d of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-77-off341 t16890516-77-cd342"></join> last, value 8 l.
+            </rs> from 
+               
+                  <persName id="t16890516-77-victim346" type="victimName">
+                     Eliza 
+                     Eaton
+                  <interp inst="t16890516-77-victim346" type="surname" value="Eaton"></interp>
+                     <interp inst="t16890516-77-victim346" type="given" value="Eliza"></interp>
+                     <interp inst="t16890516-77-victim346" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16890516-77-off341 t16890516-77-victim346"></join>
+                  </persName>
+               
+            , who said, That the Prisoner confest it before the Justice, which was proved by credible Evidence, and that he pawn'd it in Hounds Ditch. The Prisoner denied it upon the Tryal, and said it was given him by a Soldier, but could not prove it. So he was found <rs id="t16890516-77-verdict343" type="verdictDescription">
+                     <interp inst="t16890516-77-verdict343" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16890516-77-punish344" type="punishmentDescription">
+                     <interp inst="t16890516-77-punish344" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16890516-77-punish344" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-77-defend344 t16890516-77-punish344"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

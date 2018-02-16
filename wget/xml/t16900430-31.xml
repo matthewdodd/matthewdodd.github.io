@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-31">
+               <interp inst="t16900430-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-31" type="year" value="1690"></interp>
+               <interp inst="t16900430-31" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-31" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-31-off141-c133" targOrder="Y" targets="t16900430-31-defend183 t16900430-31-off141 t16900430-31-verdict143"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900430-31-defend183" type="defendantName">
+                     Stephen 
+                     Midleton
+                  <interp inst="t16900430-31-defend183" type="surname" value="Midleton"></interp>
+                     <interp inst="t16900430-31-defend183" type="given" value="Stephen"></interp>
+                     <interp inst="t16900430-31-defend183" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16900430-31-off141" type="offenceDescription">
+                     <interp inst="t16900430-31-off141" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900430-31-off141" type="offenceSubcategory" value="other"></interp>
+               stealing a Silver Tankard from one 
+                     <persName id="t16900430-31-victim184" type="victimName">
+                        Acton
+                     <interp inst="t16900430-31-victim184" type="surname" value="Acton"></interp>
+                        <interp inst="t16900430-31-victim184" type="gender" value="indeterminate"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900430-31-off141 t16900430-31-victim184"></join>
+                     </persName>
+                  
+               
+                  </rs>, on the <rs id="t16900430-31-cd142" type="crimeDate">6th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900430-31-off141 t16900430-31-cd142"></join> last. It appeared, that the Prisoner came to the House in the Name of Davis, and calling for Drink, whilst the family was above stairs, he slipt the Tankard away. The Evidence swore flatly, that he was the Person, and altho' the Person deny'd it, yet the Evidence was sufficient enough to find him <rs id="t16900430-31-verdict143" type="verdictDescription">
+                     <interp inst="t16900430-31-verdict143" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16900430-31-punish144" type="punishmentDescription">
+                     <interp inst="t16900430-31-punish144" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900430-31-punish144" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900430-31-defend183 t16900430-31-punish144"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

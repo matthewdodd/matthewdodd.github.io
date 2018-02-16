@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550409-41">
+               <interp inst="t17550409-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550409-41" type="year" value="1755"></interp>
+               <interp inst="t17550409-41" type="uri" value="sessionsPapers/17550409"></interp>
+               <interp inst="t17550409-41" type="date" value="17550409"></interp>
+               <join result="criminalCharge" id="t17550409-41-off226-c335" targOrder="Y" targets="t17550409-41-defend405 t17550409-41-off226 t17550409-41-verdict227"></join>
+               <join result="criminalCharge" id="t17550409-41-off226-c336" targOrder="Y" targets="t17550409-41-defend407 t17550409-41-off226 t17550409-41-verdict227"></join>
+               <join result="criminalCharge" id="t17550409-41-off228-c335" targOrder="Y" targets="t17550409-41-defend405 t17550409-41-off228 t17550409-41-verdict227"></join>
+               <join result="criminalCharge" id="t17550409-41-off228-c336" targOrder="Y" targets="t17550409-41-defend407 t17550409-41-off228 t17550409-41-verdict227"></join>
+         
+               <p>202, 203. (M.) 
+               
+                  <persName id="t17550409-41-defend405" type="defendantName">
+                     Eleanor 
+                     Riland 
+                  <interp inst="t17550409-41-defend405" type="surname" value="Riland"></interp>
+                     <interp inst="t17550409-41-defend405" type="given" value="Eleanor"></interp>
+                     <interp inst="t17550409-41-defend405" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17550409-41-deflabel224" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550409-41-defend405 t17550409-41-deflabel224"></join>, and 
+               
+                  <persName id="t17550409-41-defend407" type="defendantName">
+                     Mary 
+                     Summers 
+                  <interp inst="t17550409-41-defend407" type="surname" value="Summers"></interp>
+                     <interp inst="t17550409-41-defend407" type="given" value="Mary"></interp>
+                     <interp inst="t17550409-41-defend407" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17550409-41-deflabel225" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550409-41-defend407 t17550409-41-deflabel225"></join>, were indicted for <rs id="t17550409-41-off226" type="offenceDescription">
+                     <interp inst="t17550409-41-off226" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550409-41-off226" type="offenceSubcategory" value="other"></interp>
+               stealing one copper tea kettle, two brass candlesticks, one pair of buckskin breeches, with silver buttons, one man's hat, one linen apron, two muslin neck-cloths, one silk gown, one cloth coat, one cloth waistcoat
+            </rs>, the goods of 
+               <persName id="t17550409-41-victim408" type="victimName">
+                  Maddan 
+                  Layman 
+               <interp inst="t17550409-41-victim408" type="surname" value="Layman"></interp>
+                     <interp inst="t17550409-41-victim408" type="given" value="Maddan"></interp>
+                     <interp inst="t17550409-41-victim408" type="gender" value="male"></interp>
+                  </persName>
+             .</p>
+
+               <p>++ Both <rs id="t17550409-41-verdict227" type="verdictDescription">
+                     <interp inst="t17550409-41-verdict227" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175504090039"></xptr>They were a second time indicted for <rs id="t17550409-41-off228" type="offenceDescription">
+                     <interp inst="t17550409-41-off228" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550409-41-off228" type="offenceSubcategory" value="other"></interp>
+               stealing one green stuff curtain, one bed-quilt, one blanket, and two sheets
+            </rs>, the goods of 
+               
+                  <persName id="t17550409-41-victim410" type="victimName">
+                     Elisabeth 
+                     Crew 
+                  <interp inst="t17550409-41-victim410" type="surname" value="Crew"></interp>
+                     <interp inst="t17550409-41-victim410" type="given" value="Elisabeth"></interp>
+                     <interp inst="t17550409-41-victim410" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17550409-41-off226 t17550409-41-victim410"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t17550409-41-off228 t17550409-41-victim410"></join>
+                  </persName>
+                
+            , <rs id="t17550409-41-viclabel229" type="occupation">widow</rs>, <rs id="t17550409-41-cd230" type="crimeDate">March 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550409-41-off226 t17550409-41-cd230"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550409-41-off228 t17550409-41-cd230"></join>.</p>
+               <p>++ Both <rs id="t17550409-41-verdict231" type="verdictDescription">
+                     <interp inst="t17550409-41-verdict231" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

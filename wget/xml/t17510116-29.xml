@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510116-29">
+               <interp inst="t17510116-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510116-29" type="year" value="1751"></interp>
+               <interp inst="t17510116-29" type="uri" value="sessionsPapers/17510116"></interp>
+               <interp inst="t17510116-29" type="date" value="17510116"></interp>
+               <join result="criminalCharge" id="t17510116-29-off138-c207" targOrder="Y" targets="t17510116-29-defend264 t17510116-29-off138 t17510116-29-verdict140"></join>
+         
+               <p>128. (M.) 
+               <persName id="t17510116-29-defend264" type="defendantName">
+                  Mary, wife of Albertus Porter<interp inst="t17510116-29-defend264" type="given" value="Mary"></interp>
+                     <interp inst="t17510116-29-defend264" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17510116-29-off138" type="offenceDescription">
+                     <interp inst="t17510116-29-off138" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510116-29-off138" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five yards of linen cloth,<xptr type="pageFacsimile" doc="175101160014"></xptr> value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17510116-29-victim266" type="victimName">
+                     Richard 
+                     Parham 
+                  <interp inst="t17510116-29-victim266" type="surname" value="Parham"></interp>
+                     <interp inst="t17510116-29-victim266" type="given" value="Richard"></interp>
+                     <interp inst="t17510116-29-victim266" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510116-29-off138 t17510116-29-victim266"></join>
+                  </persName>
+                
+            , <rs id="t17510116-29-cd139" type="crimeDate">Dec. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510116-29-off138 t17510116-29-cd139"></join>. ||.</p>
+               <p>
+                  <rs id="t17510116-29-verdict140" type="verdictDescription">
+                     <interp inst="t17510116-29-verdict140" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17510116-29-verdict140" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17510116-29-punish141" type="punishmentDescription">
+                     <interp inst="t17510116-29-punish141" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17510116-29-punish141" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510116-29-defend264 t17510116-29-punish141"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

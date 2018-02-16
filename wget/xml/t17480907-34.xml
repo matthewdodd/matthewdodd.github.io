@@ -1,3 +1,114 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480907-34">
+               <interp inst="t17480907-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480907-34" type="year" value="1748"></interp>
+               <interp inst="t17480907-34" type="uri" value="sessionsPapers/17480907"></interp>
+               <interp inst="t17480907-34" type="date" value="17480907"></interp>
+               <join result="criminalCharge" id="t17480907-34-off173-c210" targOrder="Y" targets="t17480907-34-defend283 t17480907-34-off173 t17480907-34-verdict177"></join>
+         
+               <p>422 + 
+               <persName id="t17480907-34-defend283" type="defendantName">
+                  John 
+                  Armson 
+               <interp inst="t17480907-34-defend283" type="surname" value="Armson"></interp>
+                     <interp inst="t17480907-34-defend283" type="given" value="John"></interp>
+                     <interp inst="t17480907-34-defend283" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17480907-34-defloc172">Kensington</placeName>
+                  <interp inst="t17480907-34-defloc172" type="placeName" value="Kensington"></interp>
+                  <interp inst="t17480907-34-defloc172" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17480907-34-defend283 t17480907-34-defloc172"></join>, was indicted for <rs id="t17480907-34-off173" type="offenceDescription">
+                     <interp inst="t17480907-34-off173" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480907-34-off173" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 12 pounds in money, the property of 
+                     
+                        <persName id="t17480907-34-victim285" type="victimName">
+                           Edmund 
+                           Wood 
+                        <interp inst="t17480907-34-victim285" type="surname" value="Wood"></interp>
+                        <interp inst="t17480907-34-victim285" type="given" value="Edmund"></interp>
+                        <interp inst="t17480907-34-victim285" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17480907-34-off173 t17480907-34-victim285"></join>
+                     </persName>
+                      
+                  , in his dwelling-house
+            </rs>, <rs id="t17480907-34-cd174" type="crimeDate">July 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480907-34-off173 t17480907-34-cd174"></join>.</p>
+               <p>
+            
+                  <persName id="t17480907-34-person286">
+                  Edmund 
+                  Wood 
+               <interp inst="t17480907-34-person286" type="surname" value="Wood"></interp>
+                     <interp inst="t17480907-34-person286" type="given" value="Edmund"></interp>
+                     <interp inst="t17480907-34-person286" type="gender" value="male"></interp>
+                  </persName>
+             . I <rs id="t17480907-34-viclabel175" type="occupation">keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17480907-34-victim285 t17480907-34-viclabel175"></join> at <placeName id="t17480907-34-crimeloc176">Kensington</placeName>
+                  <interp inst="t17480907-34-crimeloc176" type="placeName" value="Kensington"></interp>
+                  <interp inst="t17480907-34-crimeloc176" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17480907-34-off173 t17480907-34-crimeloc176"></join> , and lost 12 pounds, in money, out of my drawers .</p>
+               <p>Q. How long ago?</p>
+               <p>Wood. Five weeks last Friday.</p>
+               <p>Q. Were the drawers lock'd?</p>
+               <p>Wood. Yes.</p>
+               <p>Q. When did you miss it?</p>
+               <p>Wood. My wife missed it on the Saturday.</p>
+               <p>
+            
+                  <persName id="t17480907-34-person287">
+                  Jane 
+                  Wood 
+               <interp inst="t17480907-34-person287" type="surname" value="Wood"></interp>
+                     <interp inst="t17480907-34-person287" type="given" value="Jane"></interp>
+                     <interp inst="t17480907-34-person287" type="gender" value="female"></interp>
+                  </persName>
+             . I missed this money on the Saturday-morning, about 10 o'clock.</p>
+               <p>Q. Were the drawers lock'd?</p>
+
+               <p>Wood. They were all lock'd.</p>
+               <p>Q. How did he get it out, then?</p>
+               <p>Wood. I can't tell.</p>
+               <p>
+            
+                  <persName id="t17480907-34-person288">
+                  Tho.
+                   Lambert Constable
+               <interp inst="t17480907-34-person288" type="surname" value="Lambert Constable"></interp>
+                     <interp inst="t17480907-34-person288" type="given" value="Tho."></interp>
+                     <interp inst="t17480907-34-person288" type="gender" value="male"></interp>
+                  </persName>
+             . The prisoner was taken up on the Saturday after the money was lost, and he told me where he had hid part of the money.</p>
+               <p>Q. Where did he say he hid it?</p>
+               <p>Lambert. In a place called Love lane near Kensington , and I went with him with a candle and lantern, and he could not find it then, it was so dark; and we went the next day, and saw the mo ney as plain as if it stood upright.</p>
+               <p>Q. How much was there?</p>
+               <p>Lambert. There was 9 l. 10 s. all in silver.</p>
+               <p>Q. Did he confess only that, or that he took more?</p>
+               <p>Lambert. I can't say.</p>
+               <p>Q. Where did he say he took it from?</p>
+               <p>Lambert. He said he took it out of the drawers in Mr. Wood's room.</p>
+               <p>Q. How did he get it out?</p>
+               <p>Lambert. As to this particular, I did not ask him .</p>
+               <p>Q. to Wood . What money was it you lost?</p>
+               <p>Wood. Almost all queen Anne's money, in silver.</p>
+               <p>Mr. Evans, I was sent to the prisoner, in order to get him to confess; and he told me he entered the house of Mr. 
+               <persName id="t17480907-34-person289">
+                  Edmund 
+                  Wood 
+               <interp inst="t17480907-34-person289" type="surname" value="Wood"></interp>
+                     <interp inst="t17480907-34-person289" type="given" value="Edmund"></interp>
+                     <interp inst="t17480907-34-person289" type="gender" value="male"></interp>
+                  </persName>
+            , and got in at the window of Mr. Wood's bed-chamber; and he said he took a bag out of the house , and put the money in, and hid it in Love-lane by Kensington. I was at the taking him, and he told me he got in at the window.</p>
+               <p>Q. Did he say how he opened the drawers?</p>
+               <p>Evans. He said it was a drawer with a spring: and after he had opened it, he clapped it too again, and that was the reason it was found fast as it was left.</p>
+               <p>
+                  <rs id="t17480907-34-verdict177" type="verdictDescription">
+                     <interp inst="t17480907-34-verdict177" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17480907-34-punish178" type="punishmentDescription">
+                     <interp inst="t17480907-34-punish178" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17480907-34-defend283 t17480907-34-punish178"></join>
+               Death
+            </rs>.</p>
+            </div1>

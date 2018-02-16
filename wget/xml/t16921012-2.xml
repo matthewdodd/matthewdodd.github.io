@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921012-2">
+               <interp inst="t16921012-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921012-2" type="year" value="1692"></interp>
+               <interp inst="t16921012-2" type="uri" value="sessionsPapers/16921012"></interp>
+               <interp inst="t16921012-2" type="date" value="16921012"></interp>
+               <join result="criminalCharge" id="t16921012-2-off5-c28" targOrder="Y" targets="t16921012-2-defend28 t16921012-2-off5 t16921012-2-verdict8"></join>
+         
+               <p>
+            
+                  <persName id="t16921012-2-defend28" type="defendantName">
+                  Elizabeth 
+                  Askue
+               <interp inst="t16921012-2-defend28" type="surname" value="Askue"></interp>
+                     <interp inst="t16921012-2-defend28" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16921012-2-defend28" type="gender" value="female"></interp>
+                  </persName>
+             was Tryed for <rs id="t16921012-2-off5" type="offenceDescription">
+                     <interp inst="t16921012-2-off5" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921012-2-off5" type="offenceSubcategory" value="shoplifting"></interp>
+               Stealing 26 Ells of A-la-mode Silk, value 4 l. 15 s. the <rs id="t16921012-2-cd6" type="crimeDate">Third of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16921012-2-off5 t16921012-2-cd6"></join> last, from one 
+                     <persName id="t16921012-2-victim29" type="victimName">
+                        Thomas 
+                        Goodwin
+                     <interp inst="t16921012-2-victim29" type="surname" value="Goodwin"></interp>
+                        <interp inst="t16921012-2-victim29" type="given" value="Thomas"></interp>
+                        <interp inst="t16921012-2-victim29" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16921012-2-off5 t16921012-2-victim29"></join>
+                     </persName>
+                  ; The Prisoner came to Mr. Goodwin's Shop, in <placeName id="t16921012-2-crimeloc7">Aldersgate street</placeName>
+                     <interp inst="t16921012-2-crimeloc7" type="placeName" value="Aldersgate street"></interp>
+                     <interp inst="t16921012-2-crimeloc7" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16921012-2-off5 t16921012-2-crimeloc7"></join>, to cheapon some Silks, and by sleight of Hand she pincht away a piece of Silk
+            </rs>, which was found under her Coats before she got away with it, and she had no Mony about her to pay for any Silk, which was very Suspicious; she denied the Matter, but had no Evidence on her behalf: So she was found <rs id="t16921012-2-verdict8" type="verdictDescription">
+                     <interp inst="t16921012-2-verdict8" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16921012-2-punish9" type="punishmentDescription">
+                     <interp inst="t16921012-2-punish9" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16921012-2-punish9" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921012-2-defend28 t16921012-2-punish9"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

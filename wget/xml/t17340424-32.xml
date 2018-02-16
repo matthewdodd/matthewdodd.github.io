@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340424-32">
+               <interp inst="t17340424-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340424-32" type="year" value="1734"></interp>
+               <interp inst="t17340424-32" type="uri" value="sessionsPapers/17340424"></interp>
+               <interp inst="t17340424-32" type="date" value="17340424"></interp>
+               <join result="criminalCharge" id="t17340424-32-off143-c174" targOrder="Y" targets="t17340424-32-defend239 t17340424-32-off143 t17340424-32-verdict145"></join>
+         
+               <p>35. 
+               
+                  <persName id="t17340424-32-defend239" type="defendantName">
+                     Nathaniel 
+                     Taylor 
+                  <interp inst="t17340424-32-defend239" type="surname" value="Taylor"></interp>
+                     <interp inst="t17340424-32-defend239" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17340424-32-defend239" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340424-32-off143" type="offenceDescription">
+                     <interp inst="t17340424-32-off143" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340424-32-off143" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 2 Coats, a Wastcoat, and other Goods, val. 34 s. the Goods of 
+                     
+                        <persName id="t17340424-32-victim241" type="victimName">
+                           John 
+                           Cooper 
+                        <interp inst="t17340424-32-victim241" type="surname" value="Cooper"></interp>
+                        <interp inst="t17340424-32-victim241" type="given" value="John"></interp>
+                        <interp inst="t17340424-32-victim241" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340424-32-off143 t17340424-32-victim241"></join>
+                     </persName>
+                      
+                  , in the Stables of 
+                     <persName id="t17340424-32-person242">
+                        Joseph 
+                        Brent 
+                     <interp inst="t17340424-32-person242" type="surname" value="Brent"></interp>
+                        <interp inst="t17340424-32-person242" type="given" value="Joseph"></interp>
+                        <interp inst="t17340424-32-person242" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, Esq; <rs id="t17340424-32-cd144" type="crimeDate">March 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340424-32-off143 t17340424-32-cd144"></join>. <rs id="t17340424-32-verdict145" type="verdictDescription">
+                     <interp inst="t17340424-32-verdict145" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17340424-32-verdict145" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty, 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17340424-32-punish146" type="punishmentDescription">
+                     <interp inst="t17340424-32-punish146" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340424-32-defend239 t17340424-32-punish146"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

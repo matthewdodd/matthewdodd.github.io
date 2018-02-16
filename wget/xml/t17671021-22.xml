@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17671021-22">
+               <interp inst="t17671021-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17671021-22" type="year" value="1767"></interp>
+               <interp inst="t17671021-22" type="uri" value="sessionsPapers/17671021"></interp>
+               <interp inst="t17671021-22" type="date" value="17671021"></interp>
+               <join result="criminalCharge" id="t17671021-22-off116-c179" targOrder="Y" targets="t17671021-22-defend229 t17671021-22-off116 t17671021-22-verdict118"></join>
+         
+               <p>543. (M.) 
+               
+                  <persName id="t17671021-22-defend229" type="defendantName">
+                     John 
+                     Philips 
+                  <interp inst="t17671021-22-defend229" type="surname" value="Philips"></interp>
+                     <interp inst="t17671021-22-defend229" type="given" value="John"></interp>
+                     <interp inst="t17671021-22-defend229" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17671021-22-off116" type="offenceDescription">
+                     <interp inst="t17671021-22-off116" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-22-off116" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing an inch-deal board, value 10 d. fourteen inch and a half deal boards, value 7 s. two bushels of live hair, four hods of lime and mortar, and a bundle of laths
+            </rs>, the property of 
+               
+                  <persName id="t17671021-22-victim231" type="victimName">
+                     Benjamin 
+                     Wood 
+                  <interp inst="t17671021-22-victim231" type="surname" value="Wood"></interp>
+                     <interp inst="t17671021-22-victim231" type="given" value="Benjamin"></interp>
+                     <interp inst="t17671021-22-victim231" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17671021-22-off116 t17671021-22-victim231"></join>
+                  </persName>
+                
+            , <rs id="t17671021-22-cd117" type="crimeDate">October 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-22-off116 t17671021-22-cd117"></join>. ++</p>
+               <p>
+                  <rs id="t17671021-22-verdict118" type="verdictDescription">
+                     <interp inst="t17671021-22-verdict118" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

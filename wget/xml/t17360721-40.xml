@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360721-40">
+               <interp inst="t17360721-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360721-40" type="year" value="1736"></interp>
+               <interp inst="t17360721-40" type="uri" value="sessionsPapers/17360721"></interp>
+               <interp inst="t17360721-40" type="date" value="17360721"></interp>
+               <join result="criminalCharge" id="t17360721-40-off181-c214" targOrder="Y" targets="t17360721-40-defend316 t17360721-40-off181 t17360721-40-verdict183"></join>
+         
+               <p>45. 
+               
+                  <persName id="t17360721-40-defend316" type="defendantName">
+                     Sarah 
+                     Hog 
+                  <interp inst="t17360721-40-defend316" type="surname" value="Hog"></interp>
+                     <interp inst="t17360721-40-defend316" type="given" value="Sarah"></interp>
+                     <interp inst="t17360721-40-defend316" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360721-40-off181" type="offenceDescription">
+                     <interp inst="t17360721-40-off181" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360721-40-off181" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 9 s.
+            </rs> the Money of 
+               
+                  <persName id="t17360721-40-victim318" type="victimName">
+                     Richard 
+                     Crippen 
+                  <interp inst="t17360721-40-victim318" type="surname" value="Crippen"></interp>
+                     <interp inst="t17360721-40-victim318" type="given" value="Richard"></interp>
+                     <interp inst="t17360721-40-victim318" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360721-40-off181 t17360721-40-victim318"></join>
+                  </persName>
+                
+            , <rs id="t17360721-40-cd182" type="crimeDate">June 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360721-40-off181 t17360721-40-cd182"></join>. <rs id="t17360721-40-verdict183" type="verdictDescription">
+                     <interp inst="t17360721-40-verdict183" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

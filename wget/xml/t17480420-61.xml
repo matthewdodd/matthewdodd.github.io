@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480420-61">
+               <interp inst="t17480420-61" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480420-61" type="year" value="1748"></interp>
+               <interp inst="t17480420-61" type="uri" value="sessionsPapers/17480420"></interp>
+               <interp inst="t17480420-61" type="date" value="17480420"></interp>
+               <join result="criminalCharge" id="t17480420-61-off324-c399" targOrder="Y" targets="t17480420-61-defend524 t17480420-61-off324 t17480420-61-verdict326"></join>
+         
+               <p>249. 
+               <persName id="t17480420-61-defend524" type="defendantName">
+                  John 
+                  Brown 
+               <interp inst="t17480420-61-defend524" type="surname" value="Brown"></interp>
+                     <interp inst="t17480420-61-defend524" type="given" value="John"></interp>
+                     <interp inst="t17480420-61-defend524" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17480420-61-off324" type="offenceDescription">
+                     <interp inst="t17480420-61-off324" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480420-61-off324" type="offenceSubcategory" value="other"></interp>
+               stealing a shirt, a waistcoat, a hat, a pair of stockings, and a woollen cap
+            </rs>, the property of 
+               
+                  <persName id="t17480420-61-victim526" type="victimName">
+                     John 
+                     Virgo 
+                  <interp inst="t17480420-61-victim526" type="surname" value="Virgo"></interp>
+                     <interp inst="t17480420-61-victim526" type="given" value="John"></interp>
+                     <interp inst="t17480420-61-victim526" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480420-61-off324 t17480420-61-victim526"></join>
+                  </persName>
+                
+            , <rs id="t17480420-61-cd325" type="crimeDate">Feb. 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480420-61-off324 t17480420-61-cd325"></join>.</p>
+               <p>
+                  <rs id="t17480420-61-verdict326" type="verdictDescription">
+                     <interp inst="t17480420-61-verdict326" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17480420-61-verdict326" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17480420-61-punish327" type="punishmentDescription">
+                     <interp inst="t17480420-61-punish327" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17480420-61-punish327" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17480420-61-defend524 t17480420-61-punish327"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

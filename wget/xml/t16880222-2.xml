@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880222-2">
+               <interp inst="t16880222-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880222-2" type="year" value="1688"></interp>
+               <interp inst="t16880222-2" type="uri" value="sessionsPapers/16880222"></interp>
+               <interp inst="t16880222-2" type="date" value="16880222"></interp>
+               <join result="criminalCharge" id="t16880222-2-off7-c18" targOrder="Y" targets="t16880222-2-defend21 t16880222-2-off7 t16880222-2-verdict11"></join>
+               <join result="criminalCharge" id="t16880222-2-off7-c19" targOrder="Y" targets="t16880222-2-defend23 t16880222-2-off7 t16880222-2-verdict10"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880222-2-defend21" type="defendantName">
+                     Thomas 
+                     Smalley
+                  <interp inst="t16880222-2-defend21" type="surname" value="Smalley"></interp>
+                     <interp inst="t16880222-2-defend21" type="given" value="Thomas"></interp>
+                     <interp inst="t16880222-2-defend21" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16880222-2-defend23" type="defendantName">
+                     Daniel 
+                     Wheatly
+                  <interp inst="t16880222-2-defend23" type="surname" value="Wheatly"></interp>
+                     <interp inst="t16880222-2-defend23" type="given" value="Daniel"></interp>
+                     <interp inst="t16880222-2-defend23" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16880222-2-defloc6">Christ Church</placeName>
+                  <interp inst="t16880222-2-defloc6" type="placeName" value="Christ Church"></interp>
+                  <interp inst="t16880222-2-defloc6" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-2-defend21 t16880222-2-defloc6"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880222-2-defend23 t16880222-2-defloc6"></join>, were Indicted for <rs id="t16880222-2-off7" type="offenceDescription">
+                     <interp inst="t16880222-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880222-2-off7" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing on the <rs id="t16880222-2-cd8" type="crimeDate">16th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880222-2-off7 t16880222-2-cd8"></join> last, from 
+                     
+                        <persName id="t16880222-2-victim25" type="victimName">
+                           James 
+                           Hayes
+                        <interp inst="t16880222-2-victim25" type="surname" value="Hayes"></interp>
+                        <interp inst="t16880222-2-victim25" type="given" value="James"></interp>
+                        <interp inst="t16880222-2-victim25" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880222-2-off7 t16880222-2-victim25"></join>
+                     </persName>
+                     
+                  , Twenty six Spanish Leather Skins, value 4 l. Thirteen Sheeps-Leather Skins, value 10 s.
+            </rs> It appeared upon the Evidence, that the goods were stole out of a Warehouse in <placeName id="t16880222-2-crimeloc9">Southwark</placeName>
+                  <interp inst="t16880222-2-crimeloc9" type="placeName" value="Southwark"></interp>
+                  <interp inst="t16880222-2-crimeloc9" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16880222-2-off7 t16880222-2-crimeloc9"></join>, and sold in London; that Smalley profer'd them to Sale, and was Apprehended, not being able to give any Account how he came by them. But little appearing against Wheatly, he was <rs id="t16880222-2-verdict10" type="verdictDescription">
+                     <interp inst="t16880222-2-verdict10" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and Smalley was brought in <rs id="t16880222-2-verdict11" type="verdictDescription">
+                     <interp inst="t16880222-2-verdict11" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16880222-2-punish12" type="punishmentDescription">
+                     <interp inst="t16880222-2-punish12" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880222-2-punish12" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880222-2-defend21 t16880222-2-punish12"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-25">
+               <interp inst="t16890516-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-25" type="year" value="1689"></interp>
+               <interp inst="t16890516-25" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-25" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-25-off108-c84" targOrder="Y" targets="t16890516-25-defend125 t16890516-25-off108 t16890516-25-verdict111"></join>
+               <join result="criminalCharge" id="t16890516-25-off108-c85" targOrder="Y" targets="t16890516-25-defend127 t16890516-25-off108 t16890516-25-verdict110"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-25-defend125" type="defendantName">
+                     Peter 
+                     Mansfield
+                  <interp inst="t16890516-25-defend125" type="surname" value="Mansfield"></interp>
+                     <interp inst="t16890516-25-defend125" type="given" value="Peter"></interp>
+                     <interp inst="t16890516-25-defend125" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16890516-25-defend127" type="defendantName">
+                     John 
+                     Bruff
+                  <interp inst="t16890516-25-defend127" type="surname" value="Bruff"></interp>
+                     <interp inst="t16890516-25-defend127" type="given" value="John"></interp>
+                     <interp inst="t16890516-25-defend127" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Tryed for <rs id="t16890516-25-off108" type="offenceDescription">
+                     <interp inst="t16890516-25-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-25-off108" type="offenceSubcategory" value="other"></interp>
+               stealing 2000 l. weight of old Nets value 3 l. and 2000 l. weight of old, Ropes called old Stuff.
+            </rs> The Evidence proved it, That Mansfield had the Goods: But the <rs id="t16890516-25-deflabel109" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16890516-25-defend127 t16890516-25-deflabel109"></join> Bruff knew nothing of it, so he was <rs id="t16890516-25-verdict110" type="verdictDescription">
+                     <interp inst="t16890516-25-verdict110" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, but the other, Mansfield, was found <rs id="t16890516-25-verdict111" type="verdictDescription">
+                     <interp inst="t16890516-25-verdict111" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16890516-25-punish112" type="punishmentDescription">
+                     <interp inst="t16890516-25-punish112" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16890516-25-punish112" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-25-defend125 t16890516-25-punish112"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

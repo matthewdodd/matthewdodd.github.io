@@ -1,3 +1,169 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17450530-1">
+               <interp inst="t17450530-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17450530-1" type="year" value="1745"></interp>
+               <interp inst="t17450530-1" type="uri" value="sessionsPapers/17450530"></interp>
+               <interp inst="t17450530-1" type="date" value="17450530"></interp>
+               <join result="criminalCharge" id="t17450530-1-off2-c29" targOrder="Y" targets="t17450530-1-defend29 t17450530-1-off2 t17450530-1-verdict7"></join>
+         
+               <p>256. + 
+               <persName id="t17450530-1-defend29" type="defendantName">
+                  Edward
+                   Hill*<interp inst="t17450530-1-defend29" type="surname" value="Hill"></interp>
+                     <interp inst="t17450530-1-defend29" type="given" value="Edward"></interp>
+                     <interp inst="t17450530-1-defend29" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17450530-1-defloc1">St. Luke's</placeName>
+                  <interp inst="t17450530-1-defloc1" type="placeName" value="St. Luke's"></interp>
+                  <interp inst="t17450530-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17450530-1-defend29 t17450530-1-defloc1"></join>, was indicted for <rs id="t17450530-1-off2" type="offenceDescription">
+                     <interp inst="t17450530-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17450530-1-off2" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a silver tankard, value 8 l. the property of 
+                     
+                        <persName id="t17450530-1-victim31" type="victimName">
+                           Thomas 
+                           Ellis 
+                        <interp inst="t17450530-1-victim31" type="surname" value="Ellis"></interp>
+                        <interp inst="t17450530-1-victim31" type="given" value="Thomas"></interp>
+                        <interp inst="t17450530-1-victim31" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17450530-1-off2 t17450530-1-victim31"></join>
+                     </persName>
+                      
+                  , in his dwelling-house
+            </rs>, <rs id="t17450530-1-cd3" type="crimeDate">March 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17450530-1-off2 t17450530-1-cd3"></join>.</p>
+               <p> *He was tried last December Sessions (with his son John Hill, who was then capitally convicted, and since executed) upon indictments for highway robberies, and acquitted. See Sessions Paper, Part I. Page 8. Trial 24. Page 9. Trial 27. and Page 10. Trial 29.</p>
+               <p>
+            
+                  <persName id="t17450530-1-person32">
+                  Thomas 
+                  Ellis 
+               <interp inst="t17450530-1-person32" type="surname" value="Ellis"></interp>
+                     <interp inst="t17450530-1-person32" type="given" value="Thomas"></interp>
+                     <interp inst="t17450530-1-person32" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17450530-1-viclabel4" type="occupation">I keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17450530-1-victim31 t17450530-1-viclabel4"></join> at the sign of the <placeName id="t17450530-1-crimeloc5">White Hart in Golden Lane</placeName>
+                  <interp inst="t17450530-1-crimeloc5" type="placeName" value="White Hart in Golden Lane"></interp>
+                  <interp inst="t17450530-1-crimeloc5" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17450530-1-off2 t17450530-1-crimeloc5"></join>; on the fourth of March the Prisoner was at my house, and I lost a silver tankard.</p>
+               <p>Q. What time did you lose it?</p>
+               <p>Ellis. At night; the Prisoner came in the morning, and staid till night.</p>
+               <p>Q. Was the tankard delivered to the Prisoner to drink out of?</p>
+               <p>Ellis. No.</p>
+               <p>Q. What was in the tankard?</p>
+               <p>Ellis. There was a tankard of hot, made of ale and gin, for some company.</p>
+               <p>Q. How came you to charge him with it?</p>
+               <p>Ellis. Because he was the last man that had it.</p>
+               <p>Q. Was he in the company ?</p>
+               <p>Ellis. He was not in the company, but he thrust himself into the company of the people who had the tankard, who were very creditable gentlemen.</p>
+               <p>Q. Did you know the Prisoner?</p>
+               <p>Ellis. He had used my house about ten or twelve days before I lost the tankard, but I had very little knowledge of him.</p>
+               <p>Q. What trade is he?</p>
+               <p>Ellis. He is a <rs id="t17450530-1-deflabel6" type="occupation">taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17450530-1-defend29 t17450530-1-deflabel6"></join>, as he says.</p>
+               <p>Q. How soon did you see him again?</p>
+               <p>Ellis. I saw him about a fortnight afterwards, and then I seized him.</p>
+               <p>Q. Had you the tankard again?</p>
+               <p>Ellis. I never saw it since.</p>
+               <p>
+            
+                  <persName id="t17450530-1-person33">
+                  Francis 
+                  Child 
+               <interp inst="t17450530-1-person33" type="surname" value="Child"></interp>
+                     <interp inst="t17450530-1-person33" type="given" value="Francis"></interp>
+                     <interp inst="t17450530-1-person33" type="gender" value="male"></interp>
+                  </persName>
+            . I happened to be drinking at Mr. Ellis's with a next door neighbour of his, and saw<xptr type="pageFacsimile" doc="174505300003"></xptr> the tankard stand upon the table where the Prisoner was, and I saw the Prisoner take the tankard off the table, and move it upon the bench, and from the bench to the table again, and then from the table to the bench again, and he had got some old clothes which lay upon the bench, where he put the tankard. My neighbour and I went away about eleven o'clock, and left the tankard upon the bench with the old clothes.</p>
+               <p>Q. What business are you?</p>
+               <p>Child. I am a working goldsmith in the snuff-box way.</p>
+               <p>Prisoner. Mr. Child and another gentleman played six games at draughts, and I went away and left them there.</p>
+               <p>Ellis. Mr. Child went away before the Prisoner.</p>
+               <p>Crosby Plummer. I am a shoemaker. There was a tankard upon the table next the window, and the Prisoner had got some old clothes, and he put the clothes upon the bench next to the window, and he put the tankard too upon the bench close by the clothes, and moved the tankard several times off and on the table.</p>
+               <p>Q. What time was that?</p>
+               <p>Plummer. It was about half an hour after ten, and then I went home: the Prisoner was the last man I saw have the tankard.</p>
+               <p>Jury. Were the clothes in a bag, or loose?</p>
+               <p>Plummer. They were loose.</p>
+               <p>
+            
+                  <persName id="t17450530-1-person34">
+                  Samuel 
+                  Tilley 
+               <interp inst="t17450530-1-person34" type="surname" value="Tilley"></interp>
+                     <interp inst="t17450530-1-person34" type="given" value="Samuel"></interp>
+                     <interp inst="t17450530-1-person34" type="gender" value="male"></interp>
+                  </persName>
+            . I am an upholsterer, I have known the Prisoner about four or five years, and I always looked upon him to be a very honest man.</p>
+               <p>Q. What business is he?</p>
+               <p>Tilley. He is a taylor.</p>
+               <p>Q. Was you ever here before to speak in his behalf?</p>
+               <p>Tilley. I was desired to appear here about last Christmas.</p>
+               <p>Q. What was you here for?</p>
+               <p>Tilley. I was desired by his friends to be here to testify what I knew of him, that he was an honest man, but there was a sufficient number of persons here to his character.</p>
+               <p>Q. What was he tried for?</p>
+               <p>Tilley. He was tried for a robbery.</p>
+               <p>Q. Was not there a relation of his tried here?</p>
+               <p>Tilley. I believe there was a son of his tried here. I believe he was executed.</p>
+               <p>
+            
+                  <persName id="t17450530-1-person35">
+                  Thomas 
+                  Wilson 
+               <interp inst="t17450530-1-person35" type="surname" value="Wilson"></interp>
+                     <interp inst="t17450530-1-person35" type="given" value="Thomas"></interp>
+                     <interp inst="t17450530-1-person35" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoner about twelve years.</p>
+               <p>Q. Where does he live?</p>
+               <p>Wilson. He lives in Old Street now.</p>
+               <p>Q. Is he a housekeeper?</p>
+               <p>Wilson. He keeps a little house in a court in Old Street.</p>
+               <p>Q. What is the name of the court?</p>
+
+               <p>Wilson. I cannot tell, I have not been twice in it.</p>
+               <p>Q. Where did he live before?</p>
+               <p>Wilson. He lived in Baldwin's Gardens.</p>
+               <p>Q. How long did he live there?</p>
+               <p>Wilson. I believe about five or six months.</p>
+               <p>Q. Where did he live before?</p>
+               <p>Wilson. I cannot tell.</p>
+               <p>Q. What trade is he?</p>
+               <p>Wilson. He is a taylor; I have worked with him off and on about eleven or twelve years.</p>
+               <p>Q. Are you a master or a journeyman?</p>
+               <p>Wilson. I am a master.</p>
+               <p>Q. What is your opinion of him as to his honesty?</p>
+               <p>Wilson. He has done very honestly by me for what I know; I know nothing to the contrary.</p>
+               <p>Q. Was you ever here before?</p>
+               <p>Wilson. Yes; I appeared for him before.</p>
+               <p>
+            
+                  <persName id="t17450530-1-person36">
+                  Elizabeth 
+                  Tandy 
+               <interp inst="t17450530-1-person36" type="surname" value="Tandy"></interp>
+                     <interp inst="t17450530-1-person36" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17450530-1-person36" type="gender" value="female"></interp>
+                  </persName>
+            . I have known the Prisoner about five or six months, he lodged in my house.</p>
+               <p>Q. Does he lodge with you now?</p>
+               <p>Wilson. He has not lodged with me these two months.</p>
+               <p>Q. How long did he lodge with you?</p>
+               <p>Tandy. About three months.</p>
+               <p>Q. What hours did he keep?</p>
+               <p>Tandy. When he lived with me he kept very good hours.</p>
+               <p>Q. Do you know of his being at the White Hart in Golden Lane?</p>
+               <p>Tandy. I have heard of his being charged with these things: he was accused with carrying this tankard away in his garments, but he came backward and forward after this in a mean way, and wanted to borrow some half-pence of me.</p>
+               <p>Q. When was the Prisoner taken up?</p>
+               <p>Tandy. About three weeks ago, or thereabout.</p>
+               <p>Jury. Was the Prisoner the last person in the room?</p>
+               <p>Ellis. My brother was in the room after the Prisoner went out.</p>
+               <p>Jury. Did you miss the tankard upon the Prisoner's going away?</p>
+               <p>Ellis. Yes; immediately upon his going out of the house.</p>
+               <p>Jury. Who went out of the house last?</p>
+               <p>Ellis. My brother went out last, and as soon as he was gone out of the house I followed him, and called out to let him know the tankard was lost. <rs id="t17450530-1-verdict7" type="verdictDescription">
+                     <interp inst="t17450530-1-verdict7" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420714-41">
+               <interp inst="t17420714-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420714-41" type="year" value="1742"></interp>
+               <interp inst="t17420714-41" type="uri" value="sessionsPapers/17420714"></interp>
+               <interp inst="t17420714-41" type="date" value="17420714"></interp>
+               <join result="criminalCharge" id="t17420714-41-off188-c260" targOrder="Y" targets="t17420714-41-defend342 t17420714-41-off188 t17420714-41-verdict191"></join>
+               <join result="criminalCharge" id="t17420714-41-off188-c261" targOrder="Y" targets="t17420714-41-defend344 t17420714-41-off188 t17420714-41-verdict191"></join>
+               <join result="criminalCharge" id="t17420714-41-off188-c262" targOrder="Y" targets="t17420714-41-defend346 t17420714-41-off188 t17420714-41-verdict191"></join>
+         
+               <p>50. 
+               
+                  <persName id="t17420714-41-defend342" type="defendantName">
+                     Robert 
+                     Ayres 
+                  <interp inst="t17420714-41-defend342" type="surname" value="Ayres"></interp>
+                     <interp inst="t17420714-41-defend342" type="given" value="Robert"></interp>
+                     <interp inst="t17420714-41-defend342" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 51. 
+               
+                  <persName id="t17420714-41-defend344" type="defendantName">
+                     Joshua 
+                     Paine 
+                  <interp inst="t17420714-41-defend344" type="surname" value="Paine"></interp>
+                     <interp inst="t17420714-41-defend344" type="given" value="Joshua"></interp>
+                     <interp inst="t17420714-41-defend344" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 52. 
+               
+                  <persName id="t17420714-41-defend346" type="defendantName">
+                     John 
+                     Bailey 
+                  <interp inst="t17420714-41-defend346" type="surname" value="Bailey"></interp>
+                     <interp inst="t17420714-41-defend346" type="given" value="John"></interp>
+                     <interp inst="t17420714-41-defend346" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17420714-41-off188" type="offenceDescription">
+                     <interp inst="t17420714-41-off188" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420714-41-off188" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing twelve Fish, called Turbut, restrained from their Liberty, and then consined, being the Property of 
+                     
+                        <persName id="t17420714-41-victim348" type="victimName">
+                           Isaac 
+                           Starbut 
+                        <interp inst="t17420714-41-victim348" type="surname" value="Starbut"></interp>
+                        <interp inst="t17420714-41-victim348" type="given" value="Isaac"></interp>
+                        <interp inst="t17420714-41-victim348" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17420714-41-off188 t17420714-41-victim348"></join>
+                     </persName>
+                      
+                  , val. 36 s.
+            </rs> 
+                  <rs id="t17420714-41-cd189" type="crimeDate">May 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420714-41-off188 t17420714-41-cd189"></join>.</p>
+               <p>The Counsel for the Prosecutor, in opening the Indictment, said this was a Felony under Pretence of Right; and upon the Evidence, it appeared these Persons were <rs id="t17420714-41-deflabel190" type="occupation">Officers</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17420714-41-defend342 t17420714-41-deflabel190"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17420714-41-defend344 t17420714-41-deflabel190"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17420714-41-defend346 t17420714-41-deflabel190"></join>, and well known to the Prosecutor to be such; and these Fish were by them taken as unsizable. Whereupon the Court was of Opinion this was not a taking Animo furandi, and that it was improper to try the Legality of a Seizure by Indictment. If there had been a wrong taking, the Parties, on an Action of Trover, would be obliged to make Satisfaction. <rs id="t17420714-41-verdict191" type="verdictDescription">
+                     <interp inst="t17420714-41-verdict191" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

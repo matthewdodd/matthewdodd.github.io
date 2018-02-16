@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600416-34">
+               <interp inst="t17600416-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600416-34" type="year" value="1760"></interp>
+               <interp inst="t17600416-34" type="uri" value="sessionsPapers/17600416"></interp>
+               <interp inst="t17600416-34" type="date" value="17600416"></interp>
+               <join result="criminalCharge" id="t17600416-34-off212-c293" targOrder="Y" targets="t17600416-34-defend356 t17600416-34-off212 t17600416-34-verdict216"></join>
+         
+               <p>168. (M.) 
+               
+                  <persName id="t17600416-34-defend356" type="defendantName">
+                     Elizabeth 
+                     Adams 
+                  <interp inst="t17600416-34-defend356" type="surname" value="Adams"></interp>
+                     <interp inst="t17600416-34-defend356" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17600416-34-defend356" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17600416-34-deflabel211" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600416-34-defend356 t17600416-34-deflabel211"></join>, was indicted for <rs id="t17600416-34-off212" type="offenceDescription">
+                     <interp inst="t17600416-34-off212" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600416-34-off212" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two silk gowns, value 20 s. and one silk cardinal, value 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17600416-34-victim358" type="victimName">
+                     John 
+                     Vaughan 
+                  <interp inst="t17600416-34-victim358" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17600416-34-victim358" type="given" value="John"></interp>
+                     <interp inst="t17600416-34-victim358" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600416-34-off212 t17600416-34-victim358"></join>
+                  </persName>
+                
+            , <rs id="t17600416-34-cd213" type="crimeDate">March 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600416-34-off212 t17600416-34-cd213"></join>.</p>
+               <p>
+            
+                  <persName id="t17600416-34-person359">
+                  John 
+                  Vaughan 
+               <interp inst="t17600416-34-person359" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17600416-34-person359" type="given" value="John"></interp>
+                     <interp inst="t17600416-34-person359" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17600416-34-viclabel214" type="occupation">peruke-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600416-34-victim358 t17600416-34-viclabel214"></join>, and live in <placeName id="t17600416-34-crimeloc215">Aylesbury Street, Clerkenwell</placeName>
+                  <interp inst="t17600416-34-crimeloc215" type="placeName" value="Aylesbury Street, Clerkenwell"></interp>
+                  <interp inst="t17600416-34-crimeloc215" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17600416-34-off212 t17600416-34-crimeloc215"></join>. The prisoner was a lodger in my house, and I missed these things mentioned on the 11th of March.</p>
+               <p>Q. What reason have you to suspect the prisoner?</p>
+               <p>Vaughan. I advertised them the day after I missed them, and a person came and told me he had seen such things sold to a person that keeps an old cloaths shop in Great Pulteney Street; I went there, and found them in a woman's shop.</p>
+               <p>Q. What woman was that?</p>
+               <p>Vaughan. I did not think she would be wanted, so have not brought her here, nor the things neither.</p>
+               <p>Q. Did the prisoner confess any thing?</p>
+               <p>Vaughan. She did, she said she had taken them; she was then very much in liquor, and afterwards denied it.</p>
+               <p>Q. Did any body see her take the things?</p>
+               <p>Vaughan. No; there were two other people in the same room that might have taken them as well as she</p>
+               <p>
+                  <rs id="t17600416-34-verdict216" type="verdictDescription">
+                     <interp inst="t17600416-34-verdict216" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

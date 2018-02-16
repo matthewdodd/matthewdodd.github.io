@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400903-27">
+               <interp inst="t17400903-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400903-27" type="year" value="1740"></interp>
+               <interp inst="t17400903-27" type="uri" value="sessionsPapers/17400903"></interp>
+               <interp inst="t17400903-27" type="date" value="17400903"></interp>
+               <join result="criminalCharge" id="t17400903-27-off178-c203" targOrder="Y" targets="t17400903-27-defend241 t17400903-27-off178 t17400903-27-verdict180"></join>
+         
+               <p>395. 
+               
+                  <persName id="t17400903-27-defend241" type="defendantName">
+                     John 
+                     Smith 
+                  <interp inst="t17400903-27-defend241" type="surname" value="Smith"></interp>
+                     <interp inst="t17400903-27-defend241" type="given" value="John"></interp>
+                     <interp inst="t17400903-27-defend241" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17400903-27-defloc177">St Giles's in the Fields</placeName>
+                  <interp inst="t17400903-27-defloc177" type="placeName" value="St Giles's in the Fields"></interp>
+                  <interp inst="t17400903-27-defloc177" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400903-27-defend241 t17400903-27-defloc177"></join>, was indicted for <rs id="t17400903-27-off178" type="offenceDescription">
+                     <interp inst="t17400903-27-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400903-27-off178" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 23 lb. of Leaden Pipe, val. 1 s. 11 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17400903-27-victim243" type="victimName">
+                     William 
+                     Joseph 
+                  <interp inst="t17400903-27-victim243" type="surname" value="Joseph"></interp>
+                     <interp inst="t17400903-27-victim243" type="given" value="William"></interp>
+                     <interp inst="t17400903-27-victim243" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17400903-27-victim245" type="victimName">
+                     Robert 
+                     Hucks 
+                  <interp inst="t17400903-27-victim245" type="surname" value="Hucks"></interp>
+                     <interp inst="t17400903-27-victim245" type="given" value="Robert"></interp>
+                     <interp inst="t17400903-27-victim245" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17400903-27-cd179" type="crimeDate">August 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400903-27-off178 t17400903-27-cd179"></join>. <rs id="t17400903-27-verdict180" type="verdictDescription">
+                     <interp inst="t17400903-27-verdict180" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870114-13">
+               <interp inst="t16870114-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870114-13" type="year" value="1687"></interp>
+               <interp inst="t16870114-13" type="uri" value="sessionsPapers/16870114"></interp>
+               <interp inst="t16870114-13" type="date" value="16870114"></interp>
+               <join result="criminalCharge" id="t16870114-13-off74-c62" targOrder="Y" targets="t16870114-13-defend87 t16870114-13-off74 t16870114-13-verdict76"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870114-13-defend87" type="defendantName">
+                     Luke 
+                     Norton
+                  <interp inst="t16870114-13-defend87" type="surname" value="Norton"></interp>
+                     <interp inst="t16870114-13-defend87" type="given" value="Luke"></interp>
+                     <interp inst="t16870114-13-defend87" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16870114-13-defloc73">St. Mary Savoy</placeName>
+                  <interp inst="t16870114-13-defloc73" type="placeName" value="St. Mary Savoy"></interp>
+                  <interp inst="t16870114-13-defloc73" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870114-13-defend87 t16870114-13-defloc73"></join>, was Indicted, for that he <rs id="t16870114-13-off74" type="offenceDescription">
+                     <interp inst="t16870114-13-off74" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16870114-13-off74" type="offenceSubcategory" value="murder"></interp>
+               together with one Mortymer and Kemp, not yet taken, did Murther one 
+                     
+                        <persName id="t16870114-13-victim89" type="victimName">
+                           Samuel 
+                           Stephenson
+                        <interp inst="t16870114-13-victim89" type="surname" value="Stephenson"></interp>
+                        <interp inst="t16870114-13-victim89" type="given" value="Samuel"></interp>
+                        <interp inst="t16870114-13-victim89" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870114-13-off74 t16870114-13-victim89"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16870114-13-cd75" type="crimeDate">11th. of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870114-13-off74 t16870114-13-cd75"></join> last, with a Rapier, value 4 s. giving him a mortal wound on the Right Groin, of the depth of four Inches, of which he dyed on the 13th of the same Instant
+            </rs>. The Witnesses for the King, gave in Evidence that the Prisoner and the deceased met in the Street in company with the other two, as aforesaid, in the Night, and a Quarrel happened between them, upon which, the deceased received the aforesaid Wound; But no Evidence appearing to prove that he gave the deceased the wound, he was <rs id="t16870114-13-verdict76" type="verdictDescription">
+                     <interp inst="t16870114-13-verdict76" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

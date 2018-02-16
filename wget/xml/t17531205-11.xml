@@ -1,3 +1,89 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17531205-11">
+               <interp inst="t17531205-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17531205-11" type="year" value="1753"></interp>
+               <interp inst="t17531205-11" type="uri" value="sessionsPapers/17531205"></interp>
+               <interp inst="t17531205-11" type="date" value="17531205"></interp>
+               <join result="criminalCharge" id="t17531205-11-off45-c81" targOrder="Y" targets="t17531205-11-defend101 t17531205-11-off45 t17531205-11-verdict47"></join>
+         
+               <p>13. (M.) 
+               
+                  <persName id="t17531205-11-defend101" type="defendantName">
+                     Thomas 
+                     Oliver 
+                  <interp inst="t17531205-11-defend101" type="surname" value="Oliver"></interp>
+                     <interp inst="t17531205-11-defend101" type="given" value="Thomas"></interp>
+                     <interp inst="t17531205-11-defend101" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17531205-11-off45" type="offenceDescription">
+                     <interp inst="t17531205-11-off45" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17531205-11-off45" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver watch value 30 s.
+            </rs> the property of 
+               
+                  <persName id="t17531205-11-victim103" type="victimName">
+                     John 
+                     Wright 
+                  <interp inst="t17531205-11-victim103" type="surname" value="Wright"></interp>
+                     <interp inst="t17531205-11-victim103" type="given" value="John"></interp>
+                     <interp inst="t17531205-11-victim103" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17531205-11-off45 t17531205-11-victim103"></join>
+                  </persName>
+                
+            , <rs id="t17531205-11-cd46" type="crimeDate">December 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17531205-11-off45 t17531205-11-cd46"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17531205-11-person104">
+                  John 
+                  Wright 
+               <interp inst="t17531205-11-person104" type="surname" value="Wright"></interp>
+                     <interp inst="t17531205-11-person104" type="given" value="John"></interp>
+                     <interp inst="t17531205-11-person104" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Fetherstone buildings; Holborn; I lost a silver watch, and it was found again at Spencer's a pawnbroker's, the woman that pawned it informed me where it was; the prisoner had been in my house the day it was lost, which was last Tuesday; upon which I suspected him and took him up, and before the justice he owned that he took it, and sent 
+               <persName id="t17531205-11-person105">
+                  Cassandra 
+                  Mold 
+               <interp inst="t17531205-11-person105" type="surname" value="Mold"></interp>
+                     <interp inst="t17531205-11-person105" type="given" value="Cassandra"></interp>
+                     <interp inst="t17531205-11-person105" type="gender" value="female"></interp>
+                  </persName>
+             with it to pawn it for a guinea. I have employed him fourteen years, and never knew him guilty of any thing before this.</p>
+               <p>
+            
+                  <persName id="t17531205-11-person106">
+                  Cassandra 
+                  Mold 
+               <interp inst="t17531205-11-person106" type="surname" value="Mold"></interp>
+                     <interp inst="t17531205-11-person106" type="given" value="Cassandra"></interp>
+                     <interp inst="t17531205-11-person106" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner employed me to pawn this watch, and I carried it and pawned it at Mr. Spencer's in Holborn for a guinea, and delivered it to him. I was with him before the justice, and heard him own he stole it.</p>
+               <p>Diana Butler. I am servant to the prosecutor. The watch was hanging upon a nail in the kitchen; the prisoner was employed by my master, and was in and cut there; I did not see him take it, but missed it soon after he was gone out, which was about half an hour after four o'clock.</p>
+               <p>The pawnbroker 
+               <persName id="t17531205-11-person107">
+                  Samuel 
+                  Spencer 
+               <interp inst="t17531205-11-person107" type="surname" value="Spencer"></interp>
+                     <interp inst="t17531205-11-person107" type="given" value="Samuel"></interp>
+                     <interp inst="t17531205-11-person107" type="gender" value="male"></interp>
+                  </persName>
+             who had the watch, did not appear with it. and his recognisance was ordered to be estreated.</p>
+               <p>Prisoner. I know nothing of it.</p>
+               <p>
+                  <rs id="t17531205-11-verdict47" type="verdictDescription">
+                     <interp inst="t17531205-11-verdict47" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17531205-11-punish48" type="punishmentDescription">
+                     <interp inst="t17531205-11-punish48" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17531205-11-defend101 t17531205-11-punish48"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

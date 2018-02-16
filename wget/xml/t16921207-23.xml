@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-23">
+               <interp inst="t16921207-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-23" type="year" value="1692"></interp>
+               <interp inst="t16921207-23" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-23" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-23-off108-c84" targOrder="Y" targets="t16921207-23-defend84 t16921207-23-off108 t16921207-23-verdict111"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-23-defend84" type="defendantName">
+                  Daniel 
+                  Jones
+               <interp inst="t16921207-23-defend84" type="surname" value="Jones"></interp>
+                     <interp inst="t16921207-23-defend84" type="given" value="Daniel"></interp>
+                     <interp inst="t16921207-23-defend84" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16921207-23-defloc107">White-chappel</placeName>
+                  <interp inst="t16921207-23-defloc107" type="placeName" value="White-chappel"></interp>
+                  <interp inst="t16921207-23-defloc107" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16921207-23-defend84 t16921207-23-defloc107"></join>, was tried for <rs id="t16921207-23-off108" type="offenceDescription">
+                     <interp inst="t16921207-23-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921207-23-off108" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of one 
+                     <persName id="t16921207-23-victim85" type="victimName">
+                        John 
+                        Tewder
+                     <interp inst="t16921207-23-victim85" type="surname" value="Tewder"></interp>
+                        <interp inst="t16921207-23-victim85" type="given" value="John"></interp>
+                        <interp inst="t16921207-23-victim85" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16921207-23-off108 t16921207-23-victim85"></join>
+                     </persName>
+                  , in <placeName id="t16921207-23-crimeloc109">Goodmansfields</placeName>
+                     <interp inst="t16921207-23-crimeloc109" type="placeName" value="Goodmansfields"></interp>
+                     <interp inst="t16921207-23-crimeloc109" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16921207-23-off108 t16921207-23-crimeloc109"></join>, on the <rs id="t16921207-23-cd110" type="crimeDate">third of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16921207-23-off108 t16921207-23-cd110"></join> last, and taking away 2 Silver Tankards, value 7 l. 10 s. 1 Silver Bowl, value 3 l. a Silver Salt, value 40 s. several Spoons, value 4 l. 10 s. a Ladle, value 40 s. 2 Gold Watches, value 5 l. a Gold Ring, value 20 s. 240 pieces of broad Gold, value 282 l. 180 Guineas, value 193 l. 10 s. and 80 l. in Money, &amp;c.
+            </rs> Mr. Tewder swore that his House was broke open about the hour of three in the Morning, and several Persons came to his Bedside, and swore most desperate Oaths at him, telling him they wanted Money, and Money they must have; and the Prisoner in particular, stood by his Bed-side, whilest the others broke open the Doors, and rifled the House; but some of Mr. Tewder's Family being in the House, hearing a Noise, cried out Thieves; they made their escape, but left a Hatchet and a Lanthorn behind them. On the same day the Prisoner was taken in Goodmans fields, being dogg'd from place to place; and when they came to lay hands on him, he fell a quaking and trembling, and was much surprized; but after that he was carried before the Lord Mayor, and whilest he was waiting, and the Constable talking to another man he got away, and run for it, but since that did surrender himself. There were other Evidence that said he went formerly by the name of Steel, and was committed about four Years ago to Newgate for Suspicion of Felony, and had all sorts of Pick-lock-keys about him, and a Betty to wrinch open the Doors; he was then bail'd out of Newgate, and he and his Bail run away, and never appeared afterwards. The Prisoner flatly denied the Fact, and called several Witnesses, endeavouring by them to invalidate and take off the credit of Mr. Tewder's Prosecution; alledging, that Mr. Tewder had a Spite against him, and would have given them Money to assist him in the Prosecuting of the Prisoner; but several of the Witnesses for the Prisoner varied in their Depositions, which made the face of the matter look very suspicious: And Mr. Tewder had Persons of honourable Quality in Court, who justified his Reputation; and that he was a man that scorn'd to deal unfair with any Person. The Trial was very long, and distinctly carried on both sides: And the Gentlemen of the Jury were so well satisfied, that they found him <rs id="t16921207-23-verdict111" type="verdictDescription">
+                     <interp inst="t16921207-23-verdict111" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, without going from their Seats.</p>
+               <p>
+                  <rs id="t16921207-23-punish112" type="punishmentDescription">
+                     <interp inst="t16921207-23-punish112" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-23-defend84 t16921207-23-punish112"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-4">
+               <interp inst="t16921207-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-4" type="year" value="1692"></interp>
+               <interp inst="t16921207-4" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-4" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-4-off13-c34" targOrder="Y" targets="t16921207-4-defend34 t16921207-4-off13 t16921207-4-verdict16"></join>
+               <join result="criminalCharge" id="t16921207-4-off13-c35" targOrder="Y" targets="t16921207-4-defend35 t16921207-4-off13 t16921207-4-verdict16"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-4-defend34" type="defendantName">
+                  Parnell 
+                  Brandon, alias <rs id="t16921207-4-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16921207-4-defend34 t16921207-4-alias-2"></join>Crove</rs>
+                     <interp inst="t16921207-4-defend34" type="surname" value="Brandon"></interp>
+                     <interp inst="t16921207-4-defend34" type="given" value="Parnell"></interp>
+                     <interp inst="t16921207-4-defend34" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16921207-4-defend35" type="defendantName">
+                  Ann 
+                  Brown, alias <rs id="t16921207-4-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16921207-4-defend35 t16921207-4-alias-3"></join>Riggs</rs>
+                     <interp inst="t16921207-4-defend35" type="surname" value="Brown"></interp>
+                     <interp inst="t16921207-4-defend35" type="given" value="Ann"></interp>
+                     <interp inst="t16921207-4-defend35" type="gender" value="female"></interp>
+                  </persName>
+            , were both tried for <rs id="t16921207-4-off13" type="offenceDescription">
+                     <interp inst="t16921207-4-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921207-4-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard value 4 l.
+            </rs> from 
+               <persName id="t16921207-4-victim36" type="victimName">
+                  Charles 
+                  Pynches
+               <interp inst="t16921207-4-victim36" type="surname" value="Pynches"></interp>
+                     <interp inst="t16921207-4-victim36" type="given" value="Charles"></interp>
+                     <interp inst="t16921207-4-victim36" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16921207-4-off13 t16921207-4-victim36"></join>
+                  </persName>
+             of <placeName id="t16921207-4-crimeloc14">St. Gregories Parish</placeName>
+                  <interp inst="t16921207-4-crimeloc14" type="placeName" value="St. Gregories Parish"></interp>
+                  <interp inst="t16921207-4-crimeloc14" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16921207-4-off13 t16921207-4-crimeloc14"></join>, London, on the <rs id="t16921207-4-cd15" type="crimeDate">17th day of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16921207-4-off13 t16921207-4-cd15"></join>; they came to Pynche's House, and called for Drink; and after they had staid awhile, they took away the Tankard. Brandon said, that Brown knew nothing of the matter, but she her self took it; but yet they were both found <rs id="t16921207-4-verdict16" type="verdictDescription">
+                     <interp inst="t16921207-4-verdict16" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16921207-4-punish17" type="punishmentDescription">
+                     <interp inst="t16921207-4-punish17" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16921207-4-punish17" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-4-defend34 t16921207-4-punish17"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-4-defend35 t16921207-4-punish17"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

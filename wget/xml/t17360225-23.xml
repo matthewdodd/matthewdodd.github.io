@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-23">
+               <interp inst="t17360225-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-23" type="year" value="1736"></interp>
+               <interp inst="t17360225-23" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-23" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-23-off141-c122" targOrder="Y" targets="t17360225-23-defend168 t17360225-23-off141 t17360225-23-verdict144"></join>
+         
+               <p>30. 
+               
+                  <persName id="t17360225-23-defend168" type="defendantName">
+                     Daniel 
+                     Croaker 
+                  <interp inst="t17360225-23-defend168" type="surname" value="Croaker"></interp>
+                     <interp inst="t17360225-23-defend168" type="given" value="Daniel"></interp>
+                     <interp inst="t17360225-23-defend168" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360225-23-defloc140">St. Clement Danes</placeName>
+                  <interp inst="t17360225-23-defloc140" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17360225-23-defloc140" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-23-defend168 t17360225-23-defloc140"></join> was indicted for <rs id="t17360225-23-off141" type="offenceDescription">
+                     <interp inst="t17360225-23-off141" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-23-off141" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Cloath Coat, value 10 s. a Cloath Wastcoat value 20s. 2 Shirts value 20 s. and other Things
+            </rs>, the Goods of 
+               
+                  <persName id="t17360225-23-victim170" type="victimName">
+                     Thomas 
+                     Wright 
+                  <interp inst="t17360225-23-victim170" type="surname" value="Wright"></interp>
+                     <interp inst="t17360225-23-victim170" type="given" value="Thomas"></interp>
+                     <interp inst="t17360225-23-victim170" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-23-off141 t17360225-23-victim170"></join>
+                  </persName>
+                
+             the <rs id="t17360225-23-cd142" type="crimeDate">1st of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-23-off141 t17360225-23-cd142"></join>.</p>
+               <p>Thomas Wright. The Prisoner came to me as a <rs id="t17360225-23-deflabel143" type="occupation">Hackney-writer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-23-defend168 t17360225-23-deflabel143"></join> in November last: in December he robb'd, and pawn'd my Goods; I redeemed them, hoping he would mend; but in January he robb'd me of the Goods mention'd in the Indictment: When I miss'd them, he own'd he had taken them, and if I would let him have Money he told me he would get them again. He went with me and the Constable, to the Places where he had pawn'd them, and so I got them again; When I found he had robb'd me this second time, I turn'd him away from my Chambers; he did not fly for't.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173602250013"></xptr>The Constable swore to the finding the Goods according to the Prisoner's Directions.</p>
+               <p>The Prisoner in his Defence say'd, that his Master's hard usage lay'd him under this Temptation; that he hir'd him for Writing, and would frequently employ him in Business abroad, and constantly deducted out of his Pay for those Times, and that he intended to redeem and restore them when he could have rais'd Money, <rs id="t17360225-23-verdict144" type="verdictDescription">
+                     <interp inst="t17360225-23-verdict144" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

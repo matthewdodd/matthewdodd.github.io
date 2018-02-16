@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-34">
+               <interp inst="t17360225-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-34" type="year" value="1736"></interp>
+               <interp inst="t17360225-34" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-34" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-34-off203-c159" targOrder="Y" targets="t17360225-34-defend228 t17360225-34-off203 t17360225-34-verdict205"></join>
+         
+               <p>42. 
+               
+                  <persName id="t17360225-34-defend228" type="defendantName">
+                     Jane 
+                     Baker 
+                  <interp inst="t17360225-34-defend228" type="surname" value="Baker"></interp>
+                     <interp inst="t17360225-34-defend228" type="given" value="Jane"></interp>
+                     <interp inst="t17360225-34-defend228" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360225-34-defloc202">St. Botolph Aldgate</placeName>
+                  <interp inst="t17360225-34-defloc202" type="placeName" value="St. Botolph Aldgate"></interp>
+                  <interp inst="t17360225-34-defloc202" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-34-defend228 t17360225-34-defloc202"></join>, was indicted for <rs id="t17360225-34-off203" type="offenceDescription">
+                     <interp inst="t17360225-34-off203" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-34-off203" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six Dutch Wooden Snuff-Boxes, value 3s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360225-34-victim230" type="victimName">
+                     Pierce 
+                     Newton 
+                  <interp inst="t17360225-34-victim230" type="surname" value="Newton"></interp>
+                     <interp inst="t17360225-34-victim230" type="given" value="Pierce"></interp>
+                     <interp inst="t17360225-34-victim230" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-34-off203 t17360225-34-victim230"></join>
+                  </persName>
+                
+             
+                  <rs id="t17360225-34-cd204" type="crimeDate">Jan. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-34-off203 t17360225-34-cd204"></join>. The Evidence not being sufficient the Jury <rs id="t17360225-34-verdict205" type="verdictDescription">
+                     <interp inst="t17360225-34-verdict205" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

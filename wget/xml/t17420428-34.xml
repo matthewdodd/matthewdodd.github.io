@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420428-34">
+               <interp inst="t17420428-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420428-34" type="year" value="1742"></interp>
+               <interp inst="t17420428-34" type="uri" value="sessionsPapers/17420428"></interp>
+               <interp inst="t17420428-34" type="date" value="17420428"></interp>
+               <join result="criminalCharge" id="t17420428-34-off157-c282" targOrder="Y" targets="t17420428-34-defend351 t17420428-34-off157 t17420428-34-verdict159"></join>
+         
+               <p>39. 
+               
+                  <persName id="t17420428-34-defend351" type="defendantName">
+                     Robert 
+                     Pannel 
+                  <interp inst="t17420428-34-defend351" type="surname" value="Pannel"></interp>
+                     <interp inst="t17420428-34-defend351" type="given" value="Robert"></interp>
+                     <interp inst="t17420428-34-defend351" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17420428-34-off157" type="offenceDescription">
+                     <interp inst="t17420428-34-off157" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420428-34-off157" type="offenceSubcategory" value="other"></interp>
+               stealing a Dozen of Knives and Forks, and other Things
+            </rs>, the Goods of 
+               
+                  <persName id="t17420428-34-victim353" type="victimName">
+                     Nathaniel 
+                     Alderson 
+                  <interp inst="t17420428-34-victim353" type="surname" value="Alderson"></interp>
+                     <interp inst="t17420428-34-victim353" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17420428-34-victim353" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17420428-34-off157 t17420428-34-victim353"></join>
+                  </persName>
+                
+            , <rs id="t17420428-34-cd158" type="crimeDate">Jan. 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420428-34-off157 t17420428-34-cd158"></join>.</p>
+               <p>
+                  <rs id="t17420428-34-verdict159" type="verdictDescription">
+                     <interp inst="t17420428-34-verdict159" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17420428-34-punish160" type="punishmentDescription">
+                     <interp inst="t17420428-34-punish160" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17420428-34-punish160" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420428-34-defend351 t17420428-34-punish160"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

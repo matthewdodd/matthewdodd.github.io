@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570223-37">
+               <interp inst="t17570223-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570223-37" type="year" value="1757"></interp>
+               <interp inst="t17570223-37" type="uri" value="sessionsPapers/17570223"></interp>
+               <interp inst="t17570223-37" type="date" value="17570223"></interp>
+               <join result="criminalCharge" id="t17570223-37-off208-c328" targOrder="Y" targets="t17570223-37-defend403 t17570223-37-off208 t17570223-37-verdict213"></join>
+         
+               <p>132. (M.) 
+               
+                  <persName id="t17570223-37-defend403" type="defendantName">
+                     George 
+                     Young 
+                  <interp inst="t17570223-37-defend403" type="surname" value="Young"></interp>
+                     <interp inst="t17570223-37-defend403" type="given" value="George"></interp>
+                     <interp inst="t17570223-37-defend403" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17570223-37-off208" type="offenceDescription">
+                     <interp inst="t17570223-37-off208" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570223-37-off208" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one gold ring, with nine diamonds set thereon, value 10 l.
+            </rs> the property of 
+               
+                  <persName id="t17570223-37-victim405" type="victimName">
+                     Joseph 
+                     Dunton 
+                  <interp inst="t17570223-37-victim405" type="surname" value="Dunton"></interp>
+                     <interp inst="t17570223-37-victim405" type="given" value="Joseph"></interp>
+                     <interp inst="t17570223-37-victim405" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17570223-37-off208 t17570223-37-victim405"></join>
+                  </persName>
+                
+            , <rs id="t17570223-37-cd209" type="crimeDate">Feb. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570223-37-off208 t17570223-37-cd209"></join>. +</p>
+               <p>
+            
+                  <persName id="t17570223-37-person406">
+                  Joseph 
+                  Dunton 
+               <interp inst="t17570223-37-person406" type="surname" value="Dunton"></interp>
+                     <interp inst="t17570223-37-person406" type="given" value="Joseph"></interp>
+                     <interp inst="t17570223-37-person406" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner and I were fellow <rs id="t17570223-37-viclabel210" type="occupation">
+                     <rs id="t17570223-37-deflabel211" type="occupation">servants</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17570223-37-defend403 t17570223-37-deflabel211"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570223-37-victim405 t17570223-37-viclabel210"></join> to Mr. Bradil, in <placeName id="t17570223-37-crimeloc212">Queen-street, Westminster</placeName>
+                  <interp inst="t17570223-37-crimeloc212" type="placeName" value="Queen-street, Westminster"></interp>
+                  <interp inst="t17570223-37-crimeloc212" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17570223-37-off208 t17570223-37-crimeloc212"></join>. I had a ring with eight small diamonds and one large one in it, in my waistcoat pocket, on Wednesday<xptr type="pageFacsimile" doc="175702230036"></xptr> the 8th instant; on the Friday following I missed it. The waistcoat hung in the passage three or four hours each day. The Monday following I advertised it, by which means I found it at a pawnbroker's nam'd Brown, in Marybone-street, (produced in court and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17570223-37-person407">
+                  Nathaniel 
+                  Brown 
+               <interp inst="t17570223-37-person407" type="surname" value="Brown"></interp>
+                     <interp inst="t17570223-37-person407" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17570223-37-person407" type="gender" value="male"></interp>
+                  </persName>
+            . This ring was sent me by Mrs. Allen, who lives near me; she desired me to send her half a guinea upon it.</p>
+               <p>
+            
+                  <persName id="t17570223-37-person408">
+                  Mary 
+                  Allen 
+               <interp inst="t17570223-37-person408" type="surname" value="Allen"></interp>
+                     <interp inst="t17570223-37-person408" type="given" value="Mary"></interp>
+                     <interp inst="t17570223-37-person408" type="gender" value="female"></interp>
+                  </persName>
+            . Last Monday was fortnight the prisoner at the bar came to my house and drank two pints of wine; he gave me the ring to pawn, and I sent it to Mr. Brown.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I went to her house with a girl and staid there all night.</p>
+               <p>
+                  <rs id="t17570223-37-verdict213" type="verdictDescription">
+                     <interp inst="t17570223-37-verdict213" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

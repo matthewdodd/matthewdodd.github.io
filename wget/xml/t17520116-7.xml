@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520116-7">
+               <interp inst="t17520116-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520116-7" type="year" value="1752"></interp>
+               <interp inst="t17520116-7" type="uri" value="sessionsPapers/17520116"></interp>
+               <interp inst="t17520116-7" type="date" value="17520116"></interp>
+               <join result="criminalCharge" id="t17520116-7-off42-c75" targOrder="Y" targets="t17520116-7-defend91 t17520116-7-off42 t17520116-7-verdict46"></join>
+         
+               <p>85. (M.) 
+               
+                  <persName id="t17520116-7-defend91" type="defendantName">
+                     William 
+                     House 
+                  <interp inst="t17520116-7-defend91" type="surname" value="House"></interp>
+                     <interp inst="t17520116-7-defend91" type="given" value="William"></interp>
+                     <interp inst="t17520116-7-defend91" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17520116-7-off42" type="offenceDescription">
+                     <interp inst="t17520116-7-off42" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520116-7-off42" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one gelding of a black colour, value 6 l.
+            </rs> the property of 
+               
+                  <persName id="t17520116-7-victim93" type="victimName">
+                     Lionel 
+                     Batsford 
+                  <interp inst="t17520116-7-victim93" type="surname" value="Batsford"></interp>
+                     <interp inst="t17520116-7-victim93" type="given" value="Lionel"></interp>
+                     <interp inst="t17520116-7-victim93" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520116-7-off42 t17520116-7-victim93"></join>
+                  </persName>
+                
+            , <rs id="t17520116-7-cd43" type="crimeDate">Jan. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520116-7-off42 t17520116-7-cd43"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520116-7-person94">
+                  Lionel 
+                  Batsford 
+               <interp inst="t17520116-7-person94" type="surname" value="Batsford"></interp>
+                     <interp inst="t17520116-7-person94" type="given" value="Lionel"></interp>
+                     <interp inst="t17520116-7-person94" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17520116-7-viclabel44" type="occupation">keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520116-7-victim93 t17520116-7-viclabel44"></join> on the river Lee, and the prisoner was my <rs id="t17520116-7-deflabel45" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520116-7-defend91 t17520116-7-deflabel45"></join>; I trusted him to go as far as Hadsdon to pull barges along; I sent him out with the horse Jan. the 4th, which was on Saturday, and he ought to have been at home on the Monday following. Hearing nothing of him or the horse, I went, on the Wednesday following, in order to seek for him and my horse; I found him in a public-house at Ponder's-End upon the road drinking: I ask'd what was the matter he was not at home; he said, he had lost the horse near the Three Jolly Butchers, that he had turned him up in an orchard at Enfield-Wash, and had been seeking for him; I ordered him to go and see for him, and, if he found him, to send for me, if he had not money enough to pay, and I'd come; he went, and I heard nothing of him; I went again to see for him, and found him on the other side Tottenham High Cross, and took him into custody; he denies knowing any thing of the going of the horse.</p>
+               <p>Q. Have you heard of your horse since?</p>
+               <p>Batsford. I have not to this day. I can't charge the prisoner with stealing him.</p>
+               <p>
+                  <rs id="t17520116-7-verdict46" type="verdictDescription">
+                     <interp inst="t17520116-7-verdict46" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

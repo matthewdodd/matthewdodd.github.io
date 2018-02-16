@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530607-1">
+               <interp inst="t17530607-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530607-1" type="year" value="1753"></interp>
+               <interp inst="t17530607-1" type="uri" value="sessionsPapers/17530607"></interp>
+               <interp inst="t17530607-1" type="date" value="17530607"></interp>
+               <join result="criminalCharge" id="t17530607-1-off1-c25" targOrder="Y" targets="t17530607-1-defend26 t17530607-1-off1 t17530607-1-verdict4"></join>
+               <join result="criminalCharge" id="t17530607-1-off1-c26" targOrder="Y" targets="t17530607-1-defend28 t17530607-1-off1 t17530607-1-verdict5"></join>
+         
+               <p>258. 259. ( M.) 
+               
+                  <persName id="t17530607-1-defend26" type="defendantName">
+                     John 
+                     Underwood 
+                  <interp inst="t17530607-1-defend26" type="surname" value="Underwood"></interp>
+                     <interp inst="t17530607-1-defend26" type="given" value="John"></interp>
+                     <interp inst="t17530607-1-defend26" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17530607-1-defend28" type="defendantName">
+                     Stephen 
+                     Collard 
+                  <interp inst="t17530607-1-defend28" type="surname" value="Collard"></interp>
+                     <interp inst="t17530607-1-defend28" type="given" value="Stephen"></interp>
+                     <interp inst="t17530607-1-defend28" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17530607-1-off1" type="offenceDescription">
+                     <interp inst="t17530607-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530607-1-off1" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing thirteen pounds weight of sugar, val. 7 s. the goods of 
+                     <persName id="t17530607-1-victim29" type="victimName">
+                        Joseph 
+                        Arnold 
+                     <interp inst="t17530607-1-victim29" type="surname" value="Arnold"></interp>
+                        <interp inst="t17530607-1-victim29" type="given" value="Joseph"></interp>
+                        <interp inst="t17530607-1-victim29" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17530607-1-off1 t17530607-1-victim29"></join>
+                     </persName>
+                   , in the shop of the said Joseph
+            </rs>, <rs id="t17530607-1-cd2" type="crimeDate">June 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530607-1-off1 t17530607-1-cd2"></join>. ++.</p>
+               <p>
+            
+                  <persName id="t17530607-1-person30">
+                  Joseph 
+                  Arnold 
+               <interp inst="t17530607-1-person30" type="surname" value="Arnold"></interp>
+                     <interp inst="t17530607-1-person30" type="given" value="Joseph"></interp>
+                     <interp inst="t17530607-1-person30" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17530607-1-crimeloc3">Limehouse</placeName>
+                  <interp inst="t17530607-1-crimeloc3" type="placeName" value="Limehouse"></interp>
+                  <interp inst="t17530607-1-crimeloc3" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530607-1-off1 t17530607-1-crimeloc3"></join>; the two prisoners and the evidence came into my shop, my maid was serving them, another took the sugar, and had it under his apron; they went out, I pursued them round Limehouse church, they dropt the sugar in the churchyard, I took the evidence Hall, and carried him before Justice Berry, he granted a search warrant, and by the information of Hall I found the other two, I took them in Leadenhall-street, and carried them before my Lord-Mayor, where Underwood confest the taking the sugar.</p>
+               <p>- Hall. One Jack went to Arnold's to buy a halfpennyworth of butter, then one Ben. Ball went in, and Underwood after him, he took the sugar, I staid at the door, and saw him take it out of the window, and run through a Street, Mr. Arnold run after him, he run through the church-yard, Mr. Arnold follow'd him, he dropt it, a servant maid took it up, and brought it to Mr. Arnold, I saw it brought into the alehouse, it is the same sugar loaf that was taken.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175306070003"></xptr>Q. Did you go out a robbing?</p>
+
+
+               <p>Hall. No, we did not think of any such thing, we went out to swim.</p>
+               <p>Q. Do you know any thing of Collard ?</p>
+               <p>Hall. Yes, there was six of us together.</p>
+               <p>Q. Was there no mention of getting money in any unlawful way ?</p>
+               <p>Hall. No, Sir, indeed.</p>
+               <p>Q. What is your way of living?</p>
+               <p>Hall. I live with a silver spinner.</p>
+               <p>Underwood's Defence.</p>
+               <p>I never was in the church-yard. Underwood <rs id="t17530607-1-verdict4" type="verdictDescription">
+                     <interp inst="t17530607-1-verdict4" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17530607-1-verdict4" type="verdictSubcategory" value="theftunder5s"></interp>
+               guilty 4 s. 10 d
+            </rs>, Collard <rs id="t17530607-1-verdict5" type="verdictDescription">
+                     <interp inst="t17530607-1-verdict5" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17530607-1-punish6" type="punishmentDescription">
+                     <interp inst="t17530607-1-punish6" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17530607-1-defend26 t17530607-1-punish6"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390718-12">
+               <interp inst="t17390718-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390718-12" type="year" value="1739"></interp>
+               <interp inst="t17390718-12" type="uri" value="sessionsPapers/17390718"></interp>
+               <interp inst="t17390718-12" type="date" value="17390718"></interp>
+               <join result="criminalCharge" id="t17390718-12-off56-c89" targOrder="Y" targets="t17390718-12-defend111 t17390718-12-off56 t17390718-12-verdict58"></join>
+         
+               <p>399. 
+               
+                  <persName id="t17390718-12-defend111" type="defendantName">
+                     Elizabeth 
+                     Keeve 
+                  <interp inst="t17390718-12-defend111" type="surname" value="Keeve"></interp>
+                     <interp inst="t17390718-12-defend111" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17390718-12-defend111" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17390718-12-defloc55">St. Butolph, Bishopsgate</placeName>
+                  <interp inst="t17390718-12-defloc55" type="placeName" value="St. Butolph, Bishopsgate"></interp>
+                  <interp inst="t17390718-12-defloc55" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17390718-12-defend111 t17390718-12-defloc55"></join>, was indicted for <rs id="t17390718-12-off56" type="offenceDescription">
+                     <interp inst="t17390718-12-off56" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390718-12-off56" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Pair of Men's Shoes, value 3 s. two Pair of Women's Leather Shoes, value 3 s. six Pair of Damask Shoes, value 12 s. two Pair of Leather Clogs, value 2 s. and several Goods
+            </rs>, the Property of 
+               
+                  <persName id="t17390718-12-victim113" type="victimName">
+                     John 
+                     Ridout 
+                  <interp inst="t17390718-12-victim113" type="surname" value="Ridout"></interp>
+                     <interp inst="t17390718-12-victim113" type="given" value="John"></interp>
+                     <interp inst="t17390718-12-victim113" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17390718-12-off56 t17390718-12-victim113"></join>
+                  </persName>
+                
+            , <rs id="t17390718-12-cd57" type="crimeDate">Feb. 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390718-12-off56 t17390718-12-cd57"></join>. <rs id="t17390718-12-verdict58" type="verdictDescription">
+                     <interp inst="t17390718-12-verdict58" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17390718-12-verdict58" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17390718-12-punish59" type="punishmentDescription">
+                     <interp inst="t17390718-12-punish59" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17390718-12-punish59" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390718-12-defend111 t17390718-12-punish59"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

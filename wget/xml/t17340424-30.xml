@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340424-30">
+               <interp inst="t17340424-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340424-30" type="year" value="1734"></interp>
+               <interp inst="t17340424-30" type="uri" value="sessionsPapers/17340424"></interp>
+               <interp inst="t17340424-30" type="date" value="17340424"></interp>
+               <join result="criminalCharge" id="t17340424-30-off135-c170" targOrder="Y" targets="t17340424-30-defend231 t17340424-30-off135 t17340424-30-verdict137"></join>
+         
+               <p>33. 
+               
+                  <persName id="t17340424-30-defend231" type="defendantName">
+                     Mary 
+                     Marlow , alias <rs id="t17340424-30-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17340424-30-defend231 t17340424-30-alias-4"></join>Marling</rs>
+                     <interp inst="t17340424-30-defend231" type="surname" value="Marlow"></interp>
+                     <interp inst="t17340424-30-defend231" type="given" value="Mary"></interp>
+                     <interp inst="t17340424-30-defend231" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340424-30-off135" type="offenceDescription">
+                     <interp inst="t17340424-30-off135" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340424-30-off135" type="offenceSubcategory" value="other"></interp>
+               stealing a Silk Wastcoat trimm'd with Silver, a Silk Pair of Breeches, 9 yards of Callimanco, 5 yards of Linnen, and 2 yards of Lace
+            </rs>, the Goods of 
+               
+                  <persName id="t17340424-30-victim233" type="victimName">
+                     Edward 
+                     Trickson 
+                  <interp inst="t17340424-30-victim233" type="surname" value="Trickson"></interp>
+                     <interp inst="t17340424-30-victim233" type="given" value="Edward"></interp>
+                     <interp inst="t17340424-30-victim233" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340424-30-off135 t17340424-30-victim233"></join>
+                  </persName>
+                
+            , <rs id="t17340424-30-cd136" type="crimeDate">March 25</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340424-30-off135 t17340424-30-cd136"></join>. <rs id="t17340424-30-verdict137" type="verdictDescription">
+                     <interp inst="t17340424-30-verdict137" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17340424-30-punish138" type="punishmentDescription">
+                     <interp inst="t17340424-30-punish138" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340424-30-defend231 t17340424-30-punish138"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

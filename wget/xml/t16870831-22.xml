@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-22">
+               <interp inst="t16870831-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-22" type="year" value="1687"></interp>
+               <interp inst="t16870831-22" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-22" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-22-off111-c90" targOrder="Y" targets="t16870831-22-defend121 t16870831-22-off111 t16870831-22-verdict115"></join>
+               <join result="criminalCharge" id="t16870831-22-off111-c91" targOrder="Y" targets="t16870831-22-defend122 t16870831-22-off111 "></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870831-22-defend121" type="defendantName">
+                     Thomas 
+                     Littleford
+                  <interp inst="t16870831-22-defend121" type="surname" value="Littleford"></interp>
+                     <interp inst="t16870831-22-defend121" type="given" value="Thomas"></interp>
+                     <interp inst="t16870831-22-defend121" type="gender" value="male"></interp>
+                  </persName>
+               
+             as Principal, and 
+               <persName id="t16870831-22-defend122" type="defendantName">
+                  Mary 
+                  Cornwhite
+               <interp inst="t16870831-22-defend122" type="surname" value="Cornwhite"></interp>
+                     <interp inst="t16870831-22-defend122" type="given" value="Mary"></interp>
+                     <interp inst="t16870831-22-defend122" type="gender" value="female"></interp>
+                  </persName>
+             as Accessary, were Tryed for <rs id="t16870831-22-off111" type="offenceDescription">
+                     <interp inst="t16870831-22-off111" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870831-22-off111" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking of the Chamber of <rs id="t16870831-22-viclabel112" type="occupation">Sir</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870831-22-victim124 t16870831-22-viclabel112"></join> 
+                  
+                     
+                        <persName id="t16870831-22-victim124" type="victimName">
+                           Edmund 
+                           Anderson
+                        <interp inst="t16870831-22-victim124" type="surname" value="Anderson"></interp>
+                        <interp inst="t16870831-22-victim124" type="given" value="Edmund"></interp>
+                        <interp inst="t16870831-22-victim124" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-22-off111 t16870831-22-victim124"></join>
+                     </persName>
+                     
+                  , in <placeName id="t16870831-22-crimeloc113">Cony-Court in Grays Inn</placeName>
+                     <interp inst="t16870831-22-crimeloc113" type="placeName" value="Cony-Court in Grays Inn"></interp>
+                     <interp inst="t16870831-22-crimeloc113" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870831-22-off111 t16870831-22-crimeloc113"></join>, on the <rs id="t16870831-22-cd114" type="crimeDate">2d of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-22-off111 t16870831-22-cd114"></join> last, and taking thence a Point Cravat; a Cornet, a wrought Bed Silver wrought Cushions, a Shirt, a Bolster, a pair of Curtains, Sheets, and other goods to a very considerable value
+            </rs>: Upon Tryal it appeared, that the Chamber had been entred and in many Locks broke open, and the Goods taken away, part of which were found in the possession of Cornwhite, and were brought thither by Littleford and others, who had been seen a little before very full of Monys &amp; offering another part of the Goods to Sale, so that the proof being full against him, he was found <rs id="t16870831-22-verdict115" type="verdictDescription">
+                     <interp inst="t16870831-22-verdict115" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870831-22-verdict115" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of the Felony, but not, of the Breaking
+            </rs>, and Cornwhite pleading that they were lodged in her house under the presence of being an Upholsterers Good that had failed in his Trade, and it not appearing she had any profit thereby she was <rs id="t16870831-22-verdict116" type="verdictDescription">
+                     <interp inst="t16870831-22-verdict116" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16870831-22-punish117" type="punishmentDescription">
+                     <interp inst="t16870831-22-punish117" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-22-defend121 t16870831-22-punish117"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-22-defend122 t16870831-22-punish117"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

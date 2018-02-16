@@ -1,3 +1,401 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680518-24">
+               <interp inst="t17680518-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680518-24" type="year" value="1768"></interp>
+               <interp inst="t17680518-24" type="uri" value="sessionsPapers/17680518"></interp>
+               <interp inst="t17680518-24" type="date" value="17680518"></interp>
+               <join result="criminalCharge" id="t17680518-24-off120-c208" targOrder="Y" targets="t17680518-24-defend263 t17680518-24-off120 t17680518-24-verdict124"></join>
+               <join result="criminalCharge" id="t17680518-24-off120-c209" targOrder="Y" targets="t17680518-24-defend265 t17680518-24-off120 t17680518-24-verdict124"></join>
+               <join result="criminalCharge" id="t17680518-24-off126-c208" targOrder="Y" targets="t17680518-24-defend263 t17680518-24-off126 t17680518-24-verdict124"></join>
+               <join result="criminalCharge" id="t17680518-24-off126-c209" targOrder="Y" targets="t17680518-24-defend265 t17680518-24-off126 t17680518-24-verdict124"></join>
+         
+               <p>367, 368. (M.) 
+               
+                  <persName id="t17680518-24-defend263" type="defendantName">
+                     James 
+                     Bohannan 
+                  <interp inst="t17680518-24-defend263" type="surname" value="Bohannan"></interp>
+                     <interp inst="t17680518-24-defend263" type="given" value="James"></interp>
+                     <interp inst="t17680518-24-defend263" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680518-24-defend265" type="defendantName">
+                     William 
+                     Johnson 
+                  <interp inst="t17680518-24-defend265" type="surname" value="Johnson"></interp>
+                     <interp inst="t17680518-24-defend265" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-defend265" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17680518-24-off120" type="offenceDescription">
+                     <interp inst="t17680518-24-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680518-24-off120" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the dwelling-house of 
+                     <persName id="t17680518-24-person266">
+                        Richard 
+                        West 
+                     <interp inst="t17680518-24-person266" type="surname" value="West"></interp>
+                        <interp inst="t17680518-24-person266" type="given" value="Richard"></interp>
+                        <interp inst="t17680518-24-person266" type="gender" value="male"></interp>
+                     </persName>
+                   on the <rs id="t17680518-24-cd121" type="crimeDate">11th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-24-off120 t17680518-24-cd121"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-24-off126 t17680518-24-cd121"></join>, about the hour of three in the night, and stealing ninety pounds weight of starch, value 30 s.
+            </rs> the property of 
+               
+                  <persName id="t17680518-24-victim268" type="victimName">
+                     John 
+                     Jackson 
+                  <interp inst="t17680518-24-victim268" type="surname" value="Jackson"></interp>
+                     <interp inst="t17680518-24-victim268" type="given" value="John"></interp>
+                     <interp inst="t17680518-24-victim268" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680518-24-victim270" type="victimName">
+                     Richard 
+                     West 
+                  <interp inst="t17680518-24-victim270" type="surname" value="West"></interp>
+                     <interp inst="t17680518-24-victim270" type="given" value="Richard"></interp>
+                     <interp inst="t17680518-24-victim270" type="gender" value="male"></interp>
+                  </persName>
+               
+            . +</p>
+               <p>
+            
+                  <persName id="t17680518-24-person271">
+                  Richard 
+                  West 
+               <interp inst="t17680518-24-person271" type="surname" value="West"></interp>
+                     <interp inst="t17680518-24-person271" type="given" value="Richard"></interp>
+                     <interp inst="t17680518-24-person271" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17680518-24-person272">
+                  John 
+                  Jackson 
+               <interp inst="t17680518-24-person272" type="surname" value="Jackson"></interp>
+                     <interp inst="t17680518-24-person272" type="given" value="John"></interp>
+                     <interp inst="t17680518-24-person272" type="gender" value="male"></interp>
+                  </persName>
+             and I are partners; we <rs id="t17680518-24-viclabel122" type="occupation">keep an oil-shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680518-24-victim268 t17680518-24-viclabel122"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680518-24-victim270 t17680518-24-viclabel122"></join> at the corner of <placeName id="t17680518-24-crimeloc123">Hays's-court, in King's-street, Soho</placeName>
+                  <interp inst="t17680518-24-crimeloc123" type="placeName" value="Hays's-court, in King's-street, Soho"></interp>
+                  <interp inst="t17680518-24-crimeloc123" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-24-off120 t17680518-24-crimeloc123"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-24-off126 t17680518-24-crimeloc123"></join>; there are three fans cut out in the window, in order to give light into the shop; our starch was in papers piled up upon the top of a drawer near the window. In the night of the 11th of March one of the fans was broke, and they had put their hand through and drawn out 23 papers of starch; this window looks out into the court, there is no shutter to it, there are only irons; we could trace the starch from our house to a house in St. Giles's; I went and got a search-warrant from Justice Welch, and went to the house; we wanted to go into a room, nobody would open it; the constable broke it open, there we found 23 papers of starch, with an apron thrown over it; the prisoner Johnson and Marsh were taken before they came to the house, we brought them and the woman of the house to Justice Welch; the men were discharged, and I was brought over to prosecute the woman last sessions for receiving the goods; she said the starch was brought in unknown to her; that bill has not been tried.</p>
+               <p>Q. What time did you go to bed over night?</p>
+               <p>West. I went to bed about eleven, all was fast then, and the window whole; in the morning I found there was a whole pane taken out.</p>
+               <p>Mr. Slaytre. I seeing the breach in the window, and missing the starch, traced it to this house in St. Giles's there was some scattered within the door of the house; I told the woman we had a search-warrant, her name is Harrop, we broke the room door open, and there found 23 papers of starch. The window was safe about a quarter past ten over night, and we found it broken about a quarter past six the next morning.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person273">
+                  William 
+                  Marsh 
+               <interp inst="t17680518-24-person273" type="surname" value="Marsh"></interp>
+                     <interp inst="t17680518-24-person273" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-person273" type="gender" value="male"></interp>
+                  </persName>
+            . I was concerned with the two prisoners in breaking the prosecutor's window; Johnson was the person that broke it and took out the starch, and delivered it to me and Bohannan; we carried the starch to Harrop's lodging.</p>
+               <p>Q. What time of the night was it when you broke the window?</p>
+               <p>Marsh. As night as I can guess it was about half an hour after three in the morning.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person274">
+                  Elizabeth 
+                  Harrop 
+               <interp inst="t17680518-24-person274" type="surname" value="Harrop"></interp>
+                     <interp inst="t17680518-24-person274" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680518-24-person274" type="gender" value="female"></interp>
+                  </persName>
+            . On the 11th of March 
+               <persName id="t17680518-24-person275">
+                  William 
+                  Marsh 
+               <interp inst="t17680518-24-person275" type="surname" value="Marsh"></interp>
+                     <interp inst="t17680518-24-person275" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-person275" type="gender" value="male"></interp>
+                  </persName>
+             and the two prisoners came to my lodgings; I had no fastening to my door, but a chair; they pushed it away and came in, and left<xptr type="pageFacsimile" doc="176805180018"></xptr> some things; they went out and brought in a great quantity of starch. In the morning I asked them what they intended to do with all that starch.</p>
+               <p>Q. Which of them brought it in?</p>
+               <p>E. Harrop. Marsh and Bohannan did.</p>
+               <p>Q. What time?</p>
+               <p>E. Harrop. I believe between two and three in the morning.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person276">
+                  Thomas 
+                  Wilson 
+               <interp inst="t17680518-24-person276" type="surname" value="Wilson"></interp>
+                     <interp inst="t17680518-24-person276" type="given" value="Thomas"></interp>
+                     <interp inst="t17680518-24-person276" type="gender" value="male"></interp>
+                  </persName>
+            . On the 12th of March I searched this woman's lodging; I found the starch all in papers, covered over with an apron; the room door was locked, the woman refused to give me the key; we seeing starch scattered about, we pulled the staple out and got in; we found Johnson and Marsh coming up the street; I did not see Bohannan at that time; I took them with the woman; nothing could be made out against the men at that time, they were discharged.</p>
+               <p>Mr. Graham. I am a constable; I had a warrant from Sir 
+               <persName id="t17680518-24-person277">
+                  John 
+                  Fielding 
+               <interp inst="t17680518-24-person277" type="surname" value="Fielding"></interp>
+                     <interp inst="t17680518-24-person277" type="given" value="John"></interp>
+                     <interp inst="t17680518-24-person277" type="gender" value="male"></interp>
+                  </persName>
+            , I took Bohannan in Westminster, and 
+               <persName id="t17680518-24-person278">
+                  Johnson
+               <interp inst="t17680518-24-person278" type="given" value="Johnson"></interp>
+                     <interp inst="t17680518-24-person278" type="gender" value="male"></interp>
+                  </persName>
+             I took in St. Giles's the 18th of last month in the house of Boswell, he had a stick in his hand, and could hardly walk to Sir John Fielding's; I believe he had the goal distemper and foul disease together; going down he asked me what was the matter; I told him 
+               <persName id="t17680518-24-person279">
+                  Elizabeth 
+                  Harrop 
+               <interp inst="t17680518-24-person279" type="surname" value="Harrop"></interp>
+                     <interp inst="t17680518-24-person279" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680518-24-person279" type="gender" value="female"></interp>
+                  </persName>
+             was turned King's evidence.</p>
+               <p>West. This was the second time they were taken up.</p>
+               <p>Q. to Graham. How did Johnson seem to be the first time he was taken?</p>
+               <p>Graham. He seemed to be very well then.</p>
+               <p>Bohannan defence.</p>
+               <p>I am as Innocent of what I am accused of as the child unborn; I went along with a person, and Marsh happened to be present at the time; he was talking about one thing and another, the facts he had committed; two or three days after Marsh was there; he asked me to drink along with him, I did; and the must nows I heard was, this Marsh and Johnson were taken up; I saw no more of them till after I was taken up.</p>
+               <p>Johnson's defence.</p>
+               <p>Marsh said at Mr. Welch's he had been acquainted with me about two days; this woman was admitted evidence; she said she saw me come into the room and brought nothing with me, and went out again, and came in with more starch; I know someone of it than your Lordship does, for I was in bed when the fact was said to be committed; Graham knows I was sick at the time.</p>
+               <p>For Bohannan.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person280">
+                  James 
+                  Keith 
+               <interp inst="t17680518-24-person280" type="surname" value="Keith"></interp>
+                     <interp inst="t17680518-24-person280" type="given" value="James"></interp>
+                     <interp inst="t17680518-24-person280" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bohannan some years; he has worked for me ten months; he never wronged me.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person281">
+                  Sarah 
+                  Layman 
+               <interp inst="t17680518-24-person281" type="surname" value="Layman"></interp>
+                     <interp inst="t17680518-24-person281" type="given" value="Sarah"></interp>
+                     <interp inst="t17680518-24-person281" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Bohannan from the year his Majesty was crowned; my husband is a taylor, he worked for us about four years; he was very just and honest to us.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person282">
+                  Fergus 
+                  Fergus 
+               <interp inst="t17680518-24-person282" type="surname" value="Fergus"></interp>
+                     <interp inst="t17680518-24-person282" type="given" value="Fergus"></interp>
+                     <interp inst="t17680518-24-person282" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him six years; he worked with me three or four years ago; I have heard nothing ill of him till this affair.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person283">
+                  William 
+                  Graham 
+               <interp inst="t17680518-24-person283" type="surname" value="Graham"></interp>
+                     <interp inst="t17680518-24-person283" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-person283" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him from his infancy; I never heard any thing bad of him till this.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person284">
+                  Alexander
+               <interp inst="t17680518-24-person284" type="given" value="Alexander"></interp>
+                     <interp inst="t17680518-24-person284" type="gender" value="male"></interp>
+                  </persName>
+             M'Dogal. He worked for me part of last summer, he behaved well; I never heard any thing bad of him till this.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person285">
+                  Isabella 
+                  Murray 
+               <interp inst="t17680518-24-person285" type="surname" value="Murray"></interp>
+                     <interp inst="t17680518-24-person285" type="given" value="Isabella"></interp>
+                     <interp inst="t17680518-24-person285" type="gender" value="female"></interp>
+                  </persName>
+            . I have known him from three years of age; I never heard any thing bad of him till now.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person286">
+                  Mary 
+                  Murray 
+               <interp inst="t17680518-24-person286" type="surname" value="Murray"></interp>
+                     <interp inst="t17680518-24-person286" type="given" value="Mary"></interp>
+                     <interp inst="t17680518-24-person286" type="gender" value="female"></interp>
+                  </persName>
+            . I have known him from a year old; he has an extreme good character.</p>
+               <p>For Johnson.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person287">
+                  Alice 
+                  Grimes 
+               <interp inst="t17680518-24-person287" type="surname" value="Grimes"></interp>
+                     <interp inst="t17680518-24-person287" type="given" value="Alice"></interp>
+                     <interp inst="t17680518-24-person287" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Johnson ever since he has been born; I never heard any harm of him before this.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person288">
+                  John 
+                  Bee 
+               <interp inst="t17680518-24-person288" type="surname" value="Bee"></interp>
+                     <interp inst="t17680518-24-person288" type="given" value="John"></interp>
+                     <interp inst="t17680518-24-person288" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Johnson between four and five years, he is an honest hard working lad as far as I know.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person289">
+                  Charles 
+                  Atkins 
+               <interp inst="t17680518-24-person289" type="surname" value="Atkins"></interp>
+                     <interp inst="t17680518-24-person289" type="given" value="Charles"></interp>
+                     <interp inst="t17680518-24-person289" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Johnson about five years, he is a very industrious young lad; he was brought up with his father to sell poultry and things.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person290">
+                  Henry 
+                  Bean 
+               <interp inst="t17680518-24-person290" type="surname" value="Bean"></interp>
+                     <interp inst="t17680518-24-person290" type="given" value="Henry"></interp>
+                     <interp inst="t17680518-24-person290" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Johnson about ten years, he is an honest lad, I never heard to the contrary.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person291">
+                  Jane 
+                  Johnson 
+               <interp inst="t17680518-24-person291" type="surname" value="Johnson"></interp>
+                     <interp inst="t17680518-24-person291" type="given" value="Jane"></interp>
+                     <interp inst="t17680518-24-person291" type="gender" value="female"></interp>
+                  </persName>
+            . I am his mother, he lived with me, he was in my habitation that very night; he is about seventeen years of age.</p>
+               <p>- Johnson. I am his father, I sell poultry; I left my son in bed on a ground floor on Saturday the 11th of March; when I got up, before the bell rang five, he was very bad, groaning very much; he has got the foul distemper; my wife goes to Billingsgate, and I to another market; we went out together.</p>
+               <p>Both <rs id="t17680518-24-verdict124" type="verdictDescription">
+                     <interp inst="t17680518-24-verdict124" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680518-24-punish125" type="punishmentDescription">
+                     <interp inst="t17680518-24-punish125" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680518-24-defend263 t17680518-24-punish125"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680518-24-defend265 t17680518-24-punish125"></join>
+               Death
+            </rs>.</p>
+               <p>(M.) They were a 2d time indicted for <rs id="t17680518-24-off126" type="offenceDescription">
+                     <interp inst="t17680518-24-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680518-24-off126" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the dwelling-house of 
+                     
+                        <persName id="t17680518-24-victim293" type="victimName">
+                           William 
+                           Griffin 
+                        <interp inst="t17680518-24-victim293" type="surname" value="Griffin"></interp>
+                        <interp inst="t17680518-24-victim293" type="given" value="William"></interp>
+                        <interp inst="t17680518-24-victim293" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   on the <rs id="t17680518-24-cd127" type="crimeDate">11th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-24-off120 t17680518-24-cd127"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-24-off126 t17680518-24-cd127"></join>, about the hour of three in the night, and stealing three cornelian seals set in metal, value 4 s. three cornelian seals set in silver, value 2 s. a pair of crystal sleeve buttons set in silver, value 2 s. two pair of mocha sleeve buttons set in silver, value 4 s. three pair of earring<xptr type="pageFacsimile" doc="176805180019"></xptr> collenders, value 1 s. one pair of iron buckles, value 6 d. three iron seals, value 6 d. four glass smelling-bottles, value 2 s. three pair of silver spreaders, value 1 s. and one yellow metal ring set with cornelian stone, value 1 s. the property of the said William
+            </rs>. +</p>
+               <p>
+            
+                  <persName id="t17680518-24-person294">
+                  William 
+                  Griffin 
+               <interp inst="t17680518-24-person294" type="surname" value="Griffin"></interp>
+                     <interp inst="t17680518-24-person294" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-person294" type="gender" value="male"></interp>
+                  </persName>
+            . I live near <placeName id="t17680518-24-crimeloc128">St. James's-market</placeName>
+                  <interp inst="t17680518-24-crimeloc128" type="placeName" value="St. James's-market"></interp>
+                  <interp inst="t17680518-24-crimeloc128" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-24-off120 t17680518-24-crimeloc128"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-24-off126 t17680518-24-crimeloc128"></join>, I <rs id="t17680518-24-viclabel129" type="occupation">deal in toys</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680518-24-victim293 t17680518-24-viclabel129"></join>; on the 12th of March, early in the morning, between two and three o'clock, I was alarmed with thieves breaking in at the window, I came down undressed; before I came down there were four holes bored through the shutter, and the glass was broke; they were taking the things mentioned in the indictment out, the noise of my coming down prevented them from proceeding; I opened the inside shutter, and heard a hand in among the goods; I left all safe, and the things were in their places in my shop when I went to bed; the things mentioned in the indictment were taken away; a few days after a neighbour let me know there were such like goods I had lost at Justice Welch's; in consequence of which I went there, and saw my goods with my own hand-writing upon them; there were not all, there wanted two articles, a smelling-bottle and the mocoa-ring.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person295">
+                  Thomas 
+                  Wilson 
+               <interp inst="t17680518-24-person295" type="surname" value="Wilson"></interp>
+                     <interp inst="t17680518-24-person295" type="given" value="Thomas"></interp>
+                     <interp inst="t17680518-24-person295" type="gender" value="male"></interp>
+                  </persName>
+            . I am the constable, I went with the search-warrant, and found these things; Mr. Griffin owned them (produced and deposed to;) they were in a drawer, in the same room where we found the starch, as mentioned in the other indictment.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person296">
+                  William 
+                  Marsh 
+               <interp inst="t17680518-24-person296" type="surname" value="Marsh"></interp>
+                     <interp inst="t17680518-24-person296" type="given" value="William"></interp>
+                     <interp inst="t17680518-24-person296" type="gender" value="male"></interp>
+                  </persName>
+            . About two in that morning Bohannan and Johnson set out with me, with a design to rob Mr. Griffin's shop in Charles-street; we had taken notice of this shop before in the daytime, we had seen these things here produced, and several little things within-side the window.</p>
+               <p>Q. How long had you known the two prisoners?</p>
+               <p>Marsh. I had known Bohannan about three or four days before this affair, and Johnson about three weeks; when we came to the house I was placed at the corner of the street next the market, Bohannan at the other end of the street, and Johnson made the holes in the shutter with a stock and bit, I both saw and heard him; after he had made the holes he cut the remaining wood out with his knife; after that he broke the glass, and put his hand in, and took some things out, and gave them to Bohannan; after Bohannan had them in his possession, Johnson was dubious whether he would convert them to his own use, therefore he desired him to give them to me, which he accordingly did; they were found in 
+               <persName id="t17680518-24-person297">
+                  Elizabeth 
+                  Harrop 
+               <interp inst="t17680518-24-person297" type="surname" value="Harrop"></interp>
+                     <interp inst="t17680518-24-person297" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680518-24-person297" type="gender" value="female"></interp>
+                  </persName>
+            's lodging in a drawer.</p>
+               <p>Q. Who put them in the drawer?</p>
+               <p>Marsh. I might put them in myself; the next day I opened the drawer, to see if the things were there, and I saw them; immediately after we had taken these things from Mr. Griffin's shop, we went to Mr. Jackson's, and there took the starch.</p>
+               <p>Q. When was it you observed the shop of Mr. Griffin's?</p>
+               <p>Marsh. I was at it the evening before with Bohannan and Johnson, about ten o'clock.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person298">
+                  Elizabeth 
+                  Harrop 
+               <interp inst="t17680518-24-person298" type="surname" value="Harrop"></interp>
+                     <interp inst="t17680518-24-person298" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680518-24-person298" type="gender" value="female"></interp>
+                  </persName>
+            . Marsh and Johnson brought these things to my apartment, I do not remember that Bohannan was there; I was in bed when they came in.</p>
+               <p>Johnson's defence.</p>
+               <p>I never saw that woman's face till I saw her at Sir John Fielding's office.</p>
+               <p>Bohannan's defence.</p>
+               <p>I am quite ignorant of the affair, they swear to take our lives away.</p>
+               <p>Alexander Bohannan. I am father to Bohannan the prisoner, I live by the Seven Dials, my son lived with Mr. Cade.</p>
+               <p>Q. Where did he lodge in the middle of March?</p>
+               <p>Bohannan. I cannot answer to the time, I never heard no harm of him.</p>
+               <p>
+            
+                  <persName id="t17680518-24-person299">
+                  Ann 
+                  Bohannan 
+               <interp inst="t17680518-24-person299" type="surname" value="Bohannan"></interp>
+                     <interp inst="t17680518-24-person299" type="given" value="Ann"></interp>
+                     <interp inst="t17680518-24-person299" type="gender" value="female"></interp>
+                  </persName>
+            . I am his mother, he has never been a night out of our house for this last twelvemonths; he never was out of our house after ten o'clock; and went to his work from our house at six in the morning, and came-home between nine and ten; I always had a particular care of him to keep him from bad company.</p>
+               <p>Both Guilty. <rs id="t17680518-24-punish130" type="punishmentDescription">
+                     <interp inst="t17680518-24-punish130" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680518-24-defend263 t17680518-24-punish130"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680518-24-defend265 t17680518-24-punish130"></join>
+               Death
+            </rs>. <rs id="t17680518-24-verdict131" type="verdictDescription">
+                     <interp inst="t17680518-24-verdict131" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17680518-24-verdict131" type="verdictSubcategory" value="withRecommendation"></interp>
+               Recommended
+            </rs>.</p>
+            </div1>

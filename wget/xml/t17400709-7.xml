@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400709-7">
+               <interp inst="t17400709-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400709-7" type="year" value="1740"></interp>
+               <interp inst="t17400709-7" type="uri" value="sessionsPapers/17400709"></interp>
+               <interp inst="t17400709-7" type="date" value="17400709"></interp>
+               <join result="criminalCharge" id="t17400709-7-off39-c76" targOrder="Y" targets="t17400709-7-defend86 t17400709-7-off39 t17400709-7-verdict43"></join>
+         
+               <p>292. 
+               
+                  <persName id="t17400709-7-defend86" type="defendantName">
+                     John 
+                     Sargery 
+                  <interp inst="t17400709-7-defend86" type="surname" value="Sargery"></interp>
+                     <interp inst="t17400709-7-defend86" type="given" value="John"></interp>
+                     <interp inst="t17400709-7-defend86" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17400709-7-off39" type="offenceDescription">
+                     <interp inst="t17400709-7-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400709-7-off39" type="offenceSubcategory" value="other"></interp>
+               stealing 2 Silver Forks
+            </rs>, the Goods of 
+               
+                  <persName id="t17400709-7-victim88" type="victimName">
+                     Thomas 
+                     De Veil 
+                  <interp inst="t17400709-7-victim88" type="surname" value="De Veil"></interp>
+                     <interp inst="t17400709-7-victim88" type="given" value="Thomas"></interp>
+                     <interp inst="t17400709-7-victim88" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400709-7-off39 t17400709-7-victim88"></join>
+                  </persName>
+               
+            , <rs id="t17400709-7-viclabel40" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17400709-7-victim88 t17400709-7-viclabel40"></join>; <rs id="t17400709-7-cd41" type="crimeDate">June 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400709-7-off39 t17400709-7-cd41"></join>.</p>
+               <p>Mr De Veil. On the 18th of June, I employed that young Man as a <rs id="t17400709-7-deflabel42" type="occupation">Cook</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17400709-7-defend86 t17400709-7-deflabel42"></join>, to dress a Dinner at my House. These two Forks were lost out of the Kitchen: the next Witness will inform you, how he came by them.</p>
+               <p>
+            
+                  <persName id="t17400709-7-person89">
+                  Richard 
+                  Rivers 
+               <interp inst="t17400709-7-person89" type="surname" value="Rivers"></interp>
+                     <interp inst="t17400709-7-person89" type="given" value="Richard"></interp>
+                     <interp inst="t17400709-7-person89" type="gender" value="male"></interp>
+                  </persName>
+            . On the 18th of June, the Prisoner (a little in drink) brought me a Bundle in a Paper, sealed with three Seals: and says he, put this by for me till I call for it. I put it into my Cupboard, and did not look at it for a Week. But on the Thursday following I happened to be in a Wine-Cellar, where I heard that Colonel De Veil had lost 2 silver Forks. I said I believed they were in a Bundle I had from the Prisoner. I carried the Bundle to the Colonel's, and would not let it be opened till I came there. I asked him if he had lost any Forks on such a Day? Upon his saying yes, I told him I had a Bundle left with me by Sargery, which I shewed him. He opened it, and there were two Forks in it which proved to be his: he got another Fork of the same sort, and compared them together . The Bundle was never opened all the Time it was in my Custody; nor till it was carried before Colonel De Veil. This is the Paper they were wrapped up in.</p>
+               <p>Prisoner . I was vastly in Liquor, and have nothing to say, but to beg the Mercy of the Court.- I was vastly in Liquor when I did it , and did it for no Manner of Occasion.</p>
+               <p>Mr De Veil. These are the Forks the Witness brought to me; they are mine, and have my Crest upon them. <rs id="t17400709-7-verdict43" type="verdictDescription">
+                     <interp inst="t17400709-7-verdict43" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17400709-7-punish44" type="punishmentDescription">
+                     <interp inst="t17400709-7-punish44" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400709-7-defend86 t17400709-7-punish44"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

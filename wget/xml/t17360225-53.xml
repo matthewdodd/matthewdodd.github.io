@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-53">
+               <interp inst="t17360225-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-53" type="year" value="1736"></interp>
+               <interp inst="t17360225-53" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-53" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-53-off291-c227" targOrder="Y" targets="t17360225-53-defend340 t17360225-53-off291 t17360225-53-verdict292"></join>
+               <join result="criminalCharge" id="t17360225-53-off291-c228" targOrder="Y" targets="t17360225-53-defend341 t17360225-53-off291 t17360225-53-verdict292"></join>
+               <join result="criminalCharge" id="t17360225-53-off291-c229" targOrder="Y" targets="t17360225-53-defend343 t17360225-53-off291 t17360225-53-verdict292"></join>
+         
+               <p>67, 68, 69. 
+               
+                  <persName id="t17360225-53-defend340" type="defendantName">
+                     Richard 
+                     Rutt 
+                  <interp inst="t17360225-53-defend340" type="surname" value="Rutt"></interp>
+                     <interp inst="t17360225-53-defend340" type="given" value="Richard"></interp>
+                     <interp inst="t17360225-53-defend340" type="gender" value="male"></interp>
+                  </persName>
+               
+            . 
+               <persName id="t17360225-53-defend341" type="defendantName">
+                  Isaac
+                   otherwise 
+                  <rs id="t17360225-53-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17360225-53-defend341 t17360225-53-alias-5"></join>Tho.</rs> Rutt<interp inst="t17360225-53-defend341" type="surname" value="otherwise"></interp>
+                     <interp inst="t17360225-53-defend341" type="given" value="Isaac"></interp>
+                     <interp inst="t17360225-53-defend341" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t17360225-53-defend343" type="defendantName">
+                     James 
+                     Herbert 
+                  <interp inst="t17360225-53-defend343" type="surname" value="Herbert"></interp>
+                     <interp inst="t17360225-53-defend343" type="given" value="James"></interp>
+                     <interp inst="t17360225-53-defend343" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were indicted for <rs id="t17360225-53-off291" type="offenceDescription">
+                     <interp inst="t17360225-53-off291" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17360225-53-off291" type="offenceSubcategory" value="robbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17360225-53-victim345" type="victimName">
+                           Peter 
+                           Davis 
+                        <interp inst="t17360225-53-victim345" type="surname" value="Davis"></interp>
+                        <interp inst="t17360225-53-victim345" type="given" value="Peter"></interp>
+                        <interp inst="t17360225-53-victim345" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360225-53-off291 t17360225-53-victim345"></join>
+                     </persName>
+                      
+                   in the House of Isaac otherwise Thomas Rutt, putting him in Fear, and taking from him a Guinea
+            </rs>.</p>
+               <p>Peter Davis appeared in Court before the Prisoner's Arraigment, but withdrew, and not answering when called, the Court ordered the Recoganizances to be escheated. <rs id="t17360225-53-verdict292" type="verdictDescription">
+                     <interp inst="t17360225-53-verdict292" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>,</p>
+            </div1>

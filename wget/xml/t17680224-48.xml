@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-48">
+               <interp inst="t17680224-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-48" type="year" value="1768"></interp>
+               <interp inst="t17680224-48" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-48" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-48-off309-c423" targOrder="Y" targets="t17680224-48-defend532 t17680224-48-off309 t17680224-48-verdict313"></join>
+               <join result="criminalCharge" id="t17680224-48-off309-c424" targOrder="Y" targets="t17680224-48-defend534 t17680224-48-off309 t17680224-48-verdict313"></join>
+         
+               <p>214, 215. (L.) 
+               
+                  <persName id="t17680224-48-defend532" type="defendantName">
+                     George 
+                     Walker 
+                  <interp inst="t17680224-48-defend532" type="surname" value="Walker"></interp>
+                     <interp inst="t17680224-48-defend532" type="given" value="George"></interp>
+                     <interp inst="t17680224-48-defend532" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680224-48-defend534" type="defendantName">
+                     Alexander 
+                     Ross 
+                  <interp inst="t17680224-48-defend534" type="surname" value="Ross"></interp>
+                     <interp inst="t17680224-48-defend534" type="given" value="Alexander"></interp>
+                     <interp inst="t17680224-48-defend534" type="gender" value="male"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17680224-48-off309" type="offenceDescription">
+                     <interp inst="t17680224-48-off309" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680224-48-off309" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the dwelling house of 
+                     
+                        <persName id="t17680224-48-victim536" type="victimName">
+                           Samuel 
+                           Jennings 
+                        <interp inst="t17680224-48-victim536" type="surname" value="Jennings"></interp>
+                        <interp inst="t17680224-48-victim536" type="given" value="Samuel"></interp>
+                        <interp inst="t17680224-48-victim536" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17680224-48-off309 t17680224-48-victim536"></join>
+                     </persName>
+                     
+                   on the <rs id="t17680224-48-cd310" type="crimeDate">24th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-48-off309 t17680224-48-cd310"></join>, about the hour of four in the night, and stealing a mahogany tea-chest, value 2 s. three tin canisters, value 12 d. and four silver tea-spoons, value 4 s. the property of the said Samuel, in his dwelling-house
+            </rs>. +</p>
+               <p>Mrs. Jennings. I am wife to 
+               <persName id="t17680224-48-person537">
+                  Samuel 
+                  Jennings 
+               <interp inst="t17680224-48-person537" type="surname" value="Jennings"></interp>
+                     <interp inst="t17680224-48-person537" type="given" value="Samuel"></interp>
+                     <interp inst="t17680224-48-person537" type="gender" value="male"></interp>
+                  </persName>
+            , he is a <rs id="t17680224-48-viclabel311" type="occupation">journeyman printer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-48-victim536 t17680224-48-viclabel311"></join>; we live in <placeName id="t17680224-48-crimeloc312">Church-yard-court, Harp-alley</placeName>
+                  <interp inst="t17680224-48-crimeloc312" type="placeName" value="Church-yard-court, Harp-alley"></interp>
+                  <interp inst="t17680224-48-crimeloc312" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680224-48-off309 t17680224-48-crimeloc312"></join>; Walker's parents lodged in our house, I have known him from an infant. On the 24th of January the watchman alarmed me at four o'clock, and told me my house was broke open; I came down and found the shutters of the kitchen-window down, and two panes of glass taken clean out, and a mahogany tea-chest taken away; that was brought to me about six o'clock broke to pieces; Walker's sister told me he had been out all night, and very likely he knowing the house might come and do it; she took me down to the market where he was; I told him I would forgive him, if he would let me know if he did it; he would not confess; I brought him to the fitting Alderman in Guildhall, there he was cleared; after that, the man where he works at, a paper-stainer's, came and told me there was Ross that worked with Walker was likely to be concerned; I went to him, and told him I would forgive him if he would tell; then he told me that Walker and he did it; we found the tea-spoons by his directions; he went with us to the pawnbroker; he said there were three of them concerned, and that the other boy pawned the spoons; I really believe this is the first offence that Walker has committed.</p>
+               <p>Both <rs id="t17680224-48-verdict313" type="verdictDescription">
+                     <interp inst="t17680224-48-verdict313" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

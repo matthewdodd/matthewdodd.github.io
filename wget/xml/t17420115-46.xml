@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420115-46">
+               <interp inst="t17420115-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420115-46" type="year" value="1742"></interp>
+               <interp inst="t17420115-46" type="uri" value="sessionsPapers/17420115"></interp>
+               <interp inst="t17420115-46" type="date" value="17420115"></interp>
+               <join result="criminalCharge" id="t17420115-46-off200-c270" targOrder="Y" targets="t17420115-46-defend374 t17420115-46-off200 t17420115-46-verdict203"></join>
+         
+               <p>54. 
+               
+                  <persName id="t17420115-46-defend374" type="defendantName">
+                     Henry 
+                     Atterbury 
+                  <interp inst="t17420115-46-defend374" type="surname" value="Atterbury"></interp>
+                     <interp inst="t17420115-46-defend374" type="given" value="Henry"></interp>
+                     <interp inst="t17420115-46-defend374" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17420115-46-off200" type="offenceDescription">
+                     <interp inst="t17420115-46-off200" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420115-46-off200" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing (after the 24th, of June, 1731 ) 40 lbs. wt. of Lead, val. 3 s. belonging to <rs id="t17420115-46-viclabel201" type="occupation">Sir 
+                        
+                           <persName id="t17420115-46-victim376" type="victimName">
+                              John 
+                              Robinson 
+                           <interp inst="t17420115-46-victim376" type="surname" value="Robinson"></interp>
+                           <interp inst="t17420115-46-victim376" type="given" value="John"></interp>
+                           <interp inst="t17420115-46-victim376" type="gender" value="male"></interp>
+                           <join result="offenceVictim" targOrder="Y" targets="t17420115-46-off200 t17420115-46-victim376"></join>
+                        </persName>
+                         
+                     , Bart.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17420115-46-victim376 t17420115-46-viclabel201"></join> fix'd to Sheffield House
+            </rs> ; <rs id="t17420115-46-cd202" type="crimeDate">December 20th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420115-46-off200 t17420115-46-cd202"></join>, <rs id="t17420115-46-verdict203" type="verdictDescription">
+                     <interp inst="t17420115-46-verdict203" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17420115-46-punish204" type="punishmentDescription">
+                     <interp inst="t17420115-46-punish204" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17420115-46-defend374 t17420115-46-punish204"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

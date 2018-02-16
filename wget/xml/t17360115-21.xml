@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-21">
+               <interp inst="t17360115-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-21" type="year" value="1736"></interp>
+               <interp inst="t17360115-21" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-21" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-21-off125-c125" targOrder="Y" targets="t17360115-21-defend177 t17360115-21-off125 t17360115-21-verdict129"></join>
+         
+               <p>25. 
+               
+                  <persName id="t17360115-21-defend177" type="defendantName">
+                     Mary 
+                     Thompson 
+                  <interp inst="t17360115-21-defend177" type="surname" value="Thompson"></interp>
+                     <interp inst="t17360115-21-defend177" type="given" value="Mary"></interp>
+                     <interp inst="t17360115-21-defend177" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-21-defloc124">St. Martins in the Fields</placeName>
+                  <interp inst="t17360115-21-defloc124" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t17360115-21-defloc124" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-21-defend177 t17360115-21-defloc124"></join>, was indicted for <rs id="t17360115-21-off125" type="offenceDescription">
+                     <interp inst="t17360115-21-off125" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-21-off125" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Linnen Apron, value 6 d the Goods of 
+                     
+                        <persName id="t17360115-21-victim179" type="victimName">
+                           Ann 
+                           Branson 
+                        <interp inst="t17360115-21-victim179" type="surname" value="Branson"></interp>
+                        <interp inst="t17360115-21-victim179" type="given" value="Ann"></interp>
+                        <interp inst="t17360115-21-victim179" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , and 45 s. the Money of 
+                     
+                        <persName id="t17360115-21-victim181" type="victimName">
+                           Wm 
+                           Standbank 
+                        <interp inst="t17360115-21-victim181" type="surname" value="Standbank"></interp>
+                        <interp inst="t17360115-21-victim181" type="given" value="Wm"></interp>
+                        <interp inst="t17360115-21-victim181" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17360115-21-cd126" type="crimeDate">Dec. 14.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-21-off125 t17360115-21-cd126"></join>
+               </p>
+               <p>Wm. Standbank. I am a blind Man, and <rs id="t17360115-21-viclabel127" type="occupation">keep a Small-coal Shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360115-21-victim181 t17360115-21-viclabel127"></join>. I delivered the Money to my House-keeper to lay up for me, at 3 or 4 Times.</p>
+               <p>
+            
+                  <persName id="t17360115-21-person182">
+                  Ann 
+                  Branson 
+               <interp inst="t17360115-21-person182" type="surname" value="Branson"></interp>
+                     <interp inst="t17360115-21-person182" type="given" value="Ann"></interp>
+                     <interp inst="t17360115-21-person182" type="gender" value="female"></interp>
+                  </persName>
+            . I am Standbank's <rs id="t17360115-21-viclabel128" type="occupation">House-keeper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360115-21-victim179 t17360115-21-viclabel128"></join>. The Prisoner being a poor Creature, I did what I could to help her, and she now and then did a Jobb for me about the House. The 14th of Dec. I went out, and when I came home the Money was gone. I had wrapped it up in a blue Apron, and laid it up in a Cupboard. I enquired after her and found her out; I carried her before Justice Hilder, with the blue Apron upon her. The Husband was in the House when the Money was lost; but he is slipped away.</p>
+               <p>The Prisoner said in her Defence, her Husband came and asked her to go out and take a Dram; and being in haste, she took the Apron to tye about her before she went out. <rs id="t17360115-21-verdict129" type="verdictDescription">
+                     <interp inst="t17360115-21-verdict129" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

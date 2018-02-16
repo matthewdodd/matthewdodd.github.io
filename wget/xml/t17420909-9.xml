@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420909-9">
+               <interp inst="t17420909-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420909-9" type="year" value="1742"></interp>
+               <interp inst="t17420909-9" type="uri" value="sessionsPapers/17420909"></interp>
+               <interp inst="t17420909-9" type="date" value="17420909"></interp>
+               <join result="criminalCharge" id="t17420909-9-off47-c92" targOrder="Y" targets="t17420909-9-defend111 t17420909-9-off47 t17420909-9-verdict50"></join>
+         
+               <p>63. 
+               
+                  <persName id="t17420909-9-defend111" type="defendantName">
+                     John 
+                     Foster 
+                  <interp inst="t17420909-9-defend111" type="surname" value="Foster"></interp>
+                     <interp inst="t17420909-9-defend111" type="given" value="John"></interp>
+                     <interp inst="t17420909-9-defend111" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17420909-9-defloc46">St Dunstan's in the East</placeName>
+                  <interp inst="t17420909-9-defloc46" type="placeName" value="St Dunstan's in the East"></interp>
+                  <interp inst="t17420909-9-defloc46" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17420909-9-defend111 t17420909-9-defloc46"></join>, was indicted for <rs id="t17420909-9-off47" type="offenceDescription">
+                     <interp inst="t17420909-9-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420909-9-off47" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Man's Hat, val. 3 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17420909-9-victim113" type="victimName">
+                     Thomas 
+                     Phillips 
+                  <interp inst="t17420909-9-victim113" type="surname" value="Phillips"></interp>
+                     <interp inst="t17420909-9-victim113" type="given" value="Thomas"></interp>
+                     <interp inst="t17420909-9-victim113" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17420909-9-off47 t17420909-9-victim113"></join>
+                  </persName>
+                
+            , <rs id="t17420909-9-cd48" type="crimeDate">August 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420909-9-off47 t17420909-9-cd48"></join>.</p>
+               <p>
+            
+                  <persName id="t17420909-9-person114">
+                  Thomas 
+                  Phillips 
+               <interp inst="t17420909-9-person114" type="surname" value="Phillips"></interp>
+                     <interp inst="t17420909-9-person114" type="given" value="Thomas"></interp>
+                     <interp inst="t17420909-9-person114" type="gender" value="male"></interp>
+                  </persName>
+            . I lost my Hat off <placeName id="t17420909-9-crimeloc49">Wiggin's Key</placeName>
+                  <interp inst="t17420909-9-crimeloc49" type="placeName" value="Wiggin's Key"></interp>
+                  <interp inst="t17420909-9-crimeloc49" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17420909-9-off47 t17420909-9-crimeloc49"></join>, it lay between two Sticks upon the Key; he own'd to Mr Mascal, that he took it, or I had not known it. The Constable went with me to the Man where the Hat was sold or pawned, and I had my Hat again.</p>
+               <p>
+            
+                  <persName id="t17420909-9-person115">
+                  Jeremiah 
+                  Mascal 
+               <interp inst="t17420909-9-person115" type="surname" value="Mascal"></interp>
+                     <interp inst="t17420909-9-person115" type="given" value="Jeremiah"></interp>
+                     <interp inst="t17420909-9-person115" type="gender" value="male"></interp>
+                  </persName>
+            . He owned he took the Hat, and said if I would let him go, he would produce it. <rs id="t17420909-9-verdict50" type="verdictDescription">
+                     <interp inst="t17420909-9-verdict50" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

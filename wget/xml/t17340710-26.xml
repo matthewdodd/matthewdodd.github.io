@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340710-26">
+               <interp inst="t17340710-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340710-26" type="year" value="1734"></interp>
+               <interp inst="t17340710-26" type="uri" value="sessionsPapers/17340710"></interp>
+               <interp inst="t17340710-26" type="date" value="17340710"></interp>
+               <join result="criminalCharge" id="t17340710-26-off106-c143" targOrder="Y" targets="t17340710-26-defend194 t17340710-26-off106 t17340710-26-verdict109"></join>
+         
+               <p>31. 
+               
+                  <persName id="t17340710-26-defend194" type="defendantName">
+                     James 
+                     Firth 
+                  <interp inst="t17340710-26-defend194" type="surname" value="Firth"></interp>
+                     <interp inst="t17340710-26-defend194" type="given" value="James"></interp>
+                     <interp inst="t17340710-26-defend194" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for the <rs id="t17340710-26-off106" type="offenceDescription">
+                     <interp inst="t17340710-26-off106" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17340710-26-off106" type="offenceSubcategory" value="murder"></interp>
+               Murder of 
+                     <persName id="t17340710-26-victim195" type="victimName">
+                        Valentine 
+                        Clark 
+                     <interp inst="t17340710-26-victim195" type="surname" value="Clark"></interp>
+                        <interp inst="t17340710-26-victim195" type="given" value="Valentine"></interp>
+                        <interp inst="t17340710-26-victim195" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340710-26-off106 t17340710-26-victim195"></join>
+                     </persName>
+                   , by beating him on the Head, Breast, Belly and Back, and giving him one mortal Bruise near the left Ear, of which Bruise he instantly dy'd
+            </rs>, <rs id="t17340710-26-cd107" type="crimeDate">June 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340710-26-off106 t17340710-26-cd107"></join>.</p>
+               <p>He was a second time indicted on the Coroner's Inquest for Manslaughter.</p>
+               <p>It appear'd, that between 2 and 3 in the Morning a Quarrel happen'd between the Prisoner and the Deceas'd in <placeName id="t17340710-26-crimeloc108">Holborn</placeName>
+                  <interp inst="t17340710-26-crimeloc108" type="placeName" value="Holborn"></interp>
+                  <interp inst="t17340710-26-crimeloc108" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17340710-26-off106 t17340710-26-crimeloc108"></join>, where they box'd, and the Deceas'd was kill'd by an unlucky fall.</p>
+               <p>The Jury found the Prisoner <rs id="t17340710-26-verdict109" type="verdictDescription">
+                     <interp inst="t17340710-26-verdict109" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17340710-26-verdict109" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17340710-26-punish110" type="punishmentDescription">
+                     <interp inst="t17340710-26-punish110" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17340710-26-punish110" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340710-26-defend194 t17340710-26-punish110"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

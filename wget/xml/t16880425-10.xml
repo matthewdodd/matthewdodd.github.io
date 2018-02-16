@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880425-10">
+               <interp inst="t16880425-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880425-10" type="year" value="1688"></interp>
+               <interp inst="t16880425-10" type="uri" value="sessionsPapers/16880425"></interp>
+               <interp inst="t16880425-10" type="date" value="16880425"></interp>
+               <join result="criminalCharge" id="t16880425-10-off47-c53" targOrder="Y" targets="t16880425-10-defend74 t16880425-10-off47 t16880425-10-verdict49"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880425-10-defend74" type="defendantName">
+                     Joseph 
+                     Peirce
+                  <interp inst="t16880425-10-defend74" type="surname" value="Peirce"></interp>
+                     <interp inst="t16880425-10-defend74" type="given" value="Joseph"></interp>
+                     <interp inst="t16880425-10-defend74" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t16880425-10-defloc46">St. Giles Cripplegate</placeName>
+                  <interp inst="t16880425-10-defloc46" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t16880425-10-defloc46" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880425-10-defend74 t16880425-10-defloc46"></join>, was Indicted for <rs id="t16880425-10-off47" type="offenceDescription">
+                     <interp inst="t16880425-10-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880425-10-off47" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing on the <rs id="t16880425-10-cd48" type="crimeDate">Second of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880425-10-off47 t16880425-10-cd48"></join> last, four half Crowns, from 
+                     
+                        <persName id="t16880425-10-victim76" type="victimName">
+                           Thomas 
+                           Parnell
+                        <interp inst="t16880425-10-victim76" type="surname" value="Parnell"></interp>
+                        <interp inst="t16880425-10-victim76" type="given" value="Thomas"></interp>
+                        <interp inst="t16880425-10-victim76" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880425-10-off47 t16880425-10-victim76"></join>
+                     </persName>
+                     
+                  : It appeared upon the Evidence, that he came into Parnell's Shop, and took the Money out of a slit in the Till, with a thin Stick and Bird-lime at the end of it
+            </rs>: And the Prosecutor making it appear he had lost Money several times before, the Jury brought him in <rs id="t16880425-10-verdict49" type="verdictDescription">
+                     <interp inst="t16880425-10-verdict49" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16880425-10-punish50" type="punishmentDescription">
+                     <interp inst="t16880425-10-punish50" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880425-10-punish50" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880425-10-defend74 t16880425-10-punish50"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

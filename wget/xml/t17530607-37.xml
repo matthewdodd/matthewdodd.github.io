@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530607-37">
+               <interp inst="t17530607-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530607-37" type="year" value="1753"></interp>
+               <interp inst="t17530607-37" type="uri" value="sessionsPapers/17530607"></interp>
+               <interp inst="t17530607-37" type="date" value="17530607"></interp>
+               <join result="criminalCharge" id="t17530607-37-off191-c314" targOrder="Y" targets="t17530607-37-defend388 t17530607-37-off191 t17530607-37-verdict196"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175306070031"></xptr>307. (M.) 
+               <persName id="t17530607-37-defend388" type="defendantName">
+                  Alexander
+                   M'Donald
+               <interp inst="t17530607-37-defend388" type="surname" value="M'Donald"></interp>
+                     <interp inst="t17530607-37-defend388" type="given" value="Alexander"></interp>
+                     <interp inst="t17530607-37-defend388" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17530607-37-off191" type="offenceDescription">
+                     <interp inst="t17530607-37-off191" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530607-37-off191" type="offenceSubcategory" value="other"></interp>
+               stealing 27 pair of worsted stockings, 5 pair of thread stockings, 10 pair of cotton stockings, 6 silk handkerchiefs, 100 yards of linnen cloath, 11 yards of muslin, and one dimity waistcoat
+            </rs>, the goods of 
+               
+                  <persName id="t17530607-37-victim390" type="victimName">
+                     William 
+                     Erwin 
+                  <interp inst="t17530607-37-victim390" type="surname" value="Erwin"></interp>
+                     <interp inst="t17530607-37-victim390" type="given" value="William"></interp>
+                     <interp inst="t17530607-37-victim390" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17530607-37-off191 t17530607-37-victim390"></join>
+                  </persName>
+                
+            , <rs id="t17530607-37-cd192" type="crimeDate">May 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530607-37-off191 t17530607-37-cd192"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17530607-37-person391">
+                  William 
+                  Erwin 
+               <interp inst="t17530607-37-person391" type="surname" value="Erwin"></interp>
+                     <interp inst="t17530607-37-person391" type="given" value="William"></interp>
+                     <interp inst="t17530607-37-person391" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17530607-37-crimeloc193">Hounslow</placeName>
+                  <interp inst="t17530607-37-crimeloc193" type="placeName" value="Hounslow"></interp>
+                  <interp inst="t17530607-37-crimeloc193" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530607-37-off191 t17530607-37-crimeloc193"></join> ; the prisoner was my <rs id="t17530607-37-deflabel194" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530607-37-defend388 t17530607-37-deflabel194"></join> to carry for me ; I am a <rs id="t17530607-37-viclabel195" type="occupation">Scotch pedlar</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530607-37-victim390 t17530607-37-viclabel195"></join>. On the 11th of last month I was coming to London, and left some goods at Brentford, I order'd the prisoner to bring some of them to me to the Castle at Hammersmith ; he did not come; he took the goods I had lost there, and others I had left at Hounslow, which were in the room where he lay, and went off. The goods mention'd in the indictment were the goods he took from the 2 places, (mention'd them over.) He and the goods being missing, I advertised him, and them he was taken with the goods upon him at Morpesh ; I sent the warrant after him, he was brought up to London, and the goods too ; I have got them all. (Produc'd in court, and depos'd to) I took the prisoner before my Lord-Mayor, he confess'd taking the goods; the waistcoat was found on his back.</p>
+               <p>The prisoner had nothing to say for himself.</p>
+               <p>
+                  <rs id="t17530607-37-verdict196" type="verdictDescription">
+                     <interp inst="t17530607-37-verdict196" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17530607-37-punish197" type="punishmentDescription">
+                     <interp inst="t17530607-37-punish197" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17530607-37-defend388 t17530607-37-punish197"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

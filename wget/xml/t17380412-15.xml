@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380412-15">
+               <interp inst="t17380412-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380412-15" type="year" value="1738"></interp>
+               <interp inst="t17380412-15" type="uri" value="sessionsPapers/17380412"></interp>
+               <interp inst="t17380412-15" type="date" value="17380412"></interp>
+               <join result="criminalCharge" id="t17380412-15-off75-c88" targOrder="Y" targets="t17380412-15-defend120 t17380412-15-off75 t17380412-15-verdict77"></join>
+         
+               <p>20. 
+               
+                  <persName id="t17380412-15-defend120" type="defendantName">
+                     Ann
+                      Griffiths, otherwise <rs id="t17380412-15-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17380412-15-defend120 t17380412-15-alias-3"></join>Perrot</rs>
+                     <interp inst="t17380412-15-defend120" type="surname" value="Griffiths"></interp>
+                     <interp inst="t17380412-15-defend120" type="given" value="Ann"></interp>
+                     <interp inst="t17380412-15-defend120" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380412-15-off75" type="offenceDescription">
+                     <interp inst="t17380412-15-off75" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380412-15-off75" type="offenceSubcategory" value="other"></interp>
+               stealing a Wooden Box, two Flannel Petticoats, two quilted Coats, three Aprons, six Handkerchiefs, &amp;c.
+            </rs> the Goods of 
+               
+                  <persName id="t17380412-15-victim122" type="victimName">
+                     Daniel 
+                     Fletcher 
+                  <interp inst="t17380412-15-victim122" type="surname" value="Fletcher"></interp>
+                     <interp inst="t17380412-15-victim122" type="given" value="Daniel"></interp>
+                     <interp inst="t17380412-15-victim122" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380412-15-off75 t17380412-15-victim122"></join>
+                  </persName>
+                
+            , <rs id="t17380412-15-cd76" type="crimeDate">March 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-15-off75 t17380412-15-cd76"></join>, <rs id="t17380412-15-verdict77" type="verdictDescription">
+                     <interp inst="t17380412-15-verdict77" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380412-15-verdict77" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17380412-15-punish78" type="punishmentDescription">
+                     <interp inst="t17380412-15-punish78" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380412-15-defend120 t17380412-15-punish78"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

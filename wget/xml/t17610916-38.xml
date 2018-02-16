@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610916-38">
+               <interp inst="t17610916-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610916-38" type="year" value="1761"></interp>
+               <interp inst="t17610916-38" type="uri" value="sessionsPapers/17610916"></interp>
+               <interp inst="t17610916-38" type="date" value="17610916"></interp>
+               <join result="criminalCharge" id="t17610916-38-off201-c306" targOrder="Y" targets="t17610916-38-defend371 t17610916-38-off201 t17610916-38-verdict203"></join>
+         
+               <p>258. (L) 
+               
+                  <persName id="t17610916-38-defend371" type="defendantName">
+                     James
+                      M'Locklin
+                  <interp inst="t17610916-38-defend371" type="surname" value="M'Locklin"></interp>
+                     <interp inst="t17610916-38-defend371" type="given" value="James"></interp>
+                     <interp inst="t17610916-38-defend371" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17610916-38-off201" type="offenceDescription">
+                     <interp inst="t17610916-38-off201" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610916-38-off201" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 300 l. weight of sugar, value 5 l.
+            </rs> the property of 
+               
+                  <persName id="t17610916-38-victim373" type="victimName">
+                     Christopher 
+                     Baldwin 
+                  <interp inst="t17610916-38-victim373" type="surname" value="Baldwin"></interp>
+                     <interp inst="t17610916-38-victim373" type="given" value="Christopher"></interp>
+                     <interp inst="t17610916-38-victim373" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610916-38-off201 t17610916-38-victim373"></join>
+                  </persName>
+                
+            , <rs id="t17610916-38-cd202" type="crimeDate">August 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610916-38-off201 t17610916-38-cd202"></join>.~</p>
+               <p>There was no evidence that could convict the prisoner, exclusive of that of his own confession, which was made in expectation of favour promised him.</p>
+               <p>
+                  <rs id="t17610916-38-verdict203" type="verdictDescription">
+                     <interp inst="t17610916-38-verdict203" type="verdictCategory" value="notGuilty"></interp>
+               Acq.
+            </rs>
+               </p>
+            </div1>

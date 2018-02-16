@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-19">
+               <interp inst="t17340911-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-19" type="year" value="1734"></interp>
+               <interp inst="t17340911-19" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-19" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-19-off93-c123" targOrder="Y" targets="t17340911-19-defend170 t17340911-19-off93 t17340911-19-verdict95"></join>
+         
+               <p>24. 
+               
+                  <persName id="t17340911-19-defend170" type="defendantName">
+                     Grace 
+                     Smith 
+                  <interp inst="t17340911-19-defend170" type="surname" value="Smith"></interp>
+                     <interp inst="t17340911-19-defend170" type="given" value="Grace"></interp>
+                     <interp inst="t17340911-19-defend170" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17340911-19-off93" type="offenceDescription">
+                     <interp inst="t17340911-19-off93" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340911-19-off93" type="offenceSubcategory" value="other"></interp>
+               stealing four Yards of Irish Linen
+            </rs>, the Property of 
+               
+                  <persName id="t17340911-19-victim172" type="victimName">
+                     Elizabeth 
+                     Trevit 
+                  <interp inst="t17340911-19-victim172" type="surname" value="Trevit"></interp>
+                     <interp inst="t17340911-19-victim172" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17340911-19-victim172" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340911-19-off93 t17340911-19-victim172"></join>
+                  </persName>
+                
+            , <rs id="t17340911-19-cd94" type="crimeDate">Sept. 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-19-off93 t17340911-19-cd94"></join>. <rs id="t17340911-19-verdict95" type="verdictDescription">
+                     <interp inst="t17340911-19-verdict95" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

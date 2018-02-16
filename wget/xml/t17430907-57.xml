@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17430907-57">
+               <interp inst="t17430907-57" type="collection" value="BAILEY"></interp>
+               <interp inst="t17430907-57" type="year" value="1743"></interp>
+               <interp inst="t17430907-57" type="uri" value="sessionsPapers/17430907"></interp>
+               <interp inst="t17430907-57" type="date" value="17430907"></interp>
+               <join result="criminalCharge" id="t17430907-57-off293-c460" targOrder="Y" targets="t17430907-57-defend559 t17430907-57-off293 t17430907-57-verdict295"></join>
+         
+               <p>433. 
+               
+                  <persName id="t17430907-57-defend559" type="defendantName">
+                     William 
+                     James 
+                  <interp inst="t17430907-57-defend559" type="surname" value="James"></interp>
+                     <interp inst="t17430907-57-defend559" type="given" value="William"></interp>
+                     <interp inst="t17430907-57-defend559" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17430907-57-defloc292">St Margaret, Westminster</placeName>
+                  <interp inst="t17430907-57-defloc292" type="placeName" value="St Margaret, Westminster"></interp>
+                  <interp inst="t17430907-57-defloc292" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430907-57-defend559 t17430907-57-defloc292"></join>, was indicted for <rs id="t17430907-57-off293" type="offenceDescription">
+                     <interp inst="t17430907-57-off293" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17430907-57-off293" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Tablecloths, value 2 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17430907-57-victim561" type="victimName">
+                     Elias 
+                     Jones 
+                  <interp inst="t17430907-57-victim561" type="surname" value="Jones"></interp>
+                     <interp inst="t17430907-57-victim561" type="given" value="Elias"></interp>
+                     <interp inst="t17430907-57-victim561" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17430907-57-off293 t17430907-57-victim561"></join>
+                  </persName>
+                
+            , <rs id="t17430907-57-cd294" type="crimeDate">April 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17430907-57-off293 t17430907-57-cd294"></join>. <rs id="t17430907-57-verdict295" type="verdictDescription">
+                     <interp inst="t17430907-57-verdict295" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

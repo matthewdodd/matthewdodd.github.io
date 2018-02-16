@@ -1,3 +1,89 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17540911-5">
+               <interp inst="t17540911-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17540911-5" type="year" value="1754"></interp>
+               <interp inst="t17540911-5" type="uri" value="sessionsPapers/17540911"></interp>
+               <interp inst="t17540911-5" type="date" value="17540911"></interp>
+               <join result="criminalCharge" id="t17540911-5-off25-c52" targOrder="Y" targets="t17540911-5-defend60 t17540911-5-off25 t17540911-5-verdict28"></join>
+         
+               <p>417. (M.) 
+               
+                  <persName id="t17540911-5-defend60" type="defendantName">
+                     John 
+                     Davies 
+                  <interp inst="t17540911-5-defend60" type="surname" value="Davies"></interp>
+                     <interp inst="t17540911-5-defend60" type="given" value="John"></interp>
+                     <interp inst="t17540911-5-defend60" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17540911-5-off25" type="offenceDescription">
+                     <interp inst="t17540911-5-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17540911-5-off25" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing one violin, val. 15 s.
+            </rs> the property of 
+               
+                  <persName id="t17540911-5-victim62" type="victimName">
+                     Richard 
+                     Duke 
+                  <interp inst="t17540911-5-victim62" type="surname" value="Duke"></interp>
+                     <interp inst="t17540911-5-victim62" type="given" value="Richard"></interp>
+                     <interp inst="t17540911-5-victim62" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17540911-5-off25 t17540911-5-victim62"></join>
+                  </persName>
+                
+            , <rs id="t17540911-5-cd26" type="crimeDate">Aug 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17540911-5-off25 t17540911-5-cd26"></join>. ++.</p>
+               <p>
+            
+                  <persName id="t17540911-5-person63">
+                  Richard 
+                  Duke 
+               <interp inst="t17540911-5-person63" type="surname" value="Duke"></interp>
+                     <interp inst="t17540911-5-person63" type="given" value="Richard"></interp>
+                     <interp inst="t17540911-5-person63" type="gender" value="male"></interp>
+                  </persName>
+            . On the 7th of August the prisoner was brought into my shop. [a musick shop, <placeName id="t17540911-5-crimeloc27">Red-Lion Street, Holbourn</placeName>
+                  <interp inst="t17540911-5-crimeloc27" type="placeName" value="Red-Lion Street, Holbourn"></interp>
+                  <interp inst="t17540911-5-crimeloc27" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17540911-5-off25 t17540911-5-crimeloc27"></join>] I was told he had stole a violin which was my property, but can say nothing to the stealing of it, not being then in the shop. The prisoner denied the taking it. The violin produced in court.</p>
+               <p>Q. What is the Value of it?</p>
+               <p>Duke. It is worth about 15 s.</p>
+               <p>
+            
+                  <persName id="t17540911-5-person64">
+                  George 
+                  Pearson 
+               <interp inst="t17540911-5-person64" type="surname" value="Pearson"></interp>
+                     <interp inst="t17540911-5-person64" type="given" value="George"></interp>
+                     <interp inst="t17540911-5-person64" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the prisoner go into the prosecutor's shop on the 7th of August as I was going on an errand, and saw him come out and put the violin under his coat. The woman of the shop came out and called, Stop him, Stop him. He ran away.</p>
+               <p>Q. Did you see him taken?</p>
+               <p>Pearson. No, I did not. I saw a man bring him back into the shop, and saw a violin produced there, but can't say it is the same I saw before.</p>
+               <p>
+            
+                  <persName id="t17540911-5-person65">
+                  James 
+                  Welch 
+               <interp inst="t17540911-5-person65" type="surname" value="Welch"></interp>
+                     <interp inst="t17540911-5-person65" type="given" value="James"></interp>
+                     <interp inst="t17540911-5-person65" type="gender" value="male"></interp>
+                  </persName>
+            . When they cried, Stop Thief, the prisoner had the violin and a bow under his coat. A porter stopp'd him and they both fell down. The prisoner dropp'd the violin, and I took it up and would have given it him, but he denied it being his property. The mob carried him to Mr. Duke's shop, and there I saw a violin produced, but whether it is that which fell from the prisoner I can't tell.</p>
+               <p>Prisoner's defence</p>
+               <p>As I was going through the Red Lion passage, there I heard there was a siddle dropp'd, but I know nothing of it. I am by trade a shoemaker.</p>
+               <p>
+                  <rs id="t17540911-5-verdict28" type="verdictDescription">
+                     <interp inst="t17540911-5-verdict28" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17540911-5-punish29" type="punishmentDescription">
+                     <interp inst="t17540911-5-punish29" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17540911-5-defend60 t17540911-5-punish29"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

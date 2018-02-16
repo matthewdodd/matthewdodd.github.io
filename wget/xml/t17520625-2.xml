@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520625-2">
+               <interp inst="t17520625-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520625-2" type="year" value="1752"></interp>
+               <interp inst="t17520625-2" type="uri" value="sessionsPapers/17520625"></interp>
+               <interp inst="t17520625-2" type="date" value="17520625"></interp>
+               <join result="criminalCharge" id="t17520625-2-off7-c37" targOrder="Y" targets="t17520625-2-defend39 t17520625-2-off7 t17520625-2-verdict11"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175206250003"></xptr>322. (M.) 
+               
+                  <persName id="t17520625-2-defend39" type="defendantName">
+                     Henry 
+                     Incledon 
+                  <interp inst="t17520625-2-defend39" type="surname" value="Incledon"></interp>
+                     <interp inst="t17520625-2-defend39" type="given" value="Henry"></interp>
+                     <interp inst="t17520625-2-defend39" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17520625-2-off7" type="offenceDescription">
+                     <interp inst="t17520625-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520625-2-off7" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 chintz curtains, val. 18 s. one quilt, val. 20 s. one linen sheet, val. 8 s.
+            </rs> the goods of 
+               
+                  <persName id="t17520625-2-victim41" type="victimName">
+                     John 
+                     Utteridge 
+                  <interp inst="t17520625-2-victim41" type="surname" value="Utteridge"></interp>
+                     <interp inst="t17520625-2-victim41" type="given" value="John"></interp>
+                     <interp inst="t17520625-2-victim41" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520625-2-off7 t17520625-2-victim41"></join>
+                  </persName>
+                
+            , <rs id="t17520625-2-cd8" type="crimeDate">June 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520625-2-off7 t17520625-2-cd8"></join>. * </p>
+               <p>John Utteridge. I <rs id="t17520625-2-viclabel9" type="occupation">keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520625-2-victim41 t17520625-2-viclabel9"></join>, the prisoner came to my house the 2d of June, and lodged with me four nights. The sixth in the morning he went away, and a rope was found hanging out of his room windov, fastened to it above, and the things mentioned in the indictment were missing, which were there when he went to bed. I saw the maid lock his chamber door when he went to bed, and she left the key in the door on the outside. I saw it unlocked the next morning.</p>
+               <p>Q. Have you met with your goods again?</p>
+               <p>Utteridge. No I have not, my lord.</p>
+               <p>
+            
+                  <persName id="t17520625-2-person42">
+                  James 
+                  Read 
+               <interp inst="t17520625-2-person42" type="surname" value="Read"></interp>
+                     <interp inst="t17520625-2-person42" type="given" value="James"></interp>
+                     <interp inst="t17520625-2-person42" type="gender" value="male"></interp>
+                  </persName>
+            . I unlocked the door in the morning about a quarer before five; there was a cord fastened to a stape, and made like a ladder, and the things mentioned missing.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I have lain at that inn at <placeName id="t17520625-2-crimeloc10">Hammersmith</placeName>
+                  <interp inst="t17520625-2-crimeloc10" type="placeName" value="Hammersmith"></interp>
+                  <interp inst="t17520625-2-crimeloc10" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17520625-2-off7 t17520625-2-crimeloc10"></join> where the Prosecutor lives divers times, I always paid when I went to bed. This time the door was not locked, I came down and went out as usual.</p>
+               <p>
+                  <rs id="t17520625-2-verdict11" type="verdictDescription">
+                     <interp inst="t17520625-2-verdict11" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17520625-2-punish12" type="punishmentDescription">
+                     <interp inst="t17520625-2-punish12" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17520625-2-punish12" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520625-2-defend39 t17520625-2-punish12"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

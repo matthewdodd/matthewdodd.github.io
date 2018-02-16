@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490222-47">
+               <interp inst="t17490222-47" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490222-47" type="year" value="1749"></interp>
+               <interp inst="t17490222-47" type="uri" value="sessionsPapers/17490222"></interp>
+               <interp inst="t17490222-47" type="date" value="17490222"></interp>
+               <join result="criminalCharge" id="t17490222-47-off214-c204" targOrder="Y" targets="t17490222-47-defend293 t17490222-47-off214 t17490222-47-verdict217"></join>
+         
+               <p>214. 
+               
+                  <persName id="t17490222-47-defend293" type="defendantName">
+                     Mary 
+                     Buttler 
+                  <interp inst="t17490222-47-defend293" type="surname" value="Buttler"></interp>
+                     <interp inst="t17490222-47-defend293" type="given" value="Mary"></interp>
+                     <interp inst="t17490222-47-defend293" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17490222-47-off214" type="offenceDescription">
+                     <interp inst="t17490222-47-off214" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490222-47-off214" type="offenceSubcategory" value="other"></interp>
+               stealing two linen table-cloths, three check aprons, two flat irons
+            </rs>, the goods of 
+               
+                  <persName id="t17490222-47-victim295" type="victimName">
+                     Josiah 
+                     Overly 
+                  <interp inst="t17490222-47-victim295" type="surname" value="Overly"></interp>
+                     <interp inst="t17490222-47-victim295" type="given" value="Josiah"></interp>
+                     <interp inst="t17490222-47-victim295" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490222-47-off214 t17490222-47-victim295"></join>
+                  </persName>
+                
+            , <rs id="t17490222-47-cd215" type="crimeDate">Feb. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490222-47-off214 t17490222-47-cd215"></join>.</p>
+               <p>
+            
+                  <persName id="t17490222-47-person296">
+                  Josiah 
+                  Overly 
+               <interp inst="t17490222-47-person296" type="surname" value="Overly"></interp>
+                     <interp inst="t17490222-47-person296" type="given" value="Josiah"></interp>
+                     <interp inst="t17490222-47-person296" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner robb'd me of these things , mention'd in the indictment; she has liv'd with me these two years, as a <rs id="t17490222-47-deflabel216" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490222-47-defend293 t17490222-47-deflabel216"></join>, and I put trust in her. I never thought any thing ill of her, till the twenty-first of this instant we happened to have a great wash, and we lost out of that wash a coloured apron, and as this apron could not be produc'd, she declar'd she had been the thief. For all I had miss'd things from the beginning of July, she bid me not blame any person else. My sister went with her to one Taylor, a pawnbroker, she call'd for the things, and they were produced, all but one table-cloth, and one flat iron. I never was so much surprized, as when she confessed it.</p>
+               <p>Prisoner. I have nothing to say for myself.</p>
+               <p>
+                  <rs id="t17490222-47-verdict217" type="verdictDescription">
+                     <interp inst="t17490222-47-verdict217" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17490222-47-punish218" type="punishmentDescription">
+                     <interp inst="t17490222-47-punish218" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17490222-47-punish218" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490222-47-defend293 t17490222-47-punish218"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

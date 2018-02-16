@@ -1,3 +1,90 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870114-18">
+               <interp inst="t16870114-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870114-18" type="year" value="1687"></interp>
+               <interp inst="t16870114-18" type="uri" value="sessionsPapers/16870114"></interp>
+               <interp inst="t16870114-18" type="date" value="16870114"></interp>
+               <join result="criminalCharge" id="t16870114-18-off97-c76" targOrder="Y" targets="t16870114-18-defend110 t16870114-18-off97 t16870114-18-verdict99"></join>
+               <join result="criminalCharge" id="t16870114-18-off97-c77" targOrder="Y" targets="t16870114-18-defend112 t16870114-18-off97 t16870114-18-verdict99"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870114-18-defend110" type="defendantName">
+                     James 
+                     Burrow
+                  <interp inst="t16870114-18-defend110" type="surname" value="Burrow"></interp>
+                     <interp inst="t16870114-18-defend110" type="given" value="James"></interp>
+                     <interp inst="t16870114-18-defend110" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16870114-18-defend112" type="defendantName">
+                     Thomas 
+                     Bears
+                  <interp inst="t16870114-18-defend112" type="surname" value="Bears"></interp>
+                     <interp inst="t16870114-18-defend112" type="given" value="Thomas"></interp>
+                     <interp inst="t16870114-18-defend112" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16870114-18-defloc96">St. Margarets Westminster</placeName>
+                  <interp inst="t16870114-18-defloc96" type="placeName" value="St. Margarets Westminster"></interp>
+                  <interp inst="t16870114-18-defloc96" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870114-18-defend110 t16870114-18-defloc96"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870114-18-defend112 t16870114-18-defloc96"></join>, were Indicted, for that they <rs id="t16870114-18-off97" type="offenceDescription">
+                     <interp inst="t16870114-18-off97" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870114-18-off97" type="offenceSubcategory" value="grandLarceny"></interp>
+               together with<xptr type="pageFacsimile" doc="16870114003"></xptr>one 
+                     <persName id="t16870114-18-person113">
+                        Francis 
+                        Ferris
+                     <interp inst="t16870114-18-person113" type="surname" value="Ferris"></interp>
+                        <interp inst="t16870114-18-person113" type="given" value="Francis"></interp>
+                        <interp inst="t16870114-18-person113" type="gender" value="male"></interp>
+                     </persName>
+                   and 
+                     <persName id="t16870114-18-person114">
+                        John 
+                        Knight
+                     <interp inst="t16870114-18-person114" type="surname" value="Knight"></interp>
+                        <interp inst="t16870114-18-person114" type="given" value="John"></interp>
+                        <interp inst="t16870114-18-person114" type="gender" value="male"></interp>
+                     </persName>
+                   not yet taken, did steale one pair of Holland Sheets, value 20 s. one Rag, value 20 s. and a Looking Glass, value 20 s.
+            </rs> the Goods of 
+               
+                  <persName id="t16870114-18-victim116" type="victimName">
+                     Elizabeth 
+                     Newland
+                  <interp inst="t16870114-18-victim116" type="surname" value="Newland"></interp>
+                     <interp inst="t16870114-18-victim116" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16870114-18-victim116" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870114-18-off97 t16870114-18-victim116"></join>
+                  </persName>
+               
+            , <rs id="t16870114-18-viclabel98" type="occupation">Widdow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16870114-18-victim116 t16870114-18-viclabel98"></join>. The Evidence for the King, declared that Bears was found in the house of the Prosecutor, and Barrow was sitting without the door, waiting for his Comerade Bears, and that another person was seen to go from the house, with a Bundle of Linnen under his Arm, which Bears Confess'd when he was Apprehended, was a Granadeer, and one of the Gang and had taken away the Goods; Barrow, upon his Tryal denyed all, and Bears said that Barrow took away the Sheets, and the other, viz. 
+               <persName id="t16870114-18-person117">
+                  John 
+                  Knight
+               <interp inst="t16870114-18-person117" type="surname" value="Knight"></interp>
+                     <interp inst="t16870114-18-person117" type="given" value="John"></interp>
+                     <interp inst="t16870114-18-person117" type="gender" value="male"></interp>
+                  </persName>
+            , and that he did not meddle with any thing, but upon a full hearing, they were both found <rs id="t16870114-18-verdict99" type="verdictDescription">
+                     <interp inst="t16870114-18-verdict99" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16870114-18-punish100" type="punishmentDescription">
+                     <interp inst="t16870114-18-punish100" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870114-18-punish100" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870114-18-defend110 t16870114-18-punish100"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870114-18-defend112 t16870114-18-punish100"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

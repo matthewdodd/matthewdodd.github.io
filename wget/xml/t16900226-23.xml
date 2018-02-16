@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-23">
+               <interp inst="t16900226-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-23" type="year" value="1690"></interp>
+               <interp inst="t16900226-23" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-23" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-23-off100-c90" targOrder="Y" targets="t16900226-23-defend90 t16900226-23-off100 t16900226-23-verdict102"></join>
+         
+               <p>
+            
+                  <persName id="t16900226-23-defend90" type="defendantName">
+                  Rowland 
+                  Tomkins
+               <interp inst="t16900226-23-defend90" type="surname" value="Tomkins"></interp>
+                     <interp inst="t16900226-23-defend90" type="given" value="Rowland"></interp>
+                     <interp inst="t16900226-23-defend90" type="gender" value="male"></interp>
+                  </persName>
+             was Tryed for <rs id="t16900226-23-off100" type="offenceDescription">
+                     <interp inst="t16900226-23-off100" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16900226-23-off100" type="offenceSubcategory" value="other"></interp>
+               Killing 
+                     <persName id="t16900226-23-victim91" type="victimName">
+                        William 
+                        Holding
+                     <interp inst="t16900226-23-victim91" type="surname" value="Holding"></interp>
+                        <interp inst="t16900226-23-victim91" type="given" value="William"></interp>
+                        <interp inst="t16900226-23-victim91" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-23-off100 t16900226-23-victim91"></join>
+                     </persName>
+                  
+               
+                  </rs>, on the <rs id="t16900226-23-cd101" type="crimeDate">25th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-23-off100 t16900226-23-cd101"></join> last. It appeared that the Prisoner and the deceased were trying of Guns together, in some other company, and the prisoner's Gun happened to go off against the deceased, the deceased having struck the prisoner with a little Switch before; he said, he could find in his heart to shoot him; but no Malice appeared to have been formerly between them, for they Loved as Brothers, he was found <rs id="t16900226-23-verdict102" type="verdictDescription">
+                     <interp inst="t16900226-23-verdict102" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900226-23-verdict102" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter only
+            </rs>.</p>
+               <p>
+                  <rs id="t16900226-23-punish103" type="punishmentDescription">
+                     <interp inst="t16900226-23-punish103" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900226-23-punish103" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900226-23-defend90 t16900226-23-punish103"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891211-30">
+               <interp inst="t16891211-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891211-30" type="year" value="1689"></interp>
+               <interp inst="t16891211-30" type="uri" value="sessionsPapers/16891211"></interp>
+               <interp inst="t16891211-30" type="date" value="16891211"></interp>
+               <join result="criminalCharge" id="t16891211-30-off130-c94" targOrder="Y" targets="t16891211-30-defend141 t16891211-30-off130 t16891211-30-verdict133"></join>
+               <join result="criminalCharge" id="t16891211-30-off130-c95" targOrder="Y" targets="t16891211-30-defend143 t16891211-30-off130 t16891211-30-verdict134"></join>
+               <join result="criminalCharge" id="t16891211-30-off130-c96" targOrder="Y" targets="t16891211-30-defend145 t16891211-30-off130 t16891211-30-verdict133"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16891211-30-defend141" type="defendantName">
+                     John 
+                     Longstaff
+                  <interp inst="t16891211-30-defend141" type="surname" value="Longstaff"></interp>
+                     <interp inst="t16891211-30-defend141" type="given" value="John"></interp>
+                     <interp inst="t16891211-30-defend141" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16891211-30-defend143" type="defendantName">
+                     William 
+                     Butler
+                  <interp inst="t16891211-30-defend143" type="surname" value="Butler"></interp>
+                     <interp inst="t16891211-30-defend143" type="given" value="William"></interp>
+                     <interp inst="t16891211-30-defend143" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16891211-30-defend145" type="defendantName">
+                     William 
+                     Riggs
+                  <interp inst="t16891211-30-defend145" type="surname" value="Riggs"></interp>
+                     <interp inst="t16891211-30-defend145" type="given" value="William"></interp>
+                     <interp inst="t16891211-30-defend145" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were all Three Indicted for <rs id="t16891211-30-off130" type="offenceDescription">
+                     <interp inst="t16891211-30-off130" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16891211-30-off130" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in Breaking the House of the Right Honorable the 
+                     <persName id="t16891211-30-victim146" type="victimName">
+                        <rs id="t16891211-30-viclabel131" type="occupation">Marquis</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16891211-30-victim146 t16891211-30-viclabel131"></join> of Caermarthen<interp inst="t16891211-30-victim146" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16891211-30-off130 t16891211-30-victim146"></join>
+                     </persName>
+                  , on the <rs id="t16891211-30-cd132" type="crimeDate">28th of Septemb.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16891211-30-off130 t16891211-30-cd132"></join> last, about the Hours of 9 or 10 at night, and taking thence 3 pieces of Point for a Bed value 10 l. one Point Cion Cloth value 3 l. another 40 s. a Point Apron value 3 l. a Set Twilit, and some other Goods of good value, &amp;c.
+            </rs> The evidence declared, That Butler confest that Longstaff went in the Window, and threw the Goods out to him, and he carried them away. But Longstaff and Riggs denyed it when they were Apprehended. Butler produced all the Goods again, and no Evidence affected Longstaff and Riggs, so they were <rs id="t16891211-30-verdict133" type="verdictDescription">
+                     <interp inst="t16891211-30-verdict133" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and Butler was found <rs id="t16891211-30-verdict134" type="verdictDescription">
+                     <interp inst="t16891211-30-verdict134" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony only.</p>
+               <p>
+                  <rs id="t16891211-30-punish135" type="punishmentDescription">
+                     <interp inst="t16891211-30-punish135" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16891211-30-punish135" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16891211-30-defend143 t16891211-30-punish135"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

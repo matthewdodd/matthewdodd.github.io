@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530607-36">
+               <interp inst="t17530607-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530607-36" type="year" value="1753"></interp>
+               <interp inst="t17530607-36" type="uri" value="sessionsPapers/17530607"></interp>
+               <interp inst="t17530607-36" type="date" value="17530607"></interp>
+               <join result="criminalCharge" id="t17530607-36-off186-c311" targOrder="Y" targets="t17530607-36-defend384 t17530607-36-off186 t17530607-36-verdict189"></join>
+         
+               <p>306. (M) 
+               
+                  <persName id="t17530607-36-defend384" type="defendantName">
+                     Edward 
+                     Smith 
+                  <interp inst="t17530607-36-defend384" type="surname" value="Smith"></interp>
+                     <interp inst="t17530607-36-defend384" type="given" value="Edward"></interp>
+                     <interp inst="t17530607-36-defend384" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17530607-36-off186" type="offenceDescription">
+                     <interp inst="t17530607-36-off186" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530607-36-off186" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one stone mug, tipp'd with silver, value 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17530607-36-victim386" type="victimName">
+                     James 
+                     Button 
+                  <interp inst="t17530607-36-victim386" type="surname" value="Button"></interp>
+                     <interp inst="t17530607-36-victim386" type="given" value="James"></interp>
+                     <interp inst="t17530607-36-victim386" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17530607-36-off186 t17530607-36-victim386"></join>
+                  </persName>
+                
+            , <rs id="t17530607-36-cd187" type="crimeDate">June 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530607-36-off186 t17530607-36-cd187"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17530607-36-person387">
+                  James 
+                  Button 
+               <interp inst="t17530607-36-person387" type="surname" value="Button"></interp>
+                     <interp inst="t17530607-36-person387" type="given" value="James"></interp>
+                     <interp inst="t17530607-36-person387" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the <placeName id="t17530607-36-crimeloc188">Red-lion in Hart-street</placeName>
+                  <interp inst="t17530607-36-crimeloc188" type="placeName" value="Red-lion in Hart-street"></interp>
+                  <interp inst="t17530607-36-crimeloc188" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530607-36-off186 t17530607-36-crimeloc188"></join>, a publick house. I lost a stone mug, tipp'd with silver, on Friday last; I had a suspicion of the prisoner, and charg'd him with it, I search'd him, and in his pocket found the silver tip, (Produc'd in court, and depos'd to.) He said he had had a misfortune with the mug to break it, and put the silver in his pocket, I took him before the justice, there he said same.</p>
+               <p>Q. Did he say any thing about returning the silver again?</p>
+               <p>Button. No, my lord, he did not.</p>
+               <p>The prisoner had nothing to say.</p>
+               <p>
+                  <rs id="t17530607-36-verdict189" type="verdictDescription">
+                     <interp inst="t17530607-36-verdict189" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17530607-36-punish190" type="punishmentDescription">
+                     <interp inst="t17530607-36-punish190" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17530607-36-defend384 t17530607-36-punish190"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

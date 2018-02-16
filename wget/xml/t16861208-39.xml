@@ -1,3 +1,88 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16861208-39">
+               <interp inst="t16861208-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16861208-39" type="year" value="1686"></interp>
+               <interp inst="t16861208-39" type="uri" value="sessionsPapers/16861208"></interp>
+               <interp inst="t16861208-39" type="date" value="16861208"></interp>
+               <join result="criminalCharge" id="t16861208-39-off197-c121" targOrder="Y" targets="t16861208-39-defend170 t16861208-39-off197 t16861208-39-verdict202"></join>
+               <join result="criminalCharge" id="t16861208-39-off197-c122" targOrder="Y" targets="t16861208-39-defend172 t16861208-39-off197 t16861208-39-verdict201"></join>
+         
+               <p>
+            
+                  <persName id="t16861208-39-defend170" type="defendantName">
+                  Eleanor 
+                  Loe
+               <interp inst="t16861208-39-defend170" type="surname" value="Loe"></interp>
+                     <interp inst="t16861208-39-defend170" type="given" value="Eleanor"></interp>
+                     <interp inst="t16861208-39-defend170" type="gender" value="female"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16861208-39-defloc196">St. Clement Danes</placeName>
+                  <interp inst="t16861208-39-defloc196" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t16861208-39-defloc196" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16861208-39-defend170 t16861208-39-defloc196"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16861208-39-defend172 t16861208-39-defloc196"></join>, was Indicted together with one 
+               
+                  <persName id="t16861208-39-defend172" type="defendantName">
+                     Elizabeth 
+                     Jones
+                  <interp inst="t16861208-39-defend172" type="surname" value="Jones"></interp>
+                     <interp inst="t16861208-39-defend172" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16861208-39-defend172" type="gender" value="female"></interp>
+                  </persName>
+               
+            , for <rs id="t16861208-39-off197" type="offenceDescription">
+                     <interp inst="t16861208-39-off197" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16861208-39-off197" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Frize Coat, value 10 s. and 4 s. 6 d. in money, on the <rs id="t16861208-39-cd198" type="crimeDate">26th. of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16861208-39-off197 t16861208-39-cd198"></join> last, the goods of 
+                     <persName id="t16861208-39-victim173" type="victimName">
+                        William 
+                        Lawrence
+                     <interp inst="t16861208-39-victim173" type="surname" value="Lawrence"></interp>
+                        <interp inst="t16861208-39-victim173" type="given" value="William"></interp>
+                        <interp inst="t16861208-39-victim173" type="gender" value="male"></interp>
+                     </persName>
+                   
+                     <rs id="t16861208-39-viclabel199" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16861208-39-victim173 t16861208-39-viclabel199"></join> one Cloatch Coat, value 3 l. one Perriwig, value 20 s. the goods of 
+                     
+                        <persName id="t16861208-39-victim175" type="victimName">
+                           Morris 
+                           Gardener
+                        <interp inst="t16861208-39-victim175" type="surname" value="Gardener"></interp>
+                        <interp inst="t16861208-39-victim175" type="given" value="Morris"></interp>
+                        <interp inst="t16861208-39-victim175" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  
+               
+                  </rs>, &amp;c. The Evidence against the Prisoner, deposed that Loe was a <rs id="t16861208-39-deflabel200" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16861208-39-defend170 t16861208-39-deflabel200"></join> to Mrs. Larence, and used to defraud her Mistress of money, particularly picking her Pocket at one time of 4 s. which she told her Mistress upon her suspecting of her, and that Jones knew nothing of the matter, but was only Indicted as Accessary: And no possitive Evidence appearing against her, she was <rs id="t16861208-39-verdict201" type="verdictDescription">
+                     <interp inst="t16861208-39-verdict201" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, but 
+               <persName id="t16861208-39-person176">
+                  Eleanor 
+                  Loe
+               <interp inst="t16861208-39-person176" type="surname" value="Loe"></interp>
+                     <interp inst="t16861208-39-person176" type="given" value="Eleanor"></interp>
+                     <interp inst="t16861208-39-person176" type="gender" value="female"></interp>
+                  </persName>
+             was found <rs id="t16861208-39-verdict202" type="verdictDescription">
+                     <interp inst="t16861208-39-verdict202" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16861208-39-verdict202" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16861208-39-punish203" type="punishmentDescription">
+                     <interp inst="t16861208-39-punish203" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16861208-39-punish203" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16861208-39-defend170 t16861208-39-punish203"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16861208-39-defend172 t16861208-39-punish203"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

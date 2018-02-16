@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-5">
+               <interp inst="t17360505-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-5" type="year" value="1736"></interp>
+               <interp inst="t17360505-5" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-5" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-5-off32-c60" targOrder="Y" targets="t17360505-5-defend71 t17360505-5-off32 t17360505-5-verdict34"></join>
+         
+               <p>6. 
+               
+                  <persName id="t17360505-5-defend71" type="defendantName">
+                     William 
+                     Shaw 
+                  <interp inst="t17360505-5-defend71" type="surname" value="Shaw"></interp>
+                     <interp inst="t17360505-5-defend71" type="given" value="William"></interp>
+                     <interp inst="t17360505-5-defend71" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360505-5-defloc31">St. Ann's Westminster</placeName>
+                  <interp inst="t17360505-5-defloc31" type="placeName" value="St. Ann's Westminster"></interp>
+                  <interp inst="t17360505-5-defloc31" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-5-defend71 t17360505-5-defloc31"></join>, was indicted for <rs id="t17360505-5-off32" type="offenceDescription">
+                     <interp inst="t17360505-5-off32" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-5-off32" type="offenceSubcategory" value="other"></interp>
+               stealing two Books, called the Adventures of Telemacus, 2 vol. of Persian Letters, and one Book called a Voyage to Barbary, and a Bailey's English Dictionary
+            </rs>, the Goods of 
+               
+                  <persName id="t17360505-5-victim73" type="victimName">
+                     Charles 
+                     Banner 
+                  <interp inst="t17360505-5-victim73" type="surname" value="Banner"></interp>
+                     <interp inst="t17360505-5-victim73" type="given" value="Charles"></interp>
+                     <interp inst="t17360505-5-victim73" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360505-5-off32 t17360505-5-victim73"></join>
+                  </persName>
+                
+            , <rs id="t17360505-5-cd33" type="crimeDate">April 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-5-off32 t17360505-5-cd33"></join>.</p>
+               <p>The Fact being plainly prov'd, the Jury found him <rs id="t17360505-5-verdict34" type="verdictDescription">
+                     <interp inst="t17360505-5-verdict34" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360505-5-verdict34" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-5-punish35" type="punishmentDescription">
+                     <interp inst="t17360505-5-punish35" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-5-defend71 t17360505-5-punish35"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

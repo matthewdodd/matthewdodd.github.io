@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490705-75">
+               <interp inst="t17490705-75" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490705-75" type="year" value="1749"></interp>
+               <interp inst="t17490705-75" type="uri" value="sessionsPapers/17490705"></interp>
+               <interp inst="t17490705-75" type="date" value="17490705"></interp>
+               <join result="criminalCharge" id="t17490705-75-off351-c320" targOrder="Y" targets="t17490705-75-defend463 t17490705-75-off351 t17490705-75-verdict354"></join>
+         
+               <p>457. 
+               
+                  <persName id="t17490705-75-defend463" type="defendantName">
+                     Henry 
+                     Dixon 
+                  <interp inst="t17490705-75-defend463" type="surname" value="Dixon"></interp>
+                     <interp inst="t17490705-75-defend463" type="given" value="Henry"></interp>
+                     <interp inst="t17490705-75-defend463" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17490705-75-off351" type="offenceDescription">
+                     <interp inst="t17490705-75-off351" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490705-75-off351" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cloth coat, val. 10 s. one linen waistcoat val. 5 s.
+            </rs> the goods of 
+               
+                  <persName id="t17490705-75-victim465" type="victimName">
+                     Joseph 
+                     Hawkins 
+                  <interp inst="t17490705-75-victim465" type="surname" value="Hawkins"></interp>
+                     <interp inst="t17490705-75-victim465" type="given" value="Joseph"></interp>
+                     <interp inst="t17490705-75-victim465" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490705-75-off351 t17490705-75-victim465"></join>
+                  </persName>
+                
+            , <rs id="t17490705-75-cd352" type="crimeDate">May 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490705-75-off351 t17490705-75-cd352"></join>.</p>
+               <p>
+            
+                  <persName id="t17490705-75-person466">
+                  Joseph 
+                  Hawkins 
+               <interp inst="t17490705-75-person466" type="surname" value="Hawkins"></interp>
+                     <interp inst="t17490705-75-person466" type="given" value="Joseph"></interp>
+                     <interp inst="t17490705-75-person466" type="gender" value="male"></interp>
+                  </persName>
+            . My Master lives in <placeName id="t17490705-75-crimeloc353">White's-alley, Chancery lane</placeName>
+                  <interp inst="t17490705-75-crimeloc353" type="placeName" value="White's-alley, Chancery lane"></interp>
+                  <interp inst="t17490705-75-crimeloc353" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17490705-75-off351 t17490705-75-crimeloc353"></join>; I missed my things the 10th of May; they were taken out of my chest.</p>
+               <p>Q. Was your chest lock'd?</p>
+               <p>Hawkins. It was, my Lord; the prisoner lodged there some time, and he absconded his lodgings that very day; I had him advertis'd, and he was taken on the 10th of May.</p>
+               <p>Samuel Church. I was at the taking of the prisoner in Holborn; when he saw us he strove to run away, knowing us; we live in the same alley: I followed and took him in Drury lane; he begged of us not to take him before the Justice, but to go first to his sister. We sent for her to an ale house, and then he confest in my hearing that he got a man to sell the coat and waistcoat in Rag-fair for 3 s. 6 d.</p>
+               <p>
+            
+                  <persName id="t17490705-75-person467">
+                  James 
+                  Huffcourt 
+               <interp inst="t17490705-75-person467" type="surname" value="Huffcourt"></interp>
+                     <interp inst="t17490705-75-person467" type="given" value="James"></interp>
+                     <interp inst="t17490705-75-person467" type="gender" value="male"></interp>
+                  </persName>
+            . On the 16th of May, as we were going up Holborn, we saw the prisoner, Samuel Church ran after him and took him.</p>
+               <p>The rest as the former witness.</p>
+               <p>
+                  <rs id="t17490705-75-verdict354" type="verdictDescription">
+                     <interp inst="t17490705-75-verdict354" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17490705-75-punish355" type="punishmentDescription">
+                     <interp inst="t17490705-75-punish355" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490705-75-defend463 t17490705-75-punish355"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

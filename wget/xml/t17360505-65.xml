@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f5a91d285eb370ac38ae7c28008051ac08957761998667eb489986ea1f8e7fe
-size 739
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-65">
+               <interp inst="t17360505-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-65" type="year" value="1736"></interp>
+               <interp inst="t17360505-65" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-65" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-65-off325-c319" targOrder="Y" targets="t17360505-65-defend463 t17360505-65-off325 t17360505-65-verdict328"></join>
+               <join result="criminalCharge" id="t17360505-65-off325-c320" targOrder="Y" targets="t17360505-65-person464 t17360505-65-off325 t17360505-65-verdict327"></join>
+               <join result="criminalCharge" id="t17360505-65-off325-c321" targOrder="Y" targets="t17360505-65-defend465 t17360505-65-off325 t17360505-65-verdict327"></join>
+         
+               <p>78. 
+               <persName id="t17360505-65-defend463" type="defendantName">
+                  
+                     <persName id="t17360505-65-person464" type="defendantName">
+                        
+                           <persName id="t17360505-65-defend465" type="defendantName">
+                              Henry 
+                              Fiander 
+                           <interp inst="t17360505-65-defend465" type="surname" value="Fiander"></interp>
+                           <interp inst="t17360505-65-defend465" type="given" value="Henry"></interp>
+                           <interp inst="t17360505-65-defend465" type="gender" value="male"></interp>
+                        </persName>
+                         
+                        <interp inst="t17360505-65-person464" type="surname" value="Fiander"></interp>
+                        <interp inst="t17360505-65-person464" type="given" value="Henry"></interp>
+                        <interp inst="t17360505-65-person464" type="gender" value="male"></interp>
+                     </persName>
+                  , and Elizabeth
+                   his 
+                  <rs id="t17360505-65-deflabel324" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17360505-65-defend463 t17360505-65-deflabel324"></join>
+                     <interp inst="t17360505-65-defend463" type="surname" value="Fiander"></interp>
+                     <interp inst="t17360505-65-defend463" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17360505-65-defend463" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17360505-65-off325" type="offenceDescription">
+                     <interp inst="t17360505-65-off325" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-65-off325" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a pair of Linnen Sheets, an Iron Porrage Pot. a Brass Sauce-pan, and an Iron Trevit, the Goods of 
+                     
+                        <persName id="t17360505-65-victim467" type="victimName">
+                           Peter 
+                           Kelle 
+                        <interp inst="t17360505-65-victim467" type="surname" value="Kelle"></interp>
+                        <interp inst="t17360505-65-victim467" type="given" value="Peter"></interp>
+                        <interp inst="t17360505-65-victim467" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-65-off325 t17360505-65-victim467"></join>
+                     </persName>
+                      
+                  , out of their Lodging
+            </rs>, <rs id="t17360505-65-cd326" type="crimeDate">February 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-65-off325 t17360505-65-cd326"></join>. 
+               <persName id="t17360505-65-person468">
+                  Henry 
+                  Fiander 
+               <interp inst="t17360505-65-person468" type="surname" value="Fiander"></interp>
+                     <interp inst="t17360505-65-person468" type="given" value="Henry"></interp>
+                     <interp inst="t17360505-65-person468" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17360505-65-verdict327" type="verdictDescription">
+                     <interp inst="t17360505-65-verdict327" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>. Elizabeth <rs id="t17360505-65-verdict328" type="verdictDescription">
+                     <interp inst="t17360505-65-verdict328" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17360505-65-punish329" type="punishmentDescription">
+                     <interp inst="t17360505-65-punish329" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-65-person464 t17360505-65-punish329"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-65-defend465 t17360505-65-punish329"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

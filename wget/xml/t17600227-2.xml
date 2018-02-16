@@ -1,3 +1,92 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600227-2">
+               <interp inst="t17600227-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600227-2" type="year" value="1760"></interp>
+               <interp inst="t17600227-2" type="uri" value="sessionsPapers/17600227"></interp>
+               <interp inst="t17600227-2" type="date" value="17600227"></interp>
+               <join result="criminalCharge" id="t17600227-2-off6-c33" targOrder="Y" targets="t17600227-2-defend36 t17600227-2-off6 t17600227-2-verdict9"></join>
+         
+               <p>78. (M.) 
+               
+                  <persName id="t17600227-2-defend36" type="defendantName">
+                     Ann 
+                     Stevens 
+                  <interp inst="t17600227-2-defend36" type="surname" value="Stevens"></interp>
+                     <interp inst="t17600227-2-defend36" type="given" value="Ann"></interp>
+                     <interp inst="t17600227-2-defend36" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17600227-2-deflabel5" type="occupation">single woman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600227-2-defend36 t17600227-2-deflabel5"></join>, was indicted for <rs id="t17600227-2-off6" type="offenceDescription">
+                     <interp inst="t17600227-2-off6" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600227-2-off6" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 damask napkins, value 3 s. 3 diaper napkins, value 3 s. and 1 huckaback towel, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17600227-2-victim38" type="victimName">
+                     Charles 
+                     Fredrick 
+                  <interp inst="t17600227-2-victim38" type="surname" value="Fredrick"></interp>
+                     <interp inst="t17600227-2-victim38" type="given" value="Charles"></interp>
+                     <interp inst="t17600227-2-victim38" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600227-2-off6 t17600227-2-victim38"></join>
+                  </persName>
+                
+            , <rs id="t17600227-2-viclabel7" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600227-2-victim38 t17600227-2-viclabel7"></join>; <rs id="t17600227-2-cd8" type="crimeDate">January 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600227-2-off6 t17600227-2-cd8"></join>. +</p>
+               <p>
+            
+                  <persName id="t17600227-2-person39">
+                  Isabella 
+                  Curry 
+               <interp inst="t17600227-2-person39" type="surname" value="Curry"></interp>
+                     <interp inst="t17600227-2-person39" type="given" value="Isabella"></interp>
+                     <interp inst="t17600227-2-person39" type="gender" value="female"></interp>
+                  </persName>
+            . I serve Mr. Fredrick as housekeeper, and delivered these things with others to the prisoner, for her to wash; after which, I missed the things mentioned.</p>
+               <p>Q. Did you see them, or any of them, after?</p>
+               <p>I. Curry. I did, at justice Welch's (produced in court) these certainly are Mr. Fredrick's property.</p>
+               <p>
+            
+                  <persName id="t17600227-2-person40">
+                  Richard 
+                  Rumbolt 
+               <interp inst="t17600227-2-person40" type="surname" value="Rumbolt"></interp>
+                     <interp inst="t17600227-2-person40" type="given" value="Richard"></interp>
+                     <interp inst="t17600227-2-person40" type="gender" value="male"></interp>
+                  </persName>
+            . On the 23d of November last, I took in a towel and a napkin of the prisoner at the bar.</p>
+               <p>Q. What are you?</p>
+               <p>Rumbolt. I am servant to a pawnbroker. She said they were her own property, and that she bought them second hand.</p>
+               <p>
+            
+                  <persName id="t17600227-2-person41">
+                  Robert 
+                  Baker 
+               <interp inst="t17600227-2-person41" type="surname" value="Baker"></interp>
+                     <interp inst="t17600227-2-person41" type="given" value="Robert"></interp>
+                     <interp inst="t17600227-2-person41" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker; the prisoner pawn'd one napkin with me on the 10th of November, one on the 26th, and two more on the 19th of January.</p>
+               <p>Q. Where do you live?</p>
+               <p>Baker. I live with Mr. Reynolds, a pawnbroker, at Little Turn-stile.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was not in my senses when I did it.</p>
+               <p>
+                  <rs id="t17600227-2-verdict9" type="verdictDescription">
+                     <interp inst="t17600227-2-verdict9" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17600227-2-verdict9" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17600227-2-punish10" type="punishmentDescription">
+                     <interp inst="t17600227-2-punish10" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17600227-2-defend36 t17600227-2-punish10"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

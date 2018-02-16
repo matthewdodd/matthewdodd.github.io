@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-2">
+               <interp inst="t16900226-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-2" type="year" value="1690"></interp>
+               <interp inst="t16900226-2" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-2" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-2-off7-c32" targOrder="Y" targets="t16900226-2-defend32 t16900226-2-off7 t16900226-2-verdict10"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16900226002"></xptr>
+            
+                  <persName id="t16900226-2-defend32" type="defendantName">
+                  William 
+                  Harvey
+               <interp inst="t16900226-2-defend32" type="surname" value="Harvey"></interp>
+                     <interp inst="t16900226-2-defend32" type="given" value="William"></interp>
+                     <interp inst="t16900226-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16900226-2-off7" type="offenceDescription">
+                     <interp inst="t16900226-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900226-2-off7" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in breaking the House of 
+                     <persName id="t16900226-2-victim33" type="victimName">
+                        John 
+                        Page
+                     <interp inst="t16900226-2-victim33" type="surname" value="Page"></interp>
+                        <interp inst="t16900226-2-victim33" type="given" value="John"></interp>
+                        <interp inst="t16900226-2-victim33" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-2-off7 t16900226-2-victim33"></join>
+                     </persName>
+                   of <placeName id="t16900226-2-crimeloc8">Harrow on the Hill</placeName>
+                     <interp inst="t16900226-2-crimeloc8" type="placeName" value="Harrow on the Hill"></interp>
+                     <interp inst="t16900226-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16900226-2-off7 t16900226-2-crimeloc8"></join>, on the <rs id="t16900226-2-cd9" type="crimeDate">28th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-2-off7 t16900226-2-cd9"></join> last, taking away one Silver Tankard, value 7l. and 40s. in mony, &amp;c.
+            </rs> The Evidence deposed, That his House was broke open in the Night, and his Goods taken away, and that the Prisoner was one of the Seven men that came into the House and was taken in a Field as he was making away, and the Tankard, and a R  try, was found lying in a Hedg near the place where the Prisoner was taken, all which he owned, when taken, viz. that there were Six Men besides himself, some of which dwelt in Drury Lane, and St. Giles's. The Prisoner said, That he came by chance to Harrow, and hearing a Gun go off, went to help to apprehend the Thieves, but that did not avail him, he being an old Offender, upon the whole he was found <rs id="t16900226-2-verdict10" type="verdictDescription">
+                     <interp inst="t16900226-2-verdict10" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16900226-2-punish11" type="punishmentDescription">
+                     <interp inst="t16900226-2-punish11" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900226-2-defend32 t16900226-2-punish11"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

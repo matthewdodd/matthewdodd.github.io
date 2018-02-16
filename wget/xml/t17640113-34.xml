@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640113-34">
+               <interp inst="t17640113-34" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640113-34" type="year" value="1764"></interp>
+               <interp inst="t17640113-34" type="uri" value="sessionsPapers/17640113"></interp>
+               <interp inst="t17640113-34" type="date" value="17640113"></interp>
+               <join result="criminalCharge" id="t17640113-34-off178-c252" targOrder="Y" targets="t17640113-34-defend314 t17640113-34-off178 t17640113-34-verdict182"></join>
+         
+               <p>103. (L.) 
+               
+                  <persName id="t17640113-34-defend314" type="defendantName">
+                     John 
+                     Seymore 
+                  <interp inst="t17640113-34-defend314" type="surname" value="Seymore"></interp>
+                     <interp inst="t17640113-34-defend314" type="given" value="John"></interp>
+                     <interp inst="t17640113-34-defend314" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640113-34-off178" type="offenceDescription">
+                     <interp inst="t17640113-34-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640113-34-off178" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five linnen sheets, value 25 s.
+            </rs> the property of 
+               
+                  <persName id="t17640113-34-victim316" type="victimName">
+                     Peter 
+                     Traquet 
+                  <interp inst="t17640113-34-victim316" type="surname" value="Traquet"></interp>
+                     <interp inst="t17640113-34-victim316" type="given" value="Peter"></interp>
+                     <interp inst="t17640113-34-victim316" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640113-34-off178 t17640113-34-victim316"></join>
+                  </persName>
+                
+            , <rs id="t17640113-34-cd179" type="crimeDate">January 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640113-34-off178 t17640113-34-cd179"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17640113-34-person317">
+                  Mary 
+                  Hopkins 
+               <interp inst="t17640113-34-person317" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17640113-34-person317" type="given" value="Mary"></interp>
+                     <interp inst="t17640113-34-person317" type="gender" value="female"></interp>
+                  </persName>
+            . I am matron of the hospital, in <placeName id="t17640113-34-crimeloc180">Petty-France</placeName>
+                  <interp inst="t17640113-34-crimeloc180" type="placeName" value="Petty-France"></interp>
+                  <interp inst="t17640113-34-crimeloc180" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640113-34-off178 t17640113-34-crimeloc180"></join>, belonging to the Coldstream regiment of foot guards. On the 8th instant, I saw the sheets hanging, almost dry, from the window; they were upon a line in the garden; I am not certain to the number missing; I missed 4 pair, and an odd one, on the Monday morning.</p>
+               <p>Q. What is 
+               <persName id="t17640113-34-person318">
+                  Peter 
+                  Traquet 
+               <interp inst="t17640113-34-person318" type="surname" value="Traquet"></interp>
+                     <interp inst="t17640113-34-person318" type="given" value="Peter"></interp>
+                     <interp inst="t17640113-34-person318" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>
+            
+                  <persName id="t17640113-34-person319">
+                  Mary 
+                  Hopkins 
+               <interp inst="t17640113-34-person319" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17640113-34-person319" type="given" value="Mary"></interp>
+                     <interp inst="t17640113-34-person319" type="gender" value="female"></interp>
+                  </persName>
+            . He is <rs id="t17640113-34-viclabel181" type="occupation">master of the Hospital</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640113-34-victim316 t17640113-34-viclabel181"></join>. The sheets he bought and paid for. He pays all the bills in the house. There was a workman's ladder left, that helped the man over the wall. The sheets were mark'd C. S. R. as they belonged to the Cold Stream Regiment, that was raised at Coldstream in Scotland, from whence they take the name: (produced in court) I marked them with scarlet worsted.</p>
+               <p>Q. Whose property are they?</p>
+               <p>M. Hopkins. They are the property of the regiment.</p>
+               <p>Q. What is this hospital?</p>
+               <p>M. Hopkins. It is supported by the officers of the regiment.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176401130026"></xptr>Q. Who pays for the sheets?</p>
+               <p>M. Hopkins. Mr. Traquet pays for them: he is the doctor of the regiment, and steward of the hospital besides; he orders every thing but the diet; that I take care of. He lives in the Strand.</p>
+               <p>As the property appeared to be in the officers, and not in Mr. Traquet, he was <rs id="t17640113-34-verdict182" type="verdictDescription">
+                     <interp inst="t17640113-34-verdict182" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

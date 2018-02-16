@@ -1,3 +1,113 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370216-23">
+               <interp inst="t17370216-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370216-23" type="year" value="1737"></interp>
+               <interp inst="t17370216-23" type="uri" value="sessionsPapers/17370216"></interp>
+               <interp inst="t17370216-23" type="date" value="17370216"></interp>
+               <join result="criminalCharge" id="t17370216-23-off115-c102" targOrder="Y" targets="t17370216-23-defend154 t17370216-23-off115 t17370216-23-verdict119"></join>
+               <join result="criminalCharge" id="t17370216-23-off115-c106" targOrder="Y" targets="t17370216-23-defend160 t17370216-23-off115 t17370216-23-verdict119"></join>
+               <join result="criminalCharge" id="t17370216-23-off121-c102" targOrder="Y" targets="t17370216-23-defend154 t17370216-23-off121 t17370216-23-verdict119"></join>
+               <join result="criminalCharge" id="t17370216-23-off121-c106" targOrder="Y" targets="t17370216-23-defend160 t17370216-23-off121 t17370216-23-verdict119"></join>
+         
+               <p>25. 
+               
+                  <persName id="t17370216-23-defend154" type="defendantName">
+                     John 
+                     Watson 
+                  <interp inst="t17370216-23-defend154" type="surname" value="Watson"></interp>
+                     <interp inst="t17370216-23-defend154" type="given" value="John"></interp>
+                     <interp inst="t17370216-23-defend154" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370216-23-defloc114">Stepney</placeName>
+                  <interp inst="t17370216-23-defloc114" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17370216-23-defloc114" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370216-23-defend154 t17370216-23-defloc114"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370216-23-defend160 t17370216-23-defloc114"></join>, was <rs id="t17370216-23-off115" type="offenceDescription">
+                     <interp inst="t17370216-23-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370216-23-off115" type="offenceSubcategory" value="housebreaking"></interp>
+               indicted for breaking and entering the House of 
+                     
+                        <persName id="t17370216-23-victim156" type="victimName">
+                           Robert 
+                           Cook 
+                        <interp inst="t17370216-23-victim156" type="surname" value="Cook"></interp>
+                        <interp inst="t17370216-23-victim156" type="given" value="Robert"></interp>
+                        <interp inst="t17370216-23-victim156" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , on the <rs id="t17370216-23-cd116" type="crimeDate">5th of Feb</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-23-off115 t17370216-23-cd116"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-23-off121 t17370216-23-cd116"></join>. about 4 in the Afternoon, no one being then in the House, and stealing a Silver Tankard, value 4l. 2 Silver Spoons, value 18 s. Six Tea Spoons, value 12 s. 2 Silver Salts, value 18 s. a Silver Snuff-box, value 4s. a Silver Dram Cup, value 3 s. a Gold Ring, value 5 s. a pair of Silver Knee Buckles, value 6 s. 2 Lancets, value 2s. and 2 Knives, value 12 d. The Goods of the said Cook
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17370216-23-person157">
+                  Robert 
+                  Cook 
+               <interp inst="t17370216-23-person157" type="surname" value="Cook"></interp>
+                     <interp inst="t17370216-23-person157" type="given" value="Robert"></interp>
+                     <interp inst="t17370216-23-person157" type="gender" value="male"></interp>
+                  </persName>
+            . I went out about 2 o'Clock in the Afternoon, to buy some Meat of Mr. Neal at Wapping, and left my House safe, both Windows and Doors were fast: When I came Home, I found my House broke open; suspecting the Prisoner, I pursu'd him directly, and I found him in a Goldsmith's House, and all the Goods upon him. This was on Saturday before last, the same Night that he commited the Fact.</p>
+               <p>Q. How came you to find out the Goldsmith?</p>
+               <p>Cook. I had been pursuing the Prisoner, and not finding him, was returning Home; but I was stopp'd, and told that the Gentleman (the Gold-smith) had sent for me, and that he had stopp'd my Man with the Goods upon him. I live at <placeName id="t17370216-23-crimeloc117">Blackwall</placeName>
+                  <interp inst="t17370216-23-crimeloc117" type="placeName" value="Blackwall"></interp>
+                  <interp inst="t17370216-23-crimeloc117" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17370216-23-off115 t17370216-23-crimeloc117"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17370216-23-off121 t17370216-23-crimeloc117"></join>, and the Prisoner was my <rs id="t17370216-23-deflabel118" type="occupation">Apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370216-23-defend154 t17370216-23-deflabel118"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370216-23-defend160 t17370216-23-deflabel118"></join>; he was bound to me, no longer ago than last Wednesday was a Month.</p>
+               <p>
+            
+                  <persName id="t17370216-23-person158">
+                  Jonah 
+                  Walker 
+               <interp inst="t17370216-23-person158" type="surname" value="Walker"></interp>
+                     <interp inst="t17370216-23-person158" type="given" value="Jonah"></interp>
+                     <interp inst="t17370216-23-person158" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner at the Bar brought all this Plate to my Shop, and asked me to buy it.</p>
+               <p>Q. When was it? - What Day of the Month?</p>
+               <p>Walker. It was the Saturday before last, about 6 o'Clock in the Evening, he came into my Shop<xptr type="pageFacsimile" doc="173702160010"></xptr> with this Tankard (bruised in this Manner) in his Hand; I asked him his Name, he told me first his Name was Taylor, then he said it was Cook, and a Boy going by, told me that the Prisoner lived with one Mr. Cook, at Blackwall, so I sent a Porter to fetch him, and he owned all the Plate.</p>
+               <p>The Prisoner had nothing to say in his Defence. <rs id="t17370216-23-verdict119" type="verdictDescription">
+                     <interp inst="t17370216-23-verdict119" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17370216-23-punish120" type="punishmentDescription">
+                     <interp inst="t17370216-23-punish120" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370216-23-defend154 t17370216-23-punish120"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370216-23-defend160 t17370216-23-punish120"></join>
+               Death
+            </rs>.</p>
+               <p>
+            
+               
+                  <persName id="t17370216-23-defend160" type="defendantName">
+                     Charles 
+                     Orchard 
+                  <interp inst="t17370216-23-defend160" type="surname" value="Orchard"></interp>
+                     <interp inst="t17370216-23-defend160" type="given" value="Charles"></interp>
+                     <interp inst="t17370216-23-defend160" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was a second Time indicted for <rs id="t17370216-23-off121" type="offenceDescription">
+                     <interp inst="t17370216-23-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370216-23-off121" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the House of 
+                     
+                        <persName id="t17370216-23-victim162" type="victimName">
+                           Philip 
+                           Lermit 
+                        <interp inst="t17370216-23-victim162" type="surname" value="Lermit"></interp>
+                        <interp inst="t17370216-23-victim162" type="given" value="Philip"></interp>
+                        <interp inst="t17370216-23-victim162" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and stealing a Fustian Coat, a Fustian Waistcoat, three Frize Coats, three Frize Jackets, sixteen Yards of Frize, five Yards and a half of German Serge, and nine Yards of Flannel Baize, in the Night-Time
+            </rs>, <rs id="t17370216-23-cd122" type="crimeDate">January 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-23-off115 t17370216-23-cd122"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-23-off121 t17370216-23-cd122"></join>. <rs id="t17370216-23-verdict123" type="verdictDescription">
+                     <interp inst="t17370216-23-verdict123" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630914-12">
+               <interp inst="t17630914-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630914-12" type="year" value="1763"></interp>
+               <interp inst="t17630914-12" type="uri" value="sessionsPapers/17630914"></interp>
+               <interp inst="t17630914-12" type="date" value="17630914"></interp>
+               <join result="criminalCharge" id="t17630914-12-off64-c75" targOrder="Y" targets="t17630914-12-defend100 t17630914-12-off64 t17630914-12-verdict67"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="176309140007"></xptr>366. (L.) 
+               
+                  <persName id="t17630914-12-defend100" type="defendantName">
+                     James 
+                     Bunyard 
+                  <interp inst="t17630914-12-defend100" type="surname" value="Bunyard"></interp>
+                     <interp inst="t17630914-12-defend100" type="given" value="James"></interp>
+                     <interp inst="t17630914-12-defend100" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17630914-12-off64" type="offenceDescription">
+                     <interp inst="t17630914-12-off64" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630914-12-off64" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one man's hat, value 10 s. and 10 s. in money
+            </rs>, the property of 
+               
+                  <persName id="t17630914-12-victim102" type="victimName">
+                     Edward 
+                     Jones 
+                  <interp inst="t17630914-12-victim102" type="surname" value="Jones"></interp>
+                     <interp inst="t17630914-12-victim102" type="given" value="Edward"></interp>
+                     <interp inst="t17630914-12-victim102" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630914-12-off64 t17630914-12-victim102"></join>
+                  </persName>
+                
+            , <rs id="t17630914-12-cd65" type="crimeDate">September 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630914-12-off64 t17630914-12-cd65"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17630914-12-person103">
+                  Edward 
+                  Jones 
+               <interp inst="t17630914-12-person103" type="surname" value="Jones"></interp>
+                     <interp inst="t17630914-12-person103" type="given" value="Edward"></interp>
+                     <interp inst="t17630914-12-person103" type="gender" value="male"></interp>
+                  </persName>
+             deposed, that he was asleep in <placeName id="t17630914-12-crimeloc66">a night-house on the outside of Temple-bar</placeName>
+                  <interp inst="t17630914-12-crimeloc66" type="placeName" value="a night-house on the outside of Temple-bar"></interp>
+                  <interp inst="t17630914-12-crimeloc66" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17630914-12-off64 t17630914-12-crimeloc66"></join>, when every body were going to be turned out, about 3 in the morning, he was awaked by the prisoner; that he proposed to treat him for his civility to him, but missing his money, and finding he had an old hat on which the prisoner owned, and the prisoner had got his new one on, he charged him with robbing him; that taking him down Fleet-street, to get the assistance of a watchman, he ran away up Shoe-lane; but he was taken again, and delivered in charge of a constable. (The hat produced and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17630914-12-person104">
+                  Edward 
+                  Sumpter 
+               <interp inst="t17630914-12-person104" type="surname" value="Sumpter"></interp>
+                     <interp inst="t17630914-12-person104" type="given" value="Edward"></interp>
+                     <interp inst="t17630914-12-person104" type="gender" value="male"></interp>
+                  </persName>
+            , the constable, deposed, that the prosecutor charged the prisoner with stealing 10 s. from him, that there was a half crown among it, and one Birmingham shilling; that in searching he found such upon the prisoner.</p>
+               <p>The prisoner in his defence said, he was a watch graver, and worked hard for the money found upon him; that he had been asleep by the prosecutor, and as his hat had fallen from his head, he, by mistake, took up the prosecutor's instead of his own.</p>
+               <p>He called 
+               <persName id="t17630914-12-person105">
+                  John 
+                  Smith 
+               <interp inst="t17630914-12-person105" type="surname" value="Smith"></interp>
+                     <interp inst="t17630914-12-person105" type="given" value="John"></interp>
+                     <interp inst="t17630914-12-person105" type="gender" value="male"></interp>
+                  </persName>
+            , who deposed, he had brought him up from six or seven months old till he was fit to go apprentice; that he was then an apprentice to 
+               <persName id="t17630914-12-person106">
+                  Francis 
+                  Stedman 
+               <interp inst="t17630914-12-person106" type="surname" value="Stedman"></interp>
+                     <interp inst="t17630914-12-person106" type="given" value="Francis"></interp>
+                     <interp inst="t17630914-12-person106" type="gender" value="male"></interp>
+                  </persName>
+            , in Clerkenwell; and that he never heard any ill of him in his life.</p>
+               <p>
+                  <rs id="t17630914-12-verdict67" type="verdictDescription">
+                     <interp inst="t17630914-12-verdict67" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

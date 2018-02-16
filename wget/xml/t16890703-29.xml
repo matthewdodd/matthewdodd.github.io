@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890703-29">
+               <interp inst="t16890703-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890703-29" type="year" value="1689"></interp>
+               <interp inst="t16890703-29" type="uri" value="sessionsPapers/16890703"></interp>
+               <interp inst="t16890703-29" type="date" value="16890703"></interp>
+               <join result="criminalCharge" id="t16890703-29-off113-c80" targOrder="Y" targets="t16890703-29-defend95 t16890703-29-off113 t16890703-29-verdict115"></join>
+         
+               <p>
+            
+                  <persName id="t16890703-29-defend95" type="defendantName">
+                  John 
+                  Jefferies
+               <interp inst="t16890703-29-defend95" type="surname" value="Jefferies"></interp>
+                     <interp inst="t16890703-29-defend95" type="given" value="John"></interp>
+                     <interp inst="t16890703-29-defend95" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16890703-29-defloc112">St. Anns Westminster</placeName>
+                  <interp inst="t16890703-29-defloc112" type="placeName" value="St. Anns Westminster"></interp>
+                  <interp inst="t16890703-29-defloc112" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890703-29-defend95 t16890703-29-defloc112"></join>, was indicted for <rs id="t16890703-29-off113" type="offenceDescription">
+                     <interp inst="t16890703-29-off113" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890703-29-off113" type="offenceSubcategory" value="burglary"></interp>
+               felony and burglary, in breaking the house of Sir 
+                     <persName id="t16890703-29-victim96" type="victimName">
+                        Henry 
+                        Morwood
+                     <interp inst="t16890703-29-victim96" type="surname" value="Morwood"></interp>
+                        <interp inst="t16890703-29-victim96" type="given" value="Henry"></interp>
+                        <interp inst="t16890703-29-victim96" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890703-29-off113 t16890703-29-victim96"></join>
+                     </persName>
+                   
+                     <rs id="t16890703-29-viclabel114" type="occupation">Knight</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16890703-29-victim96 t16890703-29-viclabel114"></join>, taking away a cabinet, value 7 l. and a pair of stockings which were found in the prisoners breeches, 3 d
+            </rs>.  All which was flatly sworn against the prisoner.  The prisoner denied it, and said, that he came into town just before the robbery was committed out of the country, and called some witnesses on his side, who said, that he had liv'd in good repute heretofore in Ireland and in a Lord's service in London, but all avail'd nothing, the fact being fully proved upon him:  So he was at last found <rs id="t16890703-29-verdict115" type="verdictDescription">
+                     <interp inst="t16890703-29-verdict115" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>. </p>
+               <p>
+                  <rs id="t16890703-29-punish116" type="punishmentDescription">
+                     <interp inst="t16890703-29-punish116" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890703-29-defend95 t16890703-29-punish116"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

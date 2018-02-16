@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610116-33">
+               <interp inst="t17610116-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610116-33" type="year" value="1761"></interp>
+               <interp inst="t17610116-33" type="uri" value="sessionsPapers/17610116"></interp>
+               <interp inst="t17610116-33" type="date" value="17610116"></interp>
+               <join result="criminalCharge" id="t17610116-33-off177-c266" targOrder="Y" targets="t17610116-33-defend326 t17610116-33-off177 t17610116-33-verdict180"></join>
+         
+               <p>70. (L) 
+               
+                  <persName id="t17610116-33-defend326" type="defendantName">
+                     Mary 
+                     Wilson 
+                  <interp inst="t17610116-33-defend326" type="surname" value="Wilson"></interp>
+                     <interp inst="t17610116-33-defend326" type="given" value="Mary"></interp>
+                     <interp inst="t17610116-33-defend326" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17610116-33-deflabel176" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-33-defend326 t17610116-33-deflabel176"></join>, was indicted for <rs id="t17610116-33-off177" type="offenceDescription">
+                     <interp inst="t17610116-33-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610116-33-off177" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver table spoon, value five shillings
+            </rs>, the property of 
+               <persName id="t17610116-33-victim327" type="victimName">
+                  Jos 
+                  Plaistow 
+               <interp inst="t17610116-33-victim327" type="surname" value="Plaistow"></interp>
+                     <interp inst="t17610116-33-victim327" type="given" value="Jos"></interp>
+                     <interp inst="t17610116-33-victim327" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610116-33-off177 t17610116-33-victim327"></join>
+                  </persName>
+             , <rs id="t17610116-33-cd178" type="crimeDate">Dec, 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610116-33-off177 t17610116-33-cd178"></join>. +</p>
+               <p>Jos. Plaistow. I am an <rs id="t17610116-33-viclabel179" type="occupation">innholder</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-33-victim327 t17610116-33-viclabel179"></join>; I lost a silver table-spoon some time about the beginning of December, I cannot tell within a day or two; it was found at the house of Mr. Rochsort, a pawnbroker, who said the prisoner brought it there. We had her taken up; she said she found it in a dust-hole in the Temple, which is near a mile from my house. I live on Snow-hill.</p>
+               <p>Q. How came you to find it there?</p>
+               <p>Plaistow. The pawnbroker advertized it, for the person to tell the marks to have it again.</p>
+               <p>Mr. Rochfort. On the 16th of December the prisoner offered me a silver table-spoon to pledge: [Producing one, deposed to by the prosecutor.] I suspected it to have been stolen, stopped and advertized it; and the prosecutor brought a fellow spoon with him, marked the same. I delivered it to him. The prisoner said it was her aunt's spoon.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I never mentioned my aunt, I told him I found it in the Temple.</p>
+               <p>
+                  <rs id="t17610116-33-verdict180" type="verdictDescription">
+                     <interp inst="t17610116-33-verdict180" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

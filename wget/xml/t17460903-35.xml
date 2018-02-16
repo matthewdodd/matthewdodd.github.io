@@ -1,3 +1,234 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460903-35">
+               <interp inst="t17460903-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460903-35" type="year" value="1746"></interp>
+               <interp inst="t17460903-35" type="uri" value="sessionsPapers/17460903"></interp>
+               <interp inst="t17460903-35" type="date" value="17460903"></interp>
+               <join result="criminalCharge" id="t17460903-35-off136-c449" targOrder="Y" targets="t17460903-35-defend513 t17460903-35-off136 t17460903-35-verdict140"></join>
+               <join result="criminalCharge" id="t17460903-35-off136-c450" targOrder="Y" targets="t17460903-35-defend515 t17460903-35-off136 t17460903-35-verdict140"></join>
+         
+               <p>320. 
+               
+                  <persName id="t17460903-35-defend513" type="defendantName">
+                     Samuel 
+                     Mecum 
+                  <interp inst="t17460903-35-defend513" type="surname" value="Mecum"></interp>
+                     <interp inst="t17460903-35-defend513" type="given" value="Samuel"></interp>
+                     <interp inst="t17460903-35-defend513" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17460903-35-defend515" type="defendantName">
+                     Eleanor 
+                     Mecum 
+                  <interp inst="t17460903-35-defend515" type="surname" value="Mecum"></interp>
+                     <interp inst="t17460903-35-defend515" type="given" value="Eleanor"></interp>
+                     <interp inst="t17460903-35-defend515" type="gender" value="female"></interp>
+                  </persName>
+               
+             were indicted for <rs id="t17460903-35-off136" type="offenceDescription">
+                     <interp inst="t17460903-35-off136" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460903-35-off136" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing out of the Dwelling-House of 
+                     
+                        <persName id="t17460903-35-victim517" type="victimName">
+                           John 
+                           Kent 
+                        <interp inst="t17460903-35-victim517" type="surname" value="Kent"></interp>
+                        <interp inst="t17460903-35-victim517" type="given" value="John"></interp>
+                        <interp inst="t17460903-35-victim517" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17460903-35-off136 t17460903-35-victim517"></join>
+                     </persName>
+                      
+                  , two Silk Handkerchiefs, three Dozen of Worsted Stockings, four Pair of Thread, and four Pair of Cotton, one Pair of Sky-blue, six Pewter Plates, a large Pewter Dish, &amp;c.
+            </rs> the Goods of the said 
+               <persName id="t17460903-35-person518">
+                  John 
+                  Kent 
+               <interp inst="t17460903-35-person518" type="surname" value="Kent"></interp>
+                     <interp inst="t17460903-35-person518" type="given" value="John"></interp>
+                     <interp inst="t17460903-35-person518" type="gender" value="male"></interp>
+                  </persName>
+            , the <rs id="t17460903-35-cd137" type="crimeDate">20th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460903-35-off136 t17460903-35-cd137"></join>.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person519">
+                  Q. 
+               <interp inst="t17460903-35-person519" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person519" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person520">
+                  John 
+                  Kent 
+               <interp inst="t17460903-35-person520" type="surname" value="Kent"></interp>
+                     <interp inst="t17460903-35-person520" type="given" value="John"></interp>
+                     <interp inst="t17460903-35-person520" type="gender" value="male"></interp>
+                  </persName>
+            ) Where do you live?</p>
+               <p>Kent. In <placeName id="t17460903-35-crimeloc138">Shoreditch</placeName>
+                  <interp inst="t17460903-35-crimeloc138" type="placeName" value="Shoreditch"></interp>
+                  <interp inst="t17460903-35-crimeloc138" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460903-35-off136 t17460903-35-crimeloc138"></join>. I am a <rs id="t17460903-35-viclabel139" type="occupation">Stocking-frame Knitter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17460903-35-victim517 t17460903-35-viclabel139"></join>.</p>
+               <p>Q. Do you know either of the Prisoners at the Bar?</p>
+               <p>Kent. I did not know them, Sir, 'till after I was robb'd; there is one 
+               <persName id="t17460903-35-person521">
+                  Nathaniel 
+                  Harris 
+               <interp inst="t17460903-35-person521" type="surname" value="Harris"></interp>
+                     <interp inst="t17460903-35-person521" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17460903-35-person521" type="gender" value="male"></interp>
+                  </persName>
+             a particular Evidence, and he is a Debtor here in Niwgate</p>
+               <p>Q. Was your House at any Time robbed?</p>
+               <p>Kent. The 20th of April I got up and found my House robbed.</p>
+               <p>Q. Did you leave all your Doors fast?</p>
+               <p>Kent. The last Thing I did I went and boked the Window and Doors, and every Thing myself: I thought I heard something in the Night, but I thought it was one of my Children.</p>
+               <p>Q. What Time did you get up in the Morning?</p>
+               <p>Kent. Between Five and Six o'Clock my Wife and I got up; my Wife came down first, and as she was coming down, says she our Windows are open; I said it might be my Boy that is gone to School, but says she here is your Chest gone; then I said I am ruin'd for ever, for there were 29 Pair of Hose, that were none of my own.</p>
+               <p>Q. Did you miss any other Things?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174609030037"></xptr>Kent. Yes, six Pewter Plates, a large Pewter Dish: There were in the Chest two Silk Handkercheif; there was my Pocket Book, but it was not put into the Indictment, nor a Quarter of the Things; there were three Dozen of Worsted Stockings, four Pair of Cotton, and four Pair of Thread, all these were in the Chest locked up; there was a five Pant Copper Sauce-Pan, and a very particular Pair of Hose, Sky-colour'd blue.</p>
+               <p>Q. Where did you find your House broke open?</p>
+               <p>Kent. In the Window; there was a Plate of Iron a with seven Nails. This Plate of Iron was wrenched of; they endeavoured to take down the whole Frame of the Window; the next Day after I advertised, I found one of the particular Sky-coloured Stockings that were in my Chest.</p>
+               <p>Q. What Clocks had they ?</p>
+               <p>Kent. Gold-coloured Silk Clocks.</p>
+               <p>Court. You say you met with one Stocking again.</p>
+               <p>Q. What do you know of the Prisoner at the Bar?</p>
+               <p>Kent. Mr. 
+               <persName id="t17460903-35-person522">
+                  Archer 
+                  Petcht 
+               <interp inst="t17460903-35-person522" type="surname" value="Petcht"></interp>
+                     <interp inst="t17460903-35-person522" type="given" value="Archer"></interp>
+                     <interp inst="t17460903-35-person522" type="gender" value="male"></interp>
+                  </persName>
+             and Mr. Body went to search Mecum's House, and there they found this Stocking; Mr. Body has this Stocking.</p>
+               <p>Court. Then you know nothing more than what they told you?</p>
+               <p>Kent. Please you, my Lord, I had a Jealousy of this Man by the Intelligence that was given me of his being in Disguise Dresses, and carrying Goods by my House, &amp;c. by Reason of which I had a Warrant. My Lord, I have liv'd 26 Years in the Parish, and served an Apprenticeship in the Parish.</p>
+               <p>Court. You appear to be a very honest Man, and need mention nothing of this to support it.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person523">
+                  Q. 
+               <interp inst="t17460903-35-person523" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person523" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person524">
+                  William 
+                  Thomson 
+               <interp inst="t17460903-35-person524" type="surname" value="Thomson"></interp>
+                     <interp inst="t17460903-35-person524" type="given" value="William"></interp>
+                     <interp inst="t17460903-35-person524" type="gender" value="male"></interp>
+                  </persName>
+            ) What are you?</p>
+               <p>Thomson. A Frame-work Knitter.</p>
+               <p>Q. What do you know of the Prisoner at the Bar?</p>
+               <p>Thomson. I am a Servant to Mr. Kent; that particular Pair of Sky-blue I made for Mr. Kent about last March; they were to be embroider'd with Gold Clocks afterwards.</p>
+               <p>Q. Did you see them after the Gold Clocks were put in ?</p>
+               <p>Thomson. Yes, I am sure 'tis the same, Mr. Body has it ?</p>
+               <p>
+            
+                  <persName id="t17460903-35-person525">
+                  Q. 
+               <interp inst="t17460903-35-person525" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person525" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person526">
+                  William 
+                  Body 
+               <interp inst="t17460903-35-person526" type="surname" value="Body"></interp>
+                     <interp inst="t17460903-35-person526" type="given" value="William"></interp>
+                     <interp inst="t17460903-35-person526" type="gender" value="male"></interp>
+                  </persName>
+             ) What have you to say against the Prisoner with Respect to this particular Fact ?</p>
+               <p>Body. My Lord, I have nothing to say any more but this, that this 
+               <persName id="t17460903-35-person527">
+                  John 
+                  Kent 
+               <interp inst="t17460903-35-person527" type="surname" value="Kent"></interp>
+                     <interp inst="t17460903-35-person527" type="given" value="John"></interp>
+                     <interp inst="t17460903-35-person527" type="gender" value="male"></interp>
+                  </persName>
+             came to Justice Hole for a Search Warrant, upon which I got two or three Friends with me, and beset the House of the Prisoner at the Bar; it was between Eight and Nine o'Clock on Sunday Morning: When we had beset the House, one Harris, a Prisoner now for Debt in Newgate, got over the Wall, and collar'd the Prisoner; we were forced to break the Windows and Shutters to come to his Assistance, for the Man and Woman were both upon him. When we got in I told them we had a Search Warrant. Harris got this Stocking, which he deliver'd to me, and He believed the Woman put the Fellow to it down the Va; this one Stocking he found in the one Pair of Stairs Room.</p>
+               <p>Q. Had you any Thing more?</p>
+               <p>Body. We took a great many more Things, which by the Justice's Order are secur'd in a Trunk at Bridewell, but none of the Things are yet own'd, except this particular Stocking.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person528">
+                  Q. 
+               <interp inst="t17460903-35-person528" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person528" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person529">
+                  John 
+                  Kent 
+               <interp inst="t17460903-35-person529" type="surname" value="Kent"></interp>
+                     <interp inst="t17460903-35-person529" type="given" value="John"></interp>
+                     <interp inst="t17460903-35-person529" type="gender" value="male"></interp>
+                  </persName>
+            .) Is this one of your Stockings?</p>
+               <p>Kent. My Lord it is; I was to have had 6 s. for the Stockings; but the Gentlewoman complain'd they were too big for her.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person530">
+                  Q. 
+               <interp inst="t17460903-35-person530" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person530" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person531">
+                  Eleanor 
+                  Mecum 
+               <interp inst="t17460903-35-person531" type="surname" value="Mecum"></interp>
+                     <interp inst="t17460903-35-person531" type="given" value="Eleanor"></interp>
+                     <interp inst="t17460903-35-person531" type="gender" value="female"></interp>
+                  </persName>
+             the Prisoner.) What have you to say in your Defence?</p>
+               <p>Mecum. Please you, my Lord, my Husband knows nothing of it; if this Stocking is the same, it is what I had with some old Cloaths; I buy and fell Things in Rag-Fair.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person532">
+                  Q. 
+               <interp inst="t17460903-35-person532" type="given" value="Q."></interp>
+                     <interp inst="t17460903-35-person532" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-35-person533">
+                  Susannah 
+                  Pool 
+               <interp inst="t17460903-35-person533" type="surname" value="Pool"></interp>
+                     <interp inst="t17460903-35-person533" type="given" value="Susannah"></interp>
+                     <interp inst="t17460903-35-person533" type="gender" value="female"></interp>
+                  </persName>
+            .) What have you to say?</p>
+               <p>Pool. My Lord, she is a Partner of mine in buying and selling old Cloaths. She had this Stocking of a common Dealer that had bought three Childrens Frocks, a Pound and half of Linnen Rags, and three or four odd Stockings.</p>
+               <p>
+            
+                  <persName id="t17460903-35-person534">
+                  Samuel 
+                  Mecum 
+               <interp inst="t17460903-35-person534" type="surname" value="Mecum"></interp>
+                     <interp inst="t17460903-35-person534" type="given" value="Samuel"></interp>
+                     <interp inst="t17460903-35-person534" type="gender" value="male"></interp>
+                  </persName>
+             was cast for Transportation, and 
+               <persName id="t17460903-35-person535">
+                  Eleanor 
+                  Mecum 
+               <interp inst="t17460903-35-person535" type="surname" value="Mecum"></interp>
+                     <interp inst="t17460903-35-person535" type="given" value="Eleanor"></interp>
+                     <interp inst="t17460903-35-person535" type="gender" value="female"></interp>
+                  </persName>
+             
+                  <rs id="t17460903-35-verdict140" type="verdictDescription">
+                     <interp inst="t17460903-35-verdict140" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

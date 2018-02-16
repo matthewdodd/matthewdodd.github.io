@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410116-49">
+               <interp inst="t17410116-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410116-49" type="year" value="1741"></interp>
+               <interp inst="t17410116-49" type="uri" value="sessionsPapers/17410116"></interp>
+               <interp inst="t17410116-49" type="date" value="17410116"></interp>
+               <join result="criminalCharge" id="t17410116-49-off244-c322" targOrder="Y" targets="t17410116-49-defend423 t17410116-49-off244 t17410116-49-verdict246"></join>
+         
+               <p>61 
+               
+                  <persName id="t17410116-49-defend423" type="defendantName">
+                     Daniel 
+                     Mackintosh 
+                  <interp inst="t17410116-49-defend423" type="surname" value="Mackintosh"></interp>
+                     <interp inst="t17410116-49-defend423" type="given" value="Daniel"></interp>
+                     <interp inst="t17410116-49-defend423" type="gender" value="male"></interp>
+                  </persName>
+               
+             , was indicted for <rs id="t17410116-49-off244" type="offenceDescription">
+                     <interp inst="t17410116-49-off244" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410116-49-off244" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing the Carcass of a Sheep, value 10 s.
+            </rs> the Property of 
+               
+                  <persName id="t17410116-49-victim425" type="victimName">
+                     Ann 
+                     Bussel 
+                  <interp inst="t17410116-49-victim425" type="surname" value="Bussel"></interp>
+                     <interp inst="t17410116-49-victim425" type="given" value="Ann"></interp>
+                     <interp inst="t17410116-49-victim425" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17410116-49-off244 t17410116-49-victim425"></join>
+                  </persName>
+                
+             , <rs id="t17410116-49-cd245" type="crimeDate">Dec. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410116-49-off244 t17410116-49-cd245"></join>.</p>
+               <p>
+            
+                  <persName id="t17410116-49-person426">
+                  Robert 
+                  Freeman 
+               <interp inst="t17410116-49-person426" type="surname" value="Freeman"></interp>
+                     <interp inst="t17410116-49-person426" type="given" value="Robert"></interp>
+                     <interp inst="t17410116-49-person426" type="gender" value="male"></interp>
+                  </persName>
+             . I claim the Property of the Sheep for 
+               <persName id="t17410116-49-person427">
+                  Ann 
+                  Bussel 
+               <interp inst="t17410116-49-person427" type="surname" value="Bussel"></interp>
+                     <interp inst="t17410116-49-person427" type="given" value="Ann"></interp>
+                     <interp inst="t17410116-49-person427" type="gender" value="female"></interp>
+                  </persName>
+             ; I bought it for her at Smithfield and dressed it, and hung it on a Hook, from whence it was taken by the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17410116-49-person428">
+                  Abraham 
+                  Gregory 
+               <interp inst="t17410116-49-person428" type="surname" value="Gregory"></interp>
+                     <interp inst="t17410116-49-person428" type="given" value="Abraham"></interp>
+                     <interp inst="t17410116-49-person428" type="gender" value="male"></interp>
+                  </persName>
+             . I saw the Prisoner go along with the Sheep on his Shoulder.</p>
+               <p>Prisoner. I was mortal drunk when I took it. <rs id="t17410116-49-verdict246" type="verdictDescription">
+                     <interp inst="t17410116-49-verdict246" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17410116-49-punish247" type="punishmentDescription">
+                     <interp inst="t17410116-49-punish247" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17410116-49-defend423 t17410116-49-punish247"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

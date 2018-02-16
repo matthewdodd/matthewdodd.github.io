@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17371207-2">
+               <interp inst="t17371207-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17371207-2" type="year" value="1737"></interp>
+               <interp inst="t17371207-2" type="uri" value="sessionsPapers/17371207"></interp>
+               <interp inst="t17371207-2" type="date" value="17371207"></interp>
+               <join result="criminalCharge" id="t17371207-2-off9-c31" targOrder="Y" targets="t17371207-2-defend33 t17371207-2-off9 t17371207-2-verdict12"></join>
+               <join result="criminalCharge" id="t17371207-2-off9-c32" targOrder="Y" targets="t17371207-2-defend35 t17371207-2-off9 t17371207-2-verdict12"></join>
+         
+               <p>3, 4. 
+               
+                  <persName id="t17371207-2-defend33" type="defendantName">
+                     Jonathan 
+                     Jordan 
+                  <interp inst="t17371207-2-defend33" type="surname" value="Jordan"></interp>
+                     <interp inst="t17371207-2-defend33" type="given" value="Jonathan"></interp>
+                     <interp inst="t17371207-2-defend33" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17371207-2-defend35" type="defendantName">
+                     Robert 
+                     Steppen 
+                  <interp inst="t17371207-2-defend35" type="surname" value="Steppen"></interp>
+                     <interp inst="t17371207-2-defend35" type="given" value="Robert"></interp>
+                     <interp inst="t17371207-2-defend35" type="gender" value="male"></interp>
+                  </persName>
+                
+             of <placeName id="t17371207-2-defloc8">St. Andrew Undershaft</placeName>
+                  <interp inst="t17371207-2-defloc8" type="placeName" value="St. Andrew Undershaft"></interp>
+                  <interp inst="t17371207-2-defloc8" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17371207-2-defend33 t17371207-2-defloc8"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17371207-2-defend35 t17371207-2-defloc8"></join>, were indicted for <rs id="t17371207-2-off9" type="offenceDescription">
+                     <interp inst="t17371207-2-off9" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17371207-2-off9" type="offenceSubcategory" value="forgery"></interp>
+               feloniously making and forging, and causing to be made and forged a certain Promissory Note for the Payment of 3 l. 6 s. in the Words following, viz. I promise to pay unto Jonathan Jordan or Order, the Sum of 3 l. 6 s. on Demand for Value received, per me, 
+                     <persName id="t17371207-2-person36">
+                        James 
+                        Smith 
+                     <interp inst="t17371207-2-person36" type="surname" value="Smith"></interp>
+                        <interp inst="t17371207-2-person36" type="given" value="James"></interp>
+                        <interp inst="t17371207-2-person36" type="gender" value="male"></interp>
+                     </persName>
+                  . Test. Robert Steppen. With Intent to defraud the said 
+                     <persName id="t17371207-2-victim37" type="victimName">
+                        James 
+                        Smith 
+                     <interp inst="t17371207-2-victim37" type="surname" value="Smith"></interp>
+                        <interp inst="t17371207-2-victim37" type="given" value="James"></interp>
+                        <interp inst="t17371207-2-victim37" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17371207-2-off9 t17371207-2-victim37"></join>
+                     </persName>
+                    of the Parish of St. George in the East, <rs id="t17371207-2-viclabel10" type="occupation">Mariner</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17371207-2-victim37 t17371207-2-viclabel10"></join>, of the said Sum of 3 l. 6 s. against the Peace of our Sovereign Lord the King, &amp;c. And likewise against the Form of the Statute, &amp;c. And the said Jordan and Steppen, on the said <rs id="t17371207-2-cd11" type="crimeDate">10th of Oct.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17371207-2-off9 t17371207-2-cd11"></join> the abovesaid Promissory Note did utter and publish as true, they well knowing the same to be false, forged and counterfeit
+            </rs>. The Jury <rs id="t17371207-2-verdict12" type="verdictDescription">
+                     <interp inst="t17371207-2-verdict12" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> the Prisoners, and the Court ordered Steppen a Copy of his Indictment.</p>
+            </div1>

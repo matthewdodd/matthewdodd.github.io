@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500425-22">
+               <interp inst="t17500425-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500425-22" type="year" value="1750"></interp>
+               <interp inst="t17500425-22" type="uri" value="sessionsPapers/17500425"></interp>
+               <interp inst="t17500425-22" type="date" value="17500425"></interp>
+               <join result="criminalCharge" id="t17500425-22-off123-c141" targOrder="Y" targets="t17500425-22-defend188 t17500425-22-off123 t17500425-22-verdict125"></join>
+         
+               <p>318. 
+               <persName id="t17500425-22-defend188" type="defendantName">
+                  Ann 
+                  Mann 
+               <interp inst="t17500425-22-defend188" type="surname" value="Mann"></interp>
+                     <interp inst="t17500425-22-defend188" type="given" value="Ann"></interp>
+                     <interp inst="t17500425-22-defend188" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17500425-22-off123" type="offenceDescription">
+                     <interp inst="t17500425-22-off123" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500425-22-off123" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cloath coat, one leghorn hat, and other things
+            </rs>, the goods of 
+               
+                  <persName id="t17500425-22-victim190" type="victimName">
+                     Thomas 
+                     Overy 
+                  <interp inst="t17500425-22-victim190" type="surname" value="Overy"></interp>
+                     <interp inst="t17500425-22-victim190" type="given" value="Thomas"></interp>
+                     <interp inst="t17500425-22-victim190" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500425-22-off123 t17500425-22-victim190"></join>
+                  </persName>
+                
+            , <rs id="t17500425-22-cd124" type="crimeDate">March 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500425-22-off123 t17500425-22-cd124"></join>.</p>
+               <p>
+                  <rs id="t17500425-22-verdict125" type="verdictDescription">
+                     <interp inst="t17500425-22-verdict125" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

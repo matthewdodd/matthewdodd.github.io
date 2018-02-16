@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460903-30">
+               <interp inst="t17460903-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460903-30" type="year" value="1746"></interp>
+               <interp inst="t17460903-30" type="uri" value="sessionsPapers/17460903"></interp>
+               <interp inst="t17460903-30" type="date" value="17460903"></interp>
+               <join result="criminalCharge" id="t17460903-30-off114-c302" targOrder="Y" targets="t17460903-30-defend355 t17460903-30-off114 t17460903-30-verdict116"></join>
+               <join result="criminalCharge" id="t17460903-30-off114-c303" targOrder="Y" targets="t17460903-30-person356 t17460903-30-off114 t17460903-30-verdict116"></join>
+               <join result="criminalCharge" id="t17460903-30-off114-c304" targOrder="Y" targets="t17460903-30-defend357 t17460903-30-off114 t17460903-30-verdict116"></join>
+         
+               <p>312, 313. 
+               <persName id="t17460903-30-defend355" type="defendantName">
+                  
+                     <persName id="t17460903-30-person356" type="defendantName">
+                        
+                           <persName id="t17460903-30-defend357" type="defendantName">
+                              Robert 
+                              Tyth 
+                           <interp inst="t17460903-30-defend357" type="surname" value="Tyth"></interp>
+                           <interp inst="t17460903-30-defend357" type="given" value="Robert"></interp>
+                           <interp inst="t17460903-30-defend357" type="gender" value="male"></interp>
+                        </persName>
+                        
+                        <interp inst="t17460903-30-person356" type="surname" value="Tyth"></interp>
+                        <interp inst="t17460903-30-person356" type="given" value="Robert"></interp>
+                        <interp inst="t17460903-30-person356" type="gender" value="male"></interp>
+                     </persName>
+                   and Anne
+                   his 
+                  <rs id="t17460903-30-deflabel113" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17460903-30-defend355 t17460903-30-deflabel113"></join>
+                     <interp inst="t17460903-30-defend355" type="surname" value="Tyth"></interp>
+                     <interp inst="t17460903-30-defend355" type="given" value="Anne"></interp>
+                     <interp inst="t17460903-30-defend355" type="gender" value="female"></interp>
+                  </persName>
+             were indicted for <rs id="t17460903-30-off114" type="offenceDescription">
+                     <interp inst="t17460903-30-off114" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460903-30-off114" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Rugg, Value 4 s. two Blankets, Value 3 s. a Linnen Sheet Value 3 s. a Looking-Glass Value 3 s. and a Pair of Bellows Value 2 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17460903-30-victim359" type="victimName">
+                     Mary 
+                     Williams 
+                  <interp inst="t17460903-30-victim359" type="surname" value="Williams"></interp>
+                     <interp inst="t17460903-30-victim359" type="given" value="Mary"></interp>
+                     <interp inst="t17460903-30-victim359" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17460903-30-off114 t17460903-30-victim359"></join>
+                  </persName>
+                
+            , <rs id="t17460903-30-viclabel115" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17460903-30-victim359 t17460903-30-viclabel115"></join>.</p>
+               <p>
+                  <rs id="t17460903-30-verdict116" type="verdictDescription">
+                     <interp inst="t17460903-30-verdict116" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17460903-30-verdict116" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutrix not appearing they were acquitted
+            </rs>.</p>
+            </div1>

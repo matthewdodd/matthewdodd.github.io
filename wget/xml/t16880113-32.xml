@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880113-32">
+               <interp inst="t16880113-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880113-32" type="year" value="1688"></interp>
+               <interp inst="t16880113-32" type="uri" value="sessionsPapers/16880113"></interp>
+               <interp inst="t16880113-32" type="date" value="16880113"></interp>
+               <join result="criminalCharge" id="t16880113-32-off153-c88" targOrder="Y" targets="t16880113-32-defend137 t16880113-32-off153 t16880113-32-verdict158"></join>
+         
+               <p>
+            
+                  <persName id="t16880113-32-defend137" type="defendantName">
+                  Edmund 
+                  Hayhurst
+               <interp inst="t16880113-32-defend137" type="surname" value="Hayhurst"></interp>
+                     <interp inst="t16880113-32-defend137" type="given" value="Edmund"></interp>
+                     <interp inst="t16880113-32-defend137" type="gender" value="male"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16880113-32-off153" type="offenceDescription">
+                     <interp inst="t16880113-32-off153" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880113-32-off153" type="offenceSubcategory" value="other"></interp>
+               Assaulting and Killing of 
+                     
+                        <persName id="t16880113-32-victim139" type="victimName">
+                           Richard 
+                           Parry
+                        <interp inst="t16880113-32-victim139" type="surname" value="Parry"></interp>
+                        <interp inst="t16880113-32-victim139" type="given" value="Richard"></interp>
+                        <interp inst="t16880113-32-victim139" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880113-32-off153 t16880113-32-victim139"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>, in the Parish of <placeName id="t16880113-32-crimeloc154">Twitnam</placeName>
+                  <interp inst="t16880113-32-crimeloc154" type="placeName" value="Twitnam"></interp>
+                  <interp inst="t16880113-32-crimeloc154" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16880113-32-off153 t16880113-32-crimeloc154"></join>, on the <rs id="t16880113-32-cd155" type="crimeDate">9th. of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880113-32-off153 t16880113-32-cd155"></join> last: It appeared to the Court upon the Evidence, that they being both <rs id="t16880113-32-deflabel156" type="occupation">
+                     <rs id="t16880113-32-viclabel157" type="occupation">Soldier</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16880113-32-victim139 t16880113-32-viclabel157"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880113-32-defend137 t16880113-32-deflabel156"></join>s at the Camp, the Quarrel began about feeding their Horses, and that the Deceased followed the Prisoner and knock'd him down, and that after he had got into his Tent, the Deceased fell upon him, beating and bruising of him, when the Prisoner gave him his mortal Wound. The Prisoner pleaded, that he received two or three Wounds, which the Chirurgeon also affirmed; but it appearing by the Evidence that there was but one Sword, which was found in the hands of the Prisoner, he was brought in <rs id="t16880113-32-verdict158" type="verdictDescription">
+                     <interp inst="t16880113-32-verdict158" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880113-32-verdict158" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16880113-32-punish159" type="punishmentDescription">
+                     <interp inst="t16880113-32-punish159" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880113-32-punish159" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880113-32-defend137 t16880113-32-punish159"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

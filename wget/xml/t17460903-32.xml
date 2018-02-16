@@ -1,3 +1,606 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460903-32">
+               <interp inst="t17460903-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460903-32" type="year" value="1746"></interp>
+               <interp inst="t17460903-32" type="uri" value="sessionsPapers/17460903"></interp>
+               <interp inst="t17460903-32" type="date" value="17460903"></interp>
+               <join result="criminalCharge" id="t17460903-32-off122-c343" targOrder="Y" targets="t17460903-32-defend401 t17460903-32-off122 t17460903-32-verdict126"></join>
+               <join result="criminalCharge" id="t17460903-32-off122-c344" targOrder="Y" targets="t17460903-32-defend403 t17460903-32-off122 t17460903-32-verdict126"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="174609030031"></xptr>316, 317. 
+               
+                  <persName id="t17460903-32-defend401" type="defendantName">
+                     Thomas 
+                     Smith 
+                  <interp inst="t17460903-32-defend401" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-defend401" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-defend401" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17460903-32-defend403" type="defendantName">
+                     Thomas 
+                     Barrow 
+                  <interp inst="t17460903-32-defend403" type="surname" value="Barrow"></interp>
+                     <interp inst="t17460903-32-defend403" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-defend403" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17460903-32-off122" type="offenceDescription">
+                     <interp inst="t17460903-32-off122" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460903-32-off122" type="offenceSubcategory" value="other"></interp>
+               stealing a Coach Seat, the Goods of 
+                     
+                        <persName id="t17460903-32-victim405" type="victimName">
+                           John 
+                           Edger 
+                        <interp inst="t17460903-32-victim405" type="surname" value="Edger"></interp>
+                        <interp inst="t17460903-32-victim405" type="given" value="John"></interp>
+                        <interp inst="t17460903-32-victim405" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and in it one Yard of Silver Cord, a Capuchin, and Wearing Linnen of various sorts
+            </rs>, the Goods of 
+               <persName id="t17460903-32-victim406" type="victimName">
+                  Calib 
+                  Harding 
+               <interp inst="t17460903-32-victim406" type="surname" value="Harding"></interp>
+                     <interp inst="t17460903-32-victim406" type="given" value="Calib"></interp>
+                     <interp inst="t17460903-32-victim406" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17460903-32-viclabel123" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17460903-32-victim406 t17460903-32-viclabel123"></join>; the <rs id="t17460903-32-cd124" type="crimeDate">5th Day of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460903-32-off122 t17460903-32-cd124"></join>.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person407">
+                  Q. 
+               <interp inst="t17460903-32-person407" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person407" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person408">
+                  Anne 
+                  Harding 
+               <interp inst="t17460903-32-person408" type="surname" value="Harding"></interp>
+                     <interp inst="t17460903-32-person408" type="given" value="Anne"></interp>
+                     <interp inst="t17460903-32-person408" type="gender" value="female"></interp>
+                  </persName>
+             ) Madam, Do you know either of the Prisoners at the Bar?</p>
+               <p>Harding. I believe I know one of them; that Man in a blue Coat, 
+               <persName id="t17460903-32-person409">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person409" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person409" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person409" type="gender" value="male"></interp>
+                  </persName>
+            , I saw him at Sir 
+               <persName id="t17460903-32-person410">
+                  Thomas 
+                  De Veil 
+               <interp inst="t17460903-32-person410" type="surname" value="De Veil"></interp>
+                     <interp inst="t17460903-32-person410" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person410" type="gender" value="male"></interp>
+                  </persName>
+            's.</p>
+
+               <p>Q. Did he at any Time rob you of any Thing?</p>
+               <p>Harding. I came in a hired Coach from Derby: The Coachman was to drive me into the City to my Brother's in St. Paul's Church Yard; but as he was not willing, I complied to be set down at <placeName id="t17460903-32-crimeloc125">Rathbone Place</placeName>
+                  <interp inst="t17460903-32-crimeloc125" type="placeName" value="Rathbone Place"></interp>
+                  <interp inst="t17460903-32-crimeloc125" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460903-32-off122 t17460903-32-crimeloc125"></join>; so the Things were taken out of the hired Coach and put into a Hackney Coach.</p>
+               <p>Q. Well, what did you lose?</p>
+               <p>Harding. There was Wearing Linnen of all sorts, a Silk Capuchin, Aprons, &amp;c.</p>
+               <p>Q. What Day did you come to Town?</p>
+               <p>Harding. I believe the 5th of July.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person411">
+                  Anne 
+                  England 
+               <interp inst="t17460903-32-person411" type="surname" value="England"></interp>
+                     <interp inst="t17460903-32-person411" type="given" value="Anne"></interp>
+                     <interp inst="t17460903-32-person411" type="gender" value="female"></interp>
+                  </persName>
+            . I live with Dr. 
+               <persName id="t17460903-32-person412">
+                  Caleb 
+                  Harding 
+               <interp inst="t17460903-32-person412" type="surname" value="Harding"></interp>
+                     <interp inst="t17460903-32-person412" type="given" value="Caleb"></interp>
+                     <interp inst="t17460903-32-person412" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. When did you come to Town?</p>
+               <p>England. About the 5th of July, we came in a hired Coach.</p>
+               <p>Q. When you got to Town, what then?</p>
+               <p>England. We came in one 
+               <persName id="t17460903-32-person413">
+                  John 
+                  Edger 
+               <interp inst="t17460903-32-person413" type="surname" value="Edger"></interp>
+                     <interp inst="t17460903-32-person413" type="given" value="John"></interp>
+                     <interp inst="t17460903-32-person413" type="gender" value="male"></interp>
+                  </persName>
+            's Coach.</p>
+               <p>Q. Was there any Difficulty made about going into the City ?</p>
+               <p>England. The Coachman refus'd to go; upon that a Hackney Coach was call'd, and we were set down in Rathbone Place.</p>
+               <p>Q. Was either of the Prisoners the Driver of the Hackney Coach?</p>
+               <p>England. Yes, that Man in blue.</p>
+               <p>Court. Then the Things were put out of the Coach that you came to Town in, into a Hackney-Coach.</p>
+               <p>England. Yes; there was a Coach Seat that came out of the Country put into the Boot of the Hackney Coach.</p>
+               <p>Q. Do you know what Things were in that Coach Seat?</p>
+               <p>England. I don't know all of them; there were a great many Things.</p>
+               <p>Q. What, Things that belong'd to you.</p>
+               <p>England. Yes; a red Rugg Cloak and a Velvet Bonnet, that belong'd to me.</p>
+               <p>Q. Had your Lady any Things in it?</p>
+               <p>England. Yes, Sir, there were a great many Things, I can't particularly say.</p>
+               <p>Q. Did you go in the Hackney Coach to St. Paul's Church-Yard to Mr. Thornhill's ?</p>
+               <p>England. Yes. And when I came there I miss'd the Coach Seat, and enquir'd for it after the rest of the Things were out.</p>
+               <p>Q. Had you the eat sent again.</p>
+               <p>England. No, Sir,</p>
+               <p>Q. Did any Thing happen to you between Rathbone-Place and St. Paul's Church-Yard?</p>
+               <p>England. Yes, Sir, it happen'd to rain, so the Coachman got off his Seat and said he would go for his Great-Coat.</p>
+               <p>Q. Where did he stop the Coach?</p>
+               <p>England. I can't tell Sir; I am almost a Stranger in London.</p>
+               <p>Q. When he went for his great Coat, was any Body left there to take Care of his Horses?</p>
+               <p>England. He said he would leave one to take Care of his Horses.</p>
+               <p>Q. How long was he away.</p>
+               <p>England. I think about a Quarter of an Hour.</p>
+               <p>Q. Have you any Thing more to say?</p>
+               <p>England. When I ask'd him about the Seat he said there was no such Thing; I said it was committed to his Care.</p>
+               <p>Q. What was the other Man?</p>
+               <p>England. He was the Man that was with him upon the Box; he own'd that he was there himself, I can't swear to him.</p>
+               <p>Court. Then Thomas Barrow own'd that he was with the Coachman; but you don't know it upon your own Knowledge?</p>
+               <p>England. I saw the Coachman take up some Body, but I could not tell who.</p>
+               <p>Q. What did he say when you ask'd for the Coach Seat ?</p>
+               <p>England. He said there was no such Thing; I said he had such a Thing.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person414">
+                  Q. 
+               <interp inst="t17460903-32-person414" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person414" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person415">
+                  Catherine 
+                  Tornhill 
+               <interp inst="t17460903-32-person415" type="surname" value="Tornhill"></interp>
+                     <interp inst="t17460903-32-person415" type="given" value="Catherine"></interp>
+                     <interp inst="t17460903-32-person415" type="gender" value="female"></interp>
+                  </persName>
+             ) Miss, will you tell us what you know of this Matter? Did you come with Madam Harding in the hired Coach?</p>
+               <p>Thornhill. Yes, Sir.</p>
+               <p>Q. Had you any Words with the Coachman about carrying you into the City?</p>
+               <p>Thornhill. My Sister would have had him brought us to St. Paul's, but he refus'd.</p>
+               <p>Q. What was the Consequence of that?</p>
+               <p>Thornhill. There was another Coach got.</p>
+               <p>Q. Did you go to St. Paul's?</p>
+               <p>Thornhill. I was set down at Rathbone-Place.</p>
+               <p>Q. Had you any Thing in the Coach?</p>
+               <p>Thornhill. Yes.</p>
+               <p>Q. What was there of your's?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174609030032"></xptr>Thornhill. There was a Capuchine in the Coach Seat, &amp;c.</p>
+               <p>Q. Do you know either of the Persons at the Bar?</p>
+               <p>Thornhill. No, Sir; I saw one of them, the Man in Blue, at Sir 
+               <persName id="t17460903-32-person416">
+                  Thomas 
+                  De Veil 
+               <interp inst="t17460903-32-person416" type="surname" value="De Veil"></interp>
+                     <interp inst="t17460903-32-person416" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person416" type="gender" value="male"></interp>
+                  </persName>
+            's.</p>
+               <p>Q. Was he the Person, the Hackney Coachman, that you call'd ?</p>
+               <p>Thornhill. I did not see him. 1</p>
+               <p>
+            
+                  <persName id="t17460903-32-person417">
+                  Q. 
+               <interp inst="t17460903-32-person417" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person417" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner) Would you have Mrs. Harding, the first Witness, or Mrs. England, ask'd any Questions ?</p>
+               <p>Prisoner. Did I take the Box out of the Boot, or make away with it?</p>
+               <p>England. I told him that he had such a Thing in his Charge: I ask'd him what he had done with it? he said he could not tell what was become of it.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person418">
+                  Q. 
+               <interp inst="t17460903-32-person418" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person418" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person419">
+                  George 
+                  Budby 
+               <interp inst="t17460903-32-person419" type="surname" value="Budby"></interp>
+                     <interp inst="t17460903-32-person419" type="given" value="George"></interp>
+                     <interp inst="t17460903-32-person419" type="gender" value="male"></interp>
+                  </persName>
+             ) Do you know either of the Prisoners at the Bar?</p>
+               <p>Budby. I brought these Gentlefolks in a Coach and Four from Derby.</p>
+               <p>Q. Who did the Coach belong to?</p>
+               <p>Budby. To Mr. Edger.</p>
+               <p>Q. When was it?</p>
+               <p>Budby. The 5th of July last we came to Town, and I set them down at Rathbone Place.</p>
+               <p>Q. When the Hackney Coach was call'd, did you assist in putting up the Seat into the Coach?</p>
+               <p>Budby. I put it into the Boot myself, my Lord.</p>
+               <p>Q. Who was the Driver of this Hackney Coach?</p>
+               <p>Budby. 
+               <persName id="t17460903-32-person420">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person420" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person420" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person420" type="gender" value="male"></interp>
+                  </persName>
+            ; and the other Prisoner was along with him.</p>
+               <p>Q. You say the Driver was 
+               <persName id="t17460903-32-person421">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person421" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person421" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person421" type="gender" value="male"></interp>
+                  </persName>
+            , and the other was on the Side of him; do you know any thing of him?</p>
+               <p>Budby. They stopp'd at the Black-Horse at Rathbone Place, and drank a Dram of Gin.</p>
+               <p>Q. Were they off the Box or on when they drank a Dram?</p>
+               <p>Budby. On the Box.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person422">
+                  Q. 
+               <interp inst="t17460903-32-person422" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person422" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person423">
+                  William 
+                  Carrier 
+               <interp inst="t17460903-32-person423" type="surname" value="Carrier"></interp>
+                     <interp inst="t17460903-32-person423" type="given" value="William"></interp>
+                     <interp inst="t17460903-32-person423" type="gender" value="male"></interp>
+                  </persName>
+            ) Do you know the Prisoners at the Bar?</p>
+               <p>Carrier. I know 
+               <persName id="t17460903-32-person424">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person424" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person424" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person424" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. What do you know of this particular Fact?</p>
+               <p>Carrier. I know nothing of this particular Fact, no farther than this; that Mrs. Harding wanted to know whether the Coach Boot was fit to carry the Seat in or not; that young Man, (Smith, the Prisoner) is my Servant; I said the Boot would carry such a Thing if it had no Hay in it.</p>
+               <p>Q. Was there any Hole in the Boot?</p>
+               <p>Carrier. No, my Lord, it was very good.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person425">
+                  Q. 
+               <interp inst="t17460903-32-person425" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person425" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Budby) You put the Seat into the Boot of the Coach, was there any Hay in it ?</p>
+               <p>Budby. None, my Lord, but the Box went down to the Bottom.</p>
+               <p>Q. Do you think that there was any Likelihood of its being joked out ?</p>
+               <p>Budby. Hardly any two Men could take it out without standing upon the Bar to lift it by main Strength.</p>
+               <p>Q. You say the Coach Seat was very full.</p>
+               <p>Budby. As full as I could well lift.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person426">
+                  Q. 
+               <interp inst="t17460903-32-person426" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person426" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person427">
+                  Mary 
+                  Carrier 
+               <interp inst="t17460903-32-person427" type="surname" value="Carrier"></interp>
+                     <interp inst="t17460903-32-person427" type="given" value="Mary"></interp>
+                     <interp inst="t17460903-32-person427" type="gender" value="female"></interp>
+                  </persName>
+            ) What Relation are you to 
+               <persName id="t17460903-32-person428">
+                  William 
+                  Carrier 
+               <interp inst="t17460903-32-person428" type="surname" value="Carrier"></interp>
+                     <interp inst="t17460903-32-person428" type="given" value="William"></interp>
+                     <interp inst="t17460903-32-person428" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Carrier. I am his Wife: The Boy came to me between Eight and Nine o'Clock at Night for his Coat.</p>
+               <p>Q. What Time did he come to you ?</p>
+               <p>Carrier. Between Eight and Nine o'Clock, I think, on Saturday Night; he did not stay at all with me; I gave him the Coat, and the Coach stopp'd in Denmark-Street.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person429">
+                  Q. 
+               <interp inst="t17460903-32-person429" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person429" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person430">
+                  Thomas 
+                  Thornhill 
+               <interp inst="t17460903-32-person430" type="surname" value="Thornhill"></interp>
+                     <interp inst="t17460903-32-person430" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person430" type="gender" value="male"></interp>
+                  </persName>
+             ) Will you please to tell the Jury what you know of this Matter ?</p>
+               <p>Thornhill. Smith, the Prisoner at the Bar, brought Mrs. Harding's Servant to my House, which is 
+               <persName id="t17460903-32-person431">
+                  Anne 
+                  England 
+               <interp inst="t17460903-32-person431" type="surname" value="England"></interp>
+                     <interp inst="t17460903-32-person431" type="given" value="Anne"></interp>
+                     <interp inst="t17460903-32-person431" type="gender" value="female"></interp>
+                  </persName>
+            , the Witness.</p>
+               <p>Q. What Time of the Night?</p>
+               <p>Thornhill. It was dark when they came to us; it might be between Eight and Nine o'Clock at Night when the Maid came; there was, I believe, six Boxes taken out of the Coach; she came into my Shop, and said, Where is the Coach Seat. The Boy, 
+               <persName id="t17460903-32-person432">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person432" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person432" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person432" type="gender" value="male"></interp>
+                  </persName>
+            , at first, deny'd that he had it at all, and that he believ'd it was put into the other Coach: That the Gentry were coming with it. I believe these were his very Words.</p>
+               <p>Q. Did that Answer satisfy? was there any farther Enquiry made?</p>
+               <p>Thornhill. The Maid herself said, that she saw it put into the Boot; upon which he then said, it was lost at my Door; that somebody had stole it after he had been charg'd with it: He said my Servants had robb'd him. I said they were my Servants, and I would be answerable for them.</p>
+               <p>Q. Was there any body with him?</p>
+               <p>Thornhill. There was a Boy with him, but I can't swear to him.</p>
+               <p>Court. Then Thomas Smith fell a swearing, and said some of your Servants had robb'd him?</p>
+               <p>Thornhill. Yes, most impudently, Sir.</p>
+               <p>Q. What pass'd then?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174609030033"></xptr>Thornhill. He would have gone away from the Door, and I told him he should not go 'till the other Coach came; I expected Mrs. Harding and Miss. He then said he would stay 'till it did come.</p>
+               <p>Q. And did he ?</p>
+               <p>Thornhill. I went up to inform Dr. Harding of the Affair; he was in my House. While I was telling the Doctor what he said, he drove away. Dr. Harding flung up my Windows to bid him stay; he answer'd, with an Oath, D - n his Blood, or something of that Kind, he would not stay for him, nor no-body else.</p>
+               <p>Q. Which of them said that?</p>
+               <p>Thornhill. Smith was then upon the Box, I believe, Sir. I think, when I said he should stay, the other Boy went away. The Morning after Smith was taken up; when he came to my House in order to be taken before Sir 
+               <persName id="t17460903-32-person433">
+                  Thomas 
+                  De Veil 
+               <interp inst="t17460903-32-person433" type="surname" value="De Veil"></interp>
+                     <interp inst="t17460903-32-person433" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person433" type="gender" value="male"></interp>
+                  </persName>
+            , he deny'd that he had any body with him at all, 'till I had given him some particular Account of it; then he confess'd that he had somebody with him.</p>
+               <p>Q. Was you before Sir 
+               <persName id="t17460903-32-person434">
+                  Thomas 
+                  De Veil 
+               <interp inst="t17460903-32-person434" type="surname" value="De Veil"></interp>
+                     <interp inst="t17460903-32-person434" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person434" type="gender" value="male"></interp>
+                  </persName>
+            ? Did any thing remarkable pass there?</p>
+               <p>Thornhill. No, Sir, I think not.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person435">
+                  Q. 
+               <interp inst="t17460903-32-person435" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person435" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Dr. Harding) Please to mention what you know concerning this Affair.</p>
+               <p>Harding. I must say this, as a pausible Plea for the Prisoner; it did rain pretty hard when I call'd to him, and ask'd him whether he would not stay, to comply with his Promise, 'till the other Coach came up to' clear up the Matter; he answer
+               <persName id="t17460903-32-person436">
+                  'd, D<interp inst="t17460903-32-person436" type="given" value="'d"></interp>
+                     <interp inst="t17460903-32-person436" type="gender" value="indeterminate"></interp>
+                  </persName>
+             - n your Blood, I will not stay for you, nor any Man breathing. When I was before Sir 
+               <persName id="t17460903-32-person437">
+                  Thomas 
+                  De Veil 
+               <interp inst="t17460903-32-person437" type="surname" value="De Veil"></interp>
+                     <interp inst="t17460903-32-person437" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person437" type="gender" value="male"></interp>
+                  </persName>
+            , the other Prisoner confess'd he was along with 
+               <persName id="t17460903-32-person438">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person438" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person438" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person438" type="gender" value="male"></interp>
+                  </persName>
+             the whole Time.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person439">
+                  Q. 
+               <interp inst="t17460903-32-person439" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person439" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person440">
+                  Daniel 
+                  Herd 
+               <interp inst="t17460903-32-person440" type="surname" value="Herd"></interp>
+                     <interp inst="t17460903-32-person440" type="given" value="Daniel"></interp>
+                     <interp inst="t17460903-32-person440" type="gender" value="male"></interp>
+                  </persName>
+            ) What do you know of this Matter?</p>
+               <p>Herd. Upon the 6th of July, early in the Morning, I receiv'd a Note from Dr. Harding, to go to Mr. Edger; which I did, and told him that I wanted to enquire of the Man that drove the Coach last Night: So we went into Tyburn Road, and call'd him up, and I desir'd him to go with me to find out the Man that drove the Hackney Coach last Night, No. 190. So he ask'd another Man if he knew the Prisoner at the Bar, calling him by a Nick-Name; he said, Yes, and that he had burnt almost a whole Candle that Night, and he did not come home; another Man made Answer, he believ'd he was asleep in the Haylost: The Man went down, and came up again, and said he was there. So I spoke to him, and ask'd him if he knew any thing of a Coach Seat that was lost last Night; the Coachman said to him, Did not you and I put it into the Coach? then he said he did carry it to St. Paul's Church-Yard, and that he set his Feet upon it; but at first he said nothing of it, which made Mr. Budby give him some rash Words, and lay to him, Did not I help you to put it in myself? Then he answer'd, he had carried it to Mr. Thornhill's in St. Paul's Church-Yard. The Man that brought me the Note for my Master told me, that there was another Man came along with him. I ask'd Smith whether somebody did not get upon the Coach at Rathborne-Place, when he drank a Dram with him; he said, Yes, but he went no further; but afterwards confess'd that he went along with him all the Way.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person441">
+                  Q. 
+               <interp inst="t17460903-32-person441" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person441" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner Smith) What have you to say by way of Defence?</p>
+               <p>Prisoner. Please you, my Lord, I was call'd from St. Anne's Place; there was this Box to carry, and it began to rain; I went for my Great-Coat, and when I stopp'd in Denmark-Street every Thing was safe.</p>
+               <p>The Prisoner at the Bar, Barrow, confess'd he went with him to St. Paul's Church-Yard, and he deliver'd the Things, &amp;c.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person442">
+                  Q. 
+               <interp inst="t17460903-32-person442" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person442" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person443">
+                  Joseph 
+                  Everit 
+               <interp inst="t17460903-32-person443" type="surname" value="Everit"></interp>
+                     <interp inst="t17460903-32-person443" type="given" value="Joseph"></interp>
+                     <interp inst="t17460903-32-person443" type="gender" value="male"></interp>
+                  </persName>
+            ) What do you know of the Prisoners?</p>
+               <p>Everit. I have known 
+               <persName id="t17460903-32-person444">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person444" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person444" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person444" type="gender" value="male"></interp>
+                  </persName>
+             from a Child, and never knew any Thing of him but what was honest: I have trusted him out with my Coach, and he always behav'd well.</p>
+               <p>Q. Which of them have you trusted?</p>
+               <p>Everit. 
+               <persName id="t17460903-32-person445">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person445" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person445" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person445" type="gender" value="male"></interp>
+                  </persName>
+            ; he has drove my Coach. I am a Hackney-Coachman myself.</p>
+               <p>Q. How long have you employ'd Smith?</p>
+               <p>Everit. I don't employ a Man constantly; but when I want a Lad for a Day or two I have had him, and never heard any harm by him in my Life.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person446">
+                  Q. 
+               <interp inst="t17460903-32-person446" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person446" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person447">
+                  John 
+                  Marshall 
+               <interp inst="t17460903-32-person447" type="surname" value="Marshall"></interp>
+                     <interp inst="t17460903-32-person447" type="given" value="John"></interp>
+                     <interp inst="t17460903-32-person447" type="gender" value="male"></interp>
+                  </persName>
+             ) How long have you known the Prisoner at the Bar?</p>
+               <p>Marshall. I have known him, 
+               <persName id="t17460903-32-person448">
+                  Thomas 
+                  Barrow 
+               <interp inst="t17460903-32-person448" type="surname" value="Barrow"></interp>
+                     <interp inst="t17460903-32-person448" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person448" type="gender" value="male"></interp>
+                  </persName>
+            , not quite a Year.</p>
+               <p>Q. How came you to know him?</p>
+               <p>Marshall. He help'd in the Stables near where I live, he us'd to come to my House.</p>
+               <p>Q. What House do you keep?</p>
+               <p>Marshall. A Chandler's Shop: Being a very honest Fellow, I us'd to have him in my Shop, and never found him otherwise in my Life.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person449">
+                  Q. 
+               <interp inst="t17460903-32-person449" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person449" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person450">
+                  Thomas 
+                  Bedsworth 
+               <interp inst="t17460903-32-person450" type="surname" value="Bedsworth"></interp>
+                     <interp inst="t17460903-32-person450" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person450" type="gender" value="male"></interp>
+                  </persName>
+            ) Which of them do you know?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174609030034"></xptr>Bedsworth. I have known 
+               <persName id="t17460903-32-person451">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person451" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person451" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person451" type="gender" value="male"></interp>
+                  </persName>
+             two Years, and the other about a Quarter; 
+               <persName id="t17460903-32-person452">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person452" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person452" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person452" type="gender" value="male"></interp>
+                  </persName>
+            , I believe, was with me about six Weeks. I have sent him often out of Days, and he always behav'd very well; and the last Time of my parting with him, was my taking a Kinsman of my own.</p>
+               <p>Q. How did Barrow behave?</p>
+               <p>Bedsworth. They were always both very honest: I never heard any thing against their Character.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person453">
+                  William 
+                  Sparrow 
+               <interp inst="t17460903-32-person453" type="surname" value="Sparrow"></interp>
+                     <interp inst="t17460903-32-person453" type="given" value="William"></interp>
+                     <interp inst="t17460903-32-person453" type="gender" value="male"></interp>
+                  </persName>
+            . I only know 
+               <persName id="t17460903-32-person454">
+                  Thomas 
+                  Smith 
+               <interp inst="t17460903-32-person454" type="surname" value="Smith"></interp>
+                     <interp inst="t17460903-32-person454" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person454" type="gender" value="male"></interp>
+                  </persName>
+            ; I keep a Publick House; I have knowSmith seven or eight Years, and he was always a sober honest Lad.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person455">
+                  Q. 
+               <interp inst="t17460903-32-person455" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person455" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Jeffery Reynolds.) Which do you know?</p>
+               <p>Reynolds. Barrow I have known for four Months; he serv'd me last; he is a very honest civil Fellow, as far as ever I heard.</p>
+               <p>
+            
+                  <persName id="t17460903-32-person456">
+                  Q. 
+               <interp inst="t17460903-32-person456" type="given" value="Q."></interp>
+                     <interp inst="t17460903-32-person456" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460903-32-person457">
+                  Catherine 
+                  Jones 
+               <interp inst="t17460903-32-person457" type="surname" value="Jones"></interp>
+                     <interp inst="t17460903-32-person457" type="given" value="Catherine"></interp>
+                     <interp inst="t17460903-32-person457" type="gender" value="female"></interp>
+                  </persName>
+            .) Which do you know?</p>
+               <p>Jones. 
+               <persName id="t17460903-32-person458">
+                  Thomas 
+                  Barrow 
+               <interp inst="t17460903-32-person458" type="surname" value="Barrow"></interp>
+                     <interp inst="t17460903-32-person458" type="given" value="Thomas"></interp>
+                     <interp inst="t17460903-32-person458" type="gender" value="male"></interp>
+                  </persName>
+            ; I have known him for nine Months; he was my Servant between four and five Months; I have trusted him to pay Money, and buy Goods, &amp;c.</p>
+               <p>Both <rs id="t17460903-32-verdict126" type="verdictDescription">
+                     <interp inst="t17460903-32-verdict126" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

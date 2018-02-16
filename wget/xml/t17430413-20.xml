@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17430413-20">
+               <interp inst="t17430413-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17430413-20" type="year" value="1743"></interp>
+               <interp inst="t17430413-20" type="uri" value="sessionsPapers/17430413"></interp>
+               <interp inst="t17430413-20" type="date" value="17430413"></interp>
+               <join result="criminalCharge" id="t17430413-20-off126-c217" targOrder="Y" targets="t17430413-20-defend263 t17430413-20-off126 t17430413-20-verdict129"></join>
+         
+               <p>204. 
+               
+                  <persName id="t17430413-20-defend263" type="defendantName">
+                     William 
+                     Smith 
+                  <interp inst="t17430413-20-defend263" type="surname" value="Smith"></interp>
+                     <interp inst="t17430413-20-defend263" type="given" value="William"></interp>
+                     <interp inst="t17430413-20-defend263" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t17430413-20-defloc125">St Botolph, Aldersgate</placeName>
+                  <interp inst="t17430413-20-defloc125" type="placeName" value="St Botolph, Aldersgate"></interp>
+                  <interp inst="t17430413-20-defloc125" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430413-20-defend263 t17430413-20-defloc125"></join>, was indicted for <rs id="t17430413-20-off126" type="offenceDescription">
+                     <interp inst="t17430413-20-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17430413-20-off126" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one Peruke, val. 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17430413-20-victim265" type="victimName">
+                     Thomas 
+                     Gosling 
+                  <interp inst="t17430413-20-victim265" type="surname" value="Gosling"></interp>
+                     <interp inst="t17430413-20-victim265" type="given" value="Thomas"></interp>
+                     <interp inst="t17430413-20-victim265" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17430413-20-off126 t17430413-20-victim265"></join>
+                  </persName>
+                
+            , <rs id="t17430413-20-cd127" type="crimeDate">April 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17430413-20-off126 t17430413-20-cd127"></join>.</p>
+               <p>
+            
+                  <persName id="t17430413-20-person266">
+                  Thomas 
+                  Gosling 
+               <interp inst="t17430413-20-person266" type="surname" value="Gosling"></interp>
+                     <interp inst="t17430413-20-person266" type="given" value="Thomas"></interp>
+                     <interp inst="t17430413-20-person266" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner came to my House, <placeName id="t17430413-20-crimeloc128">the Rose and Crown, in Little-Britain</placeName>
+                  <interp inst="t17430413-20-crimeloc128" type="placeName" value="the Rose and Crown, in Little-Britain"></interp>
+                  <interp inst="t17430413-20-crimeloc128" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17430413-20-off126 t17430413-20-crimeloc128"></join>, on the 2 d of April, and called for half a Pint of Two-penny Purl; I was cleaning the Windows, and he found fault with my doing of them; the Barber came in and set my Wig down in the Kitchen, and when the Maid went out of the Kitchen into the Yard, he took an Opportunity to whip into the Kitchen and take the Wig (I did not see him take it) the Maid looked into the Kitchen, and asked who had been there, for the Wig was gone, and the Box left; I enquired who had been there, and they said, no Body but that little Fellow; I went up Field-Lane, and saw him with the Wig upon his Head; I followed him and collared him, said I, Friend, I believe you were just now at the Rose and Crown, in Little Britain, and had half a Pint of Purl; that is my Wig: He said, D - n you, it is not your Wig: I went with him into a House to drink a Pint of Beer, and he owned it was my Wig, and that he took it from behind the Bar: Says a Cook, who came into the House, Oh! Friend, what are you here? that Fellow ran away with a Dish and twelve-pennyworth of Ham t'other Day. The Prisoner confessed, before my Lord-Mayor, that he stole the Wig from my House.</p>
+
+               <p>Prisoner. I never was in Prison in my Life before; I never was in any Broil; I never did any Fact in my Life; and if I did this I know nothing at all of it. <rs id="t17430413-20-verdict129" type="verdictDescription">
+                     <interp inst="t17430413-20-verdict129" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17430413-20-verdict129" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17430413-20-punish130" type="punishmentDescription">
+                     <interp inst="t17430413-20-punish130" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17430413-20-defend263 t17430413-20-punish130"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

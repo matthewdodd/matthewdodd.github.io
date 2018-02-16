@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560603-11">
+               <interp inst="t17560603-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560603-11" type="year" value="1756"></interp>
+               <interp inst="t17560603-11" type="uri" value="sessionsPapers/17560603"></interp>
+               <interp inst="t17560603-11" type="date" value="17560603"></interp>
+               <join result="criminalCharge" id="t17560603-11-off57-c92" targOrder="Y" targets="t17560603-11-defend108 t17560603-11-off57 t17560603-11-verdict59"></join>
+         
+               <p>248. (M.) 
+               
+                  <persName id="t17560603-11-defend108" type="defendantName">
+                     Henry 
+                     Crabtree 
+                  <interp inst="t17560603-11-defend108" type="surname" value="Crabtree"></interp>
+                     <interp inst="t17560603-11-defend108" type="given" value="Henry"></interp>
+                     <interp inst="t17560603-11-defend108" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17560603-11-off57" type="offenceDescription">
+                     <interp inst="t17560603-11-off57" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560603-11-off57" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one linen sheet, value 4 d. and one blanket, value 5 d. the goods of 
+                     
+                        <persName id="t17560603-11-victim110" type="victimName">
+                           William 
+                           Eliot 
+                        <interp inst="t17560603-11-victim110" type="surname" value="Eliot"></interp>
+                        <interp inst="t17560603-11-victim110" type="given" value="William"></interp>
+                        <interp inst="t17560603-11-victim110" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17560603-11-off57 t17560603-11-victim110"></join>
+                     </persName>
+                      
+                  , in a certain lodging room left by contract
+            </rs>, <rs id="t17560603-11-cd58" type="crimeDate">October 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560603-11-off57 t17560603-11-cd58"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17560603-11-person111">
+                  William 
+                  Eliot 
+               <interp inst="t17560603-11-person111" type="surname" value="Eliot"></interp>
+                     <interp inst="t17560603-11-person111" type="given" value="William"></interp>
+                     <interp inst="t17560603-11-person111" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Buckle Street, White-chapel. I left the prisoner a lodging; he paid me well two years; his family was large, and in the winter time he pawn'd a blanket and sheet; I told him if he'd put them in their place again he might go about his business, but he did not, so I took him up. He told me where he had pawned them, and I went and fetched them accordingly.</p>
+               <p>A Pawnbroker. I len't the prisoner 2 s. upon the blanket, and have since delivered it to the prosecutor.</p>
+               <p>A. Pawnbroker. The prisoner pledged a sheet to my wife for 15 d. I have since deliver'd it to the prosecutor.</p>
+               <p>Prisoner's defence. My wife died and left me five children, my poverty was great, and it was a very hard winter. I went to borrow a shailing of the prosecutor's wife, and she gave me liberty to pawn these things.</p>
+               <p>
+                  <rs id="t17560603-11-verdict59" type="verdictDescription">
+                     <interp inst="t17560603-11-verdict59" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17560603-11-punish60" type="punishmentDescription">
+                     <interp inst="t17560603-11-punish60" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17560603-11-punish60" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17560603-11-defend108 t17560603-11-punish60"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

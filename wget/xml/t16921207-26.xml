@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-26">
+               <interp inst="t16921207-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-26" type="year" value="1692"></interp>
+               <interp inst="t16921207-26" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-26" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-26-off126-c93" targOrder="Y" targets="t16921207-26-defend93 t16921207-26-off126 t16921207-26-verdict130"></join>
+               <join result="criminalCharge" id="t16921207-26-off126-c94" targOrder="Y" targets="t16921207-26-defend94 t16921207-26-off126 t16921207-26-verdict130"></join>
+               <join result="criminalCharge" id="t16921207-26-off126-c95" targOrder="Y" targets="t16921207-26-defend95 t16921207-26-off126 t16921207-26-verdict130"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-26-defend93" type="defendantName">
+                  Richard 
+                  Larrymore
+               <interp inst="t16921207-26-defend93" type="surname" value="Larrymore"></interp>
+                     <interp inst="t16921207-26-defend93" type="given" value="Richard"></interp>
+                     <interp inst="t16921207-26-defend93" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16921207-26-defend94" type="defendantName">
+                  Abraham 
+                  Turner
+               <interp inst="t16921207-26-defend94" type="surname" value="Turner"></interp>
+                     <interp inst="t16921207-26-defend94" type="given" value="Abraham"></interp>
+                     <interp inst="t16921207-26-defend94" type="gender" value="male"></interp>
+                  </persName>
+            , two <rs id="t16921207-26-deflabel125" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921207-26-defend93 t16921207-26-deflabel125"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921207-26-defend94 t16921207-26-deflabel125"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921207-26-defend95 t16921207-26-deflabel125"></join>s, and 
+               <persName id="t16921207-26-defend95" type="defendantName">
+                  Elizabeth 
+                  Hutchins
+               <interp inst="t16921207-26-defend95" type="surname" value="Hutchins"></interp>
+                     <interp inst="t16921207-26-defend95" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16921207-26-defend95" type="gender" value="female"></interp>
+                  </persName>
+            , were all tried for <rs id="t16921207-26-off126" type="offenceDescription">
+                     <interp inst="t16921207-26-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921207-26-off126" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Gold Rings, value 25 s. another Gold Ring set with a Diamond Stone, value 45 s.
+            </rs> the Goods of <rs id="t16921207-26-viclabel127" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921207-26-victim96 t16921207-26-viclabel127"></join> 
+            
+                  <persName id="t16921207-26-victim96" type="victimName">
+                  Roger 
+                  Twisden
+               <interp inst="t16921207-26-victim96" type="surname" value="Twisden"></interp>
+                     <interp inst="t16921207-26-victim96" type="given" value="Roger"></interp>
+                     <interp inst="t16921207-26-victim96" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16921207-26-off126 t16921207-26-victim96"></join>
+                  </persName>
+             of the Parish of <placeName id="t16921207-26-crimeloc128">Aldgate</placeName>
+                  <interp inst="t16921207-26-crimeloc128" type="placeName" value="Aldgate"></interp>
+                  <interp inst="t16921207-26-crimeloc128" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16921207-26-off126 t16921207-26-crimeloc128"></join>, on the <rs id="t16921207-26-cd129" type="crimeDate">30th day of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16921207-26-off126 t16921207-26-cd129"></join> last; The woman brought<xptr type="pageFacsimile" doc="16921207004"></xptr>the Rings to sell at a Goldsmiths in East-Smithfield, where she was stopt, with Larrymore, and the other Boy; Turner was taken in Hutchins's House; it was sworn that the woman was a person of ill same; but however, there was none could say the Rings were Mr. Twisden's; so they were all three <rs id="t16921207-26-verdict130" type="verdictDescription">
+                     <interp inst="t16921207-26-verdict130" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

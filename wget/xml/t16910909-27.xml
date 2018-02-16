@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910909-27">
+               <interp inst="t16910909-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910909-27" type="year" value="1691"></interp>
+               <interp inst="t16910909-27" type="uri" value="sessionsPapers/16910909"></interp>
+               <interp inst="t16910909-27" type="date" value="16910909"></interp>
+               <join result="criminalCharge" id="t16910909-27-off129-c86" targOrder="Y" targets="t16910909-27-defend86 t16910909-27-off129 t16910909-27-verdict132"></join>
+         
+               <p>
+            
+                  <persName id="t16910909-27-defend86" type="defendantName">
+                  Adam 
+                  Mack Affey
+               <interp inst="t16910909-27-defend86" type="surname" value="Mack Affey"></interp>
+                     <interp inst="t16910909-27-defend86" type="given" value="Adam"></interp>
+                     <interp inst="t16910909-27-defend86" type="gender" value="male"></interp>
+                  </persName>
+            , was tryed for <rs id="t16910909-27-off129" type="offenceDescription">
+                     <interp inst="t16910909-27-off129" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-27-off129" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in breaking the House of one 
+                     <persName id="t16910909-27-victim87" type="victimName">
+                        George 
+                        Cromwell
+                     <interp inst="t16910909-27-victim87" type="surname" value="Cromwell"></interp>
+                        <interp inst="t16910909-27-victim87" type="given" value="George"></interp>
+                        <interp inst="t16910909-27-victim87" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910909-27-off129 t16910909-27-victim87"></join>
+                     </persName>
+                  , on the <rs id="t16910909-27-cd130" type="crimeDate">17 of Feb</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-27-off129 t16910909-27-cd130"></join> last, taking away one silver Tankard, value   a Silver Cup, 20s. one other Cup 30s two Silver Mugs, value 3l. a Porringer, value 5l a Silver Tumbler, value 50s. a Silver Boyle, value 22s. a Taster    value 5s. and 6d. and divers other Goods, besides 20l. in Money
+            </rs>. Mr. Cromwell said, That seven or eight Men came into his House, about six or seven of the Clock at <placeName id="t16910909-27-crimeloc131">Sunbury in Middlesex</placeName>
+                  <interp inst="t16910909-27-crimeloc131" type="placeName" value="Sunbury in Middlesex"></interp>
+                  <interp inst="t16910909-27-crimeloc131" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910909-27-off129 t16910909-27-crimeloc131"></join>, and bound him and all his Family, and swore horrible Oaths that they must have his Money, the Prisoner, he believed, was one of them; afterwards, his House being searcht, at the King's Heard in Crown Court in Chancery-Lane, there was a Trunk found, with some of the Goods made up in a Pillow-bare, but he denyed that he knew any thing of the Robbery. The Evidence further against him was, that he hired Horses, and ingaged for them, pretending they were going to Brainford, to a Wedding, in order to carry on their design. The prisoner endeavoured to prove that he was not concerned any further than that he past his word for one Horse; he call'd some of his Neighbours as to his Reputation, who gave a good Account on 't and one Mr. Collins, his Brewer, proved that he was at home sick all that Day when the Robbery was done, which he very well remembered by a good Token, for that he received Money of the prisoner, which he made appear by producing his Account Book which was mark'd February the 17th, as above in the indictment, so he was at last <rs id="t16910909-27-verdict132" type="verdictDescription">
+                     <interp inst="t16910909-27-verdict132" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

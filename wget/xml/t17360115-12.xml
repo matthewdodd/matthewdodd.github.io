@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-12">
+               <interp inst="t17360115-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-12" type="year" value="1736"></interp>
+               <interp inst="t17360115-12" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-12" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-12-off79-c101" targOrder="Y" targets="t17360115-12-defend134 t17360115-12-off79 t17360115-12-verdict82"></join>
+               <join result="criminalCharge" id="t17360115-12-off79-c102" targOrder="Y" targets="t17360115-12-defend136 t17360115-12-off79 t17360115-12-verdict83"></join>
+         
+               <p>15, 16. 
+               
+                  <persName id="t17360115-12-defend134" type="defendantName">
+                     Mary 
+                     Clark 
+                  <interp inst="t17360115-12-defend134" type="surname" value="Clark"></interp>
+                     <interp inst="t17360115-12-defend134" type="given" value="Mary"></interp>
+                     <interp inst="t17360115-12-defend134" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17360115-12-defend136" type="defendantName">
+                     Eliz 
+                     Holmes 
+                  <interp inst="t17360115-12-defend136" type="surname" value="Holmes"></interp>
+                     <interp inst="t17360115-12-defend136" type="given" value="Eliz"></interp>
+                     <interp inst="t17360115-12-defend136" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17360115-12-defloc78">St. Luke, Middlesex</placeName>
+                  <interp inst="t17360115-12-defloc78" type="placeName" value="St. Luke, Middlesex"></interp>
+                  <interp inst="t17360115-12-defloc78" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-12-defend134 t17360115-12-defloc78"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-12-defend136 t17360115-12-defloc78"></join>, were indicted for <rs id="t17360115-12-off79" type="offenceDescription">
+                     <interp inst="t17360115-12-off79" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-12-off79" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 18 Iron Pinns, value 2 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17360115-12-victim138" type="victimName">
+                     Suannah 
+                     Wadcock 
+                  <interp inst="t17360115-12-victim138" type="surname" value="Wadcock"></interp>
+                     <interp inst="t17360115-12-victim138" type="given" value="Suannah"></interp>
+                     <interp inst="t17360115-12-victim138" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-12-off79 t17360115-12-victim138"></join>
+                  </persName>
+                
+            , the <rs id="t17360115-12-cd80" type="crimeDate">10th of this Instant</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-12-off79 t17360115-12-cd80"></join>.</p>
+               <p>
+            
+                  <persName id="t17360115-12-person139">
+                  Thomas 
+                  Satchwell 
+               <interp inst="t17360115-12-person139" type="surname" value="Satchwell"></interp>
+                     <interp inst="t17360115-12-person139" type="given" value="Thomas"></interp>
+                     <interp inst="t17360115-12-person139" type="gender" value="male"></interp>
+                  </persName>
+            . I rent the Tenter-Grounds in the Parish of <placeName id="t17360115-12-crimeloc81">St. Luke</placeName>
+                  <interp inst="t17360115-12-crimeloc81" type="placeName" value="St. Luke"></interp>
+                  <interp inst="t17360115-12-crimeloc81" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360115-12-off79 t17360115-12-crimeloc81"></join>, and as we had lost several Pinns out of the Ground, I set my Man to watch, and he took Clark in the Fact. They were carried before Justice Wroth; they confess'd and signed their Confession in my Presence.</p>
+               <p>
+            
+                  <persName id="t17360115-12-person140">
+                  James 
+                  Luke 
+               <interp inst="t17360115-12-person140" type="surname" value="Luke"></interp>
+                     <interp inst="t17360115-12-person140" type="given" value="James"></interp>
+                     <interp inst="t17360115-12-person140" type="gender" value="male"></interp>
+                  </persName>
+            . I took Clark in the Fact. I know nothing of Holmes, but from her own Confession before the Justice.</p>
+               <p>The Jury found Clark <rs id="t17360115-12-verdict82" type="verdictDescription">
+                     <interp inst="t17360115-12-verdict82" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-12-verdict82" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty, to the value of 10 d.
+            </rs> and <rs id="t17360115-12-verdict83" type="verdictDescription">
+                     <interp inst="t17360115-12-verdict83" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> Holmes.</p>
+               <p>
+                  <rs id="t17360115-12-punish84" type="punishmentDescription">
+                     <interp inst="t17360115-12-punish84" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-12-defend134 t17360115-12-punish84"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

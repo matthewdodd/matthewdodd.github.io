@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340710-35">
+               <interp inst="t17340710-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340710-35" type="year" value="1734"></interp>
+               <interp inst="t17340710-35" type="uri" value="sessionsPapers/17340710"></interp>
+               <interp inst="t17340710-35" type="date" value="17340710"></interp>
+               <join result="criminalCharge" id="t17340710-35-off141-c194" targOrder="Y" targets="t17340710-35-defend261 t17340710-35-off141 t17340710-35-verdict144"></join>
+         
+               <p>41. 
+               
+                  <persName id="t17340710-35-defend261" type="defendantName">
+                     Mary 
+                     Butler 
+                  <interp inst="t17340710-35-defend261" type="surname" value="Butler"></interp>
+                     <interp inst="t17340710-35-defend261" type="given" value="Mary"></interp>
+                     <interp inst="t17340710-35-defend261" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340710-35-off141" type="offenceDescription">
+                     <interp inst="t17340710-35-off141" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340710-35-off141" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing 14 Guineas and 20 s. from the Person of 
+                     
+                        <persName id="t17340710-35-victim263" type="victimName">
+                           John 
+                           Taylor 
+                        <interp inst="t17340710-35-victim263" type="surname" value="Taylor"></interp>
+                        <interp inst="t17340710-35-victim263" type="given" value="John"></interp>
+                        <interp inst="t17340710-35-victim263" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340710-35-off141 t17340710-35-victim263"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17340710-35-cd142" type="crimeDate">June 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340710-35-off141 t17340710-35-cd142"></join>.</p>
+               <p>John Taylor. About 11 at Night I met the Prisoner and another Woman by <placeName id="t17340710-35-crimeloc143">Temple-Bar</placeName>
+                  <interp inst="t17340710-35-crimeloc143" type="placeName" value="Temple-Bar"></interp>
+                  <interp inst="t17340710-35-crimeloc143" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17340710-35-off141 t17340710-35-crimeloc143"></join>, they ask'd me to give them a Glass of Wine, and I indiscretely went with them to a Tavern. The Money was in a Bag in my Coat Pocket. We stay'd a Quarter of an Hour, I paid for the Wine, and as the Women were going out, I miss'd my Money, and call'd out to stop them; but none of the People of the House regarded my calling - The Women fell a running, and I follow'd them. One of them got off, but the Prisoner was stopt at the End of Cary-Street by the Constable and Watch - But I had not the Prudence to have her search'd.</p>
+               <p>Prisoner. I never saw the Man's Face before he stopp'd me in the Street, and said I was like a Woman that had robb'd him. <rs id="t17340710-35-verdict144" type="verdictDescription">
+                     <interp inst="t17340710-35-verdict144" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

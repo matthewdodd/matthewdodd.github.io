@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390221-59">
+               <interp inst="t17390221-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390221-59" type="year" value="1739"></interp>
+               <interp inst="t17390221-59" type="uri" value="sessionsPapers/17390221"></interp>
+               <interp inst="t17390221-59" type="date" value="17390221"></interp>
+               <join result="criminalCharge" id="t17390221-59-off269-c270" targOrder="Y" targets="t17390221-59-defend415 t17390221-59-off269 t17390221-59-verdict271"></join>
+         
+               <p>220. 
+               
+                  <persName id="t17390221-59-defend415" type="defendantName">
+                     Elizabeth 
+                     Lowder 
+                  <interp inst="t17390221-59-defend415" type="surname" value="Lowder"></interp>
+                     <interp inst="t17390221-59-defend415" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17390221-59-defend415" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390221-59-off269" type="offenceDescription">
+                     <interp inst="t17390221-59-off269" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390221-59-off269" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Pair of Worsted Stockings, val. 2 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17390221-59-victim417" type="victimName">
+                     Thomas 
+                     Harrison 
+                  <interp inst="t17390221-59-victim417" type="surname" value="Harrison"></interp>
+                     <interp inst="t17390221-59-victim417" type="given" value="Thomas"></interp>
+                     <interp inst="t17390221-59-victim417" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17390221-59-off269 t17390221-59-victim417"></join>
+                  </persName>
+                
+            , <rs id="t17390221-59-cd270" type="crimeDate">Feb. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390221-59-off269 t17390221-59-cd270"></join>. <rs id="t17390221-59-verdict271" type="verdictDescription">
+                     <interp inst="t17390221-59-verdict271" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17390221-59-punish272" type="punishmentDescription">
+                     <interp inst="t17390221-59-punish272" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390221-59-defend415 t17390221-59-punish272"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

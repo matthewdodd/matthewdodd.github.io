@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-83">
+               <interp inst="t16930426-83" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-83" type="year" value="1693"></interp>
+               <interp inst="t16930426-83" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-83" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-83-off365-c232" targOrder="Y" targets="t16930426-83-defend232 t16930426-83-off365 t16930426-83-verdict367"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-83-defend232" type="defendantName">
+                  Elizabeth 
+                  Rownd
+               <interp inst="t16930426-83-defend232" type="surname" value="Rownd"></interp>
+                     <interp inst="t16930426-83-defend232" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16930426-83-defend232" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16930426-83-off365" type="offenceDescription">
+                     <interp inst="t16930426-83-off365" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-83-off365" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16930426-83-victim233" type="victimName">
+                        Susan 
+                        King
+                     <interp inst="t16930426-83-victim233" type="surname" value="King"></interp>
+                        <interp inst="t16930426-83-victim233" type="given" value="Susan"></interp>
+                        <interp inst="t16930426-83-victim233" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-83-off365 t16930426-83-victim233"></join>
+                     </persName>
+                   
+                     <rs id="t16930426-83-viclabel366" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16930426-83-victim233 t16930426-83-viclabel366"></join> on the 17th instant, one Silk Gown, value 20s. a Stuff Petticoat, value 2s. 6d.a Scarf 8s. &amp;c.
+            </rs> King and another Evidence swore that she had confest it before Justice Bucknall; but she denied it at her Tryal, so she was found <rs id="t16930426-83-verdict367" type="verdictDescription">
+                     <interp inst="t16930426-83-verdict367" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16930426-83-verdict367" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16930426-83-punish368" type="punishmentDescription">
+                     <interp inst="t16930426-83-punish368" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16930426-83-punish368" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-83-defend232 t16930426-83-punish368"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17671209-71">
+               <interp inst="t17671209-71" type="collection" value="BAILEY"></interp>
+               <interp inst="t17671209-71" type="year" value="1767"></interp>
+               <interp inst="t17671209-71" type="uri" value="sessionsPapers/17671209"></interp>
+               <interp inst="t17671209-71" type="date" value="17671209"></interp>
+               <join result="criminalCharge" id="t17671209-71-off378-c492" targOrder="Y" targets="t17671209-71-defend641 t17671209-71-off378 t17671209-71-verdict381"></join>
+               <join result="criminalCharge" id="t17671209-71-off382-c492" targOrder="Y" targets="t17671209-71-defend641 t17671209-71-off382 t17671209-71-verdict381"></join>
+         
+               <p>88. 
+               
+                  <persName id="t17671209-71-defend641" type="defendantName">
+                     John 
+                     Bradley 
+                  <interp inst="t17671209-71-defend641" type="surname" value="Bradley"></interp>
+                     <interp inst="t17671209-71-defend641" type="given" value="John"></interp>
+                     <interp inst="t17671209-71-defend641" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17671209-71-off378" type="offenceDescription">
+                     <interp inst="t17671209-71-off378" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17671209-71-off378" type="offenceSubcategory" value="highwayRobbery"></interp>
+               robbing 
+                     
+                        <persName id="t17671209-71-victim643" type="victimName">
+                           Francis Bateman 
+                           Dashwood 
+                        <interp inst="t17671209-71-victim643" type="surname" value="Dashwood"></interp>
+                        <interp inst="t17671209-71-victim643" type="given" value="Francis Bateman"></interp>
+                        <interp inst="t17671209-71-victim643" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17671209-71-off378 t17671209-71-victim643"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17671209-71-off382 t17671209-71-victim643"></join>
+                     </persName>
+                     
+                  , <rs id="t17671209-71-viclabel379" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17671209-71-victim643 t17671209-71-viclabel379"></join>; on the King's highway, putting him in corporal fear and danger of his life, and taking from his person a hat, value 6 s. and a silver hatband, value 3 s. the property of the said Francis
+            </rs>, <rs id="t17671209-71-cd380" type="crimeDate">July 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671209-71-off378 t17671209-71-cd380"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671209-71-off382 t17671209-71-cd380"></join>.</p>
+               <p>
+                  <rs id="t17671209-71-verdict381" type="verdictDescription">
+                     <interp inst="t17671209-71-verdict381" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17671209-71-verdict381" type="verdictSubcategory" value="noProsecutor"></interp>
+               The prosecutor did not appear
+            </rs>.</p>
+               <p>See the trial of 
+               <persName id="t17671209-71-person644">
+                  James 
+                  Best 
+               <interp inst="t17671209-71-person644" type="surname" value="Best"></interp>
+                     <interp inst="t17671209-71-person644" type="given" value="James"></interp>
+                     <interp inst="t17671209-71-person644" type="gender" value="male"></interp>
+                  </persName>
+             for the same, No. 465, in last Mayoralty.</p>
+               <p>He was a second time indicted for <rs id="t17671209-71-off382" type="offenceDescription">
+                     <interp inst="t17671209-71-off382" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17671209-71-off382" type="offenceSubcategory" value="pervertingJustice"></interp>
+               breaking out of New-Prison, Clerkenwell, being then charged with the aforesaid robbery
+            </rs>.</p>
+               <p>No evidence produced against him.</p>
+               <p>
+                  <rs id="t17671209-71-verdict383" type="verdictDescription">
+                     <interp inst="t17671209-71-verdict383" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17671209-71-verdict383" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

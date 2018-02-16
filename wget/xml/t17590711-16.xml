@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590711-16">
+               <interp inst="t17590711-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590711-16" type="year" value="1759"></interp>
+               <interp inst="t17590711-16" type="uri" value="sessionsPapers/17590711"></interp>
+               <interp inst="t17590711-16" type="date" value="17590711"></interp>
+               <join result="criminalCharge" id="t17590711-16-off88-c122" targOrder="Y" targets="t17590711-16-defend151 t17590711-16-off88 t17590711-16-verdict93"></join>
+         
+               <p>229. (L.) 
+               
+                  <persName id="t17590711-16-defend151" type="defendantName">
+                     Elizabeth 
+                     Hare 
+                  <interp inst="t17590711-16-defend151" type="surname" value="Hare"></interp>
+                     <interp inst="t17590711-16-defend151" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17590711-16-defend151" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17590711-16-deflabel87" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590711-16-defend151 t17590711-16-deflabel87"></join>, was indicted for <rs id="t17590711-16-off88" type="offenceDescription">
+                     <interp inst="t17590711-16-off88" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590711-16-off88" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of linnen sheets, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17590711-16-victim153" type="victimName">
+                     Alice 
+                     Barker 
+                  <interp inst="t17590711-16-victim153" type="surname" value="Barker"></interp>
+                     <interp inst="t17590711-16-victim153" type="given" value="Alice"></interp>
+                     <interp inst="t17590711-16-victim153" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590711-16-off88 t17590711-16-victim153"></join>
+                  </persName>
+                
+            , <rs id="t17590711-16-viclabel89" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590711-16-victim153 t17590711-16-viclabel89"></join>; <rs id="t17590711-16-cd90" type="crimeDate">June 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590711-16-off88 t17590711-16-cd90"></join>.*</p>
+               <p>Elizabeth Asbury. I was at <placeName id="t17590711-16-crimeloc91">St Bartholomew's-Hospital</placeName>
+                  <interp inst="t17590711-16-crimeloc91" type="placeName" value="St Bartholomew's-Hospital"></interp>
+                  <interp inst="t17590711-16-crimeloc91" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590711-16-off88 t17590711-16-crimeloc91"></join>, with a bad leg; I was looking out at the window, and saw the prisoner take a pair of sheets under her arm; I having a bad leg, and up two pair of stairs, before I could get down, she was gone; we took her up on the Sunday morning after, and I swore to her by<xptr type="pageFacsimile" doc="175907110018"></xptr> her apparel; she had the same cloaths on, which she had when she took the sheets; I had seen her walking about the place, a great while, before she took the sheets.</p>
+               <p>
+            
+                  <persName id="t17590711-16-person154">
+                  Alice 
+                  Barker 
+               <interp inst="t17590711-16-person154" type="surname" value="Barker"></interp>
+                     <interp inst="t17590711-16-person154" type="given" value="Alice"></interp>
+                     <interp inst="t17590711-16-person154" type="gender" value="female"></interp>
+                  </persName>
+            . I am <rs id="t17590711-16-viclabel92" type="occupation">the Sister to Lazarus's-Ward, at St Bartholomew's-Hospital</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590711-16-victim153 t17590711-16-viclabel92"></join>; I have the care of the linnen, if any are lost, I am to make them good; I missed a pair of sheets, on the second of June.</p>
+               <p>Q. What is the value of them?</p>
+               <p>Barker. They are worth 5 s.</p>
+               <p>Q. Did you see the prisoner take them?</p>
+               <p>Barker. No; I did not.</p>
+               <p>Q. Did she own that she took them?</p>
+               <p>Barker. No; she did not.</p>
+               <p>The prisoner, in her defence, denied the fact.</p>
+               <p>
+                  <rs id="t17590711-16-verdict93" type="verdictDescription">
+                     <interp inst="t17590711-16-verdict93" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

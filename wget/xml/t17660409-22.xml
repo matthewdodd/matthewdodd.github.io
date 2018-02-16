@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-22">
+               <interp inst="t17660409-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-22" type="year" value="1766"></interp>
+               <interp inst="t17660409-22" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-22" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-22-off121-c151" targOrder="Y" targets="t17660409-22-defend196 t17660409-22-off121 t17660409-22-verdict125"></join>
+         
+               <p>225. (M.) 
+               
+                  <persName id="t17660409-22-defend196" type="defendantName">
+                     Francis 
+                     Tipping 
+                  <interp inst="t17660409-22-defend196" type="surname" value="Tipping"></interp>
+                     <interp inst="t17660409-22-defend196" type="given" value="Francis"></interp>
+                     <interp inst="t17660409-22-defend196" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660409-22-off121" type="offenceDescription">
+                     <interp inst="t17660409-22-off121" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660409-22-off121" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two calicoe shirts, value 5 s.
+            </rs> the property of 
+               
+                  <persName id="t17660409-22-victim198" type="victimName">
+                     Richard 
+                     Adams 
+                  <interp inst="t17660409-22-victim198" type="surname" value="Adams"></interp>
+                     <interp inst="t17660409-22-victim198" type="given" value="Richard"></interp>
+                     <interp inst="t17660409-22-victim198" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660409-22-off121 t17660409-22-victim198"></join>
+                  </persName>
+                
+            , <rs id="t17660409-22-cd122" type="crimeDate">April 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-22-off121 t17660409-22-cd122"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660409-22-person199">
+                  Richard 
+                  Adams 
+               <interp inst="t17660409-22-person199" type="surname" value="Adams"></interp>
+                     <interp inst="t17660409-22-person199" type="given" value="Richard"></interp>
+                     <interp inst="t17660409-22-person199" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17660409-22-viclabel123" type="occupation">shoe-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-22-victim198 t17660409-22-viclabel123"></join>, and live in Kingsland-road; I lost two calicoe shirts out of a yard where they were drying, at <placeName id="t17660409-22-crimeloc124">Ironmongers-alms-houses</placeName>
+                  <interp inst="t17660409-22-crimeloc124" type="placeName" value="Ironmongers-alms-houses"></interp>
+                  <interp inst="t17660409-22-crimeloc124" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660409-22-off121 t17660409-22-crimeloc124"></join>.</p>
+               <p>
+            
+                  <persName id="t17660409-22-person200">
+                  James 
+                  Kendrick 
+               <interp inst="t17660409-22-person200" type="surname" value="Kendrick"></interp>
+                     <interp inst="t17660409-22-person200" type="given" value="James"></interp>
+                     <interp inst="t17660409-22-person200" type="gender" value="male"></interp>
+                  </persName>
+            . I found these shirts upon the prisoner by the side of London field; I pursued and took him there, (produced and deposed to) he kept running till I took him.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was going by the alms-houses, and I picked up these shirts by the side of a wall; I saw two people follow me, and I stopped till they came up.</p>
+               <p>
+                  <rs id="t17660409-22-verdict125" type="verdictDescription">
+                     <interp inst="t17660409-22-verdict125" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17660409-22-punish126" type="punishmentDescription">
+                     <interp inst="t17660409-22-punish126" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660409-22-defend196 t17660409-22-punish126"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680706-13">
+               <interp inst="t17680706-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680706-13" type="year" value="1768"></interp>
+               <interp inst="t17680706-13" type="uri" value="sessionsPapers/17680706"></interp>
+               <interp inst="t17680706-13" type="date" value="17680706"></interp>
+               <join result="criminalCharge" id="t17680706-13-off63-c97" targOrder="Y" targets="t17680706-13-defend126 t17680706-13-off63 t17680706-13-verdict67"></join>
+         
+               <p>421. (M.) 
+               
+                  <persName id="t17680706-13-defend126" type="defendantName">
+                     John 
+                     Diarden 
+                  <interp inst="t17680706-13-defend126" type="surname" value="Diarden"></interp>
+                     <interp inst="t17680706-13-defend126" type="given" value="John"></interp>
+                     <interp inst="t17680706-13-defend126" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17680706-13-off63" type="offenceDescription">
+                     <interp inst="t17680706-13-off63" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680706-13-off63" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two pecks of household flour, value 12 d.
+            </rs> the property of 
+               
+                  <persName id="t17680706-13-victim128" type="victimName">
+                     John 
+                     Hubbard 
+                  <interp inst="t17680706-13-victim128" type="surname" value="Hubbard"></interp>
+                     <interp inst="t17680706-13-victim128" type="given" value="John"></interp>
+                     <interp inst="t17680706-13-victim128" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680706-13-off63 t17680706-13-victim128"></join>
+                  </persName>
+                
+            , <rs id="t17680706-13-cd64" type="crimeDate">June 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680706-13-off63 t17680706-13-cd64"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17680706-13-person129">
+                  John 
+                  Hubbard 
+               <interp inst="t17680706-13-person129" type="surname" value="Hubbard"></interp>
+                     <interp inst="t17680706-13-person129" type="given" value="John"></interp>
+                     <interp inst="t17680706-13-person129" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17680706-13-viclabel65" type="occupation">miller</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680706-13-victim128 t17680706-13-viclabel65"></join> at <placeName id="t17680706-13-crimeloc66">Hillingdon</placeName>
+                  <interp inst="t17680706-13-crimeloc66" type="placeName" value="Hillingdon"></interp>
+                  <interp inst="t17680706-13-crimeloc66" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680706-13-off63 t17680706-13-crimeloc66"></join>; I lost some flour, we guessed a bushel or more were missing; this was on Tuesday was se'nnight; we weighed the flour we found at the prisoner's, it weighed a bushel and a peck; we could see a person had got in at my mill window, by flour which he had trod in; we thought it the foot of the prisoner, on which account it was found; there we compared it with the flour in a sack where some were missing, it agreed; the prisoner has confessed he took it; we found it in about two hours after; he fell on his knees, and told me the way he took it; I made him no promise of favour; he has a wife and five children, and his wife near lying in.</p>
+               <p>
+            
+                  <persName id="t17680706-13-person130">
+                  James 
+                  Brickman 
+               <interp inst="t17680706-13-person130" type="surname" value="Brickman"></interp>
+                     <interp inst="t17680706-13-person130" type="given" value="James"></interp>
+                     <interp inst="t17680706-13-person130" type="gender" value="male"></interp>
+                  </persName>
+            . I work in Mr. Hubbard's mill; I missed the flour on the Tuesday morning, I told Mr. Hubbard of it; we went and found the flour; he was suspected by the print of his shoes; the flour was of the same kind, I believe it to be the same; I heard him confess before the Justice that he took it, and I heard him confess at Hounslow the same.</p>
+               <p>Prisoner's defence.</p>
+               <p>I leave it to the mercy of the Court.</p>
+               <p>
+                  <rs id="t17680706-13-verdict67" type="verdictDescription">
+                     <interp inst="t17680706-13-verdict67" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680706-13-punish68" type="punishmentDescription">
+                     <interp inst="t17680706-13-punish68" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17680706-13-punish68" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680706-13-defend126 t17680706-13-punish68"></join>
+               W
+            </rs>.</p>
+            </div1>

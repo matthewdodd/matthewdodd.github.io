@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570114-5">
+               <interp inst="t17570114-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570114-5" type="year" value="1757"></interp>
+               <interp inst="t17570114-5" type="uri" value="sessionsPapers/17570114"></interp>
+               <interp inst="t17570114-5" type="date" value="17570114"></interp>
+               <join result="criminalCharge" id="t17570114-5-off23-c48" targOrder="Y" targets="t17570114-5-defend56 t17570114-5-off23 t17570114-5-verdict25"></join>
+         
+               <p>55. (M.) 
+               
+                  <persName id="t17570114-5-defend56" type="defendantName">
+                     Elizabeth 
+                     Stevenson 
+                  <interp inst="t17570114-5-defend56" type="surname" value="Stevenson"></interp>
+                     <interp inst="t17570114-5-defend56" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17570114-5-defend56" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17570114-5-deflabel22" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570114-5-defend56 t17570114-5-deflabel22"></join>, was indicted for <rs id="t17570114-5-off23" type="offenceDescription">
+                     <interp inst="t17570114-5-off23" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570114-5-off23" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver spoon, value six shillings
+            </rs>, the property of 
+               
+                  <persName id="t17570114-5-victim58" type="victimName">
+                     Francis 
+                     Heath 
+                  <interp inst="t17570114-5-victim58" type="surname" value="Heath"></interp>
+                     <interp inst="t17570114-5-victim58" type="given" value="Francis"></interp>
+                     <interp inst="t17570114-5-victim58" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17570114-5-off23 t17570114-5-victim58"></join>
+                  </persName>
+                
+            , <rs id="t17570114-5-cd24" type="crimeDate">December 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570114-5-off23 t17570114-5-cd24"></join>. +</p>
+               <p>
+            
+                  <persName id="t17570114-5-person59">
+                  Rebecca 
+                  Grave 
+               <interp inst="t17570114-5-person59" type="surname" value="Grave"></interp>
+                     <interp inst="t17570114-5-person59" type="given" value="Rebecca"></interp>
+                     <interp inst="t17570114-5-person59" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner came to my brother 
+               <persName id="t17570114-5-person60">
+                  Francis 
+                  Heath 
+               <interp inst="t17570114-5-person60" type="surname" value="Heath"></interp>
+                     <interp inst="t17570114-5-person60" type="given" value="Francis"></interp>
+                     <interp inst="t17570114-5-person60" type="gender" value="male"></interp>
+                  </persName>
+            's house, on the 28th of December. She sat down. After some time she asked me to let her go into the pantry, where I had just before left this silver-spoon. When she was gone I missed the spoon. Some time in January she came to me, fell down on her knees, and told me she could not rest till she had told me where my spoon was; which she said was in a street near Clare-Market, where it was stopped by one Mrs. Barnet, a pawnbroker, who I found afterwards had advertised it. (Produced in court, and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17570114-5-person61">
+                  Margaret 
+                  Barnet 
+               <interp inst="t17570114-5-person61" type="surname" value="Barnet"></interp>
+                     <interp inst="t17570114-5-person61" type="given" value="Margaret"></interp>
+                     <interp inst="t17570114-5-person61" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner brought a silver spoon to me to pawn on the 29th of December last and I had reason to suspect her of stealing it, so I stop'd it, and advertised it.</p>
+               <p>The prisoner had nothing to say in her defence.</p>
+               <p>
+                  <rs id="t17570114-5-verdict25" type="verdictDescription">
+                     <interp inst="t17570114-5-verdict25" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17570114-5-punish26" type="punishmentDescription">
+                     <interp inst="t17570114-5-punish26" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17570114-5-defend56 t17570114-5-punish26"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

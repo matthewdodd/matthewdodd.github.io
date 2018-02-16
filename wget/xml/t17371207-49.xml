@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17371207-49">
+               <interp inst="t17371207-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17371207-49" type="year" value="1737"></interp>
+               <interp inst="t17371207-49" type="uri" value="sessionsPapers/17371207"></interp>
+               <interp inst="t17371207-49" type="date" value="17371207"></interp>
+               <join result="criminalCharge" id="t17371207-49-off239-c233" targOrder="Y" targets="t17371207-49-defend336 t17371207-49-off239 t17371207-49-verdict241"></join>
+         
+               <p>55. 
+               
+                  <persName id="t17371207-49-defend336" type="defendantName">
+                     James 
+                     Waters 
+                  <interp inst="t17371207-49-defend336" type="surname" value="Waters"></interp>
+                     <interp inst="t17371207-49-defend336" type="given" value="James"></interp>
+                     <interp inst="t17371207-49-defend336" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17371207-49-off239" type="offenceDescription">
+                     <interp inst="t17371207-49-off239" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17371207-49-off239" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the House of 
+                     
+                        <persName id="t17371207-49-victim338" type="victimName">
+                           John 
+                           Sewell 
+                        <interp inst="t17371207-49-victim338" type="surname" value="Sewell"></interp>
+                        <interp inst="t17371207-49-victim338" type="given" value="John"></interp>
+                        <interp inst="t17371207-49-victim338" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17371207-49-off239 t17371207-49-victim338"></join>
+                     </persName>
+                      
+                  , between 12 and 1 in the Night, and stealing 2 Brass Mortars and Pestles, value 5 s. 7 Brass Candlesticks, s. and 14 Pewter Plates, value 14 s.
+            </rs> 
+                  <rs id="t17371207-49-cd240" type="crimeDate">Nov. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17371207-49-off239 t17371207-49-cd240"></join>. <rs id="t17371207-49-verdict241" type="verdictDescription">
+                     <interp inst="t17371207-49-verdict241" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17371207-49-verdict241" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty. Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t17371207-49-punish242" type="punishmentDescription">
+                     <interp inst="t17371207-49-punish242" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17371207-49-defend336 t17371207-49-punish242"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-6">
+               <interp inst="t17340911-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-6" type="year" value="1734"></interp>
+               <interp inst="t17340911-6" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-6" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-6-off20-c60" targOrder="Y" targets="t17340911-6-defend72 t17340911-6-off20 t17340911-6-verdict24"></join>
+         
+               <p>6. 
+               
+                  <persName id="t17340911-6-defend72" type="defendantName">
+                     Thomas 
+                     Slade 
+                  <interp inst="t17340911-6-defend72" type="surname" value="Slade"></interp>
+                     <interp inst="t17340911-6-defend72" type="given" value="Thomas"></interp>
+                     <interp inst="t17340911-6-defend72" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340911-6-off20" type="offenceDescription">
+                     <interp inst="t17340911-6-off20" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17340911-6-off20" type="offenceSubcategory" value="rape"></interp>
+               Ravishing, Carnally knowing, and wickedly abusing 
+                     
+                        <persName id="t17340911-6-victim74" type="victimName">
+                           Margaret 
+                           Thomson 
+                        <interp inst="t17340911-6-victim74" type="surname" value="Thomson"></interp>
+                        <interp inst="t17340911-6-victim74" type="given" value="Margaret"></interp>
+                        <interp inst="t17340911-6-victim74" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340911-6-off20 t17340911-6-victim74"></join>
+                     </persName>
+                      
+                  , an <rs id="t17340911-6-viclabel21" type="occupation">Infant</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17340911-6-victim74 t17340911-6-viclabel21"></join>, between 6 and 7 Years of Age
+            </rs>, <rs id="t17340911-6-cd22" type="crimeDate">August 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-6-off20 t17340911-6-cd22"></join>.</p>
+               <p>The Council for the King open'd, that the Prisoner was a <rs id="t17340911-6-deflabel23" type="occupation">Porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17340911-6-defend72 t17340911-6-deflabel23"></join> at Lion's-Inn, that he had been seen to take indecent liberties with the Child: And her Parents being inform'd of it, they whipt her, and charged her never to go near him again: But that not long afterwards, they found the Child so much out of order, that she was forced to be put under the care of a Surgeon.</p>
+               <p>Mr. Coland, and Mr. Serafton, two Surgeons, Deposed, that they examin'd the Child, and found a small Inflamation in her Parts, but did not think is was the Venereal Disorder, nor was there any Laceration, and without that there could not be a Penetration.</p>
+               <p>The Jury <rs id="t17340911-6-verdict24" type="verdictDescription">
+                     <interp inst="t17340911-6-verdict24" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> the Prisoner.</p>
+            </div1>

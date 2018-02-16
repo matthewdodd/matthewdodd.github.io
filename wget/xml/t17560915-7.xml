@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560915-7">
+               <interp inst="t17560915-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560915-7" type="year" value="1756"></interp>
+               <interp inst="t17560915-7" type="uri" value="sessionsPapers/17560915"></interp>
+               <interp inst="t17560915-7" type="date" value="17560915"></interp>
+               <join result="criminalCharge" id="t17560915-7-off44-c60" targOrder="Y" targets="t17560915-7-defend71 t17560915-7-off44 t17560915-7-verdict46"></join>
+         
+               <p>328. (M.) 
+               <persName id="t17560915-7-defend71" type="defendantName">
+                  Martha, <rs id="t17560915-7-deflabel43" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17560915-7-defend71 t17560915-7-deflabel43"></join> of 
+                     <persName id="t17560915-7-person72">
+                        Edward 
+                        Wood 
+                     <interp inst="t17560915-7-person72" type="surname" value="Wood"></interp>
+                        <interp inst="t17560915-7-person72" type="given" value="Edward"></interp>
+                        <interp inst="t17560915-7-person72" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17560915-7-defend71" type="surname" value="Wood"></interp>
+                     <interp inst="t17560915-7-defend71" type="given" value="Martha"></interp>
+                     <interp inst="t17560915-7-defend71" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17560915-7-off44" type="offenceDescription">
+                     <interp inst="t17560915-7-off44" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560915-7-off44" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one copper saucepan, value 3 d. one copper stewpan, value 3 d. one blanket, value 6 d. the goods of 
+                     
+                        <persName id="t17560915-7-victim74" type="victimName">
+                           Marmaduke 
+                           Grange 
+                        <interp inst="t17560915-7-victim74" type="surname" value="Grange"></interp>
+                        <interp inst="t17560915-7-victim74" type="given" value="Marmaduke"></interp>
+                        <interp inst="t17560915-7-victim74" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17560915-7-off44 t17560915-7-victim74"></join>
+                     </persName>
+                      
+                  , in a certain lodging room let by contract
+            </rs>, &amp;c. <rs id="t17560915-7-cd45" type="crimeDate">Sept. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560915-7-off44 t17560915-7-cd45"></join>.* </p> 
+               <p>
+                  <rs id="t17560915-7-verdict46" type="verdictDescription">
+                     <interp inst="t17560915-7-verdict46" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

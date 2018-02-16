@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17361013-23">
+               <interp inst="t17361013-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17361013-23" type="year" value="1736"></interp>
+               <interp inst="t17361013-23" type="uri" value="sessionsPapers/17361013"></interp>
+               <interp inst="t17361013-23" type="date" value="17361013"></interp>
+               <join result="criminalCharge" id="t17361013-23-off111-c144" targOrder="Y" targets="t17361013-23-defend198 t17361013-23-off111 t17361013-23-verdict113"></join>
+         
+               <p>31.
+               
+                  <persName id="t17361013-23-defend198" type="defendantName">
+                     Mary 
+                     Wood  otherwise <rs id="t17361013-23-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17361013-23-defend198 t17361013-23-alias-2"></join>Prosset</rs>
+                     <interp inst="t17361013-23-defend198" type="surname" value="Wood"></interp>
+                     <interp inst="t17361013-23-defend198" type="given" value="Mary"></interp>
+                     <interp inst="t17361013-23-defend198" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17361013-23-off111" type="offenceDescription">
+                     <interp inst="t17361013-23-off111" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17361013-23-off111" type="offenceSubcategory" value="other"></interp>
+               stealing a silk Gown a damask Petticoat, and a quilted Coat
+            </rs>, the Goods of 
+               
+                  <persName id="t17361013-23-victim200" type="victimName">
+                     Sarah 
+                     Hoskins 
+                  <interp inst="t17361013-23-victim200" type="surname" value="Hoskins"></interp>
+                     <interp inst="t17361013-23-victim200" type="given" value="Sarah"></interp>
+                     <interp inst="t17361013-23-victim200" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17361013-23-off111 t17361013-23-victim200"></join>
+                  </persName>
+                
+            , <rs id="t17361013-23-cd112" type="crimeDate">June 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17361013-23-off111 t17361013-23-cd112"></join>.</p>
+               <p>
+                  <rs id="t17361013-23-verdict113" type="verdictDescription">
+                     <interp inst="t17361013-23-verdict113" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17361013-23-verdict113" type="verdictSubcategory" value="noProsecutor"></interp>
+               The Prosecutor not appearing, the Prisoner was acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,714 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17430114-18">
+               <interp inst="t17430114-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17430114-18" type="year" value="1743"></interp>
+               <interp inst="t17430114-18" type="uri" value="sessionsPapers/17430114"></interp>
+               <interp inst="t17430114-18" type="date" value="17430114"></interp>
+               <join result="criminalCharge" id="t17430114-18-off98-c183" targOrder="Y" targets="t17430114-18-defend219 t17430114-18-off98 t17430114-18-verdict99"></join>
+               <join result="criminalCharge" id="t17430114-18-off98-c184" targOrder="Y" targets="t17430114-18-defend221 t17430114-18-off98 t17430114-18-verdict101"></join>
+               <join result="criminalCharge" id="t17430114-18-off98-c185" targOrder="Y" targets="t17430114-18-defend223 t17430114-18-off98 t17430114-18-verdict101"></join>
+               <join result="criminalCharge" id="t17430114-18-off98-c186" targOrder="Y" targets="t17430114-18-defend225 t17430114-18-off98 t17430114-18-verdict101"></join>
+         
+               <p>85, 86, 87, 88 + 
+               
+                  <persName id="t17430114-18-defend219" type="defendantName">
+                     John 
+                     Tigh 
+                  <interp inst="t17430114-18-defend219" type="surname" value="Tigh"></interp>
+                     <interp inst="t17430114-18-defend219" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-defend219" type="gender" value="male"></interp>
+                  </persName>
+                
+             of <placeName id="t17430114-18-defloc88">Chatham , in the County of Kent</placeName>
+                  <interp inst="t17430114-18-defloc88" type="placeName" value="Chatham , in the County of Kent"></interp>
+                  <interp inst="t17430114-18-defloc88" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430114-18-defend219 t17430114-18-defloc88"></join>, <rs id="t17430114-18-deflabel89" type="occupation">Coachman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17430114-18-defend219 t17430114-18-deflabel89"></join>; 
+               
+                  <persName id="t17430114-18-defend221" type="defendantName">
+                     Samuel 
+                     Hebert 
+                  <interp inst="t17430114-18-defend221" type="surname" value="Hebert"></interp>
+                     <interp inst="t17430114-18-defend221" type="given" value="Samuel"></interp>
+                     <interp inst="t17430114-18-defend221" type="gender" value="male"></interp>
+                  </persName>
+                
+             , of <placeName id="t17430114-18-defloc90">London</placeName>
+                  <interp inst="t17430114-18-defloc90" type="placeName" value="London"></interp>
+                  <interp inst="t17430114-18-defloc90" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430114-18-defend221 t17430114-18-defloc90"></join>, <rs id="t17430114-18-deflabel91" type="occupation">Gentleman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17430114-18-defend221 t17430114-18-deflabel91"></join>; 
+               
+                  <persName id="t17430114-18-defend223" type="defendantName">
+                     Richard 
+                     Phillips 
+                  <interp inst="t17430114-18-defend223" type="surname" value="Phillips"></interp>
+                     <interp inst="t17430114-18-defend223" type="given" value="Richard"></interp>
+                     <interp inst="t17430114-18-defend223" type="gender" value="male"></interp>
+                  </persName>
+                
+             of <placeName id="t17430114-18-defloc92">St George's, in the County of Middlesex</placeName>
+                  <interp inst="t17430114-18-defloc92" type="placeName" value="St George's, in the County of Middlesex"></interp>
+                  <interp inst="t17430114-18-defloc92" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430114-18-defend223 t17430114-18-defloc92"></join>, <rs id="t17430114-18-deflabel93" type="occupation">Peruke-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17430114-18-defend223 t17430114-18-deflabel93"></join>, and 
+               
+                  <persName id="t17430114-18-defend225" type="defendantName">
+                     John 
+                     Adams 
+                  <interp inst="t17430114-18-defend225" type="surname" value="Adams"></interp>
+                     <interp inst="t17430114-18-defend225" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-defend225" type="gender" value="male"></interp>
+                  </persName>
+                
+             of <placeName id="t17430114-18-defloc94">Southwark</placeName>
+                  <interp inst="t17430114-18-defloc94" type="placeName" value="Southwark"></interp>
+                  <interp inst="t17430114-18-defloc94" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430114-18-defend225 t17430114-18-defloc94"></join>, <rs id="t17430114-18-deflabel95" type="occupation">Pawn-broker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17430114-18-defend225 t17430114-18-deflabel95"></join>; were indicted, for that they, together with 
+               <persName id="t17430114-18-person226">
+                  John 
+                  Jacobs 
+               <interp inst="t17430114-18-person226" type="surname" value="Jacobs"></interp>
+                     <interp inst="t17430114-18-person226" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person226" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17430114-18-person227">
+                  Richard 
+                  Shearsmith 
+               <interp inst="t17430114-18-person227" type="surname" value="Shearsmith"></interp>
+                     <interp inst="t17430114-18-person227" type="given" value="Richard"></interp>
+                     <interp inst="t17430114-18-person227" type="gender" value="male"></interp>
+                  </persName>
+            , not taken, after the 24th Day of June 1736, to wit, on the <rs id="t17430114-18-cd96" type="crimeDate">13th of May, in the fifteenth Year of His Majesty's Reign</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17430114-18-off98 t17430114-18-cd96"></join>, in the Parish of <placeName id="t17430114-18-crimeloc97">St Margaret, Westminster , in the County of Middlesex</placeName>
+                  <interp inst="t17430114-18-crimeloc97" type="placeName" value="St Margaret, Westminster , in the County of Middlesex"></interp>
+                  <interp inst="t17430114-18-crimeloc97" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17430114-18-off98 t17430114-18-crimeloc97"></join>, did <rs id="t17430114-18-off98" type="offenceDescription">
+                     <interp inst="t17430114-18-off98" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17430114-18-off98" type="offenceSubcategory" value="forgery"></interp>
+               forge and counterfeit, or caused to be forged and counterfeited, and did willingly act and assist in forging and counterfeiting a certain Instrument, partly printed and partly written, and sealed, purporting to be a general Release, with the Name of 
+                     
+                        <persName id="t17430114-18-victim229" type="victimName">
+                           George 
+                           Frogget 
+                        <interp inst="t17430114-18-victim229" type="surname" value="Frogget"></interp>
+                        <interp inst="t17430114-18-victim229" type="given" value="George"></interp>
+                        <interp inst="t17430114-18-victim229" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17430114-18-off98 t17430114-18-victim229"></join>
+                     </persName>
+                      
+                   thereunto subscribed, with an Intent to defraud the said 
+                     <persName id="t17430114-18-person230">
+                        George 
+                        Frogget 
+                     <interp inst="t17430114-18-person230" type="surname" value="Frogget"></interp>
+                        <interp inst="t17430114-18-person230" type="given" value="George"></interp>
+                        <interp inst="t17430114-18-person230" type="gender" value="male"></interp>
+                     </persName>
+                   of Chatham , in the County of Kent, Ship-wright. And the Indictment farther sets forth, that they did utter and publish the same, knowing it to be false, forged, and counterfeited
+            </rs>.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person231">
+                  Samuel 
+                  Clark 
+               <interp inst="t17430114-18-person231" type="surname" value="Clark"></interp>
+                     <interp inst="t17430114-18-person231" type="given" value="Samuel"></interp>
+                     <interp inst="t17430114-18-person231" type="gender" value="male"></interp>
+                  </persName>
+            , Esq; Secondary of the Court of King's Bench. This (the general Release) was produced in the Court of King's Bench, the Court had a Suspicion of it, and gave it into my Hand. - I marked it myself, and have kept it ever since. I think Herbert and Tigh both attended there.</p>
+
+               <p>Herbert. I ask you, Mr Clark, Whether, upon taxing the Costs, Mr Stokes did not appear? And whether I did not act as Assistant to him?</p>
+
+
+               <p>Mr Clark. I do not know that Stokes was there. - I think you was there then.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person232">
+                  Edward 
+                  Owen 
+               <interp inst="t17430114-18-person232" type="surname" value="Owen"></interp>
+                     <interp inst="t17430114-18-person232" type="given" value="Edward"></interp>
+                     <interp inst="t17430114-18-person232" type="gender" value="male"></interp>
+                  </persName>
+            . Mr Tigh produced this in the Court of King's Bench. He delivered it to my Lord Chief-Justice in Court, who delivered it to Mr Clark. - Herbert was not in Court that I saw. Mr Herbert frequently told me, that the filling-up was his Hand-writing.</p>
+
+               <p>The Paper was then read, and appeared to be a General 
+               <persName id="t17430114-18-person233">
+                  Release
+               <interp inst="t17430114-18-person233" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person233" type="gender" value="indeterminate"></interp>
+                  </persName>
+             from 
+               <persName id="t17430114-18-person234">
+                  George 
+                  Frogget 
+               <interp inst="t17430114-18-person234" type="surname" value="Frogget"></interp>
+                     <interp inst="t17430114-18-person234" type="given" value="George"></interp>
+                     <interp inst="t17430114-18-person234" type="gender" value="male"></interp>
+                  </persName>
+             of Chatham , in the County of Kent, Ship-wright, to 
+               <persName id="t17430114-18-person235">
+                  John 
+                  Tigh 
+               <interp inst="t17430114-18-person235" type="surname" value="Tigh"></interp>
+                     <interp inst="t17430114-18-person235" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person235" type="gender" value="male"></interp>
+                  </persName>
+             of Chatham , in the said County of Kent, Victualler , and Eleanor his Wife. Dated the 13th Day of May, 1742. - Signed 
+               <persName id="t17430114-18-person236">
+                  George 
+                  Frogget 
+               <interp inst="t17430114-18-person236" type="surname" value="Frogget"></interp>
+                     <interp inst="t17430114-18-person236" type="given" value="George"></interp>
+                     <interp inst="t17430114-18-person236" type="gender" value="male"></interp>
+                  </persName>
+             ,</p>
+
+               <p>And witnessed, 
+               <persName id="t17430114-18-person237">
+                  Richard 
+                  Phillips 
+               <interp inst="t17430114-18-person237" type="surname" value="Phillips"></interp>
+                     <interp inst="t17430114-18-person237" type="given" value="Richard"></interp>
+                     <interp inst="t17430114-18-person237" type="gender" value="male"></interp>
+                  </persName>
+             ,</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person238">
+                  John 
+                  Jacobs 
+               <interp inst="t17430114-18-person238" type="surname" value="Jacobs"></interp>
+                     <interp inst="t17430114-18-person238" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person238" type="gender" value="male"></interp>
+                  </persName>
+             + his Mark.</p>
+
+               <p>Owen. Mr Stokes declared he would not appear , and Mr Herbert appeared at all Motions.</p>
+
+               <p>Court. You said Herbert was not in Court.</p>
+
+               <p>Owen. He was not in Court, he was in the Hall. I saw Adams there once. - I think it was in last Trinity-Term. He did not come into Court; he was upon the Steps just by the Door. - I never saw Phillips before now. - Mr Herbert has said , that since the taxing of the Costs, he was the Attorney , and the only Attorney. This is a Copy of the Record . I examined it in the Treasury.</p>
+
+               <p>Mr Clark. This is the Judgment against 
+               <persName id="t17430114-18-person239">
+                  John 
+                  Tigh 
+               <interp inst="t17430114-18-person239" type="surname" value="Tigh"></interp>
+                     <interp inst="t17430114-18-person239" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person239" type="gender" value="male"></interp>
+                  </persName>
+            , and Eleanor his Wife. The whole, at the Taxation, amounts to 26 l. The Costs were taxed May 14, 1742.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person240">
+                  John 
+                  Burnford 
+               <interp inst="t17430114-18-person240" type="surname" value="Burnford"></interp>
+                     <interp inst="t17430114-18-person240" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person240" type="gender" value="male"></interp>
+                  </persName>
+            . I was present with Tigh, and his Attorney, and G. Frogget and his Attorney, at the Taxing of the Bill at the King's-Bench-Office and that Night we drank a Glass of Wine together :<xptr type="pageFacsimile" doc="174301140013"></xptr> Herbert then appeared as Tigh's Attorney, there was a Talk about a General 
+               <persName id="t17430114-18-person241">
+                  Release
+               <interp inst="t17430114-18-person241" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person241" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , and there was a Motion made in the Court of King's-Bench, to know why this Judgment should not be set aside, on Account of this General 
+               <persName id="t17430114-18-person242">
+                  Release
+               <interp inst="t17430114-18-person242" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person242" type="gender" value="indeterminate"></interp>
+                  </persName>
+            ; after this was found out to be a Forgery, Mr Frogget and I went into Wapping to enquire for Phillips, and after a long Enquiry, we found him on a Sunday in the Afternoon, I think it was on the 30th of May, shaving at a Barber's in Cable-Street, in Rag-Fair; I knew him before, so I asked him whether he would not go and drink a Mug of Beer, and we went to the Hay field; while we were there, Mr Frogget asked him this Question: Pray where was you on the 13th of May at Night, Phillips said he did not know; says Frogget, was you not at such an Alehouse, naming the Sign, at Fleet-Ditch, Phillips asked why: Says Frogget, you can tell whether you was there or no, and he said he did not know but he might be there; Frogget asked him if he had any Company there, and he said he believed he had; Frogget said, did you see me there, and Phillips replied he did not; then Frogget asked him if he knew him, or had ever seen him, and he said not as he knew of; Look at me again, says Frogget, and see whether you know me or not; (this was in a publick Room, where there was a good Number of People) then says Frogget, how can you be so great a Villain, to swear you saw me receive such a Sum of Money, when you never saw me: Says Phillips, I saw none paid, says Frogget, you have made an Affidavit of it in the Court of King's Bench, it is a surprizing Thing, you should not know me when I have the same Cloths on, and every Thing just the same as I had then; and Phillips said, I will say no more about it, I have sai d too much already. If you want to know more, go to Mr Adams, the Pawnbroken, in Faulcon-Court, in the Borough, and be will inform you of all the Transactions. - There was a Talk of a Paper that he signed, and the People of the House said it was a strange Thing, he should be guilty of such a Thing as to sign such a Paper, when he did not know the Man. On the 13th of May, when we came from the Master's Office, it was so dark that he could not see to do it that Night, so he bid the Attorneys cast it up. Shearsmith was not there, Tigh and Herbert, and Frogget, and Goulder, and one Bladen, and I, went to King's Coffee-House, by White-Fryers-Gateway , and there Herbert cast the Bill up once, and then Goulder , and they gave the Bill to Mr Bladen to cast up, while he was casting up the Bill, Tigh said he had no Money, pulled his Pocket-Book out, and said he had a Draught upon the Bank, but the Person that drew it was dead, and the Bank would not pay it; Herbert says to Goulder, (Frogget's Attorney,) What do you design to do in this Case, you ought not to be over hasty in making out your Judgment against my Client, and he said he could say nothing to it, he must take the Course of the Law, and said he did not know whether he should make out an Execution, or bring an Action upon it; when we came from King's Coffee-House, Frogget . Goulder, and I, went to the Sun-Tavern, in Fleet-street; we drank two half Pints of Wine, and parted at ten o'Clock, Frogget and I came down Fleet-street; the Bill was taxed on the 14th, Tigh said at the Master's Chambers, that he had paid the Debt and Costs, tho' he suffered the Bill to be taxed; Pob, poh , says he, I do not value what you are doing, I have got a Release - I do believe Frogget's Name to the Release is not his hand Writting, I have seen him write several Times.</p>
+
+               <p>Herbert. Was Mr Stokes, upon the Taxation, before the Master.</p>
+
+               <p>Burnford. He came in, but staid a very little while, and left you to go through the whole Taxation.</p>
+
+               <p>Herbert, Tigh was there on the 13th, but he was not on the 14th.</p>
+
+               <p>Court. You should be very cautious what you say, when People are trying for their Lives; you said it was on the 14th, and that Tigh said he had got a Release, &amp;c.</p>
+
+               <p>Burnford, I thought it was Tigh; I took it to be his Voice. - I heard such Discourse pass, but I will not be positive who said it. - I took it for granted to be him, as they were all standing together. Coun. Are you sure to the Day you went to look for Phillips.</p>
+
+               <p>Burnford. It was on the 30th of May.</p>
+
+               <p>Q. Where do you live?</p>
+
+               <p>Burnford. In Half Moon-Court, on Ludgate Hill .</p>
+
+               <p>Q. What do you do for a Livelihood? -</p>
+
+               <p>Burnford. I officiate as Clerk to the Persons in the Fleet, and my Character never was impeached on any Thing.</p>
+
+               <p>Tigh. He swears I was at the Master's Office on the 14th, and my Attorney says, there was no body there but Mr Goulder, and Herbert; ask him whether he does not find Money to carry on this Prosecution.</p>
+
+               <p>Burnford. Upon the Oath that I have taken, I never was one Shilling towards the carrying on the Prosecution.</p>
+
+               <p>Tigh. You have acknowledged that you have lent Mr Goulder Money.</p>
+
+               <p>Burnford. Yes, I did so in the Office, but I had the Money again.</p>
+
+               <p>Mr Goulder. - On the 13th of May I attended the Master for Mr Frogget , at the King's Bench Office ,<xptr type="pageFacsimile" doc="174301140014"></xptr> on the Taxation of the Bill; there was Mr Frogget, and one Mr Burnford, and Mr Tigh, Mr Stokes, and Mr Herbert attended: We staid at the Master's Office till it was quite dark, and then Tigh, Herbert, Frogget , Burnford, and my self, and one Bladen, went to King's Coffee-House in White Fryers , to cast up the Deductions made by the Master off the Bill. I cast the Bill up first; one of them said to Mr Bladen , You are a Man of Figures, do you cast it up, and I believe Mr Bladen did; and as the Costs stood on this Deduction, it came to 24l. 15s. I attended that Evening to have the Alligation signed, and we agreed to meet the next Night between 4 and 5 - Stokes staid but a little while at the Office; he did not go to King's Coffee-House - Stokes said to Herbert, I will leave the Taxation to you; I will have no more Concern in it.</p>
+
+
+
+               <p>Q What passed at King's Coffee-House ?</p>
+
+               <p>Goulder. After the Costs were cast up, Mr Tigh put his Hand in his Pocket and pulled out a Piece of Paper, which he said was a Draught on the Bank. That the Gentleman who drew that Draught was dead, and the Bank refused to pay it. - I think he said it was about 20l. - He said he was disappointed of Money, and had not Money to pay the Costs, and I think Mr Herbert asked me what Time I would give him? and I asked Mr Frogget, and he said he would give him no more than the Law would allow him. Herbert said, It will be for your Client's Interest to give him four or five Days. In the Walks I said to Herbert, I did not know whether I should sue out an Execution, or bring an Action of Debt upon the Judgment, and then we parted: Tigh, Herbert and Bladen went towards the Temple Hall ; Frogget, Burnford, and my self, went directly up the King's Bench Walks , through Mitre-Court, to the Sun-Tavern in Fleet street, where we drank two Half-pints of Wine; it was past nine o'Clock when we came from King's Coffee-House ; and when we came out of the Tavern Mr Frogget looked on his Watch, and it was then about ten o'Clock. - There was no Talk of a Release then, and it was almost impossible that he should pull out a Release, when so many People were in Company, without somebody's seeing of it.</p>
+
+               <p>Q. What was done on the 14th?</p>
+
+               <p>Goulder . On the 14th of May, as I was going down Chancery-Lane, I met Mr Stokes , who wished me Joy of my Client's having received his Money. Said I, I am very much surprised at it. I wonder he did not tell me. Says he, why he has given a General 
+               <persName id="t17430114-18-person243">
+                  Release
+               <interp inst="t17430114-18-person243" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person243" type="gender" value="indeterminate"></interp>
+                  </persName>
+            . Herbert, Frogget, Burnford , and myself, met at the Master's Office by Appointment; I am not certain whether Tigh was there or not. I told Herbert, that Stokes said Mr Tigh had got a General 
+               <persName id="t17430114-18-person244">
+                  Release
+               <interp inst="t17430114-18-person244" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person244" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , and Herbert declared he knew nothing of it; and yet this Release is all filled up by him; the very Day of the Month is filled up by him - I had no Discourse with Tigh after that; I always avoided their Company as much as I could; I did not care to go into a Room with them.</p>
+
+               <p>Q. Was you in the Court of King's-Bench when the Release was first produced?</p>
+
+               <p>Goulder. Yes, I was - Mr Tigh produced it: My Lord Chief Justice asked him where the Release was, and he took it out of his Pocket-Book, and said, Here it is, and it was handed to my Lord. And when the Court said it must be left there, Tigh said, If I leave the Release I have nothing to shew for my Money . Herbert in Court confessed his drawing the Release.</p>
+
+               <p>Herbert. When the Bill was cast up at King's Coffe-House , and handed to Mr Bladen to examine, did not he take 20 Shillings off that was miscast?</p>
+
+               <p>Goulder. No; to the best of my Knowledge Mr Bladen's casting up agreed with ours.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person245">
+                  Edward 
+                  Owen 
+               <interp inst="t17430114-18-person245" type="surname" value="Owen"></interp>
+                     <interp inst="t17430114-18-person245" type="given" value="Edward"></interp>
+                     <interp inst="t17430114-18-person245" type="gender" value="male"></interp>
+                  </persName>
+             called again. I know Mr Herbert's Hand writing; I have looked the General 
+               <persName id="t17430114-18-person246">
+                  Release
+               <interp inst="t17430114-18-person246" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person246" type="gender" value="indeterminate"></interp>
+                  </persName>
+             all over, and I verily believe all the Filling up to be of his Hand-writing: I take the Word Thirteenth to be his Hand-writing, I know it by the Turn of the T.</p>
+
+               <p>[
+               <persName id="t17430114-18-person247">
+                  Thomas 
+                  Newton 
+               <interp inst="t17430114-18-person247" type="surname" value="Newton"></interp>
+                     <interp inst="t17430114-18-person247" type="given" value="Thomas"></interp>
+                     <interp inst="t17430114-18-person247" type="gender" value="male"></interp>
+                  </persName>
+             was then called to come forth and give Evidence; he had been served with a Subpoena , but did not appear.]</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person248">
+                  Richard 
+                  Sanders 
+               <interp inst="t17430114-18-person248" type="surname" value="Sanders"></interp>
+                     <interp inst="t17430114-18-person248" type="given" value="Richard"></interp>
+                     <interp inst="t17430114-18-person248" type="gender" value="male"></interp>
+                  </persName>
+            . Mr Tigh sent for me (I believe it was about Oct. 20th) to one 
+               <persName id="t17430114-18-person249">
+                  Abel 
+                  Cooks 
+               <interp inst="t17430114-18-person249" type="surname" value="Cooks"></interp>
+                     <interp inst="t17430114-18-person249" type="given" value="Abel"></interp>
+                     <interp inst="t17430114-18-person249" type="gender" value="male"></interp>
+                  </persName>
+             in St George's Fields , and told me of his being cast in a Law Suit and that his Goods were likely to be taken in Execution, though he had paid the Money to one Shearsmith , who was dead at Norwich, and he wanted somebody to make an Affidavit that he was dead, and come into Court to justify it; and would have persuaded me to have done it. I told him I took it very much amiss that he should ask me to do such a Thing, and advised him to pay the Costs. This, says I, is a bad Way of proceeding; 'tis Felony without Benefit of Clergy. - I met him afterwards in Westminster-Hall, and asked him what he had done; he said he had taken my Advice.</p>
+
+               <p>Mr Goulder. I have received abundance of Letters from Frogget, I do not believe this (his Name to the General 
+               <persName id="t17430114-18-person250">
+                  Release
+               <interp inst="t17430114-18-person250" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person250" type="gender" value="indeterminate"></interp>
+                  </persName>
+            ) to be his Hand-writing.</p>
+
+               <p>Prisoner's Defence .</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person251">
+                  John 
+                  Tigh 
+               <interp inst="t17430114-18-person251" type="surname" value="Tigh"></interp>
+                     <interp inst="t17430114-18-person251" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person251" type="gender" value="male"></interp>
+                  </persName>
+            . My Lord, I am innocent of the Forgery, for I paid the Money to one Shearsmith, to satisfy the Judgment; and if there is a Forgery, it must be done by him. There was a Suit in the Crown<xptr type="pageFacsimile" doc="174301140015"></xptr> against me and my Wife, on Frogget's Account. - I have Witnesses in Court to prove, that they saw Mr Frogget sign this General 
+               <persName id="t17430114-18-person252">
+                  Release
+               <interp inst="t17430114-18-person252" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person252" type="gender" value="indeterminate"></interp>
+                  </persName>
+            .</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person253">
+                  Samuel 
+                  Herbert 
+               <interp inst="t17430114-18-person253" type="surname" value="Herbert"></interp>
+                     <interp inst="t17430114-18-person253" type="given" value="Samuel"></interp>
+                     <interp inst="t17430114-18-person253" type="gender" value="male"></interp>
+                  </persName>
+            . My Lord, as to this General 
+               <persName id="t17430114-18-person254">
+                  Release
+               <interp inst="t17430114-18-person254" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person254" type="gender" value="indeterminate"></interp>
+                  </persName>
+            , I did not publish it, and am no ways concerned in the Forgery: It appears to your Lordship that it was published by Mr Tigh. What I did was in conjunction with Mr Stokes. And if this can be alledged against me as a criminal Fact, I am sure no Gentlemen of the Law can be safe in what they do, if the filling up a Deed should subject them to a criminal Prosecution. I recommend this to your Lordship's Consideration, and submit myself to the Court.</p>
+
+
+               <p>Eliz. Davenport. I never saw Mr Tigh 'till I went in his Coach from Gravesend to Chatham . I had been to see one Mrs Green in Golden-Square. (I live at Christ's Church, on the other side of the Water, and go a Nurse-keeping and ironing) And as I was returning home, I went to White-Fryers to see for a Boat; and there being ne'er a Boat ready, I went into a Coffee-house for a Glass of Wine. I cannot be positive as to the Day, but it was the middle of May: I saw the Prisoner at the Bar (Tigh) paying down some Money upon the Table, and there was a Man whom they called Shearsmith: I heard him say, For God's sake follow Frogmill, and pay him this Money, for this Law will ruin me. - And I saw that Man go out while I was drinking my Wine.</p>
+
+               <p>Q. What was the Man's Name he was to pay the Money to?</p>
+
+               <p>Davenport. I cannot tell justly; it was something of - Frog : I saw the Man take up 23 Guineas and some Silver. - I am sure the Man's Name that took the Money was something of Smith; but I think it was Shearsmith . - I did not speak to either of them. - I thought I knew one of them by Sight, and that made me take the more Notice of what they were doing; - and when I had drank my Gill, I went away: I think it was about 10 o'Clock. -</p>
+
+               <p>Q. How long is it since you were acquainted that you were to come and give Evidence?</p>
+
+               <p>Davenport . I believe it is six or seven Days.</p>
+
+               <p>Q. How came you to hear of it?</p>
+
+               <p>Davenport. I had been to see Mrs Green, and she asked me, Whether I heard any thing of a Forgery? And hearing Mr Tigh's Name, and that he was in Newgate, says I, I do remember a Coachman I went from Gravesend to Chatham with, whose Name was Tigh. - it was in the News; she takes in the News - then I remembered I saw Mr Tigh at such a Time, and that I saw him pay a Sum of Money. - I had a Subpoena to come.</p>
+
+               <p>Q. When was it you heard of this in the News, Was it Summer or Winter?</p>
+
+               <p>Davenport. It was since May last. - It was more than a Fortnight. - I believe it is three Weeks. - It may be a Month - or Six Weeks. - About three Weeks ago, I was at Mrs Green's, and told her I saw Mr Tigh pay some Money, and she desired me to go to him in Newgate. When I came to him, he said, Did not I carry you to Chatham? Yes , said I, you did: I was with Mrs Green, and she was telling me of your being here, and desired I would come and do you what Service I could; and he begged , that I would come and speak what I knew of the Affair when he came upon his Trial.</p>
+
+               <p>Q. When you were in the Coffee-house, did you say any thing to him, or he to you?</p>
+
+               <p>Davenport. Our Acquaintance was so slender, I did not care to speak to him.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person255">
+                  Thomas 
+                  Hulbert 
+               <interp inst="t17430114-18-person255" type="surname" value="Hulbert"></interp>
+                     <interp inst="t17430114-18-person255" type="given" value="Thomas"></interp>
+                     <interp inst="t17430114-18-person255" type="gender" value="male"></interp>
+                  </persName>
+            . I was down at the Ditch-side on the 13th of May at the Shepherd and Goat; I went in between 10 and 11 at Night, and called for a Pint of Beer: There was that Man Phillips, and one Jacobs sitting at a Table; and Jacobs asked me, whether I would drink with them: I told them, I had called for a Pint of Beer, that it was late, and I should soon go home. I sat down over-against the Fire-place, by the end of the Boxes; and I saw two Gentlemen come in: Said one of them, Mr Frogget. why want you take the Money Mr Tigh has ordered me to pay you? Said Frogget, I will take the Money now, if you will pay it. And the other said, I will pay it now. And he put his Hand in his Pocket, and pulled out a Parcel of Gold and some Silver, and a Piece of stamped Paper: Then he called for that Man ( Phillips ) and one Jacobs, to come and witness it: Then Frogget wrote his Name; then Phillips he wrote his Name: And then the Gentleman asked Jacobs to write his Name; and Jacobs said, he could not write, so he made his Mark: After he had made his Mark, the Gentleman put a couple of Dots, and wrote his Name. - Jacob's Name: and then Mr Frogget took off the Seal, and delivered this Paper to the Gentleman as his Act and Deed.</p>
+
+               <p>Court. Call for Frogget; look at him; Is that the Man?</p>
+
+               <p>Hulbert. That is the Man: I am sure that is the Man . - I have known Phillips and Jacobs a great many Years.</p>
+
+               <p>Q. What sort of a Man was this Gentleman you speak of?</p>
+
+               <p>Hulbert. A tall, pale Man, pitted with the Small-pox.</p>
+
+               <p>Q. Had he his own Hair, or a Peruke?</p>
+
+               <p>Hulbert. He had a Peruke. - I do not know what Clothes he had on.</p>
+
+               <p>Coun. You were in a Hurry to go home; so<xptr type="pageFacsimile" doc="174301140016"></xptr> being in a Hurry, you staid and saw all this.</p>
+
+               <p>Hulbert. They did not stay above a Quarter of an Hour.</p>
+
+               <p>Coun. You are very particular; you remember the very Dots. Hulbert. Yes, I do.</p>
+
+               <p>Coun. What sort of a Mark did Jacobs make?</p>
+
+               <p>Hulbert. It was a Cross, and I think there are two Dots on one Side, and two on the other. - Phillips wrote his own Name.</p>
+
+               <p>Coun. Who signed first?</p>
+
+               <p>Hulbert. Frogget signed first, after him Phillips, and then Jacobs made his Mark.</p>
+
+               <p>Coun. Was the Seal Wax or Wafer ?</p>
+
+               <p>Hulbert. It was Wax. - I do not know who put it on. - I keep House in Bell-Alley in Golden-Lane. - I am a Leather-Seller by Trade. - I work for myself. - I never saw Tigh in my Life.</p>
+
+               <p>Coun. Where have you been ever since this Paper was executed? Hulbert. At home.</p>
+
+               <p>Coun. Did not you make an Affidavit of this in the Court of King's-Bench, when it was so much controverted there?</p>
+
+               <p>Hulbert. I never was in the Court of King's-Bench in my Life. - They came to me about a Fortnight ago; never before that.</p>
+
+               <p>Coun Who wrote the Name of the Person that was to execute it?</p>
+
+               <p>Hulbert. What Name? Frogget's Name?</p>
+
+               <p>Coun. Yes. Hulbert. Frogget himself.</p>
+
+               <p>Coun. How is it spell'd?</p>
+
+               <p>Hulbert. I cannot spell. - I cannot read any Person's Name but my own, if you would give me a thousand Pound.</p>
+
+               <p>Coun. Then how can you say the Name of Jacob's was wrote there, if you cannot read Writing at all?</p>
+
+               <p>Hulbert. Well, if I cannot read Writing, I saw it wrote.</p>
+
+               <p>Coun. Then how can you be sure it was Jacob's Name?</p>
+
+               <p>Hulbert. By seeing him write it.</p>
+
+               <p>Coun. Look on that: See whether it is his Writing.</p>
+
+               <p>Hulbert. If I was to be hanged, I cannot make out any body's Name but my own.</p>
+
+               <p>Coun. You know Jacobs, When did you see him?</p>
+
+               <p>Hulbert. I saw Jacobs about a Fortnight ago at my own House.</p>
+
+               <p>Coun. How came you to be so particular as to the Day you met the People?</p>
+
+               <p>Hulbert. I remember the Day very well, because the 13th of May was my Wife's Birth-day.</p>
+
+               <p>Coun. How came you to attend so closely to what was done?</p>
+
+               <p>Hulbert. Why, if a Man is sitting at a Table where any thing is doing, he must see what is done, unless he was blind.</p>
+
+               <p>Coun. Did you look over it as they were writing, so as to know what it was.</p>
+
+               <p>Hulbert. I look'd upon it, as I do upon that now, [a Paper in the Hand of a Person near him,] but I cannot read that if you would give me a million of Money.</p>
+
+               <p>Count. How much Money was there paid?</p>
+
+               <p>Hulbert. I think there was about 16 or 18 Guineas, and about 30 Shillings in Silver.</p>
+
+               <p>Frogget. I desire he may be asked whether I wrote my Name at Length, or in Short.</p>
+
+               <p>Hulbert. I cannot tell.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person256">
+                  John 
+                  Bladen 
+               <interp inst="t17430114-18-person256" type="surname" value="Bladen"></interp>
+                     <interp inst="t17430114-18-person256" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person256" type="gender" value="male"></interp>
+                  </persName>
+            . On the 13th or 14th of March after the Bill was taxed at the Master's, Mr Goulder offered the Bill to me, to look it over, at King's-Coffee-House , and there was a Mistake of 20s. and I set it to rights. - I never saw such a Person as Shearsmith. [The General 
+               <persName id="t17430114-18-person257">
+                  Release
+               <interp inst="t17430114-18-person257" type="given" value="Release"></interp>
+                     <interp inst="t17430114-18-person257" type="gender" value="indeterminate"></interp>
+                  </persName>
+             shewed him]</p>
+
+               <p>Coun. Is that Mr Frogget's Hand-writing.</p>
+
+               <p>Bladen. I have not seen Mr Frogget's writing often; it has a Simile of his Writing. - I cannot say it is not his Hand-writing.</p>
+
+               <p>Coun. Cannot you say, whether you believe it to be his Hand-writing, or not?</p>
+
+               <p>Bladen. I shall say no otherwise than I have said.</p>
+
+               <p>Mr Curtis. I am a Brewer at Rochester, Mr Tigh rents a Publick-House of me, I serve him with Beer, and have taken considerable Sums of Money of him. - I always found him to be a very honest fair dealing Man. [Mr Curtis being asked as to his general Character, said he has heard a great many People say good Things of him, and a great many People indifferent Things.]</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person258">
+                  John 
+                  Dickenson 
+               <interp inst="t17430114-18-person258" type="surname" value="Dickenson"></interp>
+                     <interp inst="t17430114-18-person258" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person258" type="gender" value="male"></interp>
+                  </persName>
+            , I live at Rochester, he has carried many a score Pounds for me, and never wronged me of a Farthing; I never heard but that he had the Character of an honest Man.</p>
+
+               <p>Wm Haines. I live at Deptford, I never heard his Character called in Question in my Life.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person259">
+                  Thomas 
+                  Hatton 
+               <interp inst="t17430114-18-person259" type="surname" value="Hatton"></interp>
+                     <interp inst="t17430114-18-person259" type="given" value="Thomas"></interp>
+                     <interp inst="t17430114-18-person259" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the George at Rochester; I serve him with Wine, he always was just and honest to me. - he is not without Failings as other Men have.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person260">
+                  Samuel 
+                  Bates 
+               <interp inst="t17430114-18-person260" type="surname" value="Bates"></interp>
+                     <interp inst="t17430114-18-person260" type="given" value="Samuel"></interp>
+                     <interp inst="t17430114-18-person260" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17430114-18-person261">
+                  William 
+                  Moss 
+               <interp inst="t17430114-18-person261" type="surname" value="Moss"></interp>
+                     <interp inst="t17430114-18-person261" type="given" value="William"></interp>
+                     <interp inst="t17430114-18-person261" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17430114-18-person262">
+                  Robert 
+                  West 
+               <interp inst="t17430114-18-person262" type="surname" value="West"></interp>
+                     <interp inst="t17430114-18-person262" type="given" value="Robert"></interp>
+                     <interp inst="t17430114-18-person262" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17430114-18-person263">
+                  Henry 
+                  Beeke 
+               <interp inst="t17430114-18-person263" type="surname" value="Beeke"></interp>
+                     <interp inst="t17430114-18-person263" type="given" value="Henry"></interp>
+                     <interp inst="t17430114-18-person263" type="gender" value="male"></interp>
+                  </persName>
+             , and 
+               <persName id="t17430114-18-person264">
+                  John 
+                  Wright 
+               <interp inst="t17430114-18-person264" type="surname" value="Wright"></interp>
+                     <interp inst="t17430114-18-person264" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person264" type="gender" value="male"></interp>
+                  </persName>
+            , had all known Tigh several Years, say he has been always just to them; and as to his general Character, say, some speak well, and some ill of him.</p>
+
+               <p>Mr Bragg. Mr. Herbert has done Business for me 9 or 10 Years; he always had a good Character, he lodged in my House 12 Months; I am a<xptr type="pageFacsimile" doc="174301140017"></xptr> Hatter, and keep a Pawnbroker's-Shop, in Smithfield.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person265">
+                  John 
+                  Bladen 
+               <interp inst="t17430114-18-person265" type="surname" value="Bladen"></interp>
+                     <interp inst="t17430114-18-person265" type="given" value="John"></interp>
+                     <interp inst="t17430114-18-person265" type="gender" value="male"></interp>
+                  </persName>
+            . I have employed Mr Herbert as an Attorney, he has acted fairly and honestly by me, I never heard any body speak ill of him.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person266">
+                  Joseph 
+                  Snell 
+               <interp inst="t17430114-18-person266" type="surname" value="Snell"></interp>
+                     <interp inst="t17430114-18-person266" type="given" value="Joseph"></interp>
+                     <interp inst="t17430114-18-person266" type="gender" value="male"></interp>
+                  </persName>
+             . I keep the Butcher's-Arms, at Cow-Cross; I have known Herbert two Years, I never heard any other Character, than that of a down right honest Gentleman.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person267">
+                  James 
+                  Skeen 
+               <interp inst="t17430114-18-person267" type="surname" value="Skeen"></interp>
+                     <interp inst="t17430114-18-person267" type="given" value="James"></interp>
+                     <interp inst="t17430114-18-person267" type="gender" value="male"></interp>
+                  </persName>
+            . I am an Attorney, and have known Herbert 11 or 12 Years, I have employed him, and he was always faithful to me.</p>
+
+               <p>Herbert. Speak as to my general Character.</p>
+
+               <p>Skeen . Really I never heard any body give him a bad Character.</p>
+
+               <p>Mungo Martin. I have known Herbert 9 or 10 Years; I have trusted him in some Affairs for me, and he always behaved honestly, I never heard any Body give him a bad Character.</p>
+
+               <p>It having been said by the Witness Hulbert, that the Man that paid Mr. Frogget the Money was a tall Pockfretten Man, Mr. Bridock was produced to give a Description of him.</p>
+
+               <p>Elihu Bridock. I knew 
+               <persName id="t17430114-18-person268">
+                  Richard 
+                  Shearsmith 
+               <interp inst="t17430114-18-person268" type="surname" value="Shearsmith"></interp>
+                     <interp inst="t17430114-18-person268" type="given" value="Richard"></interp>
+                     <interp inst="t17430114-18-person268" type="gender" value="male"></interp>
+                  </persName>
+            , in 1738. when he was Clerk to Mr Stokes; he is a short thin Man, shorter than I am by near three Inches, and I am not 5 Foot 9 Inches, he is a smoothfac'd Man, about 28 Years of Age; I do not know that ever I observed a Pock-hole in his Face, o r any Thing like it, he is of a sort of a brown or fallow Complexion.</p>
+
+               <p>Counc. Do you know that this is the Shearsmith they are speaking of?</p>
+
+               <p>Bridock. It is the very same Man, he is living - I saw him the 10th Day of November last, I am very well satisfied that he is alive now: I believe there is a Person in Court, who has seen him within these 14 Days.</p>
+
+               <p>Tigh. Mr West, did not Mr Frogget declare that Mr Shearsmith is alive, and that he has kept him up these 30 Days, and borrowed Money to pay for his Keeping?</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person269">
+                  Robert 
+                  West 
+               <interp inst="t17430114-18-person269" type="surname" value="West"></interp>
+                     <interp inst="t17430114-18-person269" type="given" value="Robert"></interp>
+                     <interp inst="t17430114-18-person269" type="gender" value="male"></interp>
+                  </persName>
+            . (call'd again) I lay at the Cock, in Love-Lane, last Night; and Mr Frogget there said, he had had Mr Shearsmith in Keeping, 30 Days for a Witness, that he was in his Custody, and could bring him into Court; and that he borrowed Money to pay for the keeping of him.</p>
+
+               <p>Tigh . I believe he keeps him out of the way on purpose, to make a sacrifice of me.</p>
+
+               <p>Frogget . I did say, that I believed my Friends knew where he was, that they had acquainted me he was living, and had been with them; and that he would come into Court, if your Lordship would be pleased to admit him an Evidence against the Prisoners at the Bar.</p>
+
+
+               <p>Q. Did he say that he, or that his Friends, had him in Custody?</p>
+
+               <p>West. He said he had him in his Custody.</p>
+
+               <p>Frogget. I never saw him, I said my Friends told me so.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person270">
+                  Christopher 
+                  Searle 
+               <interp inst="t17430114-18-person270" type="surname" value="Searle"></interp>
+                     <interp inst="t17430114-18-person270" type="given" value="Christopher"></interp>
+                     <interp inst="t17430114-18-person270" type="gender" value="male"></interp>
+                  </persName>
+             . Mr Frogget , to the best of my Remembrance, said, that he never saw him in his Life, and did not know him, but believed he was pretty sure of finding him, and that he should be obliged to be at some Expence if he was produced.</p>
+
+               <p>Pris. Council. Mr Goulder , Do not you know that Shearsmith is in your Custody?</p>
+
+               <p>Mr Goulder. No, I do not know such a Person; - I neither know it, nor have I heard it.</p>
+
+               <p>
+            
+                  <persName id="t17430114-18-person271">
+                  Samuel 
+                  Baker 
+               <interp inst="t17430114-18-person271" type="surname" value="Baker"></interp>
+                     <interp inst="t17430114-18-person271" type="given" value="Samuel"></interp>
+                     <interp inst="t17430114-18-person271" type="gender" value="male"></interp>
+                  </persName>
+            . Mr Frogget said he had Shearsmith in his Custody, and was to pay 30s. for the keeping of him.</p>
+
+               <p>Frogget. I did not say any such Thing, I said my Friends had him.</p>
+
+               <p>Baker. I understood it - he had him; but he or his Friends that is the same Thing. Tigh <rs id="t17430114-18-verdict99" type="verdictDescription">
+                     <interp inst="t17430114-18-verdict99" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Publishing. <rs id="t17430114-18-punish100" type="punishmentDescription">
+                     <interp inst="t17430114-18-punish100" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17430114-18-defend219 t17430114-18-punish100"></join>
+               Death
+            </rs>.</p>
+
+               <p>Herbert, Phillips, and Adams, <rs id="t17430114-18-verdict101" type="verdictDescription">
+                     <interp inst="t17430114-18-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-49">
+               <interp inst="t16921207-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-49" type="year" value="1692"></interp>
+               <interp inst="t16921207-49" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-49" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-49-off240-c156" targOrder="Y" targets="t16921207-49-defend156 t16921207-49-off240 t16921207-49-verdict242"></join>
+               <join result="criminalCharge" id="t16921207-49-off240-c157" targOrder="Y" targets="t16921207-49-defend157 t16921207-49-off240 t16921207-49-verdict242"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-49-defend156" type="defendantName">
+                  Phillip 
+                  Street
+               <interp inst="t16921207-49-defend156" type="surname" value="Street"></interp>
+                     <interp inst="t16921207-49-defend156" type="given" value="Phillip"></interp>
+                     <interp inst="t16921207-49-defend156" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16921207-49-defend157" type="defendantName">
+                  Sarah 
+                  Daering
+               <interp inst="t16921207-49-defend157" type="surname" value="Daering"></interp>
+                     <interp inst="t16921207-49-defend157" type="given" value="Sarah"></interp>
+                     <interp inst="t16921207-49-defend157" type="gender" value="female"></interp>
+                  </persName>
+            , were both indicted for <rs id="t16921207-49-off240" type="offenceDescription">
+                     <interp inst="t16921207-49-off240" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921207-49-off240" type="offenceSubcategory" value="other"></interp>
+               stealing a pair of Hempen Sheets, on the 10th of November last, and several other Goods
+            </rs> from 
+               <persName id="t16921207-49-victim158" type="victimName">
+                  Margaret 
+                  Jacket
+               <interp inst="t16921207-49-victim158" type="surname" value="Jacket"></interp>
+                     <interp inst="t16921207-49-victim158" type="given" value="Margaret"></interp>
+                     <interp inst="t16921207-49-victim158" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16921207-49-off240 t16921207-49-victim158"></join>
+                  </persName>
+             of <placeName id="t16921207-49-crimeloc241">Harrow on the Hill</placeName>
+                  <interp inst="t16921207-49-crimeloc241" type="placeName" value="Harrow on the Hill"></interp>
+                  <interp inst="t16921207-49-crimeloc241" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16921207-49-off240 t16921207-49-crimeloc241"></join>; the Cloaths stood in the Yard in a Tub, and 1 Sheet was found in Street's Yard, which Jacket said was hers; but the Prisoners brought good Evidence for their Reputation, that he was a sufficient Man, and had 14 l. a year free; so they were both <rs id="t16921207-49-verdict242" type="verdictDescription">
+                     <interp inst="t16921207-49-verdict242" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-17">
+               <interp inst="t17360225-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-17" type="year" value="1736"></interp>
+               <interp inst="t17360225-17" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-17" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-17-off109-c97" targOrder="Y" targets="t17360225-17-defend130 t17360225-17-off109 t17360225-17-verdict112"></join>
+         
+               <p>21. 
+               
+                  <persName id="t17360225-17-defend130" type="defendantName">
+                     Hester 
+                     Dumontier 
+                  <interp inst="t17360225-17-defend130" type="surname" value="Dumontier"></interp>
+                     <interp inst="t17360225-17-defend130" type="given" value="Hester"></interp>
+                     <interp inst="t17360225-17-defend130" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360225-17-defloc108">St. Mary Matfelon, otherwise Whitechappel</placeName>
+                  <interp inst="t17360225-17-defloc108" type="placeName" value="St. Mary Matfelon, otherwise Whitechappel"></interp>
+                  <interp inst="t17360225-17-defloc108" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-17-defend130 t17360225-17-defloc108"></join>, was indicted for <rs id="t17360225-17-off109" type="offenceDescription">
+                     <interp inst="t17360225-17-off109" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-17-off109" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Calimanco-Petticoat, value 15s.
+            </rs> the Goods of 
+               <persName id="t17360225-17-victim131" type="victimName">
+                  Thomas 
+                  Street 
+               <interp inst="t17360225-17-victim131" type="surname" value="Street"></interp>
+                     <interp inst="t17360225-17-victim131" type="given" value="Thomas"></interp>
+                     <interp inst="t17360225-17-victim131" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-17-off109 t17360225-17-victim131"></join>
+                  </persName>
+             , <rs id="t17360225-17-cd110" type="crimeDate">Feb. 19.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-17-off109 t17360225-17-cd110"></join>
+               </p>
+               <p>
+            
+                  <persName id="t17360225-17-person132">
+                  Jane 
+                  Batteley 
+               <interp inst="t17360225-17-person132" type="surname" value="Batteley"></interp>
+                     <interp inst="t17360225-17-person132" type="given" value="Jane"></interp>
+                     <interp inst="t17360225-17-person132" type="gender" value="female"></interp>
+                  </persName>
+            . I am a Quilter, and work for Mr. Street, in <placeName id="t17360225-17-crimeloc111">Houndsditch</placeName>
+                  <interp inst="t17360225-17-crimeloc111" type="placeName" value="Houndsditch"></interp>
+                  <interp inst="t17360225-17-crimeloc111" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360225-17-off109 t17360225-17-crimeloc111"></join>, the Prisoner was my Journey-woman; I left her at Work at the Frame last Thursday, upon this Coat, when I went out: I did not stay out above half an Hour; when I returned, the Coat was gone and she too. I took her the same Day in Whitechappel, and she confessed she had pawned it to 
+               <persName id="t17360225-17-person133">
+                  Mary 
+                  Steward 
+               <interp inst="t17360225-17-person133" type="surname" value="Steward"></interp>
+                     <interp inst="t17360225-17-person133" type="given" value="Mary"></interp>
+                     <interp inst="t17360225-17-person133" type="gender" value="female"></interp>
+                  </persName>
+             in Half-Moon-Court in Whitechappel, for 11 s. Justice Rickets ordered me the Coat again.</p>
+               <p>
+            
+                  <persName id="t17360225-17-person134">
+                  Mary 
+                  Steward 
+               <interp inst="t17360225-17-person134" type="surname" value="Steward"></interp>
+                     <interp inst="t17360225-17-person134" type="given" value="Mary"></interp>
+                     <interp inst="t17360225-17-person134" type="gender" value="female"></interp>
+                  </persName>
+            . The Prisoner brought the Petticoat to me, and I lent her 11s. upon it.</p>
+               <p>Prisoner's Defence.</p>
+               <p>Mrs. Battiley said she was ashamed to see me in so mean Condition; when so many Gentlemen come to our House; she gets a great deal of Money in one Night, and she gave me Leave to take the Coat to make Money of, that I might get better Apparel. <rs id="t17360225-17-verdict112" type="verdictDescription">
+                     <interp inst="t17360225-17-verdict112" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-17-verdict112" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-17-punish113" type="punishmentDescription">
+                     <interp inst="t17360225-17-punish113" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-17-defend130 t17360225-17-punish113"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

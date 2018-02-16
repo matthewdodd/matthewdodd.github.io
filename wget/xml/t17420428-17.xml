@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17420428-17">
+               <interp inst="t17420428-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17420428-17" type="year" value="1742"></interp>
+               <interp inst="t17420428-17" type="uri" value="sessionsPapers/17420428"></interp>
+               <interp inst="t17420428-17" type="date" value="17420428"></interp>
+               <join result="criminalCharge" id="t17420428-17-off83-c138" targOrder="Y" targets="t17420428-17-defend174 t17420428-17-off83 t17420428-17-verdict85"></join>
+         
+               <p>19. 
+               
+                  <persName id="t17420428-17-defend174" type="defendantName">
+                     Sarah 
+                     Olsson 
+                  <interp inst="t17420428-17-defend174" type="surname" value="Olsson"></interp>
+                     <interp inst="t17420428-17-defend174" type="given" value="Sarah"></interp>
+                     <interp inst="t17420428-17-defend174" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17420428-17-off83" type="offenceDescription">
+                     <interp inst="t17420428-17-off83" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17420428-17-off83" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing four linnen Sheets, a brass Sauce-pan, a copper Tea kettle, 2 Plates, and a pair of Bellows, the Goods of 
+                     
+                        <persName id="t17420428-17-victim176" type="victimName">
+                           Henry 
+                           Benfield 
+                        <interp inst="t17420428-17-victim176" type="surname" value="Benfield"></interp>
+                        <interp inst="t17420428-17-victim176" type="given" value="Henry"></interp>
+                        <interp inst="t17420428-17-victim176" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17420428-17-off83 t17420428-17-victim176"></join>
+                     </persName>
+                      
+                  , in a Lodging
+            </rs>, <rs id="t17420428-17-cd84" type="crimeDate">December, 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17420428-17-off83 t17420428-17-cd84"></join>. <rs id="t17420428-17-verdict85" type="verdictDescription">
+                     <interp inst="t17420428-17-verdict85" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

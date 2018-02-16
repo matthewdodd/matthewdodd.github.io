@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400709-28">
+               <interp inst="t17400709-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400709-28" type="year" value="1740"></interp>
+               <interp inst="t17400709-28" type="uri" value="sessionsPapers/17400709"></interp>
+               <interp inst="t17400709-28" type="date" value="17400709"></interp>
+               <join result="criminalCharge" id="t17400709-28-off146-c192" targOrder="Y" targets="t17400709-28-defend246 t17400709-28-off146 t17400709-28-verdict148"></join>
+         
+               <p>318. + 
+               
+                  <persName id="t17400709-28-defend246" type="defendantName">
+                     Elizabeth 
+                     Mason 
+                  <interp inst="t17400709-28-defend246" type="surname" value="Mason"></interp>
+                     <interp inst="t17400709-28-defend246" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17400709-28-defend246" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17400709-28-defloc145">St Martin's in the Fields</placeName>
+                  <interp inst="t17400709-28-defloc145" type="placeName" value="St Martin's in the Fields"></interp>
+                  <interp inst="t17400709-28-defloc145" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400709-28-defend246 t17400709-28-defloc145"></join>, was indicted for <rs id="t17400709-28-off146" type="offenceDescription">
+                     <interp inst="t17400709-28-off146" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400709-28-off146" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 6 Guineas, the Money of 
+                     
+                        <persName id="t17400709-28-victim248" type="victimName">
+                           Richard 
+                           Rivers 
+                        <interp inst="t17400709-28-victim248" type="surname" value="Rivers"></interp>
+                        <interp inst="t17400709-28-victim248" type="given" value="Richard"></interp>
+                        <interp inst="t17400709-28-victim248" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17400709-28-off146 t17400709-28-victim248"></join>
+                     </persName>
+                      
+                  , in his Dwelling-house
+            </rs>, <rs id="t17400709-28-cd147" type="crimeDate">July 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400709-28-off146 t17400709-28-cd147"></join>.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174007090026"></xptr>Mr Rivers . On the Day mentioned in the Indictment, I sent the Prisoner to fetch some Cloaths out of my Chest , that I might shift myself, and then I sent her to put up the foul ones. I did not then imagine she had took any thing out of the Chest, so I went to Cbelsea , and did not come home till 11 o'Clock at Night. Then my Wife told me, she missed the Money, and in order to fright the Prisoner, she charged me with taking it. Well, says I, we'd go up to the Chest and look for it ;- but I did not take it. Accordingly , we search'd in the Chest, but could not find it. Then we look'd for it in the Prisoner's Room and could see nothing of it. Why the Girl must have it, says I, and I will send for a Constable, and she shall go to the Round-House. Upon this the Prisoner confessed she took the Money, and had hid it in the Cellar; and she went down into the Cellar, and fetch'd it. I had all the Money again but 26 s. which she had paid , to fetch her Gold Necklace out of Pawn . This is the Necklace. I have it, and 4 Guineas and a half, and 3 s.6 d. of my Money again. The Money and the Necklace were wrapped up, and hid under a Butt in the Cellar. She's very young, and I beg you would be as easy with her as you can. <rs id="t17400709-28-verdict148" type="verdictDescription">
+                     <interp inst="t17400709-28-verdict148" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17400709-28-verdict148" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty,39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17400709-28-punish149" type="punishmentDescription">
+                     <interp inst="t17400709-28-punish149" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400709-28-defend246 t17400709-28-punish149"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

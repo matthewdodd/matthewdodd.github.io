@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17470909-43">
+               <interp inst="t17470909-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17470909-43" type="year" value="1747"></interp>
+               <interp inst="t17470909-43" type="uri" value="sessionsPapers/17470909"></interp>
+               <interp inst="t17470909-43" type="date" value="17470909"></interp>
+               <join result="criminalCharge" id="t17470909-43-off184-c320" targOrder="Y" targets="t17470909-43-defend393 t17470909-43-off184 t17470909-43-verdict185"></join>
+         
+               <p>360. 
+               <persName id="t17470909-43-defend393" type="defendantName">
+                  
+                     John 
+                     Lloyd 
+                  , otherwise <rs id="t17470909-43-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17470909-43-defend393 t17470909-43-alias-5"></join>Floyd</rs>
+                     <interp inst="t17470909-43-defend393" type="surname" value="Lloyd"></interp>
+                     <interp inst="t17470909-43-defend393" type="given" value="John"></interp>
+                     <interp inst="t17470909-43-defend393" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17470909-43-off184" type="offenceDescription">
+                     <interp inst="t17470909-43-off184" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17470909-43-off184" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 15 s.
+            </rs> the Money of 
+               
+                  <persName id="t17470909-43-victim396" type="victimName">
+                     William 
+                     Bekey 
+                  <interp inst="t17470909-43-victim396" type="surname" value="Bekey"></interp>
+                     <interp inst="t17470909-43-victim396" type="given" value="William"></interp>
+                     <interp inst="t17470909-43-victim396" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17470909-43-off184 t17470909-43-victim396"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+            
+                  <persName id="t17470909-43-person397">
+                  William 
+                  Bekey 
+               <interp inst="t17470909-43-person397" type="surname" value="Bekey"></interp>
+                     <interp inst="t17470909-43-person397" type="given" value="William"></interp>
+                     <interp inst="t17470909-43-person397" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner is a Man that comes to scower our Copper; and while I was out, he went to the Room where I lodge, and he broke open the Chest.</p>
+               <p>
+            
+                  <persName id="t17470909-43-person398">
+                  John 
+                  Gilbert 
+               <interp inst="t17470909-43-person398" type="surname" value="Gilbert"></interp>
+                     <interp inst="t17470909-43-person398" type="given" value="John"></interp>
+                     <interp inst="t17470909-43-person398" type="gender" value="male"></interp>
+                  </persName>
+            . I saw him coming down Stairs from this Room; it was the 20th of August. I ask'd what he had in his Apron? He said, Nothing. Upon that I examined, and it was 15 s. in Halfpence, in five Shilling Parcels.</p>
+               <p>
+                  <rs id="t17470909-43-verdict185" type="verdictDescription">
+                     <interp inst="t17470909-43-verdict185" type="verdictCategory" value="guilty"></interp>
+               The Fact was proved upon the Prisoner
+            </rs>; but, in Consideration of his great Age, and hoping it might be the first Fact, he was ordered for Corporal Punishment.</p>
+               <p>
+                  <rs id="t17470909-43-punish186" type="punishmentDescription">
+                     <interp inst="t17470909-43-punish186" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17470909-43-punish186" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17470909-43-defend393 t17470909-43-punish186"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

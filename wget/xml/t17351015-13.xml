@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351015-13">
+               <interp inst="t17351015-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351015-13" type="year" value="1735"></interp>
+               <interp inst="t17351015-13" type="uri" value="sessionsPapers/17351015"></interp>
+               <interp inst="t17351015-13" type="date" value="17351015"></interp>
+               <join result="criminalCharge" id="t17351015-13-off48-c99" targOrder="Y" targets="t17351015-13-defend128 t17351015-13-off48 t17351015-13-verdict51"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17351015-13-defend128" type="defendantName">
+                     Thomas 
+                     Love 
+                  <interp inst="t17351015-13-defend128" type="surname" value="Love"></interp>
+                     <interp inst="t17351015-13-defend128" type="given" value="Thomas"></interp>
+                     <interp inst="t17351015-13-defend128" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17351015-13-off48" type="offenceDescription">
+                     <interp inst="t17351015-13-off48" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351015-13-off48" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 75 Yards of Woollen Cloth, Value 40 l.
+            </rs> the Goods of 
+               
+                  <persName id="t17351015-13-victim130" type="victimName">
+                     John 
+                     Simmonds 
+                  <interp inst="t17351015-13-victim130" type="surname" value="Simmonds"></interp>
+                     <interp inst="t17351015-13-victim130" type="given" value="John"></interp>
+                     <interp inst="t17351015-13-victim130" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17351015-13-off48 t17351015-13-victim130"></join>
+                  </persName>
+                
+            , <rs id="t17351015-13-cd49" type="crimeDate">Sept. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351015-13-off48 t17351015-13-cd49"></join>.</p>
+               <p>
+            
+                  <persName id="t17351015-13-person131">
+                  Robert 
+                  Bond 
+               <interp inst="t17351015-13-person131" type="surname" value="Bond"></interp>
+                     <interp inst="t17351015-13-person131" type="given" value="Robert"></interp>
+                     <interp inst="t17351015-13-person131" type="gender" value="male"></interp>
+                  </persName>
+            , Potter. On Friday Night between 6 and 7, going up <placeName id="t17351015-13-crimeloc50">Fish-street-hill</placeName>
+                  <interp inst="t17351015-13-crimeloc50" type="placeName" value="Fish-street-hill"></interp>
+                  <interp inst="t17351015-13-crimeloc50" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17351015-13-off48 t17351015-13-crimeloc50"></join> with the Cloth, I pitched it upon a Bulk at the Olive Tree, an Oil-shop. The Prisoner came up and asked me if I had seen a Boy come out of that Shop. I answered, No. The Rascal, says he, has got the Key of the Door. - Do so much as step to the Cross-Keys-Inn, and ask for a Hamper directed for Mr. Jackson, that is my Name, and I keep this House. I'll take Care of your Bundle the while, and give ye Three-pence now, and Three-pence when you come back. So he gave me Three-pence, and I left the Cloth on the Bulk, but when I returned he was gone. After a long Enquiry, and describing him to several People, I heard that such a Person who used to follow such Practices, lodged at a Barber's Shop in Rose-and-Crown Court in Moorfields, and there I found him, and am positive that he is the Man, for I saw him plainly by the Light of the Evening, and a Light in an Apothecary's Shop. The Jury found him <rs id="t17351015-13-verdict51" type="verdictDescription">
+                     <interp inst="t17351015-13-verdict51" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17351015-13-punish52" type="punishmentDescription">
+                     <interp inst="t17351015-13-punish52" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351015-13-defend128 t17351015-13-punish52"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

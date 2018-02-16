@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17581025-11">
+               <interp inst="t17581025-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17581025-11" type="year" value="1758"></interp>
+               <interp inst="t17581025-11" type="uri" value="sessionsPapers/17581025"></interp>
+               <interp inst="t17581025-11" type="date" value="17581025"></interp>
+               <join result="criminalCharge" id="t17581025-11-off53-c86" targOrder="Y" targets="t17581025-11-defend107 t17581025-11-off53 t17581025-11-verdict56"></join>
+         
+               <p>334. (L.) 
+               
+                  <persName id="t17581025-11-defend107" type="defendantName">
+                     Henry 
+                     Pinnock 
+                  <interp inst="t17581025-11-defend107" type="surname" value="Pinnock"></interp>
+                     <interp inst="t17581025-11-defend107" type="given" value="Henry"></interp>
+                     <interp inst="t17581025-11-defend107" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17581025-11-off53" type="offenceDescription">
+                     <interp inst="t17581025-11-off53" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17581025-11-off53" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one watch, with the inside case silver and the outside shagreen, value 4 l.
+            </rs> the property of 
+               
+                  <persName id="t17581025-11-victim109" type="victimName">
+                     William 
+                     Addis 
+                  <interp inst="t17581025-11-victim109" type="surname" value="Addis"></interp>
+                     <interp inst="t17581025-11-victim109" type="given" value="William"></interp>
+                     <interp inst="t17581025-11-victim109" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17581025-11-off53 t17581025-11-victim109"></join>
+                  </persName>
+                
+            , <rs id="t17581025-11-cd54" type="crimeDate">Sept. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581025-11-off53 t17581025-11-cd54"></join>. ++</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175810250011"></xptr>A witness. I am a watchmaker and work with Mr. 
+               <persName id="t17581025-11-person110">
+                  William 
+                  Addis 
+               <interp inst="t17581025-11-person110" type="surname" value="Addis"></interp>
+                     <interp inst="t17581025-11-person110" type="given" value="William"></interp>
+                     <interp inst="t17581025-11-person110" type="gender" value="male"></interp>
+                  </persName>
+            , the prisoner was our <rs id="t17581025-11-deflabel55" type="occupation">errand man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17581025-11-defend107 t17581025-11-deflabel55"></join>; I was at breakfast and saw him very busy near the watches, I gave charge to the boy to see if he missed any, the boy looked in the book and missed a watch.</p>
+               <p>Q. Where was the prisoner then?</p>
+               <p>Answer. He was gone out, I had sent him of an errand.</p>
+               <p>Q. What book is that?</p>
+               <p>Answer. We set all the watches down as they come in to be mended, and scratch them out as they go out again; I went after the prisoner through Bishopsgate, and turning down old Bedlam I saw him come out of a watch-maker's shop, I called to him, and then accused him with taking a watch, he soon owned he had stole it, and that he had sold it in that shop; I took him with me, and went in and there found it; he had sold it for 27 s. he returned the money and I took the watch.</p>
+               <p>Q. How long had the prisoner been with your master?</p>
+               <p>Answer. He had been with us a month the very day that he committed the crime.</p>
+               <p>Prisoner's defence.</p>
+               <p>I own myself to be in a fault, I had the foul disease four years ago, and I am so bad that I can hardly crawl along.</p>
+               <p>
+                  <rs id="t17581025-11-verdict56" type="verdictDescription">
+                     <interp inst="t17581025-11-verdict56" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17581025-11-punish57" type="punishmentDescription">
+                     <interp inst="t17581025-11-punish57" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17581025-11-defend107 t17581025-11-punish57"></join>
+               
+                     <note>[Transportation.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

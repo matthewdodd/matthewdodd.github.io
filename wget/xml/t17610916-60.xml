@@ -1,3 +1,660 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610916-60">
+               <interp inst="t17610916-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610916-60" type="year" value="1761"></interp>
+               <interp inst="t17610916-60" type="uri" value="sessionsPapers/17610916"></interp>
+               <interp inst="t17610916-60" type="date" value="17610916"></interp>
+               <join result="criminalCharge" id="t17610916-60-off312-c447" targOrder="Y" targets="t17610916-60-defend550 t17610916-60-off312 t17610916-60-verdict314"></join>
+         
+               <p>280 (M.) 
+               <persName id="t17610916-60-defend550" type="defendantName">
+                  Ann 
+                  <rs id="t17610916-60-deflabel311" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17610916-60-defend550 t17610916-60-deflabel311"></join> of 
+                     <persName id="t17610916-60-person551">
+                        Best 
+                        Dossel 
+                     <interp inst="t17610916-60-person551" type="surname" value="Dossel"></interp>
+                        <interp inst="t17610916-60-person551" type="given" value="Best"></interp>
+                        <interp inst="t17610916-60-person551" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17610916-60-defend550" type="surname" value="Dossel"></interp>
+                     <interp inst="t17610916-60-defend550" type="given" value="Ann"></interp>
+                     <interp inst="t17610916-60-defend550" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17610916-60-off312" type="offenceDescription">
+                     <interp inst="t17610916-60-off312" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610916-60-off312" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver spoon, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17610916-60-victim553" type="victimName">
+                     Charles 
+                     Jones 
+                  <interp inst="t17610916-60-victim553" type="surname" value="Jones"></interp>
+                     <interp inst="t17610916-60-victim553" type="given" value="Charles"></interp>
+                     <interp inst="t17610916-60-victim553" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610916-60-off312 t17610916-60-victim553"></join>
+                  </persName>
+                
+            , <rs id="t17610916-60-cd313" type="crimeDate">July 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610916-60-off312 t17610916-60-cd313"></join>.~</p>
+               <p>
+            
+                  <persName id="t17610916-60-person554">
+                  Charles 
+                  Jones 
+               <interp inst="t17610916-60-person554" type="surname" value="Jones"></interp>
+                     <interp inst="t17610916-60-person554" type="given" value="Charles"></interp>
+                     <interp inst="t17610916-60-person554" type="gender" value="male"></interp>
+                  </persName>
+            . I live in May's buildings, in St. Martin's in the Fields. On the 7th of July, to the best of my remembrance, my wife sent a man to me, who told me, she wanted to speak to me; I met my wife in the street, she told me, she had lost a silver spoon; I asked her how she lost it; she said, she could not tell how; that she had all her tea-spoons a day or two before; but on washing up her tea-things, she had missed one spoon. She got a warrant, and I got a constable, and put the warrant in execution, to search the house of the prisoner's husband, I was a lodger in the house, up two pair of stairs, I was not present at the search; I had lost a great many things before.</p>
+
+               <p>Cross Examination.</p>
+               <p>Q. Is the constable any relation to you, I see his name is Jones?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160068"></xptr>Jones. No.</p>
+               <p>Q. How long have you known the prisoner at the bar, and her husband?</p>
+               <p>Jones. I believe from about two months before last Christmas.</p>
+               <p>Q. Is her husband a housekeeper in May's-buildings?</p>
+               <p>Jones. He is.</p>
+               <p>Q. Is he reckoned a man of substance?</p>
+               <p>Jones. I don't say he is reckoned so.</p>
+               <p>Q. Is there one Mr. Lynch belonging to Mr. Dossel?</p>
+               <p>Jones. There is?</p>
+               <p>Q. Has there been disputes betwixt him and Mr. Dossel and his wife?</p>
+               <p>Jones. There has.</p>
+               <p>Q. How long have lodg'd there?</p>
+               <p>Jones. I lodg'd there six weeks before last Christmas.</p>
+               <p>Q. How long did you live well together?</p>
+               <p>Jones. Not quite six months.</p>
+               <p>Q. Was the dispute prior to the losing the spoons?</p>
+               <p>Jones. A great many disputes were before that time.</p>
+               <p>Q. Had you any law-suits between you?</p>
+               <p>Jones. We had.</p>
+               <p>Q. Have you ever made any application to take the house in which Dossel lives, that he might be turned out, and you have the house?</p>
+               <p>Jones. No.</p>
+               <p>Q. Do you know Mr. Murimburg?</p>
+               <p>Jones. I do.</p>
+               <p>Q. Did you never speak to him about it?</p>
+               <p>Jones. No, never.</p>
+               <p>Q. Had there ever been any desire on the part of Mr. Dossel, that you would quit the apartments you had in his house?</p>
+               <p>Jones. Yes.</p>
+               <p>Q. Was it before this spoon was lost?</p>
+               <p>Jones. Yes.</p>
+               <p>Q. Whether you are exact, when you say the 7th of July, that you missed the spoon; or was it the 7th of August?</p>
+               <p>Jones. It was July.</p>
+               <p>Q. Upon that application of his, did you go out?</p>
+               <p>Jones. I did not, I am not out yet.</p>
+               <p>Q. Was you served with any ejectment?</p>
+               <p>Jones. I was served with three.</p>
+               <p>Counsel. And you remain there still.</p>
+               <p>Jones. I do.</p>
+               <p>Q. Had any other complaint been made against you or your wife, or Mr. or Mrs. Lynch, to a justice of the peace, in order to have a warrant against you?</p>
+               <p>Jones. No, I don't know that ever any person inquired about such a thing.</p>
+               <p>Counsel. Do you stay in court till the others are examined.</p>
+               <p>Mrs. Jones. I am a wife to the prosecutor, I cannot justly say when I lost the spoon; I had them all together on a Monday morning, and I never missed this till Friday morning, when I washed up my tea-things.</p>
+               <p>Q. What month was it?</p>
+               <p>M. Jones. Upon my word I don't know what month.</p>
+               <p>Q. Can you say, whether it was two, three, four, or five months ago?</p>
+               <p>M. Jones. I cannot.</p>
+               <p>Q. How long do you think it is ago?</p>
+               <p>M. Jones. I don't think it is above two months ago.</p>
+               <p>Q. What did you do upon losing your spoon?</p>
+               <p>M. Jones. I searched every where in both my rooms, I have but two rooms; I could not find it any where at all. I went down to the gentlewoman below, and she came up, and helped me look; then I went to my husband, where he was at work at St. Martin's Work-house, and told him of it.</p>
+               <p>Q. What is he?</p>
+               <p>M. Jones. He is a carpenter; as I had lost things before, I desired him to get a search-warrant.</p>
+               <p>Q. Did he get one?</p>
+               <p>M. Jones. He gave me leave to do it.</p>
+               <p>Q. Where to search?</p>
+               <p>M. Jones. Against the prisoner.</p>
+               <p>Q. Where does she live?</p>
+               <p>M. Jones. She lives in the same house.</p>
+               <p>Q. What part of the house does she occupy?</p>
+               <p>M. Jones. The garret and fore kitchen.</p>
+               <p>Q. Had you any particular reason to suspect her?</p>
+               <p>M. Jones. Yes, by several things, which I had lost before.</p>
+               <p>Q. Upon your oath, was that your motive to desire your husband to let you go for a warrant?</p>
+               <p>M. Jones. Upon my oath it was. The first thing that I had a suspicion of her in, was after I had been in the house about a fortnight, I was in the yard drawing water, and I saw two of my towels in a pail, how she came at them I cannot tell. When I got the search-warrant, my husband got an officer.</p>
+               <p>Q. Where did you get the warrant?</p>
+               <p>M. Jones. I got it at justice cox's. We searched her room, and found the spoon.</p>
+               <p>Q. Who was in the room?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160069"></xptr>M. Jones. The constable's name is 
+               <persName id="t17610916-60-person555">
+                  Thomas 
+                  Jones 
+               <interp inst="t17610916-60-person555" type="surname" value="Jones"></interp>
+                     <interp inst="t17610916-60-person555" type="given" value="Thomas"></interp>
+                     <interp inst="t17610916-60-person555" type="gender" value="male"></interp>
+                  </persName>
+            , I and Mrs. Lynch, we went into the one pair of stairs room forward. That is the room which the prisoner usually sits in. We searched every where; and when we had searched all the places, I desired the constable to look upon the bed, first of all Mr. Dossel let the bed down, there were some of his work-folks, and another woman over the way.</p>
+               <p>Q. What is Mr Dossel?</p>
+               <p>M. Jones. He is a habit maker, he let the bed down.</p>
+               <p>Q. Did he let it down before you insisted upon having it searched, or after?</p>
+               <p>M. Jones. No, before. I desired the constable to look upon the bed after it was let down; he felt up. but was not high enough to see I stepped up on the other side, and could look all over the bed.</p>
+               <p>Q. What do you mean by the bed?</p>
+               <p>M. Jones. I mean the bed's head, the constable stood up in a chair; he said he felt a paper, but was not high enough to look. Then he came down without finding of it, and said, he was not high enough to see; there were some boxes on the other side, I got upon them, and I saw, and could look over it, I saw a paper there, and desired a gentleman to lend me the poker; I tried to reach, but that was too short. Then I desired the gentlewoman to lend me the sweeping-broom, and I beat it down with that; the gentlewoman below stairs took it up.</p>
+               <p>Q. Who do you call the gentlewoman below stairs?</p>
+               <p>M. Jones. That is Mrs. Lynch, she delivered it to the constable, he opened it, and the spoon was within it.</p>
+               <p>Q. Where is it?</p>
+               <p>M. Jones. The constable has it.</p>
+               <p>Q. What mark is upon the handle?</p>
+               <p>M. Jones. C. for Charles, and J for Jones, it is marked upon the back of it.</p>
+               <p>Q. Whose property was it?</p>
+               <p>M. Jones. It was the property of my husband.</p>
+               <p>Q. What part of the room does the bed stand in?</p>
+               <p>M. Jones. It stands upon the left-hand, fronting the window, that is, the foot of the bed fronts the window.</p>
+               <p>Q. Which side of the bed were the boxes on?</p>
+               <p>M. Jones. On the far side, the right hand side.</p>
+               <p>Q. Which side did the constable get up on?</p>
+               <p>M. Jones. On the left hand side; we searched farther in the garret, and in the kitchen t of all.</p>
+               <p>Q. What did you search farther for?</p>
+               <p>M. Jones, Because we had lost other things.</p>
+               <p>Q Did the warrant intitle you to search for other things besides the spoon?</p>
+               <p>M. Jones. It did.</p>
+               <p>Q. Where is the warrant?</p>
+               <p>M. Jones. The constable has it. [ Produced in court.]</p>
+               <p>Counsel. It appears to be a general search-warrant.</p>
+               <p>Q. What had you lost before?</p>
+               <p>M. Jones. We had lost a saucepan.</p>
+               <p>Q. How long before the 7th of July?</p>
+               <p>M Jones. I did not take any account; I believe six weeks or two months.</p>
+               <p>Q. How long before was it, that you lost your towels?</p>
+               <p>M. Jones. I lost six of one sort, and seven of another. I lost some at our first coming into the house.</p>
+               <p>Q. When was the first application you made to justice Cox?</p>
+               <p>M Jones. Just after my losing my copper-saucepan.</p>
+               <p>Q. At that time, did he grant you a search-warrant?</p>
+               <p>M. Jones. No, he did not.</p>
+               <p>Q. What do you know farther with regard to this spoon? When you found it, what did you do?</p>
+               <p>M. Jones. We went down to justice Cox again, and Mrs. Dossel was taken up.</p>
+               <p>Q. Where was her husband?</p>
+               <p>M. Jones. He was with us at the time, I believe he was taken up too</p>
+               <p>Q. How came Mrs. Dossel in particular to be taken up?</p>
+               <p>M. Jones. We had the most reason, for that I suspected her, and had seen other things.</p>
+               <p>Q Was Mr. Dossel apprehended as well as Mrs. Dossel?</p>
+               <p>M. Jones. Justice Cox said, he believed we must bring them both.</p>
+               <p>Q. What did she say to this?</p>
+               <p>M. Jones. At first she said, Mrs. Lynch put it there; Mrs. Lynch called her base woman for saying so. Then afterwards, she said, it was I that put it there.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160070"></xptr>Cross Examination.</p>
+               <p>Q. Did you and Mrs. Dossel live together in good harmony and friendship?</p>
+               <p>M. Jones. For a great while, we had no bad words at all</p>
+               <p>Q. How long did you live together in friendship?</p>
+               <p>M. Jones. I believe four or five months.</p>
+               <p>Q. When did you first take her to be a bad woman?</p>
+               <p>M. Jones. I had not been there above a fortnight, before I had a suspicion she was a bad woman, by seeing my towels in her pail.</p>
+               <p>Q. When were the first applications made by Dossel to your husband, to go out and quit the house?</p>
+               <p>M. Jones. Since words were about losing the things</p>
+               <p>Q. Did you tell your suspicions to any body?</p>
+               <p>M. Jones. I did to my husband.</p>
+               <p>Q. How long ago since Mr. Dossel first desired you and your husband to go and leave the house?</p>
+               <p>M. Jones. It was some time after I lost the saucepan.</p>
+               <p>Q. Was your husband inclinable to quit the apartment after the uneasiness?</p>
+               <p>M. Jones. He was uneasy, because we had taken it for a year certain.</p>
+               <p>Q. Did the man that you took it of, desire you to go out and quit it?</p>
+               <p>M. Jones. Yes.</p>
+               <p>Q. Have you quitted it yet?</p>
+               <p>M. Jones. No.</p>
+               <p>Q. When you was in the house of one that you suspected to be a thief, why did you not choose to quit the apartment, when they desired you to go out?</p>
+               <p>M. Jones. There was an uneasiness in the house, but I cannot tell my husband's meaning for not leaving it. There was a disturbance, that we did not go out directly as we should have done, we did not know whether it was safe to go out. as he desired us to go out.</p>
+               <p>Q. Were you so ignorant, when he desired you to leave it?</p>
+               <p>M. Jones. We did not know it was safe.</p>
+               <p>Q. Was your husband served with an ejectment?</p>
+               <p>E. Jones. He was.</p>
+               <p>Q. Did he take advice?</p>
+               <p>E. Jones. He went once to a lawyer.</p>
+               <p>Q. After he had had his attorney's advice, what was the reason he did not get out of the house of this wicked man, Dossel, and wicked thieving wife?</p>
+               <p>M. Jones. He never told me he had been to his attorney, I do not think he has been. I know he was with the attorney, when he was served with the copy of a writ, I will not be positive.</p>
+               <p>Q. How came you to know it was an ejectment?</p>
+               <p>M. Jones. Because the lawyer told me it was so.</p>
+               <p>Q. Had there been any any action brought against you for calling Mrs. Dossel a thief?</p>
+               <p>M. Jones. The copy of a writ was upon that.</p>
+               <p>Q. Was that before the time of losing the spoon?</p>
+               <p>M. Jones. Yes, it was.</p>
+               <p>Q. What became of it? Was it made up?</p>
+               <p>M. Jones. The man that Mr. Dossel imployed, came down, and there was a law-suit concerning it.</p>
+               <p>Q. What became of it?</p>
+               <p>M. Jones. They made it up at Westminster.</p>
+               <p>Q. After that, was you at Mr. Dossel's upon good terms, or did you keep your distance?</p>
+               <p>M. Jones. We kept our distance.</p>
+               <p>Q. Then how came she by this opportunity to steal this tea-spoon?</p>
+               <p>M. Jones. I suspected that was gone, when I was down with Mrs. Lynch in the afternoon.</p>
+               <p>Q. Was your door broke open?</p>
+               <p>M. Jones. No, it was left open.</p>
+               <p>Q. Whether Mrs. Dossel ever let her door open?</p>
+               <p>M. Jones. I do not know.</p>
+               <p>Q. Suppose you was to turn your recollection a little to the door of her bed room being left open; can you say with some certa inty, that her door was left open, and she gone out on the Monday.</p>
+               <p>M. Jones. I never know'd her door was open.</p>
+               <p>Counsel. I desire the constable to stand up by the side of this witness, that the jury may see the height of them. [The constable stands up as desired.] He is a tall man, and she is a short woman.</p>
+               <p>Counsel. Now the jury may form their judgments, which was capable of reaching highest.</p>
+               <p>Q. Where did you begin to search first?</p>
+               <p>M. Jones. That was in the closet I believe. - No, it was the drawers, we search'd every<xptr type="pageFacsimile" doc="176109160071"></xptr> thing very exactly, every bundle, and every piece of paper that I could find.</p>
+               <p>Q. Did you feel in the cloaths.</p>
+               <p>M. Jones. Yes.</p>
+               <p>Counsel. Such things as women's quilted petticoats?</p>
+               <p>M. Jones. They were all taken out of boxes; we search'd and felt about them.</p>
+               <p>Q. Did the constable get up to look upon the bed's head, to look for the spoon?</p>
+               <p>M. Jones. He did.</p>
+               <p>Q. Who proposed his looking there?</p>
+               <p>M. Jones. I believe it was me, after the bed was let down.</p>
+               <p>Counsel. I believe so to, I have no doubt of it.</p>
+               <p>Q. Did the constable say he saw any thing there?</p>
+               <p>M. Jones. Sir, he said, he was not high enough.</p>
+               <p>Q. When you went up first, what did you endeavour to get it with?</p>
+               <p>M. Jones. With the poker, I could not reach it with that.</p>
+               <p>Counsel. Nor with your hand.</p>
+               <p>M. Jones. No.</p>
+               <p>Q. Did you endeavour to try?</p>
+               <p>M. Jones. No, it was quite on the other side the bed.</p>
+               <p>Counsel. I see you are now big with child; I want to know the reason, why you did not desire the constable, who is a man, and much taller than you, to get things down from thence,</p>
+               <p>M. Jones. The boxes stood upon a stool, and were much higher.</p>
+               <p>Q. What did the constable feel paper with?</p>
+               <p>M. Jones. With his hand.</p>
+               <p>Q. When he did, why did not you, to avoid all suspicion, desire the constable to reach this paper with a poker or a broom; who could have done it more conveniently than you?</p>
+               <p>M. Jones. I did not hurt myself in getting up, and searched a great many places myself.</p>
+               <p>Q. Did you search upon boxes and stools?</p>
+               <p>
+            
+                  <persName id="t17610916-60-person556">
+                  M.
+                   Jones I
+               <interp inst="t17610916-60-person556" type="surname" value="Jones I"></interp>
+                     <interp inst="t17610916-60-person556" type="given" value="M."></interp>
+                     <interp inst="t17610916-60-person556" type="gender" value="indeterminate"></interp>
+                  </persName>
+             got upon chairs.</p>
+               <p>Counsel. You must recollect there had been long enmity between Mr. Dossel and you, and his wife.</p>
+               <p>M. Jones. Yes.</p>
+               <p>Counsel. And that there had been an ejectment for you to get out of the house; when you knew that, how come you not to desire the constable to search about, that you might avoid all suspicion.</p>
+               <p>M. Jones. At the same time I might not think of any such thing. I got up in a chair to look in the cupboard, and likewise in the drawers, I did not hurt myself, nor think any ill.</p>
+               <p>Q. Were there more beds?</p>
+               <p>M. Jones. There were in the garret.</p>
+               <p>Q. Was the teastor of the bed very high?</p>
+               <p>M. Jones. It goes quite up to the ceiling, so close, that I believe it touches the ceiling.</p>
+
+               <p>Q. What else did you find?</p>
+               <p>M. Jones. We found nothing but the teaspoon, wrapt up in a piece of paper.</p>
+               <p>Q. You mentioned, that when Mrs. Dossel was asked about this spoon, she said, Mrs. Lynch put it there. Then after that, you put it there. When she expressed herself thus, did not you immediately clap your hands, and say, there it is.</p>
+               <p>M. Jones. No, I did not.</p>
+               <p>Q. Did not Mrs. Dossel say, when the spoon was opened, then Mrs. Lynch put it there?</p>
+               <p>M. Jones. Yes, I believe Mrs Lynch clapt her hands together. Mrs. Dossel said, you are a base woman, it was you put it there.</p>
+               <p>Q. Was Mr. Lynch ejected out of Mr. Dossel's house also?</p>
+               <p>M. Jones. He was</p>
+               <p>Q Had they been at variance?</p>
+               <p>M. Jones. Yes, they had.</p>
+               <p>Q. Had there been disputes between them?</p>
+               <p>M. Jones. There had.</p>
+               <p>Q When Mrs Dossel mentioned that, whether you understood it, that she, from her own knowledge, knew Mrs. Lynch put it there; or that Mrs. Lynch, at some opportunity, might have put it there?</p>
+               <p>M. Jones. I did not stand to consider what she meant.</p>
+               <p>Q. What do you understand by it now?</p>
+               <p>M. Jones. I understand, she must think Mrs. Lynch put it there in spight.</p>
+               <p>Counsel. And when Mrs. Lynch denied it, and she turned round to you, it must have the same meaning to you?</p>
+               <p>M. Jones. Very possibly she might.</p>
+               <p>Q. Was Mr. Dossel carried before Mr. Cox, and bound over?</p>
+               <p>
+            
+                  <persName id="t17610916-60-person557">
+                  M.
+                   Jones He
+               <interp inst="t17610916-60-person557" type="surname" value="Jones He"></interp>
+                     <interp inst="t17610916-60-person557" type="given" value="M."></interp>
+                     <interp inst="t17610916-60-person557" type="gender" value="indeterminate"></interp>
+                  </persName>
+             was.</p>
+               <p>Q. How came you to think of taking the wife, and leaving out the husband?</p>
+               <p>Mrs. Jones. Because I had a suspicion of the wife. I never found the husband take any thing from me.</p>
+               <p>Counsel. Then you look upon him to be an honest man.</p>
+               <p>M. Jones. I don't know what I look upon him to be.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160072"></xptr>Q. How long has he kept the house?</p>
+               <p>M. Jones. I believe he had kept it two years.</p>
+               <p>Q. Is he a man of substance, or a poor necessitous man?</p>
+               <p>M. Jones. I don't know what he is.</p>
+               <p>Q. Does he appear to be a man of substance and credit, or a poor shabby dirty fellow?</p>
+               <p>M. Jones. He may be a man of worth, I can't say.</p>
+               <p>Q. Tell me how long you continued in good terms together?</p>
+               <p>M. Jones. I believe about four or five months, before we had any words.</p>
+               <p>Q. Might it not be six months?</p>
+               <p>M. Jones. I really can't tell how long.</p>
+               <p>Q Was it seven months?</p>
+               <p>M. Jones. I don't think it was seven.</p>
+               <p>Q. How long had you been there, when you lost your towels?</p>
+               <p>M. Jones. I lost my first two towels in the first fortnight after I came into the house.</p>
+               <p>Q. Did you suspect Mrs. Dossel then?</p>
+               <p>M. Jones. I did, that was the time I found my towels in her pail; that was within the first fortnight.</p>
+               <p>Counsel. This seems a little extraordinary, after you had occasion of suspicion, you should continue in very good terms.</p>
+               <p>M. Jones. I was not willing to have words with her, or any body else. I told her in good nature one day, that my husband did insist upon having the towels and things, or he would have a search-warrant.</p>
+               <p>Q. Where was this?</p>
+               <p>Mrs. Jones. This was one day in my own room.</p>
+               <p>Counsel. I remind you, you are now upon your oath, upon a solemn occasion; you are called upon to speak the truth, answer me. as you will answer to God and the world. Tell me if you do not know how, that spoon came upon that bed?</p>
+               <p>M. Jones. No, I do not know.</p>
+               <p>Q. Are you sure and certain, that you did not put it there yourself?</p>
+               <p>M. Jones. I am very sure and very certain I did not.</p>
+               <p>Q. Are you sure no other person with your knowledge and concurrence, put it there?</p>
+               <p>M. Jones. No.</p>
+               <p>Q. Have you any reason to believe any body put it there, besides the prisoner at the bar?</p>
+               <p>M. Jones. I have no reason to believe any body put it there besides she.</p>
+               <p>Counsel. Give a particular answer to the question.</p>
+               <p>M. Jones. I have no reason to suspect any body but she.</p>
+               <p>Counsel. You are positive you did not put it there?</p>
+               <p>M. Jones. I did not put it there, nor I don't know how it came there.</p>
+               <p>Q. Do you lock up your spoons?</p>
+               <p>M. Jones. I do not, they lie in the closet open.</p>
+               <p>Q. How many children have you?</p>
+               <p>M. Jones. I have one child.</p>
+               <p>Q. Did that child use to go into Mrs. Dossel's apartment from yours?</p>
+               <p>M. Jones. Only up stairs and down.</p>
+               <p>Q. Where was it you met your husband, when you went to ask if you might have a search-warrant?</p>
+               <p>M. Jones. I went to the Work-house, I met with one of the men, and told him, I wanted to speak with my husband, and I met him in St. Martin's-Lane.</p>
+               <p>Q. Pray had you some acquaintance with Mrs. Dossel? Is she a sensible woman, or a woman of weak understanding?</p>
+               <p>M. Jones. The woman is very well for what I know.</p>
+               <p>Q. Do you think she is so weak, that after there had been a law-suit between her husband and yours, as to steal a two shillings tea-spoon, to put it in your power to transport her?</p>
+               <p>M. Jones. I don't know, the woman is not foolish, that is certain.</p>
+               <p>Q. One more question. You was very intimate during this time with Mr. Lynch, and his wife?</p>
+               <p>M. Jones. At the time I lost my spoon, I was intimate with them; but I was in the house between three and four months before I spake to Mrs. Lynch.</p>
+               <p>Q. I would be glad to know, whether you, before the search-warrant, and how soon, you told either Mr. or Mrs. Lynch, of this matter; that is, of the loss of the spoon, and of your suspicion.</p>
+               <p>M. Jones. I told Mrs. Lynch of it, in her parlour, on the Tuesday.</p>
+               <p>Q Was that the first time you told her?</p>
+               <p>M. Jones. It was.</p>
+               <p>Q. Had you told Mrs. Lynch of your suspicions of Mrs. Dossel's being a thief, by your seeing your towels in her pail?</p>
+               <p>M. Jones. Yes, I had spoke to them about my towels, and my saucepan, and other things that I lost. I had not told any body of the spoon before I did Mrs. Lynch, but my husband.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160073"></xptr>Q. How long before the time you lost your spoon, did you tell to Mr. and Mrs. Lynch of your suspicions?</p>
+               <p>M. Jones. It might be soon after we became acquainted.</p>
+               <p>Q. Did they express any uneasiness at staying in the house of such a person?</p>
+               <p>M. Jones. They had lost several things.</p>
+               <p>Q. Did you immediately, upon being acquainted with Mrs. Lynch, tell her your suspicions of Mrs. Dossel, or not?</p>
+               <p>M. Jones. I might soon after we were acquainted.</p>
+               <p>Q. Did you tell Mr. Lynch of it?</p>
+               <p>M. Jones. I do not know whether he was in the room; we used to converse about it, when we were together.</p>
+               <p>Q. Did Mr. Lynch express any uneasiness at staying in the house?</p>
+               <p>M. Jones. He was uneasy; but as he had laid cut a great deal of money, in fixing things in the house, he could not part till he had sold his fixtures.</p>
+               <p>Q. What is his business?</p>
+               <p>M. Jones. He goes out with books to sell.</p>
+               <p>Q. At what times?</p>
+               <p>M. Jones. He goes about night-time to sell them.</p>
+               <p>Q. Does Mrs. Lynch follow the same profession?</p>
+               <p>M. Jones. No, not as I know of.</p>
+               <p>Q. What other things did you miss?</p>
+               <p>Mrs. Jones. I lost a pillow-case.</p>
+               <p>Q. How came you or to put the pillowcase in the search-warrant?</p>
+               <p>M. Jones. I did not think of it. and I found my pillow-case afterwards again.</p>
+               <p>Q. Does Mrs. Lynch go by any other name than that of Lynch?</p>
+               <p>M. Jones. She goes sometimes by the name of Newcomb, and sometimes by the name of Lynch.</p>
+               <p>
+            
+                  <persName id="t17610916-60-person558">
+                  Mary Ann 
+                  Lynch 
+               <interp inst="t17610916-60-person558" type="surname" value="Lynch"></interp>
+                     <interp inst="t17610916-60-person558" type="given" value="Mary Ann"></interp>
+                     <interp inst="t17610916-60-person558" type="gender" value="indeterminate"></interp>
+                  </persName>
+            . I lodge at the prisoner's house.</p>
+               <p>Q. Have you been acquainted with the last witness some time?</p>
+               <p>M. A. Lynch. No Sir, my acquaintance has been of a short time.</p>
+               <p>Q. How came you to be called upon to the searching this bed?</p>
+               <p>M. A. Lynch. I can urge nothing but what is of the strictest truth concerning the bed, my lord. The prisoner's husband would turn down the bed for Mrs. Jones to look between the sheets, as she had missed several things before.</p>
+               <p>Q. Was you desired by Mrs. Jones to be present, when Mr. Dossel's room was searched?</p>
+               <p>M. A. Lynch. Yes, Mrs. Jones begged I would step up with her, to be present, my lord; and I did so.</p>
+               <p>Q. When was this?</p>
+               <p>M. A. Lynch. I really cannot be positive what day it was indeed.</p>
+               <p>Q. What time of the day?</p>
+               <p>M. A. Lynch. It was on a fore-noon that Mr. Jones came home in great hurry of spirits, and told me of this tea-spoon; and it was some time, I believe, in the afternoon, that the constable came. She had brought a search-warrant, and begged I would go up stairs with her. We went, and examined the pea-shells, and examined the things almost one by one before the constable came, in order to search of it could be found in her own room.</p>
+               <p>Q. Can you recollect about what time of the day it was, that you went up stairs to examine these pea-shells?</p>
+               <p>M. A. Lynch. I really cannot be positive. It was some one, I believe, in the forenoon; upon my life, I cannot say really, whether it was in the forenoon or not.</p>
+               <p>Q. How long was it before the constable came</p>
+               <p>M. A.. Lynch. Not a great while. - I can't be to a hour. We were convinced the tea-spoon was not among the pea-shells; we searched in the copper hole, and in the copper, and among the coals. This was in Mrs. Jones's room.</p>
+               <p>Q. What was done next?</p>
+               <p>M. A. Lynch. Whe the constable came, as to the hour I can't be positive, we went together into the prisoner's room; she was washing below stairs in the kitchen. Mrs. Jones concluded we had best begin in the coal-cellar; from the coal cellar, she went up into the dining-room; she examined every little place, great and small beaufet, and cupboards. The prisoner emptied her drawers of cloaths, and cleared them out, in order to let Mrs. Jones see she had not the spoon there; then the prisoner's husband would turn the bed down, and oblige her to look between the sheets. Mrs. Jones said there is no necessity at all about the sheets: she seemed to look them<xptr type="pageFacsimile" doc="176109160074"></xptr> over but slightly, and spake to that effect, that it was an unlikely place for a spoon to be between the sheets, or in the bed. Then the prisoner's husband said, I will take down the bed's teaster, but it is full of dust, if the dust is not disagreeable. Mrs. Jones observed, if not in these words, it was to this effect; that it was necessary to look over the bed, and said, what papers are them? There were papers laid over, in order to preserve from the dust projected over. There were two boxes stood one upon another upon a stool, at the head of the bed. Mrs. Jones was getting up upon these boxes, in order to look over the teaster. The constable seeing her advanced in her pregnancy, said to her, he would look; and he went to look, and it was really too high for him to see. Mrs. Jones said, I see some paper, lend me the poker, I will know what is there; I handed her the poker, then she begged me to hand her the sweeping-broom out of the passage, and it was as much as ever she could do to get at it. (Was you to see the situation of the place, you would see what I say is very reasonable.) She shoved it down; I saw it come with a greater weight than paper. I said, good God, what is that? I took it up: the prisoner said, in a mumbling manner, it is a bit of stick you have rowl'd up in a bit of paper: and when the constable opened it (it is possible I began with a great many menacing words,) she said then, that I put it there.</p>
+               <p>Q. What had you said to her?</p>
+               <p>M. A. Lynch. I spake to this effect, how she that abounded with many good things could do such a thing. In answer to that, she said I put it there: then Mrs. Jones said, you wicked woman, how could Mrs. Lynch go into my room and into your's? Then she said to Mrs. Jones, it was you yourself put it there.</p>
+               <p>Q. If I understand you right, there are two boxes upon a stool, which she got up upon; which side of the bed did they stand on?</p>
+               <p>M. A. Lynch. In going in, the bed is on the left-hand. The constable got up on this side, and the boxes stood on the opposite side, between the head of the bed and a cupboard.</p>
+               <p>Q. How near to the cupboard is the fireplace?</p>
+               <p>M. A. Lynch. A pretty good distance.</p>
+               <p>Q. Whereabouts did the constable stand?</p>
+               <p>M. A. Lynch. He 
+               <persName id="t17610916-60-person559">
+                  drew
+               <interp inst="t17610916-60-person559" type="given" value="drew"></interp>
+                     <interp inst="t17610916-60-person559" type="gender" value="male"></interp>
+                  </persName>
+             a chair, and stood upon it.</p>
+               <p>Q. You mentioned something of an attempt made by Mrs. Jones to get up, and the constable observed it was not proper for her, in her condition; did he propose for her to get up?</p>
+               <p>M. A. Lynch. It is not to be supposed Mrs. Jones could have seen from the chair upon the top of the bed.</p>
+               <p>Q. Was not Mrs. Jones upon the boxes when the constable called to her?</p>
+               <p>M. A. Lynch. I think she was; and then, upon the constable's speaking to her, he got up; to the best of my own remembrance it was in that manner.</p>
+               <p>Q. How many foot high was the room?</p>
+               <p>M. A. Lynch. I cannot tell.</p>
+               <p>A Juryman. It is not very high, I know all the houses about there, I do the business of many of them.</p>
+               <p>Q Did the tester of the bed reach to the ceiling?</p>
+               <p>M. A. Lynch. No.</p>
+               <p>Q. What distance is it from the ceiling?</p>
+               <p>M. A. Lynch. I believe it cannot be two feet distance.</p>
+               <p>Q. Was it a whole tester?</p>
+               <p>M. A. Lynch. It was a half tester bed.</p>
+               <p>Q. Could not the constable see upon the tester when upon a chair?</p>
+               <p>M. A. Lynch. He got upon the chair, and would have looked, and the tester was too high for him to see.</p>
+               <p>Q. I dare say you had your eyes upon him; was it so much too high that he could see nothing?</p>
+               <p>M. A. Lynch. I cannot remember the words the constable said, but in my opinion he could not see over to distinguish any thing clear upon it.</p>
+               <p>Q. Was it so high that he could not at all look over?</p>
+               <p>M. A. Lynch. Indeed I cannot tell.</p>
+               <p>Q. Do you remember whether he put his hand up?</p>
+               <p>M. A. Lynch. I believe he did as far as he could reach.</p>
+               <p>Q. Do you remember the constable saying any thing?</p>
+               <p>M. A. Lynch. He did say something, I cannot remember what.</p>
+               <p>Q. What might be the length of the poker?</p>
+               <p>M. A. Lynch. A common sized poker.</p>
+               <p>Q. What the length of the broom?</p>
+               <p>M. A. Lynch. It was a long sweeping brush.</p>
+               <p>Q Was not there some pleasure discovered by you when the tea-spoon fell to the floor? Do you remember your clapping your hands?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160075"></xptr>M. A. Lynch. Yes, when I saw the spoon I confess I was shocked, and believe I might clap my hands.</p>
+               <p>Q. Did you proceed to the garret after you got the spoon?</p>
+               <p>M. A. Lynch. Yes, Sir, but people cried out there was enough, we need not proceed farther. There was a box that we did not search, I blamed Mrs. Jones that she did not search that, and she blamed herself; I should have urged her to search that; and all the time we were searching, they never ceased abusing us in the most grossest manner.</p>
+
+               <p>Cross Examination.</p>
+               <p>Q. Pray, madam, how long may you and your husband have lived in Mr. Dossel's house?</p>
+               <p>M. A. Lynch. Since last Christmas was twelve months.</p>
+               <p>Q. Are you Mr. Lynch's wife?</p>
+               <p>M. A. Lynch. I am.</p>
+               <p>Q. How long have you been so?</p>
+               <p>M. A. Lynch. I have been his wife eleven years.</p>
+               <p>Q. How long have you lived with him in England?</p>
+               <p>M. A. Lynch. I have lived with him in England, I believe, six years; I am an English-woman born; I was married to Mr. Lynch in Ireland.</p>
+               <p>Q. Do not you go by another name sometimes?</p>
+               <p>M. A. Lynch. My maiden-name was Newcomb, that I go by now sometimes; my maiden-name is sometimes put to the bottoms of pamphlets.</p>
+               <p>Q. What it Mr. Lynch's employment?</p>
+               <p>M. A. Lynch. He generally goes on nights to coffee-houses with pamphlets.</p>
+               <p>Q. What does he carry his pamphlets in?</p>
+               <p>M. A. Lynch. Sometimes in a green bag.</p>
+               <p>Q. Does he not wear a green apron?</p>
+               <p>M. A. Lynch. No, he never did.</p>
+               <p>Q. Two years almost you have lived in this house of Mr. Dossel's, pray have you been upon terms of friendship all that time?</p>
+               <p>M. A. Lynch. I was going to shew you my written agreement; he rents the house at 29 l. a year, we give for our apartment 20 l.</p>
+               <p>Q. Whether Mr. Dossel and his wife, and Mr. Lynch and you, have lived in that house in friendship?</p>
+               <p>M. A. Lynch. No, we have not.</p>
+               <p>Q How long since you first began to dispute?</p>
+               <p>M. A. Lynch. I cannot tell, the last quarter he would not receive his quarter's-rent.</p>
+               <p>Q. Is it a quarter of a year since?</p>
+               <p>M. A. Lynch. I do not know indeed.</p>
+               <p>Q. Do you think it is twelve months?</p>
+               <p>M. A. Lynch. I believe not quite six months.</p>
+               <p>Q. Has there been law-suits between Mr. Dossel and Mr. Lynch?</p>
+               <p>M. A. Lynch. Yes.</p>
+               <p>Q. Was Mr. Lynch served with an ejectment?</p>
+               <p>M. A. Lynch. He was.</p>
+               <p>Q. Did he consult a lawyer about it?</p>
+               <p>M. A. Lynch. I believe he did, I believe Mr. Jones and he consulted the same lawyer.</p>
+               <p>Q. What upon the subject of the ejectment?</p>
+               <p>M. A. Lynch. Yes, I believe so.</p>
+               <p>Q. What is his name?</p>
+               <p>M. A. Lynch. Mr. Palmer, in the Temple; he never called but once at our house, and that was I believe the week before last.</p>
+               <p>Q. Had you ever had any suspicions before this of the spoon, of Mrs. Dossel's being a thief?</p>
+               <p>M. A. Lynch. Yes, some of which I found in her possession - one article.</p>
+               <p>Q. Did you ever tell Mrs. Jones of that?</p>
+               <p>M. A. Lynch. Certain.</p>
+               <p>Q. How long ago is it since you found that thing in her possession?</p>
+               <p>M. A. Lynch. It was since Mrs. Jones had lost some of her things.</p>
+               <p>Q. How long ago?</p>
+               <p>M. A. Lynch. I do not know.</p>
+               <p>Q. Can you tell to a month?</p>
+               <p>M. A. Lynch. I cannot.</p>
+               <p>Q. Was Mr. Jones served with an ejectment?</p>
+               <p>M. A. Lynch. He was, and all his family, two men lodgers.</p>
+               <p>Q. Then Mr. Dossel was very desirous of getting you all out of his house?</p>
+               <p>M. A. Lynch. Yes, all of us.</p>
+               <p>Q. Was you never desirous of getting into the place of Mr. Dossel?</p>
+               <p>M. A. Lynch. Our rooms were but very small; we give 20 l. a year for them; Mrs. Jones said, if you cannot live quiet in them, if you come to be landlord of the house, it would be most proper so.</p>
+               <p>Q. Did you write to the landlord?</p>
+               <p>M. A. Lynch. No.</p>
+               <p>Q Did you speak to the landlord, or Mr. Nurinburg, about it?</p>
+               <p>M. A. Lynch. I went there, I was willing to observe to him what the other had told me.</p>
+               <p>Q. I only want to know whether you proposed<xptr type="pageFacsimile" doc="176109160076"></xptr> to Mr. Nurinburg to take the house?</p>
+               <p>M. A. Lynch. I said, if he is willing to quit the house, I will take it. I would not live in it, though I spoke so.</p>
+               <p>Q. I should be glad to know of you, when you came to search for the spoon, whether or no you was the person that begged of Mrs. Jones, that she would not get herself upon any stools, benches, or boxes, for fear of hurting herself in the condition she was in?</p>
+               <p>M. A. Lynch. I do not remember that.</p>
+               <p>Q. Who advised Mrs. Jones not to get up?</p>
+               <p>M. A. Lynch. I believe the constable said he was afraid she would injure herself.</p>
+               <p>Q. How came she to persist in being the person to reach for it, propted up in that manner, upon two boxes upon a stool, when the constable would have reached two feet higher?</p>
+               <p>M. A. Lynch. I think Mrs. Jones got up before the constable did.</p>
+               <p>Counsel. So I think.</p>
+               <p>Q. Did she endeavour, or did she not, to reach the paper that she said she saw there?</p>
+               <p>M. A. Lynch. I think she did; she said she saw paper.</p>
+               <p>Q Do you remember whether she was able to reach this paper?</p>
+               <p>M. A. Lynch. I believe she might have tried - I don't know whether she tried or not.</p>
+               <p>Q How many times do you think she might try to reach it with her hand, before she called for the poker?</p>
+               <p>M. A. Lynch. That I cannot tell, or whether or no she might immediately judge it was out of her power to reach it with her hand.</p>
+               <p>Q. You say Mrs. Dossel said it was a bit of stick wrapped up in paper, did you hear the word stick?</p>
+               <p>M. A. Lynch. Yes, and paper too.</p>
+               <p>Q. How near was Mrs. Jones to you at that time?</p>
+               <p>M. A Lynch. As near as I am to this gentleman. [ Pointing to a person about a yard and a half distance.]</p>
+               <p>Q. What did you say to Mrs. Jones immediately upon that?</p>
+               <p>M. A. Lynch. I said, Lord, what is that? I took it up, and gave it to the constable, and desired him to open it. Then I said to Mrs. Dossel, How could you be guilty of such a thing?</p>
+               <p>Q. Upon her saying it was a bit of stick, what did you observe immediately upon that to Mrs. Dossel?</p>
+               <p>M. A. Lynch. I told her afterwards when I was more composed.</p>
+               <p>Q. Did not you say, No, you vile woman, it is not a bit of stick, it is a spoon.</p>
+               <p>M. A. Lynch. No, Sir.</p>
+               <p>Q. When you clapped your hands, was that for joy?</p>
+               <p>M. A. Lynch. I really was frighted; I was better pleased she had got it.</p>
+               <p>Counsel. Then it was joy?</p>
+               <p>M. A. Lynch. No, I cannot say it was joy; I really was frighted, notwithstanding all that.</p>
+               <p>Q Do you look upon Mr. Dossel to be a man of substance?</p>
+               <p>M. A. Lynch. That I cannot tell; the man is in a way of business; the people are capable of getting a livelihood.</p>
+               <p>Q. Have they good things about them?</p>
+               <p>M. A. Lynch. I have seen them wear very good cloaths; he has good work, which gives me reason to think they are in a very good way.</p>
+               <p>Q. When he let the bed down, did Mrs. Jones look about the bed-things?</p>
+               <p>M. A. Lynch. He said, You see I don't live dirty; I believe Mrs Jones looked under the head, and under he bolster.</p>
+               <p>Q. Did not she propose to have the bedcloaths taken off, and shaken?</p>
+               <p>M. A. Lynch. No.</p>
+               <p>Q. How came it that when Mr. Dossel proposed to take the head of the bed down, that Mrs. Jones should jump upon them boxes?</p>
+               <p>M. A. Lynch. I think Mrs. Jones said it was necessary to look over-head.</p>
+               <p>Q. Do you remember whether the constable saw a paper parcel? Or was it what projects over the bed?</p>
+               <p>M. A. Lynch. That I cannot remember.</p>
+               <p>Q. Was it before the constable said any thing, that Mrs. Jones got upon the boxes?</p>
+               <p>M. A. Lynch. I think she was upon the boxes before he spoke; I think she said, I think I see a paper here! The constable said, Stay, I will look, seeing her strive to know what it was. I think she said. Mrs. Lynch, I must know what it is? And when she could not reach it, I took the poker out of her hand, and handed her the sweeping-broom.</p>
+               <p>Q. Did you search the pockets in the cloaths?</p>
+               <p>M. A. Lynch. I do not remember we did; I will not positively say the pockets of the cloaths that were folded up were searched.</p>
+               <p>Q. Did you search the boxes that were locked up?</p>
+               <p>M. A. Lynch. No; when the spoon was found, we said there was enough to convict them, and so we did not search farther.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160077"></xptr>Q. Had you a lawyer's opinion upon what would convict them?</p>
+               <p>M. A. Lynch. No.</p>
+               <p>Q Is Mrs Dossel a foolish or sensible woman?</p>
+               <p>M. A. Lynch. I believe she understands common sense.</p>
+               <p>Counsel. Before this, you would have hardly thought her weak enough to go and steal a two shillings spoon, in order to get herself transported?</p>
+               <p>M. A. Lynch. We did not like her, and were willing to quit the premises; only we had fitted up the things, and he would not accept the short warning.</p>
+               <p>Q. Had Mr. Jones been at any expence in fixtures in his apartment?</p>
+               <p>M. A. Lynch. He had a large bench fixed up; to my knowledge he has it still, and he determined to stay for the conveniency of his work.</p>
+               <p>
+            
+                  <persName id="t17610916-60-person560">
+                  Thomas 
+                  Jones 
+               <interp inst="t17610916-60-person560" type="surname" value="Jones"></interp>
+                     <interp inst="t17610916-60-person560" type="given" value="Thomas"></interp>
+                     <interp inst="t17610916-60-person560" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable, and live in St. Martin's-in the-fields; I was applied to, to execute a search-warrant, on the 7th of July, by Mr. 
+               <persName id="t17610916-60-person561">
+                  Jones
+               <interp inst="t17610916-60-person561" type="given" value="Jones"></interp>
+                     <interp inst="t17610916-60-person561" type="gender" value="male"></interp>
+                  </persName>
+             the prosecutor. We went into Mr. Dossel's kitchen, to search for a saucepan and towels. We could not find any thing below stairs. Then Mrs Jones came up stairs. We looked in every place, the closet, coal-hole and in the pails, to see if we could find any thing wet. A careful search she made. She went up into the one-pair of stairs room and searched the drawers, and two corner-cupboards; after that two great trunks, that stood one upon another. When we came to feel about the bed, the gentleman said, I'll turn down the bed; he turned it down, Mrs. Jones looked among the cloaths, turned the pillows about, and looked under them. The gentleman said, Why don't you look upon the bed? Mrs. Jones said, I intend it. Said I, let me look up there. I stood upon a chair, but the chair was not high enough for me to look upon the tester of the bed; I could put my hand upon it, but could not see, the tester being high.</p>
+               <p>Q. How is the room?</p>
+               <p>Jones. It is pretty lofty; I felt a piece of paper, but I believe that to be what covered the tester of the bed; I am sure it was. Mrs. Jones directly stepped upon two trunks, and looked herself. I was hen looking for something higher to stand upon.</p>
+               <p>Q. Was she on the trunks before you got up upon the chair?</p>
+               <p>Jones. I did not see her there before I got up, to the best of my remembrance she did not get up before. She asked what piece of paper that was. I answered, I felt a piece of paper that covered the top of the bed, but I was not high enough to to come at it [it was a large piece of paper, to keep the dust from coming down] She asked the last witness to reach her the poker; she did. Mrs Jones said it was not long enough. Then she reached, I think, a hair-broom, and Mrs. Jones pushed a paper down, and the evidence picked it up, and gave it to me.</p>
+               <p>Q. Did she push it forward to you?</p>
+               <p>Jones. I stood just at the going in at the door, (it is a half-teaster,) I was then got down from the chair.</p>
+               <p>Q. What kind of motion was it? Did she push it right from her, or like a sweeping stroke?</p>
+               <p>Jones. She put the broom along like sweeping.</p>
+               <p>Q. How did the trunks stand?</p>
+               <p>Jones. They stood close to the wall.</p>
+               <p>Q. Did she put the broom next to the wall, and so sweep from her?</p>
+               <p>Jones. It appeared to me, to be nearer the side that I was on, than on the other side; the last evidence pick'd it up, and said, here is something in this paper, pray look at it, and gave it to me.</p>
+               <p>Q. What did the prisoner say at that time?</p>
+               <p>
+            
+                  <persName id="t17610916-60-person562">
+                  Jones 
+                  When 
+               <interp inst="t17610916-60-person562" type="surname" value="When"></interp>
+                     <interp inst="t17610916-60-person562" type="given" value="Jones"></interp>
+                     <interp inst="t17610916-60-person562" type="gender" value="male"></interp>
+                  </persName>
+             I opened the paper, and found a spoon in it, I think she said, them that can hide can find, or something to that purpose.</p>
+               <p>Q. Was it spoke plain, or with a muttering voice?</p>
+               <p>Jones. It was in a sort of a mumbling voice. Mrs. Jones had another spoon in her hand like this; and she said, that is my spoon. I have had it in my custody ever since. [Produced in court.]</p>
+               <p>Q. How was it wrapped up?</p>
+               <p>Jones. [He produced the piece of paper.] The paper was twisted at each end.</p>
+               <p>Q. When you found it to be a spoon, did Mrs. Lynch say any thing?</p>
+               <p>Jones. She clapt her hands, and said, Thank God something is found, or something to that purpose.</p>
+               <p>Q. What said Mrs. Dossel?</p>
+               <p>Jones. She said, them that hide can find.</p>
+               <p>Q. Did she say any thing else?</p>
+               <p>Jones. No, nothing more than that.</p>
+               <p>Q. Was she very impatient during the time of the search?</p>
+               <p>Jones. She was very ready to open every thing, and desired them to search every place she had.</p>
+               <p>Q. Was not she very angry?</p>
+               <p>Jones. She seemed angry when she was searching?</p>
+               <p>Q. Did she use any rough language?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176109160078"></xptr>Jones. No, none at all.</p>
+               <p>Q. Did she use any gross abusive language to you, or any body else?</p>
+               <p>Jones. Nothing of that kind; I sat down in the window while they searched the room; and when she proposed to search, then I got up.</p>
+               <p>Q. Was Mrs. Jones offering to get upon these boxes, before you did in the chair?</p>
+               <p>Jones. To the best of my knowledge, she did not. Mr. Dossel said, search the top of the bed too. He said, there were nothing but dusty papers, that would suffocate them, or else he would take it down for them.</p>
+               <p>Q. Did he appear angry?</p>
+               <p>Jones. He seemed angry that they should attempt to search his house.</p>
+               <p>Q. What else was done in that room?</p>
+               <p>Jones. Nothing particular; then we went up into the garret.</p>
+               <p>Q. Was every thing searched there?</p>
+               <p>Jones. Every thing was not searched so diligent there, it was not carried on with the same spirit.</p>
+               <p>Q. Do you recollect the words, there is enough to convict them?</p>
+               <p>Jones. Yes, that was upon finding the spoon.</p>
+               <p>Q. Was that the reason the search was not carried on with the same spirit?</p>
+               <p>Jones. The prisoner did not seem to come up after us, I cannot say what was the reason. I left them to do as they pleas'd, I only was there to keep peace, I did not search.</p>
+               <p>Cross Examination.</p>
+               <p>Q. Would it not have been extremely convenient for you, who are taller by a foot, than Mrs. Jones, to have got upon the boxes, as she is big with child?</p>
+               <p>Jones. I would have done it, but she stepped up, while I was looking for a thing that was higher than the chair.</p>
+               <p>Q. Was the paper that you felt, the paper that the spoon was in?</p>
+               <p>Jones. No, it was not; it was nothing like it. I neither felt, nor saw such; the paper I felt covered the teaster of the bed.</p>
+               <p>Q. Did you hear the murmuring by Mrs. Dossel, about a stick?</p>
+               <p>Jones. No, I did not.</p>
+               <p>Prisoner's defence.</p>
+               <p>When she came, she said, I am come to search for something fresh. I said you may, for if you hide nothing, you can find nothing. They searched the kitchen, I lighted a candle for them to see into the coal-hole. I said, do you go there to look for silver spoons? They said no, for a saucepan. They searched all the boxes, then she called the constable to step upon a chair. He did, and said, he saw nothing, only felt a bit a paper. She stepped on the other side the bed, and called for a poker, the poker was handed to her by Mrs. Lynch; that was not long enough, then she handed the sweeping broom; she pushed down a paper, Mrs. Lynch picked it up, and gave it the constable. I know nothing what was in it, nor any thing at all about it.</p>
+               <p>Counsel for Prisoner.</p>
+               <p>I have many gentlemen in court, men of property, to the prisoner's character, if required.</p>
+               <p>Foreman of the jury. My lord, we don't think it necessary to give the court any trouble about this affair; we see by the complection of the case, there is something very bad. We are of opinion, that Mrs. Jones herself put the spoon upon the prisoner's bed.</p>
+               <p>
+                  <rs id="t17610916-60-verdict314" type="verdictDescription">
+                     <interp inst="t17610916-60-verdict314" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>The jury, with Mr. Dossel, made application to the court, that a copy of the indictment be granted, in order to try the two women witnesses for a conspiracy; and a copy was granted accordingly.</p>
+            </div1>

@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-43">
+               <interp inst="t17360115-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-43" type="year" value="1736"></interp>
+               <interp inst="t17360115-43" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-43" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-43-off239-c220" targOrder="Y" targets="t17360115-43-defend318 t17360115-43-off239 t17360115-43-verdict241"></join>
+         
+               <p>49. 
+               
+                  <persName id="t17360115-43-defend318" type="defendantName">
+                     Elizabeth 
+                     Precious 
+                  <interp inst="t17360115-43-defend318" type="surname" value="Precious"></interp>
+                     <interp inst="t17360115-43-defend318" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17360115-43-defend318" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-43-defloc238">St. Luke, Middlesex</placeName>
+                  <interp inst="t17360115-43-defloc238" type="placeName" value="St. Luke, Middlesex"></interp>
+                  <interp inst="t17360115-43-defloc238" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-43-defend318 t17360115-43-defloc238"></join>, was indicted for <rs id="t17360115-43-off239" type="offenceDescription">
+                     <interp inst="t17360115-43-off239" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-43-off239" type="offenceSubcategory" value="other"></interp>
+               stealing 2 Linnen Aprons, 3 Wast-coats, 1 Hood, half a Yard of Damask, 4 Linnen Caps, and other things
+            </rs>, the Goods of 
+               
+                  <persName id="t17360115-43-victim320" type="victimName">
+                     John 
+                     Creedland 
+                  <interp inst="t17360115-43-victim320" type="surname" value="Creedland"></interp>
+                     <interp inst="t17360115-43-victim320" type="given" value="John"></interp>
+                     <interp inst="t17360115-43-victim320" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-43-off239 t17360115-43-victim320"></join>
+                  </persName>
+                
+            , <rs id="t17360115-43-cd240" type="crimeDate">January the 4th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-43-off239 t17360115-43-cd240"></join>. <rs id="t17360115-43-verdict241" type="verdictDescription">
+                     <interp inst="t17360115-43-verdict241" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-43-verdict241" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17360115-43-punish242" type="punishmentDescription">
+                     <interp inst="t17360115-43-punish242" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-43-defend318 t17360115-43-punish242"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

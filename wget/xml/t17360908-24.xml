@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360908-24">
+               <interp inst="t17360908-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360908-24" type="year" value="1736"></interp>
+               <interp inst="t17360908-24" type="uri" value="sessionsPapers/17360908"></interp>
+               <interp inst="t17360908-24" type="date" value="17360908"></interp>
+               <join result="criminalCharge" id="t17360908-24-off107-c106" targOrder="Y" targets="t17360908-24-defend161 t17360908-24-off107 t17360908-24-verdict109"></join>
+         
+               <p>30. 
+               
+                  <persName id="t17360908-24-defend161" type="defendantName">
+                     Susan 
+                     Loyd 
+                  <interp inst="t17360908-24-defend161" type="surname" value="Loyd"></interp>
+                     <interp inst="t17360908-24-defend161" type="given" value="Susan"></interp>
+                     <interp inst="t17360908-24-defend161" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360908-24-off107" type="offenceDescription">
+                     <interp inst="t17360908-24-off107" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360908-24-off107" type="offenceSubcategory" value="other"></interp>
+               stealing a pair of Buckskin Breeches, a Woman's Shift, a Linnen-Apron, and a Child's Dimity-Mantle
+            </rs>, the Goods of 
+               
+                  <persName id="t17360908-24-victim163" type="victimName">
+                     Joseph 
+                     Lary 
+                  <interp inst="t17360908-24-victim163" type="surname" value="Lary"></interp>
+                     <interp inst="t17360908-24-victim163" type="given" value="Joseph"></interp>
+                     <interp inst="t17360908-24-victim163" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360908-24-off107 t17360908-24-victim163"></join>
+                  </persName>
+                
+            , <rs id="t17360908-24-cd108" type="crimeDate">August 17th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360908-24-off107 t17360908-24-cd108"></join>. <rs id="t17360908-24-verdict109" type="verdictDescription">
+                     <interp inst="t17360908-24-verdict109" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

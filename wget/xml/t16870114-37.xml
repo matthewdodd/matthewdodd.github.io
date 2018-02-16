@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870114-37">
+               <interp inst="t16870114-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870114-37" type="year" value="1687"></interp>
+               <interp inst="t16870114-37" type="uri" value="sessionsPapers/16870114"></interp>
+               <interp inst="t16870114-37" type="date" value="16870114"></interp>
+               <join result="criminalCharge" id="t16870114-37-off183-c125" targOrder="Y" targets="t16870114-37-defend195 t16870114-37-off183 t16870114-37-verdict184"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870114-37-defend195" type="defendantName">
+                     James 
+                     Grimstone
+                  <interp inst="t16870114-37-defend195" type="surname" value="Grimstone"></interp>
+                     <interp inst="t16870114-37-defend195" type="given" value="James"></interp>
+                     <interp inst="t16870114-37-defend195" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t16870114-37-off183" type="offenceDescription">
+                     <interp inst="t16870114-37-off183" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870114-37-off183" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Brass Candlestick and a Save-all, value 3 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t16870114-37-victim197" type="victimName">
+                     John 
+                     Parsey
+                  <interp inst="t16870114-37-victim197" type="surname" value="Parsey"></interp>
+                     <interp inst="t16870114-37-victim197" type="given" value="John"></interp>
+                     <interp inst="t16870114-37-victim197" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870114-37-off183 t16870114-37-victim197"></join>
+                  </persName>
+               
+            : The Evidence against the Prisoner, said, that he came in at the Window, and took away the Candlestick from off the Table; but another person was in his Company, who carryed it; yet notwithstanding, he was brought in <rs id="t16870114-37-verdict184" type="verdictDescription">
+                     <interp inst="t16870114-37-verdict184" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870114-37-verdict184" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870114-37-punish185" type="punishmentDescription">
+                     <interp inst="t16870114-37-punish185" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870114-37-punish185" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870114-37-defend195 t16870114-37-punish185"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

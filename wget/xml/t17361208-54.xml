@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17361208-54">
+               <interp inst="t17361208-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17361208-54" type="year" value="1736"></interp>
+               <interp inst="t17361208-54" type="uri" value="sessionsPapers/17361208"></interp>
+               <interp inst="t17361208-54" type="date" value="17361208"></interp>
+               <join result="criminalCharge" id="t17361208-54-off286-c301" targOrder="Y" targets="t17361208-54-defend436 t17361208-54-off286 t17361208-54-verdict288"></join>
+         
+               <p>72. 
+               
+                  <persName id="t17361208-54-defend436" type="defendantName">
+                     Joshua 
+                     Broughton 
+                  <interp inst="t17361208-54-defend436" type="surname" value="Broughton"></interp>
+                     <interp inst="t17361208-54-defend436" type="given" value="Joshua"></interp>
+                     <interp inst="t17361208-54-defend436" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17361208-54-off286" type="offenceDescription">
+                     <interp inst="t17361208-54-off286" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17361208-54-off286" type="offenceSubcategory" value="theftFromPlace"></interp>
+               cutting and stealing two Yards and 3 quars. of Cloth, value 30 s. from certain Racks and Tenters
+            </rs>, the Goods of 
+               
+                  <persName id="t17361208-54-victim438" type="victimName">
+                     Gabriel 
+                     Fowase 
+                  <interp inst="t17361208-54-victim438" type="surname" value="Fowase"></interp>
+                     <interp inst="t17361208-54-victim438" type="given" value="Gabriel"></interp>
+                     <interp inst="t17361208-54-victim438" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17361208-54-off286 t17361208-54-victim438"></join>
+                  </persName>
+                
+            , <rs id="t17361208-54-cd287" type="crimeDate">Feb. 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17361208-54-off286 t17361208-54-cd287"></join>. <rs id="t17361208-54-verdict288" type="verdictDescription">
+                     <interp inst="t17361208-54-verdict288" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

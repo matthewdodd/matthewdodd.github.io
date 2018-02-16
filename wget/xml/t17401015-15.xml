@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17401015-15">
+               <interp inst="t17401015-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17401015-15" type="year" value="1740"></interp>
+               <interp inst="t17401015-15" type="uri" value="sessionsPapers/17401015"></interp>
+               <interp inst="t17401015-15" type="date" value="17401015"></interp>
+               <join result="criminalCharge" id="t17401015-15-off77-c90" targOrder="Y" targets="t17401015-15-defend110 t17401015-15-off77 t17401015-15-verdict80"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="174010150007"></xptr>448. 
+               
+                  <persName id="t17401015-15-defend110" type="defendantName">
+                     John 
+                     Stephens 
+                  <interp inst="t17401015-15-defend110" type="surname" value="Stephens"></interp>
+                     <interp inst="t17401015-15-defend110" type="given" value="John"></interp>
+                     <interp inst="t17401015-15-defend110" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17401015-15-defloc76">St Paul Covent-Garden</placeName>
+                  <interp inst="t17401015-15-defloc76" type="placeName" value="St Paul Covent-Garden"></interp>
+                  <interp inst="t17401015-15-defloc76" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17401015-15-defend110 t17401015-15-defloc76"></join>, was indicted for <rs id="t17401015-15-off77" type="offenceDescription">
+                     <interp inst="t17401015-15-off77" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17401015-15-off77" type="offenceSubcategory" value="other"></interp>
+               stealing a Haunch of Venison, 1 piece of Beef, a Spring of Pork, 6 brass Cocks, and a Cheese
+            </rs>, the Goods of 
+               <persName id="t17401015-15-victim111" type="victimName">
+                  John 
+                  Smith 
+               <interp inst="t17401015-15-victim111" type="surname" value="Smith"></interp>
+                     <interp inst="t17401015-15-victim111" type="given" value="John"></interp>
+                     <interp inst="t17401015-15-victim111" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17401015-15-off77 t17401015-15-victim111"></join>
+                  </persName>
+             , <rs id="t17401015-15-cd78" type="crimeDate">Sept. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17401015-15-off77 t17401015-15-cd78"></join>.</p>
+               <p>John Smith. I <rs id="t17401015-15-viclabel79" type="occupation">keep a Publick-house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17401015-15-victim111 t17401015-15-viclabel79"></join>: On the 7th of September, about one or two in the Morning, my Cellar was broke open, and I lost the Goods mentioned in the Indictment: The Prisoner was taken with them upon him, and before the Justice he said, he found them among the Trees at Covent-Garden.</p>
+               <p>
+            
+                  <persName id="t17401015-15-person112">
+                  Thomas 
+                  Moore 
+               <interp inst="t17401015-15-person112" type="surname" value="Moore"></interp>
+                     <interp inst="t17401015-15-person112" type="given" value="Thomas"></interp>
+                     <interp inst="t17401015-15-person112" type="gender" value="male"></interp>
+                  </persName>
+            . I took the Prisoner that Night, on Suspicion of stealing these Things: I asked him how he came by them, and he said, he found them, and was going about his Master's Business; but he would not tell who his Master was, and at my Peril I might touch him. <rs id="t17401015-15-verdict80" type="verdictDescription">
+                     <interp inst="t17401015-15-verdict80" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17401015-15-punish81" type="punishmentDescription">
+                     <interp inst="t17401015-15-punish81" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17401015-15-defend110 t17401015-15-punish81"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,159 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17441205-28">
+               <interp inst="t17441205-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17441205-28" type="year" value="1744"></interp>
+               <interp inst="t17441205-28" type="uri" value="sessionsPapers/17441205"></interp>
+               <interp inst="t17441205-28" type="date" value="17441205"></interp>
+               <join result="criminalCharge" id="t17441205-28-off177-c232" targOrder="Y" targets="t17441205-28-defend292 t17441205-28-off177 t17441205-28-verdict182"></join>
+               <join result="criminalCharge" id="t17441205-28-off177-c233" targOrder="Y" targets="t17441205-28-defend294 t17441205-28-off177 t17441205-28-verdict182"></join>
+         
+               <p>40, 41. + 
+               
+                  <persName id="t17441205-28-defend292" type="defendantName">
+                     William 
+                     Bailey 
+                  <interp inst="t17441205-28-defend292" type="surname" value="Bailey"></interp>
+                     <interp inst="t17441205-28-defend292" type="given" value="William"></interp>
+                     <interp inst="t17441205-28-defend292" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17441205-28-defend294" type="defendantName">
+                     Rebecca 
+                     Brown 
+                  <interp inst="t17441205-28-defend294" type="surname" value="Brown"></interp>
+                     <interp inst="t17441205-28-defend294" type="given" value="Rebecca"></interp>
+                     <interp inst="t17441205-28-defend294" type="gender" value="female"></interp>
+                  </persName>
+                
+            , of <placeName id="t17441205-28-defloc176">St. James, Westminster</placeName>
+                  <interp inst="t17441205-28-defloc176" type="placeName" value="St. James, Westminster"></interp>
+                  <interp inst="t17441205-28-defloc176" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-28-defend292 t17441205-28-defloc176"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-28-defend294 t17441205-28-defloc176"></join>, were indicted for <rs id="t17441205-28-off177" type="offenceDescription">
+                     <interp inst="t17441205-28-off177" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17441205-28-off177" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     <persName id="t17441205-28-victim295" type="victimName">
+                        Alice
+                         the 
+                        <rs id="t17441205-28-viclabel178" type="occupation">wife</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17441205-28-victim295 t17441205-28-viclabel178"></join> of 
+                           <persName id="t17441205-28-person296" type="victimName">
+                              
+                                 <persName id="t17441205-28-victim297" type="victimName">
+                                    George 
+                                    Ellwood 
+                                 <interp inst="t17441205-28-victim297" type="surname" value="Ellwood"></interp>
+                              <interp inst="t17441205-28-victim297" type="given" value="George"></interp>
+                              <interp inst="t17441205-28-victim297" type="gender" value="male"></interp>
+                           </persName>
+                               
+                           <interp inst="t17441205-28-person296" type="surname" value="Ellwood"></interp>
+                           <interp inst="t17441205-28-person296" type="given" value="George"></interp>
+                           <interp inst="t17441205-28-person296" type="gender" value="male"></interp>
+                        </persName>
+                        
+                        <interp inst="t17441205-28-victim295" type="surname" value="the"></interp>
+                        <interp inst="t17441205-28-victim295" type="given" value="Alice"></interp>
+                        <interp inst="t17441205-28-victim295" type="gender" value="female"></interp>
+                     </persName>
+                  , on the King's highway, putting her in fear, &amp;c. and taking from her a pocket, value 2 d. and eight shillings in money, the property of 
+                     <persName id="t17441205-28-person298">
+                        George 
+                        Ellwood 
+                     <interp inst="t17441205-28-person298" type="surname" value="Ellwood"></interp>
+                        <interp inst="t17441205-28-person298" type="given" value="George"></interp>
+                        <interp inst="t17441205-28-person298" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17441205-28-cd179" type="crimeDate">November the 9th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-28-off177 t17441205-28-cd179"></join>.</p>
+               <p>
+            
+                  <persName id="t17441205-28-person299">
+                  Alice 
+                  Ellwood 
+               <interp inst="t17441205-28-person299" type="surname" value="Ellwood"></interp>
+                     <interp inst="t17441205-28-person299" type="given" value="Alice"></interp>
+                     <interp inst="t17441205-28-person299" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17441205-28-crimeloc180">Peter's-street, Old Soho</placeName>
+                  <interp inst="t17441205-28-crimeloc180" type="placeName" value="Peter's-street, Old Soho"></interp>
+                  <interp inst="t17441205-28-crimeloc180" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-28-off177 t17441205-28-crimeloc180"></join>; the two Prisoners came into my shop; the woman prisoner said the man prisoner was a street robber, and robbed a man in St. James's; he wanted a half penny-worth of pease porridge, and that woman called me a great many names, because I would not let him have any; and they both dragged me out into the street by the hair of my head; I did not miss my pocket then, though I felt it rent; I run in my hair to Sir 
+               <persName id="t17441205-28-person300">
+                  Thomas 
+                  Deveil 
+               <interp inst="t17441205-28-person300" type="surname" value="Deveil"></interp>
+                     <interp inst="t17441205-28-person300" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-28-person300" type="gender" value="male"></interp>
+                  </persName>
+            's, and I got eleven pence from one of my acquaintance (who is hired to swear against me) to get a warrant; - I did not know but there had been a shilling, till the Justice's Clerk told it over.</p>
+               <p>Q. When did you miss your pocket?</p>
+
+               <p>Ellwood. I missed it before I went the length of the street.</p>
+               <p>Q. How much money had you in it?</p>
+               <p>Ellwood. There were eight shillings, and some half-pence. - My husband is a <rs id="t17441205-28-viclabel181" type="occupation">chair-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-28-person296 t17441205-28-viclabel181"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-28-victim297 t17441205-28-viclabel181"></join>.</p>
+               <p>Coun. What business are you?</p>
+               <p>Ellwood. I keep a house of lodgers.</p>
+               <p>Coun. I thought they came to buy something of you; what do you sell?</p>
+               <p>Ellwood. I sell pease porridge and sheeps heads.</p>
+               <p>Coun. Had not you quarrelled with the man prisoner before?</p>
+               <p>Ellwood. I never had, but I was advised not to let him come into my house, for he used to make it his business to fire swan-shot at the neighbours windows, and I have seen him do it.</p>
+               <p>Q. Did you call out?</p>
+               <p>Ellwood. Yes.</p>
+               <p>Q. Did any body come to your assistance?</p>
+               <p>Ellwood. No.</p>
+               <p>Coun. Did you know the Prisoners before?</p>
+               <p>Ellwood. they lived in a place near me, he has come and broke my shop windows open.</p>
+               <p>
+            
+                  <persName id="t17441205-28-person301">
+                  James 
+                  Robinson 
+               <interp inst="t17441205-28-person301" type="surname" value="Robinson"></interp>
+                     <interp inst="t17441205-28-person301" type="given" value="James"></interp>
+                     <interp inst="t17441205-28-person301" type="gender" value="male"></interp>
+                  </persName>
+            . The Prosecutrix came to my house, with a search warrant, to serve upon the prisoners, and I found them in Peter's-street, next door to where the Prosecutrix lives.</p>
+               <p>
+            
+                  <persName id="t17441205-28-person302">
+                  George 
+                  Appleby 
+               <interp inst="t17441205-28-person302" type="surname" value="Appleby"></interp>
+                     <interp inst="t17441205-28-person302" type="given" value="George"></interp>
+                     <interp inst="t17441205-28-person302" type="gender" value="male"></interp>
+                  </persName>
+            . This woman [Ellwood] came to me, as being Constable last year, to inform her where she might find a Constable: I went with her to the Constable, and we took the prisoners within a door or two or Ellwood's house.</p>
+               <p>
+            
+                  <persName id="t17441205-28-person303">
+                  Patrick 
+                  Henley 
+               <interp inst="t17441205-28-person303" type="surname" value="Henley"></interp>
+                     <interp inst="t17441205-28-person303" type="given" value="Patrick"></interp>
+                     <interp inst="t17441205-28-person303" type="gender" value="male"></interp>
+                  </persName>
+            . I was drinking in a house at the backside of Oxford Row, the Prosecutrix came in there, and said, she had sent two prisoners to goal, for they had knocked her down, and took her pocket off; and in the said house before witnesses she said, they did not take any thing from her.</p>
+               <p>Q. How long time was it between her saying, they had knocked her down and robbed her, and her saying, that they took nothing from her?</p>
+               <p>Henley. But a little time - about half an hour. I asked her how she could in conscience swear that, and she said she did it out of vexation for their abusing her.</p>
+               <p>
+            
+                  <persName id="t17441205-28-person304">
+                  Dorothy 
+                  Walker 
+               <interp inst="t17441205-28-person304" type="surname" value="Walker"></interp>
+                     <interp inst="t17441205-28-person304" type="given" value="Dorothy"></interp>
+                     <interp inst="t17441205-28-person304" type="gender" value="female"></interp>
+                  </persName>
+            . On the 9th of November, in Sir Thomas De Veil's passage, I asked Ellwood, how she could swear against the Prisoners, to for-swear herself. The answer she made was, she was sorry for what she had done, but it was out of her power to recal it; but, said she, if I had not sworn a robbery against them, they would have sworn one against me. <rs id="t17441205-28-verdict182" type="verdictDescription">
+                     <interp inst="t17441205-28-verdict182" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

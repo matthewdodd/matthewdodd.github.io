@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17470604-23">
+               <interp inst="t17470604-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17470604-23" type="year" value="1747"></interp>
+               <interp inst="t17470604-23" type="uri" value="sessionsPapers/17470604"></interp>
+               <interp inst="t17470604-23" type="date" value="17470604"></interp>
+               <join result="criminalCharge" id="t17470604-23-off88-c227" targOrder="Y" targets="t17470604-23-defend270 t17470604-23-off88 t17470604-23-verdict90"></join>
+         
+               <p>256. 
+               
+                  <persName id="t17470604-23-defend270" type="defendantName">
+                     Lydia 
+                     Taylor 
+                  <interp inst="t17470604-23-defend270" type="surname" value="Taylor"></interp>
+                     <interp inst="t17470604-23-defend270" type="given" value="Lydia"></interp>
+                     <interp inst="t17470604-23-defend270" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17470604-23-off88" type="offenceDescription">
+                     <interp inst="t17470604-23-off88" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17470604-23-off88" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five Linen Sheets , value 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17470604-23-victim272" type="victimName">
+                     Richard 
+                     Akerman 
+                  <interp inst="t17470604-23-victim272" type="surname" value="Akerman"></interp>
+                     <interp inst="t17470604-23-victim272" type="given" value="Richard"></interp>
+                     <interp inst="t17470604-23-victim272" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17470604-23-off88 t17470604-23-victim272"></join>
+                  </persName>
+                
+             .</p>
+               <p>Q. to Eliz. Akerman. What have you say against the Prisoner.</p>
+               <p>Akerman. My Lord, she liv'd with me as a <rs id="t17470604-23-deflabel89" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17470604-23-defend270 t17470604-23-deflabel89"></join> two Years and a half, and I lost a great many things; but I could not know who to charge it upon: About a Fortnight ago I had some Intelligence , and found five Sheets at the Pawn-broker's.</p>
+               <p>Q. Who was the Pawn-broker ?</p>
+               <p>Akerman. 
+               <persName id="t17470604-23-person273">
+                  Tho 
+                  Harrison 
+               <interp inst="t17470604-23-person273" type="surname" value="Harrison"></interp>
+                     <interp inst="t17470604-23-person273" type="given" value="Tho"></interp>
+                     <interp inst="t17470604-23-person273" type="gender" value="male"></interp>
+                  </persName>
+             .</p>
+               <p>
+            
+                  <persName id="t17470604-23-person274">
+                  Tho 
+                  Harrison 
+               <interp inst="t17470604-23-person274" type="surname" value="Harrison"></interp>
+                     <interp inst="t17470604-23-person274" type="given" value="Tho"></interp>
+                     <interp inst="t17470604-23-person274" type="gender" value="male"></interp>
+                  </persName>
+            . On the 2d of May last the Prisoner brought me as many Goods to pledge which came to 10 l. 5 s. Moreover , she brought another Person with her, that I have known for several Years .</p>
+               <p>Q. Who is he?</p>
+               <p>Harrison . He is a Watch-maker, his Name is Dix ; had it not been for him I should not have taken the things in, there was a very good Silk Gown , new Pink colour'd Damask Shoes, a Quilt of a Bed , &amp;c.</p>
+
+               <p>The Prisoner had nothing to say for herself.</p>
+               <p>
+                  <rs id="t17470604-23-verdict90" type="verdictDescription">
+                     <interp inst="t17470604-23-verdict90" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17470604-23-verdict90" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17470604-23-punish91" type="punishmentDescription">
+                     <interp inst="t17470604-23-punish91" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17470604-23-punish91" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17470604-23-defend270 t17470604-23-punish91"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

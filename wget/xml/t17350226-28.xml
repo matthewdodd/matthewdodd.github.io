@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-28">
+               <interp inst="t17350226-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-28" type="year" value="1735"></interp>
+               <interp inst="t17350226-28" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-28" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-28-off144-c145" targOrder="Y" targets="t17350226-28-defend218 t17350226-28-off144 t17350226-28-verdict146"></join>
+               <join result="criminalCharge" id="t17350226-28-off144-c146" targOrder="Y" targets="t17350226-28-person219 t17350226-28-off144 t17350226-28-verdict146"></join>
+               <join result="criminalCharge" id="t17350226-28-off144-c147" targOrder="Y" targets="t17350226-28-defend220 t17350226-28-off144 t17350226-28-verdict146"></join>
+         
+               <p>19. 
+               <persName id="t17350226-28-defend218" type="defendantName">
+                  
+                     <persName id="t17350226-28-person219" type="defendantName">
+                        
+                           <persName id="t17350226-28-defend220" type="defendantName">
+                              Thomas 
+                              Martin 
+                           <interp inst="t17350226-28-defend220" type="surname" value="Martin"></interp>
+                           <interp inst="t17350226-28-defend220" type="given" value="Thomas"></interp>
+                           <interp inst="t17350226-28-defend220" type="gender" value="male"></interp>
+                        </persName>
+                         
+                        <interp inst="t17350226-28-person219" type="surname" value="Martin"></interp>
+                        <interp inst="t17350226-28-person219" type="given" value="Thomas"></interp>
+                        <interp inst="t17350226-28-person219" type="gender" value="male"></interp>
+                     </persName>
+                   and Elizabeth
+                   his 
+                  <rs id="t17350226-28-deflabel143" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17350226-28-defend218 t17350226-28-deflabel143"></join>
+                     <interp inst="t17350226-28-defend218" type="surname" value="Martin"></interp>
+                     <interp inst="t17350226-28-defend218" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17350226-28-defend218" type="gender" value="female"></interp>
+                  </persName>
+             were indicted for <rs id="t17350226-28-off144" type="offenceDescription">
+                     <interp inst="t17350226-28-off144" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350226-28-off144" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Game Cock, value 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17350226-28-victim222" type="victimName">
+                     Edward 
+                     Smith 
+                  <interp inst="t17350226-28-victim222" type="surname" value="Smith"></interp>
+                     <interp inst="t17350226-28-victim222" type="given" value="Edward"></interp>
+                     <interp inst="t17350226-28-victim222" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350226-28-off144 t17350226-28-victim222"></join>
+                  </persName>
+                
+            , <rs id="t17350226-28-cd145" type="crimeDate">Decem. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350226-28-off144 t17350226-28-cd145"></join>. <rs id="t17350226-28-verdict146" type="verdictDescription">
+                     <interp inst="t17350226-28-verdict146" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

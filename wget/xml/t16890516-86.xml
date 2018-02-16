@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-86">
+               <interp inst="t16890516-86" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-86" type="year" value="1689"></interp>
+               <interp inst="t16890516-86" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-86" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-86-off382-c235" targOrder="Y" targets="t16890516-86-defend384 t16890516-86-off382 t16890516-86-verdict385"></join>
+         
+               <p>
+            
+                  <persName id="t16890516-86-defend384" type="defendantName">
+                  T - 
+                  H
+               <interp inst="t16890516-86-defend384" type="surname" value="H"></interp>
+                     <interp inst="t16890516-86-defend384" type="given" value="T -"></interp>
+                     <interp inst="t16890516-86-defend384" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16890516-86-off382" type="offenceDescription">
+                     <interp inst="t16890516-86-off382" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-86-off382" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, in stealing a Stone Horse value 50 l. from 
+                     
+                        <persName id="t16890516-86-victim386" type="victimName">
+                           William 
+                           Paston
+                        <interp inst="t16890516-86-victim386" type="surname" value="Paston"></interp>
+                        <interp inst="t16890516-86-victim386" type="given" value="William"></interp>
+                        <interp inst="t16890516-86-victim386" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   
+                     <rs id="t16890516-86-viclabel383" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16890516-86-victim386 t16890516-86-viclabel383"></join> and breaking the Stable of 
+                     
+                        <persName id="t16890516-86-victim388" type="victimName">
+                           Thomas 
+                           Rogers
+                        <interp inst="t16890516-86-victim388" type="surname" value="Rogers"></interp>
+                        <interp inst="t16890516-86-victim388" type="given" value="Thomas"></interp>
+                        <interp inst="t16890516-86-victim388" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  
+               
+                  </rs> on the <rs id="t16890516-86-cd384" type="crimeDate">25th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-86-off382 t16890516-86-cd384"></join> last. The Prisoner was seen to have the Horse in his custody, but being stopt, the Horse was owned by Mr. Rogers to be Mr. Paston's, William denied it upon the Tryal, and said, That he was afrighted, and in Drink, and knew not what be did. The Jury brought him <rs id="t16890516-86-verdict385" type="verdictDescription">
+                     <interp inst="t16890516-86-verdict385" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16890516-86-verdict385" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of stealing the Horse, but discharged him of the Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t16890516-86-punish386" type="punishmentDescription">
+                     <interp inst="t16890516-86-punish386" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-86-defend384 t16890516-86-punish386"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

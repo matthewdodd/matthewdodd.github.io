@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891211-35">
+               <interp inst="t16891211-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891211-35" type="year" value="1689"></interp>
+               <interp inst="t16891211-35" type="uri" value="sessionsPapers/16891211"></interp>
+               <interp inst="t16891211-35" type="date" value="16891211"></interp>
+               <join result="criminalCharge" id="t16891211-35-off155-c112" targOrder="Y" targets="t16891211-35-defend170 t16891211-35-off155 t16891211-35-verdict158"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16891211-35-defend170" type="defendantName">
+                     John 
+                     Anderson
+                  <interp inst="t16891211-35-defend170" type="surname" value="Anderson"></interp>
+                     <interp inst="t16891211-35-defend170" type="given" value="John"></interp>
+                     <interp inst="t16891211-35-defend170" type="gender" value="male"></interp>
+                  </persName>
+               
+             was tryed for <rs id="t16891211-35-off155" type="offenceDescription">
+                     <interp inst="t16891211-35-off155" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16891211-35-off155" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a walking Cane value 10 s. on the <rs id="t16891211-35-cd156" type="crimeDate">7th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16891211-35-off155 t16891211-35-cd156"></join> from 
+                     <persName id="t16891211-35-victim171" type="victimName">
+                        George 
+                        Hill
+                     <interp inst="t16891211-35-victim171" type="surname" value="Hill"></interp>
+                        <interp inst="t16891211-35-victim171" type="given" value="George"></interp>
+                        <interp inst="t16891211-35-victim171" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16891211-35-off155 t16891211-35-victim171"></join>
+                     </persName>
+                   of <placeName id="t16891211-35-crimeloc157">Foster-lane</placeName>
+                     <interp inst="t16891211-35-crimeloc157" type="placeName" value="Foster-lane"></interp>
+                     <interp inst="t16891211-35-crimeloc157" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16891211-35-off155 t16891211-35-crimeloc157"></join>. The Prosecutor deposed, that he came into the Shop with another Man to cheapen some Buckles, and the other Man took away the Cane
+            </rs>; yet he being in company, was found <rs id="t16891211-35-verdict158" type="verdictDescription">
+                     <interp inst="t16891211-35-verdict158" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+            </div1>

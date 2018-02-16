@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620714-19">
+               <interp inst="t17620714-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620714-19" type="year" value="1762"></interp>
+               <interp inst="t17620714-19" type="uri" value="sessionsPapers/17620714"></interp>
+               <interp inst="t17620714-19" type="date" value="17620714"></interp>
+               <join result="criminalCharge" id="t17620714-19-off80-c134" targOrder="Y" targets="t17620714-19-defend170 t17620714-19-off80 t17620714-19-verdict82"></join>
+         
+               <p>194. (M.) 
+               
+                  <persName id="t17620714-19-defend170" type="defendantName">
+                     Richard
+                      M'Gee
+                  <interp inst="t17620714-19-defend170" type="surname" value="M'Gee"></interp>
+                     <interp inst="t17620714-19-defend170" type="given" value="Richard"></interp>
+                     <interp inst="t17620714-19-defend170" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for the <rs id="t17620714-19-off80" type="offenceDescription">
+                     <interp inst="t17620714-19-off80" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17620714-19-off80" type="offenceSubcategory" value="murder"></interp>
+               wilful murder of 
+                     <persName id="t17620714-19-victim171" type="victimName">
+                        Rose
+                         his 
+                        <rs id="t17620714-19-viclabel81" type="occupation">wife</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17620714-19-victim171 t17620714-19-viclabel81"></join>
+                        <interp inst="t17620714-19-victim171" type="surname" value="his"></interp>
+                        <interp inst="t17620714-19-victim171" type="given" value="Rose"></interp>
+                        <interp inst="t17620714-19-victim171" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17620714-19-off80 t17620714-19-victim171"></join>
+                     </persName>
+                  
+               
+                  </rs>: he likewise stood charged on the coroner's inquest for manslaughter.</p>
+               <p>
+            
+                  <persName id="t17620714-19-person172">
+                  John 
+                  Blane 
+               <interp inst="t17620714-19-person172" type="surname" value="Blane"></interp>
+                     <interp inst="t17620714-19-person172" type="given" value="John"></interp>
+                     <interp inst="t17620714-19-person172" type="gender" value="male"></interp>
+                  </persName>
+            . I am a shoemaker, and live in Rosemary Lane. I saw the prisoner at Sparrow's Corner, Little Tower Hill, on the ninth of June, between the hours of eight and nine: he had a piece of bacon in his hand. His wife was standing by a crowd of people; he went up to her, and desired her to buy a piece of liver to eat with the bacon for supper. She was very drunk, and so was he. She had fell down several times. She cursed and swore most prodigiously. A cart loaded with green beans was coming along Tower Hill to cross the kennel; as the cart was come near them, he gave her a blow, and she fell; the wheel run over her he stooped as though he intended to catch her up: as soon as the wheel was gone over her, he ran to lay hold of the driver.</p>
+               <p>
+                  <rs id="t17620714-19-verdict82" type="verdictDescription">
+                     <interp inst="t17620714-19-verdict82" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17620714-19-verdict82" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty, Manslaughter
+            </rs>. <rs id="t17620714-19-punish83" type="punishmentDescription">
+                     <interp inst="t17620714-19-punish83" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17620714-19-punish83" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17620714-19-defend170 t17620714-19-punish83"></join>
+               B
+            </rs>.</p>
+            </div1>

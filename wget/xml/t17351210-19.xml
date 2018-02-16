@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-19">
+               <interp inst="t17351210-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-19" type="year" value="1735"></interp>
+               <interp inst="t17351210-19" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-19" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-19-off81-c92" targOrder="Y" targets="t17351210-19-defend133 t17351210-19-off81 t17351210-19-verdict83"></join>
+         
+               <p>24 
+               
+                  <persName id="t17351210-19-defend133" type="defendantName">
+                     John 
+                     Alder 
+                  <interp inst="t17351210-19-defend133" type="surname" value="Alder"></interp>
+                     <interp inst="t17351210-19-defend133" type="given" value="John"></interp>
+                     <interp inst="t17351210-19-defend133" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17351210-19-off81" type="offenceDescription">
+                     <interp inst="t17351210-19-off81" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-19-off81" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing seventy yards of Sarcenet, value 5l. the Goods of 
+                     
+                        <persName id="t17351210-19-victim135" type="victimName">
+                           Francis 
+                           Sirr 
+                        <interp inst="t17351210-19-victim135" type="surname" value="Sirr"></interp>
+                        <interp inst="t17351210-19-victim135" type="given" value="Francis"></interp>
+                        <interp inst="t17351210-19-victim135" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17351210-19-off81 t17351210-19-victim135"></join>
+                     </persName>
+                      
+                  , in his Shop
+            </rs> 
+                  <rs id="t17351210-19-cd82" type="crimeDate">Nov. 18th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-19-off81 t17351210-19-cd82"></join>.</p>
+               <p>
+            
+                  <persName id="t17351210-19-person136">
+                  John 
+                  Sirr 
+               <interp inst="t17351210-19-person136" type="surname" value="Sirr"></interp>
+                     <interp inst="t17351210-19-person136" type="given" value="John"></interp>
+                     <interp inst="t17351210-19-person136" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the Prisoner go out of my Father's Shop, with two Pieces of Sarcenet, under his Arm. I followed and said, Hey Master ! upon which he ran, and threw the Goods in the Channel, I pursued and took him</p>
+               <p>
+            
+                  <persName id="t17351210-19-person137">
+                  Joshua 
+                  Thompson 
+               <interp inst="t17351210-19-person137" type="surname" value="Thompson"></interp>
+                     <interp inst="t17351210-19-person137" type="given" value="Joshua"></interp>
+                     <interp inst="t17351210-19-person137" type="gender" value="male"></interp>
+                  </persName>
+             I was in my Shop behind St. Clements, and hearing a Noise, I stept out and saw the Prisoner Running I did not see throw the pieces away, but I saw them roll into the Kennel.</p>
+               <p>The Prisoner did not deny the Fact, but said, this was his first Offence, and called five Witnesses to his Character. They depos'd they had known him several Years, that they always thought him very Honest, till may heard of this Affair, at which they were greatly surprised.</p>
+               <p>The Jury found him <rs id="t17351210-19-verdict83" type="verdictDescription">
+                     <interp inst="t17351210-19-verdict83" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17351210-19-punish84" type="punishmentDescription">
+                     <interp inst="t17351210-19-punish84" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-19-defend133 t17351210-19-punish84"></join>
+               Death
+            </rs>.</p>
+            </div1>

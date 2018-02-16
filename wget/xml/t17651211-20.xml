@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-20">
+               <interp inst="t17651211-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-20" type="year" value="1765"></interp>
+               <interp inst="t17651211-20" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-20" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-20-off122-c167" targOrder="Y" targets="t17651211-20-defend214 t17651211-20-off122 t17651211-20-verdict125"></join>
+         
+               <p>24. (M.) 
+               
+                  <persName id="t17651211-20-defend214" type="defendantName">
+                     Timothy 
+                     Drew , otherwise <rs id="t17651211-20-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17651211-20-defend214 t17651211-20-alias-5"></join>Drake</rs>
+                     <interp inst="t17651211-20-defend214" type="surname" value="Drew"></interp>
+                     <interp inst="t17651211-20-defend214" type="given" value="Timothy"></interp>
+                     <interp inst="t17651211-20-defend214" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17651211-20-off122" type="offenceDescription">
+                     <interp inst="t17651211-20-off122" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-20-off122" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a copper coffee pot, value 18 d.
+            </rs> the property of 
+               
+                  <persName id="t17651211-20-victim216" type="victimName">
+                     William 
+                     Johnson 
+                  <interp inst="t17651211-20-victim216" type="surname" value="Johnson"></interp>
+                     <interp inst="t17651211-20-victim216" type="given" value="William"></interp>
+                     <interp inst="t17651211-20-victim216" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651211-20-off122 t17651211-20-victim216"></join>
+                  </persName>
+                
+            , <rs id="t17651211-20-cd123" type="crimeDate">November 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-20-off122 t17651211-20-cd123"></join>. *</p>
+               <p>
+            
+                  <persName id="t17651211-20-person217">
+                  Anne 
+                  Johnson 
+               <interp inst="t17651211-20-person217" type="surname" value="Johnson"></interp>
+                     <interp inst="t17651211-20-person217" type="given" value="Anne"></interp>
+                     <interp inst="t17651211-20-person217" type="gender" value="female"></interp>
+                  </persName>
+            . My husband's name is William: we live at the <placeName id="t17651211-20-crimeloc124">Swan and Two Necks in Tothill-street</placeName>
+                  <interp inst="t17651211-20-crimeloc124" type="placeName" value="Swan and Two Necks in Tothill-street"></interp>
+                  <interp inst="t17651211-20-crimeloc124" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-20-off122 t17651211-20-crimeloc124"></join>: the prisoner came to our house on the 23d of last month, and desired a bed for a night: he said he had lodgings at Newington, but was benighted, and could not get home: I let him lie there; I looked upon him to be an old decayed gentleman: after that, he said he had a little business to transact, and desired to stay a few days: he came in the name of Drake, but we found his name was Drew: he staid till Thursday night, and on the Friday my maid missed a copper coffee-pot. I, hearing the prisoner had sold some things to Mr. Herring, a broker, went there and found my coffee-pot.</p>
+               <p>Mr. Herring. I live in the Broad-way: I am a brazier and broker; on the 29th of November I bought this coffee-pot of the prisoner (produced and deposed to).</p>
+               <p>The prisoner in his defence showed a good deal of insanity.</p>
+               <p>
+                  <rs id="t17651211-20-verdict125" type="verdictDescription">
+                     <interp inst="t17651211-20-verdict125" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

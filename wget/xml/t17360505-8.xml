@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-8">
+               <interp inst="t17360505-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-8" type="year" value="1736"></interp>
+               <interp inst="t17360505-8" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-8" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-8-off46-c73" targOrder="Y" targets="t17360505-8-defend90 t17360505-8-off46 t17360505-8-verdict48"></join>
+         
+               <p>9. 
+               
+                  <persName id="t17360505-8-defend90" type="defendantName">
+                     Mary 
+                     Denny 
+                  <interp inst="t17360505-8-defend90" type="surname" value="Denny"></interp>
+                     <interp inst="t17360505-8-defend90" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-8-defend90" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360505-8-defloc45">St. Clement Danes</placeName>
+                  <interp inst="t17360505-8-defloc45" type="placeName" value="St. Clement Danes"></interp>
+                  <interp inst="t17360505-8-defloc45" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360505-8-defend90 t17360505-8-defloc45"></join>, was indicted for <rs id="t17360505-8-off46" type="offenceDescription">
+                     <interp inst="t17360505-8-off46" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-8-off46" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing the <rs id="t17360505-8-cd47" type="crimeDate">2d of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-8-off46 t17360505-8-cd47"></join>, a Silver Mug, value 3l. the Goods of 
+                     
+                        <persName id="t17360505-8-victim92" type="victimName">
+                           Alice 
+                           Robinson 
+                        <interp inst="t17360505-8-victim92" type="surname" value="Robinson"></interp>
+                        <interp inst="t17360505-8-victim92" type="given" value="Alice"></interp>
+                        <interp inst="t17360505-8-victim92" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-8-off46 t17360505-8-victim92"></join>
+                     </persName>
+                      
+                  , out of her Dwelling-House
+            </rs>. <rs id="t17360505-8-verdict48" type="verdictDescription">
+                     <interp inst="t17360505-8-verdict48" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360505-8-verdict48" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-8-punish49" type="punishmentDescription">
+                     <interp inst="t17360505-8-punish49" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-8-defend90 t17360505-8-punish49"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

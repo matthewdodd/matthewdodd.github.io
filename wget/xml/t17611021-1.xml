@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17611021-1">
+               <interp inst="t17611021-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17611021-1" type="year" value="1761"></interp>
+               <interp inst="t17611021-1" type="uri" value="sessionsPapers/17611021"></interp>
+               <interp inst="t17611021-1" type="date" value="17611021"></interp>
+               <join result="criminalCharge" id="t17611021-1-off1-c2" targOrder="Y" targets="t17611021-1-defend3 t17611021-1-off1 t17611021-1-verdict4"></join>
+         
+               <p>285. (M.) 
+               
+                  <persName id="t17611021-1-defend3" type="defendantName">
+                     George 
+                     Scrivener 
+                  <interp inst="t17611021-1-defend3" type="surname" value="Scrivener"></interp>
+                     <interp inst="t17611021-1-defend3" type="given" value="George"></interp>
+                     <interp inst="t17611021-1-defend3" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17611021-1-off1" type="offenceDescription">
+                     <interp inst="t17611021-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17611021-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing eight ounces of knitting-silk, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17611021-1-victim5" type="victimName">
+                     Robert 
+                     Smith 
+                  <interp inst="t17611021-1-victim5" type="surname" value="Smith"></interp>
+                     <interp inst="t17611021-1-victim5" type="given" value="Robert"></interp>
+                     <interp inst="t17611021-1-victim5" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17611021-1-off1 t17611021-1-victim5"></join>
+                  </persName>
+                
+            , <rs id="t17611021-1-cd2" type="crimeDate">Sept. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17611021-1-off1 t17611021-1-cd2"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17611021-1-person6">
+                  Robert 
+                  Smith 
+               <interp inst="t17611021-1-person6" type="surname" value="Smith"></interp>
+                     <interp inst="t17611021-1-person6" type="given" value="Robert"></interp>
+                     <interp inst="t17611021-1-person6" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17611021-1-viclabel3" type="occupation">a silk-dyer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17611021-1-victim5 t17611021-1-viclabel3"></join>; I was not in the way when the prisoner was detected; there was found upon him a quantity of knitting-silk; but the other witnesses can give the best account of the matter.</p>
+               <p>Q. What do you call knitting-silk?</p>
+               <p>Smith. It is what they make trimmings for womens cardinals of; it is in the weaving way.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Smith. I have known him 20 years, but never employed him.</p>
+               <p>
+            
+                  <persName id="t17611021-1-person7">
+                  John 
+                  Pratten 
+               <interp inst="t17611021-1-person7" type="surname" value="Pratten"></interp>
+                     <interp inst="t17611021-1-person7" type="given" value="John"></interp>
+                     <interp inst="t17611021-1-person7" type="gender" value="male"></interp>
+                  </persName>
+            . On the 26th of September the prisoner came into my master (Mr. Smith's) dye-house, to ask for work; I said my master was not at home; he staid in the dye-house about 10 minutes, and took his leave of me; and instead of going out at the door, he went up-stairs. I followed him, and saw his pocket stand out. I charged him with having some silk in his pocket. He immediately pulled out some knitting silk, and begged of me to excuse it, and say nothing about it. [Produced in court by the constable.] This is it, it was delivered into the constable's hands when he was charged with the prisoner.</p>
+               <p>Q. to Prosecutor. Look at that silk?</p>
+               <p>Prosecutor. This is the property of a person I do business for; I had the charge of it, and it was under my care, with five or 600 weight more.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176110210003"></xptr>Q. from Prisoner. Whether when he came upstairs after me, he did not say, What have you in your pocket? I said, nothing, and he went into the chimney, and picked up this silk.</p>
+               <p>Pratten. When I charged him with having something in his pocket, he took this silk out of his pocket, and threw it into the chimney, and I took it up.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I had no thoughts of touching the silk, I went to ask for work, being out of business; I saw only that young man; I imagined Mr. Smith might have more men at work, and it is customary to ask them all to drink a draught of beer. I went up to see if there were any men at work above; he, seeing me go up stairs, followed me; I was turning down again; he said, I had taken something.</p>
+               <p>
+                  <rs id="t17611021-1-verdict4" type="verdictDescription">
+                     <interp inst="t17611021-1-verdict4" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17611021-1-punish5" type="punishmentDescription">
+                     <interp inst="t17611021-1-punish5" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17611021-1-defend3 t17611021-1-punish5"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

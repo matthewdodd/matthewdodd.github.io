@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390718-1">
+               <interp inst="t17390718-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390718-1" type="year" value="1739"></interp>
+               <interp inst="t17390718-1" type="uri" value="sessionsPapers/17390718"></interp>
+               <interp inst="t17390718-1" type="date" value="17390718"></interp>
+               <join result="criminalCharge" id="t17390718-1-off1-c27" targOrder="Y" targets="t17390718-1-defend28 t17390718-1-off1 t17390718-1-verdict4"></join>
+         
+               <p>386. 
+               
+                  <persName id="t17390718-1-defend28" type="defendantName">
+                     William 
+                     Dickenson 
+                  <interp inst="t17390718-1-defend28" type="surname" value="Dickenson"></interp>
+                     <interp inst="t17390718-1-defend28" type="given" value="William"></interp>
+                     <interp inst="t17390718-1-defend28" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for * <rs id="t17390718-1-off1" type="offenceDescription">
+                     <interp inst="t17390718-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390718-1-off1" type="offenceSubcategory" value="pocketpicking"></interp>
+                privately stealing a Linen Handkerchief, value 10 d. from the Person of 
+                     <persName id="t17390718-1-victim29" type="victimName">
+                        <rs id="t17390718-1-viclabel2" type="occupation">Beadle</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17390718-1-victim29 t17390718-1-viclabel2"></join> Binglow<interp inst="t17390718-1-victim29" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17390718-1-off1 t17390718-1-victim29"></join>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17390718-1-cd3" type="crimeDate">July 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390718-1-off1 t17390718-1-cd3"></join>. <rs id="t17390718-1-verdict4" type="verdictDescription">
+                     <interp inst="t17390718-1-verdict4" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>* No Person found Guilty of taking Money or Goods from the Person of any other privily, shall be admitted to the Benefit of the Clergy. 8 Eliz. c. 4.</p>
+               <p>But if it be under the Value of 12 d. then it remains petit Larceny as before; for the Statute did not alter the Offence, though it took away a Privilege. Hale's Pleas of the Crown, P. 75.</p>
+               <p>See after the Trial of 
+               <persName id="t17390718-1-person30">
+                  Sarah 
+                  Kingman 
+               <interp inst="t17390718-1-person30" type="surname" value="Kingman"></interp>
+                     <interp inst="t17390718-1-person30" type="given" value="Sarah"></interp>
+                     <interp inst="t17390718-1-person30" type="gender" value="female"></interp>
+                  </persName>
+            , No. 405.</p>
+               <p>
+                  <rs id="t17390718-1-punish5" type="punishmentDescription">
+                     <interp inst="t17390718-1-punish5" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390718-1-defend28 t17390718-1-punish5"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

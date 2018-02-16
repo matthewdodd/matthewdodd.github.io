@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901210-52">
+               <interp inst="t16901210-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901210-52" type="year" value="1690"></interp>
+               <interp inst="t16901210-52" type="uri" value="sessionsPapers/16901210"></interp>
+               <interp inst="t16901210-52" type="date" value="16901210"></interp>
+               <join result="criminalCharge" id="t16901210-52-off247-c153" targOrder="Y" targets="t16901210-52-defend243 t16901210-52-off247 t16901210-52-verdict250"></join>
+         
+               <p>
+            
+                  <persName id="t16901210-52-defend243" type="defendantName">
+                  W - 
+                  D -
+               <interp inst="t16901210-52-defend243" type="surname" value="D -"></interp>
+                     <interp inst="t16901210-52-defend243" type="given" value="W -"></interp>
+                     <interp inst="t16901210-52-defend243" type="gender" value="female"></interp>
+                  </persName>
+             was tryed for <rs id="t16901210-52-off247" type="offenceDescription">
+                     <interp inst="t16901210-52-off247" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901210-52-off247" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 13 Cornet-Wyers value 3 s.
+            </rs> from 
+               
+                  <persName id="t16901210-52-victim245" type="victimName">
+                     James 
+                     Welding
+                  <interp inst="t16901210-52-victim245" type="surname" value="Welding"></interp>
+                     <interp inst="t16901210-52-victim245" type="given" value="James"></interp>
+                     <interp inst="t16901210-52-victim245" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16901210-52-off247 t16901210-52-victim245"></join>
+                  </persName>
+               
+             in the Parish of <placeName id="t16901210-52-crimeloc248">St. Giles in the Fields</placeName>
+                  <interp inst="t16901210-52-crimeloc248" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t16901210-52-crimeloc248" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901210-52-off247 t16901210-52-crimeloc248"></join>, on the <rs id="t16901210-52-cd249" type="crimeDate">17th of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16901210-52-off247 t16901210-52-cd249"></join> last. The Proof against her was, That she took them off the stall and held them in her Hand about 3 Paces from it, where she was seized by the Prosecutor and used very roughly: But she pleading she took them up with an Intent to buy one, and giving an ample Testimony of her Life and Conversation, the Jury <rs id="t16901210-52-verdict250" type="verdictDescription">
+                     <interp inst="t16901210-52-verdict250" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> her.</p>
+            </div1>

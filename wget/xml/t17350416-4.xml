@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350416-4">
+               <interp inst="t17350416-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350416-4" type="year" value="1735"></interp>
+               <interp inst="t17350416-4" type="uri" value="sessionsPapers/17350416"></interp>
+               <interp inst="t17350416-4" type="date" value="17350416"></interp>
+               <join result="criminalCharge" id="t17350416-4-off12-c33" targOrder="Y" targets="t17350416-4-defend40 t17350416-4-off12 t17350416-4-verdict16"></join>
+         
+               <p>4. 
+               
+                  <persName id="t17350416-4-defend40" type="defendantName">
+                     Daniel
+                      Stockman, alias <rs id="t17350416-4-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17350416-4-defend40 t17350416-4-alias-1"></join>Macgwin</rs>
+                     <interp inst="t17350416-4-defend40" type="surname" value="Stockman"></interp>
+                     <interp inst="t17350416-4-defend40" type="given" value="Daniel"></interp>
+                     <interp inst="t17350416-4-defend40" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350416-4-off12" type="offenceDescription">
+                     <interp inst="t17350416-4-off12" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350416-4-off12" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing a Silver Hilted Sword, value three Pound, from the Person of 
+                     <persName id="t17350416-4-person41">
+                        William 
+                        Hawkins 
+                     <interp inst="t17350416-4-person41" type="surname" value="Hawkins"></interp>
+                        <interp inst="t17350416-4-person41" type="given" value="William"></interp>
+                        <interp inst="t17350416-4-person41" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17350416-4-cd13" type="crimeDate">April 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350416-4-off12 t17350416-4-cd13"></join>.</p>
+               <p>Mr. Hawkins. On Easter Monday, as I was going along <placeName id="t17350416-4-crimeloc14">Fleet Street</placeName>
+                  <interp inst="t17350416-4-crimeloc14" type="placeName" value="Fleet Street"></interp>
+                  <interp inst="t17350416-4-crimeloc14" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17350416-4-off12 t17350416-4-crimeloc14"></join>, there was a Crowd of People standing to see the Procession to the Spital Sermon at St. Brides: And on this side Salisbury Court, the Prisoner past by me, drew my Sword out of the Scabbard - I saw him take it - and run away. I followed him, and he and another <rs id="t17350416-4-deflabel15" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350416-4-defend40 t17350416-4-deflabel15"></join> fell down and I over them. The Prisoner had some how convey'd the Sword away, for it was handed to me by another Person - The Prisoner was sent to Bridewell.</p>
+               <p>The Jury found him <rs id="t17350416-4-verdict16" type="verdictDescription">
+                     <interp inst="t17350416-4-verdict16" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17350416-4-punish17" type="punishmentDescription">
+                     <interp inst="t17350416-4-punish17" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350416-4-defend40 t17350416-4-punish17"></join>
+               Death
+            </rs>.</p>
+            </div1>

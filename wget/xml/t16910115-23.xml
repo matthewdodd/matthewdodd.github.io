@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910115-23">
+               <interp inst="t16910115-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910115-23" type="year" value="1691"></interp>
+               <interp inst="t16910115-23" type="uri" value="sessionsPapers/16910115"></interp>
+               <interp inst="t16910115-23" type="date" value="16910115"></interp>
+               <join result="criminalCharge" id="t16910115-23-off100-c96" targOrder="Y" targets="t16910115-23-defend96 t16910115-23-off100 t16910115-23-verdict103"></join>
+               <join result="criminalCharge" id="t16910115-23-off100-c97" targOrder="Y" targets="t16910115-23-defend97 t16910115-23-off100 t16910115-23-verdict104"></join>
+         
+               <p>
+            
+                  <persName id="t16910115-23-defend96" type="defendantName">
+                  Nicholas 
+                  Carter
+               <interp inst="t16910115-23-defend96" type="surname" value="Carter"></interp>
+                     <interp inst="t16910115-23-defend96" type="given" value="Nicholas"></interp>
+                     <interp inst="t16910115-23-defend96" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16910115-23-defend97" type="defendantName">
+                  Giles 
+                  Webb
+               <interp inst="t16910115-23-defend97" type="surname" value="Webb"></interp>
+                     <interp inst="t16910115-23-defend97" type="given" value="Giles"></interp>
+                     <interp inst="t16910115-23-defend97" type="gender" value="male"></interp>
+                  </persName>
+            , two Pick-pocket Boys, were Tryed for <rs id="t16910115-23-off100" type="offenceDescription">
+                     <interp inst="t16910115-23-off100" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910115-23-off100" type="offenceSubcategory" value="grandLarceny"></interp>
+               taking a Beaver Hat off the Head of one Mr. 
+                     <persName id="t16910115-23-victim98" type="victimName">
+                        William 
+                        Cummins
+                     <interp inst="t16910115-23-victim98" type="surname" value="Cummins"></interp>
+                        <interp inst="t16910115-23-victim98" type="given" value="William"></interp>
+                        <interp inst="t16910115-23-victim98" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910115-23-off100 t16910115-23-victim98"></join>
+                     </persName>
+                  . value 3 l. 2 s.
+            </rs> on the <rs id="t16910115-23-cd101" type="crimeDate">2d of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910115-23-off100 t16910115-23-cd101"></join> last, as he was passing along <placeName id="t16910115-23-crimeloc102">Brumleystreet, near Short's Gardens</placeName>
+                  <interp inst="t16910115-23-crimeloc102" type="placeName" value="Brumleystreet, near Short's Gardens"></interp>
+                  <interp inst="t16910115-23-crimeloc102" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910115-23-off100 t16910115-23-crimeloc102"></join>, which was fully sworn against Carter, besides he did confess it when taken, and they were both together when the Robbery was done. They both denyed it stifly, and were known in Court, Carter was found <rs id="t16910115-23-verdict103" type="verdictDescription">
+                     <interp inst="t16910115-23-verdict103" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910115-23-verdict103" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs> but Webb was <rs id="t16910115-23-verdict104" type="verdictDescription">
+                     <interp inst="t16910115-23-verdict104" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16910115-23-punish105" type="punishmentDescription">
+                     <interp inst="t16910115-23-punish105" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910115-23-defend96 t16910115-23-punish105"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

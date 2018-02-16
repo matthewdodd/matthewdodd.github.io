@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-25">
+               <interp inst="t16900226-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-25" type="year" value="1690"></interp>
+               <interp inst="t16900226-25" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-25" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-25-off109-c96" targOrder="Y" targets="t16900226-25-defend96 t16900226-25-off109 t16900226-25-verdict112"></join>
+         
+               <p>
+            
+                  <persName id="t16900226-25-defend96" type="defendantName">
+                  Edward 
+                  Richardson
+               <interp inst="t16900226-25-defend96" type="surname" value="Richardson"></interp>
+                     <interp inst="t16900226-25-defend96" type="given" value="Edward"></interp>
+                     <interp inst="t16900226-25-defend96" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted at Common Law, and also upon the Statute of Stabbing, for the <rs id="t16900226-25-off109" type="offenceDescription">
+                     <interp inst="t16900226-25-off109" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16900226-25-off109" type="offenceSubcategory" value="murder"></interp>
+               wilful Murther of one 
+                     <persName id="t16900226-25-victim97" type="victimName">
+                        John 
+                        Marlow
+                     <interp inst="t16900226-25-victim97" type="surname" value="Marlow"></interp>
+                        <interp inst="t16900226-25-victim97" type="given" value="John"></interp>
+                        <interp inst="t16900226-25-victim97" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-25-off109 t16900226-25-victim97"></join>
+                     </persName>
+                  , who was outlawed for the same, but now Tryed for the Fact
+            </rs>. The Witness for the King deposed, that in the Third Year of King James, being the <rs id="t16900226-25-cd110" type="crimeDate">23d day of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-25-off109 t16900226-25-cd110"></join> 1687, the prisoner was at Marlow's house at <placeName id="t16900226-25-crimeloc111">Islington</placeName>
+                  <interp inst="t16900226-25-crimeloc111" type="placeName" value="Islington"></interp>
+                  <interp inst="t16900226-25-crimeloc111" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16900226-25-off109 t16900226-25-crimeloc111"></join> drinking, and there he Din'd with him, and after, upon some slight occasion, gave him a prick in the Groin 4 Inches deep, threatening him before, calling him Son of a Whore, &amp;c. but when he was taken, (being pursued,) running away, he owned that what he did was in his Passion, but denyed it upon his Tryal, and said, that he knew not how Marlow came by his Death, so after a long Tryal, he was found <rs id="t16900226-25-verdict112" type="verdictDescription">
+                     <interp inst="t16900226-25-verdict112" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of wilful Murther at Common law, but discharged of the Stabbing, &amp;c.</p>
+               <p>
+                  <rs id="t16900226-25-punish113" type="punishmentDescription">
+                     <interp inst="t16900226-25-punish113" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900226-25-defend96 t16900226-25-punish113"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

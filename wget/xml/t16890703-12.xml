@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890703-12">
+               <interp inst="t16890703-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890703-12" type="year" value="1689"></interp>
+               <interp inst="t16890703-12" type="uri" value="sessionsPapers/16890703"></interp>
+               <interp inst="t16890703-12" type="date" value="16890703"></interp>
+               <join result="criminalCharge" id="t16890703-12-off242-c155" targOrder="Y" targets="t16890703-12-defend171 t16890703-12-off242 t16890703-12-verdict244"></join>
+         
+               <p>
+            
+                  <persName id="t16890703-12-defend171" type="defendantName">
+                  Isabella 
+                  Boswel
+               <interp inst="t16890703-12-defend171" type="surname" value="Boswel"></interp>
+                     <interp inst="t16890703-12-defend171" type="given" value="Isabella"></interp>
+                     <interp inst="t16890703-12-defend171" type="gender" value="female"></interp>
+                  </persName>
+             was Tried for <rs id="t16890703-12-off242" type="offenceDescription">
+                     <interp inst="t16890703-12-off242" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890703-12-off242" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 6 Holland Shirts, 10 Coronets, 4 Night Rayls, and several Laced Caps, and other Goods, value about 9 l. on the <rs id="t16890703-12-cd243" type="crimeDate">20th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890703-12-off242 t16890703-12-cd243"></join>
+               
+                  </rs>. The Evidence Swore, That she found some of the Cloaths that the Prisoner had took away, in a place where the Prisoner used to go. The Prisoner said, That the Goods were brought to her to Pawn, and she could say nothing to prove her Reputation. So she was found <rs id="t16890703-12-verdict244" type="verdictDescription">
+                     <interp inst="t16890703-12-verdict244" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16890703-12-verdict244" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty value 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16890703-12-punish245" type="punishmentDescription">
+                     <interp inst="t16890703-12-punish245" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16890703-12-punish245" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890703-12-defend171 t16890703-12-punish245"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

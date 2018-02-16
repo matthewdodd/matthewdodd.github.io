@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-26">
+               <interp inst="t16880711-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-26" type="year" value="1688"></interp>
+               <interp inst="t16880711-26" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-26" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-26-off136-c95" targOrder="Y" targets="t16880711-26-defend148 t16880711-26-off136 t16880711-26-verdict138"></join>
+         
+               <p>London. 
+               
+                  <persName id="t16880711-26-defend148" type="defendantName">
+                     George 
+                     Browne
+                  <interp inst="t16880711-26-defend148" type="surname" value="Browne"></interp>
+                     <interp inst="t16880711-26-defend148" type="given" value="George"></interp>
+                     <interp inst="t16880711-26-defend148" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of <placeName id="t16880711-26-defloc135">St. Alhallows Barkin</placeName>
+                  <interp inst="t16880711-26-defloc135" type="placeName" value="St. Alhallows Barkin"></interp>
+                  <interp inst="t16880711-26-defloc135" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880711-26-defend148 t16880711-26-defloc135"></join>, was Indicted for <rs id="t16880711-26-off136" type="offenceDescription">
+                     <interp inst="t16880711-26-off136" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880711-26-off136" type="offenceSubcategory" value="other"></interp>
+               Stealing a Beaver-Hat from 
+                     
+                        <persName id="t16880711-26-victim150" type="victimName">
+                           George 
+                           Leader
+                        <interp inst="t16880711-26-victim150" type="surname" value="Leader"></interp>
+                        <interp inst="t16880711-26-victim150" type="given" value="George"></interp>
+                        <interp inst="t16880711-26-victim150" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880711-26-off136 t16880711-26-victim150"></join>
+                     </persName>
+                     
+                  , on the 6th of this Instant
+            </rs>. The Evidence against him was Mr Leader who deposed, That as he was going over <placeName id="t16880711-26-crimeloc137">Tower-Hill</placeName>
+                  <interp inst="t16880711-26-crimeloc137" type="placeName" value="Tower-Hill"></interp>
+                  <interp inst="t16880711-26-crimeloc137" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16880711-26-off136 t16880711-26-crimeloc137"></join>, very late at Night, his Hat was on a sudden taken off his Head by two Persons, who ran away; and upon his crying, Stop Thief, he dropt the Hat upon the Hill, where the Watch-man found it. The Prisoner said, That he was a Stranger in the Town, and was going to Wapping to fetch some Clothes he had there;<xptr type="pageFacsimile" doc="16880711004"></xptr>and hearing the noise of crying Stop Thief, he ran away for fear. So the Evidence not being able to prove that he had the Hat, he was <rs id="t16880711-26-verdict138" type="verdictDescription">
+                     <interp inst="t16880711-26-verdict138" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-32">
+               <interp inst="t17360115-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-32" type="year" value="1736"></interp>
+               <interp inst="t17360115-32" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-32" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-32-off184-c182" targOrder="Y" targets="t17360115-32-defend258 t17360115-32-off184 t17360115-32-verdict186"></join>
+         
+               <p>36. 
+               
+                  <persName id="t17360115-32-defend258" type="defendantName">
+                     John 
+                     Courtney 
+                  <interp inst="t17360115-32-defend258" type="surname" value="Courtney"></interp>
+                     <interp inst="t17360115-32-defend258" type="given" value="John"></interp>
+                     <interp inst="t17360115-32-defend258" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360115-32-off184" type="offenceDescription">
+                     <interp inst="t17360115-32-off184" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-32-off184" type="offenceSubcategory" value="other"></interp>
+               stealing one Ounce and a Quarter of Silver
+            </rs>, the Goods of 
+               
+                  <persName id="t17360115-32-victim260" type="victimName">
+                     William 
+                     Gold 
+                  <interp inst="t17360115-32-victim260" type="surname" value="Gold"></interp>
+                     <interp inst="t17360115-32-victim260" type="given" value="William"></interp>
+                     <interp inst="t17360115-32-victim260" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-32-off184 t17360115-32-victim260"></join>
+                  </persName>
+                
+            , on the <rs id="t17360115-32-cd185" type="crimeDate">13th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-32-off184 t17360115-32-cd185"></join> last. <rs id="t17360115-32-verdict186" type="verdictDescription">
+                     <interp inst="t17360115-32-verdict186" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-32-verdict186" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the Value of 10d
+            </rs>.</p>
+
+               <p>
+                  <rs id="t17360115-32-punish187" type="punishmentDescription">
+                     <interp inst="t17360115-32-punish187" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17360115-32-punish187" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-32-defend258 t17360115-32-punish187"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

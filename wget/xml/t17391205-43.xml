@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391205-43">
+               <interp inst="t17391205-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391205-43" type="year" value="1739"></interp>
+               <interp inst="t17391205-43" type="uri" value="sessionsPapers/17391205"></interp>
+               <interp inst="t17391205-43" type="date" value="17391205"></interp>
+               <join result="criminalCharge" id="t17391205-43-off198-c204" targOrder="Y" targets="t17391205-43-defend295 t17391205-43-off198 t17391205-43-verdict200"></join>
+         
+               <p>47. + 
+               
+                  <persName id="t17391205-43-defend295" type="defendantName">
+                     Joseph 
+                     Miller 
+                  <interp inst="t17391205-43-defend295" type="surname" value="Miller"></interp>
+                     <interp inst="t17391205-43-defend295" type="given" value="Joseph"></interp>
+                     <interp inst="t17391205-43-defend295" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17391205-43-off198" type="offenceDescription">
+                     <interp inst="t17391205-43-off198" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-43-off198" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a wooden Half firkin, val. 4 d. and 20 lb. of Soap, val. 10 s. in the Shop of 
+                     
+                        <persName id="t17391205-43-victim297" type="victimName">
+                           William 
+                           Salisbury 
+                        <interp inst="t17391205-43-victim297" type="surname" value="Salisbury"></interp>
+                        <interp inst="t17391205-43-victim297" type="given" value="William"></interp>
+                        <interp inst="t17391205-43-victim297" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17391205-43-off198 t17391205-43-victim297"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17391205-43-cd199" type="crimeDate">Nov. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-43-off198 t17391205-43-cd199"></join>. <rs id="t17391205-43-verdict200" type="verdictDescription">
+                     <interp inst="t17391205-43-verdict200" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

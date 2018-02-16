@@ -1,3 +1,90 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-31">
+               <interp inst="t17360225-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-31" type="year" value="1736"></interp>
+               <interp inst="t17360225-31" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-31" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-31-off189-c143" targOrder="Y" targets="t17360225-31-defend206 t17360225-31-off189 t17360225-31-verdict191"></join>
+         
+               <p>39. 
+               
+                  <persName id="t17360225-31-defend206" type="defendantName">
+                     Thomas 
+                     Visage 
+                  <interp inst="t17360225-31-defend206" type="surname" value="Visage"></interp>
+                     <interp inst="t17360225-31-defend206" type="given" value="Thomas"></interp>
+                     <interp inst="t17360225-31-defend206" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360225-31-defloc188">St. Mary Sommerset</placeName>
+                  <interp inst="t17360225-31-defloc188" type="placeName" value="St. Mary Sommerset"></interp>
+                  <interp inst="t17360225-31-defloc188" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-31-defend206 t17360225-31-defloc188"></join>. was indicted for <rs id="t17360225-31-off189" type="offenceDescription">
+                     <interp inst="t17360225-31-off189" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-31-off189" type="offenceSubcategory" value="other"></interp>
+               stealing a Gallon Pewter ot
+            </rs>, the Goods of 
+               
+                  <persName id="t17360225-31-victim208" type="victimName">
+                     George 
+                     Eschurchey 
+                  <interp inst="t17360225-31-victim208" type="surname" value="Eschurchey"></interp>
+                     <interp inst="t17360225-31-victim208" type="given" value="George"></interp>
+                     <interp inst="t17360225-31-victim208" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-31-off189 t17360225-31-victim208"></join>
+                  </persName>
+                
+            , the <rs id="t17360225-31-cd190" type="crimeDate">16th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-31-off189 t17360225-31-cd190"></join>.</p>
+               <p>
+            
+                  <persName id="t17360225-31-person209">
+                  George 
+                  Holderness 
+               <interp inst="t17360225-31-person209" type="surname" value="Holderness"></interp>
+                     <interp inst="t17360225-31-person209" type="given" value="George"></interp>
+                     <interp inst="t17360225-31-person209" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner and 
+               <persName id="t17360225-31-person210">
+                  John 
+                  Jones 
+               <interp inst="t17360225-31-person210" type="surname" value="Jones"></interp>
+                     <interp inst="t17360225-31-person210" type="given" value="John"></interp>
+                     <interp inst="t17360225-31-person210" type="gender" value="male"></interp>
+                  </persName>
+             offered the Pot to me for sale; they asked so little for it, that I thought they had stole it, so I secured them.</p>
+               <p>
+            
+                  <persName id="t17360225-31-person211">
+                  Thomas
+                   Jones 
+               <interp inst="t17360225-31-person211" type="surname" value="Jones"></interp>
+                     <interp inst="t17360225-31-person211" type="given" value="Thomas"></interp>
+                     <interp inst="t17360225-31-person211" type="gender" value="male"></interp>
+                  </persName>
+            The Prisoner had the Pot from 
+               <persName id="t17360225-31-person212">
+                  Thomas 
+                  Street 
+               <interp inst="t17360225-31-person212" type="surname" value="Street"></interp>
+                     <interp inst="t17360225-31-person212" type="given" value="Thomas"></interp>
+                     <interp inst="t17360225-31-person212" type="gender" value="male"></interp>
+                  </persName>
+            . I sent to Mr. Churches to let him know about it.</p>
+               <p>The Prisoner said he had the Pot from Jones. and that he told him he had found it <rs id="t17360225-31-verdict191" type="verdictDescription">
+                     <interp inst="t17360225-31-verdict191" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-31-verdict191" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-31-punish192" type="punishmentDescription">
+                     <interp inst="t17360225-31-punish192" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-31-defend206 t17360225-31-punish192"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

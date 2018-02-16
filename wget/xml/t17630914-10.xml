@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630914-10">
+               <interp inst="t17630914-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630914-10" type="year" value="1763"></interp>
+               <interp inst="t17630914-10" type="uri" value="sessionsPapers/17630914"></interp>
+               <interp inst="t17630914-10" type="date" value="17630914"></interp>
+               <join result="criminalCharge" id="t17630914-10-off50-c67" targOrder="Y" targets="t17630914-10-defend87 t17630914-10-off50 t17630914-10-verdict54"></join>
+               <join result="criminalCharge" id="t17630914-10-off50-c68" targOrder="Y" targets="t17630914-10-defend89 t17630914-10-off50 t17630914-10-verdict56"></join>
+         
+               <p>363, 364. (L.) 
+               
+                  <persName id="t17630914-10-defend87" type="defendantName">
+                     Charles 
+                     Morgan 
+                  <interp inst="t17630914-10-defend87" type="surname" value="Morgan"></interp>
+                     <interp inst="t17630914-10-defend87" type="given" value="Charles"></interp>
+                     <interp inst="t17630914-10-defend87" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17630914-10-defend89" type="defendantName">
+                     Jacob 
+                     Sidenden 
+                  <interp inst="t17630914-10-defend89" type="surname" value="Sidenden"></interp>
+                     <interp inst="t17630914-10-defend89" type="given" value="Jacob"></interp>
+                     <interp inst="t17630914-10-defend89" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17630914-10-off50" type="offenceDescription">
+                     <interp inst="t17630914-10-off50" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630914-10-off50" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one pair of men's worsted hose, val. 4 s.
+            </rs> the property of 
+               
+                  <persName id="t17630914-10-victim91" type="victimName">
+                     Peter 
+                     Cavallier 
+                  <interp inst="t17630914-10-victim91" type="surname" value="Cavallier"></interp>
+                     <interp inst="t17630914-10-victim91" type="given" value="Peter"></interp>
+                     <interp inst="t17630914-10-victim91" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630914-10-off50 t17630914-10-victim91"></join>
+                  </persName>
+                
+            , <rs id="t17630914-10-cd51" type="crimeDate">Aug. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630914-10-off50 t17630914-10-cd51"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17630914-10-person92">
+                  Peter 
+                  Cavallier 
+               <interp inst="t17630914-10-person92" type="surname" value="Cavallier"></interp>
+                     <interp inst="t17630914-10-person92" type="given" value="Peter"></interp>
+                     <interp inst="t17630914-10-person92" type="gender" value="male"></interp>
+                  </persName>
+             deposed, that he kept a <rs id="t17630914-10-viclabel52" type="occupation">hatter and hosier's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17630914-10-victim91 t17630914-10-viclabel52"></join> in <placeName id="t17630914-10-crimeloc53">Leadenhall-street</placeName>
+                  <interp inst="t17630914-10-crimeloc53" type="placeName" value="Leadenhall-street"></interp>
+                  <interp inst="t17630914-10-crimeloc53" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17630914-10-off50 t17630914-10-crimeloc53"></join>; that the prisoners came on the 20th of Aug. about 5 in the evening, and asked to see some black ribbed stockings; that while they were there he saw a pair of stockings removed in the window, but knew not by who; that he locked the door, and, upon searching, found them in the lining of Morgan's coat. (The stockings produced and deposed to.)</p>
+               <p>Morgan <rs id="t17630914-10-verdict54" type="verdictDescription">
+                     <interp inst="t17630914-10-verdict54" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17630914-10-punish55" type="punishmentDescription">
+                     <interp inst="t17630914-10-punish55" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17630914-10-defend87 t17630914-10-punish55"></join>
+               T.
+            </rs>
+               </p>
+               <p>Sidenden <rs id="t17630914-10-verdict56" type="verdictDescription">
+                     <interp inst="t17630914-10-verdict56" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

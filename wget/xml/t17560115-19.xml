@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560115-19">
+               <interp inst="t17560115-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560115-19" type="year" value="1756"></interp>
+               <interp inst="t17560115-19" type="uri" value="sessionsPapers/17560115"></interp>
+               <interp inst="t17560115-19" type="date" value="17560115"></interp>
+               <join result="criminalCharge" id="t17560115-19-off98-c213" targOrder="Y" targets="t17560115-19-defend252 t17560115-19-off98 t17560115-19-verdict100"></join>
+         
+               <p>81. (M.) 
+               
+                  <persName id="t17560115-19-defend252" type="defendantName">
+                     Cornelius 
+                     Crowley 
+                  <interp inst="t17560115-19-defend252" type="surname" value="Crowley"></interp>
+                     <interp inst="t17560115-19-defend252" type="given" value="Cornelius"></interp>
+                     <interp inst="t17560115-19-defend252" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted <rs id="t17560115-19-off98" type="offenceDescription">
+                     <interp inst="t17560115-19-off98" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560115-19-off98" type="offenceSubcategory" value="grandLarceny"></interp>
+               for stealing 18 lb. of coffee, value 12 s.
+            </rs> the goods of 
+               <persName id="t17560115-19-victim253" type="victimName">
+                     <interp inst="t17560115-19-victim253" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17560115-19-off98 t17560115-19-victim253"></join>
+                  </persName>
+            , <rs id="t17560115-19-cd99" type="crimeDate">Dec. 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560115-19-off98 t17560115-19-cd99"></join>.</p>
+               <p>+ <rs id="t17560115-19-verdict100" type="verdictDescription">
+                     <interp inst="t17560115-19-verdict100" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

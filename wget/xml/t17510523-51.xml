@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-51">
+               <interp inst="t17510523-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-51" type="year" value="1751"></interp>
+               <interp inst="t17510523-51" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-51" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-51-off272-c378" targOrder="Y" targets="t17510523-51-defend478 t17510523-51-off272 t17510523-51-verdict275"></join>
+               <join result="criminalCharge" id="t17510523-51-off272-c379" targOrder="Y" targets="t17510523-51-defend480 t17510523-51-off272 t17510523-51-verdict275"></join>
+         
+               <p>405. (L) 
+               
+                  <persName id="t17510523-51-defend478" type="defendantName">
+                     Philip 
+                     Wilson 
+                  <interp inst="t17510523-51-defend478" type="surname" value="Wilson"></interp>
+                     <interp inst="t17510523-51-defend478" type="given" value="Philip"></interp>
+                     <interp inst="t17510523-51-defend478" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17510523-51-defend480" type="defendantName">
+                     William 
+                     Hawkins 
+                  <interp inst="t17510523-51-defend480" type="surname" value="Hawkins"></interp>
+                     <interp inst="t17510523-51-defend480" type="given" value="William"></interp>
+                     <interp inst="t17510523-51-defend480" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17510523-51-off272" type="offenceDescription">
+                     <interp inst="t17510523-51-off272" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-51-off272" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 50 lb wt. of hemp, value 10 l.
+            </rs> the property of 
+               
+                  <persName id="t17510523-51-victim482" type="victimName">
+                     Simon 
+                     Peters 
+                  <interp inst="t17510523-51-victim482" type="surname" value="Peters"></interp>
+                     <interp inst="t17510523-51-victim482" type="given" value="Simon"></interp>
+                     <interp inst="t17510523-51-victim482" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-51-off272 t17510523-51-victim482"></join>
+                  </persName>
+                
+            . It was laid a second time, to be the property of persons unknown., <rs id="t17510523-51-cd273" type="crimeDate">April 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-51-off272 t17510523-51-cd273"></join>. ++</p>
+               <p>Mr. Brook. Capt Peter's ship was loaded with hemp, the two prisoners were in a bum-boat, crying dram about ; on the 19th of April, about 11 at night, Wilson came on board the ship, and was handing the hemp out into the boat which lay under the bow; he had handed out about 50 lb. wt. when the men got knowledge of it, and pursu'd them, one of them jump'd into the Thames and swam for his Life</p>
+               <p>Q. Where did this vessel lie?</p>
+               <p>Brook. <placeName id="t17510523-51-crimeloc274">Near the Tower</placeName>
+                  <interp inst="t17510523-51-crimeloc274" type="placeName" value="Near the Tower"></interp>
+                  <interp inst="t17510523-51-crimeloc274" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510523-51-off272 t17510523-51-crimeloc274"></join>.</p>
+               <p>Q. Was it above the Tower or below it?</p>
+               <p>Brook Below the Tower.</p>
+               <p>
+                  <rs id="t17510523-51-verdict275" type="verdictDescription">
+                     <interp inst="t17510523-51-verdict275" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17510523-51-verdict275" type="verdictSubcategory" value="fault"></interp>
+               The fact appearing to have been done in Middlesex, and it not being the province of the London jury to try them, they were acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520219-52">
+               <interp inst="t17520219-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520219-52" type="year" value="1752"></interp>
+               <interp inst="t17520219-52" type="uri" value="sessionsPapers/17520219"></interp>
+               <interp inst="t17520219-52" type="date" value="17520219"></interp>
+               <join result="criminalCharge" id="t17520219-52-off253-c404" targOrder="Y" targets="t17520219-52-defend492 t17520219-52-off253 t17520219-52-verdict255"></join>
+         
+               <p>188. (M.) 
+               <persName id="t17520219-52-defend492" type="defendantName">
+                  Elizabeth, <rs id="t17520219-52-deflabel252" type="occupation">Wife of 
+                        <persName id="t17520219-52-person493">
+                           William 
+                           Castle 
+                        <interp inst="t17520219-52-person493" type="surname" value="Castle"></interp>
+                           <interp inst="t17520219-52-person493" type="given" value="William"></interp>
+                           <interp inst="t17520219-52-person493" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17520219-52-defend492 t17520219-52-deflabel252"></join>
+                     <interp inst="t17520219-52-defend492" type="surname" value="Castle"></interp>
+                     <interp inst="t17520219-52-defend492" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17520219-52-defend492" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17520219-52-off253" type="offenceDescription">
+                     <interp inst="t17520219-52-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520219-52-off253" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six pewter pots, value 5 s
+            </rs> the goods of 
+               
+                  <persName id="t17520219-52-victim495" type="victimName">
+                     Charles 
+                     Stace 
+                  <interp inst="t17520219-52-victim495" type="surname" value="Stace"></interp>
+                     <interp inst="t17520219-52-victim495" type="given" value="Charles"></interp>
+                     <interp inst="t17520219-52-victim495" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520219-52-off253 t17520219-52-victim495"></join>
+                  </persName>
+                
+            , <rs id="t17520219-52-cd254" type="crimeDate">January 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520219-52-off253 t17520219-52-cd254"></join>. ++</p>
+               <p>
+                  <rs id="t17520219-52-verdict255" type="verdictDescription">
+                     <interp inst="t17520219-52-verdict255" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17520219-52-verdict255" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17520219-52-punish256" type="punishmentDescription">
+                     <interp inst="t17520219-52-punish256" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17520219-52-punish256" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520219-52-defend492 t17520219-52-punish256"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

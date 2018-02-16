@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-3">
+               <interp inst="t16870223-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-3" type="year" value="1687"></interp>
+               <interp inst="t16870223-3" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-3" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-3-off10-c32" targOrder="Y" targets="t16870223-3-defend38 t16870223-3-off10 t16870223-3-verdict13"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870223-3-defend38" type="defendantName">
+                     Richard 
+                     Owen
+                  <interp inst="t16870223-3-defend38" type="surname" value="Owen"></interp>
+                     <interp inst="t16870223-3-defend38" type="given" value="Richard"></interp>
+                     <interp inst="t16870223-3-defend38" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed upon an Indictment of Felony, in <rs id="t16870223-3-off10" type="offenceDescription">
+                     <interp inst="t16870223-3-off10" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-3-off10" type="offenceSubcategory" value="theftFromPlace"></interp>
+               Feloniously taking out of the house of 
+                     
+                        <persName id="t16870223-3-victim40" type="victimName">
+                           Stephen 
+                           Nightingall
+                        <interp inst="t16870223-3-victim40" type="surname" value="Nightingall"></interp>
+                        <interp inst="t16870223-3-victim40" type="given" value="Stephen"></interp>
+                        <interp inst="t16870223-3-victim40" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870223-3-off10 t16870223-3-victim40"></join>
+                     </persName>
+                     
+                  , of the Parish of <placeName id="t16870223-3-crimeloc11">St. Buttolphs without Bishopsgate</placeName>
+                     <interp inst="t16870223-3-crimeloc11" type="placeName" value="St. Buttolphs without Bishopsgate"></interp>
+                     <interp inst="t16870223-3-crimeloc11" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870223-3-off10 t16870223-3-crimeloc11"></join>, seven Peuter Dishes, value 29 s. and twelve Peuter Plates, value 15 s. on the <rs id="t16870223-3-cd12" type="crimeDate">1st. of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-3-off10 t16870223-3-cd12"></join>
+               
+                  </rs>. The Evidence against him was Mr. Nightingall and his Servant Maid the first deposing that the Peuter (to his knowledge) was in his Kitchen over Night, and the next Morning it was Missing; And the Latter gave Evidence that by her Consent the Prisoner had hid himself in her Masters Cellar, under a pretence of securing him from the Fury of his own Master, and that when she came to look for him the next Morning, she found him and the Peuter gone; the Cellar Door to the Street being likewise left open; but it appearing that the Maid had absented her self and no other proof but <note>[Text unreadable in original.]</note> of what she attested he was <rs id="t16870223-3-verdict13" type="verdictDescription">
+                     <interp inst="t16870223-3-verdict13" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

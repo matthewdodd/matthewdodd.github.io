@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670603-36">
+               <interp inst="t17670603-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670603-36" type="year" value="1767"></interp>
+               <interp inst="t17670603-36" type="uri" value="sessionsPapers/17670603"></interp>
+               <interp inst="t17670603-36" type="date" value="17670603"></interp>
+               <join result="criminalCharge" id="t17670603-36-off222-c334" targOrder="Y" targets="t17670603-36-defend410 t17670603-36-off222 t17670603-36-verdict227"></join>
+         
+               <p>314. (M.) 
+               
+                  <persName id="t17670603-36-defend410" type="defendantName">
+                     Francis 
+                     Brown 
+                  <interp inst="t17670603-36-defend410" type="surname" value="Brown"></interp>
+                     <interp inst="t17670603-36-defend410" type="given" value="Francis"></interp>
+                     <interp inst="t17670603-36-defend410" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670603-36-off222" type="offenceDescription">
+                     <interp inst="t17670603-36-off222" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670603-36-off222" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two pair of silver shoe-buckles, value 20 s.
+            </rs> the property of 
+               
+                  <persName id="t17670603-36-victim412" type="victimName">
+                     John 
+                     Innocent 
+                  <interp inst="t17670603-36-victim412" type="surname" value="Innocent"></interp>
+                     <interp inst="t17670603-36-victim412" type="given" value="John"></interp>
+                     <interp inst="t17670603-36-victim412" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670603-36-off222 t17670603-36-victim412"></join>
+                  </persName>
+                
+            , <rs id="t17670603-36-cd223" type="crimeDate">June 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670603-36-off222 t17670603-36-cd223"></join>. ++</p>
+               <p>J. Innocent. I am a <rs id="t17670603-36-viclabel224" type="occupation">silversmith</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670603-36-victim412 t17670603-36-viclabel224"></join>, and <rs id="t17670603-36-viclabel225" type="occupation">keep a shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670603-36-victim412 t17670603-36-viclabel225"></join> in <placeName id="t17670603-36-crimeloc226">Little Newport-street</placeName>
+                  <interp inst="t17670603-36-crimeloc226" type="placeName" value="Little Newport-street"></interp>
+                  <interp inst="t17670603-36-crimeloc226" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670603-36-off222 t17670603-36-crimeloc226"></join>. The prisoner came into my shop last Saturday, and cheapened a pair of buckles; I asked him 18 s. he bid me 12, and went away; then he came again on the Monday night, and asked to look at different patterns; I shewed him four different patterns; another Frenchman came in (I apprehend one of his accomplices) he said he wanted to sell some gold dust; the prisoner gave the Frenchman his place, and immediately ran out with two pair of silver buckles, I saw him take them; I ran after him, and pulled the other man out of my shop and shut the door; I seized the prisoner near Cranbourn-alley; he begged for mercy, and gave me the buckles, and asked pardon in his language, Monsieur, Pardon. (The backles produced and deposed to.)</p>
+               <p>Prisoner. I left a guinea and a half on the counter.</p>
+               <p>Prosecutor. He left none there, neither did he offer me any.</p>
+               <p>
+                  <rs id="t17670603-36-verdict227" type="verdictDescription">
+                     <interp inst="t17670603-36-verdict227" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17670603-36-punish228" type="punishmentDescription">
+                     <interp inst="t17670603-36-punish228" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670603-36-defend410 t17670603-36-punish228"></join>
+               T
+            </rs>.</p>
+            </div1>

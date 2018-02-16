@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500228-64">
+               <interp inst="t17500228-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500228-64" type="year" value="1750"></interp>
+               <interp inst="t17500228-64" type="uri" value="sessionsPapers/17500228"></interp>
+               <interp inst="t17500228-64" type="date" value="17500228"></interp>
+               <join result="criminalCharge" id="t17500228-64-off275-c328" targOrder="Y" targets="t17500228-64-defend465 t17500228-64-off275 t17500228-64-verdict278"></join>
+               <join result="criminalCharge" id="t17500228-64-off275-c329" targOrder="Y" targets="t17500228-64-defend467 t17500228-64-off275 t17500228-64-verdict278"></join>
+         
+               <p>265. 266. 
+               
+                  <persName id="t17500228-64-defend465" type="defendantName">
+                     Hannah 
+                     Landers 
+                  <interp inst="t17500228-64-defend465" type="surname" value="Landers"></interp>
+                     <interp inst="t17500228-64-defend465" type="given" value="Hannah"></interp>
+                     <interp inst="t17500228-64-defend465" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17500228-64-defend467" type="defendantName">
+                     Martha 
+                     Donnite 
+                  <interp inst="t17500228-64-defend467" type="surname" value="Donnite"></interp>
+                     <interp inst="t17500228-64-defend467" type="given" value="Martha"></interp>
+                     <interp inst="t17500228-64-defend467" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17500228-64-deflabel274" type="occupation">Spinsters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-64-defend465 t17500228-64-deflabel274"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17500228-64-defend467 t17500228-64-deflabel274"></join>, were indicted for that <rs id="t17500228-64-off275" type="offenceDescription">
+                     <interp inst="t17500228-64-off275" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500228-64-off275" type="offenceSubcategory" value="highwayRobbery"></interp>
+               they, on the king's highway, on 
+                     <persName id="t17500228-64-victim468" type="victimName">
+                        Elizabeth, the <rs id="t17500228-64-viclabel276" type="occupation">Wife of 
+                              <persName id="t17500228-64-person469">
+                                 Thomas 
+                                 Tucker 
+                              <interp inst="t17500228-64-person469" type="surname" value="Tucker"></interp>
+                              <interp inst="t17500228-64-person469" type="given" value="Thomas"></interp>
+                              <interp inst="t17500228-64-person469" type="gender" value="male"></interp>
+                           </persName>
+                           
+                        </rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17500228-64-victim468 t17500228-64-viclabel276"></join>
+                        <interp inst="t17500228-64-victim468" type="surname" value="Tucker"></interp>
+                        <interp inst="t17500228-64-victim468" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17500228-64-victim468" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500228-64-off275 t17500228-64-victim468"></join>
+                     </persName>
+                  , did make an assault putting her in corporal fear and danger of her life, one cloth cloak, value 8d. did steal, take, and carry away
+            </rs>.</p>
+               <p>
+                  <rs id="t17500228-64-cd277" type="crimeDate">Feb. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500228-64-off275 t17500228-64-cd277"></join>.</p>
+               <p>The Prosecutor herself owned she was in liquor when she was robbed. Also James Webb a Watchman confirmed that, and said she was almost incapable of knowing what had happened to her.</p>
+               <p>Both <rs id="t17500228-64-verdict278" type="verdictDescription">
+                     <interp inst="t17500228-64-verdict278" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

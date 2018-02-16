@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891009-2">
+               <interp inst="t16891009-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891009-2" type="year" value="1689"></interp>
+               <interp inst="t16891009-2" type="uri" value="sessionsPapers/16891009"></interp>
+               <interp inst="t16891009-2" type="date" value="16891009"></interp>
+               <join result="criminalCharge" id="t16891009-2-off5-c28" targOrder="Y" targets="t16891009-2-defend30 t16891009-2-off5 t16891009-2-verdict7"></join>
+         
+               <p>
+            
+                  <persName id="t16891009-2-defend30" type="defendantName">
+                  Elizabeth 
+                  Brown, alias <rs id="t16891009-2-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16891009-2-defend30 t16891009-2-alias-1"></join>Latham</rs>
+                     <interp inst="t16891009-2-defend30" type="surname" value="Brown"></interp>
+                     <interp inst="t16891009-2-defend30" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16891009-2-defend30" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16891009-2-off5" type="offenceDescription">
+                     <interp inst="t16891009-2-off5" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16891009-2-off5" type="offenceSubcategory" value="robbery"></interp>
+               Robbing one 
+                     
+                        <persName id="t16891009-2-victim32" type="victimName">
+                           Alice 
+                           Haman
+                        <interp inst="t16891009-2-victim32" type="surname" value="Haman"></interp>
+                        <interp inst="t16891009-2-victim32" type="given" value="Alice"></interp>
+                        <interp inst="t16891009-2-victim32" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16891009-2-off5 t16891009-2-victim32"></join>
+                     </persName>
+                     
+                   in the <placeName id="t16891009-2-crimeloc6">Strand</placeName>
+                     <interp inst="t16891009-2-crimeloc6" type="placeName" value="Strand"></interp>
+                     <interp inst="t16891009-2-crimeloc6" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16891009-2-off5 t16891009-2-crimeloc6"></join>, making an Assault upon her, taking away a Silver Medal value 10 s. and 5 s. in money
+            </rs>. It was declared against her, that she met the Prosecutor in the Street, and set upon her in company with some other Women. But the Prosecutor did not swear positively that she took the Medal, but she was one that helpt to commit the Felony, all which was very clearly sworn against her, and she was lookt upon as an idle Housewife, so she was found <rs id="t16891009-2-verdict7" type="verdictDescription">
+                     <interp inst="t16891009-2-verdict7" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16891009-2-punish8" type="punishmentDescription">
+                     <interp inst="t16891009-2-punish8" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16891009-2-punish8" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16891009-2-defend30 t16891009-2-punish8"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

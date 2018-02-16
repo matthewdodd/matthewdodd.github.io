@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900605-15">
+               <interp inst="t16900605-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900605-15" type="year" value="1690"></interp>
+               <interp inst="t16900605-15" type="uri" value="sessionsPapers/16900605"></interp>
+               <interp inst="t16900605-15" type="date" value="16900605"></interp>
+               <join result="criminalCharge" id="t16900605-15-off69-c61" targOrder="Y" targets="t16900605-15-defend87 t16900605-15-off69 t16900605-15-verdict70"></join>
+               <join result="criminalCharge" id="t16900605-15-off69-c62" targOrder="Y" targets="t16900605-15-defend89 t16900605-15-off69 t16900605-15-verdict70"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900605-15-defend87" type="defendantName">
+                     Sarah 
+                     Hicks
+                  <interp inst="t16900605-15-defend87" type="surname" value="Hicks"></interp>
+                     <interp inst="t16900605-15-defend87" type="given" value="Sarah"></interp>
+                     <interp inst="t16900605-15-defend87" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16900605-15-defend89" type="defendantName">
+                     Ann 
+                     Durrant
+                  <interp inst="t16900605-15-defend89" type="surname" value="Durrant"></interp>
+                     <interp inst="t16900605-15-defend89" type="given" value="Ann"></interp>
+                     <interp inst="t16900605-15-defend89" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were both tryed for <rs id="t16900605-15-off69" type="offenceDescription">
+                     <interp inst="t16900605-15-off69" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900605-15-off69" type="offenceSubcategory" value="other"></interp>
+               stealing on the first day of February, in the first year of Their Majesties Reign, a peticoat, and other goods
+            </rs>, <rs id="t16900605-15-verdict70" type="verdictDescription">
+                     <interp inst="t16900605-15-verdict70" type="verdictCategory" value="notGuilty"></interp>
+               but
+            </rs> were <rs id="t16900605-15-punish71" type="punishmentDescription">
+                     <interp inst="t16900605-15-punish71" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t16900605-15-punish71" type="punishmentSubcategory" value="pardon"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900605-15-defend87 t16900605-15-punish71"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900605-15-defend89 t16900605-15-punish71"></join>
+               discharged by vertue of the Free pardon
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-11">
+               <interp inst="t16900430-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-11" type="year" value="1690"></interp>
+               <interp inst="t16900430-11" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-11" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-11-off52-c71" targOrder="Y" targets="t16900430-11-defend95 t16900430-11-off52 t16900430-11-verdict54"></join>
+         
+               <p>
+            
+                  <persName id="t16900430-11-defend95" type="defendantName">
+                  Thomas 
+                  Holmes
+               <interp inst="t16900430-11-defend95" type="surname" value="Holmes"></interp>
+                     <interp inst="t16900430-11-defend95" type="given" value="Thomas"></interp>
+                     <interp inst="t16900430-11-defend95" type="gender" value="male"></interp>
+                  </persName>
+             was Tryed for <rs id="t16900430-11-off52" type="offenceDescription">
+                     <interp inst="t16900430-11-off52" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900430-11-off52" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard value 9 l. 10 s. 2 sales 10 l. 2 Silver Spoons 14 s. and divers other Goods
+            </rs>, from 
+               
+                  <persName id="t16900430-11-victim97" type="victimName">
+                     Edward 
+                     Mullinax
+                  <interp inst="t16900430-11-victim97" type="surname" value="Mullinax"></interp>
+                     <interp inst="t16900430-11-victim97" type="given" value="Edward"></interp>
+                     <interp inst="t16900430-11-victim97" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900430-11-off52 t16900430-11-victim97"></join>
+                  </persName>
+               
+            , on the <rs id="t16900430-11-cd53" type="crimeDate">first of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900430-11-off52 t16900430-11-cd53"></join> last. It was Witnessed, that the Prisoner came to Mullinax's House with a pretended Wife, and took a Lodging, and after they had been there a while they took away the goods, which were some of them found upon them after, and they came nor took their Lodging the same Night the Prosecutor was Robbed. The Prisoner could say little for himself, so he was found <rs id="t16900430-11-verdict54" type="verdictDescription">
+                     <interp inst="t16900430-11-verdict54" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16900430-11-punish55" type="punishmentDescription">
+                     <interp inst="t16900430-11-punish55" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900430-11-punish55" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900430-11-defend95 t16900430-11-punish55"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

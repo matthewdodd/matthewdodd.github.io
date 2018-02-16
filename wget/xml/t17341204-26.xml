@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341204-26">
+               <interp inst="t17341204-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341204-26" type="year" value="1734"></interp>
+               <interp inst="t17341204-26" type="uri" value="sessionsPapers/17341204"></interp>
+               <interp inst="t17341204-26" type="date" value="17341204"></interp>
+               <join result="criminalCharge" id="t17341204-26-off141-c146" targOrder="Y" targets="t17341204-26-defend201 t17341204-26-off141 t17341204-26-verdict143"></join>
+         
+               <p>28. 
+               
+                  <persName id="t17341204-26-defend201" type="defendantName">
+                     Elizabeth 
+                     Davis 
+                  <interp inst="t17341204-26-defend201" type="surname" value="Davis"></interp>
+                     <interp inst="t17341204-26-defend201" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17341204-26-defend201" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17341204-26-off141" type="offenceDescription">
+                     <interp inst="t17341204-26-off141" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17341204-26-off141" type="offenceSubcategory" value="other"></interp>
+               stealing 2 Sheets and 2 Pillowbiers
+            </rs>, the Goods of 
+               
+                  <persName id="t17341204-26-victim203" type="victimName">
+                     Joseph 
+                     Dutton 
+                  <interp inst="t17341204-26-victim203" type="surname" value="Dutton"></interp>
+                     <interp inst="t17341204-26-victim203" type="given" value="Joseph"></interp>
+                     <interp inst="t17341204-26-victim203" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17341204-26-off141 t17341204-26-victim203"></join>
+                  </persName>
+                
+            , <rs id="t17341204-26-cd142" type="crimeDate">October 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341204-26-off141 t17341204-26-cd142"></join>. <rs id="t17341204-26-verdict143" type="verdictDescription">
+                     <interp inst="t17341204-26-verdict143" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

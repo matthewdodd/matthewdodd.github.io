@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17361208-9">
+               <interp inst="t17361208-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17361208-9" type="year" value="1736"></interp>
+               <interp inst="t17361208-9" type="uri" value="sessionsPapers/17361208"></interp>
+               <interp inst="t17361208-9" type="date" value="17361208"></interp>
+               <join result="criminalCharge" id="t17361208-9-off43-c76" targOrder="Y" targets="t17361208-9-defend95 t17361208-9-off43 t17361208-9-verdict45"></join>
+         
+               <p> ^ 9. 
+               
+                  <persName id="t17361208-9-defend95" type="defendantName">
+                     John
+                      Nevet 
+                  <interp inst="t17361208-9-defend95" type="surname" value="Nevet"></interp>
+                     <interp inst="t17361208-9-defend95" type="given" value="John"></interp>
+                     <interp inst="t17361208-9-defend95" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17361208-9-defloc42">St. George's, Middlesex</placeName>
+                  <interp inst="t17361208-9-defloc42" type="placeName" value="St. George's, Middlesex"></interp>
+                  <interp inst="t17361208-9-defloc42" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17361208-9-defend95 t17361208-9-defloc42"></join> was indicted, for that 
+               <persName id="t17361208-9-person96">
+                  William 
+                  Dobson 
+               <interp inst="t17361208-9-person96" type="surname" value="Dobson"></interp>
+                     <interp inst="t17361208-9-person96" type="given" value="William"></interp>
+                     <interp inst="t17361208-9-person96" type="gender" value="male"></interp>
+                  </persName>
+            , being convicted of stealing two Cocks, value 2 s. and eight Hens, value 8 s. the Goods of 
+               
+                  <persName id="t17361208-9-victim98" type="victimName">
+                     John 
+                     Peacock 
+                  <interp inst="t17361208-9-victim98" type="surname" value="Peacock"></interp>
+                     <interp inst="t17361208-9-victim98" type="given" value="John"></interp>
+                     <interp inst="t17361208-9-victim98" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17361208-9-off43 t17361208-9-victim98"></join>
+                  </persName>
+                
+            , April 2. he the said 
+               <persName id="t17361208-9-person99">
+                  John 
+                  Nevet 
+               <interp inst="t17361208-9-person99" type="surname" value="Nevet"></interp>
+                     <interp inst="t17361208-9-person99" type="given" value="John"></interp>
+                     <interp inst="t17361208-9-person99" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17361208-9-off43" type="offenceDescription">
+                     <interp inst="t17361208-9-off43" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17361208-9-off43" type="offenceSubcategory" value="receiving"></interp>
+               feloniously did receive five Hens, value 5 s. part of the said Goods, knowing them to be stole
+            </rs>, <rs id="t17361208-9-cd44" type="crimeDate">April 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17361208-9-off43 t17361208-9-cd44"></join>. <rs id="t17361208-9-verdict45" type="verdictDescription">
+                     <interp inst="t17361208-9-verdict45" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>^ See Sessions-Book, 1736, No. IV. Page 96.</p>
+            </div1>

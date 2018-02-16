@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16911209-10">
+               <interp inst="t16911209-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16911209-10" type="year" value="1691"></interp>
+               <interp inst="t16911209-10" type="uri" value="sessionsPapers/16911209"></interp>
+               <interp inst="t16911209-10" type="date" value="16911209"></interp>
+               <join result="criminalCharge" id="t16911209-10-off37-c46" targOrder="Y" targets="t16911209-10-defend46 t16911209-10-off37 t16911209-10-verdict40"></join>
+         
+               <p>
+            
+                  <persName id="t16911209-10-defend46" type="defendantName">
+                  John 
+                  Alsop
+               <interp inst="t16911209-10-defend46" type="surname" value="Alsop"></interp>
+                     <interp inst="t16911209-10-defend46" type="given" value="John"></interp>
+                     <interp inst="t16911209-10-defend46" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16911209-10-defloc35">St. James Westminster</placeName>
+                  <interp inst="t16911209-10-defloc35" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t16911209-10-defloc35" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16911209-10-defend46 t16911209-10-defloc35"></join>, <rs id="t16911209-10-deflabel36" type="occupation">Butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16911209-10-defend46 t16911209-10-deflabel36"></join>, was indicted and tryed for the <rs id="t16911209-10-off37" type="offenceDescription">
+                     <interp inst="t16911209-10-off37" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16911209-10-off37" type="offenceSubcategory" value="murder"></interp>
+               Murther of 
+                     <persName id="t16911209-10-victim47" type="victimName">
+                        Ralph 
+                        Treley
+                     <interp inst="t16911209-10-victim47" type="surname" value="Treley"></interp>
+                        <interp inst="t16911209-10-victim47" type="given" value="Ralph"></interp>
+                        <interp inst="t16911209-10-victim47" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16911209-10-off37 t16911209-10-victim47"></join>
+                     </persName>
+                  , a <rs id="t16911209-10-viclabel38" type="occupation">Boy</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16911209-10-victim47 t16911209-10-viclabel38"></join> about 8 or 9 years old, on the <rs id="t16911209-10-cd39" type="crimeDate">16 of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16911209-10-off37 t16911209-10-cd39"></join> last, giving him several desperate stripes with a whip and a Ropes end; upon the Face, Neck, Head, Breast, Back, Shoulders, short Ribs and Belly, &amp;c. of which beating and unnatural Usage, he lived languishing till the 24. day of the same Month, and then dyed
+            </rs>; The Evidence declared, That the Boy was beaten in a most horrid manner, and much bruised with the violence of the strokes, and his Head was swelled almost as big as two; the occasion of this cruel Usage of him that did it, was grounded upon some suspition he had, that the Boy had stole a Silver Spoon from him, the Boy, being poor, used to wait in Clare-Market, to run of Errands, where the Prisoner kept his stall; but no Evidence could swear, that the Prisoner was the Person, that beat him; for the Boy only said, that it was a Butcher in Clare-Market, next door to one Mrs. Moor, but he did not know him, it did not appear to be the Prisoner; for he had always been very kind to the Boy, so he was <rs id="t16911209-10-verdict40" type="verdictDescription">
+                     <interp inst="t16911209-10-verdict40" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

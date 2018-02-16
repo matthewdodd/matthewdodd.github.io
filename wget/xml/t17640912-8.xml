@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640912-8">
+               <interp inst="t17640912-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640912-8" type="year" value="1764"></interp>
+               <interp inst="t17640912-8" type="uri" value="sessionsPapers/17640912"></interp>
+               <interp inst="t17640912-8" type="date" value="17640912"></interp>
+               <join result="criminalCharge" id="t17640912-8-off40-c59" targOrder="Y" targets="t17640912-8-defend72 t17640912-8-off40 t17640912-8-verdict43"></join>
+         
+               <p>484. (M.) 
+               
+                  <persName id="t17640912-8-defend72" type="defendantName">
+                     Barney 
+                     Carrol 
+                  <interp inst="t17640912-8-defend72" type="surname" value="Carrol"></interp>
+                     <interp inst="t17640912-8-defend72" type="given" value="Barney"></interp>
+                     <interp inst="t17640912-8-defend72" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640912-8-off40" type="offenceDescription">
+                     <interp inst="t17640912-8-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640912-8-off40" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three shillings in money, numbered
+            </rs>, the property of 
+               
+                  <persName id="t17640912-8-victim74" type="victimName">
+                     John 
+                     Davis 
+                  <interp inst="t17640912-8-victim74" type="surname" value="Davis"></interp>
+                     <interp inst="t17640912-8-victim74" type="given" value="John"></interp>
+                     <interp inst="t17640912-8-victim74" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640912-8-off40 t17640912-8-victim74"></join>
+                  </persName>
+                
+            , <rs id="t17640912-8-cd41" type="crimeDate">August 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640912-8-off40 t17640912-8-cd41"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17640912-8-person75">
+                  John 
+                  Davis 
+               <interp inst="t17640912-8-person75" type="surname" value="Davis"></interp>
+                     <interp inst="t17640912-8-person75" type="given" value="John"></interp>
+                     <interp inst="t17640912-8-person75" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17640912-8-crimeloc42">Middle-row, Holborn</placeName>
+                  <interp inst="t17640912-8-crimeloc42" type="placeName" value="Middle-row, Holborn"></interp>
+                  <interp inst="t17640912-8-crimeloc42" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640912-8-off40 t17640912-8-crimeloc42"></join>. On Monday morning, the 6th of August, I was telling my half-pence out of my till: I told ten shillings: I put five of them up in a brown paper, and the other lay loose. I was called to carry a pennyworth of two-penny over the way, and left my girl in the tap-room: I returned in about four or five minutes, and missed three shillings in halfpence, out of the loose parcel: the girl told me, a man and a boy had been in, and if any money was taken, it must be while she went down for their beer. A neighbour told me he saw them go out of the house; I pursued and overtook the prisoner in Lincoln's-Inn-Fields, and brought him back: he was taken before Justice Welch, and 2 s. and three-halfpence were found upon him. The boy ran away, as soon as he saw me coming.</p>
+               <p>
+            
+                  <persName id="t17640912-8-person76">
+                  Susannah 
+                  Rositer 
+               <interp inst="t17640912-8-person76" type="surname" value="Rositer"></interp>
+                     <interp inst="t17640912-8-person76" type="given" value="Susannah"></interp>
+                     <interp inst="t17640912-8-person76" type="gender" value="female"></interp>
+                  </persName>
+            , the servant girl, of near fourteen years of age, deposed, the prisoner and a boy came and had two pints of beer; that they stood near the money when she went down for the beer, but she did not see them take any.</p>
+               <p>
+                  <rs id="t17640912-8-verdict43" type="verdictDescription">
+                     <interp inst="t17640912-8-verdict43" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

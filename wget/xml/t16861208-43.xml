@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16861208-43">
+               <interp inst="t16861208-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t16861208-43" type="year" value="1686"></interp>
+               <interp inst="t16861208-43" type="uri" value="sessionsPapers/16861208"></interp>
+               <interp inst="t16861208-43" type="date" value="16861208"></interp>
+               <join result="criminalCharge" id="t16861208-43-off217-c132" targOrder="Y" targets="t16861208-43-defend186 t16861208-43-off217 t16861208-43-verdict219"></join>
+         
+               <p>A 
+               <persName id="t16861208-43-defend186" type="defendantName">Woman<interp inst="t16861208-43-defend186" type="gender" value="female"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16861208-43-off217" type="offenceDescription">
+                     <interp inst="t16861208-43-off217" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16861208-43-off217" type="offenceSubcategory" value="pocketpicking"></interp>
+               picking the Pocket of 
+                     <persName id="t16861208-43-victim187" type="victimName">
+                        William 
+                        Hester
+                     <interp inst="t16861208-43-victim187" type="surname" value="Hester"></interp>
+                        <interp inst="t16861208-43-victim187" type="given" value="William"></interp>
+                        <interp inst="t16861208-43-victim187" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16861208-43-off217 t16861208-43-victim187"></join>
+                     </persName>
+                   on the <rs id="t16861208-43-cd218" type="crimeDate">13th. of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16861208-43-off217 t16861208-43-cd218"></join> last of twenty one Pieces of gold, value 21 l. 10 s. two Pieces more of gold, value 2 l. 7 s. two French Pistols, value 22 s. and 15 s. in moneys
+            </rs>: The Evidence was Hester, who could not swear possitively against her, and the Prisoner denying the Fast she was <rs id="t16861208-43-verdict219" type="verdictDescription">
+                     <interp inst="t16861208-43-verdict219" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

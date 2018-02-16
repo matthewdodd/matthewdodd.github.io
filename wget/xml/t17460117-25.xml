@@ -1,3 +1,418 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460117-25">
+               <interp inst="t17460117-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460117-25" type="year" value="1746"></interp>
+               <interp inst="t17460117-25" type="uri" value="sessionsPapers/17460117"></interp>
+               <interp inst="t17460117-25" type="date" value="17460117"></interp>
+               <join result="criminalCharge" id="t17460117-25-off97-c287" targOrder="Y" targets="t17460117-25-defend328 t17460117-25-off97 t17460117-25-verdict101"></join>
+               <join result="criminalCharge" id="t17460117-25-off97-c288" targOrder="Y" targets="t17460117-25-defend330 t17460117-25-off97 t17460117-25-verdict101"></join>
+         
+               <p>59. 
+               
+                  <persName id="t17460117-25-defend328" type="defendantName">
+                     Anne 
+                     Gray 
+                  <interp inst="t17460117-25-defend328" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-defend328" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-defend328" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17460117-25-defend330" type="defendantName">
+                     Mary 
+                     Nutcher 
+                  <interp inst="t17460117-25-defend330" type="surname" value="Nutcher"></interp>
+                     <interp inst="t17460117-25-defend330" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-defend330" type="gender" value="female"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17460117-25-off97" type="offenceDescription">
+                     <interp inst="t17460117-25-off97" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460117-25-off97" type="offenceSubcategory" value="other"></interp>
+               stealing two Pair of Sheets, &amp;c.
+            </rs> the Property of 
+               
+                  <persName id="t17460117-25-victim332" type="victimName">
+                     Abraham 
+                     Lacy 
+                  <interp inst="t17460117-25-victim332" type="surname" value="Lacy"></interp>
+                     <interp inst="t17460117-25-victim332" type="given" value="Abraham"></interp>
+                     <interp inst="t17460117-25-victim332" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17460117-25-off97 t17460117-25-victim332"></join>
+                  </persName>
+                
+            , <rs id="t17460117-25-viclabel98" type="occupation">Victualler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17460117-25-victim332 t17460117-25-viclabel98"></join> by <placeName id="t17460117-25-crimeloc99">London-Wall</placeName>
+                  <interp inst="t17460117-25-crimeloc99" type="placeName" value="London-Wall"></interp>
+                  <interp inst="t17460117-25-crimeloc99" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460117-25-off97 t17460117-25-crimeloc99"></join>, on the <rs id="t17460117-25-cd100" type="crimeDate">20th of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460117-25-off97 t17460117-25-cd100"></join>.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person333">
+                  Sarah 
+                  Lacy 
+               <interp inst="t17460117-25-person333" type="surname" value="Lacy"></interp>
+                     <interp inst="t17460117-25-person333" type="given" value="Sarah"></interp>
+                     <interp inst="t17460117-25-person333" type="gender" value="female"></interp>
+                  </persName>
+            . I am the Wife of 
+               <persName id="t17460117-25-person334">
+                  Abraham 
+                  Lacy 
+               <interp inst="t17460117-25-person334" type="surname" value="Lacy"></interp>
+                     <interp inst="t17460117-25-person334" type="given" value="Abraham"></interp>
+                     <interp inst="t17460117-25-person334" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Did you lose any Table Cloths, Sheets, &amp;c.</p>
+               <p>Lacy. Yes, my Lord.</p>
+               <p>Q. When?</p>
+               <p>Lacy. On the 20th of December last.</p>
+               <p>Q. From whence did you lose them?</p>
+               <p>Lacy. From my own House.</p>
+               <p>Q. What is your Husband?</p>
+               <p>Lacy. We keep a Publick House by London-Wall.</p>
+
+               <p>Q. How came you to suppose the Prisoner had taken them?</p>
+               <p>Lacy. As soon as I had missed them my Husband went to Pawn-brokers in the Neighbourhood, and found some of the Things.</p>
+               <p>Q. At what Pawn-broker's?</p>
+               <p>Lacy. We found one Sheet at one 
+               <persName id="t17460117-25-person335">
+                  John 
+                  Wight 
+               <interp inst="t17460117-25-person335" type="surname" value="Wight"></interp>
+                     <interp inst="t17460117-25-person335" type="given" value="John"></interp>
+                     <interp inst="t17460117-25-person335" type="gender" value="male"></interp>
+                  </persName>
+            's.</p>
+               <p>Q. Where was the other?</p>
+               <p>Lacy. At Mr. Draper's.</p>
+               <p>Q. Where did you find the rest of the Things?</p>
+               <p>Lacy. In 
+               <persName id="t17460117-25-person336">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person336" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person336" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person336" type="gender" value="female"></interp>
+                  </persName>
+            's House.</p>
+               <p>Q. What did you find there?</p>
+               <p>Lacy. Four Towels, three Table-Cloths and a Pillow.</p>
+               <p>Q. Were you present when these Things were found?</p>
+               <p>Lacy. I was at 
+               <persName id="t17460117-25-person337">
+                  John 
+                  Wight 
+               <interp inst="t17460117-25-person337" type="surname" value="Wight"></interp>
+                     <interp inst="t17460117-25-person337" type="given" value="John"></interp>
+                     <interp inst="t17460117-25-person337" type="gender" value="male"></interp>
+                  </persName>
+            's.</p>
+               <p>Q. You only was inform'd that the rest were found in the other Places?</p>
+               <p>Lacy. 
+               <persName id="t17460117-25-person338">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person338" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person338" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person338" type="gender" value="female"></interp>
+                  </persName>
+             herself told me she had pawn'd them at Draper's.</p>
+               <p>Q. What did she say she had pawn'd?</p>
+               <p>Lacy. One of the Sheets at Draper's.</p>
+               <p>Q. What did she say at the same Time?</p>
+               <p>Lacy. She told me Mary Nutcher had brought them to her.</p>
+               <p>Q. Have you any Thing to say against 
+               <persName id="t17460117-25-person339">
+                  Mary 
+                  Nutcher 
+               <interp inst="t17460117-25-person339" type="surname" value="Nutcher"></interp>
+                     <interp inst="t17460117-25-person339" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-person339" type="gender" value="female"></interp>
+                  </persName>
+             from your own Knowledge?</p>
+               <p>Lacy. No, my Lord.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person340">
+                  Q. 
+               <interp inst="t17460117-25-person340" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person340" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-25-person341">
+                  John 
+                  Wight 
+               <interp inst="t17460117-25-person341" type="surname" value="Wight"></interp>
+                     <interp inst="t17460117-25-person341" type="given" value="John"></interp>
+                     <interp inst="t17460117-25-person341" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say against the Prisoner?</p>
+               <p>Wight. On the 20th of December Mr. Lacy came to my House, and asked if any Sheets or Table Cloths were brought to my House. Next Day there was a Sheet brought to my House by 
+               <persName id="t17460117-25-person342">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person342" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person342" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person342" type="gender" value="female"></interp>
+                  </persName>
+             (the Prisoner.)</p>
+               <p>Q. Did she bring it to pawn?</p>
+               <p>Wight. To pawn, my Lord. I went to Mrs. Lacy and she own'd the Sheet.</p>
+               <p>Q. What said the Prisoner to it ?</p>
+               <p>Wight. She said nothing at all in the House. It was pledg'd to me, I only inform'd of it.</p>
+               <p>Q. What became of that Sheet?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174601170018"></xptr>Wight. I inform'd Mrs. Lacy of it, and she took the Sheet away.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person343">
+                  Q. 
+               <interp inst="t17460117-25-person343" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person343" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Mrs. Lacy.) Are you sure that is your Sheet?</p>
+               <p>Lacy. Yes, my Lord.</p>
+               <p>Q. Upon your seeing that Sheet, what did you do with the Woman?</p>
+               <p>Lacy. She went home with me and was carry'd before an Alderman.</p>
+               <p>Q. What did the Prisoner (
+               <persName id="t17460117-25-person344">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person344" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person344" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person344" type="gender" value="female"></interp>
+                  </persName>
+            ) say to it, did she say nothing to it?</p>
+               <p>Lacy. I cannot tell.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person345">
+                  Q. 
+               <interp inst="t17460117-25-person345" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person345" type="gender" value="indeterminate"></interp>
+                  </persName>
+            ( to 
+               <persName id="t17460117-25-person346">
+                  John 
+                  Cheney 
+               <interp inst="t17460117-25-person346" type="surname" value="Cheney"></interp>
+                     <interp inst="t17460117-25-person346" type="given" value="John"></interp>
+                     <interp inst="t17460117-25-person346" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say?</p>
+               <p>Cheney. Sir. On the 21st of December, Mr. Wight (the Pawnbroker) came to inform Mrs. Lacy, that there was a Woman come to pawn a Sheet, and if she would be so good as to come, she might find her Sheet.</p>
+               <p>Q. When the Prisoner was before the Alderman, did she own or deny it?</p>
+               <p>Cheney. She deny'd her taking of it, and said 
+               <persName id="t17460117-25-person347">
+                  Mary 
+                  Nutcher 
+               <interp inst="t17460117-25-person347" type="surname" value="Nutcher"></interp>
+                     <interp inst="t17460117-25-person347" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-person347" type="gender" value="female"></interp>
+                  </persName>
+             had brought her these Things.</p>
+               <p>(to 
+               <persName id="t17460117-25-person348">
+                  Mary 
+                  Dugard 
+               <interp inst="t17460117-25-person348" type="surname" value="Dugard"></interp>
+                     <interp inst="t17460117-25-person348" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-person348" type="gender" value="female"></interp>
+                  </persName>
+            .) What have you to say against the Prisoner?</p>
+               <p>Dugard. I was at work at Mrs. Lacy's that Day, and when I had done my Work, I went up to make her Bed; after that I lock'd the Door and went up another pair of Stairs to make another Bed; but coming down I saw Mrs. Lacy's Door open, (at which I was surpris'd) and the Curtain bulk'd out as if somebody had hid himself. Upon that I went down and told the Maid, I was afraid somebody was in the Room. We were afraid to go by ourselves, we call'd the Man, and all three went up, and we miss'd the Things off the Bed.</p>
+               <p>Q. What did you miss?</p>
+               <p>Dugard. a pair of Sheets off the Bed, a Pillow and Pillow-Case.</p>
+               <p>Q. Do you know what became of them?</p>
+               <p>Dugard. No, my Lord. But the Pawnbroker Mr. (Wight) came to inform that a Sheet was brought to him.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person349">
+                  Q. 
+               <interp inst="t17460117-25-person349" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person349" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-25-person350">
+                  John 
+                  Emmot 
+               <interp inst="t17460117-25-person350" type="surname" value="Emmot"></interp>
+                     <interp inst="t17460117-25-person350" type="given" value="John"></interp>
+                     <interp inst="t17460117-25-person350" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say against the Prisoner?</p>
+               <p>Emmot. I was the Officer and charg'd the Prisoner. I went to the Prisoner's House, and we ripp'd a Flock-Bed, and there we found three Tableclothes and four Towels.</p>
+               <p>Q. Do you know them again, if you was to see them?</p>
+               <p>Emmot. Yes. I believe I should.</p>
+               <p>Q. Was Mr. Lacy's Wife present when you found them?</p>
+               <p>Emmot. Yes. My Lord.</p>
+               <p>Priso ner. Please you my Lord to ask whether I lay upon a Bed in the Compter? You say it was under the Bed where I lay. I deny that I lay on a Bed in the Compter.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person351">
+                  Q. 
+               <interp inst="t17460117-25-person351" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person351" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-25-person352">
+                  Henry 
+                  Swain 
+               <interp inst="t17460117-25-person352" type="surname" value="Swain"></interp>
+                     <interp inst="t17460117-25-person352" type="given" value="Henry"></interp>
+                     <interp inst="t17460117-25-person352" type="gender" value="male"></interp>
+                  </persName>
+            .) What are you?</p>
+               <p>Swain. A Gentleman's Servant, I lodg'd at Mrs. Lacy's.</p>
+               <p>Q. Were you at the Compter? The Prisoner said that she did not go to Bed.</p>
+               <p>Swain. 
+               <persName id="t17460117-25-person353">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person353" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person353" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person353" type="gender" value="female"></interp>
+                  </persName>
+             own'd every Thing, except this Sheet.</p>
+               <p>Q. She own'd where she pawn'd the other Things, did she own she stole them?</p>
+               <p>Swain. No. She said 
+               <persName id="t17460117-25-person354">
+                  Mary 
+                  Nutcher 
+               <interp inst="t17460117-25-person354" type="surname" value="Nutcher"></interp>
+                     <interp inst="t17460117-25-person354" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-person354" type="gender" value="female"></interp>
+                  </persName>
+             had brought them to her.</p>
+               <p>Q. Was there any Woman in the Room or Bed?</p>
+               <p>Swain. Yes. My Lord, and the Woman said they judg'd 
+               <persName id="t17460117-25-person355">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person355" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person355" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person355" type="gender" value="female"></interp>
+                  </persName>
+             had taken the Sheets, and that it was warm when it was taken up.</p>
+               <p>Q. Was it warm, as if it had been in a Bed?</p>
+               <p>Swain. It was warm, as if it had been folded round some Person's Body.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person356">
+                  Q. 
+               <interp inst="t17460117-25-person356" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person356" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-25-person357">
+                  Henry 
+                  Swain 
+               <interp inst="t17460117-25-person357" type="surname" value="Swain"></interp>
+                     <interp inst="t17460117-25-person357" type="given" value="Henry"></interp>
+                     <interp inst="t17460117-25-person357" type="gender" value="male"></interp>
+                  </persName>
+            .) Was there any Bed in the Room where you saw this Sheet?</p>
+               <p>
+            
+                  <persName id="t17460117-25-person358">
+                  Henry 
+                  Swain 
+               <interp inst="t17460117-25-person358" type="surname" value="Swain"></interp>
+                     <interp inst="t17460117-25-person358" type="given" value="Henry"></interp>
+                     <interp inst="t17460117-25-person358" type="gender" value="male"></interp>
+                  </persName>
+            . There was a Cabbin or Place where they lay.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person359">
+                  Q. 
+               <interp inst="t17460117-25-person359" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person359" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Mr. Draper.) What have you to say to 
+               <persName id="t17460117-25-person360">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person360" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person360" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person360" type="gender" value="female"></interp>
+                  </persName>
+            ?</p>
+               <p>Draper. She pledg'd a pair of Sheets with me for 5 s. that is all I know of it.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person361">
+                  Q. 
+               <interp inst="t17460117-25-person361" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person361" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner.) What have you to say for yourself?</p>
+               <p>Prisoner. Please you my Lord, 
+               <persName id="t17460117-25-person362">
+                  Mary 
+                  Nutcher 
+               <interp inst="t17460117-25-person362" type="surname" value="Nutcher"></interp>
+                     <interp inst="t17460117-25-person362" type="given" value="Mary"></interp>
+                     <interp inst="t17460117-25-person362" type="gender" value="female"></interp>
+                  </persName>
+             was at my House, and said she had pawn'd a Cloak, and brought these Things to me to pawn, to get her Cloak out of pawn, that she might go out on Saturday Morning.</p>
+               <p>Court. (to the Prisoner.) The Evidence seems presumptious that you are the Person that stole the Goods, unless you can lay the Charge to somebody else; but you are to prove it; or bring some Persons to your Character.</p>
+               <p>Prisoner. On Saturday Morning I was committed to the Compter for three Weeks, and I never saw the Sheet.</p>
+               <p>Court. 'Tis not only that, but the rest of the Sheets you pawn'd. Now you are to account for the Possession of those that were found upon you; which you do by charging them on the other Prisoner. But you ought to have some Witnesses to prove that, or some Persons to your Character.</p>
+               <p>
+            
+                  <persName id="t17460117-25-person363">
+                  Q. 
+               <interp inst="t17460117-25-person363" type="given" value="Q."></interp>
+                     <interp inst="t17460117-25-person363" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-25-person364">
+                  Elizabeth 
+                  Thomson 
+               <interp inst="t17460117-25-person364" type="surname" value="Thomson"></interp>
+                     <interp inst="t17460117-25-person364" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17460117-25-person364" type="gender" value="female"></interp>
+                  </persName>
+            .) What have you to say for 
+               <persName id="t17460117-25-person365">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person365" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person365" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person365" type="gender" value="female"></interp>
+                  </persName>
+            ? What are you?</p>
+               <p>Thomson. I live with my Mother.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174601170019"></xptr>Q. What is your Mother?</p>
+               <p>Thomson. She goes a Nurse-keeping, and I take in Plain-work.</p>
+               <p>Q. How long have you known the Prisoner?</p>
+               <p>Thomson. As long as I can remember.</p>
+               <p>Q. What is she?</p>
+               <p>Thomson. She always worked hard for her Living. She has four Children. She worked at her Husband's Trade, who is an Upholsterer; but he is gone away, and the Children, I believe, are in the Workhouse.</p>
+               <p>Q. How long have they been there?</p>
+
+               <p>Thomson. About a Fortnight, I believe, ever since she has been under Consinement.</p>
+               <p>Q. Do you know the other Prisoner, Nutcher?</p>
+               <p>Thomson. I never saw her before but in the Compter with 
+               <persName id="t17460117-25-person366">
+                  Anne 
+                  Gray 
+               <interp inst="t17460117-25-person366" type="surname" value="Gray"></interp>
+                     <interp inst="t17460117-25-person366" type="given" value="Anne"></interp>
+                     <interp inst="t17460117-25-person366" type="gender" value="female"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Have you been often conversant with the Prisoner? Has she the Character of an honest Woman?</p>
+               <p>Thomson. Yes, I never heard otherwise.</p>
+               <p>Q. Has she no other Friends of your Acquaintance?</p>
+               <p>Thomson. My Mother was here, but was oblig'd to go away to a Gentlewoman that is a dying. <rs id="t17460117-25-verdict101" type="verdictDescription">
+                     <interp inst="t17460117-25-verdict101" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

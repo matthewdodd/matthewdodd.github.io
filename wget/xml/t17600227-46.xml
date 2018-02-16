@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600227-46">
+               <interp inst="t17600227-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600227-46" type="year" value="1760"></interp>
+               <interp inst="t17600227-46" type="uri" value="sessionsPapers/17600227"></interp>
+               <interp inst="t17600227-46" type="date" value="17600227"></interp>
+               <join result="criminalCharge" id="t17600227-46-off241-c329" targOrder="Y" targets="t17600227-46-defend407 t17600227-46-off241 t17600227-46-verdict245"></join>
+         
+               <p>127. (M.) 
+               <persName id="t17600227-46-defend407" type="defendantName">
+                  Ann, <rs id="t17600227-46-deflabel240" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17600227-46-defend407 t17600227-46-deflabel240"></join> of Richard Cowdery<interp inst="t17600227-46-defend407" type="given" value="Ann"></interp>
+                     <interp inst="t17600227-46-defend407" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17600227-46-off241" type="offenceDescription">
+                     <interp inst="t17600227-46-off241" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600227-46-off241" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver spoon, value 8 s.
+            </rs> the property of 
+               
+                  <persName id="t17600227-46-victim409" type="victimName">
+                     Thomas 
+                     Reed 
+                  <interp inst="t17600227-46-victim409" type="surname" value="Reed"></interp>
+                     <interp inst="t17600227-46-victim409" type="given" value="Thomas"></interp>
+                     <interp inst="t17600227-46-victim409" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600227-46-off241 t17600227-46-victim409"></join>
+                  </persName>
+                
+            , <rs id="t17600227-46-cd242" type="crimeDate">February 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600227-46-off241 t17600227-46-cd242"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17600227-46-person410">
+                  Thomas 
+                  Reed 
+               <interp inst="t17600227-46-person410" type="surname" value="Reed"></interp>
+                     <interp inst="t17600227-46-person410" type="given" value="Thomas"></interp>
+                     <interp inst="t17600227-46-person410" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17600227-46-viclabel243" type="occupation">I keep the Black Bear</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600227-46-victim409 t17600227-46-viclabel243"></join>, in <placeName id="t17600227-46-crimeloc244">Piccadilly</placeName>
+                  <interp inst="t17600227-46-crimeloc244" type="placeName" value="Piccadilly"></interp>
+                  <interp inst="t17600227-46-crimeloc244" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17600227-46-off241 t17600227-46-crimeloc244"></join>; I missed a silver spoon the 15th of this instant, about two o'clock in the afternoon; the prisoner had been at our house that day. There was the name upon it, 
+               <persName id="t17600227-46-person411">
+                  William 
+                  Biddle 
+               <interp inst="t17600227-46-person411" type="surname" value="Biddle"></interp>
+                     <interp inst="t17600227-46-person411" type="given" value="William"></interp>
+                     <interp inst="t17600227-46-person411" type="gender" value="male"></interp>
+                  </persName>
+            , Black-Beat, Piccadilly, the man's name that kept the house before I came.</p>
+               <p>Mr. Pinner. I am journeyman to Mr. Capriell,<xptr type="pageFacsimile" doc="176002270039"></xptr> silver-smith, in New-Street, Covent-Garden; the prisoner came yesterday morning about ten o'clock and asked me if I would buy an old spoon; I saw the name on it, and ask'd her whose it was; she said it did not signify whole it was, so I stop'd her and the spoon too. Then she own'd she was guilty of taking it and hoped I would forgive her.</p>
+               <p>Prisoner. I have done a fault and am sorry for it.</p>
+               <p>
+                  <rs id="t17600227-46-verdict245" type="verdictDescription">
+                     <interp inst="t17600227-46-verdict245" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17600227-46-punish246" type="punishmentDescription">
+                     <interp inst="t17600227-46-punish246" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17600227-46-defend407 t17600227-46-punish246"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

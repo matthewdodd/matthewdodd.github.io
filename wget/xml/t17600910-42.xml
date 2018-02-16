@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600910-42">
+               <interp inst="t17600910-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600910-42" type="year" value="1760"></interp>
+               <interp inst="t17600910-42" type="uri" value="sessionsPapers/17600910"></interp>
+               <interp inst="t17600910-42" type="date" value="17600910"></interp>
+               <join result="criminalCharge" id="t17600910-42-off210-c341" targOrder="Y" targets="t17600910-42-defend430 t17600910-42-off210 t17600910-42-verdict213"></join>
+         
+               <p>285. (M.) 
+               <persName id="t17600910-42-defend430" type="defendantName">
+                  Lampley 
+                  Noel 
+               <interp inst="t17600910-42-defend430" type="surname" value="Noel"></interp>
+                     <interp inst="t17600910-42-defend430" type="given" value="Lampley"></interp>
+                     <interp inst="t17600910-42-defend430" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17600910-42-off210" type="offenceDescription">
+                     <interp inst="t17600910-42-off210" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600910-42-off210" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing half a pound of green tea, value 4 s. 10 guineas and one half guinea, and 10 shillings and 9 halfpence in money, the property of 
+                     
+                        <persName id="t17600910-42-victim432" type="victimName">
+                           Moses 
+                           Barwick 
+                        <interp inst="t17600910-42-victim432" type="surname" value="Barwick"></interp>
+                        <interp inst="t17600910-42-victim432" type="given" value="Moses"></interp>
+                        <interp inst="t17600910-42-victim432" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17600910-42-off210 t17600910-42-victim432"></join>
+                     </persName>
+                      
+                  , in the dwelling-house of the said Moses
+            </rs>, <rs id="t17600910-42-cd211" type="crimeDate">Sept. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600910-42-off210 t17600910-42-cd211"></join>. ++</p>
+               <p>Moses Barwick. I <rs id="t17600910-42-viclabel212" type="occupation">keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600910-42-victim432 t17600910-42-viclabel212"></join>, the prisoner was my servant very near a year and half; he has robb'd me of money, but it is impossible for me to know what he has taken; I have miss'd money many a time out of a cupboard, where I us'd to put it, and I laid a shilling in halfpence to see who took it; I miss'd nine pence out of it; then I challeng'd him with it, and he acknowledg'd he took it; he acknowledg'd also he had robbed me of upwards of 5 l. which he had spent, and I have some green tea in my pocket which he acknowledg'd he took.</p>
+               <p>Q. How did he say he took it?</p>
+               <p>Barwick. He said he took it by about a tea cup full at a time.</p>
+               <p>Q. Where did you find that?</p>
+               <p>Barwick. In his box; he own'd he had robbed me of a great deal of liquor, which he had carry'd out of the house; on searching him, we found 10 guineas in gold, and a half, ten shillings and four pence halfpenny in his pocket; he confess'd he had taken it out of my cupboard in halfpence at divers times, and chang'd them into silver, and then into gold, and that it was my property.</p>
+               <p>Q. Did you ever keep gold in that cupboard?</p>
+               <p>Barwick. I have had many a guinea in it; sometimes when I have chang'd money, but I never us'd to let them lie long there; and I never miss'd no gold from out of that cupboard, I us'd always to put halfpence in that cupboard. and have miss'd a crown's worth at a time. I took him before justice Wright, there he confess'd he took it from me in halfpence, and that it was my property; this was in my hearing.</p>
+               <p>Q. Did he confess to the taking the tea?</p>
+               <p>Barwick. He did.</p>
+               <p>Hen. Pain. I live in Broad-street near the prosecutor; I was with the prisoner before the justice, and heard him confess he had stole all that money from time to time from out of a dish in his master's cupboard.</p>
+               <p>Q. to prosecutor. Where is that cupboard where you put your halfpence?</p>
+               <p>Prosecutor. It is in my bar.</p>
+               <p>Q. What do you value the tea at?</p>
+               <p>Prosecutor. I value it at 4 s.</p>
+               <p>The prisoner said nothing in his defence.</p>
+               <p>
+                  <rs id="t17600910-42-verdict213" type="verdictDescription">
+                     <interp inst="t17600910-42-verdict213" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17600910-42-punish214" type="punishmentDescription">
+                     <interp inst="t17600910-42-punish214" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17600910-42-defend430 t17600910-42-punish214"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

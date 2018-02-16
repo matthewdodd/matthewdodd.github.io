@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891009-6">
+               <interp inst="t16891009-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891009-6" type="year" value="1689"></interp>
+               <interp inst="t16891009-6" type="uri" value="sessionsPapers/16891009"></interp>
+               <interp inst="t16891009-6" type="date" value="16891009"></interp>
+               <join result="criminalCharge" id="t16891009-6-off23-c37" targOrder="Y" targets="t16891009-6-defend47 t16891009-6-off23 t16891009-6-verdict27"></join>
+               <join result="criminalCharge" id="t16891009-6-off23-c38" targOrder="Y" targets="t16891009-6-defend48 t16891009-6-off23 t16891009-6-verdict27"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16891009-6-defend47" type="defendantName">
+                     Ann 
+                     Dye
+                  <interp inst="t16891009-6-defend47" type="surname" value="Dye"></interp>
+                     <interp inst="t16891009-6-defend47" type="given" value="Ann"></interp>
+                     <interp inst="t16891009-6-defend47" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               <persName id="t16891009-6-defend48" type="defendantName">
+                  Sarah 
+                  Hill
+               <interp inst="t16891009-6-defend48" type="surname" value="Hill"></interp>
+                     <interp inst="t16891009-6-defend48" type="given" value="Sarah"></interp>
+                     <interp inst="t16891009-6-defend48" type="gender" value="female"></interp>
+                  </persName>
+             were Tryed for <rs id="t16891009-6-off23" type="offenceDescription">
+                     <interp inst="t16891009-6-off23" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16891009-6-off23" type="offenceSubcategory" value="shoplifting"></interp>
+               Robbing of 
+                     <persName id="t16891009-6-victim49" type="victimName">
+                        <rs id="t16891009-6-viclabel24" type="occupation">Mr.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16891009-6-victim49 t16891009-6-viclabel24"></join> 
+                        Philips
+                     <interp inst="t16891009-6-victim49" type="surname" value="Philips"></interp>
+                        <interp inst="t16891009-6-victim49" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16891009-6-off23 t16891009-6-victim49"></join>
+                     </persName>
+                   of <placeName id="t16891009-6-crimeloc25">St. Pauls Covent-Garden</placeName>
+                     <interp inst="t16891009-6-crimeloc25" type="placeName" value="St. Pauls Covent-Garden"></interp>
+                     <interp inst="t16891009-6-crimeloc25" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16891009-6-off23 t16891009-6-crimeloc25"></join>, on the <rs id="t16891009-6-cd26" type="crimeDate">14th of September</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16891009-6-off23 t16891009-6-cd26"></join> last, of 24 Yards of Norwich Stuff, value 42 s. The Evidence was Mr. Phillips's Man, who declared that the Prisoners came into the Shop to cheapen some Crape, and whiles his back was turn'd, ran away with the Stuff
+            </rs>. The Prisoners denied it, altho' the Stuff was found upon them. They had no Witness to prove their Lives to have been honest, so they were found <rs id="t16891009-6-verdict27" type="verdictDescription">
+                     <interp inst="t16891009-6-verdict27" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16891009-6-verdict27" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16891009-6-punish28" type="punishmentDescription">
+                     <interp inst="t16891009-6-punish28" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16891009-6-punish28" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16891009-6-defend47 t16891009-6-punish28"></join>
+               
+                     <note>[Dye: Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

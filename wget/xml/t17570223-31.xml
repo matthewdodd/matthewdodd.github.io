@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570223-31">
+               <interp inst="t17570223-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570223-31" type="year" value="1757"></interp>
+               <interp inst="t17570223-31" type="uri" value="sessionsPapers/17570223"></interp>
+               <interp inst="t17570223-31" type="date" value="17570223"></interp>
+               <join result="criminalCharge" id="t17570223-31-off174-c301" targOrder="Y" targets="t17570223-31-defend365 t17570223-31-off174 t17570223-31-verdict178"></join>
+         
+               <p>126. (M.) 
+               
+                  <persName id="t17570223-31-defend365" type="defendantName">
+                     Elizabeth 
+                     Pain 
+                  <interp inst="t17570223-31-defend365" type="surname" value="Pain"></interp>
+                     <interp inst="t17570223-31-defend365" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17570223-31-defend365" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17570223-31-deflabel173" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570223-31-defend365 t17570223-31-deflabel173"></join>, was indicted for <rs id="t17570223-31-off174" type="offenceDescription">
+                     <interp inst="t17570223-31-off174" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570223-31-off174" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two linen aprons, value 3 s. one linen towel, one linen shift, one linen bag, and one linen cap laced
+            </rs>, the goods of 
+               
+                  <persName id="t17570223-31-victim367" type="victimName">
+                     Thomas 
+                     Wayland 
+                  <interp inst="t17570223-31-victim367" type="surname" value="Wayland"></interp>
+                     <interp inst="t17570223-31-victim367" type="given" value="Thomas"></interp>
+                     <interp inst="t17570223-31-victim367" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17570223-31-off174 t17570223-31-victim367"></join>
+                  </persName>
+                
+            , <rs id="t17570223-31-cd175" type="crimeDate">Dec 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570223-31-off174 t17570223-31-cd175"></join>. +</p>
+               <p>
+            
+                  <persName id="t17570223-31-person368">
+                  Thomas 
+                  Wayland 
+               <interp inst="t17570223-31-person368" type="surname" value="Wayland"></interp>
+                     <interp inst="t17570223-31-person368" type="given" value="Thomas"></interp>
+                     <interp inst="t17570223-31-person368" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the parish of <placeName id="t17570223-31-crimeloc176">Hillingdon</placeName>
+                  <interp inst="t17570223-31-crimeloc176" type="placeName" value="Hillingdon"></interp>
+                  <interp inst="t17570223-31-crimeloc176" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17570223-31-off174 t17570223-31-crimeloc176"></join>. The prisoner lived <rs id="t17570223-31-deflabel177" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570223-31-defend365 t17570223-31-deflabel177"></join> with me a year, and some odd months. She was going away on the 27th of December. I desired to look into her bundle, where I found an apron, a quilted petticoat, a shift of my wife's, and a little towel which was my daughter's. My wife and daughter are both dead. I found also a foul cloaths bag and a cap. (Produced in court.)</p>
+               <p>Q. How do you know them to be your property?</p>
+               <p>Wayland. There are no marks upon them, but I know them by their colour, and their being like the rest.</p>
+               <p>
+                  <rs id="t17570223-31-verdict178" type="verdictDescription">
+                     <interp inst="t17570223-31-verdict178" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

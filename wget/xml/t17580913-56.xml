@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-56">
+               <interp inst="t17580913-56" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-56" type="year" value="1758"></interp>
+               <interp inst="t17580913-56" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-56" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-56-off282-c410" targOrder="Y" targets="t17580913-56-defend512 t17580913-56-off282 t17580913-56-verdict284"></join>
+         
+               <p>313. (M.) 
+               
+                  <persName id="t17580913-56-defend512" type="defendantName">
+                     Leonard 
+                     Jackson 
+                  <interp inst="t17580913-56-defend512" type="surname" value="Jackson"></interp>
+                     <interp inst="t17580913-56-defend512" type="given" value="Leonard"></interp>
+                     <interp inst="t17580913-56-defend512" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17580913-56-off282" type="offenceDescription">
+                     <interp inst="t17580913-56-off282" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-56-off282" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one bedstead, value 15 s. one flock bed, value 5 s. one bolster, value 2 s. three pillows, value 18 d. one linen sheet, value 6 d. one blanket, value 2 s. and one rug, value 18 d.
+            </rs> the goods of 
+               
+                  <persName id="t17580913-56-victim514" type="victimName">
+                     Anthony 
+                     Simpson 
+                  <interp inst="t17580913-56-victim514" type="surname" value="Simpson"></interp>
+                     <interp inst="t17580913-56-victim514" type="given" value="Anthony"></interp>
+                     <interp inst="t17580913-56-victim514" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580913-56-off282 t17580913-56-victim514"></join>
+                  </persName>
+                
+            , <rs id="t17580913-56-cd283" type="crimeDate">July 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-56-off282 t17580913-56-cd283"></join>.*</p>
+               <p>It appeared there had been contracts between the prosecutor and prisoner, relative to the goods mentioned, and that it did not amount to a felony.</p>
+               <p>
+                  <rs id="t17580913-56-verdict284" type="verdictDescription">
+                     <interp inst="t17580913-56-verdict284" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

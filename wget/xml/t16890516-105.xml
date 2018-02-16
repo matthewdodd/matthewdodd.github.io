@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-105">
+               <interp inst="t16890516-105" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-105" type="year" value="1689"></interp>
+               <interp inst="t16890516-105" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-105" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-105-off453-c298" targOrder="Y" targets="t16890516-105-defend484 t16890516-105-off453 t16890516-105-verdict455"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-105-defend484" type="defendantName">
+                     Patrick 
+                     Harris
+                  <interp inst="t16890516-105-defend484" type="surname" value="Harris"></interp>
+                     <interp inst="t16890516-105-defend484" type="given" value="Patrick"></interp>
+                     <interp inst="t16890516-105-defend484" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16890516-105-off453" type="offenceDescription">
+                     <interp inst="t16890516-105-off453" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-105-off453" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from one 
+                     
+                        <persName id="t16890516-105-victim486" type="victimName">
+                           John 
+                           Woodcock
+                        <interp inst="t16890516-105-victim486" type="surname" value="Woodcock"></interp>
+                        <interp inst="t16890516-105-victim486" type="given" value="John"></interp>
+                        <interp inst="t16890516-105-victim486" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-105-off453 t16890516-105-victim486"></join>
+                     </persName>
+                     
+                   on the <rs id="t16890516-105-cd454" type="crimeDate">first of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-105-off453 t16890516-105-cd454"></join>, a Cloth Coat value 40 s. a Silk Waste-coat 20 s.
+            </rs> but there was no Evidence against him; so he was <rs id="t16890516-105-verdict455" type="verdictDescription">
+                     <interp inst="t16890516-105-verdict455" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16890516-105-verdict455" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

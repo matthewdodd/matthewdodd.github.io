@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610916-10">
+               <interp inst="t17610916-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610916-10" type="year" value="1761"></interp>
+               <interp inst="t17610916-10" type="uri" value="sessionsPapers/17610916"></interp>
+               <interp inst="t17610916-10" type="date" value="17610916"></interp>
+               <join result="criminalCharge" id="t17610916-10-off53-c75" targOrder="Y" targets="t17610916-10-defend90 t17610916-10-off53 t17610916-10-verdict56"></join>
+         
+               <p>230. (M) 
+               
+                  <persName id="t17610916-10-defend90" type="defendantName">
+                     Catharine 
+                     Patten 
+                  <interp inst="t17610916-10-defend90" type="surname" value="Patten"></interp>
+                     <interp inst="t17610916-10-defend90" type="given" value="Catharine"></interp>
+                     <interp inst="t17610916-10-defend90" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17610916-10-deflabel52" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610916-10-defend90 t17610916-10-deflabel52"></join>, was indicted for <rs id="t17610916-10-off53" type="offenceDescription">
+                     <interp inst="t17610916-10-off53" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610916-10-off53" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one white cloth apron, value 1 s. and one coloured linnen apron, value 1 s.
+            </rs> the property of 
+               
+                  <persName id="t17610916-10-victim92" type="victimName">
+                     Elizabeth 
+                     Harding 
+                  <interp inst="t17610916-10-victim92" type="surname" value="Harding"></interp>
+                     <interp inst="t17610916-10-victim92" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17610916-10-victim92" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610916-10-off53 t17610916-10-victim92"></join>
+                  </persName>
+                
+            , <rs id="t17610916-10-viclabel54" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610916-10-victim92 t17610916-10-viclabel54"></join>, <rs id="t17610916-10-cd55" type="crimeDate">July 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610916-10-off53 t17610916-10-cd55"></join>.~</p>
+               <p>
+            
+                  <persName id="t17610916-10-person93">
+                  Elizabeth 
+                  Harding 
+               <interp inst="t17610916-10-person93" type="surname" value="Harding"></interp>
+                     <interp inst="t17610916-10-person93" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17610916-10-person93" type="gender" value="female"></interp>
+                  </persName>
+            . I live in St. Martin's-street, I am apprentice to Mrs. Kelly, I missed a couple of aprons, and suspected the prisoner at the bar; she was going to take a pair of sleeves out of pawn; I went after her to see where she went; I followed her to Mr. Hodges's, a pawnbroker in Green-street; I saw her go in; I went there after she was gone, and asked if they had not two aprons pawned by that person. They were produced to me. After that I asked the prisoner if she pawned them there; she denied it, but at last she owned that she did carry them.</p>
+               <p>Q. Did you know her before?</p>
+               <p>E. Harding. She was a workwoman where I was apprentice.</p>
+               <p>Q. Did she lodge in the house?</p>
+               <p>E. Harding. She did.</p>
+               <p>Riley. I cannot be positive to the prisoner, these two aprons were pawned at our shop by one 
+               <persName id="t17610916-10-person94">
+                  Catharine 
+                  Patten 
+               <interp inst="t17610916-10-person94" type="surname" value="Patten"></interp>
+                     <interp inst="t17610916-10-person94" type="given" value="Catharine"></interp>
+                     <interp inst="t17610916-10-person94" type="gender" value="female"></interp>
+                  </persName>
+            ; she had used our house about two months; one was pawned on the 11th, the other the 15th of July. The prosecutrix came and asked me if we had not a person of that name that used our shop, that had pawned such aprons, so I fetched them down. The woman that pawned them had a duplicate away with her.</p>
+               <p>Q. What do you call a duplicate?</p>
+               <p>Riley. We make two papers of what the people bring, and she had one, and we kept the other [Producing one.] This is that which I kept.</p>
+               <p>Prosecutrix. Here is the other, it was found in the prisoner's trunk; I saw it taken out by Mr. Kelly. [Produced, and compared.]</p>
+               <p>Riley. These are both alike, and this last produced, the person that pawned the aprons had away with her.</p>
+               <p>The prisoner said nothing in her defence.</p>
+               <p>
+                  <rs id="t17610916-10-verdict56" type="verdictDescription">
+                     <interp inst="t17610916-10-verdict56" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17610916-10-verdict56" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17610916-10-punish57" type="punishmentDescription">
+                     <interp inst="t17610916-10-punish57" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17610916-10-punish57" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610916-10-defend90 t17610916-10-punish57"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

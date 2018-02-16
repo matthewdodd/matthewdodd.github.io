@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570114-2">
+               <interp inst="t17570114-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570114-2" type="year" value="1757"></interp>
+               <interp inst="t17570114-2" type="uri" value="sessionsPapers/17570114"></interp>
+               <interp inst="t17570114-2" type="date" value="17570114"></interp>
+               <join result="criminalCharge" id="t17570114-2-off8-c34" targOrder="Y" targets="t17570114-2-defend37 t17570114-2-off8 t17570114-2-verdict11"></join>
+         
+               <p>52. (L.) 
+               
+                  <persName id="t17570114-2-defend37" type="defendantName">
+                     John 
+                     Foster 
+                  <interp inst="t17570114-2-defend37" type="surname" value="Foster"></interp>
+                     <interp inst="t17570114-2-defend37" type="given" value="John"></interp>
+                     <interp inst="t17570114-2-defend37" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17570114-2-off8" type="offenceDescription">
+                     <interp inst="t17570114-2-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570114-2-off8" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one cotton handkerchief, value 10 d.
+            </rs> the property of 
+               
+                  <persName id="t17570114-2-victim39" type="victimName">
+                     Joseph 
+                     Collier 
+                  <interp inst="t17570114-2-victim39" type="surname" value="Collier"></interp>
+                     <interp inst="t17570114-2-victim39" type="given" value="Joseph"></interp>
+                     <interp inst="t17570114-2-victim39" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17570114-2-off8 t17570114-2-victim39"></join>
+                  </persName>
+                
+            , <rs id="t17570114-2-cd9" type="crimeDate">December 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570114-2-off8 t17570114-2-cd9"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17570114-2-person40">
+                  Joseph 
+                  Collier 
+               <interp inst="t17570114-2-person40" type="surname" value="Collier"></interp>
+                     <interp inst="t17570114-2-person40" type="given" value="Joseph"></interp>
+                     <interp inst="t17570114-2-person40" type="gender" value="male"></interp>
+                  </persName>
+            . I was walking along <placeName id="t17570114-2-crimeloc10">Grace-church-Street</placeName>
+                  <interp inst="t17570114-2-crimeloc10" type="placeName" value="Grace-church-Street"></interp>
+                  <interp inst="t17570114-2-crimeloc10" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17570114-2-off8 t17570114-2-crimeloc10"></join> and felt something brush against my pocket.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175701140003"></xptr>Q. When was this?</p>
+               <p>Collier. It was on the Wednesday before Christmas-day. I clapped my hand immediately into my pocket, and missed my handkerchief.</p>
+               <p>Q. What sort of a handkerchief was it?</p>
+               <p>Collier. A cotton one. I turned round immediately and laid hold on the prisoner, who was close to me, and challenged him with taking it. He denied it. There was a lad by, who told me he saw him attempt my pocket twice, and after that take it out of my pocket. I was pulling him into a shop, in order to secure him. He said, '' Sir, '' there's your handkerchief, there's your handkerchief.'' I saw it lying on the ground. I took it up, and put it into my pocket.</p>
+               <p>Q. How near to the prisoner did it lie?</p>
+               <p>Collier. It was lying just by him. (Produced in court, and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17570114-2-person41">
+                  John 
+                  Hilyer 
+               <interp inst="t17570114-2-person41" type="surname" value="Hilyer"></interp>
+                     <interp inst="t17570114-2-person41" type="given" value="John"></interp>
+                     <interp inst="t17570114-2-person41" type="gender" value="male"></interp>
+                  </persName>
+            . I and a schoolfellow of mine were going down Gracechurch-Street on the Wednesday before Christmas-day. The prosecutor was walking close to the wall, and the prisoner just behind him. He made two tugs at his pocket, and the third time got out his handkerchief. After he had got hold of the prisoner I followed him, and told him I saw the prisoner pick his pocket.</p>
+               <p>Q. Look at this handkerchief?</p>
+               <p>Hilyer. (He looks at it.) I believe this is the same. It is like it.</p>
+               <p>Q. Are you sure the prisoner is the same person?</p>
+               <p>Hilyer. I am sure he is the same.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I never offered to do such a thing in my life. I was walking before the gentleman till he laid hold of me.</p>
+               <p>
+                  <rs id="t17570114-2-verdict11" type="verdictDescription">
+                     <interp inst="t17570114-2-verdict11" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17570114-2-punish12" type="punishmentDescription">
+                     <interp inst="t17570114-2-punish12" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17570114-2-defend37 t17570114-2-punish12"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

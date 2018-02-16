@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680413-12">
+               <interp inst="t17680413-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680413-12" type="year" value="1768"></interp>
+               <interp inst="t17680413-12" type="uri" value="sessionsPapers/17680413"></interp>
+               <interp inst="t17680413-12" type="date" value="17680413"></interp>
+               <join result="criminalCharge" id="t17680413-12-off68-c97" targOrder="Y" targets="t17680413-12-defend119 t17680413-12-off68 t17680413-12-verdict70"></join>
+         
+               <p>263. (M.) 
+               
+                  <persName id="t17680413-12-defend119" type="defendantName">
+                     Sarah 
+                     Greggs 
+                  <interp inst="t17680413-12-defend119" type="surname" value="Greggs"></interp>
+                     <interp inst="t17680413-12-defend119" type="given" value="Sarah"></interp>
+                     <interp inst="t17680413-12-defend119" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17680413-12-deflabel67" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680413-12-defend119 t17680413-12-deflabel67"></join>, was indicted for <rs id="t17680413-12-off68" type="offenceDescription">
+                     <interp inst="t17680413-12-off68" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680413-12-off68" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a linen sheet, value 3 s. a copper tea-kettle, value 1 s. and a pair of pattens, value 1 s.
+            </rs> the property of 
+               
+                  <persName id="t17680413-12-victim121" type="victimName">
+                     John 
+                     Jenkins 
+                  <interp inst="t17680413-12-victim121" type="surname" value="Jenkins"></interp>
+                     <interp inst="t17680413-12-victim121" type="given" value="John"></interp>
+                     <interp inst="t17680413-12-victim121" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680413-12-off68 t17680413-12-victim121"></join>
+                  </persName>
+                
+            , <rs id="t17680413-12-cd69" type="crimeDate">March 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680413-12-off68 t17680413-12-cd69"></join>. +</p>
+               <p>
+            
+                  <persName id="t17680413-12-person122">
+                  Elizabeth 
+                  Jenkins 
+               <interp inst="t17680413-12-person122" type="surname" value="Jenkins"></interp>
+                     <interp inst="t17680413-12-person122" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680413-12-person122" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to 
+               <persName id="t17680413-12-person123">
+                  John 
+                  Jenkins 
+               <interp inst="t17680413-12-person123" type="surname" value="Jenkins"></interp>
+                     <interp inst="t17680413-12-person123" type="given" value="John"></interp>
+                     <interp inst="t17680413-12-person123" type="gender" value="male"></interp>
+                  </persName>
+            . I was brought to-bed on the 20th of January, the prisoner washed for me on the 22d; she lodged in a house of mine, but not the house we live in; she quitted her lodging, and ran away; I could not tell what things were missing till I got abroad; then I missed a pair of sheets from her bed where she lodged, and another sheet from my house where I live, and the other things mentioned; I heard where she was gone to, I went and took her up; she confessed she had taken them all, and said she had sold the tea-kettle to Thomasin Dodd, who is now in court, but she has since sold it.</p>
+               <p>Mrs. Ford. I am a pawnbroker; the prisoner pledged a sheet with me, and another with my partner; (produced and deposed to by prosecutrix;) she pledged them in the name of Devonshire.</p>
+               <p>Prosecutrix. That is the prisoner's right name.</p>
+               <p>
+            
+                  <persName id="t17680413-12-person124">
+                  William 
+                  Warren 
+               <interp inst="t17680413-12-person124" type="surname" value="Warren"></interp>
+                     <interp inst="t17680413-12-person124" type="given" value="William"></interp>
+                     <interp inst="t17680413-12-person124" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner pledged this pair of pattens to me on the 19th of January; (produced in court.)</p>
+               <p>Prosecutrix. These are my pattens; I had them on my feet on the 19th of January.</p>
+               <p>Warren. The prisoner pledged this sheet (producing one) with me the 13th of February; (deposed to by prosecutrix.)</p>
+               <p>Prisoner's defence.</p>
+               <p>I asked her to lend me a trifle of money; she said it was not in her power; I said, then I must pawn something; she said if I pawned a pair of sheets, and fetched them out again, she did not mind that, then they were not wearing out; I took these pattens by mistake; the nurse desired me, as I was going out, to take her pattens, and I took these instead of her pattens.</p>
+               <p>
+                  <rs id="t17680413-12-verdict70" type="verdictDescription">
+                     <interp inst="t17680413-12-verdict70" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680413-12-punish71" type="punishmentDescription">
+                     <interp inst="t17680413-12-punish71" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680413-12-defend119 t17680413-12-punish71"></join>
+               T
+            </rs>.</p>
+               <p>There was another indictment against her for robbing her lodgings.</p>
+            </div1>

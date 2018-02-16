@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440223-6">
+               <interp inst="t17440223-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440223-6" type="year" value="1744"></interp>
+               <interp inst="t17440223-6" type="uri" value="sessionsPapers/17440223"></interp>
+               <interp inst="t17440223-6" type="date" value="17440223"></interp>
+               <join result="criminalCharge" id="t17440223-6-off31-c50" targOrder="Y" targets="t17440223-6-defend61 t17440223-6-off31 t17440223-6-verdict34"></join>
+         
+               <p>145. 
+               
+                  <persName id="t17440223-6-defend61" type="defendantName">
+                     William 
+                     Johnson 
+                  <interp inst="t17440223-6-defend61" type="surname" value="Johnson"></interp>
+                     <interp inst="t17440223-6-defend61" type="given" value="William"></interp>
+                     <interp inst="t17440223-6-defend61" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440223-6-defloc30">St. Stephen Coleman-street</placeName>
+                  <interp inst="t17440223-6-defloc30" type="placeName" value="St. Stephen Coleman-street"></interp>
+                  <interp inst="t17440223-6-defloc30" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440223-6-defend61 t17440223-6-defloc30"></join>, was indicted for <rs id="t17440223-6-off31" type="offenceDescription">
+                     <interp inst="t17440223-6-off31" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440223-6-off31" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a bar of iron of the weight of 20 pounds, value 2 s. 6 s.
+            </rs> the goods of 
+               
+                  <persName id="t17440223-6-victim63" type="victimName">
+                     John 
+                     Allen 
+                  <interp inst="t17440223-6-victim63" type="surname" value="Allen"></interp>
+                     <interp inst="t17440223-6-victim63" type="given" value="John"></interp>
+                     <interp inst="t17440223-6-victim63" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440223-6-off31 t17440223-6-victim63"></join>
+                  </persName>
+                
+            , <rs id="t17440223-6-cd32" type="crimeDate">Jan. 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440223-6-off31 t17440223-6-cd32"></join>.</p>
+               <p>
+            
+                  <persName id="t17440223-6-person64">
+                  Martha 
+                  Parker 
+               <interp inst="t17440223-6-person64" type="surname" value="Parker"></interp>
+                     <interp inst="t17440223-6-person64" type="given" value="Martha"></interp>
+                     <interp inst="t17440223-6-person64" type="gender" value="female"></interp>
+                  </persName>
+            . I saw the Prisoner take a bar of iron out of Mr. Allen the <rs id="t17440223-6-viclabel33" type="occupation">Farrier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17440223-6-victim63 t17440223-6-viclabel33"></join>'s shop, lay it upon his shoulder, and run away with it, I informed them of it, and they pursued him.</p>
+               <p>
+            
+                  <persName id="t17440223-6-person65">
+                  Joseph 
+                  Wade 
+               <interp inst="t17440223-6-person65" type="surname" value="Wade"></interp>
+                     <interp inst="t17440223-6-person65" type="given" value="Joseph"></interp>
+                     <interp inst="t17440223-6-person65" type="gender" value="male"></interp>
+                  </persName>
+            . I am apprentice to Mr. Allen; the last Witness said, the Prisoner had taken a bar of iron out of the shop, I followed him directly; he went through Great Moregate, and took his way up into an inn joining to the Gate; I took him with the bar of iron upon his shoulder; and he said, he never did such a thing in his life before.</p>
+               <p>Prisoner. A man called me to carry a bar of iron for him, and they stopped me, and said it was theirs.</p>
+               <p>Q. Can you take upon you to say, this is your master's iron?</p>
+               <p>Wade. I cannot say it is my master's iron; the woman said she saw him take it out of the shop; this is the bar I took from him. <rs id="t17440223-6-verdict34" type="verdictDescription">
+                     <interp inst="t17440223-6-verdict34" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17440223-6-punish35" type="punishmentDescription">
+                     <interp inst="t17440223-6-punish35" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440223-6-defend61 t17440223-6-punish35"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370216-1">
+               <interp inst="t17370216-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370216-1" type="year" value="1737"></interp>
+               <interp inst="t17370216-1" type="uri" value="sessionsPapers/17370216"></interp>
+               <interp inst="t17370216-1" type="date" value="17370216"></interp>
+               <join result="criminalCharge" id="t17370216-1-off1-c28" targOrder="Y" targets="t17370216-1-defend29 t17370216-1-off1 t17370216-1-verdict4"></join>
+         
+               <p>1. 
+               
+                  <persName id="t17370216-1-defend29" type="defendantName">
+                     Samuel 
+                     Thornhill 
+                  <interp inst="t17370216-1-defend29" type="surname" value="Thornhill"></interp>
+                     <interp inst="t17370216-1-defend29" type="given" value="Samuel"></interp>
+                     <interp inst="t17370216-1-defend29" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17370216-1-off1" type="offenceDescription">
+                     <interp inst="t17370216-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370216-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 12 Pounds of Sugar value 18 d. 
+            </rs> the Goods of 
+               
+                  <persName id="t17370216-1-victim31" type="victimName">
+                     Francis 
+                     Wilks 
+                  <interp inst="t17370216-1-victim31" type="surname" value="Wilks"></interp>
+                     <interp inst="t17370216-1-victim31" type="given" value="Francis"></interp>
+                     <interp inst="t17370216-1-victim31" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17370216-1-victim33" type="victimName">
+                     Zachary 
+                     Borian 
+                  <interp inst="t17370216-1-victim33" type="surname" value="Borian"></interp>
+                     <interp inst="t17370216-1-victim33" type="given" value="Zachary"></interp>
+                     <interp inst="t17370216-1-victim33" type="gender" value="male"></interp>
+                  </persName>
+                
+            , in the Parish of <placeName id="t17370216-1-defloc2">St. Dunstan in the East</placeName>
+                  <interp inst="t17370216-1-defloc2" type="placeName" value="St. Dunstan in the East"></interp>
+                  <interp inst="t17370216-1-defloc2" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370216-1-defend29 t17370216-1-defloc2"></join>, <rs id="t17370216-1-cd3" type="crimeDate">Jan 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-1-off1 t17370216-1-cd3"></join>. <rs id="t17370216-1-verdict4" type="verdictDescription">
+                     <interp inst="t17370216-1-verdict4" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370216-1-punish5" type="punishmentDescription">
+                     <interp inst="t17370216-1-punish5" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370216-1-defend29 t17370216-1-punish5"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

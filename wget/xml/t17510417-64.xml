@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510417-64">
+               <interp inst="t17510417-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510417-64" type="year" value="1751"></interp>
+               <interp inst="t17510417-64" type="uri" value="sessionsPapers/17510417"></interp>
+               <interp inst="t17510417-64" type="date" value="17510417"></interp>
+               <join result="criminalCharge" id="t17510417-64-off305-c467" targOrder="Y" targets="t17510417-64-defend592 t17510417-64-off305 t17510417-64-verdict307"></join>
+         
+               <p>345. (L.) 
+               
+                  <persName id="t17510417-64-defend592" type="defendantName">
+                     Priscilla 
+                     Burch 
+                  <interp inst="t17510417-64-defend592" type="surname" value="Burch"></interp>
+                     <interp inst="t17510417-64-defend592" type="given" value="Priscilla"></interp>
+                     <interp inst="t17510417-64-defend592" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17510417-64-deflabel304" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17510417-64-defend592 t17510417-64-deflabel304"></join>, was indicted for <rs id="t17510417-64-off305" type="offenceDescription">
+                     <interp inst="t17510417-64-off305" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510417-64-off305" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pounds weight of tobacco, value one shilling and six pence
+            </rs>, the property of 
+               <persName id="t17510417-64-victim593" type="victimName">
+                  John and 
+                     <persName id="t17510417-64-victim594" type="victimName">
+                        Cople 
+                        Hambury 
+                     <interp inst="t17510417-64-victim594" type="surname" value="Hambury"></interp>
+                        <interp inst="t17510417-64-victim594" type="given" value="Cople"></interp>
+                        <interp inst="t17510417-64-victim594" type="gender" value="indeterminate"></interp>
+                     </persName>
+                   
+                     <interp inst="t17510417-64-victim593" type="surname" value="Hambury"></interp>
+                     <interp inst="t17510417-64-victim593" type="given" value="John"></interp>
+                     <interp inst="t17510417-64-victim593" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17510417-64-cd306" type="crimeDate">March 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510417-64-off305 t17510417-64-cd306"></join>.  + <rs id="t17510417-64-verdict307" type="verdictDescription">
+                     <interp inst="t17510417-64-verdict307" type="verdictCategory" value="notGuilty"></interp>
+               Acq
+            </rs>.</p>
+            </div1>

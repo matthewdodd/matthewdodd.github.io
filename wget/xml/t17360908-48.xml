@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360908-48">
+               <interp inst="t17360908-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360908-48" type="year" value="1736"></interp>
+               <interp inst="t17360908-48" type="uri" value="sessionsPapers/17360908"></interp>
+               <interp inst="t17360908-48" type="date" value="17360908"></interp>
+               <join result="criminalCharge" id="t17360908-48-off199-c198" targOrder="Y" targets="t17360908-48-defend306 t17360908-48-off199 "></join>
+         
+               <p>56. 
+               
+                  <persName id="t17360908-48-defend306" type="defendantName">
+                     Frances 
+                     Brown 
+                  <interp inst="t17360908-48-defend306" type="surname" value="Brown"></interp>
+                     <interp inst="t17360908-48-defend306" type="given" value="Frances"></interp>
+                     <interp inst="t17360908-48-defend306" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360908-48-off199" type="offenceDescription">
+                     <interp inst="t17360908-48-off199" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360908-48-off199" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a brown silk watered Gown, value 6s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360908-48-victim308" type="victimName">
+                     William 
+                     Simmonds 
+                  <interp inst="t17360908-48-victim308" type="surname" value="Simmonds"></interp>
+                     <interp inst="t17360908-48-victim308" type="given" value="William"></interp>
+                     <interp inst="t17360908-48-victim308" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360908-48-off199 t17360908-48-victim308"></join>
+                  </persName>
+                
+            , <rs id="t17360908-48-cd200" type="crimeDate">August the 27th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360908-48-off199 t17360908-48-cd200"></join>.</p>
+            </div1>

@@ -1,3 +1,267 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f5a91d285eb370ac38ae7c28008051ac08957761998667eb489986ea1f8e7fe
-size 739
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-64">
+               <interp inst="t17360505-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-64" type="year" value="1736"></interp>
+               <interp inst="t17360505-64" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-64" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-64-off316-c296" targOrder="Y" targets="t17360505-64-person434 t17360505-64-off316 t17360505-64-verdict321"></join>
+               <join result="criminalCharge" id="t17360505-64-off316-c297" targOrder="Y" targets="t17360505-64-defend435 t17360505-64-off316 t17360505-64-verdict321"></join>
+               <join result="criminalCharge" id="t17360505-64-off316-c295" targOrder="Y" targets="t17360505-64-defend433 t17360505-64-off316 t17360505-64-verdict323"></join>
+               <join result="criminalCharge" id="t17360505-64-off316-c299" targOrder="Y" targets="t17360505-64-person437 t17360505-64-off316 t17360505-64-verdict323"></join>
+               <join result="criminalCharge" id="t17360505-64-off316-c300" targOrder="Y" targets="t17360505-64-defend438 t17360505-64-off316 t17360505-64-verdict323"></join>
+               <join result="criminalCharge" id="t17360505-64-off316-c298" targOrder="Y" targets="t17360505-64-defend436 t17360505-64-off316 t17360505-64-verdict323"></join>
+               <join result="criminalCharge" id="t17360505-64-off318-c307" targOrder="Y" targets="t17360505-64-defend451 t17360505-64-off318 t17360505-64-verdict323"></join>
+         
+               <p>73, 74, 75, 76, 77. 
+               <persName id="t17360505-64-defend433" type="defendantName">
+                  
+                     <persName id="t17360505-64-person434" type="defendantName">
+                        
+                           <persName id="t17360505-64-defend435" type="defendantName">
+                              Daniel
+                               Malden  otherwise 
+                              <rs id="t17360505-64-alias-8" type="alias">
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-defend433 t17360505-64-alias-8"></join>
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-person434 t17360505-64-alias-8"></join>
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-defend435 t17360505-64-alias-8"></join>Morgan</rs> otherwise <rs id="t17360505-64-alias-9" type="alias">
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-defend433 t17360505-64-alias-9"></join>
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-person434 t17360505-64-alias-9"></join>
+                              <join result="nameAlias" targOrder="Y" targets="t17360505-64-defend435 t17360505-64-alias-9"></join>Smith</rs>
+                           <interp inst="t17360505-64-defend435" type="surname" value="Malden otherwise"></interp>
+                           <interp inst="t17360505-64-defend435" type="given" value="Daniel"></interp>
+                           <interp inst="t17360505-64-defend435" type="gender" value="male"></interp>
+                        </persName>
+                        
+                        <interp inst="t17360505-64-person434" type="surname" value="Malden otherwise"></interp>
+                        <interp inst="t17360505-64-person434" type="given" value="Daniel"></interp>
+                        <interp inst="t17360505-64-person434" type="gender" value="male"></interp>
+                     </persName>
+                   and Mary
+                   his 
+                  <rs id="t17360505-64-deflabel314" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17360505-64-defend433 t17360505-64-deflabel314"></join>
+                     <interp inst="t17360505-64-defend433" type="surname" value="Malden otherwise"></interp>
+                     <interp inst="t17360505-64-defend433" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-defend433" type="gender" value="female"></interp>
+                  </persName>
+            , 
+               <persName id="t17360505-64-defend436" type="defendantName">
+                  
+                     <persName id="t17360505-64-person437" type="defendantName">
+                        
+                           <persName id="t17360505-64-defend438" type="defendantName">
+                              John 
+                              Holbert 
+                           <interp inst="t17360505-64-defend438" type="surname" value="Holbert"></interp>
+                           <interp inst="t17360505-64-defend438" type="given" value="John"></interp>
+                           <interp inst="t17360505-64-defend438" type="gender" value="male"></interp>
+                        </persName>
+                        
+                        <interp inst="t17360505-64-person437" type="surname" value="Holbert"></interp>
+                        <interp inst="t17360505-64-person437" type="given" value="John"></interp>
+                        <interp inst="t17360505-64-person437" type="gender" value="male"></interp>
+                     </persName>
+                   and Ann
+                   his 
+                  <rs id="t17360505-64-deflabel315" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17360505-64-defend436 t17360505-64-deflabel315"></join>
+                     <interp inst="t17360505-64-defend436" type="surname" value="his"></interp>
+                     <interp inst="t17360505-64-defend436" type="given" value="Ann"></interp>
+                     <interp inst="t17360505-64-defend436" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17360505-64-off316" type="offenceDescription">
+                     <interp inst="t17360505-64-off316" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-64-off316" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking and entering the House of 
+                     
+                        <persName id="t17360505-64-victim440" type="victimName">
+                           Mary 
+                           Henshaw 
+                        <interp inst="t17360505-64-victim440" type="surname" value="Henshaw"></interp>
+                        <interp inst="t17360505-64-victim440" type="given" value="Mary"></interp>
+                        <interp inst="t17360505-64-victim440" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , and stealing 7 pair of Sheets, the Goods of 
+                     
+                        <persName id="t17360505-64-victim442" type="victimName">
+                           John 
+                           White 
+                        <interp inst="t17360505-64-victim442" type="surname" value="White"></interp>
+                        <interp inst="t17360505-64-victim442" type="given" value="John"></interp>
+                        <interp inst="t17360505-64-victim442" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; 8 Aprons, the Goods of 
+                     
+                        <persName id="t17360505-64-victim444" type="victimName">
+                           Sarah 
+                           Bishop 
+                        <interp inst="t17360505-64-victim444" type="surname" value="Bishop"></interp>
+                        <interp inst="t17360505-64-victim444" type="given" value="Sarah"></interp>
+                        <interp inst="t17360505-64-victim444" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  ; 3 Check Aprons the Goods of 
+                     <persName id="t17360505-64-victim445" type="victimName">
+                        Sarah
+                        <xptr type="pageFacsimile" doc="173605050016"></xptr> Hilder<interp inst="t17360505-64-victim445" type="given" value="Sarah"></interp>
+                        <interp inst="t17360505-64-victim445" type="gender" value="female"></interp>
+                     </persName>
+                  , Check Aprons the Goods of 
+                     
+                        <persName id="t17360505-64-victim447" type="victimName">
+                           Ann 
+                           Seal 
+                        <interp inst="t17360505-64-victim447" type="surname" value="Seal"></interp>
+                        <interp inst="t17360505-64-victim447" type="given" value="Ann"></interp>
+                        <interp inst="t17360505-64-victim447" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , and 1 Shirt the Goods of 
+                     
+                        <persName id="t17360505-64-victim449" type="victimName">
+                           Thomas 
+                           Clark 
+                        <interp inst="t17360505-64-victim449" type="surname" value="Clark"></interp>
+                        <interp inst="t17360505-64-victim449" type="given" value="Thomas"></interp>
+                        <interp inst="t17360505-64-victim449" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17360505-64-cd317" type="crimeDate">February 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-64-off316 t17360505-64-cd317"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-64-off318 t17360505-64-cd317"></join>. And 
+               
+                  <persName id="t17360505-64-defend451" type="defendantName">
+                     Mary 
+                     Gray 
+                  <interp inst="t17360505-64-defend451" type="surname" value="Gray"></interp>
+                     <interp inst="t17360505-64-defend451" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-defend451" type="gender" value="female"></interp>
+                  </persName>
+                
+             for <rs id="t17360505-64-off318" type="offenceDescription">
+                     <interp inst="t17360505-64-off318" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-64-off318" type="offenceSubcategory" value="receiving"></interp>
+               receiving 1 Shirt, the Goods of 
+                     <persName id="t17360505-64-person452">
+                        Thomas 
+                        Clark 
+                     <interp inst="t17360505-64-person452" type="surname" value="Clark"></interp>
+                        <interp inst="t17360505-64-person452" type="given" value="Thomas"></interp>
+                        <interp inst="t17360505-64-person452" type="gender" value="male"></interp>
+                     </persName>
+                  , knowing it to be stolen
+            </rs>, <rs id="t17360505-64-cd319" type="crimeDate">March 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-64-off316 t17360505-64-cd319"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-64-off318 t17360505-64-cd319"></join>.</p>
+               <p>I 
+               <persName id="t17360505-64-person453">
+                  Mary 
+                  Henshaw 
+               <interp inst="t17360505-64-person453" type="surname" value="Henshaw"></interp>
+                     <interp inst="t17360505-64-person453" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-person453" type="gender" value="female"></interp>
+                  </persName>
+            . On the first of March, or the last Day of February, about the dead time of the Night my House was broke open. I am a <rs id="t17360505-64-viclabel320" type="occupation">Washer-woman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360505-64-victim440 t17360505-64-viclabel320"></join>; when I went to bed I bolted my Doors and Windows fast. On Monday Morning I found they had wrenched one of the Pins, but it was key'd in the inside, so they cut the Shutter, opened the Casement, and got into the Kitchen through the Window; I lost all the Things mentioned; I had washed them on Saturday, so they must be all wet when they took them. I had a suspicion of these People; they had lived in the Neighbourhood 2 or 3 Days, and 
+               <persName id="t17360505-64-person454">
+                  Daniel 
+                  Malden 
+               <interp inst="t17360505-64-person454" type="surname" value="Malden"></interp>
+                     <interp inst="t17360505-64-person454" type="given" value="Daniel"></interp>
+                     <interp inst="t17360505-64-person454" type="gender" value="male"></interp>
+                  </persName>
+             came on the Sunday to me for a Shirt, a Shift, and an Apron, which I had to wash for him and his Wife; and I observed him to walk several times backward and forward, viewing (I suppose) which way he might get in. With a Warrant I searched for the Prisoners at the Magpye at Islington, and at the Castle at Holloway, and while we were there, Holbert and his Wife, and 
+               <persName id="t17360505-64-person455">
+                  Mary 
+                  Malden 
+               <interp inst="t17360505-64-person455" type="surname" value="Malden"></interp>
+                     <interp inst="t17360505-64-person455" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-person455" type="gender" value="female"></interp>
+                  </persName>
+             came in; I charged the Constable with them; and coming back, we took Daniel Malden; so they were all 4 carried before Justice Robe, and upon searching them, we found one of the Aprons; damp, rolled up, and put round 
+               <persName id="t17360505-64-person456">
+                  Mary 
+                  Malden 
+               <interp inst="t17360505-64-person456" type="surname" value="Malden"></interp>
+                     <interp inst="t17360505-64-person456" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-person456" type="gender" value="female"></interp>
+                  </persName>
+             under her Cloaths. I own'd it, and she at first said it was her own, and then, that she found it in the Fields. Malden confess'd before the Justice, that Holbert and he took the Goods, and that they were dry'd in Holbert's House.</p>
+               <p>Q. Was his Information taken in writing?</p>
+               <p>Henshaw. Yes, and taken on Oath.</p>
+               <p>Q. Then it cannot be read in Testimony against him.</p>
+               <p>
+            
+                  <persName id="t17360505-64-person457">
+                  Thomas 
+                  Clark 
+               <interp inst="t17360505-64-person457" type="surname" value="Clark"></interp>
+                     <interp inst="t17360505-64-person457" type="given" value="Thomas"></interp>
+                     <interp inst="t17360505-64-person457" type="gender" value="male"></interp>
+                  </persName>
+            . One of the Shirts that was lost belonged to me; and by Malden's Information after he was committed, we found it at 
+               <persName id="t17360505-64-person458">
+                  Mary 
+                  Grays 
+               <interp inst="t17360505-64-person458" type="surname" value="Grays"></interp>
+                     <interp inst="t17360505-64-person458" type="given" value="Mary"></interp>
+                     <interp inst="t17360505-64-person458" type="gender" value="female"></interp>
+                  </persName>
+            , she had it in a Tub, and was washing it.</p>
+               <p>
+            
+                  <persName id="t17360505-64-person459">
+                  Thomas 
+                  Stringfellow 
+               <interp inst="t17360505-64-person459" type="surname" value="Stringfellow"></interp>
+                     <interp inst="t17360505-64-person459" type="given" value="Thomas"></interp>
+                     <interp inst="t17360505-64-person459" type="gender" value="male"></interp>
+                  </persName>
+            . Henshaw brought the Warrant to me to search the Castle at Holloway. We found no Linnen there, but while we were there, Holbert and his Wife and Mary Malden came in; she charged me with them, and I brought them through Islington to Justice Robe's House, and there they pulled this Apron from under her Petticoats.</p>
+               <p>
+            
+                  <persName id="t17360505-64-person460">
+                  John 
+                  Banford 
+               <interp inst="t17360505-64-person460" type="surname" value="Banford"></interp>
+                     <interp inst="t17360505-64-person460" type="given" value="John"></interp>
+                     <interp inst="t17360505-64-person460" type="gender" value="male"></interp>
+                  </persName>
+            . I searched the Magpye at Islington: Holbert had been there, but got out of the House when I came in; I searched Malden's Room, but found nothing; then Sutton's was searched (the next House) but there was nothing there. There was this Constable at Holloway; and I desired her as the Man was litigious to go up too, and 3 of them we took at Holloway; Malden confess'd the Robbery at the Fountain Tavern.</p>
+               <p>
+            
+                  <persName id="t17360505-64-person461">
+                  John 
+                  Banford 
+               <interp inst="t17360505-64-person461" type="surname" value="Banford"></interp>
+                     <interp inst="t17360505-64-person461" type="given" value="John"></interp>
+                     <interp inst="t17360505-64-person461" type="gender" value="male"></interp>
+                  </persName>
+            . Malden own'd to me in the Lodge at Newgate, that he broke open Henshaw's House, and said he could help me to some of the Linnen again; Holbert, he said, was concerned with him in this Fact.</p>
+               <p>
+            
+                  <persName id="t17360505-64-person462">
+                  Joseph 
+                  Pool 
+               <interp inst="t17360505-64-person462" type="surname" value="Pool"></interp>
+                     <interp inst="t17360505-64-person462" type="given" value="Joseph"></interp>
+                     <interp inst="t17360505-64-person462" type="gender" value="male"></interp>
+                  </persName>
+            . I searched at Gray's, and found this Shirt in the Wash-tub, at her House in St. George's Parish, Ratcliff High-way. Daniel Malden <rs id="t17360505-64-verdict321" type="verdictDescription">
+                     <interp inst="t17360505-64-verdict321" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>. <rs id="t17360505-64-punish322" type="punishmentDescription">
+                     <interp inst="t17360505-64-punish322" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-64-person434 t17360505-64-punish322"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-64-defend435 t17360505-64-punish322"></join>
+               Death
+            </rs>.</p>
+               <p>Mary Malden, John Holbert, Ann Holbert, and Mary Gray <rs id="t17360505-64-verdict323" type="verdictDescription">
+                     <interp inst="t17360505-64-verdict323" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,87 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550910-48">
+               <interp inst="t17550910-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550910-48" type="year" value="1755"></interp>
+               <interp inst="t17550910-48" type="uri" value="sessionsPapers/17550910"></interp>
+               <interp inst="t17550910-48" type="date" value="17550910"></interp>
+               <join result="criminalCharge" id="t17550910-48-off268-c431" targOrder="Y" targets="t17550910-48-defend531 t17550910-48-off268 t17550910-48-verdict271"></join>
+         
+               <p>355. (M.) 
+               
+                  <persName id="t17550910-48-defend531" type="defendantName">
+                     John 
+                     Ashby 
+                  <interp inst="t17550910-48-defend531" type="surname" value="Ashby"></interp>
+                     <interp inst="t17550910-48-defend531" type="given" value="John"></interp>
+                     <interp inst="t17550910-48-defend531" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17550910-48-off268" type="offenceDescription">
+                     <interp inst="t17550910-48-off268" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550910-48-off268" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing three gold rings, value 30 s. one pair of gold ear-rings , value 10 s. one silver scoop, value 1 s. the goods of 
+                     
+                        <persName id="t17550910-48-victim533" type="victimName">
+                           John 
+                           Bailey 
+                        <interp inst="t17550910-48-victim533" type="surname" value="Bailey"></interp>
+                        <interp inst="t17550910-48-victim533" type="given" value="John"></interp>
+                        <interp inst="t17550910-48-victim533" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; two gold rings, value 40 s. and 28 s. and 8 d. in money, numbered , the goods and money of 
+                     
+                        <persName id="t17550910-48-victim535" type="victimName">
+                           Mary 
+                           Dogdal 
+                        <interp inst="t17550910-48-victim535" type="surname" value="Dogdal"></interp>
+                        <interp inst="t17550910-48-victim535" type="given" value="Mary"></interp>
+                        <interp inst="t17550910-48-victim535" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , <rs id="t17550910-48-viclabel269" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17550910-48-victim535 t17550910-48-viclabel269"></join>, in the dwelling house
+            </rs> of 
+               <persName id="t17550910-48-person536">
+                  John 
+                  Bailey 
+               <interp inst="t17550910-48-person536" type="surname" value="Bailey"></interp>
+                     <interp inst="t17550910-48-person536" type="given" value="John"></interp>
+                     <interp inst="t17550910-48-person536" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17550910-48-cd270" type="crimeDate">July 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550910-48-off268 t17550910-48-cd270"></join>. ||</p>
+               <p>The prisoner lived at a publick house in Grub-street, opposite the house of 
+               <persName id="t17550910-48-person537">
+                  John 
+                  Bailey 
+               <interp inst="t17550910-48-person537" type="surname" value="Bailey"></interp>
+                     <interp inst="t17550910-48-person537" type="given" value="John"></interp>
+                     <interp inst="t17550910-48-person537" type="gender" value="male"></interp>
+                  </persName>
+            . He was missing part of two days; after which he was found in an upper room, under a bed, in the house of 
+               <persName id="t17550910-48-person538">
+                  John 
+                  Bailey 
+               <interp inst="t17550910-48-person538" type="surname" value="Bailey"></interp>
+                     <interp inst="t17550910-48-person538" type="given" value="John"></interp>
+                     <interp inst="t17550910-48-person538" type="gender" value="male"></interp>
+                  </persName>
+            , with the things mentioned in his pocket.</p>
+               <p>
+                  <rs id="t17550910-48-verdict271" type="verdictDescription">
+                     <interp inst="t17550910-48-verdict271" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17550910-48-verdict271" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17550910-48-punish272" type="punishmentDescription">
+                     <interp inst="t17550910-48-punish272" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17550910-48-defend531 t17550910-48-punish272"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

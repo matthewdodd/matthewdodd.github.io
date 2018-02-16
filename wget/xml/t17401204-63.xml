@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17401204-63">
+               <interp inst="t17401204-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t17401204-63" type="year" value="1740"></interp>
+               <interp inst="t17401204-63" type="uri" value="sessionsPapers/17401204"></interp>
+               <interp inst="t17401204-63" type="date" value="17401204"></interp>
+               <join result="criminalCharge" id="t17401204-63-off299-c307" targOrder="Y" targets="t17401204-63-defend446 t17401204-63-off299 t17401204-63-verdict301"></join>
+         
+               <p>79. 
+               
+                  <persName id="t17401204-63-defend446" type="defendantName">
+                     John 
+                     Jones , alias <rs id="t17401204-63-alias-6" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17401204-63-defend446 t17401204-63-alias-6"></join>Captain Jack</rs>
+                     <interp inst="t17401204-63-defend446" type="surname" value="Jones"></interp>
+                     <interp inst="t17401204-63-defend446" type="given" value="John"></interp>
+                     <interp inst="t17401204-63-defend446" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17401204-63-defloc298">Acton</placeName>
+                  <interp inst="t17401204-63-defloc298" type="placeName" value="Acton"></interp>
+                  <interp inst="t17401204-63-defloc298" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17401204-63-defend446 t17401204-63-defloc298"></join>, was indicted for <rs id="t17401204-63-off299" type="offenceDescription">
+                     <interp inst="t17401204-63-off299" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17401204-63-off299" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing 2 d. 3 Farthings
+            </rs>, the Money of 
+               
+                  <persName id="t17401204-63-victim448" type="victimName">
+                     Sarah 
+                     Griffin 
+                  <interp inst="t17401204-63-victim448" type="surname" value="Griffin"></interp>
+                     <interp inst="t17401204-63-victim448" type="given" value="Sarah"></interp>
+                     <interp inst="t17401204-63-victim448" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17401204-63-off299 t17401204-63-victim448"></join>
+                  </persName>
+                
+            , <rs id="t17401204-63-cd300" type="crimeDate">Sept. 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17401204-63-off299 t17401204-63-cd300"></join>.</p>
+               <p>Sir 
+               <persName id="t17401204-63-person449">
+                  Joseph 
+                  Ayloff 
+               <interp inst="t17401204-63-person449" type="surname" value="Ayloff"></interp>
+                     <interp inst="t17401204-63-person449" type="given" value="Joseph"></interp>
+                     <interp inst="t17401204-63-person449" type="gender" value="male"></interp>
+                  </persName>
+             . The Prisoner was brought before me, and confessed that he was in Company<xptr type="pageFacsimile" doc="174012040019"></xptr> with several others, when the Woman was ravish'd in the Barn at Atton ; that Curtis demanded her Money, and the Woman did not give it to Curtis, but to him. I believe he was drawn away by them, for he bore a better Character than any of them</p>
+               <p>Peter Lewis, and Edward Parker, never heard any Ill of the Prisoner before .</p>
+               <p>
+                  <rs id="t17401204-63-verdict301" type="verdictDescription">
+                     <interp inst="t17401204-63-verdict301" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17401204-63-punish302" type="punishmentDescription">
+                     <interp inst="t17401204-63-punish302" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17401204-63-punish302" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17401204-63-defend446 t17401204-63-punish302"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890828-9">
+               <interp inst="t16890828-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890828-9" type="year" value="1689"></interp>
+               <interp inst="t16890828-9" type="uri" value="sessionsPapers/16890828"></interp>
+               <interp inst="t16890828-9" type="date" value="16890828"></interp>
+               <join result="criminalCharge" id="t16890828-9-off37-c44" targOrder="Y" targets="t16890828-9-defend55 t16890828-9-off37 t16890828-9-verdict38"></join>
+         
+               <p>
+            
+                  <persName id="t16890828-9-defend55" type="defendantName">
+                  Thomasin 
+                  Burton
+               <interp inst="t16890828-9-defend55" type="surname" value="Burton"></interp>
+                     <interp inst="t16890828-9-defend55" type="given" value="Thomasin"></interp>
+                     <interp inst="t16890828-9-defend55" type="gender" value="female"></interp>
+                  </persName>
+             was Indicted for <rs id="t16890828-9-off37" type="offenceDescription">
+                     <interp inst="t16890828-9-off37" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890828-9-off37" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing 60 yards of black Crape value 3 l. the Goods of 
+                     <persName id="t16890828-9-victim56" type="victimName">
+                        Katharine 
+                        Steers
+                     <interp inst="t16890828-9-victim56" type="surname" value="Steers"></interp>
+                        <interp inst="t16890828-9-victim56" type="given" value="Katharine"></interp>
+                        <interp inst="t16890828-9-victim56" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890828-9-off37 t16890828-9-victim56"></join>
+                     </persName>
+                  . The Evidence said that the Prisoner and another came into the Shop to cheapen Goods, and the Prisoner was seen to take away the Crape under her Apron
+            </rs>, which was found about her. She denied all, and was known to be an idle Housewife, so she was found <rs id="t16890828-9-verdict38" type="verdictDescription">
+                     <interp inst="t16890828-9-verdict38" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16890828-9-verdict38" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16890828-9-punish39" type="punishmentDescription">
+                     <interp inst="t16890828-9-punish39" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16890828-9-punish39" type="punishmentSubcategory" value="privateWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890828-9-defend55 t16890828-9-punish39"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

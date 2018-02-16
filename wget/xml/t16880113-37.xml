@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880113-37">
+               <interp inst="t16880113-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880113-37" type="year" value="1688"></interp>
+               <interp inst="t16880113-37" type="uri" value="sessionsPapers/16880113"></interp>
+               <interp inst="t16880113-37" type="date" value="16880113"></interp>
+               <join result="criminalCharge" id="t16880113-37-off186-c103" targOrder="Y" targets="t16880113-37-defend162 t16880113-37-off186 t16880113-37-verdict190"></join>
+         
+               <p>
+            
+                  <persName id="t16880113-37-defend162" type="defendantName">
+                  Ann 
+                  Anderson
+               <interp inst="t16880113-37-defend162" type="surname" value="Anderson"></interp>
+                     <interp inst="t16880113-37-defend162" type="given" value="Ann"></interp>
+                     <interp inst="t16880113-37-defend162" type="gender" value="female"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16880113-37-off186" type="offenceDescription">
+                     <interp inst="t16880113-37-off186" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880113-37-off186" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     
+                        <persName id="t16880113-37-victim164" type="victimName">
+                           Francis 
+                           Gregory
+                        <interp inst="t16880113-37-victim164" type="surname" value="Gregory"></interp>
+                        <interp inst="t16880113-37-victim164" type="given" value="Francis"></interp>
+                        <interp inst="t16880113-37-victim164" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880113-37-off186 t16880113-37-victim164"></join>
+                     </persName>
+                     
+                  , of the Parish of <placeName id="t16880113-37-crimeloc187">St. Anns Westminster</placeName>
+                     <interp inst="t16880113-37-crimeloc187" type="placeName" value="St. Anns Westminster"></interp>
+                     <interp inst="t16880113-37-crimeloc187" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16880113-37-off186 t16880113-37-crimeloc187"></join>, on the <rs id="t16880113-37-cd188" type="crimeDate">10th. of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880113-37-off186 t16880113-37-cd188"></join> last , a Flasket, value 2 s. two Lac'd Crevats , value 16 s. two Lac'd Cornets, value 12 s. one Lac'd Handkerchief, value 5 s. two pair of Sleeves , value 6 s. five Aprons , value 5 s. and other Linnen
+            </rs>. It appearing that the Prisoner being a <rs id="t16880113-37-deflabel189" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880113-37-defend162 t16880113-37-deflabel189"></join> that used to carry Butter in the Mornings about the Streets for her Mistress, she found the Flasket Empty in the Street; and a Woman also deposing, that the same Morning she passed by and saw the said Flasket Empty in the Street, it was look'd upon as a Malicious Prosecution, and she was <rs id="t16880113-37-verdict190" type="verdictDescription">
+                     <interp inst="t16880113-37-verdict190" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

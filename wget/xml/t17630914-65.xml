@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630914-65">
+               <interp inst="t17630914-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630914-65" type="year" value="1763"></interp>
+               <interp inst="t17630914-65" type="uri" value="sessionsPapers/17630914"></interp>
+               <interp inst="t17630914-65" type="date" value="17630914"></interp>
+               <join result="criminalCharge" id="t17630914-65-off357-c376" targOrder="Y" targets="t17630914-65-defend512 t17630914-65-off357 t17630914-65-verdict360"></join>
+         
+               <p>435. (M.) 
+               <persName id="t17630914-65-defend512" type="defendantName">
+                  John 
+                  Brown 
+               <interp inst="t17630914-65-defend512" type="surname" value="Brown"></interp>
+                     <interp inst="t17630914-65-defend512" type="given" value="John"></interp>
+                     <interp inst="t17630914-65-defend512" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17630914-65-off357" type="offenceDescription">
+                     <interp inst="t17630914-65-off357" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630914-65-off357" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silk handkerchief, val. 10 d. a 30 s. piece, a mold, a guinea, and 8 d. in money numbered
+            </rs>, the property of 
+               
+                  <persName id="t17630914-65-victim514" type="victimName">
+                     Thomas 
+                     Parker 
+                  <interp inst="t17630914-65-victim514" type="surname" value="Parker"></interp>
+                     <interp inst="t17630914-65-victim514" type="given" value="Thomas"></interp>
+                     <interp inst="t17630914-65-victim514" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630914-65-off357 t17630914-65-victim514"></join>
+                  </persName>
+                
+            , <rs id="t17630914-65-cd358" type="crimeDate">August 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630914-65-off357 t17630914-65-cd358"></join>. *</p>
+               <p>
+            
+                  <persName id="t17630914-65-person515">
+                  William 
+                  Chaplin 
+               <interp inst="t17630914-65-person515" type="surname" value="Chaplin"></interp>
+                     <interp inst="t17630914-65-person515" type="given" value="William"></interp>
+                     <interp inst="t17630914-65-person515" type="gender" value="male"></interp>
+                  </persName>
+             deposed, that Hannah, wife to 
+               <persName id="t17630914-65-person516">
+                  Thomas 
+                  Parker 
+               <interp inst="t17630914-65-person516" type="surname" value="Parker"></interp>
+                     <interp inst="t17630914-65-person516" type="given" value="Thomas"></interp>
+                     <interp inst="t17630914-65-person516" type="gender" value="male"></interp>
+                  </persName>
+             was his servant, but is since dead; that the prisoner came to his house, the <placeName id="t17630914-65-crimeloc359">Wheelwright's-arms, in East Smithfield</placeName>
+                  <interp inst="t17630914-65-crimeloc359" type="placeName" value="Wheelwright's-arms, in East Smithfield"></interp>
+                  <interp inst="t17630914-65-crimeloc359" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17630914-65-off357 t17630914-65-crimeloc359"></join>, he called for liquor, but being very drunk he let him lay down on his maid's bed, where he was four or five hours, the maid and mistress being gone out; that after he got up he had six pennyworth of rum and water, while he was drinking it came in 
+               <persName id="t17630914-65-person517">
+                  Lydia 
+                  Cox 
+               <interp inst="t17630914-65-person517" type="surname" value="Cox"></interp>
+                     <interp inst="t17630914-65-person517" type="given" value="Lydia"></interp>
+                     <interp inst="t17630914-65-person517" type="gender" value="female"></interp>
+                  </persName>
+            , who talked to him about his going on the scamp, and the lay, cant words used among thieves for going a thieving; he being a constable put him in the watch-house; the next morning the maid found she had lost the money mentioned, out of a drawer in the room, he was searched, and there was nine guineas, three quarter guineas, two quarter moid'ors, a 3 s. piece, and a 27 s. piece, found in a handkerchief tied round his thigh; the maid swore to the 27 s. piece and handkerchief before the Justice, the piece was remarkably bent by her, she mentioned that before she saw it: that in carrying the prisoner to New prison he insisted upon giving him a bottle of wine, and there said if he would promise to clear him he would give him the value of the money, and his expences.</p>
+
+               <p>
+                  <rs id="t17630914-65-verdict360" type="verdictDescription">
+                     <interp inst="t17630914-65-verdict360" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17630914-65-punish361" type="punishmentDescription">
+                     <interp inst="t17630914-65-punish361" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17630914-65-defend512 t17630914-65-punish361"></join>
+               T.
+            </rs>
+               </p>
+            </div1>

@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17581025-10">
+               <interp inst="t17581025-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17581025-10" type="year" value="1758"></interp>
+               <interp inst="t17581025-10" type="uri" value="sessionsPapers/17581025"></interp>
+               <interp inst="t17581025-10" type="date" value="17581025"></interp>
+               <join result="criminalCharge" id="t17581025-10-off47-c83" targOrder="Y" targets="t17581025-10-defend102 t17581025-10-off47 t17581025-10-verdict51"></join>
+         
+               <p>333. (L.) 
+               
+                  <persName id="t17581025-10-defend102" type="defendantName">
+                     Isaac 
+                     Reynolds 
+                  <interp inst="t17581025-10-defend102" type="surname" value="Reynolds"></interp>
+                     <interp inst="t17581025-10-defend102" type="given" value="Isaac"></interp>
+                     <interp inst="t17581025-10-defend102" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17581025-10-off47" type="offenceDescription">
+                     <interp inst="t17581025-10-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17581025-10-off47" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one copper tea kettle, value 2 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17581025-10-victim104" type="victimName">
+                     Thomas 
+                     Chidley 
+                  <interp inst="t17581025-10-victim104" type="surname" value="Chidley"></interp>
+                     <interp inst="t17581025-10-victim104" type="given" value="Thomas"></interp>
+                     <interp inst="t17581025-10-victim104" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17581025-10-off47 t17581025-10-victim104"></join>
+                  </persName>
+                
+            . <rs id="t17581025-10-cd48" type="crimeDate">Oct. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581025-10-off47 t17581025-10-cd48"></join>. ++</p>
+
+               <p>
+            
+                  <persName id="t17581025-10-person105">
+                  Thomas 
+                  Chidley 
+               <interp inst="t17581025-10-person105" type="surname" value="Chidley"></interp>
+                     <interp inst="t17581025-10-person105" type="given" value="Thomas"></interp>
+                     <interp inst="t17581025-10-person105" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17581025-10-viclabel49" type="occupation">I keep a broker's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17581025-10-victim104 t17581025-10-viclabel49"></join> in the <placeName id="t17581025-10-crimeloc50">Fleet-market</placeName>
+                  <interp inst="t17581025-10-crimeloc50" type="placeName" value="Fleet-market"></interp>
+                  <interp inst="t17581025-10-crimeloc50" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17581025-10-off47 t17581025-10-crimeloc50"></join>, I was in the counting house in my shop; I saw the prisoner come into the shop and take up a tea kettle and put it under his coat; I followed him out, he dropped it and ran away; I pursued him and he was soon taken. (The tea kettle produced,) This is it, my property; he said it was his first fact, upon which I was much inclined to have let him gone about his business.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was in liquor, or I had not done it in the middle of the day to be sure.</p>
+               <p>
+                  <rs id="t17581025-10-verdict51" type="verdictDescription">
+                     <interp inst="t17581025-10-verdict51" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>See him tried. No. 170, in the mayoralty of Mr. Alderman Dickinson, for stealing a coat from a sale shop in High Holborn, for which crime he was branded.</p>
+               <p>
+                  <rs id="t17581025-10-punish52" type="punishmentDescription">
+                     <interp inst="t17581025-10-punish52" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17581025-10-defend102 t17581025-10-punish52"></join>
+               
+                     <note>[Transportation.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

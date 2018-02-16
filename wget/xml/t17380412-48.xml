@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380412-48">
+               <interp inst="t17380412-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380412-48" type="year" value="1738"></interp>
+               <interp inst="t17380412-48" type="uri" value="sessionsPapers/17380412"></interp>
+               <interp inst="t17380412-48" type="date" value="17380412"></interp>
+               <join result="criminalCharge" id="t17380412-48-off234-c230" targOrder="Y" targets="t17380412-48-defend333 t17380412-48-off234 t17380412-48-verdict238"></join>
+               <join result="criminalCharge" id="t17380412-48-off236-c230" targOrder="Y" targets="t17380412-48-defend333 t17380412-48-off236 t17380412-48-verdict238"></join>
+         
+               <p>62 
+               
+                  <persName id="t17380412-48-defend333" type="defendantName">
+                     William 
+                     Gerrard 
+                  <interp inst="t17380412-48-defend333" type="surname" value="Gerrard"></interp>
+                     <interp inst="t17380412-48-defend333" type="given" value="William"></interp>
+                     <interp inst="t17380412-48-defend333" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380412-48-off234" type="offenceDescription">
+                     <interp inst="t17380412-48-off234" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380412-48-off234" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Mare of a brown Colour, value 3l.
+            </rs> the Goods of 
+               
+                  <persName id="t17380412-48-victim335" type="victimName">
+                     Joseph 
+                     Parsons 
+                  <interp inst="t17380412-48-victim335" type="surname" value="Parsons"></interp>
+                     <interp inst="t17380412-48-victim335" type="given" value="Joseph"></interp>
+                     <interp inst="t17380412-48-victim335" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17380412-48-cd235" type="crimeDate">Sept.30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-48-off234 t17380412-48-cd235"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-48-off236 t17380412-48-cd235"></join>.</p>
+               <p>He was a second Time indicted for <rs id="t17380412-48-off236" type="offenceDescription">
+                     <interp inst="t17380412-48-off236" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380412-48-off236" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Mare of a grey Colour, value 4l.
+            </rs> the Goods of 
+               
+                  <persName id="t17380412-48-victim337" type="victimName">
+                     Richard 
+                     Micklefield 
+                  <interp inst="t17380412-48-victim337" type="surname" value="Micklefield"></interp>
+                     <interp inst="t17380412-48-victim337" type="given" value="Richard"></interp>
+                     <interp inst="t17380412-48-victim337" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17380412-48-cd237" type="crimeDate">Sept. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-48-off234 t17380412-48-cd237"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-48-off236 t17380412-48-cd237"></join>. <rs id="t17380412-48-verdict238" type="verdictDescription">
+                     <interp inst="t17380412-48-verdict238" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted on both Indictments
+            </rs>.</p>
+            </div1>

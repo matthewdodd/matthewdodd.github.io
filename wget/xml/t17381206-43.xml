@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381206-43">
+               <interp inst="t17381206-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381206-43" type="year" value="1738"></interp>
+               <interp inst="t17381206-43" type="uri" value="sessionsPapers/17381206"></interp>
+               <interp inst="t17381206-43" type="date" value="17381206"></interp>
+               <join result="criminalCharge" id="t17381206-43-off192-c207" targOrder="Y" targets="t17381206-43-defend299 t17381206-43-off192 t17381206-43-verdict194"></join>
+               <join result="criminalCharge" id="t17381206-43-off192-c208" targOrder="Y" targets="t17381206-43-defend301 t17381206-43-off192 t17381206-43-verdict194"></join>
+         
+               <p>46. 47. 
+               
+                  <persName id="t17381206-43-defend299" type="defendantName">
+                     William 
+                     Cockran 
+                  <interp inst="t17381206-43-defend299" type="surname" value="Cockran"></interp>
+                     <interp inst="t17381206-43-defend299" type="given" value="William"></interp>
+                     <interp inst="t17381206-43-defend299" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17381206-43-defend301" type="defendantName">
+                     Joseph 
+                     Bradley 
+                  <interp inst="t17381206-43-defend301" type="surname" value="Bradley"></interp>
+                     <interp inst="t17381206-43-defend301" type="given" value="Joseph"></interp>
+                     <interp inst="t17381206-43-defend301" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17381206-43-off192" type="offenceDescription">
+                     <interp inst="t17381206-43-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381206-43-off192" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the Dwelling-House of 
+                     <persName id="t17381206-43-person302">
+                        Henry 
+                        Burdin 
+                     <interp inst="t17381206-43-person302" type="surname" value="Burdin"></interp>
+                        <interp inst="t17381206-43-person302" type="given" value="Henry"></interp>
+                        <interp inst="t17381206-43-person302" type="gender" value="male"></interp>
+                     </persName>
+                  , about Ten at Night, and stealing a Pair of Linnen Sheets, val. 5 s. two Blankets, val. 2s. a Woollen Rug, val. 12 d. a a Cloth Cloak, val. 8 s. the Goods of 
+                     
+                        <persName id="t17381206-43-victim304" type="victimName">
+                           Henry 
+                           Burdin 
+                        <interp inst="t17381206-43-victim304" type="surname" value="Burdin"></interp>
+                        <interp inst="t17381206-43-victim304" type="given" value="Henry"></interp>
+                        <interp inst="t17381206-43-victim304" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and several other Things the Property of 
+                     
+                        <persName id="t17381206-43-victim306" type="victimName">
+                           Jane 
+                           Shelley 
+                        <interp inst="t17381206-43-victim306" type="surname" value="Shelley"></interp>
+                        <interp inst="t17381206-43-victim306" type="given" value="Jane"></interp>
+                        <interp inst="t17381206-43-victim306" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , in the said Dwelling-House
+            </rs>, <rs id="t17381206-43-cd193" type="crimeDate">Nov. 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381206-43-off192 t17381206-43-cd193"></join>. Both <rs id="t17381206-43-verdict194" type="verdictDescription">
+                     <interp inst="t17381206-43-verdict194" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17381206-43-verdict194" type="verdictSubcategory" value="lesserOffence"></interp>
+               Acquitted of the Burglary; Guilty of the Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17381206-43-punish195" type="punishmentDescription">
+                     <interp inst="t17381206-43-punish195" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381206-43-defend299 t17381206-43-punish195"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381206-43-defend301 t17381206-43-punish195"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

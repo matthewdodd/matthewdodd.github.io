@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440728-44">
+               <interp inst="t17440728-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440728-44" type="year" value="1744"></interp>
+               <interp inst="t17440728-44" type="uri" value="sessionsPapers/17440728"></interp>
+               <interp inst="t17440728-44" type="date" value="17440728"></interp>
+               <join result="criminalCharge" id="t17440728-44-off248-c514" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-off248 t17440728-44-verdict249"></join>
+         
+               <p>350. 
+               
+                  <persName id="t17440728-44-defend608" type="defendantName">
+                     John 
+                     Hammand 
+                  <interp inst="t17440728-44-defend608" type="surname" value="Hammand"></interp>
+                     <interp inst="t17440728-44-defend608" type="given" value="John"></interp>
+                     <interp inst="t17440728-44-defend608" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17440728-44-defloc246">East Greenwich , in the County of Kent</placeName>
+                  <interp inst="t17440728-44-defloc246" type="placeName" value="East Greenwich , in the County of Kent"></interp>
+                  <interp inst="t17440728-44-defloc246" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-defloc246"></join> 
+                  <rs id="t17440728-44-deflabel247" type="occupation">Brewer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-deflabel247"></join>, was indicted for <rs id="t17440728-44-off248" type="offenceDescription">
+                     <interp inst="t17440728-44-off248" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17440728-44-off248" type="offenceSubcategory" value="forgery"></interp>
+               publishing a forged letter, knowing it to be forged. in order to defraud 
+                     
+                        <persName id="t17440728-44-victim610" type="victimName">
+                           Nicholas 
+                           Durant 
+                        <interp inst="t17440728-44-victim610" type="surname" value="Durant"></interp>
+                        <interp inst="t17440728-44-victim610" type="given" value="Nicholas"></interp>
+                        <interp inst="t17440728-44-victim610" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17440728-44-off248 t17440728-44-victim610"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>.</p>
+               <p>The Defendant was possessed of the Blue Anchor Brewhouse in Wapping, which 
+               <persName id="t17440728-44-person611">
+                  Nicholas 
+                  Durant 
+               <interp inst="t17440728-44-person611" type="surname" value="Durant"></interp>
+                     <interp inst="t17440728-44-person611" type="given" value="Nicholas"></interp>
+                     <interp inst="t17440728-44-person611" type="gender" value="male"></interp>
+                  </persName>
+             had taken of him, but had given him notice that he should quit the same, which he accordingly did; upon which the Defendant in Trinity Term 1740, exhibited a bill of complaint in his Majesty's Court of Exchequer, against 
+               <persName id="t17440728-44-person612">
+                  Nicholas 
+                  Durant 
+               <interp inst="t17440728-44-person612" type="surname" value="Durant"></interp>
+                     <interp inst="t17440728-44-person612" type="given" value="Nicholas"></interp>
+                     <interp inst="t17440728-44-person612" type="gender" value="male"></interp>
+                  </persName>
+            ; and this forged letter was published by the Defendant in that suit in the Court of Exchequer, which letter is as follows.</p>
+               <p>Mr. Hammand ,</p>
+               <p>Dec. 21, 1739.</p>
+               <p>' Sir, Mr. Simmonds not coming yesterday to ' take the lease of the Blue Anchor Brewhouse off ' my hand according to his promise, I therefore ' send you word by this, that I intend to hold the ' lease and premises for the term of years now to ' come, according to the agreement, so you need ' not come on Tuesday next to have the lease delivered, ' for I shall continue.</p>
+               <p>' To Mr. Hammand,</p>
+               <p>' Your humble Servant,</p>
+               <p>' Brewer at Greenwich , ' Kent.</p>
+               <p>' 
+               <persName id="t17440728-44-person613">
+                  Nicholas 
+                  Durant 
+               <interp inst="t17440728-44-person613" type="surname" value="Durant"></interp>
+                     <interp inst="t17440728-44-person613" type="given" value="Nicholas"></interp>
+                     <interp inst="t17440728-44-person613" type="gender" value="male"></interp>
+                  </persName>
+            .'</p>
+               <p>He was found <rs id="t17440728-44-verdict249" type="verdictDescription">
+                     <interp inst="t17440728-44-verdict249" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the indictment, sentenced to <rs id="t17440728-44-punish250" type="punishmentDescription">
+                     <interp inst="t17440728-44-punish250" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17440728-44-punish250" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-punish250"></join>
+               pay a fine of 6 s. 8 d.
+            </rs> to <rs id="t17440728-44-punish251" type="punishmentDescription">
+                     <interp inst="t17440728-44-punish251" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-punish251"></join>
+               suffer one month's imprisonment
+            </rs>, and to <rs id="t17440728-44-punish252" type="punishmentDescription">
+                     <interp inst="t17440728-44-punish252" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17440728-44-punish252" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440728-44-defend608 t17440728-44-punish252"></join>
+               stand on the Pillory at the end of Chancery-Lane in Fleet-street
+            </rs>.</p>
+            </div1>

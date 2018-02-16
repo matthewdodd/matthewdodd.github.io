@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870406-36">
+               <interp inst="t16870406-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870406-36" type="year" value="1687"></interp>
+               <interp inst="t16870406-36" type="uri" value="sessionsPapers/16870406"></interp>
+               <interp inst="t16870406-36" type="date" value="16870406"></interp>
+               <join result="criminalCharge" id="t16870406-36-off177-c123" targOrder="Y" targets="t16870406-36-defend187 t16870406-36-off177 t16870406-36-verdict181"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870406-36-defend187" type="defendantName">
+                     Thomas 
+                     Layton
+                  <interp inst="t16870406-36-defend187" type="surname" value="Layton"></interp>
+                     <interp inst="t16870406-36-defend187" type="given" value="Thomas"></interp>
+                     <interp inst="t16870406-36-defend187" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16870406-36-off177" type="offenceDescription">
+                     <interp inst="t16870406-36-off177" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870406-36-off177" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Gelding, value 20 l. out of the Stable of 
+                     
+                        <persName id="t16870406-36-victim189" type="victimName">
+                           Thomas 
+                           Dille
+                        <interp inst="t16870406-36-victim189" type="surname" value="Dille"></interp>
+                        <interp inst="t16870406-36-victim189" type="given" value="Thomas"></interp>
+                        <interp inst="t16870406-36-victim189" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870406-36-off177 t16870406-36-victim189"></join>
+                     </persName>
+                     
+                   in <placeName id="t16870406-36-crimeloc178">Hatton-Garden</placeName>
+                     <interp inst="t16870406-36-crimeloc178" type="placeName" value="Hatton-Garden"></interp>
+                     <interp inst="t16870406-36-crimeloc178" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870406-36-off177 t16870406-36-crimeloc178"></join>
+               
+                  </rs>, on the <rs id="t16870406-36-cd179" type="crimeDate">20th. of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870406-36-off177 t16870406-36-cd179"></join> last. The Proof against him was, that he was in the Company of one 
+               <persName id="t16870406-36-person190">
+                  Thomas 
+                  Sidebottom
+               <interp inst="t16870406-36-person190" type="surname" value="Sidebottom"></interp>
+                     <interp inst="t16870406-36-person190" type="given" value="Thomas"></interp>
+                     <interp inst="t16870406-36-person190" type="gender" value="male"></interp>
+                  </persName>
+             when he took him out of the Stable but that it was against his mind, and that he would at that time have discovered it, had not Sidebottom overaw'd him, by threatning to kill him, nor did he deny it in Court; yet he being but a <rs id="t16870406-36-deflabel180" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16870406-36-defend187 t16870406-36-deflabel180"></join>, and no other Testimony than his own Confession, he was <rs id="t16870406-36-verdict181" type="verdictDescription">
+                     <interp inst="t16870406-36-verdict181" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-15">
+               <interp inst="t16910218-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-15" type="year" value="1691"></interp>
+               <interp inst="t16910218-15" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-15" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-15-off68-c63" targOrder="Y" targets="t16910218-15-defend63 t16910218-15-off68 t16910218-15-verdict70"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-15-defend63" type="defendantName">
+                  Richard 
+                  Moor
+               <interp inst="t16910218-15-defend63" type="surname" value="Moor"></interp>
+                     <interp inst="t16910218-15-defend63" type="given" value="Richard"></interp>
+                     <interp inst="t16910218-15-defend63" type="gender" value="male"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16910218-15-off68" type="offenceDescription">
+                     <interp inst="t16910218-15-off68" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-15-off68" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of one 
+                     <persName id="t16910218-15-victim64" type="victimName">
+                        Jacob 
+                        Fletcher
+                     <interp inst="t16910218-15-victim64" type="surname" value="Fletcher"></interp>
+                        <interp inst="t16910218-15-victim64" type="given" value="Jacob"></interp>
+                        <interp inst="t16910218-15-victim64" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910218-15-off68 t16910218-15-victim64"></join>
+                     </persName>
+                   of <placeName id="t16910218-15-crimeloc69">Whitechappel</placeName>
+                     <interp inst="t16910218-15-crimeloc69" type="placeName" value="Whitechappel"></interp>
+                     <interp inst="t16910218-15-crimeloc69" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910218-15-off68 t16910218-15-crimeloc69"></join>, and taking away a Silver Tankard, value 4 l. 10 s. a Spoon, value 8 s. a Coral Necklace, and a case of Drawers
+            </rs>. The Evidence swore, That the House was broke open; but the chiefest Witness, who found him in the House, being gone to Sea, the matter could not be so fully proved against him at first; but another<xptr type="pageFacsimile" doc="16910218003"></xptr>said, That the Prisoner confest before Justice Osborne that he was in the House, together with his Comrade, another idle Fellow, who is since fled. The Prisoner denied it at his Tryal, yet in the Conclusion he was found <rs id="t16910218-15-verdict70" type="verdictDescription">
+                     <interp inst="t16910218-15-verdict70" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16910218-15-punish71" type="punishmentDescription">
+                     <interp inst="t16910218-15-punish71" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910218-15-defend63 t16910218-15-punish71"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

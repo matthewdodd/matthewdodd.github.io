@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340710-6">
+               <interp inst="t17340710-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340710-6" type="year" value="1734"></interp>
+               <interp inst="t17340710-6" type="uri" value="sessionsPapers/17340710"></interp>
+               <interp inst="t17340710-6" type="date" value="17340710"></interp>
+               <join result="criminalCharge" id="t17340710-6-off21-c48" targOrder="Y" targets="t17340710-6-defend62 t17340710-6-off21 t17340710-6-verdict24"></join>
+         
+               <p>7. 
+               
+                  <persName id="t17340710-6-defend62" type="defendantName">
+                     Martha 
+                     Williamson 
+                  <interp inst="t17340710-6-defend62" type="surname" value="Williamson"></interp>
+                     <interp inst="t17340710-6-defend62" type="given" value="Martha"></interp>
+                     <interp inst="t17340710-6-defend62" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340710-6-off21" type="offenceDescription">
+                     <interp inst="t17340710-6-off21" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340710-6-off21" type="offenceSubcategory" value="other"></interp>
+               stealing a Table-cloth, two Curtains, a Common Prayer-book, &amp;c. the Goods of 
+                     
+                        <persName id="t17340710-6-victim64" type="victimName">
+                           Andrew 
+                           Hook 
+                        <interp inst="t17340710-6-victim64" type="surname" value="Hook"></interp>
+                        <interp inst="t17340710-6-victim64" type="given" value="Andrew"></interp>
+                        <interp inst="t17340710-6-victim64" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , <rs id="t17340710-6-viclabel22" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17340710-6-victim64 t17340710-6-viclabel22"></join>; and a Hood, 3 Handkerchiefs, &amp;c
+            </rs>. the Goods of 
+               <persName id="t17340710-6-victim65" type="victimName">
+                  Austin 
+                  Wilkins 
+               <interp inst="t17340710-6-victim65" type="surname" value="Wilkins"></interp>
+                     <interp inst="t17340710-6-victim65" type="given" value="Austin"></interp>
+                     <interp inst="t17340710-6-victim65" type="gender" value="male"></interp>
+                  </persName>
+             , <rs id="t17340710-6-cd23" type="crimeDate">Jan. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340710-6-off21 t17340710-6-cd23"></join>. No Evidence. <rs id="t17340710-6-verdict24" type="verdictDescription">
+                     <interp inst="t17340710-6-verdict24" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17340710-6-verdict24" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

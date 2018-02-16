@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-12">
+               <interp inst="t17510523-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-12" type="year" value="1751"></interp>
+               <interp inst="t17510523-12" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-12" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-12-off66-c77" targOrder="Y" targets="t17510523-12-defend100 t17510523-12-off66 t17510523-12-verdict68"></join>
+               <join result="criminalCharge" id="t17510523-12-off66-c78" targOrder="Y" targets="t17510523-12-defend102 t17510523-12-off66 t17510523-12-verdict68"></join>
+         
+               <p>362. 363. (L.) 
+               
+                  <persName id="t17510523-12-defend100" type="defendantName">
+                     John 
+                     Hughes 
+                  <interp inst="t17510523-12-defend100" type="surname" value="Hughes"></interp>
+                     <interp inst="t17510523-12-defend100" type="given" value="John"></interp>
+                     <interp inst="t17510523-12-defend100" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17510523-12-defend102" type="defendantName">
+                     Patrick 
+                     Strong 
+                  <interp inst="t17510523-12-defend102" type="surname" value="Strong"></interp>
+                     <interp inst="t17510523-12-defend102" type="given" value="Patrick"></interp>
+                     <interp inst="t17510523-12-defend102" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17510523-12-off66" type="offenceDescription">
+                     <interp inst="t17510523-12-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-12-off66" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing ten fir rafters, value 6 s.
+            </rs> the goods of 
+               
+                  <persName id="t17510523-12-victim104" type="victimName">
+                     John 
+                     Constable 
+                  <interp inst="t17510523-12-victim104" type="surname" value="Constable"></interp>
+                     <interp inst="t17510523-12-victim104" type="given" value="John"></interp>
+                     <interp inst="t17510523-12-victim104" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-12-off66 t17510523-12-victim104"></join>
+                  </persName>
+                
+            , <rs id="t17510523-12-cd67" type="crimeDate">April 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-12-off66 t17510523-12-cd67"></join>. +</p>
+               <p>Both <rs id="t17510523-12-verdict68" type="verdictDescription">
+                     <interp inst="t17510523-12-verdict68" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

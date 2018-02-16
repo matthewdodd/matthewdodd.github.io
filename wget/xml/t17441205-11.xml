@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17441205-11">
+               <interp inst="t17441205-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17441205-11" type="year" value="1744"></interp>
+               <interp inst="t17441205-11" type="uri" value="sessionsPapers/17441205"></interp>
+               <interp inst="t17441205-11" type="date" value="17441205"></interp>
+               <join result="criminalCharge" id="t17441205-11-off80-c109" targOrder="Y" targets="t17441205-11-defend141 t17441205-11-off80 t17441205-11-verdict82"></join>
+         
+               <p>18. 
+               
+                  <persName id="t17441205-11-defend141" type="defendantName">
+                     Lewis 
+                     Goldsbury 
+                  <interp inst="t17441205-11-defend141" type="surname" value="Goldsbury"></interp>
+                     <interp inst="t17441205-11-defend141" type="given" value="Lewis"></interp>
+                     <interp inst="t17441205-11-defend141" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17441205-11-off80" type="offenceDescription">
+                     <interp inst="t17441205-11-off80" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17441205-11-off80" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pound of tobacco, value 12 d.
+            </rs> the goods of 
+               
+                  <persName id="t17441205-11-victim143" type="victimName">
+                     William 
+                     Anderson 
+                  <interp inst="t17441205-11-victim143" type="surname" value="Anderson"></interp>
+                     <interp inst="t17441205-11-victim143" type="given" value="William"></interp>
+                     <interp inst="t17441205-11-victim143" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17441205-11-off80 t17441205-11-victim143"></join>
+                  </persName>
+                
+            , <rs id="t17441205-11-cd81" type="crimeDate">Dec. 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-11-off80 t17441205-11-cd81"></join>.</p>
+               <p>
+            
+                  <persName id="t17441205-11-person144">
+                  Jeremiah 
+                  Macsall 
+               <interp inst="t17441205-11-person144" type="surname" value="Macsall"></interp>
+                     <interp inst="t17441205-11-person144" type="given" value="Jeremiah"></interp>
+                     <interp inst="t17441205-11-person144" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the Prisoner come out of the hold of a lighter, with his breeches full of tobacco, and one of his pockets - He is a porter on the Keys, and works sometimes for two-pence or three-pence, if he can get six-pence another way.</p>
+               <p>Q. Was it an empty lighter?</p>
+               <p>Mascall. The last hogshead was taken out of the lighter - It was not loose tobacco. They were very good hands. <rs id="t17441205-11-verdict82" type="verdictDescription">
+                     <interp inst="t17441205-11-verdict82" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-50">
+               <interp inst="t17350226-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-50" type="year" value="1735"></interp>
+               <interp inst="t17350226-50" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-50" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-50-off248-c264" targOrder="Y" targets="t17350226-50-defend393 t17350226-50-off248 t17350226-50-verdict249"></join>
+         
+               <p>42. 
+               
+                  <persName id="t17350226-50-defend393" type="defendantName">
+                     Sarah 
+                     Smith 
+                  <interp inst="t17350226-50-defend393" type="surname" value="Smith"></interp>
+                     <interp inst="t17350226-50-defend393" type="given" value="Sarah"></interp>
+                     <interp inst="t17350226-50-defend393" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350226-50-off248" type="offenceDescription">
+                     <interp inst="t17350226-50-off248" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17350226-50-off248" type="offenceSubcategory" value="coiningOffences"></interp>
+               uttering a counterfeit Shilling
+            </rs> to 
+               
+                  <persName id="t17350226-50-victim395" type="victimName">
+                     Mary 
+                     Cooms 
+                  <interp inst="t17350226-50-victim395" type="surname" value="Cooms"></interp>
+                     <interp inst="t17350226-50-victim395" type="given" value="Mary"></interp>
+                     <interp inst="t17350226-50-victim395" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350226-50-off248 t17350226-50-victim395"></join>
+                  </persName>
+                
+            . No Evidence. <rs id="t17350226-50-verdict249" type="verdictDescription">
+                     <interp inst="t17350226-50-verdict249" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17350226-50-verdict249" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

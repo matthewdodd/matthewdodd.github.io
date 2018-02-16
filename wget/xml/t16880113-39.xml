@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880113-39">
+               <interp inst="t16880113-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880113-39" type="year" value="1688"></interp>
+               <interp inst="t16880113-39" type="uri" value="sessionsPapers/16880113"></interp>
+               <interp inst="t16880113-39" type="date" value="16880113"></interp>
+               <join result="criminalCharge" id="t16880113-39-off198-c107" targOrder="Y" targets="t16880113-39-defend170 t16880113-39-off198 t16880113-39-verdict199"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880113-39-defend170" type="defendantName">
+                     William 
+                     Squire
+                  <interp inst="t16880113-39-defend170" type="surname" value="Squire"></interp>
+                     <interp inst="t16880113-39-defend170" type="given" value="William"></interp>
+                     <interp inst="t16880113-39-defend170" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t16880113-39-defloc196">St. Andrews Holbourn</placeName>
+                  <interp inst="t16880113-39-defloc196" type="placeName" value="St. Andrews Holbourn"></interp>
+                  <interp inst="t16880113-39-defloc196" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880113-39-defend170 t16880113-39-defloc196"></join>, was Indicted, for that he on the <rs id="t16880113-39-cd197" type="crimeDate">12th. of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880113-39-off198 t16880113-39-cd197"></join> last, <rs id="t16880113-39-off198" type="offenceDescription">
+                     <interp inst="t16880113-39-off198" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880113-39-off198" type="offenceSubcategory" value="other"></interp>
+               gave White Mercury to 
+                     
+                        <persName id="t16880113-39-victim172" type="victimName">
+                           Hannah 
+                           Holman
+                        <interp inst="t16880113-39-victim172" type="surname" value="Holman"></interp>
+                        <interp inst="t16880113-39-victim172" type="given" value="Hannah"></interp>
+                        <interp inst="t16880113-39-victim172" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880113-39-off198 t16880113-39-victim172"></join>
+                     </persName>
+                     
+                  , being great with Child, with a design to Poyson the said Child; and that the Child being Born Alive, continued Languishing for some time, and Died of the said Poyson
+            </rs>. But there being no Evidence against the Prisoner, but the said 
+               <persName id="t16880113-39-person173">
+                  Hannah 
+                  Holman
+               <interp inst="t16880113-39-person173" type="surname" value="Holman"></interp>
+                     <interp inst="t16880113-39-person173" type="given" value="Hannah"></interp>
+                     <interp inst="t16880113-39-person173" type="gender" value="female"></interp>
+                  </persName>
+            , who had the Child by him, and no Midwife or Chirurgeon appearing to give in Evidence, he was <rs id="t16880113-39-verdict199" type="verdictDescription">
+                     <interp inst="t16880113-39-verdict199" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

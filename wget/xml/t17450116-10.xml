@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17450116-10">
+               <interp inst="t17450116-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17450116-10" type="year" value="1745"></interp>
+               <interp inst="t17450116-10" type="uri" value="sessionsPapers/17450116"></interp>
+               <interp inst="t17450116-10" type="date" value="17450116"></interp>
+               <join result="criminalCharge" id="t17450116-10-off51-c91" targOrder="Y" targets="t17450116-10-defend113 t17450116-10-off51 t17450116-10-verdict53"></join>
+         
+               <p>135. 
+               
+                  <persName id="t17450116-10-defend113" type="defendantName">
+                     James 
+                     Bell 
+                  <interp inst="t17450116-10-defend113" type="surname" value="Bell"></interp>
+                     <interp inst="t17450116-10-defend113" type="given" value="James"></interp>
+                     <interp inst="t17450116-10-defend113" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17450116-10-off51" type="offenceDescription">
+                     <interp inst="t17450116-10-off51" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17450116-10-off51" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pound weight of sugar, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17450116-10-victim115" type="victimName">
+                     Julius 
+                     Beckford 
+                  <interp inst="t17450116-10-victim115" type="surname" value="Beckford"></interp>
+                     <interp inst="t17450116-10-victim115" type="given" value="Julius"></interp>
+                     <interp inst="t17450116-10-victim115" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17450116-10-off51 t17450116-10-victim115"></join>
+                  </persName>
+                
+            , <rs id="t17450116-10-cd52" type="crimeDate">January 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17450116-10-off51 t17450116-10-cd52"></join>.</p>
+               <p>
+            
+                  <persName id="t17450116-10-person116">
+                  Thomas 
+                  Miles 
+               <interp inst="t17450116-10-person116" type="surname" value="Miles"></interp>
+                     <interp inst="t17450116-10-person116" type="given" value="Thomas"></interp>
+                     <interp inst="t17450116-10-person116" type="gender" value="male"></interp>
+                  </persName>
+            . I have often seen the Prisoner a feasing upon the Keys, I saw him lurking about, and said, you had better get off, and let the sugars alone: he snapped his singers as if he did not value me. A little after I saw him take this sugar out of a hogshead belonging to Mr. Beckford. <rs id="t17450116-10-verdict53" type="verdictDescription">
+                     <interp inst="t17450116-10-verdict53" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17450116-10-punish54" type="punishmentDescription">
+                     <interp inst="t17450116-10-punish54" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17450116-10-defend113 t17450116-10-punish54"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380412-12">
+               <interp inst="t17380412-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380412-12" type="year" value="1738"></interp>
+               <interp inst="t17380412-12" type="uri" value="sessionsPapers/17380412"></interp>
+               <interp inst="t17380412-12" type="date" value="17380412"></interp>
+               <join result="criminalCharge" id="t17380412-12-off62-c82" targOrder="Y" targets="t17380412-12-defend108 t17380412-12-off62 t17380412-12-verdict64"></join>
+         
+               <p>17. 
+               
+                  <persName id="t17380412-12-defend108" type="defendantName">
+                     James 
+                     Humphries 
+                  <interp inst="t17380412-12-defend108" type="surname" value="Humphries"></interp>
+                     <interp inst="t17380412-12-defend108" type="given" value="James"></interp>
+                     <interp inst="t17380412-12-defend108" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17380412-12-defloc61">Christ-Church, London</placeName>
+                  <interp inst="t17380412-12-defloc61" type="placeName" value="Christ-Church, London"></interp>
+                  <interp inst="t17380412-12-defloc61" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17380412-12-defend108 t17380412-12-defloc61"></join>, was indicted for <rs id="t17380412-12-off62" type="offenceDescription">
+                     <interp inst="t17380412-12-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380412-12-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing twenty-six Linnen Handkerchiefs, value 17 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17380412-12-victim110" type="victimName">
+                     John 
+                     Smith 
+                  <interp inst="t17380412-12-victim110" type="surname" value="Smith"></interp>
+                     <interp inst="t17380412-12-victim110" type="given" value="John"></interp>
+                     <interp inst="t17380412-12-victim110" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380412-12-off62 t17380412-12-victim110"></join>
+                  </persName>
+                
+            , <rs id="t17380412-12-cd63" type="crimeDate">March 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380412-12-off62 t17380412-12-cd63"></join>.  <rs id="t17380412-12-verdict64" type="verdictDescription">
+                     <interp inst="t17380412-12-verdict64" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380412-12-verdict64" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17380412-12-punish65" type="punishmentDescription">
+                     <interp inst="t17380412-12-punish65" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17380412-12-punish65" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380412-12-defend108 t17380412-12-punish65"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

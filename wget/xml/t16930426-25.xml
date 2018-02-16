@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-25">
+               <interp inst="t16930426-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-25" type="year" value="1693"></interp>
+               <interp inst="t16930426-25" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-25" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-25-off106-c80" targOrder="Y" targets="t16930426-25-defend80 t16930426-25-off106 t16930426-25-verdict110"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-25-defend80" type="defendantName">
+                  John 
+                  Symons
+               <interp inst="t16930426-25-defend80" type="surname" value="Symons"></interp>
+                     <interp inst="t16930426-25-defend80" type="given" value="John"></interp>
+                     <interp inst="t16930426-25-defend80" type="gender" value="male"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16930426-25-off106" type="offenceDescription">
+                     <interp inst="t16930426-25-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-25-off106" type="offenceSubcategory" value="pocketpicking"></interp>
+               privily Stealing from one 
+                     <persName id="t16930426-25-victim81" type="victimName">
+                        <rs id="t16930426-25-viclabel107" type="occupation">Mrs.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16930426-25-victim81 t16930426-25-viclabel107"></join> 
+                        Hughes
+                     <interp inst="t16930426-25-victim81" type="surname" value="Hughes"></interp>
+                        <interp inst="t16930426-25-victim81" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-25-off106 t16930426-25-victim81"></join>
+                     </persName>
+                   of Cripplegate, a Shell-box, value 5s. a Thimble, value 16d. and 7s. in Money, &amp;c.
+            </rs> He met her in <placeName id="t16930426-25-crimeloc108">Grub-street</placeName>
+                  <interp inst="t16930426-25-crimeloc108" type="placeName" value="Grub-street"></interp>
+                  <interp inst="t16930426-25-crimeloc108" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930426-25-off106 t16930426-25-crimeloc108"></join> on the <rs id="t16930426-25-cd109" type="crimeDate">3d of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-25-off106 t16930426-25-cd109"></join>, and pickt her Pocket; she took him by the Collar, and stopt him till help came to her, &amp;c. He was Burnt in the Hand but the last Sessions, and he could make no defence, only he said he took the Money up in the Street, which was but an Excuse; so he was found <rs id="t16930426-25-verdict110" type="verdictDescription">
+                     <interp inst="t16930426-25-verdict110" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16930426-25-punish111" type="punishmentDescription">
+                     <interp inst="t16930426-25-punish111" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-25-defend80 t16930426-25-punish111"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

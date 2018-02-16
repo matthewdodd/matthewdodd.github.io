@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391205-60">
+               <interp inst="t17391205-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391205-60" type="year" value="1739"></interp>
+               <interp inst="t17391205-60" type="uri" value="sessionsPapers/17391205"></interp>
+               <interp inst="t17391205-60" type="date" value="17391205"></interp>
+               <join result="criminalCharge" id="t17391205-60-off283-c285" targOrder="Y" targets="t17391205-60-defend417 t17391205-60-off283 t17391205-60-verdict286"></join>
+               <join result="criminalCharge" id="t17391205-60-off283-c286" targOrder="Y" targets="t17391205-60-defend419 t17391205-60-off283 t17391205-60-verdict286"></join>
+         
+               <p>65, 66, 
+               
+                  <persName id="t17391205-60-defend417" type="defendantName">
+                     James 
+                     Brockwell 
+                  <interp inst="t17391205-60-defend417" type="surname" value="Brockwell"></interp>
+                     <interp inst="t17391205-60-defend417" type="given" value="James"></interp>
+                     <interp inst="t17391205-60-defend417" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17391205-60-defend419" type="defendantName">
+                     John 
+                     Tirrard 
+                  <interp inst="t17391205-60-defend419" type="surname" value="Tirrard"></interp>
+                     <interp inst="t17391205-60-defend419" type="given" value="John"></interp>
+                     <interp inst="t17391205-60-defend419" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17391205-60-off283" type="offenceDescription">
+                     <interp inst="t17391205-60-off283" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-60-off283" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 30 lbs. of <xptr type="pageFacsimile" doc="173912050037"></xptr> Lead* , val. 2 s. 6 d. fixed to the Freehold of 
+                     
+                        <persName id="t17391205-60-victim421" type="victimName">
+                           Francis John 
+                           Tyssen 
+                        <interp inst="t17391205-60-victim421" type="surname" value="Tyssen"></interp>
+                        <interp inst="t17391205-60-victim421" type="given" value="Francis John"></interp>
+                        <interp inst="t17391205-60-victim421" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17391205-60-off283 t17391205-60-victim421"></join>
+                     </persName>
+                     
+                  
+               
+                  </rs>, <rs id="t17391205-60-viclabel284" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17391205-60-victim421 t17391205-60-viclabel284"></join>; <rs id="t17391205-60-cd285" type="crimeDate">Nov. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-60-off283 t17391205-60-cd285"></join>. Both <rs id="t17391205-60-verdict286" type="verdictDescription">
+                     <interp inst="t17391205-60-verdict286" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> .</p>
+               <p>
+                  <rs id="t17391205-60-punish287" type="punishmentDescription">
+                     <interp inst="t17391205-60-punish287" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17391205-60-defend417 t17391205-60-punish287"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17391205-60-defend419 t17391205-60-punish287"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>* This Offence was made Felony by Stat. 4 Geo. 2, C. 32 . by the Common Law it was only a Trespass. See Number 55.</p>
+            </div1>

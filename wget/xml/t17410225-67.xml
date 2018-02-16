@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410225-67">
+               <interp inst="t17410225-67" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410225-67" type="year" value="1741"></interp>
+               <interp inst="t17410225-67" type="uri" value="sessionsPapers/17410225"></interp>
+               <interp inst="t17410225-67" type="date" value="17410225"></interp>
+               <join result="criminalCharge" id="t17410225-67-off289-c343" targOrder="Y" targets="t17410225-67-defend499 t17410225-67-off289 t17410225-67-verdict292"></join>
+         
+               <p>87. 
+               
+                  <persName id="t17410225-67-defend499" type="defendantName">
+                     John 
+                     Arrowsmith 
+                  <interp inst="t17410225-67-defend499" type="surname" value="Arrowsmith"></interp>
+                     <interp inst="t17410225-67-defend499" type="given" value="John"></interp>
+                     <interp inst="t17410225-67-defend499" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17410225-67-off289" type="offenceDescription">
+                     <interp inst="t17410225-67-off289" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410225-67-off289" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Black Mare, val. 5l.
+            </rs> the Property of 
+               
+                  <persName id="t17410225-67-victim501" type="victimName">
+                     Mary 
+                     Burr 
+                  <interp inst="t17410225-67-victim501" type="surname" value="Burr"></interp>
+                     <interp inst="t17410225-67-victim501" type="given" value="Mary"></interp>
+                     <interp inst="t17410225-67-victim501" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17410225-67-off289 t17410225-67-victim501"></join>
+                  </persName>
+                
+            , <rs id="t17410225-67-cd290" type="crimeDate">Feb. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410225-67-off289 t17410225-67-cd290"></join>.</p>
+               <p>
+            
+                  <persName id="t17410225-67-person502">
+                  John 
+                  Burr 
+               <interp inst="t17410225-67-person502" type="surname" value="Burr"></interp>
+                     <interp inst="t17410225-67-person502" type="given" value="John"></interp>
+                     <interp inst="t17410225-67-person502" type="gender" value="male"></interp>
+                  </persName>
+            . Last Monday was 7-night I turned the Mare into our Grounds at <placeName id="t17410225-67-crimeloc291">Hockley in Bedfordshire</placeName>
+                  <interp inst="t17410225-67-crimeloc291" type="placeName" value="Hockley in Bedfordshire"></interp>
+                  <interp inst="t17410225-67-crimeloc291" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17410225-67-off289 t17410225-67-crimeloc291"></join>, and the next Morning I miss'd her.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174102250021"></xptr>
+            
+                  <persName id="t17410225-67-person503">
+                  Thomas 
+                  Pierson 
+               <interp inst="t17410225-67-person503" type="surname" value="Pierson"></interp>
+                     <interp inst="t17410225-67-person503" type="given" value="Thomas"></interp>
+                     <interp inst="t17410225-67-person503" type="gender" value="male"></interp>
+                  </persName>
+            . I live with Mrs. Burr. On Monday Evening the Mare was miss'd, and we traced her to Bedford, but could hear nothing of her. On Wednesday Morning, I went all over Hertfordshire, and came to Smithfield, and found her in the Possession of one Smith. We ask'd the Price of her, and he told us the Owner was at the Harts borns-Inn; I went thither and found the Prisoner, and as soon as he saw me he ran away, but was taken again, by 
+               <persName id="t17410225-67-person504">
+                  Ambrose 
+                  Pain 
+               <interp inst="t17410225-67-person504" type="surname" value="Pain"></interp>
+                     <interp inst="t17410225-67-person504" type="given" value="Ambrose"></interp>
+                     <interp inst="t17410225-67-person504" type="gender" value="male"></interp>
+                  </persName>
+            , and he said he bought it of my Brother.</p>
+               <p>
+            
+                  <persName id="t17410225-67-person505">
+                  William 
+                  Pierson 
+               <interp inst="t17410225-67-person505" type="surname" value="Pierson"></interp>
+                     <interp inst="t17410225-67-person505" type="given" value="William"></interp>
+                     <interp inst="t17410225-67-person505" type="gender" value="male"></interp>
+                  </persName>
+            . I never sold the Mare to the Prisoner, neither had I ever any Dealing, with him at all.</p>
+               <p>Prisoner. He liv'd with my Brother when he sold me the Mare.</p>
+               <p>Peirson. I did live with his Brother when the Mare was lost, but I did not sell it to the Prisoner.</p>
+               <p>
+                  <rs id="t17410225-67-verdict292" type="verdictDescription">
+                     <interp inst="t17410225-67-verdict292" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted.
+            </rs>
+               </p>
+            </div1>

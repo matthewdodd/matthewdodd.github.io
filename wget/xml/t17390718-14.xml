@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390718-14">
+               <interp inst="t17390718-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390718-14" type="year" value="1739"></interp>
+               <interp inst="t17390718-14" type="uri" value="sessionsPapers/17390718"></interp>
+               <interp inst="t17390718-14" type="date" value="17390718"></interp>
+               <join result="criminalCharge" id="t17390718-14-off66-c102" targOrder="Y" targets="t17390718-14-defend128 t17390718-14-off66 t17390718-14-verdict69"></join>
+         
+               <p>401. 
+               
+                  <persName id="t17390718-14-defend128" type="defendantName">
+                     Catherine 
+                     Miller 
+                  <interp inst="t17390718-14-defend128" type="surname" value="Miller"></interp>
+                     <interp inst="t17390718-14-defend128" type="given" value="Catherine"></interp>
+                     <interp inst="t17390718-14-defend128" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17390718-14-defloc65">St. Andrew, Holborn</placeName>
+                  <interp inst="t17390718-14-defloc65" type="placeName" value="St. Andrew, Holborn"></interp>
+                  <interp inst="t17390718-14-defloc65" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17390718-14-defend128 t17390718-14-defloc65"></join>, was indicted for <rs id="t17390718-14-off66" type="offenceDescription">
+                     <interp inst="t17390718-14-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390718-14-off66" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Pair of Cotton Stockings, val. 2 s. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17390718-14-victim130" type="victimName">
+                     Richard 
+                     Coombes 
+                  <interp inst="t17390718-14-victim130" type="surname" value="Coombes"></interp>
+                     <interp inst="t17390718-14-victim130" type="given" value="Richard"></interp>
+                     <interp inst="t17390718-14-victim130" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17390718-14-off66 t17390718-14-victim130"></join>
+                  </persName>
+                
+            , <rs id="t17390718-14-cd67" type="crimeDate">July 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390718-14-off66 t17390718-14-cd67"></join>.</p>
+               <p>Mr. Coombes. The Prisoner, and another Woman, came into my Shop the 6th of July, (the <placeName id="t17390718-14-crimeloc68">Sign of the Lamb at Holborn-Bridge</placeName>
+                  <interp inst="t17390718-14-crimeloc68" type="placeName" value="Sign of the Lamb at Holborn-Bridge"></interp>
+                  <interp inst="t17390718-14-crimeloc68" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17390718-14-off66 t17390718-14-crimeloc68"></join>) and the other Woman ask'd for Children's Hose: My Wife shew'd her several Sorts, but she did not like any of them. The Prisoner wanted embroidered Thread Hose, which I shew'd her: I had some Suspicion of them, and keeping my Eye on them, I saw the Prisoner take one Pair out of the Parcel which lay before her. She bid me<xptr type="pageFacsimile" doc="173907180010"></xptr> Four Shillings for a Pair I had asked Six Shillings for, and then I told her I believed she did not want a Pair, for she had got a Pair already; and I immediately whipp'd over the Counter, and found a Pair upon + her. Then I had her into my Parlour, and there she dropp'd another Pair, which she had stole from the Black Lamb over-against St. Sepulchre's Church. She had tuck'd my Stockings under her Stays through some Holes in her Cloaths, with her right Hand. These are the Stockings, and I swear they are mine. Here's the Maker's Name on them.</p>
+               <p>+ As there must be a Taking to make a Larceny, so there must also be a carrying away: but it is sufficient if the Thing taken be removed though never so little, from the Place where it was.</p>
+               <p>Any Woman convicted of feloniously taking Money or Goods, above the Value of 12 d. and under 10 s. shall be branded in the Hand upon the Brawn of the Left Thumb with a Hot Iron, having a T upon it; the Mark to be made by the Gaoler openly in Court. 21 Jac. I. cap. 6.</p>
+               <p>
+            
+                  <persName id="t17390718-14-person131">
+                  Joseph 
+                  Monory 
+               <interp inst="t17390718-14-person131" type="surname" value="Monory"></interp>
+                     <interp inst="t17390718-14-person131" type="given" value="Joseph"></interp>
+                     <interp inst="t17390718-14-person131" type="gender" value="male"></interp>
+                  </persName>
+             saw a Pair of Mr. Coombes's Hose taken from under her Cloaths; he observ'd one End of them hang down among her Cloaths, before they were taken from her.</p>
+               <p>The Prisoner called several People, who never had heard of her having wronged any one before. <rs id="t17390718-14-verdict69" type="verdictDescription">
+                     <interp inst="t17390718-14-verdict69" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17390718-14-punish70" type="punishmentDescription">
+                     <interp inst="t17390718-14-punish70" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17390718-14-punish70" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390718-14-defend128 t17390718-14-punish70"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

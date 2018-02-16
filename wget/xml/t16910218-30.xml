@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-30">
+               <interp inst="t16910218-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-30" type="year" value="1691"></interp>
+               <interp inst="t16910218-30" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-30" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-30-off139-c100" targOrder="Y" targets="t16910218-30-defend100 t16910218-30-off139 t16910218-30-verdict141"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-30-defend100" type="defendantName">
+                  Mary 
+                  Smith
+               <interp inst="t16910218-30-defend100" type="surname" value="Smith"></interp>
+                     <interp inst="t16910218-30-defend100" type="given" value="Mary"></interp>
+                     <interp inst="t16910218-30-defend100" type="gender" value="female"></interp>
+                  </persName>
+             was Indicted for that she together with 
+               <persName id="t16910218-30-person101">
+                  Richard 
+                  Palmer
+               <interp inst="t16910218-30-person101" type="surname" value="Palmer"></interp>
+                     <interp inst="t16910218-30-person101" type="given" value="Richard"></interp>
+                     <interp inst="t16910218-30-person101" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16910218-30-person102">
+                  Jane 
+                  Granger
+               <interp inst="t16910218-30-person102" type="surname" value="Granger"></interp>
+                     <interp inst="t16910218-30-person102" type="given" value="Jane"></interp>
+                     <interp inst="t16910218-30-person102" type="gender" value="female"></interp>
+                  </persName>
+             not yet taken did <rs id="t16910218-30-off139" type="offenceDescription">
+                     <interp inst="t16910218-30-off139" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-30-off139" type="offenceSubcategory" value="pocketpicking"></interp>
+               Rob and privily take from one 
+                     <persName id="t16910218-30-victim103" type="victimName">
+                        Jane 
+                        Page
+                     <interp inst="t16910218-30-victim103" type="surname" value="Page"></interp>
+                        <interp inst="t16910218-30-victim103" type="given" value="Jane"></interp>
+                        <interp inst="t16910218-30-victim103" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910218-30-off139 t16910218-30-victim103"></join>
+                     </persName>
+                   in <placeName id="t16910218-30-crimeloc140">Leadenhall Market</placeName>
+                     <interp inst="t16910218-30-crimeloc140" type="placeName" value="Leadenhall Market"></interp>
+                     <interp inst="t16910218-30-crimeloc140" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910218-30-off139 t16910218-30-crimeloc140"></join> 11 l. 10 s. in Money
+            </rs>: the Evidence could not swear that the Prisoner took the Mony: but Justice Jame's Clark said, that the Prisoner declared before the Justice. That she did not commit the Fact but one Captain Eregrick a Boy, since fled; took the Money, and the Prisoner was to have a new Gown, out of the Money, &amp;c. The Prisoner denyed it, so she was in the end <rs id="t16910218-30-verdict141" type="verdictDescription">
+                     <interp inst="t16910218-30-verdict141" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

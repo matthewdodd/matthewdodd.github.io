@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400416-52">
+               <interp inst="t17400416-52" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400416-52" type="year" value="1740"></interp>
+               <interp inst="t17400416-52" type="uri" value="sessionsPapers/17400416"></interp>
+               <interp inst="t17400416-52" type="date" value="17400416"></interp>
+               <join result="criminalCharge" id="t17400416-52-off288-c314" targOrder="Y" targets="t17400416-52-defend419 t17400416-52-off288 t17400416-52-verdict290"></join>
+         
+               <p>246. 
+               
+                  <persName id="t17400416-52-defend419" type="defendantName">
+                     Dorothy 
+                     Morris 
+                  <interp inst="t17400416-52-defend419" type="surname" value="Morris"></interp>
+                     <interp inst="t17400416-52-defend419" type="given" value="Dorothy"></interp>
+                     <interp inst="t17400416-52-defend419" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17400416-52-off288" type="offenceDescription">
+                     <interp inst="t17400416-52-off288" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400416-52-off288" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a camblet Gown, a Pair of Stays, and several other things, with 2 s. and 2 1/2 d. in Money
+            </rs>, the Property of 
+               
+                  <persName id="t17400416-52-victim421" type="victimName">
+                     Henry 
+                     Woodland 
+                  <interp inst="t17400416-52-victim421" type="surname" value="Woodland"></interp>
+                     <interp inst="t17400416-52-victim421" type="given" value="Henry"></interp>
+                     <interp inst="t17400416-52-victim421" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400416-52-off288 t17400416-52-victim421"></join>
+                  </persName>
+                
+            , <rs id="t17400416-52-cd289" type="crimeDate">Dec. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400416-52-off288 t17400416-52-cd289"></join>. <rs id="t17400416-52-verdict290" type="verdictDescription">
+                     <interp inst="t17400416-52-verdict290" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

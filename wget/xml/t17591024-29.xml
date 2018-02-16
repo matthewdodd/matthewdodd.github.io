@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17591024-29">
+               <interp inst="t17591024-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17591024-29" type="year" value="1759"></interp>
+               <interp inst="t17591024-29" type="uri" value="sessionsPapers/17591024"></interp>
+               <interp inst="t17591024-29" type="date" value="17591024"></interp>
+               <join result="criminalCharge" id="t17591024-29-off152-c333" targOrder="Y" targets="t17591024-29-defend388 t17591024-29-off152 t17591024-29-verdict155"></join>
+         
+               <p>330. (M.) 
+               
+                  <persName id="t17591024-29-defend388" type="defendantName">
+                     Catherine 
+                     Connell 
+                  <interp inst="t17591024-29-defend388" type="surname" value="Connell"></interp>
+                     <interp inst="t17591024-29-defend388" type="given" value="Catherine"></interp>
+                     <interp inst="t17591024-29-defend388" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17591024-29-deflabel151" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17591024-29-defend388 t17591024-29-deflabel151"></join>, was indicted for <rs id="t17591024-29-off152" type="offenceDescription">
+                     <interp inst="t17591024-29-off152" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17591024-29-off152" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two silk handkerchiefs, value 6 s.
+            </rs> the property of 
+               
+                  <persName id="t17591024-29-victim390" type="victimName">
+                     Robert 
+                     Bird 
+                  <interp inst="t17591024-29-victim390" type="surname" value="Bird"></interp>
+                     <interp inst="t17591024-29-victim390" type="given" value="Robert"></interp>
+                     <interp inst="t17591024-29-victim390" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17591024-29-off152 t17591024-29-victim390"></join>
+                  </persName>
+                
+            , <rs id="t17591024-29-cd153" type="crimeDate">September 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17591024-29-off152 t17591024-29-cd153"></join>. +</p>
+               <p>
+            
+                  <persName id="t17591024-29-person391">
+                  Robert 
+                  Bird 
+               <interp inst="t17591024-29-person391" type="surname" value="Bird"></interp>
+                     <interp inst="t17591024-29-person391" type="given" value="Robert"></interp>
+                     <interp inst="t17591024-29-person391" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner lived <rs id="t17591024-29-deflabel154" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17591024-29-defend388 t17591024-29-deflabel154"></join> with me about six or seven days, and when she was gone we missed the handkerchiefs: she went away clandestinely.</p>
+               <p>Q. Where do you live?</p>
+               <p>Bird. I keep a publick house in Durham-Yard; we found one of the handkerchiefs pawned to a Pawnbroker at the corner of Half-Moon Court for 2 s. I took her up, and before Justice Cox she confessed she had stole them, and had pawn'd that, and sold the other to a soldier.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I am not guilty.</p>
+               <p>
+                  <rs id="t17591024-29-verdict155" type="verdictDescription">
+                     <interp inst="t17591024-29-verdict155" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17591024-29-punish156" type="punishmentDescription">
+                     <interp inst="t17591024-29-punish156" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17591024-29-defend388 t17591024-29-punish156"></join>
+               
+                     <note>[Transportation.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

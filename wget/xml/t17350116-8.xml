@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350116-8">
+               <interp inst="t17350116-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350116-8" type="year" value="1735"></interp>
+               <interp inst="t17350116-8" type="uri" value="sessionsPapers/17350116"></interp>
+               <interp inst="t17350116-8" type="date" value="17350116"></interp>
+               <join result="criminalCharge" id="t17350116-8-off29-c49" targOrder="Y" targets="t17350116-8-defend62 t17350116-8-off29 t17350116-8-verdict31"></join>
+         
+               <p>8. 
+               
+                  <persName id="t17350116-8-defend62" type="defendantName">
+                     John 
+                     Cook 
+                  <interp inst="t17350116-8-defend62" type="surname" value="Cook"></interp>
+                     <interp inst="t17350116-8-defend62" type="given" value="John"></interp>
+                     <interp inst="t17350116-8-defend62" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350116-8-off29" type="offenceDescription">
+                     <interp inst="t17350116-8-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350116-8-off29" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Saddle, value 15 s. the Goods of 
+                     
+                        <persName id="t17350116-8-victim64" type="victimName">
+                           Rowland 
+                           Davenant 
+                        <interp inst="t17350116-8-victim64" type="surname" value="Davenant"></interp>
+                        <interp inst="t17350116-8-victim64" type="given" value="Rowland"></interp>
+                        <interp inst="t17350116-8-victim64" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350116-8-off29 t17350116-8-victim64"></join>
+                     </persName>
+                      
+                  , in the Stable of 
+                     <persName id="t17350116-8-person65">
+                        Henry 
+                        Tyer 
+                     <interp inst="t17350116-8-person65" type="surname" value="Tyer"></interp>
+                        <interp inst="t17350116-8-person65" type="given" value="Henry"></interp>
+                        <interp inst="t17350116-8-person65" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17350116-8-cd30" type="crimeDate">Decemb. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350116-8-off29 t17350116-8-cd30"></join>. <rs id="t17350116-8-verdict31" type="verdictDescription">
+                     <interp inst="t17350116-8-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17350116-8-verdict31" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17350116-8-punish32" type="punishmentDescription">
+                     <interp inst="t17350116-8-punish32" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17350116-8-punish32" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350116-8-defend62 t17350116-8-punish32"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

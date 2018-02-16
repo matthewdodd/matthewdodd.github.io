@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-7">
+               <interp inst="t16900430-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-7" type="year" value="1690"></interp>
+               <interp inst="t16900430-7" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-7" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-7-off32-c41" targOrder="Y" targets="t16900430-7-defend49 t16900430-7-off32 t16900430-7-verdict36"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900430-7-defend49" type="defendantName">
+                     William 
+                     Babbington
+                  <interp inst="t16900430-7-defend49" type="surname" value="Babbington"></interp>
+                     <interp inst="t16900430-7-defend49" type="given" value="William"></interp>
+                     <interp inst="t16900430-7-defend49" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16900430-7-defloc30">St. Martins in the Fields</placeName>
+                  <interp inst="t16900430-7-defloc30" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16900430-7-defloc30" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16900430-7-defend49 t16900430-7-defloc30"></join>, the Elder <rs id="t16900430-7-deflabel31" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900430-7-defend49 t16900430-7-deflabel31"></join> was Tryed, for that he, together with 
+               <persName id="t16900430-7-person50">
+                  Uriah 
+                  Babbington
+               <interp inst="t16900430-7-person50" type="surname" value="Babbington"></interp>
+                     <interp inst="t16900430-7-person50" type="given" value="Uriah"></interp>
+                     <interp inst="t16900430-7-person50" type="gender" value="male"></interp>
+                  </persName>
+             his son, not yet taken, did <rs id="t16900430-7-off32" type="offenceDescription">
+                     <interp inst="t16900430-7-off32" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16900430-7-off32" type="offenceSubcategory" value="murder"></interp>
+               kill and Murther one 
+                     <persName id="t16900430-7-victim51" type="victimName">
+                        Francis 
+                        Cotter
+                     <interp inst="t16900430-7-victim51" type="surname" value="Cotter"></interp>
+                        <interp inst="t16900430-7-victim51" type="given" value="Francis"></interp>
+                        <interp inst="t16900430-7-victim51" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900430-7-off32 t16900430-7-victim51"></join>
+                     </persName>
+                   
+                     <rs id="t16900430-7-viclabel33" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900430-7-victim51 t16900430-7-viclabel33"></join> on the <rs id="t16900430-7-cd34" type="crimeDate">15th of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900430-7-off32 t16900430-7-cd34"></join>, giving him a Mortal Wound with a Raper value 5 s. of the depth of Ten Inches near to his Right Pap
+            </rs>. Upon the Evidence it was demonstrated that Mr. Babbington and his Son were a drinking at the <placeName id="t16900430-7-crimeloc35">King's-Head in Panton's-street</placeName>
+                  <interp inst="t16900430-7-crimeloc35" type="placeName" value="King's-Head in Panton's-street"></interp>
+                  <interp inst="t16900430-7-crimeloc35" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16900430-7-off32 t16900430-7-crimeloc35"></join>, where the deceased Cotter came into the Room about 11 or 12 o' Clock at Night, where sat Mr. Babbington and his Son, and the Woman of the House, and Cotter making a Complement upon her, by giving her a Kiss, the other were much offended at it, and Cotter and young Babbington went into the street, after which a farther Quarrel arose, and immediately Cotter was Killed and young Babbington got away. The Prisoner declared that he and his Son were there, and that Cotter was Killed in the Fray, but he did not know who killed him,<xptr type="pageFacsimile" doc="16900430002"></xptr>and did what he could to part them; only that which affected the Prisoner most of all, was his endeavouring to procure his Sons Escape, by disarming of Cotter, and interrupting his being secur'd so the Jury Well weighing the whole matter, and the Prisoner has no Sword drawn, at last he was <rs id="t16900430-7-verdict36" type="verdictDescription">
+                     <interp inst="t16900430-7-verdict36" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

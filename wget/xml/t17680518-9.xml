@@ -1,3 +1,118 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680518-9">
+               <interp inst="t17680518-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680518-9" type="year" value="1768"></interp>
+               <interp inst="t17680518-9" type="uri" value="sessionsPapers/17680518"></interp>
+               <interp inst="t17680518-9" type="date" value="17680518"></interp>
+               <join result="criminalCharge" id="t17680518-9-off40-c74" targOrder="Y" targets="t17680518-9-defend91 t17680518-9-off40 t17680518-9-verdict44"></join>
+               <join result="criminalCharge" id="t17680518-9-off41-c76" targOrder="Y" targets="t17680518-9-defend95 t17680518-9-off41 t17680518-9-verdict44"></join>
+               <join result="criminalCharge" id="t17680518-9-off41-c77" targOrder="Y" targets="t17680518-9-defend97 t17680518-9-off41 t17680518-9-verdict44"></join>
+         
+               <p>344, 345, 346. (M.) 
+               
+                  <persName id="t17680518-9-defend91" type="defendantName">
+                     Mary 
+                     Ingram 
+                  <interp inst="t17680518-9-defend91" type="surname" value="Ingram"></interp>
+                     <interp inst="t17680518-9-defend91" type="given" value="Mary"></interp>
+                     <interp inst="t17680518-9-defend91" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17680518-9-deflabel39" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680518-9-defend91 t17680518-9-deflabel39"></join>, was indicted for <rs id="t17680518-9-off40" type="offenceDescription">
+                     <interp inst="t17680518-9-off40" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680518-9-off40" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing a moidore, a pistole value 16 s. 6 d. a five guinea piece, a half guinea, and ten copper halfpence, the property of 
+                     
+                        <persName id="t17680518-9-victim93" type="victimName">
+                           Alexander 
+                           Lesley 
+                        <interp inst="t17680518-9-victim93" type="surname" value="Lesley"></interp>
+                        <interp inst="t17680518-9-victim93" type="given" value="Alexander"></interp>
+                        <interp inst="t17680518-9-victim93" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , privately from his person
+            </rs>; and 
+               
+                  <persName id="t17680518-9-defend95" type="defendantName">
+                     Sarah 
+                     Smith 
+                  <interp inst="t17680518-9-defend95" type="surname" value="Smith"></interp>
+                     <interp inst="t17680518-9-defend95" type="given" value="Sarah"></interp>
+                     <interp inst="t17680518-9-defend95" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680518-9-defend97" type="defendantName">
+                     Mary 
+                     Sampson 
+                  <interp inst="t17680518-9-defend97" type="surname" value="Sampson"></interp>
+                     <interp inst="t17680518-9-defend97" type="given" value="Mary"></interp>
+                     <interp inst="t17680518-9-defend97" type="gender" value="female"></interp>
+                  </persName>
+               
+             for <rs id="t17680518-9-off41" type="offenceDescription">
+                     <interp inst="t17680518-9-off41" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680518-9-off41" type="offenceSubcategory" value="receiving"></interp>
+               receiving part of the said money, well knowing the same to have been stolen
+            </rs>, <rs id="t17680518-9-cd42" type="crimeDate">May 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-9-off40 t17680518-9-cd42"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680518-9-off41 t17680518-9-cd42"></join>. +</p>
+               <p>
+            
+                  <persName id="t17680518-9-person98">
+                  Alexander 
+                  Lesley 
+               <interp inst="t17680518-9-person98" type="surname" value="Lesley"></interp>
+                     <interp inst="t17680518-9-person98" type="given" value="Alexander"></interp>
+                     <interp inst="t17680518-9-person98" type="gender" value="male"></interp>
+                  </persName>
+            . On the 4th of this inst. May I was in <placeName id="t17680518-9-crimeloc43">East-Smithfield</placeName>
+                  <interp inst="t17680518-9-crimeloc43" type="placeName" value="East-Smithfield"></interp>
+                  <interp inst="t17680518-9-crimeloc43" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-9-off40 t17680518-9-crimeloc43"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17680518-9-off41 t17680518-9-crimeloc43"></join>; I met 
+               <persName id="t17680518-9-person99">
+                  Mary 
+                  Ingram 
+               <interp inst="t17680518-9-person99" type="surname" value="Ingram"></interp>
+                     <interp inst="t17680518-9-person99" type="given" value="Mary"></interp>
+                     <interp inst="t17680518-9-person99" type="gender" value="female"></interp>
+                  </persName>
+             at ten o'clock at night; she told me I might go with her and have a very good bed, and stay all night; she took me to a house, and took a candle, and went up stairs with me; she said I must pay for my bed; then I asked her what money; she said a shilling; I had no silver, I gave her a 6 s. 9 d. to change; another girl came up, and went to get change; the prisoner Smith came in; 
+               <persName id="t17680518-9-person100">
+                  Mary 
+                  Ingram 
+               <interp inst="t17680518-9-person100" type="surname" value="Ingram"></interp>
+                     <interp inst="t17680518-9-person100" type="given" value="Mary"></interp>
+                     <interp inst="t17680518-9-person100" type="gender" value="female"></interp>
+                  </persName>
+             said she should lie with me, she soon went after the other down stairs; I took and searched my clothes, and found all my money was gone; I saw Smith take my money; I got up, and went for an officer, and when we came to the house they were all gone: I took them the next morning, Smith confessed the five guinea piece was changed; had I not been a great deal in liquor I had not been taken in with such people as these.</p>
+               <p>
+            
+                  <persName id="t17680518-9-person101">
+                  George 
+                  Power 
+               <interp inst="t17680518-9-person101" type="surname" value="Power"></interp>
+                     <interp inst="t17680518-9-person101" type="given" value="George"></interp>
+                     <interp inst="t17680518-9-person101" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor brought me a warrant against Smith; I took her, and had her before Justice Pell; she denied knowing any thing of the robbery; the Justice took her into a room by himself; after that he came out, and desired me to go to such a place, and deside a woman to come with a five guinea piece; I went as directed, and brought the woman, she brought the five guinea piece; she said before the Justice she took It for a 3 l. 12 s. piece.</p>
+               <p>Ingram's defence.</p>
+               <p>The prosecutor came first about seven o'clock, I was coming from Mrs. Hill's; he came again about ten, and tapped me on my shoulder, and so he did 
+               <persName id="t17680518-9-person102">
+                  Sarah 
+                  Smith 
+               <interp inst="t17680518-9-person102" type="surname" value="Smith"></interp>
+                     <interp inst="t17680518-9-person102" type="given" value="Sarah"></interp>
+                     <interp inst="t17680518-9-person102" type="gender" value="female"></interp>
+                  </persName>
+            ; he and she went up stairs, they called me up; he gave me a 6 s. 9 d. to get changed; when this girl was in bed with him, he called me up to lie at this back; when I got into bed he insisted upon lying with me, and gave me a black silk handkerchief, what was in it I did not know; in the morning I thought it was a pocket-piece, and when he came to put on his things he said I had robbed him.</p>
+               <p>Lesley. The girl in the carroty hair, Smith by name, picked my pocket of my money, I saw her take it.</p>
+               <p>All three <rs id="t17680518-9-verdict44" type="verdictDescription">
+                     <interp inst="t17680518-9-verdict44" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381011-27">
+               <interp inst="t17381011-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381011-27" type="year" value="1738"></interp>
+               <interp inst="t17381011-27" type="uri" value="sessionsPapers/17381011"></interp>
+               <interp inst="t17381011-27" type="date" value="17381011"></interp>
+               <join result="criminalCharge" id="t17381011-27-off120-c183" targOrder="Y" targets="t17381011-27-defend245 t17381011-27-off120 t17381011-27-verdict122"></join>
+         
+               <p>32. 
+               <persName id="t17381011-27-defend245" type="defendantName">
+                  Archer, alias 
+                        <rs id="t17381011-27-alias-7" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17381011-27-defend245 t17381011-27-alias-7"></join>Arthur</rs> Batchelor
+                  
+               <interp inst="t17381011-27-defend245" type="surname" value="Batchelor"></interp>
+                     <interp inst="t17381011-27-defend245" type="given" value="Archer"></interp>
+                     <interp inst="t17381011-27-defend245" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17381011-27-off120" type="offenceDescription">
+                     <interp inst="t17381011-27-off120" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381011-27-off120" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 6 large silver Spoons, value 4 l. 10 s. a silver Tea Spoon, val 1 s. a Gold Ring set with 6 Diamonds, and a Cornelian Stone, val. 40 s. a silver Medal, val. 5 s. and a Gold Earring, val. 5 s. the Goods of 
+                     
+                        <persName id="t17381011-27-victim248" type="victimName">
+                           Sarah 
+                           Bridgeman 
+                        <interp inst="t17381011-27-victim248" type="surname" value="Bridgeman"></interp>
+                        <interp inst="t17381011-27-victim248" type="given" value="Sarah"></interp>
+                        <interp inst="t17381011-27-victim248" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17381011-27-off120 t17381011-27-victim248"></join>
+                     </persName>
+                      
+                  , in the Dwelling-house of 
+                     <persName id="t17381011-27-person249">
+                        Richard 
+                        Glover 
+                     <interp inst="t17381011-27-person249" type="surname" value="Glover"></interp>
+                        <interp inst="t17381011-27-person249" type="given" value="Richard"></interp>
+                        <interp inst="t17381011-27-person249" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17381011-27-cd121" type="crimeDate">Sept. 18, 1736</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-27-off120 t17381011-27-cd121"></join>. <rs id="t17381011-27-verdict122" type="verdictDescription">
+                     <interp inst="t17381011-27-verdict122" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

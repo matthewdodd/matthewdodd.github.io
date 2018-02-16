@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910909-36">
+               <interp inst="t16910909-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910909-36" type="year" value="1691"></interp>
+               <interp inst="t16910909-36" type="uri" value="sessionsPapers/16910909"></interp>
+               <interp inst="t16910909-36" type="date" value="16910909"></interp>
+               <join result="criminalCharge" id="t16910909-36-off159-c110" targOrder="Y" targets="t16910909-36-defend110 t16910909-36-off159 t16910909-36-verdict161"></join>
+               <join result="criminalCharge" id="t16910909-36-off162-c110" targOrder="Y" targets="t16910909-36-defend110 t16910909-36-off162 t16910909-36-verdict161"></join>
+         
+               <p>
+            
+                  <persName id="t16910909-36-defend110" type="defendantName">
+                  Edward 
+                  Biggs
+               <interp inst="t16910909-36-defend110" type="surname" value="Biggs"></interp>
+                     <interp inst="t16910909-36-defend110" type="given" value="Edward"></interp>
+                     <interp inst="t16910909-36-defend110" type="gender" value="male"></interp>
+                  </persName>
+            , was Tryed for that he, together with 
+               <persName id="t16910909-36-person111">
+                  James 
+                  Whitney
+               <interp inst="t16910909-36-person111" type="surname" value="Whitney"></interp>
+                     <interp inst="t16910909-36-person111" type="given" value="James"></interp>
+                     <interp inst="t16910909-36-person111" type="gender" value="male"></interp>
+                  </persName>
+             not taken, did <rs id="t16910909-36-off159" type="offenceDescription">
+                     <interp inst="t16910909-36-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-36-off159" type="offenceSubcategory" value="animalTheft"></interp>
+               steal a Gelding coloured Bay, price 8l.
+            </rs> from 
+               <persName id="t16910909-36-victim112" type="victimName">
+                  George 
+                  Barnsley
+               <interp inst="t16910909-36-victim112" type="surname" value="Barnsley"></interp>
+                     <interp inst="t16910909-36-victim112" type="given" value="George"></interp>
+                     <interp inst="t16910909-36-victim112" type="gender" value="male"></interp>
+                  </persName>
+            . He confest that he stole the Horse before Mr. Justice James, and that Earsel and Old Mobb (before Tryed) was with him and one Reynolds who swore against him (viz.) that they stole the gelding out of the Grounds on the back-side of <placeName id="t16910909-36-crimeloc160">Newington Greene</placeName>
+                  <interp inst="t16910909-36-crimeloc160" type="placeName" value="Newington Greene"></interp>
+                  <interp inst="t16910909-36-crimeloc160" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910909-36-off159 t16910909-36-crimeloc160"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t16910909-36-off162 t16910909-36-crimeloc160"></join>, he was found <rs id="t16910909-36-verdict161" type="verdictDescription">
+                     <interp inst="t16910909-36-verdict161" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>He was a second time Tryed for <rs id="t16910909-36-off162" type="offenceDescription">
+                     <interp inst="t16910909-36-off162" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-36-off162" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Mare coloured Bay, price 4l. the Goods of 
+                     <persName id="t16910909-36-victim113" type="victimName">
+                        Thomas 
+                        Arnold
+                     <interp inst="t16910909-36-victim113" type="surname" value="Arnold"></interp>
+                        <interp inst="t16910909-36-victim113" type="given" value="Thomas"></interp>
+                        <interp inst="t16910909-36-victim113" type="gender" value="male"></interp>
+                     </persName>
+                  , out of his Grounds near <placeName id="t16910909-36-crimeloc163">Newington Green</placeName>
+                     <interp inst="t16910909-36-crimeloc163" type="placeName" value="Newington Green"></interp>
+                     <interp inst="t16910909-36-crimeloc163" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-36-off159 t16910909-36-crimeloc163"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-36-off162 t16910909-36-crimeloc163"></join>
+               
+                  </rs>, on the <rs id="t16910909-36-cd164" type="crimeDate">24th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-36-off159 t16910909-36-cd164"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-36-off162 t16910909-36-cd164"></join> last, which he confest before the same Justice abovesaid; so he was found <rs id="t16910909-36-verdict165" type="verdictDescription">
+                     <interp inst="t16910909-36-verdict165" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16910909-36-punish166" type="punishmentDescription">
+                     <interp inst="t16910909-36-punish166" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910909-36-defend110 t16910909-36-punish166"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

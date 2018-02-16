@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340630-32">
+               <interp inst="t17340630-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340630-32" type="year" value="1734"></interp>
+               <interp inst="t17340630-32" type="uri" value="sessionsPapers/17340630"></interp>
+               <interp inst="t17340630-32" type="date" value="17340630"></interp>
+               <join result="criminalCharge" id="t17340630-32-off152-c219" targOrder="Y" targets="t17340630-32-defend293 t17340630-32-off152 t17340630-32-verdict154"></join>
+         
+               <p>41. 
+               
+                  <persName id="t17340630-32-defend293" type="defendantName">
+                     Hannah 
+                     Bull 
+                  <interp inst="t17340630-32-defend293" type="surname" value="Bull"></interp>
+                     <interp inst="t17340630-32-defend293" type="given" value="Hannah"></interp>
+                     <interp inst="t17340630-32-defend293" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340630-32-off152" type="offenceDescription">
+                     <interp inst="t17340630-32-off152" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340630-32-off152" type="offenceSubcategory" value="other"></interp>
+               stealing a Gown, 2 Shirts, a Mob, an Apron, and a Snuff-box
+            </rs>, the Goods of 
+               
+                  <persName id="t17340630-32-victim295" type="victimName">
+                     Elizabeth 
+                     Edwards 
+                  <interp inst="t17340630-32-victim295" type="surname" value="Edwards"></interp>
+                     <interp inst="t17340630-32-victim295" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17340630-32-victim295" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340630-32-off152 t17340630-32-victim295"></join>
+                  </persName>
+                
+            , <rs id="t17340630-32-cd153" type="crimeDate">May 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340630-32-off152 t17340630-32-cd153"></join>. No Evidence. <rs id="t17340630-32-verdict154" type="verdictDescription">
+                     <interp inst="t17340630-32-verdict154" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17340630-32-verdict154" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

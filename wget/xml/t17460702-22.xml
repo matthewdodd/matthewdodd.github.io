@@ -1,3 +1,761 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460702-22">
+               <interp inst="t17460702-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460702-22" type="year" value="1746"></interp>
+               <interp inst="t17460702-22" type="uri" value="sessionsPapers/17460702"></interp>
+               <interp inst="t17460702-22" type="date" value="17460702"></interp>
+               <join result="criminalCharge" id="t17460702-22-off80-c305" targOrder="Y" targets="t17460702-22-defend349 t17460702-22-off80 t17460702-22-verdict84"></join>
+               <join result="criminalCharge" id="t17460702-22-off80-c306" targOrder="Y" targets="t17460702-22-defend351 t17460702-22-off80 t17460702-22-verdict84"></join>
+               <join result="criminalCharge" id="t17460702-22-off86-c305" targOrder="Y" targets="t17460702-22-defend349 t17460702-22-off86 t17460702-22-verdict84"></join>
+               <join result="criminalCharge" id="t17460702-22-off86-c306" targOrder="Y" targets="t17460702-22-defend351 t17460702-22-off86 t17460702-22-verdict84"></join>
+         
+               <p>266, 267. 
+               
+                  <persName id="t17460702-22-defend349" type="defendantName">
+                     John 
+                     Short 
+                  <interp inst="t17460702-22-defend349" type="surname" value="Short"></interp>
+                     <interp inst="t17460702-22-defend349" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-defend349" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17460702-22-defend351" type="defendantName">
+                     George 
+                     Thomas 
+                  <interp inst="t17460702-22-defend351" type="surname" value="Thomas"></interp>
+                     <interp inst="t17460702-22-defend351" type="given" value="George"></interp>
+                     <interp inst="t17460702-22-defend351" type="gender" value="male"></interp>
+                  </persName>
+                
+             were indicted <rs id="t17460702-22-off80" type="offenceDescription">
+                     <interp inst="t17460702-22-off80" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17460702-22-off80" type="offenceSubcategory" value="highwayRobbery"></interp>
+               for that they on the <rs id="t17460702-22-cd81" type="crimeDate">26th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17460702-22-off80 t17460702-22-cd81"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17460702-22-off86 t17460702-22-cd81"></join>, in a certain Field and open Place near the King's Highway, did make Assault upon 
+                     
+                        <persName id="t17460702-22-victim353" type="victimName">
+                           John 
+                           Biles 
+                        <interp inst="t17460702-22-victim353" type="surname" value="Biles"></interp>
+                        <interp inst="t17460702-22-victim353" type="given" value="John"></interp>
+                        <interp inst="t17460702-22-victim353" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , putting him in fear and danger of his Life, and did feloniously steal one Silver Lac'd Hat, one Pair of Silver Knee-Buckles, a Pair of Leather Breeches, a Pair of white Cotton Stockings, two Linnen Handkerchiefs, four Cambrick Stocks, and a Silver Clasp
+            </rs>, the Property of the said 
+               <persName id="t17460702-22-person354">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person354" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person354" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person354" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17460702-22-person355">
+                  Q. 
+               <interp inst="t17460702-22-person355" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person355" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person356">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person356" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person356" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person356" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say against the Prisoners?</p>
+               <p>Biles. Three Men met me between Nine and Ten o'Clock at Night, the 26th of April last.</p>
+               <p>Q. Whereabouts?</p>
+               <p>Biles. In a Field between <placeName id="t17460702-22-crimeloc82">Mother Red-Caps</placeName>
+                  <interp inst="t17460702-22-crimeloc82" type="placeName" value="Mother Red-Caps"></interp>
+                  <interp inst="t17460702-22-crimeloc82" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off80 t17460702-22-crimeloc82"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off86 t17460702-22-crimeloc82"></join> and <placeName id="t17460702-22-crimeloc83">Tottenham-Court</placeName>
+                  <interp inst="t17460702-22-crimeloc83" type="placeName" value="Tottenham-Court"></interp>
+                  <interp inst="t17460702-22-crimeloc83" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off80 t17460702-22-crimeloc83"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off86 t17460702-22-crimeloc83"></join>.</p>
+               <p>Q. What past between these three Persons and you?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174607020023"></xptr>Biles. They demanded my Money, and I told them I had none; they clapt three Pistols to my Head, and said, if I spoke another Word they would blow my Brains out.</p>
+               <p>Q. What did they do?</p>
+               <p>Biles. Then they took my Silver Buckles out of my Shoes.</p>
+               <p>Q. Did they throw you down?</p>
+               <p>Biles. They never struck me, I stood all the Time; they took out one of my Knee-Buckles, and the other they made me take out myself.</p>
+               <p>Q. What were these Buckles made of?</p>
+               <p>Biles. Silver.</p>
+               <p>Q. Did they take any thing else?</p>
+               <p>Biles. Yes, a Silver Lac'd Hat, and a Pair of Leather Breeches.</p>
+               <p>Q. Was these Breeches on?</p>
+               <p>Biles. They were on my Body, and they made me take them off and give to them.</p>
+               <p>Q. What else?</p>
+               <p>Biles. Four Cambrick Stocks, a Silver Clasp, a Pair of white Cotton Stocking, two Linnen Handkerchiefs.</p>
+               <p>Q. When they had taken all these Things from you, what did they do?</p>
+               <p>Biles. They bid me go about my Business.</p>
+               <p>Court. Is that all? You say there were three Persons that did this Injury to you; do you know any Thing of them?</p>
+               <p>Biles. No, I can't say I know them, it was a dark Night.</p>
+               <p>Court. So, this is all you can say in relation to this Fact?</p>
+               <p>Biles. Yes, this is all; who committed it I cannot tell.</p>
+               <p>Q. Have you had any of your Things?</p>
+               <p>Biles. No, none of the Things.</p>
+               <p>Q. When these People robb'd you, what Way did they go?</p>
+               <p>Biles. I went home to my Master's towards London; I left them in the Place, I did not look back .</p>
+               <p>Q. Could you judge of the Stature of these People ?</p>
+               <p>Biles. It was such a dark and foggy Night, that I can't say any thing of the Persons.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person357">
+                  Q. 
+               <interp inst="t17460702-22-person357" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person357" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoners.) Would you ask any Questions of this 
+               <persName id="t17460702-22-person358">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person358" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person358" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person358" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Prisoner. My Lord, I would desire to know what Time it was.</p>
+               <p>Court. He says between Nine and Ten o'Clock.</p>
+               <p>Prisoner. At that present Time I was in the Tower, my Lord.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person359">
+                  Q. 
+               <interp inst="t17460702-22-person359" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person359" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Biles) Can you remember what Clothes they had on ?</p>
+               <p>Biles. I can't remember the Clothes, my Lord.</p>
+               <p>Q. Was it so dark that you could not discern.</p>
+               <p>Biles. I think they were darkish Clothes, not red, my Lord, to the best of my thinking.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person360">
+                  Q. 
+               <interp inst="t17460702-22-person360" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person360" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person361">
+                  Thomas 
+                  West 
+               <interp inst="t17460702-22-person361" type="surname" value="West"></interp>
+                     <interp inst="t17460702-22-person361" type="given" value="Thomas"></interp>
+                     <interp inst="t17460702-22-person361" type="gender" value="male"></interp>
+                  </persName>
+            .) Do you know any thing where with the Prisoners are now charg'd, of the Robbery of 
+               <persName id="t17460702-22-person362">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person362" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person362" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person362" type="gender" value="male"></interp>
+                  </persName>
+            ? Do you know any Circumstance you ought to disclose to the Court on this Occasion?</p>
+               <p>West. I know nothing, but only that 
+               <persName id="t17460702-22-person363">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person363" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person363" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person363" type="gender" value="male"></interp>
+                  </persName>
+             cam e to deliver himself up to me to be an Evidence against these People.</p>
+               <p>Q. What are you?</p>
+               <p>West. I am High Constable of the Parish of St. Martin in the Fields.</p>
+               <p>Court. He came to deliver himself to you; on what Day or Hour was it?</p>
+               <p>West. It was on a Monday, I believe the 25th of May .</p>
+               <p>Q. Had you any Warrant at that Time?</p>
+               <p>West. My Lord, he had been down to Justice Fraser's first.</p>
+               <p>Q. Did he give an Account of these Persons to you?</p>
+               <p>West. He did particularly before the Justice.</p>
+               <p>Q. Did not the Justice reduce that to Writing?</p>
+               <p>West . Yes, my Lord .</p>
+               <p>Court. Then you know nothing in relation to these Prisoners but what Bray told you?</p>
+               <p>West. Nothing at all, my Lord; last Bray inform'd us of two or three Pistols in a Lane that goes up to Primrose-Hill , that were put under a Hedge, loaded.</p>
+               <p>[They were produced in Court, there were three in all, but Saunders, an Attorney in the Fleet, has got one of them.]</p>
+               <p>Q. What are these Pistols?</p>
+               <p>West . They are Soldiers Muskets; they have filed the Name out.</p>
+               <p>Court. You can't tell whose Company they belong to, or what Regiment?</p>
+               <p>West . No.</p>
+               <p>Q. Did you find them above Ground?</p>
+               <p>West. They were in a Haversack in a Handkerchief under the Hedge, in a Bush, a Piece of green Grass over them: That Gentleman, Mr. Terry, discharg'd one of them in the Field.</p>
+               <p>Court. Then this is all that you know?</p>
+               <p>Court (to Biles ) Look at them, were those the Kind of Instruments that were offer'd at your Head?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174607020024"></xptr>Biles. There were three of them; but I can't say these were them ; they seem to be like them; I thought them uncommon Pistols.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person364">
+                  Q. 
+               <interp inst="t17460702-22-person364" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person364" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person365">
+                  Joseph 
+                  Terry 
+               <interp inst="t17460702-22-person365" type="surname" value="Terry"></interp>
+                     <interp inst="t17460702-22-person365" type="given" value="Joseph"></interp>
+                     <interp inst="t17460702-22-person365" type="gender" value="male"></interp>
+                  </persName>
+            .) What do you know in Relation to this Matter?</p>
+               <p>Terry. I don't know any other, but that this Bray made his Confession before Mr. Nightingale and Stanley.</p>
+               <p>Court. He made his Confession before the Justice of the Peace, Mr. Fraser, who took it down in Writing.</p>
+               <p>Terry. Yes, he did all in Writing.</p>
+               <p>Q. Did he come voluntarily to give that Account, or was he taken up by a Warrant?</p>
+               <p>Terry. No, he came voluntarily.</p>
+               <p>Q. Was you present at finding these Pistols, or shorten'd Guns, or whatsoever they are call'd?</p>
+               <p>Terry. Yes, my Lord; I let one of them off in the Field.</p>
+               <p>Q. How came you to go into this Field?</p>
+               <p>Terry. My Lord, 
+               <persName id="t17460702-22-person366">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person366" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person366" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person366" type="gender" value="male"></interp>
+                  </persName>
+             told us where to go to look after these Pieces; we took with us one Mr. Bird on Tuesday Morning to look for these Pieces.</p>
+               <p>Court. You say you went to look after them by the Direction of 
+               <persName id="t17460702-22-person367">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person367" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person367" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person367" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Terry. Yes, my Lord.</p>
+               <p>Q. Did he, before you went, describe to you the Instruments you should find there?</p>
+               <p>Terry. My Lord, we could not find them: I said, this Bray, I believe, has told us a Story; let us go to Bridewell and fetch him: We went and got him, and the Governor with him, and he shew'd us the Place where they were hid.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person368">
+                  Q. 
+               <interp inst="t17460702-22-person368" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person368" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person369">
+                  John 
+                  Nightingale 
+               <interp inst="t17460702-22-person369" type="surname" value="Nightingale"></interp>
+                     <interp inst="t17460702-22-person369" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person369" type="gender" value="male"></interp>
+                  </persName>
+            .) What do you know of this Matter?</p>
+               <p>Nightingale. My Lord, I was present when Bray surrender'd himself as an Evidence for the King.</p>
+               <p>Q. When did he surrender himself?</p>
+               <p>Nightingale. On Monday the 24th or 25th of May, between Eleven and Twelve.</p>
+               <p>Q. Was you present at the Time of the Search?</p>
+               <p>Nightingale. Yes, my Lord, I took them all up out of the Ditch.</p>
+               <p>Q. Did Bray shew you the Place?</p>
+               <p>Nightingale. Yes, my Lord.</p>
+               <p>Q. Had he first directed any body where to go in Search for them?</p>
+               <p>Nightingale. Yes, my Lord, Mr. West and I.</p>
+               <p>Q. And was it not in the same Field he directed you?</p>
+               <p>Nightingale. Yes, my Lord.</p>
+
+               <p>Court. Then it was in the same Field that he directed you to, tho' you could not find them?</p>
+               <p>Nightingale. Yes, my Lord; please you, my Lord, he told me of the Haversack and Handkerchief, and every Thing; he told us they were Pieces made out of Muskets, before ever we saw them .</p>
+               <p>
+            
+                  <persName id="t17460702-22-person370">
+                  Q. 
+               <interp inst="t17460702-22-person370" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person370" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoners.) Would either of you ask these Witnesses any thing; they have depos'd nothing of you personally, but only of these Pistols?</p>
+               <p>Prisoners. No, my Lord.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person371">
+                  Q. 
+               <interp inst="t17460702-22-person371" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person371" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person372">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person372" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person372" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person372" type="gender" value="male"></interp>
+                  </persName>
+            .) Do you know any thing with Relation to this Robbery, of 
+               <persName id="t17460702-22-person373">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person373" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person373" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person373" type="gender" value="male"></interp>
+                  </persName>
+            , in the Parish of Pancras, between Tottenham-Court and Mother Red-Cap's?</p>
+               <p>Bray. Yes, please you, my Lord.</p>
+               <p>Q. When was it?</p>
+               <p>Bray. I can't be particular as to the Day of the Month.</p>
+               <p>Q. What Time of the Day or the Night was it?</p>
+               <p>Bray. It might be near Ten o'Clock; it was between Mother Red-Cap's and Tottenham-Court.</p>
+               <p>Q. Was it in the Road or in the Field?</p>
+               <p>Bray. It was in the Foot-Path in the Field.</p>
+               <p>Q. What was done to him?</p>
+               <p>Bray. Please you, my Lord, we took off of him a Silver Lac'd Hat, and a Pair of Leather Breeches.</p>
+               <p>Q. Did you take them off?</p>
+               <p>Bray. To the best of my Knowledge 
+               <persName id="t17460702-22-person374">
+                  John 
+                  Short 
+               <interp inst="t17460702-22-person374" type="surname" value="Short"></interp>
+                     <interp inst="t17460702-22-person374" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person374" type="gender" value="male"></interp>
+                  </persName>
+             might take them off; I can't be particular.</p>
+               <p>Q. What else?</p>
+               <p>Bray. A Pair of Silver Shoe-Buckles.</p>
+               <p>Q. Did he take them off himself, or did you take the Shoe-Buckles?</p>
+               <p>Bray. To the best of my Knowledge I stood with a Pistol presented to him, that Short and Thomas might take them.</p>
+               <p>Court. Short and Thomas; do you mean the Prisoners at the Bar?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Court. So they took the Shoe-Buckles out of the Shoes; did they?</p>
+               <p>Bray. To the best of my Knowledge they did.</p>
+               <p>Q. In what Manner did you accost him first?</p>
+               <p>Bray. We three met with him between Mother Red-Cap's and Tottenham-Court, and demanded his Money; he told us he had none; we said, d - n him, we would see: We took from him his Silver Lac'd Hat and a Pair of Silver Shoe-Buckles.</p>
+               <p>Court. You have told of these Things. Do you remember how the Buckles were taken?</p>
+               <p>Bray. One he might give out himself, and the other was taken by one of them.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174607020025"></xptr>Q. Did you take any Thing else?</p>
+               <p>Bray. Please you my Lord we took two Pocket Handkerchiefs and a Pair of white Ribb'd Stockings .</p>
+               <p>Q. What else?</p>
+               <p>Bray. There might be, to the best of my Knowledge , three or four Neck Stocks, and there was a Letter in his Pocket.</p>
+               <p>Q. Did you take that Letter?</p>
+               <p>Bray. Yes, please you my Lord.</p>
+               <p>Q. Is that Letter any where?</p>
+               <p>Bray. The Letter was burnt. Please you my Lord, we also took a Cork-screw from him.</p>
+               <p>Q. But what did you do with him after you had taken these Things from him?</p>
+               <p>Bray. We desir'd him to go about his Business.</p>
+               <p>Q. When he was gone how did you dispose of yourselves?</p>
+               <p>Bray. We stood a little while to see whether or not he might watch us or follow us. Afterwards we went towards Mother Red-Cap's.</p>
+               <p>Q. Did you go with your Pistols all three</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. What did you do then?</p>
+               <p>Bray. We come home to London.</p>
+               <p>Q. Did you bring your Pistols with you?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. Were they the Pistols produced in Court?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Court. These shorten'd Guns are the Instruments you had at the Time you met 
+               <persName id="t17460702-22-person375">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person375" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person375" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person375" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. Did you at any Time afterwards go with them and hide these Pistols?</p>
+               <p>Bray. Not with either of them.</p>
+               <p>Q. Who hid these Pistols in the Field?</p>
+               <p>Bray. 
+               <persName id="t17460702-22-person376">
+                  John 
+                  Jennings 
+               <interp inst="t17460702-22-person376" type="surname" value="Jennings"></interp>
+                     <interp inst="t17460702-22-person376" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person376" type="gender" value="male"></interp>
+                  </persName>
+             hid the Pistols in the Field.</p>
+               <p>Court. So then this is all you know in relation to these Prisoners at the Bar as to the Fact of 
+               <persName id="t17460702-22-person377">
+                  John 
+                  Biles 
+               <interp inst="t17460702-22-person377" type="surname" value="Biles"></interp>
+                     <interp inst="t17460702-22-person377" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person377" type="gender" value="male"></interp>
+                  </persName>
+            . What did you do with these Things after you had taken them from him?</p>
+               <p>Bray. Please you my Lord the Silver Laced Hat and the Breeches were sold to one Mr. - in the Old-Baily.</p>
+               <p>Q. Who sold them?</p>
+               <p>Bray. Please you my Lord, these two Men and me; in at the Sign of the George in the Old-Baily: Mr. - look'd on the Hat and Breeches there.</p>
+               <p>Q. How did you dispose of the Kneebuckles ?</p>
+               <p>Bray. To the best of my Knowledge they were sold at a Silversmith's .</p>
+               <p>Q. Do you know where that Silversmith lives's</p>
+               <p>Bray. I think in King-Street, Westminster.</p>
+               <p>Court. All the Silver Buckles were sold to that Silversmith, were they?</p>
+               <p>Bray. No, my Lord; some to one Silversmith and some to another.</p>
+               <p>Q. What was sold there?</p>
+               <p>Bray. The Shoebuckles and Kneebuckles .</p>
+               <p>Q. Who carried these Things to the Silversmith in King-Street? Was you present ?</p>
+               <p>Bray . I was within 20 or 30 Yards.</p>
+               <p>Q. Who then carried them?</p>
+               <p>Bray. To the best of my Knowledge, George, the Prisoner.</p>
+               <p>Q. Were you all three together?</p>
+               <p>Bray . We were not all together in the Shop.</p>
+               <p>Q. But did you all go with a Design to dispose of these Things?</p>
+               <p>Bray. Yes, my Lord; we were together in King-Street.</p>
+               <p>Q. What did you do with the Linnen? The Stocks and the Handkerchiefs .</p>
+               <p>Bray. My Lord I can't be so particular about them .</p>
+               <p>Q. When you sold these Things what Money had you for them?</p>
+               <p>Bray. To the best of my Knowledge we had about 12 s. for the Shoebuckles and Kneebucles.</p>
+               <p>Q. And what might you have from - ?</p>
+               <p>Bray. Nine or Ten Shillings, to the best of my Knowledge, my Lord.</p>
+               <p>Q. How was that distributed?</p>
+               <p>Bray. Equally, betwixt us three, please you my Lord.</p>
+               <p>Q. Can you tell what you receiv'd for your Share ?</p>
+               <p>Bray. I can't be so particular; for the Breeches and Hat it might be about 3 s my Lord.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person378">
+                  Q. 
+               <interp inst="t17460702-22-person378" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person378" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner) Will you ask any Questions of the Witness?</p>
+               <p>Prisoner. Please you my Lord I know nothing of the Affair. I don't know what to ask him .</p>
+               <p>
+            
+                  <persName id="t17460702-22-person379">
+                  Q. 
+               <interp inst="t17460702-22-person379" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person379" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Biles) When did you give the first Account of this Fact to any Body?</p>
+               <p>Biles. It might be the 25th of May; I can't exactly say.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person380">
+                  Q. 
+               <interp inst="t17460702-22-person380" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person380" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Bray) What Dress might you be in when you met Biles?</p>
+               <p>Bray. My Coat was turn'd, my Lord, to be best of my Knowledge.</p>
+               <p>Court. Your Coat was turn'd to the best of your Knowledge; People speak to the best of their Knowledge when 'tis doubtful ; you know the Thing perfectly;<xptr type="pageFacsimile" doc="174607020026"></xptr> upon your Oath was your Coat turn'd? was any Body's Coat turn'd? What Clothes had the others that were with you, the two Prisoner?</p>
+               <p>Bray. Their two Coats were turn'd, to the best of my Knowledge.</p>
+               <p>Court. Then you don't know whether they were turn'd, or were not?</p>
+               <p>Bray. Please you my Lord their Coats were turn'd.</p>
+               <p>Q. Were these the very Cloaths you now wear; were they turn'd, and the Cloaths they have on?</p>
+               <p>Bray. Yes, please you my Lord.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person381">
+                  Q. 
+               <interp inst="t17460702-22-person381" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person381" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoners) You hear what this Witness has said; what is it you have to say for yourselves?</p>
+               <p>Prisoner. My Lord, I never was with him in any Field by Night or by Day; I am innocent of the Thing, I take God to be my Judge.</p>
+               <p>Court. You know the Time that Biles has sworn to, he says the 25th of April; now have you any Witnesses to prove that you were in any other Place, or was not there?</p>
+               <p>Prisoner. I had a Witness to prove where I was at that Time.</p>
+               <p>Q. What is your Witness's Name?</p>
+               <p>Prisoner. John Brown, of Col. 
+               <persName id="t17460702-22-person382">
+                  Bagnel
+               <interp inst="t17460702-22-person382" type="given" value="Bagnel"></interp>
+                     <interp inst="t17460702-22-person382" type="gender" value="indeterminate"></interp>
+                  </persName>
+            's Company; he promised to be here to Day.</p>
+               <p>Q. When did you see him last?</p>
+               <p>Prisoner. I have not seen him since I came out of the Hospital.</p>
+               <p>Q. Who did you send to him?</p>
+               <p>Prisoner) A particular Friend, 
+               <persName id="t17460702-22-person383">
+                  James 
+                  Carter 
+               <interp inst="t17460702-22-person383" type="surname" value="Carter"></interp>
+                     <interp inst="t17460702-22-person383" type="given" value="James"></interp>
+                     <interp inst="t17460702-22-person383" type="gender" value="male"></interp>
+                  </persName>
+            , he came to me at the Gatehouse.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person384">
+                  Q. 
+               <interp inst="t17460702-22-person384" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person384" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Keeper of the Gatehouse) Did they tell you they wanted to send for any Witnesses?</p>
+               <p>Keeper. No, my Lord.</p>
+               <p>Both <rs id="t17460702-22-verdict84" type="verdictDescription">
+                     <interp inst="t17460702-22-verdict84" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17460702-22-punish85" type="punishmentDescription">
+                     <interp inst="t17460702-22-punish85" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460702-22-defend349 t17460702-22-punish85"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460702-22-defend351 t17460702-22-punish85"></join>
+               Death
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person385">
+                  George 
+                  Thomas 
+               <interp inst="t17460702-22-person385" type="surname" value="Thomas"></interp>
+                     <interp inst="t17460702-22-person385" type="given" value="George"></interp>
+                     <interp inst="t17460702-22-person385" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17460702-22-person386">
+                  John 
+                  Short 
+               <interp inst="t17460702-22-person386" type="surname" value="Short"></interp>
+                     <interp inst="t17460702-22-person386" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person386" type="gender" value="male"></interp>
+                  </persName>
+             were a second Time indicted for <rs id="t17460702-22-off86" type="offenceDescription">
+                     <interp inst="t17460702-22-off86" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17460702-22-off86" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17460702-22-victim388" type="victimName">
+                           Edward 
+                           Clark 
+                        <interp inst="t17460702-22-victim388" type="surname" value="Clark"></interp>
+                        <interp inst="t17460702-22-victim388" type="given" value="Edward"></interp>
+                        <interp inst="t17460702-22-victim388" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   in a certain Field on the King's Highway, on the <rs id="t17460702-22-cd87" type="crimeDate">8th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17460702-22-off80 t17460702-22-cd87"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17460702-22-off86 t17460702-22-cd87"></join>, putting him in fear of his Life, and feloniously taking from him a Cloth Coat, a Hat, a Pair of Buckles, and four Pence in Money
+            </rs>, the Property of the said 
+               <persName id="t17460702-22-person389">
+                  Edward 
+                  Clark 
+               <interp inst="t17460702-22-person389" type="surname" value="Clark"></interp>
+                     <interp inst="t17460702-22-person389" type="given" value="Edward"></interp>
+                     <interp inst="t17460702-22-person389" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17460702-22-person390">
+                  Q. 
+               <interp inst="t17460702-22-person390" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person390" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Clark) When was you robb'd?</p>
+               <p>Clark, The 8th of April, about a Quarter past Nine, as near as I can guess.</p>
+               <p>Q. Where was the Place ?</p>
+               <p>Clark. I was robb'd between <placeName id="t17460702-22-crimeloc88">Buckingham-Gate</placeName>
+                  <interp inst="t17460702-22-crimeloc88" type="placeName" value="Buckingham-Gate"></interp>
+                  <interp inst="t17460702-22-crimeloc88" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off80 t17460702-22-crimeloc88"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off86 t17460702-22-crimeloc88"></join> and <placeName id="t17460702-22-crimeloc89">Chelsea</placeName>
+                  <interp inst="t17460702-22-crimeloc89" type="placeName" value="Chelsea"></interp>
+                  <interp inst="t17460702-22-crimeloc89" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off80 t17460702-22-crimeloc89"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17460702-22-off86 t17460702-22-crimeloc89"></join>, the first Chelsea .</p>
+               <p>Q. How far from Buckingham-Gate might it be?</p>
+               <p>Clark. Not above 200 Yards from my own House.</p>
+               <p>Court. Then you live there.</p>
+               <p>Clark. Yes, five Years, my Lord, at the Sign of the Horse and Groom.</p>
+               <p>Q. Was it in the Field?</p>
+               <p>Clark . It was in the Foot-Path, my Lord.</p>
+               <p>Q. What Number of People came upon you?</p>
+               <p>Clark . Three, my Lord.</p>
+               <p>Q. What Stature were they?</p>
+               <p>Clark. They seem'd to me to be very lusty Men .</p>
+               <p>Q. What Cloaths had they on?</p>
+               <p>Clark. They had not Soldiers Cloaths on; they were disguis'd; they were in Colours.</p>
+               <p>Q. What Colours?</p>
+               <p>Clark. I took them to be Blue or Green.</p>
+               <p>Q. Was it dark then?</p>
+               <p>Clark. It was neither light nor dark.</p>
+               <p>Q. What did they take from you?</p>
+               <p>Clark. They took from me a light-colour'd Cloth Frock and my Hat.</p>
+               <p>Q. Was your Hat any Way remarkable?</p>
+               <p>Clark. Yes my Lord, wherever the Hat is, it has a Knotch where the Button is: And they took a Pair of Buckles , my Lord, and four Pence in Money.</p>
+               <p>Q. What were the Buckles made of?</p>
+               <p>Clark. They were Metal Buckles.</p>
+               <p>Q. Have you seen any of those Things since?</p>
+               <p>Clark. No, my Lord. 
+               <persName id="t17460702-22-person391">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person391" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person391" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person391" type="gender" value="male"></interp>
+                  </persName>
+             sent for me to Justice Fraser's and confess'd, that 
+               <persName id="t17460702-22-person392">
+                  George 
+                  Thomas 
+               <interp inst="t17460702-22-person392" type="surname" value="Thomas"></interp>
+                     <interp inst="t17460702-22-person392" type="given" value="George"></interp>
+                     <interp inst="t17460702-22-person392" type="gender" value="male"></interp>
+                  </persName>
+             , 
+               <persName id="t17460702-22-person393">
+                  John 
+                  Short 
+               <interp inst="t17460702-22-person393" type="surname" value="Short"></interp>
+                     <interp inst="t17460702-22-person393" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person393" type="gender" value="male"></interp>
+                  </persName>
+             and he had done it.</p>
+               <p>Court. Then you can't be sure to the Men?</p>
+               <p>Clark. No, my Lord.</p>
+               <p>Court. Now let Bray be brought into Court.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person394">
+                  Q. 
+               <interp inst="t17460702-22-person394" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person394" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to Bray) Do you know any Thing of the robbing 
+               <persName id="t17460702-22-person395">
+                  Edward 
+                  Clark 
+               <interp inst="t17460702-22-person395" type="surname" value="Clark"></interp>
+                     <interp inst="t17460702-22-person395" type="given" value="Edward"></interp>
+                     <interp inst="t17460702-22-person395" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. What Time might it be?</p>
+               <p>Bray. I can't tell Particulars; it might be some Time in April.</p>
+               <p>Q. Was it the Beginning, the latter End, or Middle of April?</p>
+               <p>Bray. I can't be so particular, please you my Lord.</p>
+               <p>Q. How long was it after the Robbery of Biles? Might it be a Month, a Fortnight, or three Weeks, or what; can't you remember at what Distance of Time one Robbery was transacted from another?</p>
+               <p>Bray. It might be a Week or ten Days after that, please you my Lord .</p>
+               <p>Q. You say you remember this Robbery; what o'Clock was it?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174607020027"></xptr>Bray. Please you, my Lord, it might be about Ten o'Clock .</p>
+               <p>Q. What Time did you go out of London?</p>
+               <p>Bray. We we went out of London, please you, my Lord, between Eight and Nine .</p>
+               <p>Q. Who was with you?</p>
+               <p>Bray. 
+               <persName id="t17460702-22-person396">
+                  John 
+                  Short 
+               <interp inst="t17460702-22-person396" type="surname" value="Short"></interp>
+                     <interp inst="t17460702-22-person396" type="given" value="John"></interp>
+                     <interp inst="t17460702-22-person396" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17460702-22-person397">
+                  George 
+                  Thomas 
+               <interp inst="t17460702-22-person397" type="surname" value="Thomas"></interp>
+                     <interp inst="t17460702-22-person397" type="given" value="George"></interp>
+                     <interp inst="t17460702-22-person397" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Where did you go that Night?</p>
+               <p>Bray. Into the Five Fields between London and Chelsea .</p>
+               <p>Q. Who did you meet with there?</p>
+               <p>Bray . This was the Man, 
+               <persName id="t17460702-22-person398">
+                  Edward 
+                  Clark 
+               <interp inst="t17460702-22-person398" type="surname" value="Clark"></interp>
+                     <interp inst="t17460702-22-person398" type="given" value="Edward"></interp>
+                     <interp inst="t17460702-22-person398" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. What did you take from him?</p>
+               <p>Bray . We took from him a Hat.</p>
+               <p>Q. Was there any thing remarkable in the Hat?</p>
+               <p>Bray. Not that I know of . And a Coat , it was a light-colour'd Coat with broad Buttons, we took them to be Plate .</p>
+               <p>Q. Was it a Great Coat?</p>
+               <p>Bray. A close-body'd Coat, my Lord.</p>
+               <p>Q. Did you take any thing else?</p>
+               <p>Bray. We took from him a Groat in Half pence, to the best of my Knowledge, and a Pair of Scissars .</p>
+               <p>Q. What else?</p>
+               <p>Bray. Nothing else.</p>
+               <p>Q. Did you take any Metal Buckles?</p>
+               <p>Bray. Yes, please you, my Lord, I remember them.</p>
+               <p>Q. Were the Prisoners with you?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. What, did you rob with these same Pistols? In what Manner did you rob?</p>
+               <p>Bray. We met him in the Five Fields and demanded his Money; he did not seem to be free, so we haul'd him out of the Road, by a little Gateway, into the Field, and 
+               <persName id="t17460702-22-person399">
+                  George 
+                  Thomas 
+               <interp inst="t17460702-22-person399" type="surname" value="Thomas"></interp>
+                     <interp inst="t17460702-22-person399" type="given" value="George"></interp>
+                     <interp inst="t17460702-22-person399" type="gender" value="male"></interp>
+                  </persName>
+             hit him over the Head with one of the Pistols, and we took from from him a Hat, Coat, and a Pair of Buckles, a Groat in Half-pence and a Pair of Scissars.</p>
+               <p>Q. Did you divide these Things; or what did you do with them?</p>
+               <p>Bray. Please, you, my Lord, the Coat was sold in the Street beyond Thieving-Lane; but I can't nominate the Street.</p>
+               <p>Q. Was you present when it was sold?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. What was it sold for?</p>
+               <p>Bray. For 2 s.</p>
+               <p>Q. Had you any Part of the Money?</p>
+               <p>Bray. Yes, my Lord.</p>
+               <p>Q. Have you any thing farther to say?</p>
+               <p>Bray. No, my Lord.</p>
+               <p>
+            
+                  <persName id="t17460702-22-person400">
+                  Q. 
+               <interp inst="t17460702-22-person400" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person400" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner.) Would you ask the Witness any Questions?</p>
+               <p>Prisoner. My Lord, I don't know what to ask him; but what he has said is entirely false .</p>
+               <p>Q. You other Prisoner, have you any thing to say?</p>
+               <p>Prisoner. He swears quite wrong; I never drank with the Man above once in my Life, and am as innocent as the Child unborn.</p>
+               <p>Court. (to 
+               <persName id="t17460702-22-person401">
+                  Edward 
+                  Clark 
+               <interp inst="t17460702-22-person401" type="surname" value="Clark"></interp>
+                     <interp inst="t17460702-22-person401" type="given" value="Edward"></interp>
+                     <interp inst="t17460702-22-person401" type="gender" value="male"></interp>
+                  </persName>
+            .) Stand up; you have heard what Bray says : When they met you they demanded your Money, and you was not free to give it .</p>
+               <p>Clark. As I keep a Publick-House I thought they had play'd the Rogue with me. They presented one Pistol to my Head, another to my Breast, and one of them struck me on the Head: I was two Hours before I came to my Senses ; they beat me both in the Pathway and in the Field, and dragg'd me over a Bank into a Place call'd Avery-Farm Field .</p>
+               <p>
+            
+                  <persName id="t17460702-22-person402">
+                  Q. 
+               <interp inst="t17460702-22-person402" type="given" value="Q."></interp>
+                     <interp inst="t17460702-22-person402" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460702-22-person403">
+                  William 
+                  Bray 
+               <interp inst="t17460702-22-person403" type="surname" value="Bray"></interp>
+                     <interp inst="t17460702-22-person403" type="given" value="William"></interp>
+                     <interp inst="t17460702-22-person403" type="gender" value="male"></interp>
+                  </persName>
+            .) Do you belong to the same Company with the Prisoners? What Company are you of ?</p>
+               <p>Bray. I belong to Col. 
+               <persName id="t17460702-22-person404">
+                  Boscawen
+               <interp inst="t17460702-22-person404" type="given" value="Boscawen"></interp>
+                     <interp inst="t17460702-22-person404" type="gender" value="indeterminate"></interp>
+                  </persName>
+            's Company .</p>
+               <p>Q. What Company do the Prisoners belong to?</p>
+               <p>Bray. To the best of my Knowledge they belong to a Grenadiers Company; but I don't know the Lord's Name, though the Gentleman they belong to came to see me while I was in Prison; I can't readily think of his Name.</p>
+               <p>Q. How did you come by these Pistols?</p>
+               <p>Bray. It was Thomas Bird and John Short cut them in the Manner they are.</p>
+               <p>Both <rs id="t17460702-22-verdict90" type="verdictDescription">
+                     <interp inst="t17460702-22-verdict90" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17460702-22-punish91" type="punishmentDescription">
+                     <interp inst="t17460702-22-punish91" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460702-22-defend349 t17460702-22-punish91"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460702-22-defend351 t17460702-22-punish91"></join>
+               Death
+            </rs>.</p>
+            </div1>

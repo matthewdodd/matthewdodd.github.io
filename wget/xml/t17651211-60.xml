@@ -1,3 +1,233 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-60">
+               <interp inst="t17651211-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-60" type="year" value="1765"></interp>
+               <interp inst="t17651211-60" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-60" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-60-off355-c485" targOrder="Y" targets="t17651211-60-defend619 t17651211-60-off355 t17651211-60-verdict360"></join>
+               <join result="criminalCharge" id="t17651211-60-off361-c485" targOrder="Y" targets="t17651211-60-defend619 t17651211-60-off361 t17651211-60-verdict360"></join>
+         
+               <p>70. (M.) 
+               
+                  <persName id="t17651211-60-defend619" type="defendantName">
+                     Benjamin 
+                     Watkins 
+                  <interp inst="t17651211-60-defend619" type="surname" value="Watkins"></interp>
+                     <interp inst="t17651211-60-defend619" type="given" value="Benjamin"></interp>
+                     <interp inst="t17651211-60-defend619" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17651211-60-off355" type="offenceDescription">
+                     <interp inst="t17651211-60-off355" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-60-off355" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing half a pound weight of green tea, value 2 s. 5 pounds weight of hard soap, value 18 d. one pound weight of tobacco, value 10 d.
+            </rs> the property of 
+               
+                  <persName id="t17651211-60-victim621" type="victimName">
+                     Joseph 
+                     Fisher 
+                  <interp inst="t17651211-60-victim621" type="surname" value="Fisher"></interp>
+                     <interp inst="t17651211-60-victim621" type="given" value="Joseph"></interp>
+                     <interp inst="t17651211-60-victim621" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651211-60-off355 t17651211-60-victim621"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651211-60-off361 t17651211-60-victim621"></join>
+                  </persName>
+                
+            , <rs id="t17651211-60-cd356" type="crimeDate">October 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-60-off355 t17651211-60-cd356"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-60-off361 t17651211-60-cd356"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17651211-60-person622">
+                  Joseph 
+                  Fisher 
+               <interp inst="t17651211-60-person622" type="surname" value="Fisher"></interp>
+                     <interp inst="t17651211-60-person622" type="given" value="Joseph"></interp>
+                     <interp inst="t17651211-60-person622" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17651211-60-viclabel357" type="occupation">grocer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-60-victim621 t17651211-60-viclabel357"></join>, and live in <placeName id="t17651211-60-crimeloc358">Carnaby market</placeName>
+                  <interp inst="t17651211-60-crimeloc358" type="placeName" value="Carnaby market"></interp>
+                  <interp inst="t17651211-60-crimeloc358" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-60-off355 t17651211-60-crimeloc358"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-60-off361 t17651211-60-crimeloc358"></join>. On the 13th of October last, between 3 and 4 o'clock, 
+               <persName id="t17651211-60-person623">
+                  John 
+                  Scoles 
+               <interp inst="t17651211-60-person623" type="surname" value="Scoles"></interp>
+                     <interp inst="t17651211-60-person623" type="given" value="John"></interp>
+                     <interp inst="t17651211-60-person623" type="gender" value="male"></interp>
+                  </persName>
+             came to my house, and said he wanted to speak with me; I took him into the dining-room: he said I had a<xptr type="pageFacsimile" doc="176512110047"></xptr> servant in my house that was a thief, and asked if that was my man that let him in. I said yes, (that was the prisoner,) he had lived with me 12 months, all but 2 days; Scoles said he could tell me where he had disposed of some goods, which he did.</p>
+               <p>Q. In what capacity was the prisoner?</p>
+               <p>Fisher. He was my <rs id="t17651211-60-deflabel359" type="occupation">porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-60-defend619 t17651211-60-deflabel359"></join>, and lived in the house, I went and inquired, and found what Scoles had told me to be true; I found tea, soap, and tobacco, in Vere-street, Clare-market, at Mrs. Cheaseman's. We put her and her husband in the round-house: the next day they were examined before the Justice; we took the prisoner up the next day; he was examined before Justice Welch, and owned that he had taken a little tea out of my shop, and had brought it to Mrs. Cheaseman's lodgings, who washed for him. There was about half a pound of tea, and 5 pounds of soap, and about a pound of tobacco, found at her house; we brought them away, and lodged them in the constable's hands. On his second examination he said he bought a pound and a half of tea, at 4 s. a pound, of a smuggler.</p>
+               <p>Cross examination.</p>
+               <p>Q. Whether you did not get the prisoner in goal, and make some proposals to him.</p>
+               <p>Fisher. I went to know what he had robbed me of at times?</p>
+               <p>Q. Did you make him a promise if he would confess?</p>
+               <p>Fisher. I never desired him to confess.</p>
+               <p>Q. Have you not some money of his in your hands, did you never make a proposal to him about that money?</p>
+               <p>Fisher. No, I never did, I could not swear to the money.</p>
+               <p>Q. Did you not desire the prisoner to confess this charge, and let you keep that money, that you found in his box?</p>
+               <p>Fisher. No, I never did.</p>
+               <p>Q. Did you never tell him the consequence if he did not confess?</p>
+               <p>Fisher. The Justice did, before I did.</p>
+               <p>Q. Did you not tell him, if he did not confess, and let you have the money, he should be hanged?</p>
+               <p>Fisher. No, I did not mention hanging. I asked him how he could make it appear that money was his; I told him he might be transported: I told him I would not lay it capital.</p>
+               <p>Q. Did he mention selling or giving Mrs. Cheaseman tea?</p>
+               <p>Fisher. He said nothing of selling it, he gave it her.</p>
+               <p>Q. Have you not been in goal to him, terrifying and frighting him?</p>
+               <p>Fisher. No, I have not.</p>
+               <p>Q. Did you not go there to desire him to give you a draft?</p>
+               <p>Fisher. No, he sent it me.</p>
+               <p>Q. Where was it wrote?</p>
+               <p>Fisher. It was wrote in goal.</p>
+               <p>Q. Who wrote it?</p>
+               <p>Fisher. I wrote the order, and he signed it.</p>
+               <p>Q. How long was this after he was committed?</p>
+               <p>Fisher. A good while after that.</p>
+               <p>Q Did you not threaten him, to extort that draft from him?</p>
+               <p>Fisher. No, I did not.</p>
+               <p>Q. How came he to give it you?</p>
+               <p>Fisher. He gave it me for fear it should be lost, and he did not think proper to trust Mr. Sharp with it.</p>
+               <p>Q. What is it?</p>
+               <p>Fisher. It is a share in a lottery ticket.</p>
+               <p>Q. Did not you promise him not to prosecute him for it?</p>
+               <p>Fisher. No.</p>
+               <p>Q. Was he not pressing you to pay him his wages?</p>
+               <p>Fisher. I paid him 2 guineas.</p>
+               <p>Q. What was his business in your shop?</p>
+               <p>Fisher. To weigh goods, and carry goods out.</p>
+               <p>Q. Had you a letter to his character when he came to you?</p>
+               <p>Fisher. I had, from Bristol.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person624">
+                  John 
+                  Scoles 
+               <interp inst="t17651211-60-person624" type="surname" value="Scoles"></interp>
+                     <interp inst="t17651211-60-person624" type="given" value="John"></interp>
+                     <interp inst="t17651211-60-person624" type="gender" value="male"></interp>
+                  </persName>
+            . On the 13th of October last, I met with a friend, who invited me to breakfast; I complained of the tea being very bad, for when I drink tea, I neither drink milk nor sugar with it: said my friend, if I could get tea as my neighbour does, I might have better; for the man that sells it, robs his master, and brings 4 or 5 pounds as he can get it. She told me who was the master, so I went and informed Mr. Fisher of it; then he and I went to Mrs. Cheaseman's, and asked if Tom the merchant had been there; my friend told me he went by that name: they said he had taken his shirt away, and had left some hard soap, which we found; it was about 4 or 5 pounds, and some tobacco. We confined her in the round-house; then we went and carried the prisoner there. I said if he had carried on this correspondence, he must be worth money; the prisoner whispered me to ask his master to let him have something to live upon, or to drink. We went home, and found in his breeches pocket 10 guineas, and in a paper<xptr type="pageFacsimile" doc="176512110048"></xptr> in his box 9 guineas, and an 18 shilling piece, and in another place 4 shares, and a whole lottery ticket; then we came on a third examination: he then complained he was greatly distressed for cash, and desired his master would give him something to support him, out of his own money. Mr. Welch ordered him the 18 s. piece. I said, this fellow has never been searched, he may have cash about him. The Justice said we might search him. I found in his breeches before, in a rag, very near 20 s. in silver, and in his fob I found a watch; we had found one before in his box. The Justice said you may as well pull off his shoes: we did, and found 5 guineas and a half in one shoe.</p>
+               <p>Q. Whose money did he say it was?</p>
+               <p>Scoles. He said it was not his master's, but the soap he owned was his master's, and that he stole it out of the cellar, and hoped his master would forgive him.</p>
+               <p>Q. Where did he own this?</p>
+               <p>Scoles. This was before Justice Welch; as to the tobacco, he said a soldier, or porter, gave it to him, upon the keys: he was contradicted in that, being told there was no cut tobacco there; he went on his knees, and asked the Justices, and his master's pardon.</p>
+               <p>Cross examination.</p>
+               <p>Q. Pray who is this lady that you drank tea with?</p>
+               <p>Scoles. She was in prison with me in the Marshalsea prison.</p>
+               <p>Q. What is her name?</p>
+               <p>Scoles. They call her by the name of Optick.</p>
+               <p>Q. What is her real name?</p>
+               <p>Scoles. I believe her name is Mansfield, she was very intimate with Mrs. Cheaseman.</p>
+               <p>Q. Had Mrs. Cheaseman and she had a quarrel?</p>
+               <p>Scoles. I really believe they had.</p>
+               <p>Q. What are you?</p>
+               <p>Scoles. I am an old discharged serjeant of the guards, and I now am employed at times to be put in possession for the Sheriffs of Middlesex.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person625">
+                  Peter 
+                  Smith 
+               <interp inst="t17651211-60-person625" type="surname" value="Smith"></interp>
+                     <interp inst="t17651211-60-person625" type="given" value="Peter"></interp>
+                     <interp inst="t17651211-60-person625" type="gender" value="male"></interp>
+                  </persName>
+            . Mr. Fisher received information from this last evidence, of having a person in his house that robbed him. I being constable, was charged with him, on the 13th of October; he acknowledged before Justice Welch of having stole soap, and to the best of my remembrance he acknowledged taking tobacco and tea.</p>
+               <p>Q. What words did he make use of?</p>
+               <p>Smith. He first of all said he bought the tobacco of a man that stole it from off the keys. When he was told there was no cut tobacco there, he acknowledged he took it from his master, and he acknowledged he took tea by little at a time.</p>
+               <p>Q. Which examination was this?</p>
+               <p>Smith. I believe this was the 2d examination, but cannot be sure whether it was not the 3d; the things were produced before the Justice, and he was charged with having stole them.</p>
+               <p>Q. to prosecutor. Are you able to swear to either of these things here produced?</p>
+               <p>Prosecutor. They answer to the samples which I have here, I cannot swear to them.</p>
+               <p>Q. to Smith. How came you upon all these examinations?</p>
+               <p>Smith. I and Mr. Fisher married two sisters.</p>
+               <p>Q. What did the prisoner say to the soap?</p>
+               <p>Smith. I remember extremely well, the Justice said, now you are got over the soap, what do you say to the tobacco and ginger?</p>
+               <p>Q. Then by that did you understand he confessed it?</p>
+               <p>Smith. I did.</p>
+               <p>Prosecutor. I delivered the prisoner all his money, and the tickets, by the order of the court, yesterday.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person626">
+                  Joseph 
+                  Wilson 
+               <interp inst="t17651211-60-person626" type="surname" value="Wilson"></interp>
+                     <interp inst="t17651211-60-person626" type="given" value="Joseph"></interp>
+                     <interp inst="t17651211-60-person626" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Paddington; I was sent for by the prisoner: when I came, he said it was not particularly me that he wanted, it was his master Fisher; that was to show Mr. Fisher he had received a letter from Bristol, from a person he there served, concerning money that he had. I desired him to tell his master how he got the tea out of the cannister: he told me when the shop was crowded with goods, he used to roll the cannisters into a passage leading to the cellar, and that gave him an opportunity to take it out of the cannister. I asked him how he managed to take that which was found in the hay-loft, where his master came from: he said he was sent to the India-House for a chest of tea, and some came out, and he took it.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was first taken to the alehouse, and confined there all night; coming from thence, 
+               <persName id="t17651211-60-person627">
+                  Joseph 
+                  Wilson 
+               <interp inst="t17651211-60-person627" type="surname" value="Wilson"></interp>
+                     <interp inst="t17651211-60-person627" type="given" value="Joseph"></interp>
+                     <interp inst="t17651211-60-person627" type="gender" value="male"></interp>
+                  </persName>
+            's son said, you dog, your box has been opened, there were found tickets and money, which you have robbed your master of: now you will be sure to be hanged. If you will own the fact, your life will be saved, otherwise your life is gone; therefore prepare yourself, for you have but a short time to live; I did not know what I said or did. I had desired the rector of St. Michael's at Bristol to put some money out to use for me. I sent him word what had happened; he sent my character up, and likewise word that I had applied to him to put out money for me when I lived at Bristol: here is my brother that was with me when I bought one of the watches at Bristol, the other I bought<xptr type="pageFacsimile" doc="176512110049"></xptr> at an auction. I had no thoughts of buying it, but I said, Sixpence more; then it was knocked down, and I was obliged to have it. I had a note with it, that if it failed in a year, I was not to be at a single farthing more expence, and that note was in my pocket; they took all my substance from me.</p>
+               <p>To his character.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person628">
+                  Anne 
+                  Hill 
+               <interp inst="t17651211-60-person628" type="surname" value="Hill"></interp>
+                     <interp inst="t17651211-60-person628" type="given" value="Anne"></interp>
+                     <interp inst="t17651211-60-person628" type="gender" value="female"></interp>
+                  </persName>
+            . I live at Westminster; I lived fellow-servant with the prisoner at Bristol, with the Rev. Mr. Sayer: he lived two years there: he was very honest, and I never heard to the contrary; he was trusted to buy things for the house.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person629">
+                  Edward 
+                  Jones 
+               <interp inst="t17651211-60-person629" type="surname" value="Jones"></interp>
+                     <interp inst="t17651211-60-person629" type="given" value="Edward"></interp>
+                     <interp inst="t17651211-60-person629" type="gender" value="male"></interp>
+                  </persName>
+            . I live near Temple-bar; I knew the prisoner in Wales; I lived with the same master he did for five years; he was there before me; he always bore a good character; I have heard his master praise him as a very honest, sober man.</p>
+               <p>- Watkins. I am the prisoner's brother; I live servant with merchant Smith at Bristol; when he went from Bristol he was worth upwards of 50 l. he has been gone from me about ten years and a half: he and I bought each of us a watch together at Bristol fair; he bore a good character.</p>
+               <p>
+            
+                  <persName id="t17651211-60-person630">
+                  Elizabeth 
+                  Cheaseman 
+               <interp inst="t17651211-60-person630" type="surname" value="Cheaseman"></interp>
+                     <interp inst="t17651211-60-person630" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17651211-60-person630" type="gender" value="female"></interp>
+                  </persName>
+             was called, and did not appear; her recognizance was ordered to be estreated.</p>
+               <p>
+                  <rs id="t17651211-60-verdict360" type="verdictDescription">
+                     <interp inst="t17651211-60-verdict360" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(L.) He was a second time indicted for <rs id="t17651211-60-off361" type="offenceDescription">
+                     <interp inst="t17651211-60-off361" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-60-off361" type="offenceSubcategory" value="other"></interp>
+               stealing two pounds weight of green tea, and a pound of sugar
+            </rs>, the property of 
+               <persName id="t17651211-60-person631">
+                  Joseph 
+                  Fisher 
+               <interp inst="t17651211-60-person631" type="surname" value="Fisher"></interp>
+                     <interp inst="t17651211-60-person631" type="given" value="Joseph"></interp>
+                     <interp inst="t17651211-60-person631" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17651211-60-cd362" type="crimeDate">October 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-60-off355 t17651211-60-cd362"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-60-off361 t17651211-60-cd362"></join>. ++</p>
+               <p>The evidence the same as on the former trial for the prosecution; but this was found in a hay-loft belonging to the prosecutor, in the city of London, and therefore triable only by a London jury. The prisoner denied the charge, and called his attorney.</p>
+               <p>Mr. Ridgeway. I was employed as attorney for the prisoner, who complained to me that Mr. Fisher had taken from him his watch, money, lottery-tickets, and his papers. He had obtained an order from him, during his imprisonment in the Gatehouse, for the receipt of 13 guineas from Mr. Sharp, an office-keeper in Holborn; that he owed him also 11 l. for wages; so being divested of all his property, I went to Mr. Fisher, and desired him to pay him his wages, in order to subpoena the Rev. Mr. Sayer, with whom he formerly lived servant, and to return a letter he had in his possession from the prisoner's brother, which contained a direction where to write to him. Mr. Fisher denied giving him the letter, or paying him his wages, or the 13 l. he had obtained from him, while in prison; or delivering up to him any other part of his property, by which he might be enabled to make his defence.</p>
+               <p>Q. Whether Mr. Fisher did not tell you that the things were in the hands of the constable?</p>
+               <p>Ridgeway. No, he first denied having it; then he had it; then he had it not: at last he said the constable had it; I then asked only for his wages.</p>
+               <p>Q Did he not tell you the constable had the rest of his effects?</p>
+               <p>Ridgeway. He did. <rs id="t17651211-60-verdict363" type="verdictDescription">
+                     <interp inst="t17651211-60-verdict363" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

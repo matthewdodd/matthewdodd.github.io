@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-64">
+               <interp inst="t16890516-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-64" type="year" value="1689"></interp>
+               <interp inst="t16890516-64" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-64" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-64-off288-c175" targOrder="Y" targets="t16890516-64-defend279 t16890516-64-off288 t16890516-64-verdict290"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-64-defend279" type="defendantName">
+                     Jane 
+                     de Mo
+                  <interp inst="t16890516-64-defend279" type="surname" value="de Mo"></interp>
+                     <interp inst="t16890516-64-defend279" type="given" value="Jane"></interp>
+                     <interp inst="t16890516-64-defend279" type="gender" value="female"></interp>
+                  </persName>
+               
+             of <placeName id="t16890516-64-defloc287">Westminster</placeName>
+                  <interp inst="t16890516-64-defloc287" type="placeName" value="Westminster"></interp>
+                  <interp inst="t16890516-64-defloc287" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890516-64-defend279 t16890516-64-defloc287"></join> Indicted for a <rs id="t16890516-64-off288" type="offenceDescription">
+                     <interp inst="t16890516-64-off288" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-64-off288" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary in breaking the House of Mr. 
+                     
+                        <persName id="t16890516-64-victim281" type="victimName">
+                           John 
+                           Harrison
+                        <interp inst="t16890516-64-victim281" type="surname" value="Harrison"></interp>
+                        <interp inst="t16890516-64-victim281" type="given" value="John"></interp>
+                        <interp inst="t16890516-64-victim281" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-64-off288 t16890516-64-victim281"></join>
+                     </persName>
+                     
+                   on the <rs id="t16890516-64-cd289" type="crimeDate">6th of Marc</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-64-off288 t16890516-64-cd289"></join> last, and taking thereout 3 quarters of a yard of Flanders Lac value 15 d. a Silk Gown 4 l. a Peticoat 3 l. another Silk quilte Peticoat 15 s. a Childs Gown 40 s. a Campagne Coat 40 s.
+            </rs> The Evidence deposed, That the Windows of the House were broken open about the middle of the Night, and only the piec of Lace was found upon the Prisoner. She told the Court tha She bought it 5 years ago, and the Lace did not appear to be th Prosecutors; in that case the indictment was mislaid, so she was <rs id="t16890516-64-verdict290" type="verdictDescription">
+                     <interp inst="t16890516-64-verdict290" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16890516-64-verdict290" type="verdictSubcategory" value="fault"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

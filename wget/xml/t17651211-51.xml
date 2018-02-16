@@ -1,3 +1,365 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-51">
+               <interp inst="t17651211-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-51" type="year" value="1765"></interp>
+               <interp inst="t17651211-51" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-51" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-51-off306-c385" targOrder="Y" targets="t17651211-51-defend502 t17651211-51-off306 t17651211-51-verdict310"></join>
+               <join result="criminalCharge" id="t17651211-51-off306-c386" targOrder="Y" targets="t17651211-51-defend504 t17651211-51-off306 t17651211-51-verdict310"></join>
+               <join result="criminalCharge" id="t17651211-51-off311-c385" targOrder="Y" targets="t17651211-51-defend502 t17651211-51-off311 t17651211-51-verdict310"></join>
+               <join result="criminalCharge" id="t17651211-51-off311-c386" targOrder="Y" targets="t17651211-51-defend504 t17651211-51-off311 t17651211-51-verdict310"></join>
+         
+               <p>59, 60. (M.) 
+               
+                  <persName id="t17651211-51-defend502" type="defendantName">
+                     Robert 
+                     Bignal 
+                  <interp inst="t17651211-51-defend502" type="surname" value="Bignal"></interp>
+                     <interp inst="t17651211-51-defend502" type="given" value="Robert"></interp>
+                     <interp inst="t17651211-51-defend502" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17651211-51-defend504" type="defendantName">
+                     Mary 
+                     Fitzgerald 
+                  <interp inst="t17651211-51-defend504" type="surname" value="Fitzgerald"></interp>
+                     <interp inst="t17651211-51-defend504" type="given" value="Mary"></interp>
+                     <interp inst="t17651211-51-defend504" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17651211-51-deflabel305" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-51-defend504 t17651211-51-deflabel305"></join>, were indicted for <rs id="t17651211-51-off306" type="offenceDescription">
+                     <interp inst="t17651211-51-off306" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-51-off306" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a bill of exchange, called a bank post bill, No. 3315. value 20 l. being then due, and unsatisfied for, the property of 
+                     
+                        <persName id="t17651211-51-victim506" type="victimName">
+                           Lawrence 
+                           Doyle 
+                        <interp inst="t17651211-51-victim506" type="surname" value="Doyle"></interp>
+                        <interp inst="t17651211-51-victim506" type="given" value="Lawrence"></interp>
+                        <interp inst="t17651211-51-victim506" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17651211-51-off306 t17651211-51-victim506"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17651211-51-off311 t17651211-51-victim506"></join>
+                     </persName>
+                      
+                  ; in the dwelling house of 
+                     <persName id="t17651211-51-person507">
+                        Robert 
+                        Barrey 
+                     <interp inst="t17651211-51-person507" type="surname" value="Barrey"></interp>
+                        <interp inst="t17651211-51-person507" type="given" value="Robert"></interp>
+                        <interp inst="t17651211-51-person507" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t17651211-51-cd307" type="crimeDate">October 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-51-off306 t17651211-51-cd307"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-51-off311 t17651211-51-cd307"></join>. +</p>
+               <p>
+            
+                  <persName id="t17651211-51-person508">
+                  Lawrence 
+                  Doyle 
+               <interp inst="t17651211-51-person508" type="surname" value="Doyle"></interp>
+                     <interp inst="t17651211-51-person508" type="given" value="Lawrence"></interp>
+                     <interp inst="t17651211-51-person508" type="gender" value="male"></interp>
+                  </persName>
+            . I did live <rs id="t17651211-51-viclabel308" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-51-victim506 t17651211-51-viclabel308"></join> to Mr. Oflartey, at Isleworth. I left that service on the 11th of October, and came to lodge in <placeName id="t17651211-51-crimeloc309">Suffolk-street</placeName>
+                  <interp inst="t17651211-51-crimeloc309" type="placeName" value="Suffolk-street"></interp>
+                  <interp inst="t17651211-51-crimeloc309" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-51-off306 t17651211-51-crimeloc309"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-51-off311 t17651211-51-crimeloc309"></join>, at Mr. 
+               <persName id="t17651211-51-person509">
+                  Robert 
+                  Barrey 
+               <interp inst="t17651211-51-person509" type="surname" value="Barrey"></interp>
+                     <interp inst="t17651211-51-person509" type="given" value="Robert"></interp>
+                     <interp inst="t17651211-51-person509" type="gender" value="male"></interp>
+                  </persName>
+            's; I sent my things thither by water. I came there the 14th, my portmanteau I sent by water with my other things, in which was a bank post bill for 20 l. in a little writing chest; it was indorsed by 
+               <persName id="t17651211-51-person510">
+                  Theodore 
+                  Oflartey 
+               <interp inst="t17651211-51-person510" type="surname" value="Oflartey"></interp>
+                     <interp inst="t17651211-51-person510" type="given" value="Theodore"></interp>
+                     <interp inst="t17651211-51-person510" type="gender" value="male"></interp>
+                  </persName>
+            , at Isleworth (produced in court); this is it. I went up stairs to see an aunt of mine that was ill: Mr. Barrey is my uncle: I wrote a pennypost letter: on my returning from her room, I saw a light in the parlour where my goods were left; this was between 6 and 7 in the evening. I thinking there were some French ladies that lodged there, I went to ask them how they did: then I missed my portmanteau; the other things were all safe. One of Mr. Barrey's maids told me the waterman had brought it, and that it was in the parlour, about 6 o'clock that evening. I sent back to Isleworth to know the number of my post bill: Mr. Oflartey sent me word, I must be informed of that by applying to Mr. Cruse, a merchant, who gave it to him: I went, and was informed that the number was 3315. I went and stopt payment at the Bank, and had it advertised on Wednesday the 16th, with other things lost in the portmanteau; and the bill was stopped at the Bank the very morning it was advertised.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person511">
+                  William 
+                  Willoughby 
+               <interp inst="t17651211-51-person511" type="surname" value="Willoughby"></interp>
+                     <interp inst="t17651211-51-person511" type="given" value="William"></interp>
+                     <interp inst="t17651211-51-person511" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a Coventry warehouse in Holborn: on the 15th of October, about 5 in the evening, 
+               <persName id="t17651211-51-person512">
+                  Mary 
+                  Fitzgerald 
+               <interp inst="t17651211-51-person512" type="surname" value="Fitzgerald"></interp>
+                     <interp inst="t17651211-51-person512" type="given" value="Mary"></interp>
+                     <interp inst="t17651211-51-person512" type="gender" value="female"></interp>
+                  </persName>
+             and another woman came to my shop. I never saw Fitzgerald before: the other woman had bought things of me several times before; her name is Smith: she took hold of her own gown, and said, have you any more of this fort of silk and stuff; that was a gown that she had bought of me; I took and shewed them a roll of the same: they both ordered eleven yards to be cut off. After that Smith said to the prisoner, I hear you are going into mourning; I hear you have got a very good windfall left you; you will want some crape. She was shewed some: she agreed for price, and ordered 14 yards to be cut off Then Smith said to the prisoner, my dear you will want change for a note: then she turned to me, and said, I suppose, Sir, you can change a bank note, I said yes, if it is not too heavy. The prisoner took this note from her breast, and gave it to one of my young people, and it was handed to me: I read it, and said, Madam, this is not a bank note, this is a bank post bill, and it is not accepted which makes it not negociable: they seemed a little surprized, and said they did not know there were any difference between a bank note, and a bank post bill. I read the body of it to them, and pointed out the difference; they said they did not know what to do: I said I shall be in the city in the morning, and I would get it accepted, (not having the least suspicion it was stolen.) They left it with me, and seemed greatly pleased, and took the goods away.</p>
+               <p>Q. What did the goods come to?</p>
+               <p>Willoughby. They came to 3 l. 13 s. all together. I told them they might come any time on the morrow, and they should have the things. I went into the city the next morning, having business at the Custom-house, and the Exchange: when I came to present the bill at the bank, I was asked where I got the bill: I told them, they said it was stole; said I, what shall I do with it: they desired me to go to the secretary, which I did: he said he would write to the person at whose house the portmanteau was stole, for him to come and consult with me, upon which Mr. Barrey came to me.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176512110037"></xptr>Q. Did the women ever come for the change?</p>
+               <p>Willoughby. No; they neither came nor sent. My young people recollecting, while they were standing by my counter, that one said to the other, my mantua-maker is a very good sort of a woman, she has lost her husband, who was a dresser at the playhouse, and she has a pretty daughter that delights in the playhouse; they mentioned her living in Vinegar-yard: upon this Mr. Barrey and I went to Vinegar yard, and found a mantuamaker that lived up stairs. I saw a good looking woman sit at work: I carried a piece of that stuff which Smith had had a gown of; I asked her if she had made a gown of such as that about three weeks before, she said, she had not. We were coming down stairs; I said I will turn back, and ask her one question more. I went up, and said, Madam, I see you are in mourning; are you in morning for a husband or a relation? she said it was for her husband. I said, was he not a dresser in the playhouse? she said, yes. Then I said, have you not a daughter that delights in the playhouse? she told me she had. I asked the favour to see her; she was called out of another room; she is a woman grown. I said to her, my dear, did not you and your mamma make a gown of this sort of stuff about three weeks ago? The daughter said, yes, Sir, we did. The mother contradicted it, and said they had not. The daughter said, Mamma, you forget yourself; we did for such a person, meaning Smith, but I think they called her Benton, or Benson: she told me, she lodged at a little rag-shop in Drury-lane, up two pair of stairs backwards. We went to Sir 
+               <persName id="t17651211-51-person513">
+                  John 
+                  Fielding 
+               <interp inst="t17651211-51-person513" type="surname" value="Fielding"></interp>
+                     <interp inst="t17651211-51-person513" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person513" type="gender" value="male"></interp>
+                  </persName>
+            's, and described the woman to his clerk: he said he knew her well. He went with us, but we did not find her that forenoon. The clerk said to me, do you go home, and if I can find the people I'll send for you. I had not been at home two hours, before he sent me word he believed he had found the person, meaning Fitzgerald. I took one of my young women that served them, and went to Justice Fielding's; then Mr. Marsden, a constable, and I, went to a little house in Drury-lane, at a shoe-maker's in Prince's-street. We did not all go one way, but met at the door; the constable and clerk went up stairs, and in a minute or two they desired me to come-up: there were the two prisoners in a little back chamber; the constable was ordered to search the man; they tied his hands, and took them both in a coach to Justice Fielding's: they both absolutely denied knowing any thing of the portmanteau, or any thing about the post bill. Fitzgerald said, she had never been in Holborn but once in her life, and denied being in my shop at all. When I saw her at first going into her room, I looked her in the face, and said, why did you not come for your change out of the note? I knew her directly.</p>
+               <p>Cross examination.</p>
+               <p>Q. Had you ever seen Fitzgerald before they came on the 15th at night?</p>
+               <p>Willoughby. No, I had not.</p>
+               <p>Q. How long might they stay at your shop?</p>
+               <p>Willoughby. They might be there half an hour.</p>
+               <p>Q. Can you take upon you to swear she is the same person?</p>
+               <p>Willoughby. I can.</p>
+               <p>Q. Are you certain this is the same note here produced?</p>
+               <p>Willoughby. It is: I have had it in my custody ever since; only I left it at the Bank one day, and fetched it the next: I took particular notice of it when I left it there.</p>
+               <p>Q. Who took up Smith?</p>
+               <p>Willoughby. I did not; I left that to Sir 
+               <persName id="t17651211-51-person514">
+                  John 
+                  Fielding 
+               <interp inst="t17651211-51-person514" type="surname" value="Fielding"></interp>
+                     <interp inst="t17651211-51-person514" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person514" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17651211-51-person515">
+                  Susannah 
+                  Priggs 
+               <interp inst="t17651211-51-person515" type="surname" value="Priggs"></interp>
+                     <interp inst="t17651211-51-person515" type="given" value="Susannah"></interp>
+                     <interp inst="t17651211-51-person515" type="gender" value="female"></interp>
+                  </persName>
+            . I attend in the shop at Mr. Willoughby's: I remember the first time Smith came to our shop, there was a tall woman with her: we never knew what name she went by. She bought some silk and stuff for the tall woman, and paid for it: at the same time she admired some stuff that lay in the window, called missinet; it is silk and stuff. I think she bought 10 yards of it, for a gown for herself. After that she came to buy a yard more to make it up; and about a week after that, she came with the prisoner Fitzgerald: then she said she had brought another customer, because she admired her gown. I shewed her the missinet, she bought 11 yards of that, and afterwards 14 yards of crape: Smith sat down and shewed me her gown, and talked to me of her mantua-maker. Then she said to Fitzgerald, my dear, you have a bank note to change; Fitzgerald took it from her bosom, and as it was not accepted, she was to come for the rest of the money on the morrow. My uncle looked at it, and said it was not a bank note, but a bank post bill unaccepted; they both got up and looked at it; the prisoner said, she did not know there was any difference: he said he would go the next morning to the Bank, and get it accepted for her: and if she would call next day would give her the change. She went away very chearful; I did not see her again till she was taken up, when my uncle sent for me to the Hand and Slipper, a shoemaker's,<xptr type="pageFacsimile" doc="176512110038"></xptr> in Prince's-street; there were the prisoners, Bignal had his hands tied: I am very sure Fitzgerald is the prisoner that brought the note, my uncle bid me look at her face. I knew her again the minute I saw her, I asked her if she remembered me; she said she did not know any thing of me; they took her from her lodgings to an alehouse, there she said she had not been in Holborn a good while; that the last time she went to buy a bit of lace for a handkerchief, but that it was now worn out: she said before the Justice she knew nothing of it; when we were at Sir 
+               <persName id="t17651211-51-person516">
+                  John 
+                  Fielding 
+               <interp inst="t17651211-51-person516" type="surname" value="Fielding"></interp>
+                     <interp inst="t17651211-51-person516" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person516" type="gender" value="male"></interp>
+                  </persName>
+            's, he ordered his clerk to see what stockings she had on; he said white silk: she was ordered in a little closet, and I with her, to see what mark was on them; she took them off, and I carried them into the Justice, they were marked with a D.</p>
+               <p>Cross examination.</p>
+               <p>Q. Did you ever see Fitzgerald before the evening she came to your uncle's?</p>
+               <p>
+            
+                  <persName id="t17651211-51-person517">
+                  Susannah 
+                  Priggs 
+               <interp inst="t17651211-51-person517" type="surname" value="Priggs"></interp>
+                     <interp inst="t17651211-51-person517" type="given" value="Susannah"></interp>
+                     <interp inst="t17651211-51-person517" type="gender" value="female"></interp>
+                  </persName>
+            . Never in my life; she stared at me very much, and I looked a good deal at her: she had on a black hat, honeycombed round, lined with white, she had the same hat on when she was taken.</p>
+               <p>Q. What time of day was it she was at your shop?</p>
+               <p>S. Priggs. It was just at the dusk of the evening, candles were brought in directly, she was in our shop about half an hour.</p>
+               <p>Q. Do you take such notice of all your customers, that you can swear to them again.</p>
+               <p>S. Priggs. I took particular notice of her, and am certain she is the person.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person518">
+                  Elizabeth 
+                  Weston 
+               <interp inst="t17651211-51-person518" type="surname" value="Weston"></interp>
+                     <interp inst="t17651211-51-person518" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17651211-51-person518" type="gender" value="female"></interp>
+                  </persName>
+            . I am a mantua-maker, and live in Drury lane: the prisoner brought me this silk and stuff gown to make, (producing one.)</p>
+               <p>Willoughby. This gown is of the same sort of stuff that I sold; here is a piece of the same I have with me, which answers to it every way. I believe it to be the identical stuff, as it answers every way to the selvage, though there may be many pieces of this sort sold at other shops.</p>
+               <p>Weston. She brought it me on Wednesday, but I do not know the day of the month, I believe it was two days before she was taken up; it was rather before noon: there was nobody with her when she came, but before she went away Bignal came up for her; she did not stay above 2 or 3 minutes. I have worked for her several times before, she always paid me very justly.</p>
+               <p>Q. Do you know Smith?</p>
+               <p>Weston. No.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person519">
+                  Anne 
+                  Smith 
+               <interp inst="t17651211-51-person519" type="surname" value="Smith"></interp>
+                     <interp inst="t17651211-51-person519" type="given" value="Anne"></interp>
+                     <interp inst="t17651211-51-person519" type="gender" value="female"></interp>
+                  </persName>
+            . I live in the Strand.</p>
+               <p>Q. What are you?</p>
+               <p>A. Smith. I am a widow.</p>
+               <p>Q. Are you a housekeeper?</p>
+               <p>A. Smith. I am, I rent my house of Mr. Johnson of Clifford's-inn.</p>
+               <p>Q. What is your business?</p>
+               <p>A. Smith. I keep a house of lodgers, and live private: I do needle-work.</p>
+               <p>Q. How long have you lived there?</p>
+               <p>A. Smith. I have lived there near 2 years.</p>
+               <p>Q. Where did you live before?</p>
+               <p>A. Smith. I lived in lodgings before in Sea-coal-lane, I was a single woman then.</p>
+               <p>Q. Have you a husband?</p>
+               <p>A. Smith. My husband has been dead about 9 months.</p>
+               <p>Q. What trade was he?</p>
+               <p>A. Smith. He was a taylor; I have known Fitzgerald 9 years.</p>
+               <p>Q. Do you know Bignal?</p>
+               <p>A. Smith. No, I do not; I first became acquainted with her in Dublin, by being acquainted with her friends; I was born within 16 miles of Dublin.</p>
+               <p>Q. How long have you been in England?</p>
+               <p>A. Smith. I have been in England about 7 years.</p>
+               <p>Q. How long has she been here?</p>
+               <p>A. Smith. I cannot tell how long.</p>
+               <p>Q. How long ago since you saw her in London the first time?</p>
+               <p>A. Smith. I believe it is about 12 months ago; then I accidentally happened to meet her in the street. I cannot tell where she lived at that time: I have met her several times, and asked her how she did.</p>
+               <p>Q. Was you ever at her lodgings?</p>
+               <p>A. Smith. No, nor she at mine. When I called upon her, I happened to have a gown on that she took a liking to.</p>
+               <p>Q. When was this?</p>
+               <p>A. Smith. This may be better than 2 months ago; it was at a shoe-maker's shop in Prince's-street. I called upon a girl of my acquaintance in the same house; the gown I had on we call popplin; that is, silk and stuff: she asked me where I bought it; I said in Holborn. I had been two or three times at that house before; she said she should be obliged to me, if I would go and show her the shop, which I did.</p>
+               <p>Q. When was this?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176512110039"></xptr>A. Smith. Upon my word I cannot tell when it was; it was to Mr. Willoughby's shop: she bought two gowns there, one the same as mine, the other crape.</p>
+               <p>Q. Did she pay for it?</p>
+               <p>A. Smith. No, she did not; she gave a bank note, or bank bill: I can neither write nor read.</p>
+               <p>Q. Where did she take it from?</p>
+               <p>A. Smith. I cannot tell whether she took it out of her bosom or pocket: she told me she had a bill at the shop.</p>
+               <p>Q. Did she mention nothing of it before?</p>
+               <p>A. Smith. She said a very good friend had made her a present of it, and other little things: one that she had sleeped with at a bagnio: she left it at that shop.</p>
+               <p>Q. Where did you go after you went out of that shop?</p>
+               <p>A. Smith. We went and had a pint of beer, and parted at Turnstile, Holborn. I went home; she said to me, is this an honest man. I said, I hope he will take care, and not lose your note, for I know nothing of the gentleman, (this I said out of a joke.) I said you had better have a bill of the shop, so he gave her a bill.</p>
+               <p>Q. What time of the day was it that you parted?</p>
+               <p>A. Smith. It was about 6 o'clock.</p>
+               <p>Q. When did you see her afterwards?</p>
+               <p>A. Smith. I did not see her afterwards till I saw her here at the bar.</p>
+               <p>Q. When did you hear she was taken up?</p>
+               <p>A. Smith. I did not hear of that, till I was sent for to Sir 
+               <persName id="t17651211-51-person520">
+                  John 
+                  Fielding 
+               <interp inst="t17651211-51-person520" type="surname" value="Fielding"></interp>
+                     <interp inst="t17651211-51-person520" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person520" type="gender" value="male"></interp>
+                  </persName>
+            , then I was in Covent-garden buying some ribbons. When I went to Sir John, Fitzgerald was not there; this was one evening, about half an hour before dark: I told what I knew. Fitzgerald was then in custody.</p>
+               <p>Q. Who bailed you?</p>
+               <p>A. Smith. The gentleman of the shop, Mr. Frazer, where I was, bailed me.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person521">
+                  John 
+                  Noads 
+               <interp inst="t17651211-51-person521" type="surname" value="Noads"></interp>
+                     <interp inst="t17651211-51-person521" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person521" type="gender" value="male"></interp>
+                  </persName>
+            . I went with Mr. Willoughby and Mr. Marsden, and took Fitzgerald in custody.</p>
+               <p>Q. Did you see Smith?</p>
+               <p>Noads. No, I did not, Mr. Marsden said he must have her taken, and bid me inquire where she lived; this was two or three days afterwards.</p>
+               <p>Both <rs id="t17651211-51-verdict310" type="verdictDescription">
+                     <interp inst="t17651211-51-verdict310" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(M.) They were a second time indicted for <rs id="t17651211-51-off311" type="offenceDescription">
+                     <interp inst="t17651211-51-off311" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-51-off311" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one shagreen razor-case, value 1 s. 5 razors, value 2 s. one silver ladle, value 10 s. one watch-chain, value 1 s. one leather shoe, value  3 d. 
+            </rs> the property of 
+               <persName id="t17651211-51-person522">
+                  Lawrence 
+                  Doyle 
+               <interp inst="t17651211-51-person522" type="surname" value="Doyle"></interp>
+                     <interp inst="t17651211-51-person522" type="given" value="Lawrence"></interp>
+                     <interp inst="t17651211-51-person522" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17651211-51-cd312" type="crimeDate">29th of Novem</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-51-off306 t17651211-51-cd312"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-51-off311 t17651211-51-cd312"></join>towards Rose 14. * I was stopped</p>
+               <p>
+            
+                  <persName id="t17651211-51-person523">
+                  Lawrence 
+                  Doyle 
+               <interp inst="t17651211-51-person523" type="surname" value="Doyle"></interp>
+                     <interp inst="t17651211-51-person523" type="given" value="Lawrence"></interp>
+                     <interp inst="t17651211-51-person523" type="gender" value="male"></interp>
+                  </persName>
+            . I lost the things meied me to I the indictment, in my portmanteau, on tI was not of October, at the same time my post bity pocket lost. into a</p>
+               <p>
+            
+                  <persName id="t17651211-51-person524">
+                  Anne 
+                  Hussey 
+               <interp inst="t17651211-51-person524" type="surname" value="Hussey"></interp>
+                     <interp inst="t17651211-51-person524" type="given" value="Anne"></interp>
+                     <interp inst="t17651211-51-person524" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner Bignal, I think same  brought a bundle up into my room; he said he as wanted the mantua-maker; she was out, she lived in the next room: she being out, he left the bundle with me. On the Saturday following, an acquaintance came up. I said, a gentleman had left a bundle with me; she opened it, and a punchladle tumbled out. There were 2 tea-spoons, a pepper-castor, an odd shoe, and a seal.</p>
+               <p>Q. Are you sure Bignal is the man that brought the bundle?</p>
+               <p>A. Hussey. To the best of my remembrance he is the man, but one man's face may be like another. (The things produced in court, the prosecutor would not swear to them.)</p>
+               <p>
+            
+                  <persName id="t17651211-51-person525">
+                  William 
+                  Willoughby 
+               <interp inst="t17651211-51-person525" type="surname" value="Willoughby"></interp>
+                     <interp inst="t17651211-51-person525" type="given" value="William"></interp>
+                     <interp inst="t17651211-51-person525" type="gender" value="male"></interp>
+                  </persName>
+            . I was with Fitzgerald before Sir 
+               <persName id="t17651211-51-person526">
+                  John 
+                  Fielding 
+               <interp inst="t17651211-51-person526" type="surname" value="Fielding"></interp>
+                     <interp inst="t17651211-51-person526" type="given" value="John"></interp>
+                     <interp inst="t17651211-51-person526" type="gender" value="male"></interp>
+                  </persName>
+            , the prosecutor said he had lost stockings at the same time; my young woman was desired to go into another room, and take off Fitzgerald's stockings, which she did: the prosecutor then swore, that he made the mark upon them with his own hand. Fitzgerald said, she bought them of an old cloaths-woman in the street.</p>
+               <p>Bignal's defence.</p>
+               <p>I am quite innocent; I know nothing of the matter.</p>
+               <p>Fitzgerald's defence.</p>
+               <p>I bought the stockings that were taken off my legs, of an old cloaths woman in the street, and another pair with them.</p>
+               <p>For the prisoners.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person527">
+                  Robert 
+                  Hornsby 
+               <interp inst="t17651211-51-person527" type="surname" value="Hornsby"></interp>
+                     <interp inst="t17651211-51-person527" type="given" value="Robert"></interp>
+                     <interp inst="t17651211-51-person527" type="gender" value="male"></interp>
+                  </persName>
+            . I am a silk-weaver, and live in Golden lane, at the Red Lion and Lamb. I have known Fitzgerald from a child, in Ireland; she came of honest parents, I never heard any thing amiss of her character. I know Bignal, he is a <rs id="t17651211-51-deflabel313" type="occupation">dyer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-51-defend502 t17651211-51-deflabel313"></join>, and served his time to a freeman of the city of Dublin; I have been told he worked at his trade in London.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person528">
+                  Philip 
+                  Matthews 
+               <interp inst="t17651211-51-person528" type="surname" value="Matthews"></interp>
+                     <interp inst="t17651211-51-person528" type="given" value="Philip"></interp>
+                     <interp inst="t17651211-51-person528" type="gender" value="male"></interp>
+                  </persName>
+            . I knew Fitzgerald in Dublin, and have seen her several times since she came here; I know nothing farther of her than she used to bear a good character.</p>
+               <p>
+            
+                  <persName id="t17651211-51-person529">
+                  Theophilus
+                   M'Mahone
+               <interp inst="t17651211-51-person529" type="surname" value="M'Mahone"></interp>
+                     <interp inst="t17651211-51-person529" type="given" value="Theophilus"></interp>
+                     <interp inst="t17651211-51-person529" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Fitzgerald 6 years, she always bore a good character.</p>
+               <p>Both <rs id="t17651211-51-verdict314" type="verdictDescription">
+                     <interp inst="t17651211-51-verdict314" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

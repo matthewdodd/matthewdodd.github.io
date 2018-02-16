@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17661217-67">
+               <interp inst="t17661217-67" type="collection" value="BAILEY"></interp>
+               <interp inst="t17661217-67" type="year" value="1766"></interp>
+               <interp inst="t17661217-67" type="uri" value="sessionsPapers/17661217"></interp>
+               <interp inst="t17661217-67" type="date" value="17661217"></interp>
+               <join result="criminalCharge" id="t17661217-67-off349-c578" targOrder="Y" targets="t17661217-67-defend727 t17661217-67-off349 t17661217-67-verdict354"></join>
+         
+               <p>81. 
+               
+                  <persName id="t17661217-67-defend727" type="defendantName">
+                     Susanna 
+                     Clayton 
+                  <interp inst="t17661217-67-defend727" type="surname" value="Clayton"></interp>
+                     <interp inst="t17661217-67-defend727" type="given" value="Susanna"></interp>
+                     <interp inst="t17661217-67-defend727" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17661217-67-deflabel348" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17661217-67-defend727 t17661217-67-deflabel348"></join>, was indicted for <rs id="t17661217-67-off349" type="offenceDescription">
+                     <interp inst="t17661217-67-off349" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17661217-67-off349" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a linen apron, a gauze handkerchief, a pair of stockings, a pair of leather shoes, a guinea, two quarter guineas, and 15 s. in money numbered
+            </rs>, the property of 
+               
+                  <persName id="t17661217-67-victim729" type="victimName">
+                     James 
+                     Davis 
+                  <interp inst="t17661217-67-victim729" type="surname" value="Davis"></interp>
+                     <interp inst="t17661217-67-victim729" type="given" value="James"></interp>
+                     <interp inst="t17661217-67-victim729" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17661217-67-off349 t17661217-67-victim729"></join>
+                  </persName>
+                
+            , <rs id="t17661217-67-cd350" type="crimeDate">Oct. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17661217-67-off349 t17661217-67-cd350"></join>. ++</p>
+               <p>J. Davis. I <rs id="t17661217-67-viclabel351" type="occupation">keep a public-house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17661217-67-victim729 t17661217-67-viclabel351"></join> on <placeName id="t17661217-67-crimeloc352">Addle-hill</placeName>
+                  <interp inst="t17661217-67-crimeloc352" type="placeName" value="Addle-hill"></interp>
+                  <interp inst="t17661217-67-crimeloc352" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17661217-67-off349 t17661217-67-crimeloc352"></join>; the prisoner lived <rs id="t17661217-67-deflabel353" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17661217-67-defend727 t17661217-67-deflabel353"></join> with me 5 weeks; she ran away about the beginning of Oct. after she was gone we missed some things; about the 5th of November she came into the neighbourhood, and sent a woman from a public house to me; she cried, and said, do you know what you have lost; she said she went into the two pair of stairs room, and took a key that opens my mother's drawers and my drawers, and she took out two crown pieces, two half crowns, and 2 s. 6 d. in money, out of one drawer, and a guinea and two quarter guineas out of another drawer, and a cheque apron; she was desirous to be taken up, and said she had been set on by three people; they were taken up, and nothing appeared against them; they were discharged.</p>
+               <p>Q. How old is the prisoner?</p>
+               <p>Davis. She is about twenty years of age.</p>
+               <p>Q. Did you promise her any favour on condition of her confessing this?</p>
+               <p>Davis. No, I did not; I did not desire to see her; I was in hopes I should not have seen her, or heard of her more.</p>
+               <p>
+            
+                  <persName id="t17661217-67-person730">
+                  Thomas 
+                  White 
+               <interp inst="t17661217-67-person730" type="surname" value="White"></interp>
+                     <interp inst="t17661217-67-person730" type="given" value="Thomas"></interp>
+                     <interp inst="t17661217-67-person730" type="gender" value="male"></interp>
+                  </persName>
+            . I went with the prosecutor on the 7th of October; when the prisoner was before the Alderman, I heard her confess she went to his drawers, and could have taken an hundred pounds, and that she took a guinea from one drawer, and the other money from the other.</p>
+               <p>Prisoner's defence.</p>
+               <p>I own I have been in a fault; my master said if I would confess, he would not hurt a hair of my head.</p>
+               <p>For the prisoner.</p>
+               <p>Mr. Southgate. I am a painter, and live in White-hart-yard, Drury-lane; I have so good an opinion of the prisoner, I will take her into my service if the court will shew her favour.</p>
+               <p>
+                  <rs id="t17661217-67-verdict354" type="verdictDescription">
+                     <interp inst="t17661217-67-verdict354" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17661217-67-punish355" type="punishmentDescription">
+                     <interp inst="t17661217-67-punish355" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17661217-67-punish355" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17661217-67-defend727 t17661217-67-punish355"></join>
+               B
+            </rs>.</p>
+            </div1>

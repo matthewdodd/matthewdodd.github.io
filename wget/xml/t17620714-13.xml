@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620714-13">
+               <interp inst="t17620714-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620714-13" type="year" value="1762"></interp>
+               <interp inst="t17620714-13" type="uri" value="sessionsPapers/17620714"></interp>
+               <interp inst="t17620714-13" type="date" value="17620714"></interp>
+               <join result="criminalCharge" id="t17620714-13-off54-c84" targOrder="Y" targets="t17620714-13-defend107 t17620714-13-off54 t17620714-13-verdict57"></join>
+         
+               <p>188. (L.) 
+               
+                  <persName id="t17620714-13-defend107" type="defendantName">
+                     William 
+                     Thorne 
+                  <interp inst="t17620714-13-defend107" type="surname" value="Thorne"></interp>
+                     <interp inst="t17620714-13-defend107" type="given" value="William"></interp>
+                     <interp inst="t17620714-13-defend107" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17620714-13-off54" type="offenceDescription">
+                     <interp inst="t17620714-13-off54" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620714-13-off54" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one jack plane, value one shilling, and one oil stone
+            </rs>, the property of 
+               
+                  <persName id="t17620714-13-victim109" type="victimName">
+                     William 
+                     Bowdler 
+                  <interp inst="t17620714-13-victim109" type="surname" value="Bowdler"></interp>
+                     <interp inst="t17620714-13-victim109" type="given" value="William"></interp>
+                     <interp inst="t17620714-13-victim109" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17620714-13-off54 t17620714-13-victim109"></join>
+                  </persName>
+                
+            , <rs id="t17620714-13-cd55" type="crimeDate">June 7th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620714-13-off54 t17620714-13-cd55"></join> ++.</p>
+               <p>William Bowdler. I am a<rs id="t17620714-13-viclabel56" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17620714-13-victim109 t17620714-13-viclabel56"></join>. The prisoner came into my shop, and took out a jack plane and an oil stone, about one o'clock at noon. My next door neighbour told me the prisoner had taken something out of my shop. I live near the Cock in the Corner. I ran after him up the Old Bailey, and near Surgeons Hall I took him, and found them both upon him. I carried him before the sitting alderman. He said he asked one of the men for them as he knew. I had no man at home at that time.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was going there, and met a carpenter; I asked him to lend me a plane and oil stone. He told me to take them, but bring them home at night. The man's name that I met is 
+               <persName id="t17620714-13-person110">
+                  William 
+                  Newman 
+               <interp inst="t17620714-13-person110" type="surname" value="Newman"></interp>
+                     <interp inst="t17620714-13-person110" type="given" value="William"></interp>
+                     <interp inst="t17620714-13-person110" type="gender" value="male"></interp>
+                  </persName>
+            : he told me he was at work there.</p>
+               <p>
+                  <rs id="t17620714-13-verdict57" type="verdictDescription">
+                     <interp inst="t17620714-13-verdict57" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17620714-13-verdict57" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17620714-13-punish58" type="punishmentDescription">
+                     <interp inst="t17620714-13-punish58" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17620714-13-defend107 t17620714-13-punish58"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

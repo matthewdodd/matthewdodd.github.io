@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-18">
+               <interp inst="t17680224-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-18" type="year" value="1768"></interp>
+               <interp inst="t17680224-18" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-18" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-18-off106-c158" targOrder="Y" targets="t17680224-18-defend196 t17680224-18-off106 t17680224-18-verdict109"></join>
+         
+               <p>174. (M.) 
+               
+                  <persName id="t17680224-18-defend196" type="defendantName">
+                     William 
+                     Robinson 
+                  <interp inst="t17680224-18-defend196" type="surname" value="Robinson"></interp>
+                     <interp inst="t17680224-18-defend196" type="given" value="William"></interp>
+                     <interp inst="t17680224-18-defend196" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17680224-18-off106" type="offenceDescription">
+                     <interp inst="t17680224-18-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680224-18-off106" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silk handkerchief, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17680224-18-victim198" type="victimName">
+                     Thomas 
+                     Mulliner 
+                  <interp inst="t17680224-18-victim198" type="surname" value="Mulliner"></interp>
+                     <interp inst="t17680224-18-victim198" type="given" value="Thomas"></interp>
+                     <interp inst="t17680224-18-victim198" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680224-18-off106 t17680224-18-victim198"></join>
+                  </persName>
+               
+            , <rs id="t17680224-18-cd107" type="crimeDate">Feb. 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-18-off106 t17680224-18-cd107"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680224-18-person199">
+                  Thomas 
+                  Mulliner 
+               <interp inst="t17680224-18-person199" type="surname" value="Mulliner"></interp>
+                     <interp inst="t17680224-18-person199" type="given" value="Thomas"></interp>
+                     <interp inst="t17680224-18-person199" type="gender" value="male"></interp>
+                  </persName>
+            . On the 2d of this instant I was walking down <placeName id="t17680224-18-crimeloc108">Holbourn opposite Staple's-inn</placeName>
+                  <interp inst="t17680224-18-crimeloc108" type="placeName" value="Holbourn opposite Staple's-inn"></interp>
+                  <interp inst="t17680224-18-crimeloc108" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680224-18-off106 t17680224-18-crimeloc108"></join>, I thought I felt my handkerchief drawing out of my pocket; I turned round and saw the prisoner, and said, you rascal, you have got my handkerchief; he ran away, and when he was got about four or five yards from me, he dropped my handkerchief; I took it up, and called, stop thief; he was taken in Gray's-inn-lane.</p>
+               <p>Prisoner's defence.</p>
+               <p>I saw a young man pick the gentleman's pocket; he threw it down, and I picked it up; the lad ran through Staple's-inn; when he said I had picked his pocket, it frighted me so, that I threw it down and ran away.</p>
+               <p>
+                  <rs id="t17680224-18-verdict109" type="verdictDescription">
+                     <interp inst="t17680224-18-verdict109" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680224-18-punish110" type="punishmentDescription">
+                     <interp inst="t17680224-18-punish110" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680224-18-defend196 t17680224-18-punish110"></join>
+               T
+            </rs>.</p>
+            </div1>

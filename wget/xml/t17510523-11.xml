@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510523-11">
+               <interp inst="t17510523-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510523-11" type="year" value="1751"></interp>
+               <interp inst="t17510523-11" type="uri" value="sessionsPapers/17510523"></interp>
+               <interp inst="t17510523-11" type="date" value="17510523"></interp>
+               <join result="criminalCharge" id="t17510523-11-off61-c74" targOrder="Y" targets="t17510523-11-defend95 t17510523-11-off61 t17510523-11-verdict64"></join>
+         
+               <p>361. (L.) 
+               
+                  <persName id="t17510523-11-defend95" type="defendantName">
+                     William 
+                     Stretton 
+                  <interp inst="t17510523-11-defend95" type="surname" value="Stretton"></interp>
+                     <interp inst="t17510523-11-defend95" type="given" value="William"></interp>
+                     <interp inst="t17510523-11-defend95" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510523-11-off61" type="offenceDescription">
+                     <interp inst="t17510523-11-off61" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510523-11-off61" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silk handkerchief, value 1 s.
+            </rs> the property of 
+               
+                  <persName id="t17510523-11-victim97" type="victimName">
+                     Thomas 
+                     Smallwood 
+                  <interp inst="t17510523-11-victim97" type="surname" value="Smallwood"></interp>
+                     <interp inst="t17510523-11-victim97" type="given" value="Thomas"></interp>
+                     <interp inst="t17510523-11-victim97" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510523-11-off61 t17510523-11-victim97"></join>
+                  </persName>
+                
+            , <rs id="t17510523-11-cd62" type="crimeDate">May 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510523-11-off61 t17510523-11-cd62"></join>. +</p>
+               <p>
+            
+                  <persName id="t17510523-11-person98">
+                  Thomas 
+                  Smallwood 
+               <interp inst="t17510523-11-person98" type="surname" value="Smallwood"></interp>
+                     <interp inst="t17510523-11-person98" type="given" value="Thomas"></interp>
+                     <interp inst="t17510523-11-person98" type="gender" value="male"></interp>
+                  </persName>
+            . On Monday the 6th of May, coming through <placeName id="t17510523-11-crimeloc63">Aldgate</placeName>
+                  <interp inst="t17510523-11-crimeloc63" type="placeName" value="Aldgate"></interp>
+                  <interp inst="t17510523-11-crimeloc63" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510523-11-off61 t17510523-11-crimeloc63"></join>, I miss'd my handkerchief out of my pocket. The prisoner was close to me. When I challeng'd him with taking it, I perceiv'd him sumbling behind him: he had a surtout coat on, which had a belt to it that button'd before, in which he had lodg'd the handkerchief. The handkerchief was produc'd in court and depos'd to.</p>
+               <p>Prisoner's Defence.</p>
+               <p>As I was coming from Whitechapel to the Bull and Gate in Holborn, a fellow gave this handkerchief to me passing through Aldgate. I never saw<xptr type="pageFacsimile" doc="175105230007"></xptr> him in my life before. The gentleman said it was his handkerchief.</p>
+               <p>
+                  <rs id="t17510523-11-verdict64" type="verdictDescription">
+                     <interp inst="t17510523-11-verdict64" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17510523-11-punish65" type="punishmentDescription">
+                     <interp inst="t17510523-11-punish65" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510523-11-defend95 t17510523-11-punish65"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

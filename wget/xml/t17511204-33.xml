@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17511204-33">
+               <interp inst="t17511204-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17511204-33" type="year" value="1751"></interp>
+               <interp inst="t17511204-33" type="uri" value="sessionsPapers/17511204"></interp>
+               <interp inst="t17511204-33" type="date" value="17511204"></interp>
+               <join result="criminalCharge" id="t17511204-33-off199-c257" targOrder="Y" targets="t17511204-33-defend325 t17511204-33-off199 t17511204-33-verdict202"></join>
+         
+               <p>40. 
+               
+                  <persName id="t17511204-33-defend325" type="defendantName">
+                     Edward 
+                     Dudley 
+                  <interp inst="t17511204-33-defend325" type="surname" value="Dudley"></interp>
+                     <interp inst="t17511204-33-defend325" type="given" value="Edward"></interp>
+                     <interp inst="t17511204-33-defend325" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17511204-33-off199" type="offenceDescription">
+                     <interp inst="t17511204-33-off199" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17511204-33-off199" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one feather bed, value 20 s. one sattin bag, value 1 s.
+            </rs> the goods of <rs id="t17511204-33-viclabel200" type="occupation">Sir</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-33-victim327 t17511204-33-viclabel200"></join> 
+            
+               
+                  <persName id="t17511204-33-victim327" type="victimName">
+                     Samuel 
+                     Gore 
+                  <interp inst="t17511204-33-victim327" type="surname" value="Gore"></interp>
+                     <interp inst="t17511204-33-victim327" type="given" value="Samuel"></interp>
+                     <interp inst="t17511204-33-victim327" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17511204-33-off199 t17511204-33-victim327"></join>
+                  </persName>
+                
+            , <rs id="t17511204-33-viclabel201" type="occupation">Knt.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-33-victim327 t17511204-33-viclabel201"></join> No evidence appeared.</p>
+               <p>
+                  <rs id="t17511204-33-verdict202" type="verdictDescription">
+                     <interp inst="t17511204-33-verdict202" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17511204-33-verdict202" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

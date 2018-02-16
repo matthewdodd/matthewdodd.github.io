@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640222-32">
+               <interp inst="t17640222-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640222-32" type="year" value="1764"></interp>
+               <interp inst="t17640222-32" type="uri" value="sessionsPapers/17640222"></interp>
+               <interp inst="t17640222-32" type="date" value="17640222"></interp>
+               <join result="criminalCharge" id="t17640222-32-off169-c186" targOrder="Y" targets="t17640222-32-defend252 t17640222-32-off169 t17640222-32-verdict173"></join>
+         
+               <p>162. (L.) 
+               
+                  <persName id="t17640222-32-defend252" type="defendantName">
+                     Thomas 
+                     King 
+                  <interp inst="t17640222-32-defend252" type="surname" value="King"></interp>
+                     <interp inst="t17640222-32-defend252" type="given" value="Thomas"></interp>
+                     <interp inst="t17640222-32-defend252" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640222-32-off169" type="offenceDescription">
+                     <interp inst="t17640222-32-off169" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640222-32-off169" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 50 lb, weight of copper ore, value 40 s.
+            </rs> the property of 
+               
+                  <persName id="t17640222-32-victim254" type="victimName">
+                     Edward 
+                     Hore 
+                  <interp inst="t17640222-32-victim254" type="surname" value="Hore"></interp>
+                     <interp inst="t17640222-32-victim254" type="given" value="Edward"></interp>
+                     <interp inst="t17640222-32-victim254" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640222-32-off169 t17640222-32-victim254"></join>
+                  </persName>
+                
+            , <rs id="t17640222-32-cd170" type="crimeDate">January 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640222-32-off169 t17640222-32-cd170"></join>. +</p>
+               <p>
+            
+                  <persName id="t17640222-32-person255">
+                  Edward 
+                  Hore 
+               <interp inst="t17640222-32-person255" type="surname" value="Hore"></interp>
+                     <interp inst="t17640222-32-person255" type="given" value="Edward"></interp>
+                     <interp inst="t17640222-32-person255" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17640222-32-viclabel171" type="occupation">wharfinger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640222-32-victim254 t17640222-32-viclabel171"></join> at the Hermitage. I lost three pigs or cakes of copper ore from <placeName id="t17640222-32-crimeloc172">Ralph's key</placeName>
+                  <interp inst="t17640222-32-crimeloc172" type="placeName" value="Ralph's key"></interp>
+                  <interp inst="t17640222-32-crimeloc172" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640222-32-off169 t17640222-32-crimeloc172"></join>, which was imported from Spain; there were 60, from 200 weight to 25 lb. weight; I don't know who took them; I believe I lost them about the 20th of January.</p>
+               <p>
+            
+                  <persName id="t17640222-32-person256">
+                  John 
+                  Eason 
+               <interp inst="t17640222-32-person256" type="surname" value="Eason"></interp>
+                     <interp inst="t17640222-32-person256" type="given" value="John"></interp>
+                     <interp inst="t17640222-32-person256" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable. Between 6 and 7 o'clock, on the 24th of January, I was sent for to take charge of the prisoner at the bar for stealing a pig of copper ore; I took him to the counter; I asked him how he came to be so foolish to go to take this copper ore; he hesitated a little while, and at last said he took it for want; says I there must be two or three concerned with you in taking so much away, being told there were two or three more pigs missing; he made little or no answer; he was a labouring man upon the keys; I never saw him but once before in my life.</p>
+               <p>
+            
+                  <persName id="t17640222-32-person257">
+                  Thomas 
+                  Sparrow 
+               <interp inst="t17640222-32-person257" type="surname" value="Sparrow"></interp>
+                     <interp inst="t17640222-32-person257" type="given" value="Thomas"></interp>
+                     <interp inst="t17640222-32-person257" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the prisoner bring the pig of copper ore out of the gateway, and throw it down where the rest of the copper ore lay; the gates were shut that he could not get out, I imagine was the reason he brought it back again.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I work on the key. I was coming along about dusk; I saw a man run up one of the gateways; he dropt something; I went to see what it was, and found it to be a piece of copper; I took it up, and put it down where the rest of the pigs were lying. I am but lately come from the East-Indies in a king's ship, and have no friends to speak for me.</p>
+               <p>
+                  <rs id="t17640222-32-verdict173" type="verdictDescription">
+                     <interp inst="t17640222-32-verdict173" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

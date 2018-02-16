@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880425-22">
+               <interp inst="t16880425-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880425-22" type="year" value="1688"></interp>
+               <interp inst="t16880425-22" type="uri" value="sessionsPapers/16880425"></interp>
+               <interp inst="t16880425-22" type="date" value="16880425"></interp>
+               <join result="criminalCharge" id="t16880425-22-off106-c84" targOrder="Y" targets="t16880425-22-defend125 t16880425-22-off106 t16880425-22-verdict107"></join>
+               <join result="criminalCharge" id="t16880425-22-off106-c85" targOrder="Y" targets="t16880425-22-defend126 t16880425-22-off106 t16880425-22-verdict107"></join>
+               <join result="criminalCharge" id="t16880425-22-off106-c86" targOrder="Y" targets="t16880425-22-defend127 t16880425-22-off106 t16880425-22-verdict107"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16880425003"></xptr>
+            
+                  <persName id="t16880425-22-defend125" type="defendantName">
+                  
+                     <persName id="t16880425-22-defend126" type="defendantName">
+                        John 
+                        Bisby
+                     <interp inst="t16880425-22-defend126" type="surname" value="Bisby"></interp>
+                        <interp inst="t16880425-22-defend126" type="given" value="John"></interp>
+                        <interp inst="t16880425-22-defend126" type="gender" value="male"></interp>
+                     </persName>
+                   and Sarah his <rs id="t16880425-22-deflabel105" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16880425-22-defend125 t16880425-22-deflabel105"></join>
+                     <interp inst="t16880425-22-defend125" type="surname" value="Bisby"></interp>
+                     <interp inst="t16880425-22-defend125" type="given" value="Sarah"></interp>
+                     <interp inst="t16880425-22-defend125" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16880425-22-defend127" type="defendantName">
+                  Lettuce 
+                  Fynch
+               <interp inst="t16880425-22-defend127" type="surname" value="Fynch"></interp>
+                     <interp inst="t16880425-22-defend127" type="given" value="Lettuce"></interp>
+                     <interp inst="t16880425-22-defend127" type="gender" value="female"></interp>
+                  </persName>
+            , e indicted for <rs id="t16880425-22-off106" type="offenceDescription">
+                     <interp inst="t16880425-22-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880425-22-off106" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16880425-22-victim128" type="victimName">
+                        Marmaduke 
+                        Jenkenson
+                     <interp inst="t16880425-22-victim128" type="surname" value="Jenkenson"></interp>
+                        <interp inst="t16880425-22-victim128" type="given" value="Marmaduke"></interp>
+                        <interp inst="t16880425-22-victim128" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880425-22-off106 t16880425-22-victim128"></join>
+                     </persName>
+                  , canvas Bag and 5 l. 10 s. in Mony numbred
+            </rs>; but Evidence not being positive to charge the taking y of the Mony upon any of the Prisoners, but on- circumstantial, they were all three brought in <rs id="t16880425-22-verdict107" type="verdictDescription">
+                     <interp inst="t16880425-22-verdict107" type="verdictCategory" value="notGuilty"></interp>
+               not Guilty
+            </rs>.</p>
+            </div1>

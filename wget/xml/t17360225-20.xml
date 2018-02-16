@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-20">
+               <interp inst="t17360225-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-20" type="year" value="1736"></interp>
+               <interp inst="t17360225-20" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-20" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-20-off125-c108" targOrder="Y" targets="t17360225-20-defend148 t17360225-20-off125 t17360225-20-verdict127"></join>
+         
+               <p>26. 
+               
+                  <persName id="t17360225-20-defend148" type="defendantName">
+                     John 
+                     Eagle 
+                  <interp inst="t17360225-20-defend148" type="surname" value="Eagle"></interp>
+                     <interp inst="t17360225-20-defend148" type="given" value="John"></interp>
+                     <interp inst="t17360225-20-defend148" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of Stepney was indicted for <rs id="t17360225-20-off125" type="offenceDescription">
+                     <interp inst="t17360225-20-off125" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-20-off125" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 17 Silver Buttons, value 30 s. and one pair of Silver Knee-buckles value 6 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360225-20-victim150" type="victimName">
+                     John 
+                     Baskerville 
+                  <interp inst="t17360225-20-victim150" type="surname" value="Baskerville"></interp>
+                     <interp inst="t17360225-20-victim150" type="given" value="John"></interp>
+                     <interp inst="t17360225-20-victim150" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-20-off125 t17360225-20-victim150"></join>
+                  </persName>
+                
+            , the <rs id="t17360225-20-cd126" type="crimeDate">21st of November</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-20-off125 t17360225-20-cd126"></join> last.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173602250012"></xptr>John Baskerville. At the Queen's Head in Ratcliff Hamlet, in White-horse-street, the Prisoner and I lay together; there was 3 of us in all; I lay in the middle. The Buttons were on my Cloaths when I went to Bed, and the Buckles in my Breeches; when I waked in the Morning. the Prisoner was gone and all the Buttons cut off my Cloaths. I had laid my Cloaths on a Chair close to that side of the Bed on which he lay. When he was before the Justice he said he went away from us in the Morning before we were up, because he had no Money to pay his Reckoning: But when his Mittimus was made, and he was going to Prison, he said if I would discharge him, he would work his Finger-nails off to make me amends.</p>
+               <p>
+            
+                  <persName id="t17360225-20-person151">
+                  Edward 
+                  Watkins 
+               <interp inst="t17360225-20-person151" type="surname" value="Watkins"></interp>
+                     <interp inst="t17360225-20-person151" type="given" value="Edward"></interp>
+                     <interp inst="t17360225-20-person151" type="gender" value="male"></interp>
+                  </persName>
+            . The Prosecutor's Buttons were on his Cloaths, when we went to Bed. In the Morning the Prisoner was gone and the Prosecutor's Buttons were cut off his Cloaths. I can't say the Prisoner committed the Fact, but I can safely say, I did not meddle with them. There was no one in the House but the Land-lord and his Wife, and us 3 who lay in one Bed.</p>
+               <p>
+            
+                  <persName id="t17360225-20-person152">
+                  James 
+                  Odey 
+               <interp inst="t17360225-20-person152" type="surname" value="Odey"></interp>
+                     <interp inst="t17360225-20-person152" type="given" value="James"></interp>
+                     <interp inst="t17360225-20-person152" type="gender" value="male"></interp>
+                  </persName>
+            . I am the Landlord; I saw the Buttons on the Prosecutor's Frock when he went to Bed: In the Morning between 4 and 5 my Wife heard some body go down Stairs, and call'd three Times who's there; but no one answer'd. About 5 I went to work and found the Door open; I call'd up my Wife, Love says I, I don't like this; the Door is open: There was only ourselves and these 3 Men in the House.</p>
+               <p>
+            
+                  <persName id="t17360225-20-person153">
+                  James 
+                  Smith 
+               <interp inst="t17360225-20-person153" type="surname" value="Smith"></interp>
+                     <interp inst="t17360225-20-person153" type="given" value="James"></interp>
+                     <interp inst="t17360225-20-person153" type="gender" value="male"></interp>
+                  </persName>
+            . I was at work at Mr. Laytons at Redriffe, and saw the Prisoner come into the Yard: Suspecting him to be the Man, I asked him if he had not lodged at the Queen's-Head: He bid me take care what I did; but afterwards he own'd he was the Man. <rs id="t17360225-20-verdict127" type="verdictDescription">
+                     <interp inst="t17360225-20-verdict127" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-20-verdict127" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-20-punish128" type="punishmentDescription">
+                     <interp inst="t17360225-20-punish128" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-20-defend148 t17360225-20-punish128"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

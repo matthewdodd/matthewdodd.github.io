@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350116-12">
+               <interp inst="t17350116-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350116-12" type="year" value="1735"></interp>
+               <interp inst="t17350116-12" type="uri" value="sessionsPapers/17350116"></interp>
+               <interp inst="t17350116-12" type="date" value="17350116"></interp>
+               <join result="criminalCharge" id="t17350116-12-off50-c73" targOrder="Y" targets="t17350116-12-defend94 t17350116-12-off50 t17350116-12-verdict54"></join>
+         
+               <p>12. 
+               
+                  <persName id="t17350116-12-defend94" type="defendantName">
+                     Mary 
+                     Perrin 
+                  <interp inst="t17350116-12-defend94" type="surname" value="Perrin"></interp>
+                     <interp inst="t17350116-12-defend94" type="given" value="Mary"></interp>
+                     <interp inst="t17350116-12-defend94" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350116-12-off50" type="offenceDescription">
+                     <interp inst="t17350116-12-off50" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350116-12-off50" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 1 Gold Ring with four Rose Diamonds, value 10 l. 1 Gold Ring with 3 Diamonds, value 10 l. A Bank Note for 40 l. payable to 
+                     <persName id="t17350116-12-person95">
+                        William 
+                        Bristow 
+                     <interp inst="t17350116-12-person95" type="surname" value="Bristow"></interp>
+                        <interp inst="t17350116-12-person95" type="given" value="William"></interp>
+                        <interp inst="t17350116-12-person95" type="gender" value="male"></interp>
+                     </persName>
+                  , 6 Portugal Pieces of Gold, value 21 l. 12 s. 12 Moidores and 20 Guineas
+            </rs>; the Goods and Money of the Hon. 
+               
+                  <persName id="t17350116-12-victim97" type="victimName">
+                     Henry 
+                     Windsor 
+                  <interp inst="t17350116-12-victim97" type="surname" value="Windsor"></interp>
+                     <interp inst="t17350116-12-victim97" type="given" value="Henry"></interp>
+                     <interp inst="t17350116-12-victim97" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350116-12-off50 t17350116-12-victim97"></join>
+                  </persName>
+                
+            , <rs id="t17350116-12-viclabel51" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350116-12-victim97 t17350116-12-viclabel51"></join>; <rs id="t17350116-12-cd52" type="crimeDate">December 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350116-12-off50 t17350116-12-cd52"></join>.</p>
+               <p>Mrs. 
+               <persName id="t17350116-12-person98">
+                  Ephraim 
+                  Windsor 
+               <interp inst="t17350116-12-person98" type="surname" value="Windsor"></interp>
+                     <interp inst="t17350116-12-person98" type="given" value="Ephraim"></interp>
+                     <interp inst="t17350116-12-person98" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner was my <rs id="t17350116-12-deflabel53" type="occupation">Chambermaid</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350116-12-defend94 t17350116-12-deflabel53"></join>, she left my House about the 12th of December in the Morning, without giving me any notice. The same<xptr type="pageFacsimile" doc="173501160006"></xptr> Day I mist the goods - And she was taken in the Hundreds of Essex.</p>
+               <p>
+            
+                  <persName id="t17350116-12-person99">
+                  James 
+                  Chevalier 
+               <interp inst="t17350116-12-person99" type="surname" value="Chevalier"></interp>
+                     <interp inst="t17350116-12-person99" type="given" value="James"></interp>
+                     <interp inst="t17350116-12-person99" type="gender" value="male"></interp>
+                  </persName>
+            . On the 13th of December, by Madam Windsor's Order, I went to search for the Prisoner in Essex, where she was well known at her Father's House, but he said he had not seen her for a 12 Month. At last I met with her at Rochford, and upon farther Enquiry, part of the Goods and Money were found, and she confest that she took them, but had no Thought of so doing till she was put upon it by another Person.</p>
+               <p>The Jury found her <rs id="t17350116-12-verdict54" type="verdictDescription">
+                     <interp inst="t17350116-12-verdict54" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17350116-12-punish55" type="punishmentDescription">
+                     <interp inst="t17350116-12-punish55" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350116-12-defend94 t17350116-12-punish55"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

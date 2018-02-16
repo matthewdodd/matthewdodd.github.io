@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920629-13">
+               <interp inst="t16920629-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920629-13" type="year" value="1692"></interp>
+               <interp inst="t16920629-13" type="uri" value="sessionsPapers/16920629"></interp>
+               <interp inst="t16920629-13" type="date" value="16920629"></interp>
+               <join result="criminalCharge" id="t16920629-13-off74-c54" targOrder="Y" targets="t16920629-13-defend54 t16920629-13-off74 t16920629-13-verdict78"></join>
+               <join result="criminalCharge" id="t16920629-13-off74-c55" targOrder="Y" targets="t16920629-13-defend55 t16920629-13-off74 t16920629-13-verdict78"></join>
+               <join result="criminalCharge" id="t16920629-13-off74-c56" targOrder="Y" targets="t16920629-13-defend56 t16920629-13-off74 t16920629-13-verdict78"></join>
+         
+               <p>
+            
+                  <persName id="t16920629-13-defend54" type="defendantName">
+                  Michael 
+                  Hall
+               <interp inst="t16920629-13-defend54" type="surname" value="Hall"></interp>
+                     <interp inst="t16920629-13-defend54" type="given" value="Michael"></interp>
+                     <interp inst="t16920629-13-defend54" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16920629-13-defend55" type="defendantName">
+                  Walter 
+                  Stephens
+               <interp inst="t16920629-13-defend55" type="surname" value="Stephens"></interp>
+                     <interp inst="t16920629-13-defend55" type="given" value="Walter"></interp>
+                     <interp inst="t16920629-13-defend55" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16920629-13-defend56" type="defendantName">
+                  Richard 
+                  Starr
+               <interp inst="t16920629-13-defend56" type="surname" value="Starr"></interp>
+                     <interp inst="t16920629-13-defend56" type="given" value="Richard"></interp>
+                     <interp inst="t16920629-13-defend56" type="gender" value="male"></interp>
+                  </persName>
+            , were all Indicted for <rs id="t16920629-13-off74" type="offenceDescription">
+                     <interp inst="t16920629-13-off74" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920629-13-off74" type="offenceSubcategory" value="burglary"></interp>
+               Felony and Burglary, committed in the House of one <rs id="t16920629-13-viclabel75" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16920629-13-victim57 t16920629-13-viclabel75"></join> 
+                  
+                     <persName id="t16920629-13-victim57" type="victimName">
+                        William 
+                        Monke
+                     <interp inst="t16920629-13-victim57" type="surname" value="Monke"></interp>
+                        <interp inst="t16920629-13-victim57" type="given" value="William"></interp>
+                        <interp inst="t16920629-13-victim57" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920629-13-off74 t16920629-13-victim57"></join>
+                     </persName>
+                   in <placeName id="t16920629-13-crimeloc76">Grub-street</placeName>
+                     <interp inst="t16920629-13-crimeloc76" type="placeName" value="Grub-street"></interp>
+                     <interp inst="t16920629-13-crimeloc76" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16920629-13-off74 t16920629-13-crimeloc76"></join>
+               
+                  </rs>, on the <rs id="t16920629-13-cd77" type="crimeDate">Twenty-fith of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920629-13-off74 t16920629-13-cd77"></join> last: The Goods lost were one Hood and Scarf, and a Head-dress, and one Watch, value 40 s. seven Silver Tankards, value 42 l. two Guineas, two broad pieces, and 50 l. in Money; The Prosecutor swore that his House was broke open, and the Goods lost, but he could not charge either of the Prisoners for want of one Kiffen, who is lately absconded, so they were all <rs id="t16920629-13-verdict78" type="verdictDescription">
+                     <interp inst="t16920629-13-verdict78" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, but not without great Suspicion of being the Persons that Robb'd Monk's House.</p>
+            </div1>

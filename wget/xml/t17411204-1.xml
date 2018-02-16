@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17411204-1">
+               <interp inst="t17411204-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17411204-1" type="year" value="1741"></interp>
+               <interp inst="t17411204-1" type="uri" value="sessionsPapers/17411204"></interp>
+               <interp inst="t17411204-1" type="date" value="17411204"></interp>
+               <join result="criminalCharge" id="t17411204-1-off1-c29" targOrder="Y" targets="t17411204-1-defend29 t17411204-1-off1 t17411204-1-verdict3"></join>
+         
+               <p>1. 
+               <persName id="t17411204-1-defend29" type="defendantName">
+                  
+                     Elizabeth 
+                     Jackson 
+                   , alias <rs id="t17411204-1-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17411204-1-defend29 t17411204-1-alias-1"></join>Holmes</rs>
+                     <interp inst="t17411204-1-defend29" type="surname" value="Jackson"></interp>
+                     <interp inst="t17411204-1-defend29" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17411204-1-defend29" type="gender" value="female"></interp>
+                  </persName>
+             , was indicted for <rs id="t17411204-1-off1" type="offenceDescription">
+                     <interp inst="t17411204-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17411204-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing an Half-hundred Weight of Lead, Value 5 s
+            </rs> the Goods of 
+               
+                  <persName id="t17411204-1-victim32" type="victimName">
+                     Richard 
+                     Godfrey 
+                  <interp inst="t17411204-1-victim32" type="surname" value="Godfrey"></interp>
+                     <interp inst="t17411204-1-victim32" type="given" value="Richard"></interp>
+                     <interp inst="t17411204-1-victim32" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17411204-1-off1 t17411204-1-victim32"></join>
+                  </persName>
+                
+            , <rs id="t17411204-1-cd2" type="crimeDate">November 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411204-1-off1 t17411204-1-cd2"></join>, <rs id="t17411204-1-verdict3" type="verdictDescription">
+                     <interp inst="t17411204-1-verdict3" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17411204-1-punish4" type="punishmentDescription">
+                     <interp inst="t17411204-1-punish4" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17411204-1-defend29 t17411204-1-punish4"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

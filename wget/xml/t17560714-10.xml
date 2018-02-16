@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560714-10">
+               <interp inst="t17560714-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560714-10" type="year" value="1756"></interp>
+               <interp inst="t17560714-10" type="uri" value="sessionsPapers/17560714"></interp>
+               <interp inst="t17560714-10" type="date" value="17560714"></interp>
+               <join result="criminalCharge" id="t17560714-10-off59-c66" targOrder="Y" targets="t17560714-10-defend85 t17560714-10-off59 t17560714-10-verdict61"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="175607140007"></xptr>292. (M.) 
+               <persName id="t17560714-10-defend85" type="defendantName">
+                  Priscilla 
+                  More 
+               <interp inst="t17560714-10-defend85" type="surname" value="More"></interp>
+                     <interp inst="t17560714-10-defend85" type="given" value="Priscilla"></interp>
+                     <interp inst="t17560714-10-defend85" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17560714-10-deflabel58" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560714-10-defend85 t17560714-10-deflabel58"></join>, was indicted for <rs id="t17560714-10-off59" type="offenceDescription">
+                     <interp inst="t17560714-10-off59" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560714-10-off59" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linen pillowbier, value 3 d. one piece of linen cloth, value 3 d. one handkerchief, value 3 d. and 3 s. and one penny three farthings
+            </rs>, the goods and money of 
+               
+                  <persName id="t17560714-10-victim87" type="victimName">
+                     Samuel 
+                     Toon 
+                  <interp inst="t17560714-10-victim87" type="surname" value="Toon"></interp>
+                     <interp inst="t17560714-10-victim87" type="given" value="Samuel"></interp>
+                     <interp inst="t17560714-10-victim87" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17560714-10-off59 t17560714-10-victim87"></join>
+                  </persName>
+                
+            , <rs id="t17560714-10-cd60" type="crimeDate">June 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560714-10-off59 t17560714-10-cd60"></join>.* </p>
+               <p>Samuel Toon. The prisoner was washing at my house on the 4th of June. Her pocket bulged out, and as she was going by my wife she said, what have you in your pocket? Perceiving money they searched her, but I was not there. I know nothing more than what she confessed before the justice.</p>
+               <p>Q. Was that confession taken in writing ?</p>
+               <p>Toon. It was.</p>
+               <p>Q. Did she sign it ?</p>
+               <p>Toon. No.</p>
+               <p>Jone Toon. I am wife to the prosecutor. I took out one hundred and seventeen farthings and nine pence halfpenny out of the prisoner's pocket. I ask'd how she came to take that money from me. She made me no answer. There were several trifling things in her pocket, and the pillowbier was taken from about her waist. The handkerchief was found upon her, and she owned that all the things and money were mine, and that she took the money from our bedside.</p>
+               <p>
+            
+                  <persName id="t17560714-10-person88">
+                  Susannah 
+                  Arnold 
+               <interp inst="t17560714-10-person88" type="surname" value="Arnold"></interp>
+                     <interp inst="t17560714-10-person88" type="given" value="Susannah"></interp>
+                     <interp inst="t17560714-10-person88" type="gender" value="female"></interp>
+                  </persName>
+            . I was a nurse in the house. I happened to be there at the time, and saw Mrs. Toon take out of her pocket first bread and cheese, and after that some money; the pillowbier and handkerchief were tacked to her shift, and a piece of new cloth was tack'd to her gown.</p>
+               <p>Prisoner's defence.</p>
+               <p>There were a parcel of young children about the house, and I picked these things up, in order to carry them up stairs.</p>
+               <p>For the prisoner.</p>
+               <p>
+            
+                  <persName id="t17560714-10-person89">
+                  Leonard 
+                  Fox 
+               <interp inst="t17560714-10-person89" type="surname" value="Fox"></interp>
+                     <interp inst="t17560714-10-person89" type="given" value="Leonard"></interp>
+                     <interp inst="t17560714-10-person89" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner eight or nine years, I never heard any harm of her before.</p>
+               <p>
+                  <rs id="t17560714-10-verdict61" type="verdictDescription">
+                     <interp inst="t17560714-10-verdict61" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17560714-10-punish62" type="punishmentDescription">
+                     <interp inst="t17560714-10-punish62" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17560714-10-punish62" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17560714-10-defend85 t17560714-10-punish62"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610116-19">
+               <interp inst="t17610116-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610116-19" type="year" value="1761"></interp>
+               <interp inst="t17610116-19" type="uri" value="sessionsPapers/17610116"></interp>
+               <interp inst="t17610116-19" type="date" value="17610116"></interp>
+               <join result="criminalCharge" id="t17610116-19-off101-c150" targOrder="Y" targets="t17610116-19-defend188 t17610116-19-off101 t17610116-19-verdict104"></join>
+         
+               <p>56. (M.) 
+               
+                  <persName id="t17610116-19-defend188" type="defendantName">
+                     Mary 
+                     Adams 
+                  <interp inst="t17610116-19-defend188" type="surname" value="Adams"></interp>
+                     <interp inst="t17610116-19-defend188" type="given" value="Mary"></interp>
+                     <interp inst="t17610116-19-defend188" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17610116-19-deflabel100" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-19-defend188 t17610116-19-deflabel100"></join>, was indicted for <rs id="t17610116-19-off101" type="offenceDescription">
+                     <interp inst="t17610116-19-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610116-19-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linnen gown, value 2 s. and one silk cardinal, value 2 s.
+            </rs> the property of 
+               <persName id="t17610116-19-victim189" type="victimName">
+                  William 
+                  Hill 
+               <interp inst="t17610116-19-victim189" type="surname" value="Hill"></interp>
+                     <interp inst="t17610116-19-victim189" type="given" value="William"></interp>
+                     <interp inst="t17610116-19-victim189" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610116-19-off101 t17610116-19-victim189"></join>
+                  </persName>
+             , <rs id="t17610116-19-cd102" type="crimeDate">Jan. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610116-19-off101 t17610116-19-cd102"></join>. ++</p>
+               <p>Mary Hill. I am wife to William Hill. The prisoner lived <rs id="t17610116-19-deflabel103" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610116-19-defend188 t17610116-19-deflabel103"></join> with me a month; and after she had been gone from me two days, I missed a linnen gown and cardinal out of my drawers. I sent up to her at Hampstead. She was brought to me. I charged her with taking them. She confessed she had taken them, and that she had carried them to her aunt's house.</p>
+               <p>Q. What is her aunt's name?</p>
+               <p>M. Hill. Her name is Elizabeth Street</p>
+               <p>Q. Did you give her your consent for carrying them there?</p>
+               <p>M. Hill. No; I never did.</p>
+               <p>Q. What is her aunt?</p>
+               <p>M. Hill. She is a gardener's wife.</p>
+               <p>Q. Did the prisoner give an account how she took them?</p>
+               <p>M. Hill he said she took them while I was out. I had a search warrant, and went to her aunt's house, and the aunt gave them to me, as soon as came into the house</p>
+               <p>Q. What did the prisoner say before the justice of the peace?</p>
+               <p>M. Hill. I was not with her there. [The goods produced, and deposed to.]</p>
+               <p>Elizabeth Street. Mary Adams brought these things to my house.</p>
+               <p>Q. Are you her aunt?</p>
+               <p>E. Street. I am. I delivered them to Mrs. Hill, when she came and demanded them. I did not see what they were when she brought them in.</p>
+               <p>The Prisoner said nothing in her defence.</p>
+               <p>Prosecutrix. I believe she never did such a thing before.</p>
+               <p>E. Street. I will take care of her, and take her into my house if the court will please to shew her favour.</p>
+               <p>
+                  <rs id="t17610116-19-verdict104" type="verdictDescription">
+                     <interp inst="t17610116-19-verdict104" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17610116-19-verdict104" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17610116-19-punish105" type="punishmentDescription">
+                     <interp inst="t17610116-19-punish105" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17610116-19-punish105" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610116-19-defend188 t17610116-19-punish105"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

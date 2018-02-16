@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17431012-2">
+               <interp inst="t17431012-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17431012-2" type="year" value="1743"></interp>
+               <interp inst="t17431012-2" type="uri" value="sessionsPapers/17431012"></interp>
+               <interp inst="t17431012-2" type="date" value="17431012"></interp>
+               <join result="criminalCharge" id="t17431012-2-off5-c54" targOrder="Y" targets="t17431012-2-defend57 t17431012-2-off5 t17431012-2-verdict7"></join>
+         
+               <p>463. 
+               
+                  <persName id="t17431012-2-defend57" type="defendantName">
+                     Mary 
+                     Boyce 
+                  <interp inst="t17431012-2-defend57" type="surname" value="Boyce"></interp>
+                     <interp inst="t17431012-2-defend57" type="given" value="Mary"></interp>
+                     <interp inst="t17431012-2-defend57" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17431012-2-off5" type="offenceDescription">
+                     <interp inst="t17431012-2-off5" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17431012-2-off5" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing seven Yards of striped Cotton, value 9 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17431012-2-victim59" type="victimName">
+                     Charles 
+                     Cole 
+                  <interp inst="t17431012-2-victim59" type="surname" value="Cole"></interp>
+                     <interp inst="t17431012-2-victim59" type="given" value="Charles"></interp>
+                     <interp inst="t17431012-2-victim59" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17431012-2-off5 t17431012-2-victim59"></join>
+                  </persName>
+                
+            , <rs id="t17431012-2-cd6" type="crimeDate">October 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17431012-2-off5 t17431012-2-cd6"></join>.</p>
+               <p>
+            
+                  <persName id="t17431012-2-person60">
+                  Charles 
+                  Cole 
+               <interp inst="t17431012-2-person60" type="surname" value="Cole"></interp>
+                     <interp inst="t17431012-2-person60" type="given" value="Charles"></interp>
+                     <interp inst="t17431012-2-person60" type="gender" value="male"></interp>
+                  </persName>
+            . I lost this Piece of striped Cotton out of my Shop the first of October.</p>
+               <p>- Cole. I was sitting in the Parlour backward, and saw the Prisoner look into the Shop, and take this Piece of striped Cotton out of the Window.</p>
+               <p>
+            
+                  <persName id="t17431012-2-person61">
+                  Peter 
+                  Orton 
+               <interp inst="t17431012-2-person61" type="surname" value="Orton"></interp>
+                     <interp inst="t17431012-2-person61" type="given" value="Peter"></interp>
+                     <interp inst="t17431012-2-person61" type="gender" value="male"></interp>
+                  </persName>
+            . I was behind the Counter, putting some Goods up, and saw a Piece of Goods fall out of the Window; my Mistress called to me, and told me, that a Woman had taken a Piece of striped<xptr type="pageFacsimile" doc="174310120004"></xptr> Cotton out of the Window; I pursued the Prisoner, and took her; and took this from under her Cloak.</p>
+               <p>Prisoner. Mr Cole said before the Alderman that he saw me take it?</p>
+               <p>
+            
+                  <persName id="t17431012-2-person62">
+                  Charles 
+                  Cole 
+               <interp inst="t17431012-2-person62" type="surname" value="Cole"></interp>
+                     <interp inst="t17431012-2-person62" type="given" value="Charles"></interp>
+                     <interp inst="t17431012-2-person62" type="gender" value="male"></interp>
+                  </persName>
+            . I did not say so.</p>
+               <p>Prisoner. My Hands were very dirty, and the Alderman said, I looked like a hard working Girl. <rs id="t17431012-2-verdict7" type="verdictDescription">
+                     <interp inst="t17431012-2-verdict7" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>When the Prisoner was going out of the Court, she said O - d - you all.</p>
+               <p>
+                  <rs id="t17431012-2-punish8" type="punishmentDescription">
+                     <interp inst="t17431012-2-punish8" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17431012-2-defend57 t17431012-2-punish8"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

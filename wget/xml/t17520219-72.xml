@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520219-72">
+               <interp inst="t17520219-72" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520219-72" type="year" value="1752"></interp>
+               <interp inst="t17520219-72" type="uri" value="sessionsPapers/17520219"></interp>
+               <interp inst="t17520219-72" type="date" value="17520219"></interp>
+               <join result="criminalCharge" id="t17520219-72-off349-c490" targOrder="Y" targets="t17520219-72-defend612 t17520219-72-off349 t17520219-72-verdict350"></join>
+         
+               <p>208. (M.) 
+               <persName id="t17520219-72-defend612" type="defendantName">
+                  
+                     Thomas 
+                     Huddle 
+                   otherwise <rs id="t17520219-72-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17520219-72-defend612 t17520219-72-alias-4"></join>Hoddle</rs>
+                     <interp inst="t17520219-72-defend612" type="surname" value="Huddle"></interp>
+                     <interp inst="t17520219-72-defend612" type="given" value="Thomas"></interp>
+                     <interp inst="t17520219-72-defend612" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17520219-72-off349" type="offenceDescription">
+                     <interp inst="t17520219-72-off349" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17520219-72-off349" type="offenceSubcategory" value="returnFromTransportation"></interp>
+               returning from transportation, before the expiration of his time
+            </rs>. ++ <rs id="t17520219-72-verdict350" type="verdictDescription">
+                     <interp inst="t17520219-72-verdict350" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17520219-72-punish351" type="punishmentDescription">
+                     <interp inst="t17520219-72-punish351" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520219-72-defend612 t17520219-72-punish351"></join>
+               Death
+            </rs>.</p>
+            </div1>

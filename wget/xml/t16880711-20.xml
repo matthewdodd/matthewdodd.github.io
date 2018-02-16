@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-20">
+               <interp inst="t16880711-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-20" type="year" value="1688"></interp>
+               <interp inst="t16880711-20" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-20" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-20-off106-c75" targOrder="Y" targets="t16880711-20-defend112 t16880711-20-off106 t16880711-20-verdict109"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880711-20-defend112" type="defendantName">
+                     Thomas 
+                     Woodham
+                  <interp inst="t16880711-20-defend112" type="surname" value="Woodham"></interp>
+                     <interp inst="t16880711-20-defend112" type="given" value="Thomas"></interp>
+                     <interp inst="t16880711-20-defend112" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16880711-20-off106" type="offenceDescription">
+                     <interp inst="t16880711-20-off106" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t16880711-20-off106" type="offenceSubcategory" value="bigamy"></interp>
+               Marrying Two Wives, viz. one 
+                     
+                        <persName id="t16880711-20-victim114" type="victimName">
+                           Ann 
+                           Atkins
+                        <interp inst="t16880711-20-victim114" type="surname" value="Atkins"></interp>
+                        <interp inst="t16880711-20-victim114" type="given" value="Ann"></interp>
+                        <interp inst="t16880711-20-victim114" type="gender" value="female"></interp>
+                     </persName>
+                     
+                  , Widdow, he married at St. Trinity Minories, on the 14th of February last past; and afterwards did take to Wife one 
+                     
+                        <persName id="t16880711-20-victim116" type="victimName">
+                           Susannah 
+                           Gresham
+                        <interp inst="t16880711-20-victim116" type="surname" value="Gresham"></interp>
+                        <interp inst="t16880711-20-victim116" type="given" value="Susannah"></interp>
+                        <interp inst="t16880711-20-victim116" type="gender" value="female"></interp>
+                     </persName>
+                     
+                  , Widdow, whom he married at the Church of <placeName id="t16880711-20-crimeloc107">St. Mary-le-Bone</placeName>
+                     <interp inst="t16880711-20-crimeloc107" type="placeName" value="St. Mary-le-Bone"></interp>
+                     <interp inst="t16880711-20-crimeloc107" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16880711-20-off106 t16880711-20-crimeloc107"></join>, on the <rs id="t16880711-20-cd108" type="crimeDate">14th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880711-20-off106 t16880711-20-cd108"></join> following
+            </rs>; both which Marriages were fully and plainly proved upon him by very material Evidence; and that the former Wife was yet living, and the latter was present in Court, and produced her Certificate for her Marriage. The Prisoner could say little, but that he was drunk when he did it, and denied that ever he was married to either of them. Yet he was found <rs id="t16880711-20-verdict109" type="verdictDescription">
+                     <interp inst="t16880711-20-verdict109" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16880711-20-punish110" type="punishmentDescription">
+                     <interp inst="t16880711-20-punish110" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880711-20-punish110" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-20-defend112 t16880711-20-punish110"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

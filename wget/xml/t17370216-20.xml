@@ -1,3 +1,127 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370216-20">
+               <interp inst="t17370216-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370216-20" type="year" value="1737"></interp>
+               <interp inst="t17370216-20" type="uri" value="sessionsPapers/17370216"></interp>
+               <interp inst="t17370216-20" type="date" value="17370216"></interp>
+               <join result="criminalCharge" id="t17370216-20-off95-c87" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-off95 t17370216-20-verdict101"></join>
+               <join result="criminalCharge" id="t17370216-20-off98-c87" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-off98 t17370216-20-verdict101"></join>
+               <join result="criminalCharge" id="t17370216-20-off99-c87" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-off99 t17370216-20-verdict101"></join>
+         
+               <p>22. 
+               
+                  <persName id="t17370216-20-defend133" type="defendantName">
+                     Jeffery
+                      Morat, otherwise <rs id="t17370216-20-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-alias-1"></join>Murat</rs>
+                     <interp inst="t17370216-20-defend133" type="surname" value="Morat"></interp>
+                     <interp inst="t17370216-20-defend133" type="given" value="Jeffery"></interp>
+                     <interp inst="t17370216-20-defend133" type="gender" value="male"></interp>
+                  </persName>
+               
+            , (a Negro) of <placeName id="t17370216-20-defloc94">St. George's Hanover-square</placeName>
+                  <interp inst="t17370216-20-defloc94" type="placeName" value="St. George's Hanover-square"></interp>
+                  <interp inst="t17370216-20-defloc94" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-defloc94"></join> , was indicted for <rs id="t17370216-20-off95" type="offenceDescription">
+                     <interp inst="t17370216-20-off95" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370216-20-off95" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the House of 
+                     
+                        <persName id="t17370216-20-victim135" type="victimName">
+                           Peregrine 
+                           Bertie 
+                        <interp inst="t17370216-20-victim135" type="surname" value="Bertie"></interp>
+                        <interp inst="t17370216-20-victim135" type="given" value="Peregrine"></interp>
+                        <interp inst="t17370216-20-victim135" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , <rs id="t17370216-20-viclabel96" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17370216-20-victim135 t17370216-20-viclabel96"></join>; commonly call'd Marquis of Lindsey, about the Hour of two in the Night, and stealing thence 2 Pair of Silver Breast Buckles, value 20 s. and 2 Guineas in Money, the Property of the said Peregrine Bertie
+            </rs>, &amp;c. <rs id="t17370216-20-cd97" type="crimeDate">Feb 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-20-off95 t17370216-20-cd97"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-20-off98 t17370216-20-cd97"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370216-20-off99 t17370216-20-cd97"></join>.</p>
+               <p>He was a second Time indicted for <rs id="t17370216-20-off98" type="offenceDescription">
+                     <interp inst="t17370216-20-off98" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17370216-20-off98" type="offenceSubcategory" value="robbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17370216-20-victim137" type="victimName">
+                           Hannah 
+                           Emberton 
+                        <interp inst="t17370216-20-victim137" type="surname" value="Emberton"></interp>
+                        <interp inst="t17370216-20-victim137" type="given" value="Hannah"></interp>
+                        <interp inst="t17370216-20-victim137" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , in the Dwelling-house of 
+                     <persName id="t17370216-20-person138">
+                        Peregrine 
+                        Bertie 
+                     <interp inst="t17370216-20-person138" type="surname" value="Bertie"></interp>
+                        <interp inst="t17370216-20-person138" type="given" value="Peregrine"></interp>
+                        <interp inst="t17370216-20-person138" type="gender" value="male"></interp>
+                     </persName>
+                  , Esq; commonly call'd Marquis of Lindsey, putting her in Fear, and taking from her a Stuff and Silk Pocket, value 2d. a Silver Thimble, value 6 d. a Corkscrew, value 6 d. and Three-pence Half-penny in Money
+            </rs>. Feb. 2.</p>
+               <p>He was a third Time indicted for <rs id="t17370216-20-off99" type="offenceDescription">
+                     <interp inst="t17370216-20-off99" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17370216-20-off99" type="offenceSubcategory" value="murder"></interp>
+               feloniously breaking and entering the said House, with an Intent, the said Hannah Emberton to kill and murder
+            </rs>, against the Peace of our Lord the King, &amp;c. Feb 1.</p>
+               <p>The Counsel for the King having open'd the Charge, the Witnesses were call'd.</p>
+               <p>
+            
+                  <persName id="t17370216-20-person139">
+                  Simon 
+                  Perry 
+               <interp inst="t17370216-20-person139" type="surname" value="Perry"></interp>
+                     <interp inst="t17370216-20-person139" type="given" value="Simon"></interp>
+                     <interp inst="t17370216-20-person139" type="gender" value="male"></interp>
+                  </persName>
+            . I have the Honour to attend the Lord Carpenter, as his Clerk, and was present when the Prisoner's Examination was taken before him: It was read to him; he own'd it was true, and he set his Mark to it, and I saw my Lord Carpenter sign it. This is the Confession of the Prisoner.</p>
+               <p>Middlesex. The Examination of Jeffery Murat, otherwise Morat, taken and acknowledged before the Right Honourable 
+               <persName id="t17370216-20-person140">
+                  George
+                   Lord Carpenter
+               <interp inst="t17370216-20-person140" type="surname" value="Lord Carpenter"></interp>
+                     <interp inst="t17370216-20-person140" type="given" value="George"></interp>
+                     <interp inst="t17370216-20-person140" type="gender" value="male"></interp>
+                  </persName>
+            , Feb 1. 1736.</p>
+               <p>'' Who confesseth, that he is a <rs id="t17370216-20-deflabel100" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-deflabel100"></join> to his '' Grace the Duke of Manchester; that meeting '' the Day before with one Thomas a Shooe-Boy, '' before Five in the Evening, they continued together '' till Two in the Morning; that they '' agreed to break open the House of the Marquis '' of Lindsey; and that they got over the Garden '' Wall, opened a back Window, and unbolted '' the Shutters. That they got in and lay conceal'd '' in the said House till Morning; then '' they went up Stairs and open'd a Beaufet, and '' stole from thence 2 Pair of Silver Buckles; '' and in the Library, out of another Beaufet, '' they stole 2 Guineas. That afterwards they '' went down into the Kitchen, to take the '' Cloaths of Hannah Emberton, a Servant in the '' said House: But hearing her come in about '' 7 o'Clock, this Examinant hid himself, and '' afterwards knocked the said Hannah down with '' an Iron Poker; then he took a Penknife, (which '' he owns to be the same) and endeavoured to '' cut her Throat, and gave her several Wounds; '' that he attempted to make his Escape up the '' Chimney; but before this, he took out of her '' Pocket Three-pence Half-penny.</p>
+               <p>Hannah Emberton appeared, in a very weak Condition, and gave the following Evidence.</p>
+               <p>I have known the Prisoner these five Years; he was the Dutchess of Manchester's Black. When I went in that Morning, and saw a Door broke, I was frighted; but seeing the Study Door bolted, I thought to my self, Thank God they have got no further; and came out of the Room with a little more Courage; tho' I was no got into the<xptr type="pageFacsimile" doc="173702160007"></xptr> Hall, but he attack'd me. I begg'd he would lock me up in a Room and spare my Life, he commanded me to deliver up the Keys, and I gave them to him, but I desired him when he had done with them to throw them somewhere where they might be found again; Oh! says he, I must take Care of you and the Keys too: I begged him not to kill me, but shut me up in a Room; he told me, He must kill me, and it would be quickly over; we struggled together till I got to the Top of the Kitchen Stairs, and there he got me down and stabbed me, and cut my Hands sadly as I endeavoured to save myself. He cut me in the Throat in such a Manner, that the Surgeon said there was not a Hair's Breadth between me and Death. He stabbed me before he knocked me down, and when he had knocked me down, he stood over me and whetted his Knife; I begg'd of him not to use it any more, and begg'd God not to give him Leave; he finding I was not dead, gave me five Blows with a Scrubbing-Brush, and after this perceiving there were some Life in me, he gave me as many more with the Brush; then I lay for dead, and he took my Pockets off, and a Silk Handkerchief from about my Neck; then he turned me over, and finding no Life in me he broke open the Cellar Door, I made shift to lift up my Hand and undo the Parlour Door, but I was so weak that my Head fell down, - thus.</p>
+               <p>Q. What Time of the Morning was it when he first attacked you?</p>
+               <p>Mrs. Emberton. To the best of my Knowledge it was about eight or nine that he began with me, but he was butchering about me two Hours. When I had got in the Parlour, I broke one of the Squares in the Sash, and held out my bloody Hand and my bloody Hair. When I saw the People gathered about the Window, I broke down the Blind, and got out at the Window, and there I sat; he certainly thought I was dead. I had only a Silver Thimble and some Half-pence in my Pocket.</p>
+               <p>Q. Did you see any Body in the House but the Prisoner?</p>
+               <p>Mrs. Emberton. No, nobody besides himself.</p>
+               <p>
+            
+                  <persName id="t17370216-20-person141">
+                  Thomas 
+                  Roberts 
+               <interp inst="t17370216-20-person141" type="surname" value="Roberts"></interp>
+                     <interp inst="t17370216-20-person141" type="given" value="Thomas"></interp>
+                     <interp inst="t17370216-20-person141" type="gender" value="male"></interp>
+                  </persName>
+            . Last Thursday was a Fortnight, I was going to Mr. Jennings, who lives next Door to the Marquis of Lindsey, and just as I was going to knock at the Door, I heard the Sash break; I looked to see what was the Matter, and saw the Gentlewoman's Bloody Hand, and she cry'd, Murder! By that Time I was got up to the House, she had opened the Sash and was going to tumble herself out of the Window; I prevented her, and by the Help of some Chair-Men and their Poles, I got in at the Window and opened the Door. I could perceive where she had been abused upon the Ground, and at a little Distance from the Place, there lay an Iron Poker broke in Half, and the Penknife. We searched the House for the Prisoner, and we could not find him; but in about an Hour and a half afterwards we found him in one of the Chimnies; we flung Brickbats in at the Tops, and they did not fall through one of them, so we searched that Chimney, but he got out of that into another, and at last we smoaked him down with Straw; then we searched him, and took the Buckles, the Thimble, and some Half-pence from him; I think it was Three-pence Half-penny. My Lord Carpenter was sent for to examine him, but I did not stay to hear the Examination.</p>
+               <p>
+            
+                  <persName id="t17370216-20-person142">
+                  Richard 
+                  Wild 
+               <interp inst="t17370216-20-person142" type="surname" value="Wild"></interp>
+                     <interp inst="t17370216-20-person142" type="given" value="Richard"></interp>
+                     <interp inst="t17370216-20-person142" type="gender" value="male"></interp>
+                  </persName>
+            , Chimney-Sweeper. I was standing at a Door in Grosvenor-Square, and the Gentlefolks called me in to search the Chimnies, I sent my Boys up, but they could not find him; at last in a little Room at the Back of the Kitchen I found him in that Chimney, and I smoaked him down with straw, which we set on Fire at the Bottom; when he came down the People surrounded him that I could not see him, but I know him very well, and am sure that is the Man. <rs id="t17370216-20-verdict101" type="verdictDescription">
+                     <interp inst="t17370216-20-verdict101" type="verdictCategory" value="guilty"></interp>
+               Guilty on all the Indictments
+            </rs>. <rs id="t17370216-20-punish102" type="punishmentDescription">
+                     <interp inst="t17370216-20-punish102" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370216-20-defend133 t17370216-20-punish102"></join>
+               Death
+            </rs>.</p>
+            </div1>

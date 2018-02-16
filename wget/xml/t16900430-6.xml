@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-6">
+               <interp inst="t16900430-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-6" type="year" value="1690"></interp>
+               <interp inst="t16900430-6" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-6" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-6-off25-c38" targOrder="Y" targets="t16900430-6-defend45 t16900430-6-off25 t16900430-6-verdict29"></join>
+               <join result="criminalCharge" id="t16900430-6-off25-c39" targOrder="Y" targets="t16900430-6-defend46 t16900430-6-off25 t16900430-6-verdict29"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900430-6-defend45" type="defendantName">
+                     Edward 
+                     White
+                  <interp inst="t16900430-6-defend45" type="surname" value="White"></interp>
+                     <interp inst="t16900430-6-defend45" type="given" value="Edward"></interp>
+                     <interp inst="t16900430-6-defend45" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               <persName id="t16900430-6-defend46" type="defendantName">
+                  Matthew 
+                  Bereman
+               <interp inst="t16900430-6-defend46" type="surname" value="Bereman"></interp>
+                     <interp inst="t16900430-6-defend46" type="given" value="Matthew"></interp>
+                     <interp inst="t16900430-6-defend46" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t16900430-6-deflabel24" type="occupation">Carman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900430-6-defend46 t16900430-6-deflabel24"></join>, were Tryed for <rs id="t16900430-6-off25" type="offenceDescription">
+                     <interp inst="t16900430-6-off25" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900430-6-off25" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing on the <rs id="t16900430-6-cd26" type="crimeDate">25th of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900430-6-off25 t16900430-6-cd26"></join> last, out of the Parish of <placeName id="t16900430-6-crimeloc27">St. Martins Vintrey</placeName>
+                     <interp inst="t16900430-6-crimeloc27" type="placeName" value="St. Martins Vintrey"></interp>
+                     <interp inst="t16900430-6-crimeloc27" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16900430-6-off25 t16900430-6-crimeloc27"></join>, two Cyder-Presses lin'd with Lead, value 30 l. two Scrues 25 s. a Cyder-Mill, and some Iron-Bars, and other Utensils fitting for Cyder-making, of a good value
+            </rs>, the Goods of 
+               <persName id="t16900430-6-victim47" type="victimName">
+                  Anne 
+                  Sherman
+               <interp inst="t16900430-6-victim47" type="surname" value="Sherman"></interp>
+                     <interp inst="t16900430-6-victim47" type="given" value="Anne"></interp>
+                     <interp inst="t16900430-6-victim47" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900430-6-off25 t16900430-6-victim47"></join>
+                  </persName>
+             
+                  <rs id="t16900430-6-viclabel28" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900430-6-victim47 t16900430-6-viclabel28"></join>. The Evidence deposed, that the Prisoner White did send such Goods from his House near the Three Cranes in Thames street, by some Porters, very early in the Morning on a Friday in January last, to the George in St. Mary Axe, &amp;c. Mr. White declared that he Seis'd the Goods for Rent that the Prosecutor owed him, and it seemed to be a Malitious Prosecution, for that the Prosecutor and Mr. White had disagreed before in their Accounts. Besides, Watkins the Prosecutor had acknowledged before Credible Persons, that he owed Mr. White some Money. Mr. White called very Credible Evidence to prove his Reputation to the Jury not believing that Mr. White did it out of any, Evil Intention, and Bereman being not positively accused, they were both <rs id="t16900430-6-verdict29" type="verdictDescription">
+                     <interp inst="t16900430-6-verdict29" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

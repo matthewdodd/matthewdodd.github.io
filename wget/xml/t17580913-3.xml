@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-3">
+               <interp inst="t17580913-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-3" type="year" value="1758"></interp>
+               <interp inst="t17580913-3" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-3" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-3-off11-c39" targOrder="Y" targets="t17580913-3-defend42 t17580913-3-off11 t17580913-3-verdict13"></join>
+         
+               <p>259. 
+               <persName id="t17580913-3-defend42" type="defendantName">
+                  
+                     Mary 
+                     Walker 
+                  , otherwise <rs id="t17580913-3-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17580913-3-defend42 t17580913-3-alias-1"></join>Douglass</rs>
+                     <interp inst="t17580913-3-defend42" type="surname" value="Walker"></interp>
+                     <interp inst="t17580913-3-defend42" type="given" value="Mary"></interp>
+                     <interp inst="t17580913-3-defend42" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17580913-3-off11" type="offenceDescription">
+                     <interp inst="t17580913-3-off11" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-3-off11" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two linen sheets, value 4 s. and<xptr type="pageFacsimile" doc="175809130003"></xptr> one blanket, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17580913-3-victim45" type="victimName">
+                     William 
+                     Lardeer 
+                  <interp inst="t17580913-3-victim45" type="surname" value="Lardeer"></interp>
+                     <interp inst="t17580913-3-victim45" type="given" value="William"></interp>
+                     <interp inst="t17580913-3-victim45" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580913-3-off11 t17580913-3-victim45"></join>
+                  </persName>
+                
+            , <rs id="t17580913-3-cd12" type="crimeDate">July 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-3-off11 t17580913-3-cd12"></join>.</p>
+               <p>The prosecutor did not appear, <rs id="t17580913-3-verdict13" type="verdictDescription">
+                     <interp inst="t17580913-3-verdict13" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17580913-3-verdict13" type="verdictSubcategory" value="noProsecutor"></interp>
+               acquitted
+            </rs>; his recognizance was ordered to be estreated.</p>
+            </div1>

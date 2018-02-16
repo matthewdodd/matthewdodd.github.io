@@ -1,3 +1,103 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17421013-8">
+               <interp inst="t17421013-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17421013-8" type="year" value="1742"></interp>
+               <interp inst="t17421013-8" type="uri" value="sessionsPapers/17421013"></interp>
+               <interp inst="t17421013-8" type="date" value="17421013"></interp>
+               <join result="criminalCharge" id="t17421013-8-off37-c67" targOrder="Y" targets="t17421013-8-defend83 t17421013-8-off37 t17421013-8-verdict42"></join>
+               <join result="criminalCharge" id="t17421013-8-off39-c68" targOrder="Y" targets="t17421013-8-defend85 t17421013-8-off39 t17421013-8-verdict43"></join>
+         
+               <p>120, 121. 
+               
+                  <persName id="t17421013-8-defend83" type="defendantName">
+                     Mary 
+                     Vearpoint 
+                  <interp inst="t17421013-8-defend83" type="surname" value="Vearpoint"></interp>
+                     <interp inst="t17421013-8-defend83" type="given" value="Mary"></interp>
+                     <interp inst="t17421013-8-defend83" type="gender" value="female"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17421013-8-defend85" type="defendantName">
+                     Sarah 
+                     Bristow 
+                  <interp inst="t17421013-8-defend85" type="surname" value="Bristow"></interp>
+                     <interp inst="t17421013-8-defend85" type="given" value="Sarah"></interp>
+                     <interp inst="t17421013-8-defend85" type="gender" value="female"></interp>
+                  </persName>
+                
+             were indicted, Vearpoint for <rs id="t17421013-8-off37" type="offenceDescription">
+                     <interp inst="t17421013-8-off37" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17421013-8-off37" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two Silver Spoons, val. 10 s. one Petticoat, and some Linnen
+            </rs>, the Goods of 
+               
+                  <persName id="t17421013-8-victim87" type="victimName">
+                     Elizabeth 
+                     Godfrey 
+                  <interp inst="t17421013-8-victim87" type="surname" value="Godfrey"></interp>
+                     <interp inst="t17421013-8-victim87" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17421013-8-victim87" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17421013-8-cd38" type="crimeDate">Sept. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17421013-8-off37 t17421013-8-cd38"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17421013-8-off39 t17421013-8-cd38"></join>. and Bristow for <rs id="t17421013-8-off39" type="offenceDescription">
+                     <interp inst="t17421013-8-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17421013-8-off39" type="offenceSubcategory" value="receiving"></interp>
+               receiving them, knowing them to be stolen
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17421013-8-person88">
+                  Elizabeth 
+                  Godfrey 
+               <interp inst="t17421013-8-person88" type="surname" value="Godfrey"></interp>
+                     <interp inst="t17421013-8-person88" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17421013-8-person88" type="gender" value="female"></interp>
+                  </persName>
+            . I lost these Things from my House at <placeName id="t17421013-8-crimeloc40">Brompton</placeName>
+                  <interp inst="t17421013-8-crimeloc40" type="placeName" value="Brompton"></interp>
+                  <interp inst="t17421013-8-crimeloc40" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17421013-8-off37 t17421013-8-crimeloc40"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17421013-8-off39 t17421013-8-crimeloc40"></join>; Vearpoint was my <rs id="t17421013-8-deflabel41" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17421013-8-defend83 t17421013-8-deflabel41"></join>; just before Michaelmas, she sent me Word the Man that worked in the Garden was gone away with two Spoons. I ordered her to come to Town and bring the Linnen. I missed several Things; I asked her where they were, she said the same Person who had the Spoons, had the Linnen. I discharged her the third of October, and she went to live with that Woman, which gave me a Suspicion they were not gone the Way she told me. I went to Mr Goodwin the Pawnbroker, to know if this Woman had pawned any thing there. I found my Linnen there, but the Spoons were fetched out the Day before. - These are all Mine.</p>
+               <p>
+            
+                  <persName id="t17421013-8-person89">
+                  Samuel 
+                  Goodwin 
+               <interp inst="t17421013-8-person89" type="surname" value="Goodwin"></interp>
+                     <interp inst="t17421013-8-person89" type="given" value="Samuel"></interp>
+                     <interp inst="t17421013-8-person89" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17421013-8-person90">
+                  Sarah 
+                  Bristow 
+               <interp inst="t17421013-8-person90" type="surname" value="Bristow"></interp>
+                     <interp inst="t17421013-8-person90" type="given" value="Sarah"></interp>
+                     <interp inst="t17421013-8-person90" type="gender" value="female"></interp>
+                  </persName>
+             brought the Spoons about the 29th of September, I lent 14 s. 6 d. on them. The Linnen was brought about the 17th of July. This Linnen is part of the Linnen she brought. I know nothing of Vearpoint's stealing of them. About last Monday the two Prisoners at the Bar came to our House about Mrs Godfrey's Spoons. I said I lent Bristow 14 s. 6 d. on them, Vearpoint said, if Bristow had 14 s. 6 d. she sent her but 10 s. 6 d. said she, then she has kept the rest herself.</p>
+               <p>Vearpoint. I did not take these Things with a Design to steal them; but designed to bring them back again. I gave her [Bristow's] Husband a Guinea to fetch the Spoons, and he went away with the Guinea and Spoons and all.</p>
+               <p>Godfrey. Vearpoint was a good Servant; that Woman has been the Ruin of her.</p>
+               <p>Vearpoint <rs id="t17421013-8-verdict42" type="verdictDescription">
+                     <interp inst="t17421013-8-verdict42" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, Bristow <rs id="t17421013-8-verdict43" type="verdictDescription">
+                     <interp inst="t17421013-8-verdict43" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17421013-8-punish44" type="punishmentDescription">
+                     <interp inst="t17421013-8-punish44" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17421013-8-punish44" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17421013-8-defend83 t17421013-8-punish44"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

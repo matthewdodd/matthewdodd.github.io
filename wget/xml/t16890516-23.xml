@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-23">
+               <interp inst="t16890516-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-23" type="year" value="1689"></interp>
+               <interp inst="t16890516-23" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-23" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-23-off101-c80" targOrder="Y" targets="t16890516-23-defend118 t16890516-23-off101 t16890516-23-verdict103"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-23-defend118" type="defendantName">
+                     Elizabeth 
+                     Laureson
+                  <interp inst="t16890516-23-defend118" type="surname" value="Laureson"></interp>
+                     <interp inst="t16890516-23-defend118" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16890516-23-defend118" type="gender" value="female"></interp>
+                  </persName>
+               
+             of <placeName id="t16890516-23-defloc100">St. Michael Cornhil</placeName>
+                  <interp inst="t16890516-23-defloc100" type="placeName" value="St. Michael Cornhil"></interp>
+                  <interp inst="t16890516-23-defloc100" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16890516-23-defend118 t16890516-23-defloc100"></join>, was Tryed for <rs id="t16890516-23-off101" type="offenceDescription">
+                     <interp inst="t16890516-23-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-23-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard, value 4 l.
+            </rs> The Matter was thus, On the <rs id="t16890516-23-cd102" type="crimeDate">11th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-23-off101 t16890516-23-cd102"></join> last, the Tankard was taken off the Bar in the House, but the Prisoner said she knew nothing how it was taken away; and no positive Proof appearing against her, she was <rs id="t16890516-23-verdict103" type="verdictDescription">
+                     <interp inst="t16890516-23-verdict103" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+            </div1>

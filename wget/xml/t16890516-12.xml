@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-12">
+               <interp inst="t16890516-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-12" type="year" value="1689"></interp>
+               <interp inst="t16890516-12" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-12" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-12-off55-c51" targOrder="Y" targets="t16890516-12-defend66 t16890516-12-off55 t16890516-12-verdict57"></join>
+               <join result="criminalCharge" id="t16890516-12-off55-c52" targOrder="Y" targets="t16890516-12-defend68 t16890516-12-off55 t16890516-12-verdict58"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-12-defend66" type="defendantName">
+                     George 
+                     Darrycoat
+                  <interp inst="t16890516-12-defend66" type="surname" value="Darrycoat"></interp>
+                     <interp inst="t16890516-12-defend66" type="given" value="George"></interp>
+                     <interp inst="t16890516-12-defend66" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16890516-12-defend68" type="defendantName">
+                     George 
+                     Stue
+                  <interp inst="t16890516-12-defend68" type="surname" value="Stue"></interp>
+                     <interp inst="t16890516-12-defend68" type="given" value="George"></interp>
+                     <interp inst="t16890516-12-defend68" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for taking away <rs id="t16890516-12-off55" type="offenceDescription">
+                     <interp inst="t16890516-12-off55" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-12-off55" type="offenceSubcategory" value="grandLarceny"></interp>
+               Feloniously from 
+                     
+                        <persName id="t16890516-12-victim70" type="victimName">
+                           Jeremy 
+                           Dod
+                        <interp inst="t16890516-12-victim70" type="surname" value="Dod"></interp>
+                        <interp inst="t16890516-12-victim70" type="given" value="Jeremy"></interp>
+                        <interp inst="t16890516-12-victim70" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-12-off55 t16890516-12-victim70"></join>
+                     </persName>
+                     
+                  , one Silver Tankard value 5 l.
+            </rs> on the <rs id="t16890516-12-cd56" type="crimeDate">first of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-12-off55 t16890516-12-cd56"></join>. He came into Mr. Dod's House with another Person attending on him, who he said was his Man; and after a little time took away the Tankard, and left a Pewter one in the stead thereof; which was Sworn home upon him, whereupon he was found <rs id="t16890516-12-verdict57" type="verdictDescription">
+                     <interp inst="t16890516-12-verdict57" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. And Stue <rs id="t16890516-12-verdict58" type="verdictDescription">
+                     <interp inst="t16890516-12-verdict58" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16890516-12-verdict58" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               Pleaded Guilty
+            </rs> upon the Arraignment.</p>
+               <p>
+                  <rs id="t16890516-12-punish59" type="punishmentDescription">
+                     <interp inst="t16890516-12-punish59" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16890516-12-punish59" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-12-defend66 t16890516-12-punish59"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-12-defend68 t16890516-12-punish59"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

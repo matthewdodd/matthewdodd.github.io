@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-1">
+               <interp inst="t16920831-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-1" type="year" value="1692"></interp>
+               <interp inst="t16920831-1" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-1" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-1-off1-c26" targOrder="Y" targets="t16920831-1-defend26 t16920831-1-off1 t16920831-1-verdict4"></join>
+               <join result="criminalCharge" id="t16920831-1-off1-c27" targOrder="Y" targets="t16920831-1-defend27 t16920831-1-off1 t16920831-1-verdict4"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-1-defend26" type="defendantName">
+                  John 
+                  Ferguson
+               <interp inst="t16920831-1-defend26" type="surname" value="Ferguson"></interp>
+                     <interp inst="t16920831-1-defend26" type="given" value="John"></interp>
+                     <interp inst="t16920831-1-defend26" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16920831-1-defend27" type="defendantName">
+                  Philip 
+                  Williams
+               <interp inst="t16920831-1-defend27" type="surname" value="Williams"></interp>
+                     <interp inst="t16920831-1-defend27" type="given" value="Philip"></interp>
+                     <interp inst="t16920831-1-defend27" type="gender" value="male"></interp>
+                  </persName>
+            , were Tryed for <rs id="t16920831-1-off1" type="offenceDescription">
+                     <interp inst="t16920831-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Tankard, value 6 l.
+            </rs> on the <rs id="t16920831-1-cd2" type="crimeDate">23th of Aug.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920831-1-off1 t16920831-1-cd2"></join> from one 
+               <persName id="t16920831-1-victim28" type="victimName">
+                  Richard 
+                  Masters
+               <interp inst="t16920831-1-victim28" type="surname" value="Masters"></interp>
+                     <interp inst="t16920831-1-victim28" type="given" value="Richard"></interp>
+                     <interp inst="t16920831-1-victim28" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16920831-1-off1 t16920831-1-victim28"></join>
+                  </persName>
+             of the <placeName id="t16920831-1-crimeloc3">Tower-Ward</placeName>
+                  <interp inst="t16920831-1-crimeloc3" type="placeName" value="Tower-Ward"></interp>
+                  <interp inst="t16920831-1-crimeloc3" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16920831-1-off1 t16920831-1-crimeloc3"></join>, London; the Prosecutor <note>[Text unreadable in original.]</note> that two Genteel Men came to the House to Drink, and in a little time after the Prisoners came to them, and then the other men went away, and the Tankard was gone, leaving a pewter Pot in the room of the Tankard; but the Prisoners were stopt in the Room where the Tankard was; the Tankard was not found about them; but they could give no good account of themselves, and were lookt upon to be very idle Fellows. So they were both found <rs id="t16920831-1-verdict4" type="verdictDescription">
+                     <interp inst="t16920831-1-verdict4" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16920831-1-punish5" type="punishmentDescription">
+                     <interp inst="t16920831-1-punish5" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16920831-1-punish5" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-1-defend26 t16920831-1-punish5"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-1-defend27 t16920831-1-punish5"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

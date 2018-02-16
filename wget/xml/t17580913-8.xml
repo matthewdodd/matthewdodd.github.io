@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-8">
+               <interp inst="t17580913-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-8" type="year" value="1758"></interp>
+               <interp inst="t17580913-8" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-8" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-8-off27-c51" targOrder="Y" targets="t17580913-8-defend63 t17580913-8-off27 t17580913-8-verdict31"></join>
+         
+               <p>264. (M.) 
+               
+                  <persName id="t17580913-8-defend63" type="defendantName">
+                     Michael 
+                     Drawater 
+                  <interp inst="t17580913-8-defend63" type="surname" value="Drawater"></interp>
+                     <interp inst="t17580913-8-defend63" type="given" value="Michael"></interp>
+                     <interp inst="t17580913-8-defend63" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17580913-8-off27" type="offenceDescription">
+                     <interp inst="t17580913-8-off27" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-8-off27" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wooden chest, value 18 d. one fustian frock, value 10 s. one pair of fustian breeches, value 3 s. two cloth coats, value 10 s. one pair of buckskin breeches, value 7 s. four waistcoats, value 3 s. one pair of silver buckles, value 5 s. and one linen shirt, value 1 s.
+            </rs> the property of 
+               
+                  <persName id="t17580913-8-victim65" type="victimName">
+                     Abraham 
+                     Baker 
+                  <interp inst="t17580913-8-victim65" type="surname" value="Baker"></interp>
+                     <interp inst="t17580913-8-victim65" type="given" value="Abraham"></interp>
+                     <interp inst="t17580913-8-victim65" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580913-8-off27 t17580913-8-victim65"></join>
+                  </persName>
+                
+            , <rs id="t17580913-8-cd28" type="crimeDate">July 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-8-off27 t17580913-8-cd28"></join>.* </p>
+               <p>Abraham Baker. I live in <placeName id="t17580913-8-crimeloc29">Haunch of Venison Yard, Lower Brook-street</placeName>
+                  <interp inst="t17580913-8-crimeloc29" type="placeName" value="Haunch of Venison Yard, Lower Brook-street"></interp>
+                  <interp inst="t17580913-8-crimeloc29" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580913-8-off27 t17580913-8-crimeloc29"></join>, and <rs id="t17580913-8-viclabel30" type="occupation">keep post-chaises and saddle-horses to let out</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580913-8-victim65 t17580913-8-viclabel30"></join>. I lost the goods mentioned in the indictment; they were in the chest locked up. (He names them over with the value of each.) I went out and left them in my room seven weeks ago last Wednesday, and when I returned at about 11 o'clock at night, they were taken away.</p>
+               <p>Q. What is the prisoner?</p>
+               <p>Baker. I gave him liberty to lie a night or two in my hay-loft, he being a poor fellow. He was missing when the chest was. He was found with one of my coats and two waistcoats on his back: on the Friday following, he owned to the taking all the things; and also told us where he had sold the other things, we went, and found them accordingly.</p>
+               <p>
+            
+                  <persName id="t17580913-8-person66">
+                  Thomas 
+                  Procter 
+               <interp inst="t17580913-8-person66" type="surname" value="Procter"></interp>
+                     <interp inst="t17580913-8-person66" type="given" value="Thomas"></interp>
+                     <interp inst="t17580913-8-person66" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner at the bar sold me this frock, and a pair of breeches, and a pair of buckles, (producing them, and deposed to by the prosecutor.) I gave him 13 s. and 6 d. for the frock and breeches.</p>
+               <p>Prisoner. He gave me but a 9 s. piece.</p>
+               <p>
+                  <rs id="t17580913-8-verdict31" type="verdictDescription">
+                     <interp inst="t17580913-8-verdict31" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17580913-8-punish32" type="punishmentDescription">
+                     <interp inst="t17580913-8-punish32" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580913-8-defend63 t17580913-8-punish32"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

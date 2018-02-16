@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340710-40">
+               <interp inst="t17340710-40" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340710-40" type="year" value="1734"></interp>
+               <interp inst="t17340710-40" type="uri" value="sessionsPapers/17340710"></interp>
+               <interp inst="t17340710-40" type="date" value="17340710"></interp>
+               <join result="criminalCharge" id="t17340710-40-off162-c210" targOrder="Y" targets="t17340710-40-defend288 t17340710-40-off162 t17340710-40-verdict164"></join>
+         
+               <p>47 
+               
+                  <persName id="t17340710-40-defend288" type="defendantName">
+                     Richard 
+                     Constable 
+                  <interp inst="t17340710-40-defend288" type="surname" value="Constable"></interp>
+                     <interp inst="t17340710-40-defend288" type="given" value="Richard"></interp>
+                     <interp inst="t17340710-40-defend288" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340710-40-off162" type="offenceDescription">
+                     <interp inst="t17340710-40-off162" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17340710-40-off162" type="offenceSubcategory" value="perjury"></interp>
+               Perjury in an Affidavit made by him before the Lord Chief Justice Eyre
+            </rs>, <rs id="t17340710-40-cd163" type="crimeDate">Nov. 22, 1733</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340710-40-off162 t17340710-40-cd163"></join>. <rs id="t17340710-40-verdict164" type="verdictDescription">
+                     <interp inst="t17340710-40-verdict164" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

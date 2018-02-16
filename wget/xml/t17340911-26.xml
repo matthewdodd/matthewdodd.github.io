@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-26">
+               <interp inst="t17340911-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-26" type="year" value="1734"></interp>
+               <interp inst="t17340911-26" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-26" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-26-off123-c141" targOrder="Y" targets="t17340911-26-defend205 t17340911-26-off123 t17340911-26-verdict125"></join>
+         
+               <p>32. 
+               
+                  <persName id="t17340911-26-defend205" type="defendantName">
+                     Richard 
+                     Robinson 
+                  <interp inst="t17340911-26-defend205" type="surname" value="Robinson"></interp>
+                     <interp inst="t17340911-26-defend205" type="given" value="Richard"></interp>
+                     <interp inst="t17340911-26-defend205" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17340911-26-defloc121">St. James's Westminster</placeName>
+                  <interp inst="t17340911-26-defloc121" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17340911-26-defloc121" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17340911-26-defend205 t17340911-26-defloc121"></join>, was indicted, for that he, after May 1, 1734, that is to say, on the <rs id="t17340911-26-cd122" type="crimeDate">19th of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-26-off123 t17340911-26-cd122"></join> last, <rs id="t17340911-26-off123" type="offenceDescription">
+                     <interp inst="t17340911-26-off123" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17340911-26-off123" type="offenceSubcategory" value="highwayRobbery"></interp>
+               in a certain Field, or open Place, call'd the Upper-Park, near the Highway, with a Pistol in his Hand, on 
+                     
+                        <persName id="t17340911-26-victim207" type="victimName">
+                           MargARET 
+                           TREVOR 
+                        <interp inst="t17340911-26-victim207" type="surname" value="TREVOR"></interp>
+                        <interp inst="t17340911-26-victim207" type="given" value="MargARET"></interp>
+                        <interp inst="t17340911-26-victim207" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340911-26-off123 t17340911-26-victim207"></join>
+                     </persName>
+                      
+                  , Spinster, maliciously, feloniously, and violently, did make, assault, and put her in Fear, with an intent to steal her Goods, Chattels, and Money
+            </rs>.</p>
+               <p>Miss MARGARET TREVOR. On the 19th of July last, a: little after 8 in the Evening, as my Sister and I were in the <placeName id="t17340911-26-crimeloc124">Queen's Gravel walk,</placeName>
+                  <interp inst="t17340911-26-crimeloc124" type="placeName" value="Queen's Gravel walk,"></interp>
+                  <interp inst="t17340911-26-crimeloc124" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17340911-26-off123 t17340911-26-crimeloc124"></join> a Man came up, and presented a Pistol to me, and said something to me - I think it was, Deliver your Money! or to that Purpose; but I don't remember the Words exactly. I was very much frighted, took out my Purse, and threw it upon the Grass, and ran away as fast as I could. The Man was immediately taken by some Person who jump'd over the Wall.</p>
+               <p>Court. Is the Prisoner the Man?</p>
+               <p>Miss M. TREVOR. I was so frighted that I could not take much notice of him -  I did not see that he took up my Purse I had it again, and it had not been opened.</p>
+               <p>Miss 
+               <persName id="t17340911-26-person208">
+                  GERTRUDE 
+                  TREVOR 
+               <interp inst="t17340911-26-person208" type="surname" value="TREVOR"></interp>
+                     <interp inst="t17340911-26-person208" type="given" value="GERTRUDE"></interp>
+                     <interp inst="t17340911-26-person208" type="gender" value="female"></interp>
+                  </persName>
+            . I saw the Man coming towards us with a Pistol. I was frighted, and ran away.</p>
+               <p>Mr. Justice Deveil. The Prisoner was brought before me, and made a voluntary Confession, which was taken in Writing, and sign'd by him.</p>
+               <p>Then the Confession was produced and read in Court. It was to this Effect, That being lately come from on Board the Namure, and being in want of Money, on the 19th of July, about eight in the Evening, he went into the Queen's-walk, in the Upper-Park, and seeing two young Gentlewomen walking by themselves, he pull'd out a Mask, which he had brought on purpose to rob with, and going up to them; presented a Pistol, and demanded their Money. One of them dropt a Purse on the Ground, but he did not take it up; for they squaling out aloud, he took to his Heels, and threw away his Pistol and Mask.</p>
+               <p>The Jury found him <rs id="t17340911-26-verdict125" type="verdictDescription">
+                     <interp inst="t17340911-26-verdict125" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17340911-26-punish126" type="punishmentDescription">
+                     <interp inst="t17340911-26-punish126" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340911-26-defend205 t17340911-26-punish126"></join>
+               Transportation
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600910-24">
+               <interp inst="t17600910-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600910-24" type="year" value="1760"></interp>
+               <interp inst="t17600910-24" type="uri" value="sessionsPapers/17600910"></interp>
+               <interp inst="t17600910-24" type="date" value="17600910"></interp>
+               <join result="criminalCharge" id="t17600910-24-off122-c196" targOrder="Y" targets="t17600910-24-defend252 t17600910-24-off122 t17600910-24-verdict126"></join>
+         
+               <p>267. (M.) 
+               
+                  <persName id="t17600910-24-defend252" type="defendantName">
+                     Ann 
+                     Brewer 
+                  <interp inst="t17600910-24-defend252" type="surname" value="Brewer"></interp>
+                     <interp inst="t17600910-24-defend252" type="given" value="Ann"></interp>
+                     <interp inst="t17600910-24-defend252" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17600910-24-deflabel121" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600910-24-defend252 t17600910-24-deflabel121"></join>, was indicted for <rs id="t17600910-24-off122" type="offenceDescription">
+                     <interp inst="t17600910-24-off122" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600910-24-off122" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one bushel of cucumbers, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17600910-24-victim254" type="victimName">
+                     Joseph 
+                     Beal 
+                  <interp inst="t17600910-24-victim254" type="surname" value="Beal"></interp>
+                     <interp inst="t17600910-24-victim254" type="given" value="Joseph"></interp>
+                     <interp inst="t17600910-24-victim254" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600910-24-off122 t17600910-24-victim254"></join>
+                  </persName>
+                
+            , <rs id="t17600910-24-cd123" type="crimeDate">July 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600910-24-off122 t17600910-24-cd123"></join>. ++ .</p>
+               <p>Jos. Beal. I live in <placeName id="t17600910-24-crimeloc124">Penitent street</placeName>
+                  <interp inst="t17600910-24-crimeloc124" type="placeName" value="Penitent street"></interp>
+                  <interp inst="t17600910-24-crimeloc124" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17600910-24-off122 t17600910-24-crimeloc124"></join>.</p>
+               <p>Q. What are you?</p>
+               <p>Beal. I am a <rs id="t17600910-24-viclabel125" type="occupation">gardener</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600910-24-victim254 t17600910-24-viclabel125"></join>; on the 31st of July I went up stairs to bed, hearing a noise I came down again, and we went in order to find the people; we had a cart that stood loaded with goods in my yard ready for market; on the morning we found a maund of cucumbers stolen out of the cart, about the quantity of a bushel; we found afterwards the woman at the bar in my ground, in about half an hour's searching.</p>
+               <p>
+            
+                  <persName id="t17600910-24-person255">
+                  Mary 
+                  Wood 
+               <interp inst="t17600910-24-person255" type="surname" value="Wood"></interp>
+                     <interp inst="t17600910-24-person255" type="given" value="Mary"></interp>
+                     <interp inst="t17600910-24-person255" type="gender" value="female"></interp>
+                  </persName>
+            . I am servant to the prosecutor; I went out to shake the table cloth after supper; I saw the gate open, I went to shut it, and heard something in the cart, there was a great bustle, and something fell out of the cart; I call'd out, the cart was robb'd; I saw a maund of cucumbers lying under the cart; I stepp'd over the kennel, and saw a woman rise up, and go into a close that was paled round; I believe she fell out of the cart; we went round it to see for her, and in about half an hour's time we found the prisoner among some willows in the ditch; we put her into the watchhouse; she said, she hoped we would not hurt her. In the morning we found the rope of the cart was cut; this case knife (producing one) she left on a basket in the shed.</p>
+               <p>Q. Did she own it to be her knife?</p>
+               <p>Beal. No, she did not; we had lost cucumbers 2 times before that, but can't say who took them.</p>
+               <p>
+                  <rs id="t17600910-24-verdict126" type="verdictDescription">
+                     <interp inst="t17600910-24-verdict126" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

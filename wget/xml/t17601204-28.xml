@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17601204-28">
+               <interp inst="t17601204-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17601204-28" type="year" value="1760"></interp>
+               <interp inst="t17601204-28" type="uri" value="sessionsPapers/17601204"></interp>
+               <interp inst="t17601204-28" type="date" value="17601204"></interp>
+               <join result="criminalCharge" id="t17601204-28-off170-c236" targOrder="Y" targets="t17601204-28-defend298 t17601204-28-off170 t17601204-28-verdict172"></join>
+         
+               <p>31. (M) 
+               
+                  <persName id="t17601204-28-defend298" type="defendantName">
+                     Thomas 
+                     Allen 
+                  <interp inst="t17601204-28-defend298" type="surname" value="Allen"></interp>
+                     <interp inst="t17601204-28-defend298" type="given" value="Thomas"></interp>
+                     <interp inst="t17601204-28-defend298" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17601204-28-off170" type="offenceDescription">
+                     <interp inst="t17601204-28-off170" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17601204-28-off170" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one copper, value 40 s. the property of 
+                     
+                        <persName id="t17601204-28-victim300" type="victimName">
+                           John 
+                           Carver 
+                        <interp inst="t17601204-28-victim300" type="surname" value="Carver"></interp>
+                        <interp inst="t17601204-28-victim300" type="given" value="John"></interp>
+                        <interp inst="t17601204-28-victim300" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and one hempen-sack, value 1 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17601204-28-victim302" type="victimName">
+                     John 
+                     Dowdswell 
+                  <interp inst="t17601204-28-victim302" type="surname" value="Dowdswell"></interp>
+                     <interp inst="t17601204-28-victim302" type="given" value="John"></interp>
+                     <interp inst="t17601204-28-victim302" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17601204-28-cd171" type="crimeDate">Oct. 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17601204-28-off170 t17601204-28-cd171"></join>.*</p> 
+               <p>
+                  <rs id="t17601204-28-verdict172" type="verdictDescription">
+                     <interp inst="t17601204-28-verdict172" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

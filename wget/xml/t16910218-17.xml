@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-17">
+               <interp inst="t16910218-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-17" type="year" value="1691"></interp>
+               <interp inst="t16910218-17" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-17" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-17-off78-c68" targOrder="Y" targets="t16910218-17-defend68 t16910218-17-off78 t16910218-17-verdict80"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-17-defend68" type="defendantName">
+                  Lofftin 
+                  Gwin
+               <interp inst="t16910218-17-defend68" type="surname" value="Gwin"></interp>
+                     <interp inst="t16910218-17-defend68" type="given" value="Lofftin"></interp>
+                     <interp inst="t16910218-17-defend68" type="gender" value="male"></interp>
+                  </persName>
+            , was Arraigned for <rs id="t16910218-17-off78" type="offenceDescription">
+                     <interp inst="t16910218-17-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-17-off78" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 15 Yards of figured silk, value 3 l.
+            </rs> on the <rs id="t16910218-17-cd79" type="crimeDate">27th of Jan.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910218-17-off78 t16910218-17-cd79"></join> to which he immediately <rs id="t16910218-17-verdict80" type="verdictDescription">
+                     <interp inst="t16910218-17-verdict80" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910218-17-verdict80" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>, and to all other within the Benefit of his Clergy.</p>
+               <p>
+                  <rs id="t16910218-17-punish81" type="punishmentDescription">
+                     <interp inst="t16910218-17-punish81" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16910218-17-punish81" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910218-17-defend68 t16910218-17-punish81"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

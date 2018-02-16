@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-36">
+               <interp inst="t17360505-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-36" type="year" value="1736"></interp>
+               <interp inst="t17360505-36" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-36" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-36-off194-c192" targOrder="Y" targets="t17360505-36-defend269 t17360505-36-off194 t17360505-36-verdict196"></join>
+         
+               <p>43. 
+               
+                  <persName id="t17360505-36-defend269" type="defendantName">
+                     Thomas 
+                     Warren 
+                  <interp inst="t17360505-36-defend269" type="surname" value="Warren"></interp>
+                     <interp inst="t17360505-36-defend269" type="given" value="Thomas"></interp>
+                     <interp inst="t17360505-36-defend269" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360505-36-off194" type="offenceDescription">
+                     <interp inst="t17360505-36-off194" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360505-36-off194" type="offenceSubcategory" value="other"></interp>
+               stealing 6 Mops, 4 Brushes, and a great Cloth Coat
+            </rs>, the Goods of 
+               
+                  <persName id="t17360505-36-victim271" type="victimName">
+                     John 
+                     Wright 
+                  <interp inst="t17360505-36-victim271" type="surname" value="Wright"></interp>
+                     <interp inst="t17360505-36-victim271" type="given" value="John"></interp>
+                     <interp inst="t17360505-36-victim271" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360505-36-off194 t17360505-36-victim271"></join>
+                  </persName>
+                
+            , his Master, <rs id="t17360505-36-cd195" type="crimeDate">April 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-36-off194 t17360505-36-cd195"></join>. <rs id="t17360505-36-verdict196" type="verdictDescription">
+                     <interp inst="t17360505-36-verdict196" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

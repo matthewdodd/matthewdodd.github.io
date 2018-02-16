@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-100">
+               <interp inst="t16890516-100" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-100" type="year" value="1689"></interp>
+               <interp inst="t16890516-100" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-100" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-100-off436-c285" targOrder="Y" targets="t16890516-100-defend462 t16890516-100-off436 t16890516-100-verdict439"></join>
+               <join result="criminalCharge" id="t16890516-100-off436-c286" targOrder="Y" targets="t16890516-100-defend464 t16890516-100-off436 t16890516-100-verdict439"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-100-defend462" type="defendantName">
+                     George 
+                     Ballard
+                  <interp inst="t16890516-100-defend462" type="surname" value="Ballard"></interp>
+                     <interp inst="t16890516-100-defend462" type="given" value="George"></interp>
+                     <interp inst="t16890516-100-defend462" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16890516-100-defend464" type="defendantName">
+                     Stephen 
+                     Pool
+                  <interp inst="t16890516-100-defend464" type="surname" value="Pool"></interp>
+                     <interp inst="t16890516-100-defend464" type="given" value="Stephen"></interp>
+                     <interp inst="t16890516-100-defend464" type="gender" value="male"></interp>
+                  </persName>
+               
+             were Tryed for <rs id="t16890516-100-off436" type="offenceDescription">
+                     <interp inst="t16890516-100-off436" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-100-off436" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing 
+                     
+                        <persName id="t16890516-100-victim466" type="victimName">
+                           Francis 
+                           Kyte
+                        <interp inst="t16890516-100-victim466" type="surname" value="Kyte"></interp>
+                        <interp inst="t16890516-100-victim466" type="given" value="Francis"></interp>
+                        <interp inst="t16890516-100-victim466" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-100-off436 t16890516-100-victim466"></join>
+                     </persName>
+                     
+                   of 15 pair of Shoes value 40 s.
+            </rs> in the Parish of <placeName id="t16890516-100-crimeloc437">Paddington</placeName>
+                  <interp inst="t16890516-100-crimeloc437" type="placeName" value="Paddington"></interp>
+                  <interp inst="t16890516-100-crimeloc437" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16890516-100-off436 t16890516-100-crimeloc437"></join>, on the <rs id="t16890516-100-cd438" type="crimeDate">8th of May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-100-off436 t16890516-100-cd438"></join>. The said Kyte had no Evidence but himself, and he could say nothing material only circumstantial, that Ballard left a Cord behind him that he used to wear, but he could not Swear positively that they were the Persons that Robbed him, and they both denied it. They could call none on their sides for their Reputation, yet they were <rs id="t16890516-100-verdict439" type="verdictDescription">
+                     <interp inst="t16890516-100-verdict439" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560528-28">
+               <interp inst="t17560528-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560528-28" type="year" value="1756"></interp>
+               <interp inst="t17560528-28" type="uri" value="sessionsPapers/17560528"></interp>
+               <interp inst="t17560528-28" type="date" value="17560528"></interp>
+               <join result="criminalCharge" id="t17560528-28-off145-c203" targOrder="Y" targets="t17560528-28-defend261 t17560528-28-off145 t17560528-28-verdict147"></join>
+         
+               <p>208. (M.) 
+               
+                  <persName id="t17560528-28-defend261" type="defendantName">
+                     Ann 
+                     Slingsby 
+                  <interp inst="t17560528-28-defend261" type="surname" value="Slingsby"></interp>
+                     <interp inst="t17560528-28-defend261" type="given" value="Ann"></interp>
+                     <interp inst="t17560528-28-defend261" type="gender" value="female"></interp>
+                  </persName>
+               
+            . <rs id="t17560528-28-deflabel144" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560528-28-defend261 t17560528-28-deflabel144"></join>, was indicted for <rs id="t17560528-28-off145" type="offenceDescription">
+                     <interp inst="t17560528-28-off145" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560528-28-off145" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three iron keys, value 1 d and 4 s. in money numbered
+            </rs>, the property of 
+               
+                  <persName id="t17560528-28-victim263" type="victimName">
+                     John 
+                     Sutherland 
+                  <interp inst="t17560528-28-victim263" type="surname" value="Sutherland"></interp>
+                     <interp inst="t17560528-28-victim263" type="given" value="John"></interp>
+                     <interp inst="t17560528-28-victim263" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17560528-28-off145 t17560528-28-victim263"></join>
+                  </persName>
+                
+            , <rs id="t17560528-28-cd146" type="crimeDate">April 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560528-28-off145 t17560528-28-cd146"></join> +</p>
+               <p>
+                  <rs id="t17560528-28-verdict147" type="verdictDescription">
+                     <interp inst="t17560528-28-verdict147" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

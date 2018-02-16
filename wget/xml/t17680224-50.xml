@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-50">
+               <interp inst="t17680224-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-50" type="year" value="1768"></interp>
+               <interp inst="t17680224-50" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-50" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-50-off323-c444" targOrder="Y" targets="t17680224-50-defend559 t17680224-50-off323 t17680224-50-verdict325"></join>
+         
+               <p>219. (M.) 
+               
+                  <persName id="t17680224-50-defend559" type="defendantName">
+                     Sarah 
+                     Cloudsley 
+                  <interp inst="t17680224-50-defend559" type="surname" value="Cloudsley"></interp>
+                     <interp inst="t17680224-50-defend559" type="given" value="Sarah"></interp>
+                     <interp inst="t17680224-50-defend559" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17680224-50-deflabel322" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-50-defend559 t17680224-50-deflabel322"></join>, was indicted for <rs id="t17680224-50-off323" type="offenceDescription">
+                     <interp inst="t17680224-50-off323" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680224-50-off323" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three linen aprons, value 3 s. two silk handkerchiefs, value 3 s. an iron tobacco-box, a coral necklace, two pair of silk mittins, and six linen clouts
+            </rs>, the property of 
+               
+                  <persName id="t17680224-50-victim561" type="victimName">
+                     Daniel 
+                     Trimmings 
+                  <interp inst="t17680224-50-victim561" type="surname" value="Trimmings"></interp>
+                     <interp inst="t17680224-50-victim561" type="given" value="Daniel"></interp>
+                     <interp inst="t17680224-50-victim561" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680224-50-off323 t17680224-50-victim561"></join>
+                  </persName>
+               
+            , <rs id="t17680224-50-cd324" type="crimeDate">Jan. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-50-off323 t17680224-50-cd324"></join>. ||</p>
+               <p>
+                  <rs id="t17680224-50-verdict325" type="verdictDescription">
+                     <interp inst="t17680224-50-verdict325" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

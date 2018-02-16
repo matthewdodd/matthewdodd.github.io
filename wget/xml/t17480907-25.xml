@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480907-25">
+               <interp inst="t17480907-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480907-25" type="year" value="1748"></interp>
+               <interp inst="t17480907-25" type="uri" value="sessionsPapers/17480907"></interp>
+               <interp inst="t17480907-25" type="date" value="17480907"></interp>
+               <join result="criminalCharge" id="t17480907-25-off116-c143" targOrder="Y" targets="t17480907-25-defend196 t17480907-25-off116 t17480907-25-verdict118"></join>
+         
+               <p>411. 
+               
+                  <persName id="t17480907-25-defend196" type="defendantName">
+                     Ann 
+                     Winfield 
+                  <interp inst="t17480907-25-defend196" type="surname" value="Winfield"></interp>
+                     <interp inst="t17480907-25-defend196" type="given" value="Ann"></interp>
+                     <interp inst="t17480907-25-defend196" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17480907-25-off116" type="offenceDescription">
+                     <interp inst="t17480907-25-off116" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480907-25-off116" type="offenceSubcategory" value="other"></interp>
+               stealing a cloth cloak, &amp;c. the goods of 
+                     
+                        <persName id="t17480907-25-victim198" type="victimName">
+                           Thomas 
+                           Robinson 
+                        <interp inst="t17480907-25-victim198" type="surname" value="Robinson"></interp>
+                        <interp inst="t17480907-25-victim198" type="given" value="Thomas"></interp>
+                        <interp inst="t17480907-25-victim198" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and two gowns, two shifts, a velvet hood, 2 aprons , a handkerchief, three pair of stockings, &amp;c. the property of 
+                     
+                        <persName id="t17480907-25-victim200" type="victimName">
+                           Mary 
+                           Mason 
+                        <interp inst="t17480907-25-victim200" type="surname" value="Mason"></interp>
+                        <interp inst="t17480907-25-victim200" type="given" value="Mary"></interp>
+                        <interp inst="t17480907-25-victim200" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17480907-25-cd117" type="crimeDate">July 19th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480907-25-off116 t17480907-25-cd117"></join>.</p>
+               <p>
+                  <rs id="t17480907-25-verdict118" type="verdictDescription">
+                     <interp inst="t17480907-25-verdict118" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17480907-25-verdict118" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17480907-25-punish119" type="punishmentDescription">
+                     <interp inst="t17480907-25-punish119" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17480907-25-defend196 t17480907-25-punish119"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

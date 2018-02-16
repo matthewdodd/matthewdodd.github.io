@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17430114-25">
+               <interp inst="t17430114-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17430114-25" type="year" value="1743"></interp>
+               <interp inst="t17430114-25" type="uri" value="sessionsPapers/17430114"></interp>
+               <interp inst="t17430114-25" type="date" value="17430114"></interp>
+               <join result="criminalCharge" id="t17430114-25-off130-c274" targOrder="Y" targets="t17430114-25-defend326 t17430114-25-off130 t17430114-25-verdict133"></join>
+         
+               <p>96. 
+               
+                  <persName id="t17430114-25-defend326" type="defendantName">
+                     John 
+                     Mulliner 
+                  <interp inst="t17430114-25-defend326" type="surname" value="Mulliner"></interp>
+                     <interp inst="t17430114-25-defend326" type="given" value="John"></interp>
+                     <interp inst="t17430114-25-defend326" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17430114-25-defloc129">St. James Westminster</placeName>
+                  <interp inst="t17430114-25-defloc129" type="placeName" value="St. James Westminster"></interp>
+                  <interp inst="t17430114-25-defloc129" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17430114-25-defend326 t17430114-25-defloc129"></join>, was indicted for <rs id="t17430114-25-off130" type="offenceDescription">
+                     <interp inst="t17430114-25-off130" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17430114-25-off130" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Gold Snuff Box Value 10 l. the Goods of 
+                     
+                        <persName id="t17430114-25-victim328" type="victimName">
+                           Lucy 
+                           Woodcock 
+                        <interp inst="t17430114-25-victim328" type="surname" value="Woodcock"></interp>
+                        <interp inst="t17430114-25-victim328" type="given" value="Lucy"></interp>
+                        <interp inst="t17430114-25-victim328" type="gender" value="female"></interp>
+                     </persName>
+                      
+                   , and one Guinea and 13 s
+            </rs> the Money of 
+               
+                  <persName id="t17430114-25-victim330" type="victimName">
+                     Robert 
+                     Kinsey 
+                  <interp inst="t17430114-25-victim330" type="surname" value="Kinsey"></interp>
+                     <interp inst="t17430114-25-victim330" type="given" value="Robert"></interp>
+                     <interp inst="t17430114-25-victim330" type="gender" value="male"></interp>
+                  </persName>
+                
+             , <rs id="t17430114-25-cd131" type="crimeDate">December 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17430114-25-off130 t17430114-25-cd131"></join>.</p>
+
+               <p>
+                  <xptr type="pageFacsimile" doc="174301140020"></xptr>
+            
+                  <persName id="t17430114-25-person331">
+                  Robert 
+                  Kinsey 
+               <interp inst="t17430114-25-person331" type="surname" value="Kinsey"></interp>
+                     <interp inst="t17430114-25-person331" type="given" value="Robert"></interp>
+                     <interp inst="t17430114-25-person331" type="gender" value="male"></interp>
+                  </persName>
+             . The Prisoner was Fellow <rs id="t17430114-25-deflabel132" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17430114-25-defend326 t17430114-25-deflabel132"></join> with me at Mrs. Woodcock's; there was a Gold Snuff-Box of my Mistress's missing from the 24th of November to the 1st of December; the Prisoner was suspected of stealing it, and owned, before Justice Deveil, that he had put it into the Pump in the Yard: I know it is Mrs Woodcock's Box because I have had the Top of it often in my Hand, before it was set in a Snuff-Box, it was a King William and Queen Mary's Gold Medal; there was a Guinea, Half a Crown, and 3 Shillings found in the Box, which he owned to be my Money.</p>
+
+               <p>
+            
+                  <persName id="t17430114-25-person332">
+                  Susanna 
+                  Carter 
+               <interp inst="t17430114-25-person332" type="surname" value="Carter"></interp>
+                     <interp inst="t17430114-25-person332" type="given" value="Susanna"></interp>
+                     <interp inst="t17430114-25-person332" type="gender" value="female"></interp>
+                  </persName>
+             confirmed the foregoing Evidence with respect to the Snuff-Box. <rs id="t17430114-25-verdict133" type="verdictDescription">
+                     <interp inst="t17430114-25-verdict133" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17430114-25-punish134" type="punishmentDescription">
+                     <interp inst="t17430114-25-punish134" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17430114-25-defend326 t17430114-25-punish134"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

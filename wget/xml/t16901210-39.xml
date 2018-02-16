@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901210-39">
+               <interp inst="t16901210-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901210-39" type="year" value="1690"></interp>
+               <interp inst="t16901210-39" type="uri" value="sessionsPapers/16901210"></interp>
+               <interp inst="t16901210-39" type="date" value="16901210"></interp>
+               <join result="criminalCharge" id="t16901210-39-off183-c121" targOrder="Y" targets="t16901210-39-defend184 t16901210-39-off183 t16901210-39-verdict186"></join>
+         
+               <p>
+            
+                  <persName id="t16901210-39-defend184" type="defendantName">
+                  E - 
+                  P -
+               <interp inst="t16901210-39-defend184" type="surname" value="P -"></interp>
+                     <interp inst="t16901210-39-defend184" type="given" value="E -"></interp>
+                     <interp inst="t16901210-39-defend184" type="gender" value="male"></interp>
+                  </persName>
+             was tryed for <rs id="t16901210-39-off183" type="offenceDescription">
+                     <interp inst="t16901210-39-off183" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901210-39-off183" type="offenceSubcategory" value="theftFromPlace"></interp>
+               robbing the House of 
+                     
+                        <persName id="t16901210-39-victim186" type="victimName">
+                           Mary 
+                           Laady
+                        <interp inst="t16901210-39-victim186" type="surname" value="Laady"></interp>
+                        <interp inst="t16901210-39-victim186" type="given" value="Mary"></interp>
+                        <interp inst="t16901210-39-victim186" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16901210-39-off183 t16901210-39-victim186"></join>
+                     </persName>
+                     
+                   of <placeName id="t16901210-39-crimeloc184">S. Andrews Holborn</placeName>
+                     <interp inst="t16901210-39-crimeloc184" type="placeName" value="S. Andrews Holborn"></interp>
+                     <interp inst="t16901210-39-crimeloc184" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16901210-39-off183 t16901210-39-crimeloc184"></join>, on the <rs id="t16901210-39-cd185" type="crimeDate">16th of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16901210-39-off183 t16901210-39-cd185"></join>, of a pair of Holland Sleeves, 4 Musling Neck-cloaths, a Cravat, laced Ruffles and other things of value
+            </rs>. Upon Evidence it appeared, That he had taken a Lodging in the House of the Prosecutor, for himself and one he called his Wife; and at two days end going away without the Knowledge of the Landlady the things were missing. He pleaded the Woman he brought thither was a Whore, pick'd up in the Street, and that she had taken the things without his Knowledg; but owning her for his Wife, and giving no very good Account of himself, he was found <rs id="t16901210-39-verdict186" type="verdictDescription">
+                     <interp inst="t16901210-39-verdict186" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Fellony.</p>
+               <p>
+                  <rs id="t16901210-39-punish187" type="punishmentDescription">
+                     <interp inst="t16901210-39-punish187" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16901210-39-punish187" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901210-39-defend184 t16901210-39-punish187"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

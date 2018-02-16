@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17451204-8">
+               <interp inst="t17451204-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17451204-8" type="year" value="1745"></interp>
+               <interp inst="t17451204-8" type="uri" value="sessionsPapers/17451204"></interp>
+               <interp inst="t17451204-8" type="date" value="17451204"></interp>
+               <join result="criminalCharge" id="t17451204-8-off43-c112" targOrder="Y" targets="t17451204-8-defend127 t17451204-8-off43 t17451204-8-verdict44"></join>
+         
+               <p>8. 
+               
+                  <persName id="t17451204-8-defend127" type="defendantName">
+                     Mary 
+                     Clark 
+                  <interp inst="t17451204-8-defend127" type="surname" value="Clark"></interp>
+                     <interp inst="t17451204-8-defend127" type="given" value="Mary"></interp>
+                     <interp inst="t17451204-8-defend127" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17451204-8-off43" type="offenceDescription">
+                     <interp inst="t17451204-8-off43" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17451204-8-off43" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Fustian Frock, value 5 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17451204-8-victim129" type="victimName">
+                     Joseph 
+                     Hocker 
+                  <interp inst="t17451204-8-victim129" type="surname" value="Hocker"></interp>
+                     <interp inst="t17451204-8-victim129" type="given" value="Joseph"></interp>
+                     <interp inst="t17451204-8-victim129" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17451204-8-off43 t17451204-8-victim129"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+            
+                  <persName id="t17451204-8-person130">
+                  Joseph 
+                  Hocker 
+               <interp inst="t17451204-8-person130" type="surname" value="Hocker"></interp>
+                     <interp inst="t17451204-8-person130" type="given" value="Joseph"></interp>
+                     <interp inst="t17451204-8-person130" type="gender" value="male"></interp>
+                  </persName>
+            . I lost a Fustain Frock last Saturday was a Fortnight. Coming out of my Room,<xptr type="pageFacsimile" doc="174512040008"></xptr> this Woman came down one Pair of Stairs, and she ask'd for one Clark, a Washerwoman; and seeing a Bundle in her Lap, I laid hold of her Cloak, and she threw the Things down before me.</p>
+               <p>Prisoner. Could say nothing in her own Defence. <rs id="t17451204-8-verdict44" type="verdictDescription">
+                     <interp inst="t17451204-8-verdict44" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17451204-8-punish45" type="punishmentDescription">
+                     <interp inst="t17451204-8-punish45" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17451204-8-punish45" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17451204-8-defend127 t17451204-8-punish45"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

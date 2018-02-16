@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-2">
+               <interp inst="t17351210-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-2" type="year" value="1735"></interp>
+               <interp inst="t17351210-2" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-2" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-2-off5-c29" targOrder="Y" targets="t17351210-2-defend32 t17351210-2-off5 t17351210-2-verdict9"></join>
+               <join result="criminalCharge" id="t17351210-2-off7-c32" targOrder="Y" targets="t17351210-2-defend37 t17351210-2-off7 t17351210-2-verdict10"></join>
+         
+               <p>2. 
+               
+                  <persName id="t17351210-2-defend32" type="defendantName">
+                     Thomas 
+                     Perrin 
+                  <interp inst="t17351210-2-defend32" type="surname" value="Perrin"></interp>
+                     <interp inst="t17351210-2-defend32" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17351210-2-off5" type="offenceDescription">
+                     <interp inst="t17351210-2-off5" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-2-off5" type="offenceSubcategory" value="other"></interp>
+               stealing one Yard of silk Tissue one Yard of silk Brocade, and two Yards of silk Damask
+            </rs>, the Goods of 
+               
+                  <persName id="t17351210-2-victim34" type="victimName">
+                     Arthur 
+                     Lone 
+                  <interp inst="t17351210-2-victim34" type="surname" value="Lone"></interp>
+                     <interp inst="t17351210-2-victim34" type="given" value="Arthur"></interp>
+                     <interp inst="t17351210-2-victim34" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17351210-2-victim35" type="victimName">
+                  Lowel 
+                  Chessey 
+               <interp inst="t17351210-2-victim35" type="surname" value="Chessey"></interp>
+                     <interp inst="t17351210-2-victim35" type="given" value="Lowel"></interp>
+                     <interp inst="t17351210-2-victim35" type="gender" value="male"></interp>
+                  </persName>
+             . <rs id="t17351210-2-cd6" type="crimeDate">October 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-2-off5 t17351210-2-cd6"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-2-off7 t17351210-2-cd6"></join>. and</p>
+               <p>3. 
+               
+                  <persName id="t17351210-2-defend37" type="defendantName">
+                     Margaret 
+                     Wake 
+                  <interp inst="t17351210-2-defend37" type="surname" value="Wake"></interp>
+                     <interp inst="t17351210-2-defend37" type="given" value="Margaret"></interp>
+                     <interp inst="t17351210-2-defend37" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17351210-2-off7" type="offenceDescription">
+                     <interp inst="t17351210-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-2-off7" type="offenceSubcategory" value="receiving"></interp>
+               receiving one Yard of silk Tissue, part of the said Goods, knowing it to be stolen
+            </rs>, <rs id="t17351210-2-cd8" type="crimeDate">October, 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-2-off5 t17351210-2-cd8"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-2-off7 t17351210-2-cd8"></join>. Perrin <rs id="t17351210-2-verdict9" type="verdictDescription">
+                     <interp inst="t17351210-2-verdict9" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17351210-2-verdict9" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty 10 d
+            </rs> and Wake <rs id="t17351210-2-verdict10" type="verdictDescription">
+                     <interp inst="t17351210-2-verdict10" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17351210-2-punish11" type="punishmentDescription">
+                     <interp inst="t17351210-2-punish11" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17351210-2-punish11" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-2-defend32 t17351210-2-punish11"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

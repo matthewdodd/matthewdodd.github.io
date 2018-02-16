@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910527-6">
+               <interp inst="t16910527-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910527-6" type="year" value="1691"></interp>
+               <interp inst="t16910527-6" type="uri" value="sessionsPapers/16910527"></interp>
+               <interp inst="t16910527-6" type="date" value="16910527"></interp>
+               <join result="criminalCharge" id="t16910527-6-off26-c16" targOrder="Y" targets="t16910527-6-defend16 t16910527-6-off26 t16910527-6-verdict29"></join>
+         
+               <p>
+            
+                  <persName id="t16910527-6-defend16" type="defendantName">
+                  Anne 
+                  Butcher
+               <interp inst="t16910527-6-defend16" type="surname" value="Butcher"></interp>
+                     <interp inst="t16910527-6-defend16" type="given" value="Anne"></interp>
+                     <interp inst="t16910527-6-defend16" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for that she, <rs id="t16910527-6-off26" type="offenceDescription">
+                     <interp inst="t16910527-6-off26" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t16910527-6-off26" type="offenceSubcategory" value="robbery"></interp>
+               together with one 
+                     <persName id="t16910527-6-person17">
+                        Margaret 
+                        Tyler
+                     <interp inst="t16910527-6-person17" type="surname" value="Tyler"></interp>
+                        <interp inst="t16910527-6-person17" type="given" value="Margaret"></interp>
+                        <interp inst="t16910527-6-person17" type="gender" value="female"></interp>
+                     </persName>
+                  , 
+                     <persName id="t16910527-6-person18">
+                        Christian 
+                        Mackdoll
+                     <interp inst="t16910527-6-person18" type="surname" value="Mackdoll"></interp>
+                        <interp inst="t16910527-6-person18" type="given" value="Christian"></interp>
+                        <interp inst="t16910527-6-person18" type="gender" value="male"></interp>
+                     </persName>
+                  , not yet taken, did make an Assault upon one Mrs. 
+                     <persName id="t16910527-6-victim19" type="victimName">
+                        Anne 
+                        Glover
+                     <interp inst="t16910527-6-victim19" type="surname" value="Glover"></interp>
+                        <interp inst="t16910527-6-victim19" type="given" value="Anne"></interp>
+                        <interp inst="t16910527-6-victim19" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910527-6-off26 t16910527-6-victim19"></join>
+                     </persName>
+                  , in the <placeName id="t16910527-6-crimeloc27">Poultrey</placeName>
+                     <interp inst="t16910527-6-crimeloc27" type="placeName" value="Poultrey"></interp>
+                     <interp inst="t16910527-6-crimeloc27" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910527-6-off26 t16910527-6-crimeloc27"></join>, on the <rs id="t16910527-6-cd28" type="crimeDate">21st of this Instant May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910527-6-off26 t16910527-6-cd28"></join>. She swore, That as she was going along the Street, the Prisoner and two more Women met her, and assaulted her in a most violent and base manner, taking away a Poynt-Lace Head-Dress, value 3 l. one Gold Ear-Ring, value 5 s. a Lac't Tippet, &amp;c.
+            </rs> The Prisoner said she was in Drink, which was no ways credited by the Court; and she had no Witness, but appeared to be a Woman of a very wicked Life, she was found <rs id="t16910527-6-verdict29" type="verdictDescription">
+                     <interp inst="t16910527-6-verdict29" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16910527-6-punish30" type="punishmentDescription">
+                     <interp inst="t16910527-6-punish30" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16910527-6-punish30" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910527-6-defend16 t16910527-6-punish30"></join>
+               
+                     <note>[Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

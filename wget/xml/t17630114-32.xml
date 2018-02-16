@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17630114-32">
+               <interp inst="t17630114-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t17630114-32" type="year" value="1763"></interp>
+               <interp inst="t17630114-32" type="uri" value="sessionsPapers/17630114"></interp>
+               <interp inst="t17630114-32" type="date" value="17630114"></interp>
+               <join result="criminalCharge" id="t17630114-32-off165-c233" targOrder="Y" targets="t17630114-32-defend288 t17630114-32-off165 t17630114-32-verdict168"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="176301140027"></xptr>97. (L.) 
+               <persName id="t17630114-32-defend288" type="defendantName">
+                  George 
+                  Wilkinson 
+               <interp inst="t17630114-32-defend288" type="surname" value="Wilkinson"></interp>
+                     <interp inst="t17630114-32-defend288" type="given" value="George"></interp>
+                     <interp inst="t17630114-32-defend288" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17630114-32-off165" type="offenceDescription">
+                     <interp inst="t17630114-32-off165" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17630114-32-off165" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cloth coat, val. 10 s.
+            </rs> the property of 
+               <persName id="t17630114-32-victim289" type="victimName">
+                  Charles 
+                  King 
+               <interp inst="t17630114-32-victim289" type="surname" value="King"></interp>
+                     <interp inst="t17630114-32-victim289" type="given" value="Charles"></interp>
+                     <interp inst="t17630114-32-victim289" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17630114-32-off165 t17630114-32-victim289"></join>
+                  </persName>
+             , <rs id="t17630114-32-cd166" type="crimeDate">Jan. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17630114-32-off165 t17630114-32-cd166"></join>.~</p>
+               <p>
+            
+                  <persName id="t17630114-32-person290">
+                  Charles 
+                  King 
+               <interp inst="t17630114-32-person290" type="surname" value="King"></interp>
+                     <interp inst="t17630114-32-person290" type="given" value="Charles"></interp>
+                     <interp inst="t17630114-32-person290" type="gender" value="male"></interp>
+                  </persName>
+            . Last Saturday was se'nnight I was sitting in my back room, I perceived some coats fall from a shelf.</p>
+               <p>Q. Where do you live?</p>
+               <p>King. On <placeName id="t17630114-32-crimeloc167">Saffron-hill</placeName>
+                  <interp inst="t17630114-32-crimeloc167" type="placeName" value="Saffron-hill"></interp>
+                  <interp inst="t17630114-32-crimeloc167" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17630114-32-off165 t17630114-32-crimeloc167"></join> facing the globe. I went into the shop and missed a coat. I ran up Chick-lane, and just by Mr. Dolman's door met with the prisoner with the coat on his arm; I took him into custody. (The coat produced and deposed to) The prisoner said he had bought the coat. I had tried the coat on a customer the same day.</p>
+               <p>Q. Did you see any body in your shop when the coats fell?</p>
+
+               <p>King. No I did not.</p>
+               <p>Q. How near the door was this shelf?</p>
+               <p>King. About 2 or 3 yards.</p>
+               <p>Mr. Dolman. I was at my door, the prisoner was stopt there, and brought the prisoner in with this coat on his arm; he charged me with him, I being constable.</p>
+               <p>The Prisoner said nothing in his defence.</p>
+               <p>He called 
+               <persName id="t17630114-32-person291">
+                  Samuel 
+                  Tidmash 
+               <interp inst="t17630114-32-person291" type="surname" value="Tidmash"></interp>
+                     <interp inst="t17630114-32-person291" type="given" value="Samuel"></interp>
+                     <interp inst="t17630114-32-person291" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17630114-32-person292">
+                  William 
+                  French 
+               <interp inst="t17630114-32-person292" type="surname" value="French"></interp>
+                     <interp inst="t17630114-32-person292" type="given" value="William"></interp>
+                     <interp inst="t17630114-32-person292" type="gender" value="male"></interp>
+                  </persName>
+            , who had known him above 12 years, who gave him a good character.</p>
+               <p>
+                  <rs id="t17630114-32-verdict168" type="verdictDescription">
+                     <interp inst="t17630114-32-verdict168" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17630114-32-punish169" type="punishmentDescription">
+                     <interp inst="t17630114-32-punish169" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17630114-32-defend288 t17630114-32-punish169"></join>
+               T
+            </rs>.</p>
+            </div1>

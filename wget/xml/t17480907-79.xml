@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480907-79">
+               <interp inst="t17480907-79" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480907-79" type="year" value="1748"></interp>
+               <interp inst="t17480907-79" type="uri" value="sessionsPapers/17480907"></interp>
+               <interp inst="t17480907-79" type="date" value="17480907"></interp>
+               <join result="criminalCharge" id="t17480907-79-off390-c477" targOrder="Y" targets="t17480907-79-defend631 t17480907-79-off390 t17480907-79-verdict392"></join>
+         
+               <p>477. 
+               
+                  <persName id="t17480907-79-defend631" type="defendantName">
+                     Margaret 
+                     Lacey 
+                  <interp inst="t17480907-79-defend631" type="surname" value="Lacey"></interp>
+                     <interp inst="t17480907-79-defend631" type="given" value="Margaret"></interp>
+                     <interp inst="t17480907-79-defend631" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17480907-79-off390" type="offenceDescription">
+                     <interp inst="t17480907-79-off390" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480907-79-off390" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a cloth cloak, a cotton gown, a petticoat, and a silver spoon, all about the value of 30 s.
+            </rs> the property of 
+               
+                  <persName id="t17480907-79-victim633" type="victimName">
+                     William 
+                     Tovey 
+                  <interp inst="t17480907-79-victim633" type="surname" value="Tovey"></interp>
+                     <interp inst="t17480907-79-victim633" type="given" value="William"></interp>
+                     <interp inst="t17480907-79-victim633" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480907-79-off390 t17480907-79-victim633"></join>
+                  </persName>
+                
+            , <rs id="t17480907-79-cd391" type="crimeDate">July 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480907-79-off390 t17480907-79-cd391"></join>.</p>
+               <p>
+                  <rs id="t17480907-79-verdict392" type="verdictDescription">
+                     <interp inst="t17480907-79-verdict392" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

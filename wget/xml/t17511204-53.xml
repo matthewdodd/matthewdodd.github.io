@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17511204-53">
+               <interp inst="t17511204-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t17511204-53" type="year" value="1751"></interp>
+               <interp inst="t17511204-53" type="uri" value="sessionsPapers/17511204"></interp>
+               <interp inst="t17511204-53" type="date" value="17511204"></interp>
+               <join result="criminalCharge" id="t17511204-53-off299-c387" targOrder="Y" targets="t17511204-53-defend499 t17511204-53-off299 t17511204-53-verdict303"></join>
+         
+               <p>66. (L.) 
+               
+                  <persName id="t17511204-53-defend499" type="defendantName">
+                     Mary 
+                     Jones 
+                  <interp inst="t17511204-53-defend499" type="surname" value="Jones"></interp>
+                     <interp inst="t17511204-53-defend499" type="given" value="Mary"></interp>
+                     <interp inst="t17511204-53-defend499" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17511204-53-deflabel298" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-53-defend499 t17511204-53-deflabel298"></join>, was indicted <rs id="t17511204-53-off299" type="offenceDescription">
+                     <interp inst="t17511204-53-off299" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17511204-53-off299" type="offenceSubcategory" value="grandLarceny"></interp>
+               for stealing 7 scarlet cloaks, val. 30 s. 2 drab cloth cloaks, val. 13 s.
+            </rs> the goods of 
+               
+                  <persName id="t17511204-53-victim501" type="victimName">
+                     Thomas 
+                     Spendal 
+                  <interp inst="t17511204-53-victim501" type="surname" value="Spendal"></interp>
+                     <interp inst="t17511204-53-victim501" type="given" value="Thomas"></interp>
+                     <interp inst="t17511204-53-victim501" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17511204-53-off299 t17511204-53-victim501"></join>
+                  </persName>
+                
+            , <rs id="t17511204-53-cd300" type="crimeDate">Nov. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17511204-53-off299 t17511204-53-cd300"></join>. *.</p>
+               <p>
+            
+                  <persName id="t17511204-53-person502">
+                  Tho 
+                  Spendal 
+               <interp inst="t17511204-53-person502" type="surname" value="Spendal"></interp>
+                     <interp inst="t17511204-53-person502" type="given" value="Tho"></interp>
+                     <interp inst="t17511204-53-person502" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17511204-53-viclabel301" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-53-victim501 t17511204-53-viclabel301"></join>: On the 27th of Nov. I was gone to the barber's to be shaved; my wife met me, and said, For God's sake make haste, we have got a thief. The prisoner was a <rs id="t17511204-53-deflabel302" type="occupation">workwoman with my wife. My wife makes cloaks</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-53-defend499 t17511204-53-deflabel302"></join>, &amp;c.</p>
+               <p>Q. How came you to suspect, or tax the prisoner ?</p>
+               <p>Spendal. There was one missing, which was not finished, the button-holes were not made. The woman that was at work on it came down stairs and complained; upon which we made enquiry. They had got the prisoner into the parlour, taxing her with knowing which way it was gone: She owned she had took it. Said I, Very likely she has took more. Then she owned to 2 more, till at last she owned to 8, which she said she had pawned to 6 different pawnbrokers: This (holding one in his hand, with the 2 button-holes not finished ) she owned she pawned to Mr. Erwin, for 6 shillings.</p>
+               <p>
+            
+                  <persName id="t17511204-53-person503">
+                  John 
+                  Erwin 
+               <interp inst="t17511204-53-person503" type="surname" value="Erwin"></interp>
+                     <interp inst="t17511204-53-person503" type="given" value="John"></interp>
+                     <interp inst="t17511204-53-person503" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker, I live in Chiswel-street; to the best of my knowledge, the prisoner is the woman that brought that cloak to me, I never saw her before.</p>
+               <p>Q. When did she bring it?</p>
+               <p>Erwin. I believe, last Thursday was a week. He described it, as the prosecutor did, by the buttonholes ; and the prosecutor deposed to it.</p>
+               <p>Prisoner. I have nothing at all to say for myself.</p>
+               <p>
+                  <rs id="t17511204-53-verdict303" type="verdictDescription">
+                     <interp inst="t17511204-53-verdict303" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17511204-53-punish304" type="punishmentDescription">
+                     <interp inst="t17511204-53-punish304" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17511204-53-defend499 t17511204-53-punish304"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

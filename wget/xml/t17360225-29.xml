@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-29">
+               <interp inst="t17360225-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-29" type="year" value="1736"></interp>
+               <interp inst="t17360225-29" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-29" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-29-off175-c138" targOrder="Y" targets="t17360225-29-defend196 t17360225-29-off175 t17360225-29-verdict181"></join>
+               <join result="criminalCharge" id="t17360225-29-off175-c139" targOrder="Y" targets="t17360225-29-defend198 t17360225-29-off175 t17360225-29-verdict180"></join>
+         
+
+               <p>36, 37. 
+               
+                  <persName id="t17360225-29-defend196" type="defendantName">
+                     Mary 
+                     White 
+                  <interp inst="t17360225-29-defend196" type="surname" value="White"></interp>
+                     <interp inst="t17360225-29-defend196" type="given" value="Mary"></interp>
+                     <interp inst="t17360225-29-defend196" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17360225-29-defend198" type="defendantName">
+                     Anne 
+                     Jones 
+                  <interp inst="t17360225-29-defend198" type="surname" value="Jones"></interp>
+                     <interp inst="t17360225-29-defend198" type="given" value="Anne"></interp>
+                     <interp inst="t17360225-29-defend198" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17360225-29-off175" type="offenceDescription">
+                     <interp inst="t17360225-29-off175" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-29-off175" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing 7 Yards of Lawn, value 16 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360225-29-victim200" type="victimName">
+                     William 
+                     Davis 
+                  <interp inst="t17360225-29-victim200" type="surname" value="Davis"></interp>
+                     <interp inst="t17360225-29-victim200" type="given" value="William"></interp>
+                     <interp inst="t17360225-29-victim200" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360225-29-off175 t17360225-29-victim200"></join>
+                  </persName>
+                
+            , out of his Shop, the <rs id="t17360225-29-cd176" type="crimeDate">19th of this Instant February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-29-off175 t17360225-29-cd176"></join>, in the Parish of <placeName id="t17360225-29-defloc177">St. Vedast, Foster lane</placeName>
+                  <interp inst="t17360225-29-defloc177" type="placeName" value="St. Vedast, Foster lane"></interp>
+                  <interp inst="t17360225-29-defloc177" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-29-defend196 t17360225-29-defloc177"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-29-defend198 t17360225-29-defloc177"></join>.</p>
+               <p>William Davis. I am a <rs id="t17360225-29-viclabel178" type="occupation">Linnen-Draper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-29-victim200 t17360225-29-viclabel178"></join> in <placeName id="t17360225-29-crimeloc179">Cheap side</placeName>
+                  <interp inst="t17360225-29-crimeloc179" type="placeName" value="Cheap side"></interp>
+                  <interp inst="t17360225-29-crimeloc179" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360225-29-off175 t17360225-29-crimeloc179"></join>; between 3 and 4 in the Afternoon, the Prisoner White came into my Shop for half an Ell of Holland: Ann Jones came in immediately after her. White paid me for the half Ell of Holland, and was going out: Mr. Hodges, who is likewise a Draper, stopped her, brought her into my Shop, and said she had been in his Shop. and had stole a Piece of Cambrick, therefore he would search her: He got hold of both her Hands and held them out; and a Piece of Lawn dropped from her on the Ground in the Shop: These are my Goods, says he, but they proved to be mine, and was marked in the End. I had just shown some Lawns to a Customer, and several Pieces Lay upon the Counter.</p>
+               <p>Mr. Hodges. They had been in my Shop just before; I discovered what they were, and clear'd my Counter, that there might be nothing near them. White came in first, and Jones followed her. I could not keep them together, they would be running one to one end, the other to the other end of the Counter. I had just laid 5 Pieces of Cambrick at one end. White had bought a Quarter of a Yard, it was tore off, and was abruptly going away without paying for it: I made her pay for it, and then they went away. As soon as they were gone. I miss'd a Piece of Cambrick, and pursued them to Mr. Davis's Shop. I let her come out a little way into the Street; then I carried her back into his Shop, and to prevent her conveying the Goods away, I held her Arms open; but she got one Hand at liberty, and shook her Petticoats, and I saw the Lawn drop from her, before it came to the Ground, and she endeavoured to kick and spurn it from her.</p>
+               <p>Several Persons appeared to White's Character.</p>
+               <p>Anne Jones <rs id="t17360225-29-verdict180" type="verdictDescription">
+                     <interp inst="t17360225-29-verdict180" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, Mary White <rs id="t17360225-29-verdict181" type="verdictDescription">
+                     <interp inst="t17360225-29-verdict181" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-29-verdict181" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-29-punish182" type="punishmentDescription">
+                     <interp inst="t17360225-29-punish182" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-29-defend196 t17360225-29-punish182"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-29-defend198 t17360225-29-punish182"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

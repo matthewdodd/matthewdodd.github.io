@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370907-63">
+               <interp inst="t17370907-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370907-63" type="year" value="1737"></interp>
+               <interp inst="t17370907-63" type="uri" value="sessionsPapers/17370907"></interp>
+               <interp inst="t17370907-63" type="date" value="17370907"></interp>
+               <join result="criminalCharge" id="t17370907-63-off324-c298" targOrder="Y" targets="t17370907-63-defend423 t17370907-63-off324 t17370907-63-verdict326"></join>
+         
+               <p>68. 
+               
+                  <persName id="t17370907-63-defend423" type="defendantName">
+                     Mary 
+                     Nelson 
+                  <interp inst="t17370907-63-defend423" type="surname" value="Nelson"></interp>
+                     <interp inst="t17370907-63-defend423" type="given" value="Mary"></interp>
+                     <interp inst="t17370907-63-defend423" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370907-63-defloc323">St. Martin's-in the-Fields</placeName>
+                  <interp inst="t17370907-63-defloc323" type="placeName" value="St. Martin's-in the-Fields"></interp>
+                  <interp inst="t17370907-63-defloc323" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370907-63-defend423 t17370907-63-defloc323"></join>, was indicted for <rs id="t17370907-63-off324" type="offenceDescription">
+                     <interp inst="t17370907-63-off324" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17370907-63-off324" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17370907-63-victim425" type="victimName">
+                           Elizabeth 
+                           Fewteret 
+                        <interp inst="t17370907-63-victim425" type="surname" value="Fewteret"></interp>
+                        <interp inst="t17370907-63-victim425" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17370907-63-victim425" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370907-63-off324 t17370907-63-victim425"></join>
+                     </persName>
+                      
+                   on the King's Highway, putting her in Fear, &amp;c. and taking from her a Suit of Headcloaths, value 2 s.
+            </rs> 
+                  <rs id="t17370907-63-cd325" type="crimeDate">August 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370907-63-off324 t17370907-63-cd325"></join>. <rs id="t17370907-63-verdict326" type="verdictDescription">
+                     <interp inst="t17370907-63-verdict326" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

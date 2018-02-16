@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500425-44">
+               <interp inst="t17500425-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500425-44" type="year" value="1750"></interp>
+               <interp inst="t17500425-44" type="uri" value="sessionsPapers/17500425"></interp>
+               <interp inst="t17500425-44" type="date" value="17500425"></interp>
+               <join result="criminalCharge" id="t17500425-44-off224-c265" targOrder="Y" targets="t17500425-44-defend347 t17500425-44-off224 t17500425-44-verdict228"></join>
+         
+               <p>344. 
+               
+                  <persName id="t17500425-44-defend347" type="defendantName">
+                     James 
+                     Nicholson 
+                  <interp inst="t17500425-44-defend347" type="surname" value="Nicholson"></interp>
+                     <interp inst="t17500425-44-defend347" type="given" value="James"></interp>
+                     <interp inst="t17500425-44-defend347" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted, for that <rs id="t17500425-44-off224" type="offenceDescription">
+                     <interp inst="t17500425-44-off224" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17500425-44-off224" type="offenceSubcategory" value="highwayRobbery"></interp>
+               he on the king's highway upon 
+                     
+                        <persName id="t17500425-44-victim349" type="victimName">
+                           Elizabeth 
+                           Brady 
+                        <interp inst="t17500425-44-victim349" type="surname" value="Brady"></interp>
+                        <interp inst="t17500425-44-victim349" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17500425-44-victim349" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17500425-44-off224 t17500425-44-victim349"></join>
+                     </persName>
+                      
+                  , <rs id="t17500425-44-viclabel225" type="occupation">spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17500425-44-victim349 t17500425-44-viclabel225"></join>, did make a felonious assault, one velvet cloak, val. 10 s. from her person did steal, take, and carry away
+            </rs>, <rs id="t17500425-44-cd226" type="crimeDate">March 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500425-44-off224 t17500425-44-cd226"></join>.</p>
+               <p>Eliz 
+               <persName id="t17500425-44-person350">
+                  Brady 
+                  As 
+               <interp inst="t17500425-44-person350" type="surname" value="As"></interp>
+                     <interp inst="t17500425-44-person350" type="given" value="Brady"></interp>
+                     <interp inst="t17500425-44-person350" type="gender" value="indeterminate"></interp>
+                  </persName>
+             I was coming under the <placeName id="t17500425-44-crimeloc227">Duke of Bolton's arch</placeName>
+                  <interp inst="t17500425-44-crimeloc227" type="placeName" value="Duke of Bolton's arch"></interp>
+                  <interp inst="t17500425-44-crimeloc227" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500425-44-off224 t17500425-44-crimeloc227"></join>, March 28, at about a quarter after eight o'clock a night, a man met me with a handful of mud in his hand; he flung the mud in my face, which knock'd me down, and then he tore the cloak from off me: He was soon taken, and when we got him into a house, he was asked to shew his Hand, and it was very muddy.</p>
+               <p>
+            
+                  <persName id="t17500425-44-person351">
+                  James 
+                  Moson 
+               <interp inst="t17500425-44-person351" type="surname" value="Moson"></interp>
+                     <interp inst="t17500425-44-person351" type="given" value="James"></interp>
+                     <interp inst="t17500425-44-person351" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the corner of Brook-street, when I heard the cry of Thieves, I saw some chair-men run, so I run. As I was going by the prisoner he asked me what was the matter, saying, had any body lost any thing; said I, a gentlewoman has lost a cloak: He said there were two men gone up Bond-street, adding, they ought to be hanged that did it. I saw something under his coat like a cloak, being about two yards from him. When the chair-men came back, I said, I had a strong suspicion of this Man; by this time he had dropped the cloak, and it was taken up at his foot. The gentlewoman described it. We desired he'd let us see his hand, which was very dirty between the fingers with soft mud.</p>
+               <p>
+            
+                  <persName id="t17500425-44-person352">
+                  John 
+                  Draper 
+               <interp inst="t17500425-44-person352" type="surname" value="Draper"></interp>
+                     <interp inst="t17500425-44-person352" type="given" value="John"></interp>
+                     <interp inst="t17500425-44-person352" type="gender" value="male"></interp>
+                  </persName>
+            , Robert, Crutchley, and James Lee, deposed to the Confirmation of Mason's account.</p>
+               <p>
+                  <rs id="t17500425-44-verdict228" type="verdictDescription">
+                     <interp inst="t17500425-44-verdict228" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17500425-44-punish229" type="punishmentDescription">
+                     <interp inst="t17500425-44-punish229" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500425-44-defend347 t17500425-44-punish229"></join>
+               Death
+            </rs>.</p>
+            </div1>

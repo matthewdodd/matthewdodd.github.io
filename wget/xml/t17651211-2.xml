@@ -1,3 +1,152 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-2">
+               <interp inst="t17651211-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-2" type="year" value="1765"></interp>
+               <interp inst="t17651211-2" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-2" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-2-off7-c35" targOrder="Y" targets="t17651211-2-defend38 t17651211-2-off7 t17651211-2-verdict12"></join>
+         
+               <p>2. (M.) 
+               
+                  <persName id="t17651211-2-defend38" type="defendantName">
+                     Thomas 
+                     Johnson 
+                  <interp inst="t17651211-2-defend38" type="surname" value="Johnson"></interp>
+                     <interp inst="t17651211-2-defend38" type="given" value="Thomas"></interp>
+                     <interp inst="t17651211-2-defend38" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17651211-2-off7" type="offenceDescription">
+                     <interp inst="t17651211-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-2-off7" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one wicker basket, value 6 d. and six dozen of quart glass bottles, value 15 s.
+            </rs> the property of 
+               
+                  <persName id="t17651211-2-victim40" type="victimName">
+                     John 
+                     Middlemarsh 
+                  <interp inst="t17651211-2-victim40" type="surname" value="Middlemarsh"></interp>
+                     <interp inst="t17651211-2-victim40" type="given" value="John"></interp>
+                     <interp inst="t17651211-2-victim40" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17651211-2-viclabel8" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-2-victim40 t17651211-2-viclabel8"></join>; 
+               
+                  <persName id="t17651211-2-victim42" type="victimName">
+                     Samuel 
+                     Lowe 
+                  <interp inst="t17651211-2-victim42" type="surname" value="Lowe"></interp>
+                     <interp inst="t17651211-2-victim42" type="given" value="Samuel"></interp>
+                     <interp inst="t17651211-2-victim42" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17651211-2-victim44" type="victimName">
+                     James 
+                     Watts 
+                  <interp inst="t17651211-2-victim44" type="surname" value="Watts"></interp>
+                     <interp inst="t17651211-2-victim44" type="given" value="James"></interp>
+                     <interp inst="t17651211-2-victim44" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17651211-2-victim46" type="victimName">
+                     Sarah 
+                     Brent 
+                  <interp inst="t17651211-2-victim46" type="surname" value="Brent"></interp>
+                     <interp inst="t17651211-2-victim46" type="given" value="Sarah"></interp>
+                     <interp inst="t17651211-2-victim46" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17651211-2-viclabel9" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-2-victim46 t17651211-2-viclabel9"></join>, <rs id="t17651211-2-cd10" type="crimeDate">Nov. 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-2-off7 t17651211-2-cd10"></join>. *</p>
+               <p>
+            
+                  <persName id="t17651211-2-person47">
+                  James 
+                  Watts 
+               <interp inst="t17651211-2-person47" type="surname" value="Watts"></interp>
+                     <interp inst="t17651211-2-person47" type="given" value="James"></interp>
+                     <interp inst="t17651211-2-person47" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the glass-house, at the old barge-house on the other side the water. Mr. Middlemarsh, Mr. 
+               <persName id="t17651211-2-person48">
+                  Samuel 
+                  Low 
+               <interp inst="t17651211-2-person48" type="surname" value="Low"></interp>
+                     <interp inst="t17651211-2-person48" type="given" value="Samuel"></interp>
+                     <interp inst="t17651211-2-person48" type="gender" value="male"></interp>
+                  </persName>
+            , I, and Mrs. 
+               <persName id="t17651211-2-person49">
+                  Sarah 
+                  Brent 
+               <interp inst="t17651211-2-person49" type="surname" value="Brent"></interp>
+                     <interp inst="t17651211-2-person49" type="given" value="Sarah"></interp>
+                     <interp inst="t17651211-2-person49" type="gender" value="female"></interp>
+                  </persName>
+            , are partners. I sent four porters with a quantity of quart bottles to different customers, on the 13th of last month, to be landed at <placeName id="t17651211-2-crimeloc11">Black-lion-stairs</placeName>
+                  <interp inst="t17651211-2-crimeloc11" type="placeName" value="Black-lion-stairs"></interp>
+                  <interp inst="t17651211-2-crimeloc11" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-2-off7 t17651211-2-crimeloc11"></join>: there was a basket with six dozen.<xptr type="pageFacsimile" doc="176512110003"></xptr> missing. The other witnesses can give a farther account of it, I was not there.</p>
+               <p>
+            
+                  <persName id="t17651211-2-person50">
+                  William 
+                  Wilkins 
+               <interp inst="t17651211-2-person50" type="surname" value="Wilkins"></interp>
+                     <interp inst="t17651211-2-person50" type="given" value="William"></interp>
+                     <interp inst="t17651211-2-person50" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner came to me on the 13th of last month, where I live, in Hungerford market, and desired me to carry some bottles for him: he sent me down, and said there were three prittle baskets, the farthest of them was his. He did not go quite to them, I went and took them up; Mr. Hounsworth helped me up with them. I went to the prisoner, he led me through Church court and Round court, and into Southampton-street, where I had a fall with them, and several were broke; he swore at me and helped me up with them. I carried them to a pitching-place at the corner of White Horse lane, there he gave me three-pence, and I left him and them together.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Wilkins. No, I never saw him before to my knowledge. After they were missing, Mr. Hounsworth informed the porter of me, and they came to me, and I went with them to the house of Mr. Hoy, where the basket and bottles were found.</p>
+               <p>
+            
+                  <persName id="t17651211-2-person51">
+                  Henry 
+                  Hounsworth 
+               <interp inst="t17651211-2-person51" type="surname" value="Hounsworth"></interp>
+                     <interp inst="t17651211-2-person51" type="given" value="Henry"></interp>
+                     <interp inst="t17651211-2-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I live with Mr. Watson, a wine merchant, who trades with Mr. Watts. On the 13th of November about dusk, I was at the Black-lion-stairs, and helped the porter, Wilkins, up with a prittle basket of bottles. I was waiting for some bottles for my master.</p>
+               <p>
+            
+                  <persName id="t17651211-2-person52">
+                  John 
+                  Hoy 
+               <interp inst="t17651211-2-person52" type="surname" value="Hoy"></interp>
+                     <interp inst="t17651211-2-person52" type="given" value="John"></interp>
+                     <interp inst="t17651211-2-person52" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Vere-street, Clare market, I deal in broken glass bottles. The prisoner came to my house about 4 o'clock on the 13th of November, and asked me to buy 16 bottles; they appeared to be new ones, I said I would have nothing to do with them; then he desired I would let him leave the basket, and he would send for it in about half an hour: there was some broken glass at the bottom. (a basket and bottles produced.) These are the same. After that, Mr. Watts's man, name Grant, came and owned them.</p>
+               <p>
+            
+                  <persName id="t17651211-2-person53">
+                  Thomas 
+                  Grant 
+               <interp inst="t17651211-2-person53" type="surname" value="Grant"></interp>
+                     <interp inst="t17651211-2-person53" type="given" value="Thomas"></interp>
+                     <interp inst="t17651211-2-person53" type="gender" value="male"></interp>
+                  </persName>
+            . I am one of Mr. Watts's porters. There was a prittle basket with six dozen bottles of our master's lost from Black-lion stairs; I came with them there in the boat, so did the prisoner: they were missing about 3 in the afternoon on the 13th of November; while I went with some to Albemarle-street, they were taken away from the landing place.</p>
+               <p>Q. Did you leave any one in the care of them?</p>
+               <p>Grant. No, I did not, it is not usual so to do. Mr. Hounsworth told me a porter that lives in Hungerford market, had carried them away; we went and found Wilkins, who went with us, and we found the prittle and these bottles at Mr. Hoy's (here produced) I know the basket to be the property of our master, and the bottles also, there being none like them made nay where else in London.</p>
+               <p>Prisoner's defence.</p>
+               <p>I know nothing of the matter, I never saw these men in my life before.</p>
+               <p>
+                  <rs id="t17651211-2-verdict12" type="verdictDescription">
+                     <interp inst="t17651211-2-verdict12" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17651211-2-punish13" type="punishmentDescription">
+                     <interp inst="t17651211-2-punish13" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17651211-2-defend38 t17651211-2-punish13"></join>
+               T
+            </rs>.</p>
+               <p>He was committed July 22, for obtaining 20 gallons of brandy, by false pretences, the property of Wenman and Co. but the indictment being laid wrong, he was discharged.</p>
+            </div1>

@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490906-81">
+               <interp inst="t17490906-81" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490906-81" type="year" value="1749"></interp>
+               <interp inst="t17490906-81" type="uri" value="sessionsPapers/17490906"></interp>
+               <interp inst="t17490906-81" type="date" value="17490906"></interp>
+               <join result="criminalCharge" id="t17490906-81-off330-c352" targOrder="Y" targets="t17490906-81-defend505 t17490906-81-off330 t17490906-81-verdict332"></join>
+               <join result="criminalCharge" id="t17490906-81-off330-c353" targOrder="Y" targets="t17490906-81-defend507 t17490906-81-off330 t17490906-81-verdict332"></join>
+         
+               <p>578, 579 . 
+               
+                  <persName id="t17490906-81-defend505" type="defendantName">
+                     John 
+                     Sheild 
+                  <interp inst="t17490906-81-defend505" type="surname" value="Sheild"></interp>
+                     <interp inst="t17490906-81-defend505" type="given" value="John"></interp>
+                     <interp inst="t17490906-81-defend505" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17490906-81-defend507" type="defendantName">
+                     Susannah 
+                     Butler 
+                  <interp inst="t17490906-81-defend507" type="surname" value="Butler"></interp>
+                     <interp inst="t17490906-81-defend507" type="given" value="Susannah"></interp>
+                     <interp inst="t17490906-81-defend507" type="gender" value="female"></interp>
+                  </persName>
+                
+             , were indicted for making an <rs id="t17490906-81-off330" type="offenceDescription">
+                     <interp inst="t17490906-81-off330" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17490906-81-off330" type="offenceSubcategory" value="robbery"></interp>
+               assault on 
+                     
+                        <persName id="t17490906-81-victim509" type="victimName">
+                           John 
+                           Man 
+                        <interp inst="t17490906-81-victim509" type="surname" value="Man"></interp>
+                        <interp inst="t17490906-81-victim509" type="given" value="John"></interp>
+                        <interp inst="t17490906-81-victim509" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17490906-81-off330 t17490906-81-victim509"></join>
+                     </persName>
+                      
+                   , and 6 moidores, the goods of the said John, did steal, take and carry away
+            </rs>.</p>
+               <p>
+                  <rs id="t17490906-81-cd331" type="crimeDate">Aug. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490906-81-off330 t17490906-81-cd331"></join>.</p>
+               <p>Both <rs id="t17490906-81-verdict332" type="verdictDescription">
+                     <interp inst="t17490906-81-verdict332" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> .</p>
+            </div1>

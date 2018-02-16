@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-18">
+               <interp inst="t16870831-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-18" type="year" value="1687"></interp>
+               <interp inst="t16870831-18" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-18" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-18-off95-c82" targOrder="Y" targets="t16870831-18-defend106 t16870831-18-off95 t16870831-18-verdict98"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870831-18-defend106" type="defendantName">
+                     Martha 
+                     Smith
+                  <interp inst="t16870831-18-defend106" type="surname" value="Smith"></interp>
+                     <interp inst="t16870831-18-defend106" type="given" value="Martha"></interp>
+                     <interp inst="t16870831-18-defend106" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16870831-18-off95" type="offenceDescription">
+                     <interp inst="t16870831-18-off95" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870831-18-off95" type="offenceSubcategory" value="pocketpicking"></interp>
+               picking the Pocket of 
+                     
+                        <persName id="t16870831-18-victim108" type="victimName">
+                           Joseph 
+                           Sexton
+                        <interp inst="t16870831-18-victim108" type="surname" value="Sexton"></interp>
+                        <interp inst="t16870831-18-victim108" type="given" value="Joseph"></interp>
+                        <interp inst="t16870831-18-victim108" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-18-off95 t16870831-18-victim108"></join>
+                     </persName>
+                     
+                   of six pieces of Gold called French Pistols
+            </rs>, &amp;c. in <placeName id="t16870831-18-crimeloc96">Friday-street</placeName>
+                  <interp inst="t16870831-18-crimeloc96" type="placeName" value="Friday-street"></interp>
+                  <interp inst="t16870831-18-crimeloc96" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870831-18-off95 t16870831-18-crimeloc96"></join>, on the <rs id="t16870831-18-cd97" type="crimeDate">2d of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-18-off95 t16870831-18-cd97"></join> last, the Witness was Sexton, who deposed that two Woman picking him up, they took their opportunity to pick his Pocket and made their escape, but he making pursute after them, apprehended the Prisoner, but not being able to Swear she was one of them, nor the exact time when he lost his Mony, and she pleading she had been to see for a Letter from her Husband, and never saw the Prosecutor before he Apprehended her, she was <rs id="t16870831-18-verdict98" type="verdictDescription">
+                     <interp inst="t16870831-18-verdict98" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

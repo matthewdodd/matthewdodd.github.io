@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900430-32">
+               <interp inst="t16900430-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900430-32" type="year" value="1690"></interp>
+               <interp inst="t16900430-32" type="uri" value="sessionsPapers/16900430"></interp>
+               <interp inst="t16900430-32" type="date" value="16900430"></interp>
+               <join result="criminalCharge" id="t16900430-32-off146-c135" targOrder="Y" targets="t16900430-32-defend186 t16900430-32-off146 t16900430-32-verdict148"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900430-32-defend186" type="defendantName">
+                     William 
+                     Gravestock
+                  <interp inst="t16900430-32-defend186" type="surname" value="Gravestock"></interp>
+                     <interp inst="t16900430-32-defend186" type="given" value="William"></interp>
+                     <interp inst="t16900430-32-defend186" type="gender" value="male"></interp>
+                  </persName>
+               
+            , a <rs id="t16900430-32-deflabel145" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900430-32-defend186 t16900430-32-deflabel145"></join>, was Indicted for <rs id="t16900430-32-off146" type="offenceDescription">
+                     <interp inst="t16900430-32-off146" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16900430-32-off146" type="offenceSubcategory" value="other"></interp>
+               shooting one 
+                     <persName id="t16900430-32-victim187" type="victimName">
+                        Mary 
+                        Feney
+                     <interp inst="t16900430-32-victim187" type="surname" value="Feney"></interp>
+                        <interp inst="t16900430-32-victim187" type="given" value="Mary"></interp>
+                        <interp inst="t16900430-32-victim187" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900430-32-off146 t16900430-32-victim187"></join>
+                     </persName>
+                  , a <rs id="t16900430-32-viclabel147" type="occupation">Girl</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16900430-32-victim187 t16900430-32-viclabel147"></join>, with a Pistol Bullet upon her Arm, giving her a Mortal Wound, 4 inches depth of which she immediately Dy'd
+            </rs>. The Boy said, he did not think the Pistol was Charged, for that he lookt in the Pan and saw no Powder, and he not intend Mischief against the Girl; so he was found <rs id="t16900430-32-verdict148" type="verdictDescription">
+                     <interp inst="t16900430-32-verdict148" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900430-32-verdict148" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16900430-32-punish149" type="punishmentDescription">
+                     <interp inst="t16900430-32-punish149" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900430-32-defend186 t16900430-32-punish149"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

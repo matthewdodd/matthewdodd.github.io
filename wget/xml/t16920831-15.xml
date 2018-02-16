@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-15">
+               <interp inst="t16920831-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-15" type="year" value="1692"></interp>
+               <interp inst="t16920831-15" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-15" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-15-off65-c60" targOrder="Y" targets="t16920831-15-defend60 t16920831-15-off65 t16920831-15-verdict66"></join>
+               <join result="criminalCharge" id="t16920831-15-off67-c60" targOrder="Y" targets="t16920831-15-defend60 t16920831-15-off67 t16920831-15-verdict66"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-15-defend60" type="defendantName">
+                  Jane 
+                  Reynolds
+               <interp inst="t16920831-15-defend60" type="surname" value="Reynolds"></interp>
+                     <interp inst="t16920831-15-defend60" type="given" value="Jane"></interp>
+                     <interp inst="t16920831-15-defend60" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t16920831-15-off65" type="offenceDescription">
+                     <interp inst="t16920831-15-off65" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-15-off65" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from one 
+                     <persName id="t16920831-15-victim61" type="victimName">
+                        Dorothy 
+                        Newman
+                     <interp inst="t16920831-15-victim61" type="surname" value="Newman"></interp>
+                        <interp inst="t16920831-15-victim61" type="given" value="Dorothy"></interp>
+                        <interp inst="t16920831-15-victim61" type="gender" value="female"></interp>
+                     </persName>
+                  , one Silver Spoon, value 2s. 6d. one silver Buckle, value 12d
+            </rs>. The Prisoner was a Lodger at Mrs. Newmans and stole the Goods; the Prisoner did not much deny it, for it was found upon her: She was found <rs id="t16920831-15-verdict66" type="verdictDescription">
+                     <interp inst="t16920831-15-verdict66" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16920831-15-verdict66" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty of Felony to the value of 10d.
+            </rs>
+               </p>
+               <p>She was a Second time Indicted for <rs id="t16920831-15-off67" type="offenceDescription">
+                     <interp inst="t16920831-15-off67" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16920831-15-off67" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing one <rs id="t16920831-15-viclabel68" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16920831-15-victim62 t16920831-15-viclabel68"></join> 
+                  
+                     <persName id="t16920831-15-victim62" type="victimName">
+                        Rob 
+                        Crigg
+                     <interp inst="t16920831-15-victim62" type="surname" value="Crigg"></interp>
+                        <interp inst="t16920831-15-victim62" type="given" value="Rob"></interp>
+                        <interp inst="t16920831-15-victim62" type="gender" value="male"></interp>
+                     </persName>
+                   of <placeName id="t16920831-15-crimeloc69">St. Giles in the Fields</placeName>
+                     <interp inst="t16920831-15-crimeloc69" type="placeName" value="St. Giles in the Fields"></interp>
+                     <interp inst="t16920831-15-crimeloc69" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16920831-15-off65 t16920831-15-crimeloc69"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16920831-15-off67 t16920831-15-crimeloc69"></join>, of 7 Yards of Gray Lace, value 2s. and one Gaws Hood lac'd, value 3s.
+            </rs> The piece of Ribboning  was found in the Prisoners Box, which she confess'd upon her being Examined before the Justice: she begg'd the Mercy of the Bench, and so was found <rs id="t16920831-15-verdict70" type="verdictDescription">
+                     <interp inst="t16920831-15-verdict70" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16920831-15-verdict70" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty only to the value of 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16920831-15-punish71" type="punishmentDescription">
+                     <interp inst="t16920831-15-punish71" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16920831-15-punish71" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-15-defend60 t16920831-15-punish71"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-11">
+               <interp inst="t16910422-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-11" type="year" value="1691"></interp>
+               <interp inst="t16910422-11" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-11" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-11-off53-c65" targOrder="Y" targets="t16910422-11-defend65 t16910422-11-off53 t16910422-11-verdict56"></join>
+               <join result="criminalCharge" id="t16910422-11-off53-c66" targOrder="Y" targets="t16910422-11-defend66 t16910422-11-off53 t16910422-11-verdict56"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-11-defend65" type="defendantName">
+                  Elizabeth 
+                  Hale
+               <interp inst="t16910422-11-defend65" type="surname" value="Hale"></interp>
+                     <interp inst="t16910422-11-defend65" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16910422-11-defend65" type="gender" value="female"></interp>
+                  </persName>
+             and 
+               <persName id="t16910422-11-defend66" type="defendantName">
+                  Elizabeth 
+                  Askew
+               <interp inst="t16910422-11-defend66" type="surname" value="Askew"></interp>
+                     <interp inst="t16910422-11-defend66" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16910422-11-defend66" type="gender" value="female"></interp>
+                  </persName>
+            , were Indicted for <rs id="t16910422-11-off53" type="offenceDescription">
+                     <interp inst="t16910422-11-off53" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910422-11-off53" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910422-11-victim67" type="victimName">
+                        John 
+                        Fisher
+                     <interp inst="t16910422-11-victim67" type="surname" value="Fisher"></interp>
+                        <interp inst="t16910422-11-victim67" type="given" value="John"></interp>
+                        <interp inst="t16910422-11-victim67" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910422-11-off53 t16910422-11-victim67"></join>
+                     </persName>
+                   and <rs id="t16910422-11-viclabel54" type="occupation">Partner</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16910422-11-victim67 t16910422-11-viclabel54"></join>, on the <rs id="t16910422-11-cd55" type="crimeDate">17th of April</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910422-11-off53 t16910422-11-cd55"></join>, 17 Yards of Silk, value 4 l.
+            </rs> The Evidence was possitive that Askew dropt she Silk from under her Apron, in Pater-Noster-Row, which she owned in Court; They were both found <rs id="t16910422-11-verdict56" type="verdictDescription">
+                     <interp inst="t16910422-11-verdict56" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910422-11-verdict56" type="verdictSubcategory" value="theftunder10s"></interp>
+               Guilty to the value of 9 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16910422-11-punish57" type="punishmentDescription">
+                     <interp inst="t16910422-11-punish57" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16910422-11-punish57" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910422-11-defend65 t16910422-11-punish57"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910422-11-defend66 t16910422-11-punish57"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

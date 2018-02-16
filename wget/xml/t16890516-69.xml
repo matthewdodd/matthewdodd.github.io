@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16890516-69">
+               <interp inst="t16890516-69" type="collection" value="BAILEY"></interp>
+               <interp inst="t16890516-69" type="year" value="1689"></interp>
+               <interp inst="t16890516-69" type="uri" value="sessionsPapers/16890516"></interp>
+               <interp inst="t16890516-69" type="date" value="16890516"></interp>
+               <join result="criminalCharge" id="t16890516-69-off309-c190" targOrder="Y" targets="t16890516-69-defend308 t16890516-69-off309 t16890516-69-verdict311"></join>
+               <join result="criminalCharge" id="t16890516-69-off309-c191" targOrder="Y" targets="t16890516-69-defend310 t16890516-69-off309 t16890516-69-verdict311"></join>
+               <join result="criminalCharge" id="t16890516-69-off309-c192" targOrder="Y" targets="t16890516-69-defend312 t16890516-69-off309 t16890516-69-verdict311"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16890516-69-defend308" type="defendantName">
+                     Thomas 
+                     Watkins
+                  <interp inst="t16890516-69-defend308" type="surname" value="Watkins"></interp>
+                     <interp inst="t16890516-69-defend308" type="given" value="Thomas"></interp>
+                     <interp inst="t16890516-69-defend308" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16890516-69-defend310" type="defendantName">
+                     Richard 
+                     Davis
+                  <interp inst="t16890516-69-defend310" type="surname" value="Davis"></interp>
+                     <interp inst="t16890516-69-defend310" type="given" value="Richard"></interp>
+                     <interp inst="t16890516-69-defend310" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t16890516-69-defend312" type="defendantName">
+                     James 
+                     Felton
+                  <interp inst="t16890516-69-defend312" type="surname" value="Felton"></interp>
+                     <interp inst="t16890516-69-defend312" type="given" value="James"></interp>
+                     <interp inst="t16890516-69-defend312" type="gender" value="male"></interp>
+                  </persName>
+               
+             were all three Indicted for <rs id="t16890516-69-off309" type="offenceDescription">
+                     <interp inst="t16890516-69-off309" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16890516-69-off309" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the dwelling House of 
+                     
+                        <persName id="t16890516-69-victim314" type="victimName">
+                           John 
+                           Atkinson
+                        <interp inst="t16890516-69-victim314" type="surname" value="Atkinson"></interp>
+                        <interp inst="t16890516-69-victim314" type="given" value="John"></interp>
+                        <interp inst="t16890516-69-victim314" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16890516-69-off309 t16890516-69-victim314"></join>
+                     </persName>
+                     
+                   on the <rs id="t16890516-69-cd310" type="crimeDate">16th of February</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16890516-69-off309 t16890516-69-cd310"></join> last, taking away one black Hat value 10 s. two Knives 12 d. and 36 s. in Money Numbered
+            </rs>, The Evidence declared, That the Stansom was took out of the Window, and Thieves went in and took away the Goods and the Money; the Trunks were broke open about 9 or 10 a Clock in the Morning, and the Prisoner Felton was met standing up and down all the Morning, and the Hat was found upon Felton's Head, and Davis left his Staff behind him, between the Bed cloaths in the House, which was produced in Court. There was no Evidence against Watkins, but only that he was in the Company. Felton discovered the other two, and directed the Countrymen where to Apprehend them at an Ale-house, and they threatned Atkinson, saying, That if he did not hang them, they would hang him (viz. Atkinson:) And Felton Swore Damn them, he would Fire some of their Houses when he was out of Newgate. Watkins denied all, and so did Davis. Felton said that he heard there were Thieves in the poor Mans House and so went to see, but did not go into the House, and was found in several Stories. They were lookt upon and known to be all of a Gang, and very wicked Persons. So they were all found <rs id="t16890516-69-verdict311" type="verdictDescription">
+                     <interp inst="t16890516-69-verdict311" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16890516-69-punish312" type="punishmentDescription">
+                     <interp inst="t16890516-69-punish312" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-69-defend308 t16890516-69-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-69-defend310 t16890516-69-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16890516-69-defend312 t16890516-69-punish312"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

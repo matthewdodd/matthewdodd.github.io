@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660702-20">
+               <interp inst="t17660702-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660702-20" type="year" value="1766"></interp>
+               <interp inst="t17660702-20" type="uri" value="sessionsPapers/17660702"></interp>
+               <interp inst="t17660702-20" type="date" value="17660702"></interp>
+               <join result="criminalCharge" id="t17660702-20-off110-c147" targOrder="Y" targets="t17660702-20-defend184 t17660702-20-off110 t17660702-20-verdict114"></join>
+         
+               <p>352. (M.) 
+               
+                  <persName id="t17660702-20-defend184" type="defendantName">
+                     Elizabeth 
+                     Stanton 
+                  <interp inst="t17660702-20-defend184" type="surname" value="Stanton"></interp>
+                     <interp inst="t17660702-20-defend184" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17660702-20-defend184" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17660702-20-deflabel109" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660702-20-defend184 t17660702-20-deflabel109"></join>, was indicted for <rs id="t17660702-20-off110" type="offenceDescription">
+                     <interp inst="t17660702-20-off110" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660702-20-off110" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a surtout coat, value 2 s. a pair of silver knee-buckles, value 5 s. and a tea-chest, value 2 s.
+            </rs> the property of 
+               <persName id="t17660702-20-victim185" type="victimName">
+                  Solomon 
+                  Warriner 
+               <interp inst="t17660702-20-victim185" type="surname" value="Warriner"></interp>
+                     <interp inst="t17660702-20-victim185" type="given" value="Solomon"></interp>
+                     <interp inst="t17660702-20-victim185" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660702-20-off110 t17660702-20-victim185"></join>
+                  </persName>
+             , <rs id="t17660702-20-cd111" type="crimeDate">June 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660702-20-off110 t17660702-20-cd111"></join>. +</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176607020014"></xptr>
+            
+                  <persName id="t17660702-20-person186">
+                  Solomon 
+                  Warriner 
+               <interp inst="t17660702-20-person186" type="surname" value="Warriner"></interp>
+                     <interp inst="t17660702-20-person186" type="given" value="Solomon"></interp>
+                     <interp inst="t17660702-20-person186" type="gender" value="male"></interp>
+                  </persName>
+            . I am a lodger in <placeName id="t17660702-20-crimeloc112">New-gravel-lane, Shadwell</placeName>
+                  <interp inst="t17660702-20-crimeloc112" type="placeName" value="New-gravel-lane, Shadwell"></interp>
+                  <interp inst="t17660702-20-crimeloc112" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660702-20-off110 t17660702-20-crimeloc112"></join>, the prisoner is a lodger in the same house; I <rs id="t17660702-20-viclabel113" type="occupation">sell milk</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660702-20-victim185 t17660702-20-viclabel113"></join>; last Monday was a fortnight, while I was gone out with my milk, the things mentioned in the indictment were taken away; the prisoner owned she went into the room three several times, and took the things; some she had pawned, and some she had sold; I have lived there sixteen years, and she about three quarters of a year.</p>
+               <p>Q How has she behaved the time you knew her? </p>
+               <p>Warriner. I never saw any harm of her before.</p>
+               <p>Prisoner's defence.</p>
+               <p>It is the first fault, I hope the court will take it into consideration.</p>
+               <p>
+                  <rs id="t17660702-20-verdict114" type="verdictDescription">
+                     <interp inst="t17660702-20-verdict114" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17660702-20-verdict114" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs> 
+                  <rs id="t17660702-20-punish115" type="punishmentDescription">
+                     <interp inst="t17660702-20-punish115" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17660702-20-punish115" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660702-20-defend184 t17660702-20-punish115"></join>
+               W
+            </rs>.</p>
+            </div1>

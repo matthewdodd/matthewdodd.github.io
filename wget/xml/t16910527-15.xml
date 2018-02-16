@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910527-15">
+               <interp inst="t16910527-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910527-15" type="year" value="1691"></interp>
+               <interp inst="t16910527-15" type="uri" value="sessionsPapers/16910527"></interp>
+               <interp inst="t16910527-15" type="date" value="16910527"></interp>
+               <join result="criminalCharge" id="t16910527-15-off67-c42" targOrder="Y" targets="t16910527-15-defend42 t16910527-15-off67 t16910527-15-verdict69"></join>
+         
+               <p>
+            
+                  <persName id="t16910527-15-defend42" type="defendantName">
+                  Jane 
+                  Walker
+               <interp inst="t16910527-15-defend42" type="surname" value="Walker"></interp>
+                     <interp inst="t16910527-15-defend42" type="given" value="Jane"></interp>
+                     <interp inst="t16910527-15-defend42" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910527-15-off67" type="offenceDescription">
+                     <interp inst="t16910527-15-off67" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910527-15-off67" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910527-15-victim43" type="victimName">
+                        Charles 
+                        Thurston
+                     <interp inst="t16910527-15-victim43" type="surname" value="Thurston"></interp>
+                        <interp inst="t16910527-15-victim43" type="given" value="Charles"></interp>
+                        <interp inst="t16910527-15-victim43" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910527-15-off67 t16910527-15-victim43"></join>
+                     </persName>
+                  , on the <rs id="t16910527-15-cd68" type="crimeDate">4th of this Instant May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910527-15-off67 t16910527-15-cd68"></join>, one Linnen Bag, value 1 d. and 20 l. in Mony
+            </rs>. The Evidence was plain against her; so she was found <rs id="t16910527-15-verdict69" type="verdictDescription">
+                     <interp inst="t16910527-15-verdict69" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16910527-15-punish70" type="punishmentDescription">
+                     <interp inst="t16910527-15-punish70" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910527-15-defend42 t16910527-15-punish70"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

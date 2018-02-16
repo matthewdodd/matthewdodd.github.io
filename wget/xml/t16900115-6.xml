@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900115-6">
+               <interp inst="t16900115-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900115-6" type="year" value="1690"></interp>
+               <interp inst="t16900115-6" type="uri" value="sessionsPapers/16900115"></interp>
+               <interp inst="t16900115-6" type="date" value="16900115"></interp>
+               <join result="criminalCharge" id="t16900115-6-off22-c36" targOrder="Y" targets="t16900115-6-defend42 t16900115-6-off22 t16900115-6-verdict24"></join>
+         
+               <p>
+            
+                  <persName id="t16900115-6-defend42" type="defendantName">
+                  John 
+                  Whitwood
+               <interp inst="t16900115-6-defend42" type="surname" value="Whitwood"></interp>
+                     <interp inst="t16900115-6-defend42" type="given" value="John"></interp>
+                     <interp inst="t16900115-6-defend42" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for that <rs id="t16900115-6-off22" type="offenceDescription">
+                     <interp inst="t16900115-6-off22" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t16900115-6-off22" type="offenceSubcategory" value="pervertingJustice"></interp>
+               he knowing Joseph Taylor to steal a Silver Tankard value 6 l. from one 
+                     
+                        <persName id="t16900115-6-victim44" type="victimName">
+                           John 
+                           Stanton
+                        <interp inst="t16900115-6-victim44" type="surname" value="Stanton"></interp>
+                        <interp inst="t16900115-6-victim44" type="given" value="John"></interp>
+                        <interp inst="t16900115-6-victim44" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900115-6-off22 t16900115-6-victim44"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16900115-6-cd23" type="crimeDate">25th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900115-6-off22 t16900115-6-cd23"></join> last; he did Receive, Comfort, and Maintain him the said 
+                     <persName id="t16900115-6-person45">
+                        Joseph 
+                        Taylor
+                     <interp inst="t16900115-6-person45" type="surname" value="Taylor"></interp>
+                        <interp inst="t16900115-6-person45" type="given" value="Joseph"></interp>
+                        <interp inst="t16900115-6-person45" type="gender" value="male"></interp>
+                     </persName>
+                  , after he had committed the said Felony
+            </rs>. The Evidence declared, That 
+               <persName id="t16900115-6-person46">
+                  Joseph 
+                  Taylor
+               <interp inst="t16900115-6-person46" type="surname" value="Taylor"></interp>
+                     <interp inst="t16900115-6-person46" type="given" value="Joseph"></interp>
+                     <interp inst="t16900115-6-person46" type="gender" value="male"></interp>
+                  </persName>
+             took away the Tankard, and that he found it with Taylor and Eades in Whitwood's House; Whitwood called a Person to prove that he chid his Man for committing such a Crime; and endeavoured to prosecute both Taylor and Eades, which the Witness against him could not deny so upon the whole Matter he was <rs id="t16900115-6-verdict24" type="verdictDescription">
+                     <interp inst="t16900115-6-verdict24" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

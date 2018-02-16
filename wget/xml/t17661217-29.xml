@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17661217-29">
+               <interp inst="t17661217-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17661217-29" type="year" value="1766"></interp>
+               <interp inst="t17661217-29" type="uri" value="sessionsPapers/17661217"></interp>
+               <interp inst="t17661217-29" type="date" value="17661217"></interp>
+               <join result="criminalCharge" id="t17661217-29-off148-c226" targOrder="Y" targets="t17661217-29-defend292 t17661217-29-off148 t17661217-29-verdict152"></join>
+         
+               <p>38. (M.) 
+               
+                  <persName id="t17661217-29-defend292" type="defendantName">
+                     Catharine
+                      M'Cartey
+                  <interp inst="t17661217-29-defend292" type="surname" value="M'Cartey"></interp>
+                     <interp inst="t17661217-29-defend292" type="given" value="Catharine"></interp>
+                     <interp inst="t17661217-29-defend292" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17661217-29-off148" type="offenceDescription">
+                     <interp inst="t17661217-29-off148" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17661217-29-off148" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a linen gown, value 12 d. one linen shift, value 12 d. and one pair of worsted stockings
+            </rs>, the property of 
+               
+                  <persName id="t17661217-29-victim294" type="victimName">
+                     John 
+                     Vandale 
+                  <interp inst="t17661217-29-victim294" type="surname" value="Vandale"></interp>
+                     <interp inst="t17661217-29-victim294" type="given" value="John"></interp>
+                     <interp inst="t17661217-29-victim294" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17661217-29-off148 t17661217-29-victim294"></join>
+                  </persName>
+                
+            , <rs id="t17661217-29-cd149" type="crimeDate">Nov. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17661217-29-off148 t17661217-29-cd149"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17661217-29-person295">
+                  John 
+                  Vandale 
+               <interp inst="t17661217-29-person295" type="surname" value="Vandale"></interp>
+                     <interp inst="t17661217-29-person295" type="given" value="John"></interp>
+                     <interp inst="t17661217-29-person295" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17661217-29-viclabel150" type="occupation">weaver</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17661217-29-victim294 t17661217-29-viclabel150"></join>, and live in <placeName id="t17661217-29-crimeloc151">Nightingale-lane</placeName>
+                  <interp inst="t17661217-29-crimeloc151" type="placeName" value="Nightingale-lane"></interp>
+                  <interp inst="t17661217-29-crimeloc151" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17661217-29-off148 t17661217-29-crimeloc151"></join>. On the 18th of November at night, the prisoner came late and asked for a lodging; I let her lie there; she got up early on the 19th, and came down with her chamber-pot in her hand; she did not come in again; my wife soon missed the things mentioned; I went out and took her with my wife's gown on her back, and the shift in her apron; the stockings she had on her legs.</p>
+               <p>
+            
+                  <persName id="t17661217-29-person296">
+                  William 
+                  Allen 
+               <interp inst="t17661217-29-person296" type="surname" value="Allen"></interp>
+                     <interp inst="t17661217-29-person296" type="given" value="William"></interp>
+                     <interp inst="t17661217-29-person296" type="gender" value="male"></interp>
+                  </persName>
+            . I have lodged at the prosecutor's house ten weeks; I saw the prosecutor's wife's gown upon the prisoner's back; it was her common wearing gown, and I knew it; I know the stockings also to be the prosecutor's wife's stockings.</p>
+               <p>Prisoner's defence.</p>
+               <p>The man keeps a bawdy-house; I carried a young fellow there, and the bed was so nasty he would not stay; his wife lent me the things to wear.</p>
+               <p>Prosecutor. What she says is as false as God is true.</p>
+               <p>Q. Did she bring any body with her?</p>
+               <p>Prosecutor. She brought a man which she said was her husband, and she paid but 5 d. for her lodging.</p>
+               <p>
+                  <rs id="t17661217-29-verdict152" type="verdictDescription">
+                     <interp inst="t17661217-29-verdict152" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

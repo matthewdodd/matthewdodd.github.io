@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17410514-45">
+               <interp inst="t17410514-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17410514-45" type="year" value="1741"></interp>
+               <interp inst="t17410514-45" type="uri" value="sessionsPapers/17410514"></interp>
+               <interp inst="t17410514-45" type="date" value="17410514"></interp>
+               <join result="criminalCharge" id="t17410514-45-off199-c270" targOrder="Y" targets="t17410514-45-defend355 t17410514-45-off199 t17410514-45-verdict201"></join>
+         
+               <p>48. 
+               
+                  <persName id="t17410514-45-defend355" type="defendantName">
+                     James 
+                     Freeman 
+                  <interp inst="t17410514-45-defend355" type="surname" value="Freeman"></interp>
+                     <interp inst="t17410514-45-defend355" type="given" value="James"></interp>
+                     <interp inst="t17410514-45-defend355" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17410514-45-off199" type="offenceDescription">
+                     <interp inst="t17410514-45-off199" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17410514-45-off199" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 12 Yards of Linen Cloth, and other Things, the Goods of 
+                     <persName id="t17410514-45-person356">
+                        Isaac 
+                        Aurian 
+                     <interp inst="t17410514-45-person356" type="surname" value="Aurian"></interp>
+                        <interp inst="t17410514-45-person356" type="given" value="Isaac"></interp>
+                        <interp inst="t17410514-45-person356" type="gender" value="male"></interp>
+                     </persName>
+                   , in his House
+            </rs>; <rs id="t17410514-45-cd200" type="crimeDate">April 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17410514-45-off199 t17410514-45-cd200"></join>. <rs id="t17410514-45-verdict201" type="verdictDescription">
+                     <interp inst="t17410514-45-verdict201" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17410514-45-verdict201" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17410514-45-punish202" type="punishmentDescription">
+                     <interp inst="t17410514-45-punish202" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17410514-45-defend355 t17410514-45-punish202"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

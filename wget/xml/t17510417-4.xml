@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510417-4">
+               <interp inst="t17510417-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510417-4" type="year" value="1751"></interp>
+               <interp inst="t17510417-4" type="uri" value="sessionsPapers/17510417"></interp>
+               <interp inst="t17510417-4" type="date" value="17510417"></interp>
+               <join result="criminalCharge" id="t17510417-4-off21-c55" targOrder="Y" targets="t17510417-4-defend63 t17510417-4-off21 t17510417-4-verdict23"></join>
+         
+               <p>260. (M.) 
+               
+                  <persName id="t17510417-4-defend63" type="defendantName">
+                     Mary 
+                     Jennings 
+                  <interp inst="t17510417-4-defend63" type="surname" value="Jennings"></interp>
+                     <interp inst="t17510417-4-defend63" type="given" value="Mary"></interp>
+                     <interp inst="t17510417-4-defend63" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510417-4-off21" type="offenceDescription">
+                     <interp inst="t17510417-4-off21" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510417-4-off21" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linen handkerchief, value 2 d. one pair of damask shoes, one china dish, one linen sheet
+            </rs>, the goods of 
+               
+                  <persName id="t17510417-4-victim65" type="victimName">
+                     Thomas 
+                     Ridge 
+                  <interp inst="t17510417-4-victim65" type="surname" value="Ridge"></interp>
+                     <interp inst="t17510417-4-victim65" type="given" value="Thomas"></interp>
+                     <interp inst="t17510417-4-victim65" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510417-4-off21 t17510417-4-victim65"></join>
+                  </persName>
+                
+            , <rs id="t17510417-4-cd22" type="crimeDate">March 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510417-4-off21 t17510417-4-cd22"></join>. *</p>
+               <p>
+                  <rs id="t17510417-4-verdict23" type="verdictDescription">
+                     <interp inst="t17510417-4-verdict23" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17510417-4-verdict23" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17510417-4-punish24" type="punishmentDescription">
+                     <interp inst="t17510417-4-punish24" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510417-4-defend63 t17510417-4-punish24"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17401204-55">
+               <interp inst="t17401204-55" type="collection" value="BAILEY"></interp>
+               <interp inst="t17401204-55" type="year" value="1740"></interp>
+               <interp inst="t17401204-55" type="uri" value="sessionsPapers/17401204"></interp>
+               <interp inst="t17401204-55" type="date" value="17401204"></interp>
+               <join result="criminalCharge" id="t17401204-55-off263-c271" targOrder="Y" targets="t17401204-55-defend395 t17401204-55-off263 t17401204-55-verdict265"></join>
+         
+               <p>71. 
+               
+                  <persName id="t17401204-55-defend395" type="defendantName">
+                     Eleanor 
+                     Conolly 
+                  <interp inst="t17401204-55-defend395" type="surname" value="Conolly"></interp>
+                     <interp inst="t17401204-55-defend395" type="given" value="Eleanor"></interp>
+                     <interp inst="t17401204-55-defend395" type="gender" value="female"></interp>
+                  </persName>
+                
+            , was indicted for <rs id="t17401204-55-off263" type="offenceDescription">
+                     <interp inst="t17401204-55-off263" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17401204-55-off263" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing 18 Yards of silk Ribbon, value 6 s. the Goods of 
+                     
+                        <persName id="t17401204-55-victim397" type="victimName">
+                           Thomas 
+                           Machen 
+                        <interp inst="t17401204-55-victim397" type="surname" value="Machen"></interp>
+                        <interp inst="t17401204-55-victim397" type="given" value="Thomas"></interp>
+                        <interp inst="t17401204-55-victim397" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17401204-55-off263 t17401204-55-victim397"></join>
+                     </persName>
+                      
+                   in his Shop
+            </rs>, <rs id="t17401204-55-cd264" type="crimeDate">Nov. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17401204-55-off263 t17401204-55-cd264"></join>.</p>
+               <p>Mr. Machen. My Servant detected this Woman with a Piece of Ribbon; I can only say it is mine, - I know nothing of the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17401204-55-person398">
+                  John 
+                  Goodred 
+               <interp inst="t17401204-55-person398" type="surname" value="Goodred"></interp>
+                     <interp inst="t17401204-55-person398" type="given" value="John"></interp>
+                     <interp inst="t17401204-55-person398" type="gender" value="male"></interp>
+                  </persName>
+            . On the 18th of last Month, the Prisoner came into my Master's Shop, and I serv'd her with Ribbon to the value of 20 d. Farthing; I serv'd her with more, and while I was doing it she took a Piece and put it under her Cloak, and went away; I let her got to the Corner of the Street, and then took Hold of her; I brought her to the Shop, and she shuffled up against the Counter, and laid down the Ribbon under her Cloak on the Counter.</p>
+               <p>
+            
+                  <persName id="t17401204-55-person399">
+                  Richard 
+                  Peacock 
+               <interp inst="t17401204-55-person399" type="surname" value="Peacock"></interp>
+                     <interp inst="t17401204-55-person399" type="given" value="Richard"></interp>
+                     <interp inst="t17401204-55-person399" type="gender" value="male"></interp>
+                  </persName>
+             confirm'd the above Evidence.</p>
+               <p>
+                  <rs id="t17401204-55-verdict265" type="verdictDescription">
+                     <interp inst="t17401204-55-verdict265" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17401204-55-verdict265" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17401204-55-punish266" type="punishmentDescription">
+                     <interp inst="t17401204-55-punish266" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17401204-55-punish266" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17401204-55-defend395 t17401204-55-punish266"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

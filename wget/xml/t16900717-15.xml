@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-15">
+               <interp inst="t16900717-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-15" type="year" value="1690"></interp>
+               <interp inst="t16900717-15" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-15" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-15-off78-c66" targOrder="Y" targets="t16900717-15-defend90 t16900717-15-off78 t16900717-15-verdict80"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900717-15-defend90" type="defendantName">
+                     Henry 
+                     Smith
+                  <interp inst="t16900717-15-defend90" type="surname" value="Smith"></interp>
+                     <interp inst="t16900717-15-defend90" type="given" value="Henry"></interp>
+                     <interp inst="t16900717-15-defend90" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Indicted for <rs id="t16900717-15-off78" type="offenceDescription">
+                     <interp inst="t16900717-15-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-15-off78" type="offenceSubcategory" value="burglary"></interp>
+               stealing, (on the <rs id="t16900717-15-cd79" type="crimeDate">29th of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-15-off78 t16900717-15-cd79"></join>, from one 
+                     <persName id="t16900717-15-victim91" type="victimName">
+                        John 
+                        Hodges
+                     <interp inst="t16900717-15-victim91" type="surname" value="Hodges"></interp>
+                        <interp inst="t16900717-15-victim91" type="given" value="John"></interp>
+                        <interp inst="t16900717-15-victim91" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900717-15-off78 t16900717-15-victim91"></join>
+                     </persName>
+                  ,) Eleven Pewter Dishes, value 20 s. a Bason 12 d. some Plates; and some other Pewter, to a good value. The Evidence said, that the House was broke open, and that the Pewter was found upon him, and several Pick-locks were found about him
+            </rs>. The Prisoner said, he found the Pewter, and the Pick lock Key, in the street, and used a many vain Stories to Extenuate the Crime; he was very peremptory, and look'd upon to be an Idle Fellow; so in the conclusion, he was found <rs id="t16900717-15-verdict80" type="verdictDescription">
+                     <interp inst="t16900717-15-verdict80" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> both of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16900717-15-punish81" type="punishmentDescription">
+                     <interp inst="t16900717-15-punish81" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900717-15-defend90 t16900717-15-punish81"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

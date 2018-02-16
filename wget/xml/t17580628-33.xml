@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580628-33">
+               <interp inst="t17580628-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580628-33" type="year" value="1758"></interp>
+               <interp inst="t17580628-33" type="uri" value="sessionsPapers/17580628"></interp>
+               <interp inst="t17580628-33" type="date" value="17580628"></interp>
+               <join result="criminalCharge" id="t17580628-33-off178-c252" targOrder="Y" targets="t17580628-33-defend309 t17580628-33-off178 t17580628-33-verdict180"></join>
+         
+               <p>252. (L.) 
+               
+                  <persName id="t17580628-33-defend309" type="defendantName">
+                     Sarah 
+                     Thornton 
+                  <interp inst="t17580628-33-defend309" type="surname" value="Thornton"></interp>
+                     <interp inst="t17580628-33-defend309" type="given" value="Sarah"></interp>
+                     <interp inst="t17580628-33-defend309" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17580628-33-deflabel177" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580628-33-defend309 t17580628-33-deflabel177"></join>, was indicted for <rs id="t17580628-33-off178" type="offenceDescription">
+                     <interp inst="t17580628-33-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580628-33-off178" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one man's hat, value 5 s. four linen caps, value 6 d. three linen aprons, value, 3 s. four other linen aprons, value, 3 s. one neckcloth, value 6 d. four napkins, two pillowbears, one sheet, four clouts, one flat iron, and one dimity skirt
+            </rs>, the goods of 
+               
+                  <persName id="t17580628-33-victim311" type="victimName">
+                     Thomas 
+                     Grout 
+                  <interp inst="t17580628-33-victim311" type="surname" value="Grout"></interp>
+                     <interp inst="t17580628-33-victim311" type="given" value="Thomas"></interp>
+                     <interp inst="t17580628-33-victim311" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17580628-33-off178 t17580628-33-victim311"></join>
+                  </persName>
+                
+            , <rs id="t17580628-33-cd179" type="crimeDate">June 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580628-33-off178 t17580628-33-cd179"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17580628-33-person312">
+                  Thomas 
+                  Grout 
+               <interp inst="t17580628-33-person312" type="surname" value="Grout"></interp>
+                     <interp inst="t17580628-33-person312" type="given" value="Thomas"></interp>
+                     <interp inst="t17580628-33-person312" type="gender" value="male"></interp>
+                  </persName>
+            . Last Tuesday was a week, we missed the things mentioned in the indictment, the prisoner at the bar, who lived with us, confess'd she had pawn'd them in Moor-lane, but could not tell the man's name.</p>
+               <p>
+            
+                  <persName id="t17580628-33-person313">
+                  Henry 
+                  Spence 
+               <interp inst="t17580628-33-person313" type="surname" value="Spence"></interp>
+                     <interp inst="t17580628-33-person313" type="given" value="Henry"></interp>
+                     <interp inst="t17580628-33-person313" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker, (the goods produced in court) these were brought to my house by the prisoner at the bar.</p>
+               <p>Prosecutor. These goods are all mine.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175806280036"></xptr>
+            
+                  <persName id="t17580628-33-person314">
+                  Benjamin 
+                  Goff 
+               <interp inst="t17580628-33-person314" type="surname" value="Goff"></interp>
+                     <interp inst="t17580628-33-person314" type="given" value="Benjamin"></interp>
+                     <interp inst="t17580628-33-person314" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable, I found these goods at the pawnbroker's, the prosecutor's wife was with me, she own'd them all as her property.</p>
+               <p>The prisoner said nothing in her defence.</p>
+               <p>
+                  <rs id="t17580628-33-verdict180" type="verdictDescription">
+                     <interp inst="t17580628-33-verdict180" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17580628-33-punish181" type="punishmentDescription">
+                     <interp inst="t17580628-33-punish181" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580628-33-defend309 t17580628-33-punish181"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

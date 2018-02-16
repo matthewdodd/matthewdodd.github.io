@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550226-2">
+               <interp inst="t17550226-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550226-2" type="year" value="1755"></interp>
+               <interp inst="t17550226-2" type="uri" value="sessionsPapers/17550226"></interp>
+               <interp inst="t17550226-2" type="date" value="17550226"></interp>
+               <join result="criminalCharge" id="t17550226-2-off9-c33" targOrder="Y" targets="t17550226-2-defend35 t17550226-2-off9 t17550226-2-verdict12"></join>
+         
+               <p>93. (M.) 
+               <persName id="t17550226-2-defend35" type="defendantName">
+                  Elizabeth, <rs id="t17550226-2-deflabel8" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17550226-2-defend35 t17550226-2-deflabel8"></join> of 
+                     <persName id="t17550226-2-person36">
+                        George 
+                        Shader 
+                     <interp inst="t17550226-2-person36" type="surname" value="Shader"></interp>
+                        <interp inst="t17550226-2-person36" type="given" value="George"></interp>
+                        <interp inst="t17550226-2-person36" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17550226-2-defend35" type="surname" value="Shader"></interp>
+                     <interp inst="t17550226-2-defend35" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17550226-2-defend35" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17550226-2-off9" type="offenceDescription">
+                     <interp inst="t17550226-2-off9" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550226-2-off9" type="offenceSubcategory" value="other"></interp>
+               stealing one linen sheet, one cotton gown, one linen shift, one pair of stays, one lawn apron, one cloth cloak, one linen apron, and one pair of linen sleeves, the goods of 
+                     
+                        <persName id="t17550226-2-victim38" type="victimName">
+                           Thomas 
+                           Luker 
+                        <interp inst="t17550226-2-victim38" type="surname" value="Luker"></interp>
+                        <interp inst="t17550226-2-victim38" type="given" value="Thomas"></interp>
+                        <interp inst="t17550226-2-victim38" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; two ells of dowlas
+            </rs>, the property of 
+               <persName id="t17550226-2-victim39" type="victimName">
+                  Mary 
+                  Burtor 
+               <interp inst="t17550226-2-victim39" type="surname" value="Burtor"></interp>
+                     <interp inst="t17550226-2-victim39" type="given" value="Mary"></interp>
+                     <interp inst="t17550226-2-victim39" type="gender" value="female"></interp>
+                  </persName>
+             , <rs id="t17550226-2-cd10" type="crimeDate">Decemb. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550226-2-off9 t17550226-2-cd10"></join>. ++</p>
+               <p>The prisoner lodged in the prosecutor's house in <placeName id="t17550226-2-crimeloc11">Whitechapel</placeName>
+                  <interp inst="t17550226-2-crimeloc11" type="placeName" value="Whitechapel"></interp>
+                  <interp inst="t17550226-2-crimeloc11" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17550226-2-off9 t17550226-2-crimeloc11"></join>; the goods were in the room where the prisoner lodged, but not let to her with the lodging. The prosecutor and his wife were from home on the 10th of December; at their return they found the door fast, and the prisoner gone; they at last got in, and found the prisoner's room full of smoak, and on opening a drawer found divers linen things on fire, and missed the goods mentioned. The prisoner was taken up, and owned she had taken and pawned them at two pawnbrokers, where they were found. (Produced in court, and deposed to).</p>
+               <p>
+                  <rs id="t17550226-2-verdict12" type="verdictDescription">
+                     <interp inst="t17550226-2-verdict12" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17550226-2-punish13" type="punishmentDescription">
+                     <interp inst="t17550226-2-punish13" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t17550226-2-punish13" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17550226-2-defend35 t17550226-2-punish13"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

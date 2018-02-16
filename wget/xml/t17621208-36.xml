@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17621208-36">
+               <interp inst="t17621208-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17621208-36" type="year" value="1762"></interp>
+               <interp inst="t17621208-36" type="uri" value="sessionsPapers/17621208"></interp>
+               <interp inst="t17621208-36" type="date" value="17621208"></interp>
+               <join result="criminalCharge" id="t17621208-36-off194-c276" targOrder="Y" targets="t17621208-36-defend335 t17621208-36-off194 t17621208-36-verdict196"></join>
+         
+               <p>38. (M.)  
+               <persName id="t17621208-36-defend335" type="defendantName">
+                  
+                     Susanna 
+                     Pain 
+                  , otherwise <rs id="t17621208-36-alias-9" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17621208-36-defend335 t17621208-36-alias-9"></join>Ben</rs>
+                     <interp inst="t17621208-36-defend335" type="surname" value="Pain"></interp>
+                     <interp inst="t17621208-36-defend335" type="given" value="Susanna"></interp>
+                     <interp inst="t17621208-36-defend335" type="gender" value="female"></interp>
+                     <interp inst="t17621208-36-defend335" type="age" value="10"></interp>
+                  </persName>
+            , <rs id="t17621208-36-deflabel193" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17621208-36-defend335 t17621208-36-deflabel193"></join>, was indicted for <rs id="t17621208-36-off194" type="offenceDescription">
+                     <interp inst="t17621208-36-off194" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17621208-36-off194" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one quarter of a guinea
+            </rs>, the property of 
+               
+                  <persName id="t17621208-36-victim338" type="victimName">
+                     James 
+                     Ray 
+                  <interp inst="t17621208-36-victim338" type="surname" value="Ray"></interp>
+                     <interp inst="t17621208-36-victim338" type="given" value="James"></interp>
+                     <interp inst="t17621208-36-victim338" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17621208-36-off194 t17621208-36-victim338"></join>
+                  </persName>
+                
+            , <rs id="t17621208-36-cd195" type="crimeDate">Nov. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17621208-36-off194 t17621208-36-cd195"></join>. The prisoner was an infant about 10 years old.</p>
+               <p>
+                  <rs id="t17621208-36-verdict196" type="verdictDescription">
+                     <interp inst="t17621208-36-verdict196" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900717-12">
+               <interp inst="t16900717-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900717-12" type="year" value="1690"></interp>
+               <interp inst="t16900717-12" type="uri" value="sessionsPapers/16900717"></interp>
+               <interp inst="t16900717-12" type="date" value="16900717"></interp>
+               <join result="criminalCharge" id="t16900717-12-off62-c58" targOrder="Y" targets="t16900717-12-defend75 t16900717-12-off62 t16900717-12-verdict65"></join>
+         
+               <p>
+            
+                  <persName id="t16900717-12-defend75" type="defendantName">
+                  T - 
+                  W -
+               <interp inst="t16900717-12-defend75" type="surname" value="W -"></interp>
+                     <interp inst="t16900717-12-defend75" type="given" value="T -"></interp>
+                     <interp inst="t16900717-12-defend75" type="gender" value="female"></interp>
+                  </persName>
+             of <placeName id="t16900717-12-defloc60">St. Andrew's Holborn</placeName>
+                  <interp inst="t16900717-12-defloc60" type="placeName" value="St. Andrew's Holborn"></interp>
+                  <interp inst="t16900717-12-defloc60" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16900717-12-defend75 t16900717-12-defloc60"></join>, <rs id="t16900717-12-deflabel61" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-12-defend75 t16900717-12-deflabel61"></join>, was Indicted for <rs id="t16900717-12-off62" type="offenceDescription">
+                     <interp inst="t16900717-12-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900717-12-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing, on the <rs id="t16900717-12-cd63" type="crimeDate">17th Day of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16900717-12-off62 t16900717-12-cd63"></join>, a Silver Porringer value 40 s. one Silver Salt-sellar 10 s.
+            </rs> the Goods of one 
+               
+                  <persName id="t16900717-12-victim77" type="victimName">
+                     Roger 
+                     Pope
+                  <interp inst="t16900717-12-victim77" type="surname" value="Pope"></interp>
+                     <interp inst="t16900717-12-victim77" type="given" value="Roger"></interp>
+                     <interp inst="t16900717-12-victim77" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900717-12-off62 t16900717-12-victim77"></join>
+                  </persName>
+               
+             
+                  <rs id="t16900717-12-viclabel64" type="occupation">Gentleman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900717-12-victim77 t16900717-12-viclabel64"></join>; but the Evidence was very Circumstantial against her, and it appeared, that the Prisoner and the said Mrs. Pope were always Friends, and very intimate Acquaintance, and therefore the Evidence could not charge her positively. She deny'd it, and it could not be brought home upon her; and she offering to call several Persons of good Quality to Vindicate her Reputation; which the Court did not Order, being very well satisfied with her before, that she had been always a Person of an Unblameable Life, and Conversation, as to particular defect in so horrid a Crime as Thievery, she was immediately <rs id="t16900717-12-verdict65" type="verdictDescription">
+                     <interp inst="t16900717-12-verdict65" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> by the Gentlemen of the Jury.</p>
+            </div1>

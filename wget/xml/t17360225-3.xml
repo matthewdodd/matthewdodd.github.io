@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-3">
+               <interp inst="t17360225-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-3" type="year" value="1736"></interp>
+               <interp inst="t17360225-3" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-3" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-3-off12-c34" targOrder="Y" targets="t17360225-3-defend36 t17360225-3-off12 t17360225-3-verdict16"></join>
+         
+               <p>3. 
+               
+                  <persName id="t17360225-3-defend36" type="defendantName">
+                     Elizabeth 
+                     Davis 
+                  <interp inst="t17360225-3-defend36" type="surname" value="Davis"></interp>
+                     <interp inst="t17360225-3-defend36" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17360225-3-defend36" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360225-3-off12" type="offenceDescription">
+                     <interp inst="t17360225-3-off12" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-3-off12" type="offenceSubcategory" value="theftFromPlace"></interp>
+               privately stealing a Tin Christmas-Box, value 6d. and 30s. in Money, the Goods and Money of 
+                     
+                        <persName id="t17360225-3-victim38" type="victimName">
+                           John 
+                           Sherwin 
+                        <interp inst="t17360225-3-victim38" type="surname" value="Sherwin"></interp>
+                        <interp inst="t17360225-3-victim38" type="given" value="John"></interp>
+                        <interp inst="t17360225-3-victim38" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360225-3-off12 t17360225-3-victim38"></join>
+                     </persName>
+                      
+                  , in the House of<xptr type="pageFacsimile" doc="173602250003"></xptr> 
+                  
+                     <persName id="t17360225-3-person39">
+                        John 
+                        Low 
+                     <interp inst="t17360225-3-person39" type="surname" value="Low"></interp>
+                        <interp inst="t17360225-3-person39" type="given" value="John"></interp>
+                        <interp inst="t17360225-3-person39" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, the <rs id="t17360225-3-cd13" type="crimeDate">1st of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-3-off12 t17360225-3-cd13"></join> in the Parish of <placeName id="t17360225-3-defloc14">St. Brides</placeName>
+                  <interp inst="t17360225-3-defloc14" type="placeName" value="St. Brides"></interp>
+                  <interp inst="t17360225-3-defloc14" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-3-defend36 t17360225-3-defloc14"></join>.</p>
+               <p>Sherwin. The Prisoner was my Master's <rs id="t17360225-3-deflabel15" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-3-defend36 t17360225-3-deflabel15"></join>, on Sunday Feb.1. I was sent to Church in the Afternoon: When I went out, the Box hung up in the Shop: When I came home, it was gone. Jack, says she, do ye know where your Christmas-Box is? I told her, no: I suppose, says she, your Master has put it by for you. I had set down the Customers Names that had put Money in for me, and by Calculation there was about 3l. in it. My Master was out, and no one was in the House that Afternoon, but the Prisoner: When he came home, he taxed her with it, and sent for a Constable; at first she said she knew nothing of it, but afterwards, she said, a Journeyman Apothecary had been there, and had taken it away; my Master was going to take him up, but at last she confess'd it.</p>
+               <p>
+            
+                  <persName id="t17360225-3-person40">
+                  John 
+                  Low 
+               <interp inst="t17360225-3-person40" type="surname" value="Low"></interp>
+                     <interp inst="t17360225-3-person40" type="given" value="John"></interp>
+                     <interp inst="t17360225-3-person40" type="gender" value="male"></interp>
+                  </persName>
+            . When I came home, she asked me where the Box was; I told her, she must know something of it; she denied it at first; then she said, the Apothecary's Man had been there, and he took it: I charg'd the Man with it, but he cleared himself; at last she confessed the Fact, and that she had taken the Money out at the top of the Box: She said, she did not tell the Money, but there was a great deal of Silver in it.</p>
+               <p>The Person was produced that found the Box, and another Evidence swore she had confessed the taking the Money, and had given it to a Washerwoman. <rs id="t17360225-3-verdict16" type="verdictDescription">
+                     <interp inst="t17360225-3-verdict16" type="verdictCategory" value="guilty"></interp>
+               Guilty Felony
+            </rs>.</p>
+               <p>
+                  <rs id="t17360225-3-punish17" type="punishmentDescription">
+                     <interp inst="t17360225-3-punish17" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-3-defend36 t17360225-3-punish17"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-17">
+               <interp inst="t17360115-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-17" type="year" value="1736"></interp>
+               <interp inst="t17360115-17" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-17" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-17-off106-c115" targOrder="Y" targets="t17360115-17-defend159 t17360115-17-off106 t17360115-17-verdict108"></join>
+         
+               <p>21. 
+               
+                  <persName id="t17360115-17-defend159" type="defendantName">
+                     Bernard 
+                     Sutherland 
+                  <interp inst="t17360115-17-defend159" type="surname" value="Sutherland"></interp>
+                     <interp inst="t17360115-17-defend159" type="given" value="Bernard"></interp>
+                     <interp inst="t17360115-17-defend159" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-17-defloc105">St. Martins in the Fields</placeName>
+                  <interp inst="t17360115-17-defloc105" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t17360115-17-defloc105" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-17-defend159 t17360115-17-defloc105"></join>, was indicted for <rs id="t17360115-17-off106" type="offenceDescription">
+                     <interp inst="t17360115-17-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-17-off106" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing a Linnen Handkerchief, value 14 d. from the Person of 
+                     
+                        <persName id="t17360115-17-victim161" type="victimName">
+                           Richard 
+                           Smith 
+                        <interp inst="t17360115-17-victim161" type="surname" value="Smith"></interp>
+                        <interp inst="t17360115-17-victim161" type="given" value="Richard"></interp>
+                        <interp inst="t17360115-17-victim161" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360115-17-off106 t17360115-17-victim161"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs> the <rs id="t17360115-17-cd107" type="crimeDate">22d of December</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360115-17-off106 t17360115-17-cd107"></join> last. <rs id="t17360115-17-verdict108" type="verdictDescription">
+                     <interp inst="t17360115-17-verdict108" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-17-verdict108" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360115-17-punish109" type="punishmentDescription">
+                     <interp inst="t17360115-17-punish109" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-17-defend159 t17360115-17-punish109"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

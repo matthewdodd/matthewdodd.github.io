@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390906-31">
+               <interp inst="t17390906-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390906-31" type="year" value="1739"></interp>
+               <interp inst="t17390906-31" type="uri" value="sessionsPapers/17390906"></interp>
+               <interp inst="t17390906-31" type="date" value="17390906"></interp>
+               <join result="criminalCharge" id="t17390906-31-off143-c157" targOrder="Y" targets="t17390906-31-defend231 t17390906-31-off143 t17390906-31-verdict145"></join>
+         
+               <p>463. 
+               
+                  <persName id="t17390906-31-defend231" type="defendantName">
+                     William 
+                     Glossop 
+                  <interp inst="t17390906-31-defend231" type="surname" value="Glossop"></interp>
+                     <interp inst="t17390906-31-defend231" type="given" value="William"></interp>
+                     <interp inst="t17390906-31-defend231" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390906-31-off143" type="offenceDescription">
+                     <interp inst="t17390906-31-off143" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390906-31-off143" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Pewter Plates, val. 1 s. the Goods of 
+                     
+                        <persName id="t17390906-31-victim233" type="victimName">
+                           Randall 
+                           Edwards 
+                        <interp inst="t17390906-31-victim233" type="surname" value="Edwards"></interp>
+                        <interp inst="t17390906-31-victim233" type="given" value="Randall"></interp>
+                        <interp inst="t17390906-31-victim233" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; and a Linnen Apron, val. 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17390906-31-victim235" type="victimName">
+                     William 
+                     Picket 
+                  <interp inst="t17390906-31-victim235" type="surname" value="Picket"></interp>
+                     <interp inst="t17390906-31-victim235" type="given" value="William"></interp>
+                     <interp inst="t17390906-31-victim235" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17390906-31-cd144" type="crimeDate">July 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390906-31-off143 t17390906-31-cd144"></join>. <rs id="t17390906-31-verdict145" type="verdictDescription">
+                     <interp inst="t17390906-31-verdict145" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17390906-31-verdict145" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17390906-31-punish146" type="punishmentDescription">
+                     <interp inst="t17390906-31-punish146" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17390906-31-punish146" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390906-31-defend231 t17390906-31-punish146"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

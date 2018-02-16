@@ -1,3 +1,441 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560714-25">
+               <interp inst="t17560714-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560714-25" type="year" value="1756"></interp>
+               <interp inst="t17560714-25" type="uri" value="sessionsPapers/17560714"></interp>
+               <interp inst="t17560714-25" type="date" value="17560714"></interp>
+               <join result="criminalCharge" id="t17560714-25-off130-c147" targOrder="Y" targets="t17560714-25-defend187 t17560714-25-off130 t17560714-25-verdict135"></join>
+               <join result="criminalCharge" id="t17560714-25-off130-c148" targOrder="Y" targets="t17560714-25-defend189 t17560714-25-off130 t17560714-25-verdict135"></join>
+         
+               <p>307, 308. (L.) 
+               
+                  <persName id="t17560714-25-defend187" type="defendantName">
+                     Mary 
+                     Alsop 
+                  <interp inst="t17560714-25-defend187" type="surname" value="Alsop"></interp>
+                     <interp inst="t17560714-25-defend187" type="given" value="Mary"></interp>
+                     <interp inst="t17560714-25-defend187" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17560714-25-deflabel129" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560714-25-defend187 t17560714-25-deflabel129"></join>, and 
+               
+                  <persName id="t17560714-25-defend189" type="defendantName">
+                     Lewis 
+                     Alsop 
+                  <interp inst="t17560714-25-defend189" type="surname" value="Alsop"></interp>
+                     <interp inst="t17560714-25-defend189" type="given" value="Lewis"></interp>
+                     <interp inst="t17560714-25-defend189" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17560714-25-off130" type="offenceDescription">
+                     <interp inst="t17560714-25-off130" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17560714-25-off130" type="offenceSubcategory" value="murder"></interp>
+               the wilful murder of 
+                     <persName id="t17560714-25-victim190" type="victimName">
+                        Joseph 
+                        Hughes 
+                     <interp inst="t17560714-25-victim190" type="surname" value="Hughes"></interp>
+                        <interp inst="t17560714-25-victim190" type="given" value="Joseph"></interp>
+                        <interp inst="t17560714-25-victim190" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17560714-25-off130 t17560714-25-victim190"></join>
+                     </persName>
+                   , for that Lewis with a certain knife made of iron and steel, which he had and held in his right hand, did strike and stab the said 
+                     <persName id="t17560714-25-person191">
+                        Joseph 
+                        Hughes 
+                     <interp inst="t17560714-25-person191" type="surname" value="Hughes"></interp>
+                        <interp inst="t17560714-25-person191" type="given" value="Joseph"></interp>
+                        <interp inst="t17560714-25-person191" type="gender" value="male"></interp>
+                     </persName>
+                  , on the left side, below the left pap, of which wound he instantly died; and Mary his mother, for being present, aiding and abetting the said Lewis to commit the same
+            </rs>, <rs id="t17560714-25-cd131" type="crimeDate">July 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560714-25-off130 t17560714-25-cd131"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17560714-25-person192">
+                  Joseph 
+                  Gamble 
+               <interp inst="t17560714-25-person192" type="surname" value="Gamble"></interp>
+                     <interp inst="t17560714-25-person192" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person192" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Noble-Street, am a beadle, and attend the watch in Golden-Lane. I have known the woman at the bar many years, and I also known the lad. I was going to set the watch in Golden-Lane, a little before ten, in the evening of the Sunday before last. Just before I had ordered my men out, I was told a man was murder'd in <placeName id="t17560714-25-crimeloc132">Sun-Alley</placeName>
+                  <interp inst="t17560714-25-crimeloc132" type="placeName" value="Sun-Alley"></interp>
+                  <interp inst="t17560714-25-crimeloc132" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17560714-25-off130 t17560714-25-crimeloc132"></join>, which is about one hundred yards out of our liberty.</p>
+               <p>Q. Is it in London or Middlesex?</p>
+               <p>Gamble. It is in <placeName id="t17560714-25-crimeloc133">London</placeName>
+                  <interp inst="t17560714-25-crimeloc133" type="placeName" value="London"></interp>
+                  <interp inst="t17560714-25-crimeloc133" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17560714-25-off130 t17560714-25-crimeloc133"></join>. I took my lantern, and went to see about it. I went up two pair of stairs; where I saw 
+               <persName id="t17560714-25-person193">
+                  Mary 
+                  Alsop 
+               <interp inst="t17560714-25-person193" type="surname" value="Alsop"></interp>
+                     <interp inst="t17560714-25-person193" type="given" value="Mary"></interp>
+                     <interp inst="t17560714-25-person193" type="gender" value="female"></interp>
+                  </persName>
+             on her knees, wipeing up a great parcel of blood that lay on the floor with a dish-clout, and wringing it into a pail of water, as I stood on the landing-place by the deceased's room door.</p>
+               <p>Q. Was you told what house this murder was committed in?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175607140016"></xptr>Gamble. I was at the watch house in Golden-Lane, and I found it out by the mob. I went in to the deceased's room, and saw him lying on the edge of a bed, having a wound near the left pap, which appear'd to have been dressed by some surgeon. I think he was alive at that time, but meapable of speaking.</p>
+               <p>Q. What reach had you to think he was alive then?</p>
+               <p>Gamble. Because I clap'd my hand to his mouth, and thought I felt his breath; but he died before I came out of the room.</p>
+               <p>Q. Did he speak?</p>
+               <p>Gamble. No, he did not.</p>
+               <p>Q. Was there any body in the house besides the woman?</p>
+               <p>Gamble. There were two people, who shew'd me the way up stairs.</p>
+               <p>Q. Did you know them?</p>
+               <p>Gamble. No, they were strangers to me.</p>
+               <p>Q. Was the <rs id="t17560714-25-deflabel134" type="occupation">boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560714-25-defend189 t17560714-25-deflabel134"></join> at the bar there?</p>
+               <p>Gamble. No, he was not.</p>
+               <p>Q. Did the woman live in that room?</p>
+               <p>Gamble. I can't take upon me to say that; here in a person to be called can give the court an account of that. After I had looked at the man I asked the woman at the bar who had done that: she answered me pretty smartly, my Son. I asked her where her son was; she said he was not in the room, he was run away she could not tell where.</p>
+               <p>Q. Did she say any thing of her being present at the time this murder was done?</p>
+               <p>Gamble. No, I thought it proper she should be secured, so I called a city officer, one Mr. Sands, and he took her to the compter.</p>
+               <p>Q. Did you enquire how the murder happened?</p>
+               <p>Gamble. No, I did not.</p>
+               <p>Q. Is she a married woman?</p>
+               <p>Gamble. I knew her former husband, but this man, the deceased, I was little acquainted with. After this I went to my own watch house, and about one o'clock in the morning we heard that the boy was at the Three Jolly Butchers in Swan Alley, Goswel-Street.</p>
+               <p>Q. What time was she carried to the compter?</p>
+               <p>Gamble. Between ten and eleven. We went and took the lad, whom we found in bed with his eldest brother. I brought the two boys to the watch-house; the little one, now at the Bar, cried and said he did it, that he threw a knife at him, and described the knife by saying there was How on the bride of it.</p>
+               <p>Q. Did you believe him?</p>
+               <p>Gamble. I could not tell now to think a child of his age could do it.</p>
+               <p>Q. Did he say he kill'd the man ?</p>
+               <p>Gamble. he said he did it. The lads were both committed to two separate prisons. After that we went before my Lord-mayor, who committed the woman and the little boy, and ordered the bigest boy to be detained; his name is George.</p>
+               <p>Q. What did the woman say?</p>
+               <p>Gamble. When I asked her the question, she said her son did it, but did not say which son; which was the reason we took them both up.</p>
+               <p>Q. Did you examine the woman afterwards?</p>
+               <p>Gamble. No, I did not.</p>
+               <p>Cross-examination.</p>
+               <p>Q. How old is the boy at the bar ?</p>
+               <p>Gamble. He told me he was ten years of age the first of this instant July.</p>
+               <p>Q. What did he say was the reason of his throwing the knife?</p>
+               <p>Gamble. He said the man had been beating his mamma; and that he threaten'd to destroy her and him too.</p>
+               <p>Q. Did the mother give you any reason why he threw it?</p>
+               <p>Gamble. No, she gave me no reason at all.</p>
+               <p>Q. Where was the boy when he said this?</p>
+               <p>Gamble. He was in the watch-house then, and very much.</p>
+               <p>Q. from a Juryman. Was you refused admittance when you was at her room door?</p>
+               <p>Gamble. I was not. There was a multitude of people at the house door, and I had much add to get through them to the door.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person194">
+                  John 
+                  Coombs 
+               <interp inst="t17560714-25-person194" type="surname" value="Coombs"></interp>
+                     <interp inst="t17560714-25-person194" type="given" value="John"></interp>
+                     <interp inst="t17560714-25-person194" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Golden-Lane, just by where this misfortune happened. On Sunday was se'n-night, about five in the evening, the two prisoners and the deceased came to my house.</p>
+               <p>Q. What house do you keep?</p>
+               <p>Coombs. I keep a publick house. There was a young man along with them; dressed in black, who was reprimanding the deceased for his ill using the woman. and said if, any body was to use his mother in the manner he used far he'd crawl on his hands and knees to be down him.</p>
+               <p>Q. Did they quarrel then?</p>
+               <p>Coombs. No, there was no quarrel in particular then.</p>
+               <p>Q. Were there any blows?</p>
+               <p>Coombs. No? the boy and woman went away about eight o'clock, and lost the deceased and the<xptr type="pageFacsimile" doc="175607140017"></xptr> man; they went away about nine, and in about half an hour after that I heard the deceased was murdered. I went to their room up stairs, and saw the deceased lying on the bed; his wound seem'd to have been dressed by a surgeon.</p>
+               <p>Q. Was he alive or dead when you went into the room?</p>
+               <p>Coombs. I can't say which.</p>
+               <p>Q. Was the woman in the room then ?</p>
+               <p>Coombs. No, she was not.</p>
+               <p>Q. Was the boy there ?</p>
+               <p>Coombs. No.</p>
+               <p>Q. Did you see Joseph Gamble there?</p>
+               <p>Coombs. I did.</p>
+               <p>Q. Was any body there that could give any particular account how the man came by his death ?</p>
+               <p>Coombs. No, only they said they had heard the Little boy had stabbed him.</p>
+               <p>Q Did you not make enquiry of the woman or boy?</p>
+               <p>Coombs. I never saw either of them afterwards till now.</p>
+               <p>Cross examination.</p>
+               <p>Q. What was the other person's name that was with them at your house?</p>
+               <p>Coombs. I don't know.</p>
+               <p>Q. Should you know him if you saw him ?</p>
+               <p>Coombs. I should.</p>
+               <p>Q. Did the woman endeavour to avoid quarrelling?</p>
+               <p>Coombs. I was not particular in my observations about that; they used my house, and have had words sometimes.</p>
+               <p>Q. Did you ever observe in particular who used to be the aggressor ?</p>
+               <p>Coombs. No.</p>
+               <p>Q. Do you know that they lived together as man and wife ?</p>
+               <p>Coombs. No more than I have heard so.</p>
+               <p>Q. Where did they live?</p>
+               <p>Coombs. In that room where he was killed.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person195">
+                  John 
+                  Pool 
+               <interp inst="t17560714-25-person195" type="surname" value="Pool"></interp>
+                     <interp inst="t17560714-25-person195" type="given" value="John"></interp>
+                     <interp inst="t17560714-25-person195" type="gender" value="male"></interp>
+                  </persName>
+            . I am headborough, and live in Golden Lane. I was the officer of the night on the 4th of July, when I heard a rumour in the street that there was a murder committed in Sun Alley, on 
+               <persName id="t17560714-25-person196">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person196" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person196" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person196" type="gender" value="male"></interp>
+                  </persName>
+            . After that, Jos. Gamble came and told me the man is murdered, and the boy that did it is fled; we are in pursuit of him, and hear he is in Swan Alley.</p>
+               <p>Q. How did he say he heard the boy had done it?</p>
+               <p>Pool. He said the boy's mother told him so. I went to Swan Alley in pursuit of him, but when we came there we found we were mistaken in the Swan Alley, for there we were told it was Swan Alley in Goswel Street. I went to the watch-house again, and about a quarter after one o'clock the beadle and watchmen brought the boy and his brother George to me. They told me they heard it was the son that did it, but which they did not know. I asked the eldest, named George, what he knew of the matter; and he declared he did not know any thing about it, but said his brother had told him he had murdered 
+               <persName id="t17560714-25-person197">
+                  Joe 
+                  Hughes 
+               <interp inst="t17560714-25-person197" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person197" type="given" value="Joe"></interp>
+                     <interp inst="t17560714-25-person197" type="gender" value="male"></interp>
+                  </persName>
+            . Then I turn'd about to Lewis, and said, what do you know of this murder? indeed Sir, said he, I did do it. Then I called for a pen and ink and examined him. First I asked him where he was in the afternoon; he said with his mother and 
+               <persName id="t17560714-25-person198">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person198" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person198" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person198" type="gender" value="male"></interp>
+                  </persName>
+             at Mr. Coombs's, the Black Raven in Golden Lane.</p>
+               <p>Q. Did he say any body else was with them?</p>
+               <p>Pool. No, he did not. I asked him what time they went from thence; he said about nine o'clock at night to their lodgings in Sun-Alley. Soon after they were in the room, his mother and Hughes had some words together, and that he was very much frightned because Hughes beat his mother, on which he took up a knife which cost two pence halfpenny. I asked him how he came to know the price so readily; he said, because he bought it. I asked him if he knew the knife again, I having one put into my hand; he said, that is it, and there was the name of How upon it, and it was the same which he threw at 
+               <persName id="t17560714-25-person199">
+                  Joe 
+                  Hughes 
+               <interp inst="t17560714-25-person199" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person199" type="given" value="Joe"></interp>
+                     <interp inst="t17560714-25-person199" type="gender" value="male"></interp>
+                  </persName>
+            , (producing a knife) this is it. I asked him what distance he was from him; he said, about as far as from my chair to the window, which is about three yards and a half.</p>
+               <p>Q. Where did he say it hit him?</p>
+               <p>Pool. He said it stuck in his breast. I asked him where abouts; he said in or near his breast. I said, did you run away? he said he saw the blood come and then he ran away. I asked him if Hughes had a coat on, or was naked; he said he was button'd over the breast. I asked him where he ran to, he said to his brother, at the Three Jolly Butchers in Goswell-Street, where they took him and his brother out of bed.</p>
+               <p>Q. Did you ask him what he had to say against George?</p>
+               <p>Pool. I did; he said nothing at all. I took him to New-Prison, and sent George to Bridewell, and the next morning I took them before my Lord mayor. I was speaking to the constable about knife, and he told me there was another knife was<xptr type="pageFacsimile" doc="175607140018"></xptr> likely to do the murder. He produceth another knife. [Note, they were both shoe-makers small knives, such as the deceased used in his business, he being a child's pump maker.]</p>
+               <p>Q. Did you shew the boy this knife also?</p>
+               <p>Pool. No, I shew'd him only one of them.</p>
+               <p>Cross examination.</p>
+               <p>Q. How came you by those knives?</p>
+               <p>Pool. My beadle brought them to me.</p>
+               <p>Q. to Gamble. Where were the knives found?</p>
+               <p>Gamble. The knives were found, the first in the window, the other upon the seat where the man work'd at child's pump making.</p>
+               <p>Q. to Pool. Did you hear the deceased had a knife in his hand at the time ?</p>
+               <p>Pool. No, I did not.</p>
+               <p>Q. Are both the knives mark'd How?</p>
+               <p>Pool. They are.</p>
+               <p>Q. Did you hear the boy say he had kill'd the man?</p>
+               <p>Pool. He said, indeed I have killed him, I have killed Joe Hughes indeed.</p>
+               <p>Q. Was it the biggest or the least you shew'd to the boy?</p>
+               <p>Pool. It was the broadest and longest. [Note, there was but a little difference in then.]</p>
+               <p>Q. from a juryman. Was either of the knives bloody?</p>
+               <p>Pool. The other that I did not shew to the boy seem'd to be the knife. Note, it was a little rusty. (The jury looks at it.)</p>
+               <p>Q. from foreman of the jury. I should be glad to know whether, when they were carried before my Lord-mayor, they had either of them any blood upon them ?</p>
+               <p>Pool. They both appeared the same as now.</p>
+               <p>Q. When you examined the boy in this manner, was the mother present ?</p>
+               <p>Pool. She was not.</p>
+               <p>Q. to Gamble. Was the mother present when you examined the boy?</p>
+               <p>Gamble. No, she was not.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person200">
+                  William 
+                  Purdon 
+               <interp inst="t17560714-25-person200" type="surname" value="Purdon"></interp>
+                     <interp inst="t17560714-25-person200" type="given" value="William"></interp>
+                     <interp inst="t17560714-25-person200" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the boy at the bar come down stairs from his mother's room, and run into the court with a knife in his hand, saying he had done for him, as he stood in the court.</p>
+               <p>Q. Where was this ?</p>
+               <p>Purdon. It was in Sun-Alley, Golden-Lane.</p>
+               <p>Q. Did he mention any body's name?</p>
+               <p>Purdon. No, he did not. He upstairs and as soon as he entered the room he cry'd out terribly, and made a mournful sort of a none, calling out, come mother, come away; and then ran down again.</p>
+
+               <p>Q. Did she come down?</p>
+               <p>Purdon. No. The neighbours began to flock about the door, and four or five of them went up. I was one of the first, it was in a two pair of stairs room. The man lay on his back with his head in her lap, and her hand under his head. There was a great deal of blood on the floor. I ask'd what was the matter. She said he threaten'd to cut her throat, and her child had stab'd him. Then I went down to keep the mob out, I don't know how they proceeded farther.</p>
+               <p>Cross examination.</p>
+               <p>Q. Did the boy say he threaten'd to kill him and the mother, or only the mother?</p>
+               <p>Purdon. I mentioned only what the woman said.</p>
+               <p>Q. Was the deceased a quarrelsome sort of a man?</p>
+               <p>Purdon. I had not a great deal of acquaintance with him. They were but lately come to the house, and I thought to get rid of them as soon as possible.</p>
+               <p>Q. Was there a man in black in company with them?</p>
+               <p>Purdon. I know nothing of any other man.</p>
+               <p>William Sands. I was constable of the night, and hearing an out cry of murder I went to the deceased's room. Upon seeing him lie on the bed I took the woman into custody, and ask'd her if she was accessary to the murder. She said no. I ask'd her who did it. She said, her son Lewis.</p>
+               <p>Q. Did she tell you how he came to do it?</p>
+               <p>Sands. No, she did not. We took her away, and as we were going through Cripplegate the people ask'd her what she was going to gaol for. She immediately reply'd, only for killing her husband. Her apron was bloody, and I ask'd her how she came by it. She said she received a blow at a house in Golden Lane. Then I proposed to take the apron from her, left she should wash it, and say she had no blood about her. After this I went to the house she told me of in Golden Lane; the landlord's name is Crowson. I ask'd him if there were any difference between the deceased and the prisoner there. He said, they had not words to occasioned. After that I went into the room again, to see if I could find the instrument that occasioned the man's death, where I found a knife which had a trifle of blood and some sat on the other side of it. (he lives in the two produced, and takes out that was not produced to Lewis) This is it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175607140019"></xptr>Q Is there any blood on it now ?</p>
+               <p>Sands. No, there is not. Here is the stain of the fat on it still.</p>
+               <p>Q. Where did you find it?</p>
+               <p>Sands. I found it on the seat where the deceased work'd.</p>
+               <p>Cross examination.</p>
+               <p>Q. Was the boy by when you had that conversation with the mother?</p>
+               <p>Sands. No, he was not.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person201">
+                  Christopher 
+                  Nicholson 
+               <interp inst="t17560714-25-person201" type="surname" value="Nicholson"></interp>
+                     <interp inst="t17560714-25-person201" type="given" value="Christopher"></interp>
+                     <interp inst="t17560714-25-person201" type="gender" value="male"></interp>
+                  </persName>
+            . I was at my own door, a little way from where the deceased lived. I saw him go pass me between eight and nine that night, and in about five or six minutes the boy now at the bar came down stairs, and made a great uproar in the court; which the man belonging to the house chid him for, and bid him go up again. He went within the passage, whether he went up again or not, I can't tell; but in a little time he came out again, and cry'd out, mother come down, let's go to my brother, for I have done his job.</p>
+               <p>Q. What answer did she make?</p>
+               <p>Nicholson. That I can't say. He ran down the court directly, and in about four minutes after I heard three or four heavy groans of a man.</p>
+               <p>Q. from a juryman. How far was you from the house the deceased lived in?</p>
+               <p>Nicholson. About five or six yards. [He describes it by the distance he stood, and a certain place in the court.] After that I went up, and saw the deceased lying in his blood on the ground. The woman at the bar had his head on her lap. I desired to see the wound. She pull'd his shirt away on his left breast, and shew'd me the wound; she then pull'd the shirt over it again, and I came down stairs directly.</p>
+               <p>Q Did you ask her who did it?</p>
+               <p>Nicholson. No, I did not.</p>
+               <p>Q. Did she say how he came by his death?</p>
+               <p>Nicholson. No, she did not.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person202">
+                  Elizabeth 
+                  Gwyn 
+               <interp inst="t17560714-25-person202" type="surname" value="Gwyn"></interp>
+                     <interp inst="t17560714-25-person202" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17560714-25-person202" type="gender" value="female"></interp>
+                  </persName>
+            . I heard the woman at the bar say, the day before the murder, that Joseph Hughes went out with some work and brought the money home to her, and gave her two shillings and some halfpence (what I can't say) and kept half a crown in his pocket, and that he would spend it. Then the little boy went down to fetch a dram.</p>
+               <p>Q. What time of the day was this ?</p>
+               <p>E. Gwyn. It might be about five o'clock. When the boy was gone she said, if he did not give her that half crown she would see his liver.</p>
+               <p>Q. Where was you when you heard this?</p>
+               <p>E. Gwyn. It was in her own room.</p>
+               <p>Q. What did he say to that?</p>
+               <p>E. Gwyn. He made use of a very bad oath, and went down stairs.</p>
+               <p>Q. What sort of an oath was it?</p>
+               <p>E. Gwyn. It was blasting himself. She said, it he went into the skittle-ground she would go after him.</p>
+               <p>Cross examination.</p>
+               <p>Q. What are you?</p>
+               <p>E. Gwyn. I close and stitch shoes.</p>
+               <p>Q Do you live in the same house ?</p>
+               <p>E. Gwyn. I do not. I had closed and seam'd some shoes for the prisoner, and went there for the money.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person203">
+                  Thomas 
+                  Godman 
+               <interp inst="t17560714-25-person203" type="surname" value="Godman"></interp>
+                     <interp inst="t17560714-25-person203" type="given" value="Thomas"></interp>
+                     <interp inst="t17560714-25-person203" type="gender" value="male"></interp>
+                  </persName>
+            . I am a surgeon. (He takes the two knives in his hand) I am very well assured this is the knife that made the wound. [N. B. That was the last knife produced by the officer, not that which was shewn the boy.]</p>
+               <p>Q. Did you compare the knife to the wound?</p>
+               <p>Godman. I did.</p>
+               <p>Q. How far did the knife penetrate ?</p>
+               <p>Godman. The wound is betwixt the 4th and 5th rib, about half an inch in breadth, on the left side; it penetrated the thorax, and went obliquely towards the sternum, so deep as to penetrate the globe of the lungs, which must occasion present death, by the great effusion of blood.</p>
+               <p>Q. Could you conceive the boy at the bar at the distance of three or four yards could do this?</p>
+               <p>Godman. It does not tally with my reason at all. I think it must be done by somebody's hand; it penetrated quite into the substance of the lungs.</p>
+               <p>Q. Supposing the man had stood up, whether a boy of that age could throw a knife so as to penetrate in that manner the wound was given?</p>
+               <p>Godman. From the best idea I can form of it, I think the man was stooping, and I believe the whole blade of the knife was buried in his body.</p>
+               <p>Q. Did the knife appear to have gone through a coat and waistcoat ?</p>
+               <p>Godman. He was naked when I opened him. I observed the knife was covered with fat, and there is a part of fat in a man's body in that place where he received the wound.</p>
+               <p>Cross examination.</p>
+               <p>Q. Of what age is the boy at the bar ?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175607140020"></xptr>Godman. I have examined the books for it, but can't find it.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person204">
+                  Mary 
+                  Alsop 
+               <interp inst="t17560714-25-person204" type="surname" value="Alsop"></interp>
+                     <interp inst="t17560714-25-person204" type="given" value="Mary"></interp>
+                     <interp inst="t17560714-25-person204" type="gender" value="female"></interp>
+                  </persName>
+            's defence.</p>
+               <p>The deceased went out that morning, and return'd between three and four o'clock; he then asked me to go with him a little way; I said I had no money, and he desired me to go and borrow some for him of the landlord. I sent the child to him, and he sent me a shilling. I gave it him, and we went to the Three Jolly Butchers. We had some words before we came home, and he said he had a good mind to stick me. We went to Mr. Crowson's, he began to quarrel with me there, and kick'd me over the legs several times. I made an excuse to go to the necessary house, and there staid and drop'd him. Then I desired the woman to tell my son. Lewis I was gone to the King's Head near Cripplegate. I went there, the deceased came to me, and gave me a punch on the head, and made my nose bleed; when we came home he pull'd me about the room by the hair of my head, and said he would kill us both. How the knife came to be thrown I know no more than the child unborn, I never saw it till he fell.</p>
+               <p>Lewis's defence.</p>
+               <p>I never said I had done for him.</p>
+               <p>For the prisoners.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person205">
+                  Thomas 
+                  Bourne 
+               <interp inst="t17560714-25-person205" type="surname" value="Bourne"></interp>
+                     <interp inst="t17560714-25-person205" type="given" value="Thomas"></interp>
+                     <interp inst="t17560714-25-person205" type="gender" value="male"></interp>
+                  </persName>
+            . I went to the Black Raven in Golden Lane with the deceased and the woman at the bar; they had some words, and he gave her a kick or two there. She said to me, Tom, will you give me part of a pint? I told her I would. She said she'd go to the King's Head, near Cripplegate; she went out with an excuse to go to the necessary house. She went there, I went to her, and the deceased came in and gave her a punch on the nose, which made the blood come, and some of it fell upon her apron. I got up, paid for the pint of beer, and we all three went out. He said as he went up Redcross-Street that he'd lick her; I endeavoured to persuade him not, and they seemed very sociable when I left them.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person206">
+                  Mary 
+                  Poor 
+               <interp inst="t17560714-25-person206" type="surname" value="Poor"></interp>
+                     <interp inst="t17560714-25-person206" type="given" value="Mary"></interp>
+                     <interp inst="t17560714-25-person206" type="gender" value="female"></interp>
+                  </persName>
+            . I heard the deceased say in her eldest son's room, he would finish her before night was over.</p>
+               <p>Q. When was this ?</p>
+               <p>M. Poor. Last Sunday was se'n-night. When she was gone I met the youngest boy at the bottom of the stairs; he asked where his mother was. I said gone home; he said, then she would be murdered, but before she shall be murdered I'll stab him; and her eldest son, named George, said it was good enough for her for taking up with such a man.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person207">
+                  Jane 
+                  Latchfield 
+               <interp inst="t17560714-25-person207" type="surname" value="Latchfield"></interp>
+                     <interp inst="t17560714-25-person207" type="given" value="Jane"></interp>
+                     <interp inst="t17560714-25-person207" type="gender" value="female"></interp>
+                  </persName>
+            . I was in the eldest son's room when Lewis came up, and said he had heav'd a knife at 
+               <persName id="t17560714-25-person208">
+                  Joe 
+                  Hughes 
+               <interp inst="t17560714-25-person208" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person208" type="given" value="Joe"></interp>
+                     <interp inst="t17560714-25-person208" type="gender" value="male"></interp>
+                  </persName>
+            , and stab'd him.</p>
+               <p>Q. Did he say why he flung the knife at him?</p>
+               <p>J. Latchfield. He said he was beating his mother, and he flung the knife at him because of that.</p>
+               <p>Q. to Godman. Do you think a boy of his bigness could give a stab deep enough to occasion the death of a man, with that knife.</p>
+               <p>Godman. I believe he could.</p>
+               <p>
+            
+                  <persName id="t17560714-25-person209">
+                  George 
+                  Alsop 
+               <interp inst="t17560714-25-person209" type="surname" value="Alsop"></interp>
+                     <interp inst="t17560714-25-person209" type="given" value="George"></interp>
+                     <interp inst="t17560714-25-person209" type="gender" value="male"></interp>
+                  </persName>
+            . I am son to the prisoner. About eleven o'clock in the day 
+               <persName id="t17560714-25-person210">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person210" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person210" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person210" type="gender" value="male"></interp>
+                  </persName>
+            , my mother and brother came to see me. 
+               <persName id="t17560714-25-person211">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person211" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person211" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person211" type="gender" value="male"></interp>
+                  </persName>
+             made a sad disturbance, and wanted to beat my mother in my room, and said he'd break her neck down four pair of stairs. I desired them to go home to their own lodgings, and not make a noise there. They went away, and about half an hour after, as I was in my room, my brother came and said, George, I have thrown a knife at 
+               <persName id="t17560714-25-person212">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person212" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person212" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person212" type="gender" value="male"></interp>
+                  </persName>
+            , it cut him, and I saw the blood run. He was frightened, and desired me to let him be in my room all night I asked why he did so, he said because 
+               <persName id="t17560714-25-person213">
+                  Joseph 
+                  Hughes 
+               <interp inst="t17560714-25-person213" type="surname" value="Hughes"></interp>
+                     <interp inst="t17560714-25-person213" type="given" value="Joseph"></interp>
+                     <interp inst="t17560714-25-person213" type="gender" value="male"></interp>
+                  </persName>
+             was going to dash his mother's brains out with the beating stones that they use.</p>
+               <p>Both <rs id="t17560714-25-verdict135" type="verdictDescription">
+                     <interp inst="t17560714-25-verdict135" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

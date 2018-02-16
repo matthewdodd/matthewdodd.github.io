@@ -1,3 +1,61 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-6">
+               <interp inst="t16870223-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-6" type="year" value="1687"></interp>
+               <interp inst="t16870223-6" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-6" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-6-off26-c39" targOrder="Y" targets="t16870223-6-defend52 t16870223-6-off26 t16870223-6-verdict29"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870223-6-defend52" type="defendantName">
+                     Thomas 
+                     Griffith
+                  <interp inst="t16870223-6-defend52" type="surname" value="Griffith"></interp>
+                     <interp inst="t16870223-6-defend52" type="given" value="Thomas"></interp>
+                     <interp inst="t16870223-6-defend52" type="gender" value="male"></interp>
+                  </persName>
+               
+            , took his Tryal for stealing a <rs id="t16870223-6-off26" type="offenceDescription">
+                     <interp inst="t16870223-6-off26" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-6-off26" type="offenceSubcategory" value="grandLarceny"></interp>
+               silver Cup, value 4 l.
+            </rs> on the <rs id="t16870223-6-cd27" type="crimeDate">10th. of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-6-off26 t16870223-6-cd27"></join>, being the proper Plate of the 
+               <persName id="t16870223-6-victim53" type="victimName">
+                     <rs id="t16870223-6-viclabel28" type="occupation">Masters and Fellows of Baliol Colledge in Oxford</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870223-6-victim53 t16870223-6-viclabel28"></join>
+                     <interp inst="t16870223-6-victim53" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870223-6-off26 t16870223-6-victim53"></join>
+                  </persName>
+            . The Evidence against him were 
+               <persName id="t16870223-6-person54">
+                  Thomas 
+                  Sherin
+               <interp inst="t16870223-6-person54" type="surname" value="Sherin"></interp>
+                     <interp inst="t16870223-6-person54" type="given" value="Thomas"></interp>
+                     <interp inst="t16870223-6-person54" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16870223-6-person55">
+                  Matthew 
+                  Rutter
+               <interp inst="t16870223-6-person55" type="surname" value="Rutter"></interp>
+                     <interp inst="t16870223-6-person55" type="given" value="Matthew"></interp>
+                     <interp inst="t16870223-6-person55" type="gender" value="male"></interp>
+                  </persName>
+            , and others, by whose Testimony it appeared, that being apprehended in the Parish of St. Giles's in the Fields, upon his attempting to Sell another piece of Plate that was found about him, and known by the Inscription and Arms of the Colledge and Doner, upon Notice of which, one of the Fellows of the Colledge came up and testified as much in Court, nor did the Prisoner deny but that he had it near that Colledge, but alledged it was given him by a strange man to sell or otherwise to dispose of it; but not being capable of producing the party, or giving any satisfactory accounts of himself, he was found <rs id="t16870223-6-verdict29" type="verdictDescription">
+                     <interp inst="t16870223-6-verdict29" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16870223-6-punish30" type="punishmentDescription">
+                     <interp inst="t16870223-6-punish30" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-6-defend52 t16870223-6-punish30"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

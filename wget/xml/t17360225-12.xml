@@ -1,3 +1,117 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-12">
+               <interp inst="t17360225-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-12" type="year" value="1736"></interp>
+               <interp inst="t17360225-12" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-12" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-12-off73-c78" targOrder="Y" targets="t17360225-12-defend99 t17360225-12-off73 t17360225-12-verdict77"></join>
+               <join result="criminalCharge" id="t17360225-12-off78-c78" targOrder="Y" targets="t17360225-12-defend99 t17360225-12-off78 t17360225-12-verdict77"></join>
+         
+               <p>16. 
+               
+                  <persName id="t17360225-12-defend99" type="defendantName">
+                     William 
+                     Davis 
+                  <interp inst="t17360225-12-defend99" type="surname" value="Davis"></interp>
+                     <interp inst="t17360225-12-defend99" type="given" value="William"></interp>
+                     <interp inst="t17360225-12-defend99" type="gender" value="male"></interp>
+                  </persName>
+               
+             of London was indicted, for <rs id="t17360225-12-off73" type="offenceDescription">
+                     <interp inst="t17360225-12-off73" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17360225-12-off73" type="offenceSubcategory" value="bigamy"></interp>
+               that he, on the 17th of January, in the 5th Year of his Majesty's Reign, in the Parish of Stepney, marry'd 
+                     
+                        <persName id="t17360225-12-victim101" type="victimName">
+                           Amy 
+                           Amos 
+                        <interp inst="t17360225-12-victim101" type="surname" value="Amos"></interp>
+                        <interp inst="t17360225-12-victim101" type="given" value="Amy"></interp>
+                        <interp inst="t17360225-12-victim101" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  ; and on the 23d of January last, in the Parish of <placeName id="t17360225-12-crimeloc74">Old Fish-street</placeName>
+                     <interp inst="t17360225-12-crimeloc74" type="placeName" value="Old Fish-street"></interp>
+                     <interp inst="t17360225-12-crimeloc74" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17360225-12-off73 t17360225-12-crimeloc74"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17360225-12-off78 t17360225-12-crimeloc74"></join>, he marry'd 
+                     
+                        <persName id="t17360225-12-victim103" type="victimName">
+                           Anne 
+                           Appletree 
+                        <interp inst="t17360225-12-victim103" type="surname" value="Appletree"></interp>
+                        <interp inst="t17360225-12-victim103" type="given" value="Anne"></interp>
+                        <interp inst="t17360225-12-victim103" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , his former <rs id="t17360225-12-viclabel75" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17360225-12-victim101 t17360225-12-viclabel75"></join> being then living
+            </rs>; the <rs id="t17360225-12-cd76" type="crimeDate">26th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-12-off73 t17360225-12-cd76"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-12-off78 t17360225-12-cd76"></join>, she said Davis being arrested for the Felony aforesaid. To this Indictment the Prisoner <rs id="t17360225-12-verdict77" type="verdictDescription">
+                     <interp inst="t17360225-12-verdict77" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-12-verdict77" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>He was a second Time indicted for <rs id="t17360225-12-off78" type="offenceDescription">
+                     <interp inst="t17360225-12-off78" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-12-off78" type="offenceSubcategory" value="other"></interp>
+               stealing 18 Pewter Plates, 5 Pewter Dishes, 1 Pair of Linnen Sheets, 7 Table-Cloaths, 1 Pair of Window-Curtains, 1 Coral, 4 Silver Spoons, 1 Quilt, and 4 brass Candlesticks
+            </rs> the Goods of 
+               
+                  <persName id="t17360225-12-victim105" type="victimName">
+                     John 
+                     Appletree 
+                  <interp inst="t17360225-12-victim105" type="surname" value="Appletree"></interp>
+                     <interp inst="t17360225-12-victim105" type="given" value="John"></interp>
+                     <interp inst="t17360225-12-victim105" type="gender" value="male"></interp>
+                  </persName>
+                
+            .</p>
+               <p>John Appletree. I liv'd at <placeName id="t17360225-12-crimeloc79">Knights bridge</placeName>
+                  <interp inst="t17360225-12-crimeloc79" type="placeName" value="Knights bridge"></interp>
+                  <interp inst="t17360225-12-crimeloc79" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360225-12-off73 t17360225-12-crimeloc79"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17360225-12-off78 t17360225-12-crimeloc79"></join>, and my Wife being dead, I committed the Care of all I had to my Daughter 
+               <persName id="t17360225-12-person106">
+                  Anne 
+                  Appletree 
+               <interp inst="t17360225-12-person106" type="surname" value="Appletree"></interp>
+                     <interp inst="t17360225-12-person106" type="given" value="Anne"></interp>
+                     <interp inst="t17360225-12-person106" type="gender" value="female"></interp>
+                  </persName>
+            . About 6 Months ago, I went to take care of a Gentleman's House in Berwick-street. I am a <rs id="t17360225-12-viclabel80" type="occupation">Yeoman in the Guards</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17360225-12-victim105 t17360225-12-viclabel80"></join>; and what between other People's Business and my own, I am often from Home: But one Night coming Home from Duty, I heard my Daughter was marry'd. I went to my Lodgings at Knights-bridge, and found my Daughter was gone, and the Goods too. I went to her, to the Blue-ball and Horse-shoe in St. James's Street: she own'd her Marriage, and said the Goods were neither sold nor pawn'd, but were under her Care, and she would deliver them to me. My Daughter was marry'd on Friday; on Saturday I heard her Husband had got another Wife; and on Sunday I found this first Wife at the 3 Tuns in Bishopsgate-street. I spoke to him about my Goods, for he had padlock'd them up, and had told his new Wife, that he would sell them all, and her Cloaths too, which he had secur'd with the rest of the Things; however, if I would give him 10 l. to enable him to disannul the first Marriage, he said I should have my Goods again. I took him upon the 26th, on the 27th I carried him to Newgate; and as he was going along, he gave the Key of the Padlock to the Constable; so I got my Goods again.</p>
+               <p>Constable. We got a search Warrant on Monday, but found a Padlock on the Door, where the Goods were; we took the Prisoner before Justice De Veil, and as we were carrying him to Newgate, he gave me the Key, and said we should find every Thing safe: I took all into my Custody, except the Wearing Apparel, and here they are.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173602250009"></xptr>Justice Deveil. The young Woman swore before me, that the Goods were deposited by her Father in a House at Knights-bridge, and that the Prisoner, against her Will, feloniously stole them from thence.</p>
+               <p>
+            
+                  <persName id="t17360225-12-person107">
+                  Ann 
+                  Appletree 
+               <interp inst="t17360225-12-person107" type="surname" value="Appletree"></interp>
+                     <interp inst="t17360225-12-person107" type="given" value="Ann"></interp>
+                     <interp inst="t17360225-12-person107" type="gender" value="female"></interp>
+                  </persName>
+            . I was left by my Father, with these Things in my Custody. The Prisoner pretended to be a single Man, and so we were married; but I told him these Goods were my Father's, and desired him, when he came, to return them. I knew of the Goods being removed, the Prisoner said he had taken a Lodging for me, and I thought they would be as safe under his Care, as mine; so I deliver'd him the Goods, and told my Father they were in my Husband's Custody: He refused indeed to deliver them, and locked them up against my Consent.</p>
+               <p>The first Wife was present in Court, and after the Trial was over, she informed the Court, that she apprehended her Life was in Danger from the Prisoner; and that he had declared he would have her Blood. Upon which, <rs id="t17360225-12-punish81" type="punishmentDescription">
+                     <interp inst="t17360225-12-punish81" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17360225-12-punish81" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-12-defend99 t17360225-12-punish81"></join>
+               the Court order'd him to remain till he gave Security for his good Behaviour
+            </rs>. <rs id="t17360225-12-verdict82" type="verdictDescription">
+                     <interp inst="t17360225-12-verdict82" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> of the Indictment.</p>
+               <p>
+                  <rs id="t17360225-12-punish83" type="punishmentDescription">
+                     <interp inst="t17360225-12-punish83" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17360225-12-punish83" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-12-defend99 t17360225-12-punish83"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

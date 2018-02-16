@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620714-25">
+               <interp inst="t17620714-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620714-25" type="year" value="1762"></interp>
+               <interp inst="t17620714-25" type="uri" value="sessionsPapers/17620714"></interp>
+               <interp inst="t17620714-25" type="date" value="17620714"></interp>
+               <join result="criminalCharge" id="t17620714-25-off108-c189" targOrder="Y" targets="t17620714-25-defend237 t17620714-25-off108 t17620714-25-verdict112"></join>
+               <join result="criminalCharge" id="t17620714-25-off110-c191" targOrder="Y" targets="t17620714-25-defend240 t17620714-25-off110 t17620714-25-verdict114"></join>
+         
+               <p>201, 202. (M.) 
+               
+                  <persName id="t17620714-25-defend237" type="defendantName">
+                     Catherine 
+                     Neal 
+                  <interp inst="t17620714-25-defend237" type="surname" value="Neal"></interp>
+                     <interp inst="t17620714-25-defend237" type="given" value="Catherine"></interp>
+                     <interp inst="t17620714-25-defend237" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17620714-25-deflabel107" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17620714-25-defend237 t17620714-25-deflabel107"></join>, was indicted for <rs id="t17620714-25-off108" type="offenceDescription">
+                     <interp inst="t17620714-25-off108" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620714-25-off108" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver spoon, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17620714-25-victim239" type="victimName">
+                     John 
+                     Willson 
+                  <interp inst="t17620714-25-victim239" type="surname" value="Willson"></interp>
+                     <interp inst="t17620714-25-victim239" type="given" value="John"></interp>
+                     <interp inst="t17620714-25-victim239" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17620714-25-defend240" type="defendantName">
+                  Mary, <rs id="t17620714-25-deflabel109" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17620714-25-defend240 t17620714-25-deflabel109"></join> of 
+                     <persName id="t17620714-25-person241">
+                        Edward 
+                        Williams 
+                     <interp inst="t17620714-25-person241" type="surname" value="Williams"></interp>
+                        <interp inst="t17620714-25-person241" type="given" value="Edward"></interp>
+                        <interp inst="t17620714-25-person241" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17620714-25-defend240" type="surname" value="Williams"></interp>
+                     <interp inst="t17620714-25-defend240" type="given" value="Mary"></interp>
+                     <interp inst="t17620714-25-defend240" type="gender" value="female"></interp>
+                  </persName>
+            , for <rs id="t17620714-25-off110" type="offenceDescription">
+                     <interp inst="t17620714-25-off110" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620714-25-off110" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, well knowing it to have been stolen
+            </rs>, <rs id="t17620714-25-cd111" type="crimeDate">July 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620714-25-off108 t17620714-25-cd111"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620714-25-off110 t17620714-25-cd111"></join>. ||</p>
+               <p>Neal, <rs id="t17620714-25-verdict112" type="verdictDescription">
+                     <interp inst="t17620714-25-verdict112" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17620714-25-punish113" type="punishmentDescription">
+                     <interp inst="t17620714-25-punish113" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17620714-25-punish113" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17620714-25-defend237 t17620714-25-punish113"></join>
+               B
+            </rs>. Williams, <rs id="t17620714-25-verdict114" type="verdictDescription">
+                     <interp inst="t17620714-25-verdict114" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

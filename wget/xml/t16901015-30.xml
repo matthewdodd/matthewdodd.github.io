@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901015-30">
+               <interp inst="t16901015-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901015-30" type="year" value="1690"></interp>
+               <interp inst="t16901015-30" type="uri" value="sessionsPapers/16901015"></interp>
+               <interp inst="t16901015-30" type="date" value="16901015"></interp>
+               <join result="criminalCharge" id="t16901015-30-off133-c95" targOrder="Y" targets="t16901015-30-defend146 t16901015-30-off133 t16901015-30-verdict136"></join>
+               <join result="criminalCharge" id="t16901015-30-off133-c96" targOrder="Y" targets="t16901015-30-defend148 t16901015-30-off133 t16901015-30-verdict135"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16901015-30-defend146" type="defendantName">
+                     George 
+                     Brock
+                  <interp inst="t16901015-30-defend146" type="surname" value="Brock"></interp>
+                     <interp inst="t16901015-30-defend146" type="given" value="George"></interp>
+                     <interp inst="t16901015-30-defend146" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16901015-30-defend148" type="defendantName">
+                     Richard 
+                     James
+                  <interp inst="t16901015-30-defend148" type="surname" value="James"></interp>
+                     <interp inst="t16901015-30-defend148" type="given" value="Richard"></interp>
+                     <interp inst="t16901015-30-defend148" type="gender" value="male"></interp>
+                  </persName>
+               
+             were both Indicted for <rs id="t16901015-30-off133" type="offenceDescription">
+                     <interp inst="t16901015-30-off133" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901015-30-off133" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing 8 Ewe Sheep, value 4 l. 16 s.
+            </rs> from 
+               
+                  <persName id="t16901015-30-victim150" type="victimName">
+                     William 
+                     Breteridge
+                  <interp inst="t16901015-30-victim150" type="surname" value="Breteridge"></interp>
+                     <interp inst="t16901015-30-victim150" type="given" value="William"></interp>
+                     <interp inst="t16901015-30-victim150" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16901015-30-off133 t16901015-30-victim150"></join>
+                  </persName>
+               
+             of <placeName id="t16901015-30-crimeloc134">Kensington</placeName>
+                  <interp inst="t16901015-30-crimeloc134" type="placeName" value="Kensington"></interp>
+                  <interp inst="t16901015-30-crimeloc134" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901015-30-off133 t16901015-30-crimeloc134"></join>: James <rs id="t16901015-30-verdict135" type="verdictDescription">
+                     <interp inst="t16901015-30-verdict135" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16901015-30-verdict135" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               confess'd
+            </rs> it, but Brock pleaded Not Guilty; and the Evidence being called, they deposed, That the Prisoners offered some of the Sheep to sale to a Butcher in Newport-Market, and took him to see the rest in Dog and Bitch-yard, in Damnation-Ally; the Prisoner laid it upon 
+               <persName id="t16901015-30-person151">
+                  Richard 
+                  James
+               <interp inst="t16901015-30-person151" type="surname" value="James"></interp>
+                     <interp inst="t16901015-30-person151" type="given" value="Richard"></interp>
+                     <interp inst="t16901015-30-person151" type="gender" value="male"></interp>
+                  </persName>
+            , and had no Evidence, so he was found <rs id="t16901015-30-verdict136" type="verdictDescription">
+                     <interp inst="t16901015-30-verdict136" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16901015-30-punish137" type="punishmentDescription">
+                     <interp inst="t16901015-30-punish137" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16901015-30-punish137" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901015-30-defend146 t16901015-30-punish137"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901015-30-defend148 t16901015-30-punish137"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

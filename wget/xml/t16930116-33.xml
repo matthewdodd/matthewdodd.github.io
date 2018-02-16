@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930116-33">
+               <interp inst="t16930116-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930116-33" type="year" value="1693"></interp>
+               <interp inst="t16930116-33" type="uri" value="sessionsPapers/16930116"></interp>
+               <interp inst="t16930116-33" type="date" value="16930116"></interp>
+               <join result="criminalCharge" id="t16930116-33-off150-c111" targOrder="Y" targets="t16930116-33-defend111 t16930116-33-off150 t16930116-33-verdict153"></join>
+         
+               <p>
+            
+                  <persName id="t16930116-33-defend111" type="defendantName">
+                  Mary 
+                  Jenkins
+               <interp inst="t16930116-33-defend111" type="surname" value="Jenkins"></interp>
+                     <interp inst="t16930116-33-defend111" type="given" value="Mary"></interp>
+                     <interp inst="t16930116-33-defend111" type="gender" value="female"></interp>
+                  </persName>
+             was tryed for <rs id="t16930116-33-off150" type="offenceDescription">
+                     <interp inst="t16930116-33-off150" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930116-33-off150" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a dozen pair of Mens Norway Gloves, value 18 s. several other pair of Gloves, value 32 s. and divers other Goods
+            </rs> from 
+               <persName id="t16930116-33-victim112" type="victimName">
+                  William 
+                  Grantham
+               <interp inst="t16930116-33-victim112" type="surname" value="Grantham"></interp>
+                     <interp inst="t16930116-33-victim112" type="given" value="William"></interp>
+                     <interp inst="t16930116-33-victim112" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930116-33-off150 t16930116-33-victim112"></join>
+                  </persName>
+             of <placeName id="t16930116-33-crimeloc151">St. Leonard Shoreditch</placeName>
+                  <interp inst="t16930116-33-crimeloc151" type="placeName" value="St. Leonard Shoreditch"></interp>
+                  <interp inst="t16930116-33-crimeloc151" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930116-33-off150 t16930116-33-crimeloc151"></join>, who said that the Prisoner was his <rs id="t16930116-33-deflabel152" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930116-33-defend111 t16930116-33-deflabel152"></join>, and being left alone went out, and the Goods were mist after she has gone; She was <rs id="t16930116-33-verdict153" type="verdictDescription">
+                     <interp inst="t16930116-33-verdict153" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

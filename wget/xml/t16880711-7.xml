@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-7">
+               <interp inst="t16880711-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-7" type="year" value="1688"></interp>
+               <interp inst="t16880711-7" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-7" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-7-off29-c44" targOrder="Y" targets="t16880711-7-defend58 t16880711-7-off29 t16880711-7-verdict32"></join>
+               <join result="criminalCharge" id="t16880711-7-off29-c45" targOrder="Y" targets="t16880711-7-defend60 t16880711-7-off29 t16880711-7-verdict32"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16880711002"></xptr>London. 
+               
+                  <persName id="t16880711-7-defend58" type="defendantName">
+                     Richard 
+                     Rudd
+                  <interp inst="t16880711-7-defend58" type="surname" value="Rudd"></interp>
+                     <interp inst="t16880711-7-defend58" type="given" value="Richard"></interp>
+                     <interp inst="t16880711-7-defend58" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16880711-7-defend60" type="defendantName">
+                     William 
+                     Gamell
+                  <interp inst="t16880711-7-defend60" type="surname" value="Gamell"></interp>
+                     <interp inst="t16880711-7-defend60" type="given" value="William"></interp>
+                     <interp inst="t16880711-7-defend60" type="gender" value="male"></interp>
+                  </persName>
+               
+             of the Parish of St. Lawrence Jury, were Indicted for <rs id="t16880711-7-off29" type="offenceDescription">
+                     <interp inst="t16880711-7-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880711-7-off29" type="offenceSubcategory" value="pocketpicking"></interp>
+               Picking the Pocket of one 
+                     
+                        <persName id="t16880711-7-victim62" type="victimName">
+                           John 
+                           Best
+                        <interp inst="t16880711-7-victim62" type="surname" value="Best"></interp>
+                        <interp inst="t16880711-7-victim62" type="given" value="John"></interp>
+                        <interp inst="t16880711-7-victim62" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880711-7-off29 t16880711-7-victim62"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16880711-7-cd30" type="crimeDate">10th. of this Instant July</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16880711-7-off29 t16880711-7-cd30"></join>
+               
+                  </rs>. It appear'd upon Evidence, that the said Best was going into <placeName id="t16880711-7-crimeloc31">St. Lawrence's Church</placeName>
+                  <interp inst="t16880711-7-crimeloc31" type="placeName" value="St. Lawrence's Church"></interp>
+                  <interp inst="t16880711-7-crimeloc31" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16880711-7-off29 t16880711-7-crimeloc31"></join> in the midst of a great Crowd, and immediately after putting his Hand into his Pocket, miss'd the summ of 17 s. and having some suspicion of the Prisoners, (who were in the Throng) he Apprehended them, and carried them to a Tavern, where they gave him his Mony back again, telling him that they only Borrowed it of him. And they having nothing to say for themselves, besides, being very well known in Court to be very ancient Offenders, especially Rudd to have been an eminent Pick-pocket for several years past, they were found <rs id="t16880711-7-verdict32" type="verdictDescription">
+                     <interp inst="t16880711-7-verdict32" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880711-7-verdict32" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16880711-7-punish33" type="punishmentDescription">
+                     <interp inst="t16880711-7-punish33" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16880711-7-punish33" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-7-defend58 t16880711-7-punish33"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-7-defend60 t16880711-7-punish33"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

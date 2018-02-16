@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880711-32">
+               <interp inst="t16880711-32" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880711-32" type="year" value="1688"></interp>
+               <interp inst="t16880711-32" type="uri" value="sessionsPapers/16880711"></interp>
+               <interp inst="t16880711-32" type="date" value="16880711"></interp>
+               <join result="criminalCharge" id="t16880711-32-off160-c106" targOrder="Y" targets="t16880711-32-defend168 t16880711-32-off160 t16880711-32-verdict161"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880711-32-defend168" type="defendantName">
+                     Dorothy 
+                     Fyander
+                  <interp inst="t16880711-32-defend168" type="surname" value="Fyander"></interp>
+                     <interp inst="t16880711-32-defend168" type="given" value="Dorothy"></interp>
+                     <interp inst="t16880711-32-defend168" type="gender" value="female"></interp>
+                  </persName>
+               
+             was Tried for <rs id="t16880711-32-off160" type="offenceDescription">
+                     <interp inst="t16880711-32-off160" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16880711-32-off160" type="offenceSubcategory" value="shoplifting"></interp>
+               Stealing Ten Yards of Strip'd Muslin, value 50 s. the Goods of 
+                     
+                        <persName id="t16880711-32-victim170" type="victimName">
+                           Elizabeth 
+                           Sparry
+                        <interp inst="t16880711-32-victim170" type="surname" value="Sparry"></interp>
+                        <interp inst="t16880711-32-victim170" type="given" value="Elizabeth"></interp>
+                        <interp inst="t16880711-32-victim170" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880711-32-off160 t16880711-32-victim170"></join>
+                     </persName>
+                     
+                  . The Evidence deposed, That the Prisoner came into the Shop of the Prosecutor to cheapen some Muslin, and so took away the said Muslin
+            </rs>, which was found upon her. So she was found <rs id="t16880711-32-verdict161" type="verdictDescription">
+                     <interp inst="t16880711-32-verdict161" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880711-32-verdict161" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16880711-32-punish162" type="punishmentDescription">
+                     <interp inst="t16880711-32-punish162" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16880711-32-punish162" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880711-32-defend168 t16880711-32-punish162"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

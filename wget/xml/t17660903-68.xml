@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660903-68">
+               <interp inst="t17660903-68" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660903-68" type="year" value="1766"></interp>
+               <interp inst="t17660903-68" type="uri" value="sessionsPapers/17660903"></interp>
+               <interp inst="t17660903-68" type="date" value="17660903"></interp>
+               <join result="criminalCharge" id="t17660903-68-off366-c488" targOrder="Y" targets="t17660903-68-defend630 t17660903-68-off366 t17660903-68-verdict370"></join>
+         
+               <p>467. (L.) 
+               
+                  <persName id="t17660903-68-defend630" type="defendantName">
+                     Alice 
+                     Weaver 
+                  <interp inst="t17660903-68-defend630" type="surname" value="Weaver"></interp>
+                     <interp inst="t17660903-68-defend630" type="given" value="Alice"></interp>
+                     <interp inst="t17660903-68-defend630" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660903-68-off366" type="offenceDescription">
+                     <interp inst="t17660903-68-off366" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660903-68-off366" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a pair of shoes, value 4 s.
+            </rs> the property of 
+               <persName id="t17660903-68-victim631" type="victimName">
+                  Bateman 
+                  Saddington 
+               <interp inst="t17660903-68-victim631" type="surname" value="Saddington"></interp>
+                     <interp inst="t17660903-68-victim631" type="given" value="Bateman"></interp>
+                     <interp inst="t17660903-68-victim631" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660903-68-off366 t17660903-68-victim631"></join>
+                  </persName>
+             , <rs id="t17660903-68-cd367" type="crimeDate">July 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660903-68-off366 t17660903-68-cd367"></join>. ++</p>
+               <p>Bateman Saddington. I am an <rs id="t17660903-68-viclabel368" type="occupation">apothecary</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660903-68-victim631 t17660903-68-viclabel368"></join>, and live in <placeName id="t17660903-68-crimeloc369">Fleet-street</placeName>
+                  <interp inst="t17660903-68-crimeloc369" type="placeName" value="Fleet-street"></interp>
+                  <interp inst="t17660903-68-crimeloc369" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660903-68-off366 t17660903-68-crimeloc369"></join>; I missed a pair of shoes on the 13th of July, out of my bed room; I apprehend they were taken away on the Saturday; I found them at a pawnbroker's in Wych-street on Monday the 14th; they are new shoes, never had been worn; my name was wrote in them.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>Saddington. She came with some excuse to my servant on the Saturday, I never saw her before.</p>
+               <p>
+            
+                  <persName id="t17660903-68-person632">
+                  Christopher 
+                  Wallice 
+               <interp inst="t17660903-68-person632" type="surname" value="Wallice"></interp>
+                     <interp inst="t17660903-68-person632" type="given" value="Christopher"></interp>
+                     <interp inst="t17660903-68-person632" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Fryer, a pawnbroker in Wych street; the young man that took the shoes in is now in the country; he told me that 
+               <persName id="t17660903-68-person633">
+                  Alice 
+                  Weaver 
+               <interp inst="t17660903-68-person633" type="surname" value="Weaver"></interp>
+                     <interp inst="t17660903-68-person633" type="given" value="Alice"></interp>
+                     <interp inst="t17660903-68-person633" type="gender" value="female"></interp>
+                  </persName>
+             pawned them to him, but I was not in the shop at the time.</p>
+               <p>Q. Did you hear the prisoner examined?</p>
+               <p>Wallice. I did; Sir 
+               <persName id="t17660903-68-person634">
+                  John 
+                  Fielding 
+               <interp inst="t17660903-68-person634" type="surname" value="Fielding"></interp>
+                     <interp inst="t17660903-68-person634" type="given" value="John"></interp>
+                     <interp inst="t17660903-68-person634" type="gender" value="male"></interp>
+                  </persName>
+             asked her some questions, but I do not know what answers she made.</p>
+               <p>Q. to prosecutor. What did the prisoner say to the charge before Sir 
+               <persName id="t17660903-68-person635">
+                  John 
+                  Fielding 
+               <interp inst="t17660903-68-person635" type="surname" value="Fielding"></interp>
+                     <interp inst="t17660903-68-person635" type="given" value="John"></interp>
+                     <interp inst="t17660903-68-person635" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Prosecutor. I cannot now remember.</p>
+               <p>
+                  <rs id="t17660903-68-verdict370" type="verdictDescription">
+                     <interp inst="t17660903-68-verdict370" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

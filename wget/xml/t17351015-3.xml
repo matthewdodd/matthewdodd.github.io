@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351015-3">
+               <interp inst="t17351015-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351015-3" type="year" value="1735"></interp>
+               <interp inst="t17351015-3" type="uri" value="sessionsPapers/17351015"></interp>
+               <interp inst="t17351015-3" type="date" value="17351015"></interp>
+               <join result="criminalCharge" id="t17351015-3-off8-c31" targOrder="Y" targets="t17351015-3-defend36 t17351015-3-off8 t17351015-3-verdict10"></join>
+         
+               <p>3. 
+               
+                  <persName id="t17351015-3-defend36" type="defendantName">
+                     George 
+                     Hambleton 
+                  <interp inst="t17351015-3-defend36" type="surname" value="Hambleton"></interp>
+                     <interp inst="t17351015-3-defend36" type="given" value="George"></interp>
+                     <interp inst="t17351015-3-defend36" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17351015-3-off8" type="offenceDescription">
+                     <interp inst="t17351015-3-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351015-3-off8" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Looking Glass, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17351015-3-victim38" type="victimName">
+                     Thomas 
+                     Clear 
+                  <interp inst="t17351015-3-victim38" type="surname" value="Clear"></interp>
+                     <interp inst="t17351015-3-victim38" type="given" value="Thomas"></interp>
+                     <interp inst="t17351015-3-victim38" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17351015-3-off8 t17351015-3-victim38"></join>
+                  </persName>
+                
+            , <rs id="t17351015-3-cd9" type="crimeDate">October 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351015-3-off8 t17351015-3-cd9"></join>. <rs id="t17351015-3-verdict10" type="verdictDescription">
+                     <interp inst="t17351015-3-verdict10" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17351015-3-punish11" type="punishmentDescription">
+                     <interp inst="t17351015-3-punish11" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351015-3-defend36 t17351015-3-punish11"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

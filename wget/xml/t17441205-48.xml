@@ -1,3 +1,480 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17441205-48">
+               <interp inst="t17441205-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t17441205-48" type="year" value="1744"></interp>
+               <interp inst="t17441205-48" type="uri" value="sessionsPapers/17441205"></interp>
+               <interp inst="t17441205-48" type="date" value="17441205"></interp>
+               <join result="criminalCharge" id="t17441205-48-off305-c473" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off305 t17441205-48-verdict313"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c473" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off305-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off305 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off314 t17441205-48-verdict313"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c473" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off314-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off314 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off317 t17441205-48-verdict313"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c473" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c474" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c475" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c476" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c477" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-off317 t17441205-48-verdict311"></join>
+               <join result="criminalCharge" id="t17441205-48-off317-c478" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-off317 t17441205-48-verdict311"></join>
+         
+               <p>+ 78. 79. 80. 81. 82. 83.</p>
+               <p>
+            
+               
+                  <persName id="t17441205-48-defend586" type="defendantName">
+                     William 
+                     Norwill , otherwise <rs id="t17441205-48-alias-12" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-alias-12"></join>Long Will</rs>
+                     <interp inst="t17441205-48-defend586" type="surname" value="Norwill"></interp>
+                     <interp inst="t17441205-48-defend586" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-defend586" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17441205-48-defend588" type="defendantName">
+                     William 
+                     Billingsly , otherwise <rs id="t17441205-48-alias-13" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-alias-13"></join>Gugg</rs>
+                     <interp inst="t17441205-48-defend588" type="surname" value="Billingsly"></interp>
+                     <interp inst="t17441205-48-defend588" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-defend588" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17441205-48-defend590" type="defendantName">
+                     Joseph 
+                     Field , otherwise <rs id="t17441205-48-alias-14" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-alias-14"></join>Nobby</rs>
+                     <interp inst="t17441205-48-defend590" type="surname" value="Field"></interp>
+                     <interp inst="t17441205-48-defend590" type="given" value="Joseph"></interp>
+                     <interp inst="t17441205-48-defend590" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17441205-48-defend592" type="defendantName">
+                     Thomas 
+                     Wells , otherwise <rs id="t17441205-48-alias-15" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-alias-15"></join>Kitt</rs>
+                     <interp inst="t17441205-48-defend592" type="surname" value="Wells"></interp>
+                     <interp inst="t17441205-48-defend592" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-48-defend592" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17441205-48-defend594" type="defendantName">
+                     John 
+                     Potbury , otherwise <rs id="t17441205-48-alias-16" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-alias-16"></join>Jack the Sailor</rs>
+                     <interp inst="t17441205-48-defend594" type="surname" value="Potbury"></interp>
+                     <interp inst="t17441205-48-defend594" type="given" value="John"></interp>
+                     <interp inst="t17441205-48-defend594" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17441205-48-defend596" type="defendantName">
+                     Henry
+                      Gadd*, otherwise <rs id="t17441205-48-alias-17" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-alias-17"></join>Scampey</rs>
+                     <interp inst="t17441205-48-defend596" type="surname" value="Gadd*"></interp>
+                     <interp inst="t17441205-48-defend596" type="given" value="Henry"></interp>
+                     <interp inst="t17441205-48-defend596" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17441205-48-defloc304">St. Botolph Bishopsgate</placeName>
+                  <interp inst="t17441205-48-defloc304" type="placeName" value="St. Botolph Bishopsgate"></interp>
+                  <interp inst="t17441205-48-defloc304" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-defloc304"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-defloc304"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-defloc304"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-defloc304"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-defloc304"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-defloc304"></join>, were indicted (together with 
+               <persName id="t17441205-48-person597">
+                  Samuel 
+                  Bannister 
+               <interp inst="t17441205-48-person597" type="surname" value="Bannister"></interp>
+                     <interp inst="t17441205-48-person597" type="given" value="Samuel"></interp>
+                     <interp inst="t17441205-48-person597" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17441205-48-person598">
+                  William 
+                  Norman 
+               <interp inst="t17441205-48-person598" type="surname" value="Norman"></interp>
+                     <interp inst="t17441205-48-person598" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person598" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17441205-48-person599">
+                  John 
+                  Neale 
+               <interp inst="t17441205-48-person599" type="surname" value="Neale"></interp>
+                     <interp inst="t17441205-48-person599" type="given" value="John"></interp>
+                     <interp inst="t17441205-48-person599" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17441205-48-person600">
+                  Richard 
+                  Morris 
+               <interp inst="t17441205-48-person600" type="surname" value="Morris"></interp>
+                     <interp inst="t17441205-48-person600" type="given" value="Richard"></interp>
+                     <interp inst="t17441205-48-person600" type="gender" value="male"></interp>
+                  </persName>
+             not yet taken,) for <rs id="t17441205-48-off305" type="offenceDescription">
+                     <interp inst="t17441205-48-off305" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17441205-48-off305" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17441205-48-victim602" type="victimName">
+                           Edward 
+                           Jones 
+                        <interp inst="t17441205-48-victim602" type="surname" value="Jones"></interp>
+                        <interp inst="t17441205-48-victim602" type="given" value="Edward"></interp>
+                        <interp inst="t17441205-48-victim602" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , on the King's Highway, putting him in fear, and taking from him a silver watch, value 50s. and a steel seal, value, 1 s.
+            </rs> 
+                  <rs id="t17441205-48-cd306" type="crimeDate">Sep. 28th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off305 t17441205-48-cd306"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off314 t17441205-48-cd306"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off317 t17441205-48-cd306"></join>.</p>
+               <p>*Henry Gadd was reputed to be an <rs id="t17441205-48-deflabel307" type="occupation">Apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-deflabel307"></join> to 
+               <persName id="t17441205-48-person603">
+                  Joseph 
+                  Field 
+               <interp inst="t17441205-48-person603" type="surname" value="Field"></interp>
+                     <interp inst="t17441205-48-person603" type="given" value="Joseph"></interp>
+                     <interp inst="t17441205-48-person603" type="gender" value="male"></interp>
+                  </persName>
+             in this Employment.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person604">
+                  Edward Jones 
+                  On 
+               <interp inst="t17441205-48-person604" type="surname" value="On"></interp>
+                     <interp inst="t17441205-48-person604" type="given" value="Edward Jones"></interp>
+                     <interp inst="t17441205-48-person604" type="gender" value="male"></interp>
+                  </persName>
+             Sept. the 28th as I was going along <placeName id="t17441205-48-crimeloc308">Devonshire street</placeName>
+                  <interp inst="t17441205-48-crimeloc308" type="placeName" value="Devonshire street"></interp>
+                  <interp inst="t17441205-48-crimeloc308" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off305 t17441205-48-crimeloc308"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off314 t17441205-48-crimeloc308"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off317 t17441205-48-crimeloc308"></join> near <placeName id="t17441205-48-crimeloc309">Bishopsgate</placeName>
+                  <interp inst="t17441205-48-crimeloc309" type="placeName" value="Bishopsgate"></interp>
+                  <interp inst="t17441205-48-crimeloc309" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off305 t17441205-48-crimeloc309"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off314 t17441205-48-crimeloc309"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-48-off317 t17441205-48-crimeloc309"></join>, about ten minutes after eight at night, I was robbed of a silver watch.</p>
+               <p>Q. By what number of people?</p>
+               <p>Jones. Eleven or twelve people husled me, and pinned me up against a wall, and a little youth, about as high as my navel, took my watch out of my pocket - It was a lad about the size of the little boy at the bar [Gadd] I am pretty well assured it is him, but I can't be positive. There was one little fellow (I think it was Jack the Sailor), who said, You dog, or D - n you you Dog, I'll peg you; and gave me a little blow, but did not hurt me - I can't be positive to any of them, because it was in the dark. I was sent for to Bridewell, and they informed me there was one they called, the Old Man, who was turned evidence; I went to him to the Poultry Compter, and he told me who they were that robbed me.</p>
+               <p>Field. I desire he may be asked what circumstances he has to know that any of us were concerned in the robbery.</p>
+               <p>Jury. Was Field the person that struck you?</p>
+               <p>Jones. That little chap, [Potbury] I saw something of his face by the light of the lamps, and I believe he is the person - they husled me up, and I said, Gentlemen, what do you mean by husling me? and I cried out, Thieves, and murder! Then one of them cried out, Coach; one called out one thing, and another another thing: they made a noise like a parcel of ravening wolves. I did not imagine that a robbery was committed; it was done in a quarter of a minute, and then they went about their business. I thought they had been a parcel of srolicksome young sparks; I did not think they were street robbers.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person605">
+                  William 
+                  Harper 
+               <interp inst="t17441205-48-person605" type="surname" value="Harper"></interp>
+                     <interp inst="t17441205-48-person605" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person605" type="gender" value="male"></interp>
+                  </persName>
+            . On the 28th of September, the Prisoners at the Bar, 
+               <persName id="t17441205-48-person606">
+                  Jack 
+                  Neale 
+               <interp inst="t17441205-48-person606" type="surname" value="Neale"></interp>
+                     <interp inst="t17441205-48-person606" type="given" value="Jack"></interp>
+                     <interp inst="t17441205-48-person606" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17441205-48-person607">
+                  Richard 
+                  Morris 
+               <interp inst="t17441205-48-person607" type="surname" value="Morris"></interp>
+                     <interp inst="t17441205-48-person607" type="given" value="Richard"></interp>
+                     <interp inst="t17441205-48-person607" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17441205-48-person608">
+                  William 
+                  Norman 
+               <interp inst="t17441205-48-person608" type="surname" value="Norman"></interp>
+                     <interp inst="t17441205-48-person608" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person608" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17441205-48-person609">
+                  Samuel 
+                  Bannister 
+               <interp inst="t17441205-48-person609" type="surname" value="Bannister"></interp>
+                     <interp inst="t17441205-48-person609" type="given" value="Samuel"></interp>
+                     <interp inst="t17441205-48-person609" type="gender" value="male"></interp>
+                  </persName>
+            , and myself, went from Chick-lane to 
+               <persName id="t17441205-48-person610">
+                  Jack 
+                  Neale 
+               <interp inst="t17441205-48-person610" type="surname" value="Neale"></interp>
+                     <interp inst="t17441205-48-person610" type="given" value="Jack"></interp>
+                     <interp inst="t17441205-48-person610" type="gender" value="male"></interp>
+                  </persName>
+            's, and in our way we took a watch from a gentleman; from thence we went into Devonshire-street, and met this gentleman: I can't say, the Prosecutor is the person; because it was dark; and Jack the Sailor took a watch out of his pocket.</p>
+               <p>Q. Had they any cutlasses?</p>
+               <p>Harper. They had cutlasses.</p>
+               <p>Q. Had Gadd a cutlass?</p>
+               <p>Harper. Yes; it was an old one of one 
+               <persName id="t17441205-48-person611">
+                  Samuel 
+                  Sonee 
+               <interp inst="t17441205-48-person611" type="surname" value="Sonee"></interp>
+                     <interp inst="t17441205-48-person611" type="given" value="Samuel"></interp>
+                     <interp inst="t17441205-48-person611" type="gender" value="male"></interp>
+                  </persName>
+            's, (which was broke) who is not taken yet; the Gentleman cried out, Thieves, and we went into Devonshire-street, and cried out, Coach; we all made a noise, that the people might not hear him.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174412050043"></xptr>Q. How many of them had cutlees?</p>
+               <p>Harper. Bannister, Norman, and Morris had.</p>
+               <p>Q. Had Field a cutlass?</p>
+               <p>Harper. He had not one then; I believe he never carried one, for he used to tell them it was wrong to cut and slash People after they had robbed them.</p>
+               <p>Q. Had you a cudass ?</p>
+               <p>Harper. I never carried a cutlass or pistol; Billingsly, Potbury, and Wells, used to cut and abuse People, and threaten to murder them.</p>
+               <p>Q. Have not you heard Field complain of their cruelty in cutting People in that manner?</p>
+               <p>Harper. Yes, I have; and I have heard him say they were worse than Blewitt and Frasier, to cut and slash people in that manner; and told them, if they did so, he would not go with them, and he often persuaded them from it; they were angry with him because he would not buy a hanger, and he used to tell them he had no money; when he had money they told him, you have money now, why don't you buy one? but he made some excuse, and would not buy one, because he did not approve of their proceedings. He frequently told them, is it not enough to rob people without cutting and hacking them? We went that night into Goodman's-fields, and took another Gentleman's watch, but they did not strike him because the man was pretty easy, and went away about his business; then we came up Rosemary-lane, and coming towards Aldgate they attacked another man, but they did not rob him because some people came out of their shops, and we were pursued. Wells had a horse pistol that belonged to Jack the Sailor; he said, shall I fire at them, he turned about and fired, and they all left us.</p>
+               <p>Prisoner Field. I said to the evidence Harper, how came you to put me into the information, when you know I am not guilty? He said, he had given his information, and he could not help it. Said I, would you send your soul to the devil, to take away the lives of so many poor innocent People? the Thief-takers make a trade of it, and do it for the sake of the reward.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person612">
+                  William 
+                  Day 
+               <interp inst="t17441205-48-person612" type="surname" value="Day"></interp>
+                     <interp inst="t17441205-48-person612" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person612" type="gender" value="male"></interp>
+                  </persName>
+             (Beadle of Portsoken Ward) on the 28th of September, between nine and ten at night, hearing a noise in the street, and a cry of Stop thief, I went out, saw several fellows, and catched at one of them, upon which he cut at me two or three times; I got my hat and staff, and called out, Thieves, murder, Thieves, murder; one of them, a tallish Person, presented a pistol at me, and fired; I stooped, and it happened to miss me.</p>
+               <p>Q. to Harper. Who fired the pistol?</p>
+               <p>Harper. Wells did.</p>
+               <p>Jury. Had any of the others a pistol?</p>
+               <p>Harper. I believe Jack the Sailor had one, but it was a pocket-pistol, the pistol that Wells had belonged to Jack the Sailor.</p>
+               <p>Q. What day of the week was this?</p>
+               <p>Harper. It was on a Friday night.</p>
+               <p>Day. It was on a Friday night; there was one Rosse stopped that night, and I hearing an outcry went after them; Mr. Rosse was not robbed, but there was one Mr. Winwood robbed that night.</p>
+               <p>Q. Had you ever any conversation with Harper?</p>
+               <p>Day. No, never.</p>
+               <p>Q. How came you to be here?</p>
+               <p>Day. I am here upon a subpoena upon another account.</p>
+               <p>Q. Ask him what circumstance he came upon to day?</p>
+               <p>Day. There was a watchman killed in August last, and I understood that the person who is charged with that fact, was to surrender himself to day. I attend upon that account.</p>
+               <p>Harper. Billingsly and Jack the Sailor were generally very cruel; for if a person did but turn about to look at them, they would knock them down: there was a piece of a skull taken out of a man's head, occasioned by a blow that they gave him, which would surprize you if you were to look at it.</p>
+               <p>Wells. I don't know any thing of him.</p>
+               <p>Harper. What, don't you know me?</p>
+               <p>Wells. No, I know nothing of you.</p>
+               <p>Harper. Don't you remember when you went to the Windmill in Cow-cross, in order to kill Mr. Jones the City Marshall, and Mr. Broomer?</p>
+               <p>Wells. No.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person613">
+                  Josiah 
+                  Risby 
+               <interp inst="t17441205-48-person613" type="surname" value="Risby"></interp>
+                     <interp inst="t17441205-48-person613" type="given" value="Josiah"></interp>
+                     <interp inst="t17441205-48-person613" type="gender" value="male"></interp>
+                  </persName>
+            . I live in St. John's-street; I am a Carpenter: 
+               <persName id="t17441205-48-person614">
+                  Joseph 
+                  Field 
+               <interp inst="t17441205-48-person614" type="surname" value="Field"></interp>
+                     <interp inst="t17441205-48-person614" type="given" value="Joseph"></interp>
+                     <interp inst="t17441205-48-person614" type="gender" value="male"></interp>
+                  </persName>
+             was bound <rs id="t17441205-48-deflabel310" type="occupation">Apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-deflabel310"></join> to me in the year 1738, and served four years of his time with me; he thought he could get into a place where he might learn more than he could with me, as I am chiefly in the jobbing way; he said he wanted to learn framing, and wanted to go away; I told him he should go if he could get a Master, but he did not; he afterwards grew uneasy, and he went away, - this is between two and three years ago; - he never did me any injury during the time he lived with me, or any person that I worked for; since he has been gone I have heard he has been sometimes with his Aunt, and sometimes in the Country, but how he spent his time I can't tell; 'tis a pity he has brought himself under this unhappiness.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person615">
+                  Hannah 
+                  Holt 
+               <interp inst="t17441205-48-person615" type="surname" value="Holt"></interp>
+                     <interp inst="t17441205-48-person615" type="given" value="Hannah"></interp>
+                     <interp inst="t17441205-48-person615" type="gender" value="female"></interp>
+                  </persName>
+            . I have known the Prisoner ever<xptr type="pageFacsimile" doc="174412050044"></xptr> since he was born; he was born at Hitchin in Hertfordshire, and came of a very good family.</p>
+               <p>Q. Are you any relation to him?</p>
+               <p>Holt. I am his own aunt; I don't know any harm of him, he had a very good character in the country, and is as honest a young fellow as ever was born, for what I know.</p>
+               <p>Q. How has he lived lately?</p>
+               <p>Holt. Really I can't tell.</p>
+               <p>Field. I worked three qu arters of a year with one Mr. Austin in the country, and at Sir Danvers Osburne's house near Cliston, and at a Lady's at Hutton.</p>
+               <p>Q. to Mrs. Holt. Has he lain at your house lately?</p>
+               <p>Holt. No, he has not; - he has not within these three or four months. All <rs id="t17441205-48-verdict311" type="verdictDescription">
+                     <interp inst="t17441205-48-verdict311" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, <rs id="t17441205-48-punish312" type="punishmentDescription">
+                     <interp inst="t17441205-48-punish312" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend586 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend588 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend590 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend592 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend594 t17441205-48-punish312"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17441205-48-defend596 t17441205-48-punish312"></join>
+               Death
+            </rs>.</p>
+               <p>
+                  <rs id="t17441205-48-verdict313" type="verdictDescription">
+                     <interp inst="t17441205-48-verdict313" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17441205-48-verdict313" type="verdictSubcategory" value="withRecommendation"></interp>
+               The Jury, on account of Joseph Field's being of a more merciful disposition than his companions, and endeavouring to prevent their cruelty in cutting, and otherwise abusing the Persons they robbed, begged the favour of the Court to recommend him to his Majesty for mercy
+            </rs>.</p>
+               <p>
+            
+                  <persName id="t17441205-48-person616">
+                  Joseph 
+                  Field 
+               <interp inst="t17441205-48-person616" type="surname" value="Field"></interp>
+                     <interp inst="t17441205-48-person616" type="given" value="Joseph"></interp>
+                     <interp inst="t17441205-48-person616" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Nobby, 
+               <persName id="t17441205-48-person617">
+                  William 
+                  Billingsly 
+               <interp inst="t17441205-48-person617" type="surname" value="Billingsly"></interp>
+                     <interp inst="t17441205-48-person617" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person617" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Gugg, 
+               <persName id="t17441205-48-person618">
+                  Thomas 
+                  Wells 
+               <interp inst="t17441205-48-person618" type="surname" value="Wells"></interp>
+                     <interp inst="t17441205-48-person618" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-48-person618" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Kitt, 
+               <persName id="t17441205-48-person619">
+                  John 
+                  Potbury 
+               <interp inst="t17441205-48-person619" type="surname" value="Potbury"></interp>
+                     <interp inst="t17441205-48-person619" type="given" value="John"></interp>
+                     <interp inst="t17441205-48-person619" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Jack the Sailor, and 
+               <persName id="t17441205-48-person620">
+                  Henry 
+                  Gadd 
+               <interp inst="t17441205-48-person620" type="surname" value="Gadd"></interp>
+                     <interp inst="t17441205-48-person620" type="given" value="Henry"></interp>
+                     <interp inst="t17441205-48-person620" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Scampey, were indicted (together with 
+               <persName id="t17441205-48-person621">
+                  William 
+                  Norman 
+               <interp inst="t17441205-48-person621" type="surname" value="Norman"></interp>
+                     <interp inst="t17441205-48-person621" type="given" value="William"></interp>
+                     <interp inst="t17441205-48-person621" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Party, 
+               <persName id="t17441205-48-person622">
+                  Thomas 
+                  Giles 
+               <interp inst="t17441205-48-person622" type="surname" value="Giles"></interp>
+                     <interp inst="t17441205-48-person622" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-48-person622" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Chimpin, 
+               <persName id="t17441205-48-person623">
+                  Samuel 
+                  Bannister 
+               <interp inst="t17441205-48-person623" type="surname" value="Bannister"></interp>
+                     <interp inst="t17441205-48-person623" type="given" value="Samuel"></interp>
+                     <interp inst="t17441205-48-person623" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17441205-48-person624">
+                  Richard 
+                  Mozris 
+               <interp inst="t17441205-48-person624" type="surname" value="Mozris"></interp>
+                     <interp inst="t17441205-48-person624" type="given" value="Richard"></interp>
+                     <interp inst="t17441205-48-person624" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Irishman, not yet taken) for <rs id="t17441205-48-off314" type="offenceDescription">
+                     <interp inst="t17441205-48-off314" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17441205-48-off314" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17441205-48-victim626" type="victimName">
+                           Thomas 
+                           Pestell 
+                        <interp inst="t17441205-48-victim626" type="surname" value="Pestell"></interp>
+                        <interp inst="t17441205-48-victim626" type="given" value="Thomas"></interp>
+                        <interp inst="t17441205-48-victim626" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , on the King's highway, in the Parish of <placeName id="t17441205-48-crimeloc315">St. Lawrence Jury</placeName>
+                     <interp inst="t17441205-48-crimeloc315" type="placeName" value="St. Lawrence Jury"></interp>
+                     <interp inst="t17441205-48-crimeloc315" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17441205-48-off305 t17441205-48-crimeloc315"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17441205-48-off314 t17441205-48-crimeloc315"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17441205-48-off317 t17441205-48-crimeloc315"></join>, putting him in fear, &amp;c. and taking from him a gold watch, value 12 l. a gold chain, value 30 s. and two Cornelian seals set in gold, value 10 s. his property
+            </rs>, <rs id="t17441205-48-cd316" type="crimeDate">Sept. 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off305 t17441205-48-cd316"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off314 t17441205-48-cd316"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off317 t17441205-48-cd316"></join>.</p>
+               <p>They were also indicted (together with the aforementioned persons not yet taken) for <rs id="t17441205-48-off317" type="offenceDescription">
+                     <interp inst="t17441205-48-off317" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17441205-48-off317" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17441205-48-victim628" type="victimName">
+                           William 
+                           Vanham 
+                        <interp inst="t17441205-48-victim628" type="surname" value="Vanham"></interp>
+                        <interp inst="t17441205-48-victim628" type="given" value="William"></interp>
+                        <interp inst="t17441205-48-victim628" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the King's highway, in the same Parish, putting him in fear, &amp;c. and taking from him a watch, value 5 l. a metal chain, value 5 s. and a Cornelian seal, value 5 s. his property
+            </rs>, <rs id="t17441205-48-cd318" type="crimeDate">Sept 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off305 t17441205-48-cd318"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off314 t17441205-48-cd318"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-48-off317 t17441205-48-cd318"></join>.</p>
+               <p>As the Prisoners were all capitally convicted upon other indictments, they were not tried upon these.</p>
+            </div1>

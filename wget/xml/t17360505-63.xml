@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f5a91d285eb370ac38ae7c28008051ac08957761998667eb489986ea1f8e7fe
-size 739
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-63">
+               <interp inst="t17360505-63" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-63" type="year" value="1736"></interp>
+               <interp inst="t17360505-63" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-63" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-63-off309-c292" targOrder="Y" targets="t17360505-63-defend429 t17360505-63-off309 t17360505-63-verdict313"></join>
+         
+               <p>72. 
+               
+                  <persName id="t17360505-63-defend429" type="defendantName">
+                     Rachel 
+                     Pain 
+                  <interp inst="t17360505-63-defend429" type="surname" value="Pain"></interp>
+                     <interp inst="t17360505-63-defend429" type="given" value="Rachel"></interp>
+                     <interp inst="t17360505-63-defend429" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17360505-63-off309" type="offenceDescription">
+                     <interp inst="t17360505-63-off309" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17360505-63-off309" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17360505-63-victim431" type="victimName">
+                           Hugh 
+                           Evanson 
+                        <interp inst="t17360505-63-victim431" type="surname" value="Evanson"></interp>
+                        <interp inst="t17360505-63-victim431" type="given" value="Hugh"></interp>
+                        <interp inst="t17360505-63-victim431" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-63-off309 t17360505-63-victim431"></join>
+                     </persName>
+                      
+                   on the King's Highway, putting him in fear, and taking from him a Silver Watch value 20 s.
+            </rs> 
+                  <rs id="t17360505-63-cd310" type="crimeDate">March 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-63-off309 t17360505-63-cd310"></join>.</p>
+               <p>
+            
+                  <persName id="t17360505-63-person432">
+                  Hugh 
+                  Evanson 
+               <interp inst="t17360505-63-person432" type="surname" value="Evanson"></interp>
+                     <interp inst="t17360505-63-person432" type="given" value="Hugh"></interp>
+                     <interp inst="t17360505-63-person432" type="gender" value="male"></interp>
+                  </persName>
+            . I was knock'd down between 11 and 12 at Night, between <placeName id="t17360505-63-crimeloc311">Bloomsbury</placeName>
+                  <interp inst="t17360505-63-crimeloc311" type="placeName" value="Bloomsbury"></interp>
+                  <interp inst="t17360505-63-crimeloc311" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360505-63-off309 t17360505-63-crimeloc311"></join> and <placeName id="t17360505-63-crimeloc312">Castle-Street</placeName>
+                  <interp inst="t17360505-63-crimeloc312" type="placeName" value="Castle-Street"></interp>
+                  <interp inst="t17360505-63-crimeloc312" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17360505-63-off309 t17360505-63-crimeloc312"></join>, by 2 Men, who robbed me of my Watch. Next Day I went to the Pawn-brokers, and desired them to stop it, if it should come to be pawn'd, and described it to them. The Prisoner brought it to Mr. Baxter, he stopp'd her, and sent for me. I did not see any Woman near me when I was robbed. <rs id="t17360505-63-verdict313" type="verdictDescription">
+                     <interp inst="t17360505-63-verdict313" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

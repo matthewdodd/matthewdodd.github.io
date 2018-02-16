@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17471209-13">
+               <interp inst="t17471209-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17471209-13" type="year" value="1747"></interp>
+               <interp inst="t17471209-13" type="uri" value="sessionsPapers/17471209"></interp>
+               <interp inst="t17471209-13" type="date" value="17471209"></interp>
+               <join result="criminalCharge" id="t17471209-13-off62-c96" targOrder="Y" targets="t17471209-13-defend121 t17471209-13-off62 t17471209-13-verdict64"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="174712090006"></xptr>16. 
+               
+                  <persName id="t17471209-13-defend121" type="defendantName">
+                     Elizabeth 
+                     Boswell 
+                  <interp inst="t17471209-13-defend121" type="surname" value="Boswell"></interp>
+                     <interp inst="t17471209-13-defend121" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17471209-13-defend121" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17471209-13-off62" type="offenceDescription">
+                     <interp inst="t17471209-13-off62" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17471209-13-off62" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 3 silver spoons, value 30 s.
+            </rs> the goods and chattels of 
+               
+                  <persName id="t17471209-13-victim123" type="victimName">
+                     James 
+                     Tomkins 
+                  <interp inst="t17471209-13-victim123" type="surname" value="Tomkins"></interp>
+                     <interp inst="t17471209-13-victim123" type="given" value="James"></interp>
+                     <interp inst="t17471209-13-victim123" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17471209-13-off62 t17471209-13-victim123"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+            
+                  <persName id="t17471209-13-person124">
+                  James 
+                  Tomkins 
+               <interp inst="t17471209-13-person124" type="surname" value="Tomkins"></interp>
+                     <interp inst="t17471209-13-person124" type="given" value="James"></interp>
+                     <interp inst="t17471209-13-person124" type="gender" value="male"></interp>
+                  </persName>
+            . The Prisoner stole three silver spoons from my father; one was found at the seven stars upon Saffron-hill, and the other two in the Old-bailey.</p>
+               <p>Q. How do you know the Prisoner took them?</p>
+               <p>Tomkins. The Prisoner owned it last night, we were first informed of it by some lodgers in the same house; the Prisoner was a <rs id="t17471209-13-deflabel63" type="occupation">washer and charewoman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17471209-13-defend121 t17471209-13-deflabel63"></join> in the house. These spoons, I know their mark, and can swear to them.</p>
+               <p>
+            
+                  <persName id="t17471209-13-person125">
+                  Thomas 
+                  Leeky 
+               <interp inst="t17471209-13-person125" type="surname" value="Leeky"></interp>
+                     <interp inst="t17471209-13-person125" type="given" value="Thomas"></interp>
+                     <interp inst="t17471209-13-person125" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the Prisoner sign her confession.</p>
+               <p>This examinant said, she took 3 spoons from Mr. Tomkins; one she pawned at the seven stars, on Saffron-hill for 6 s. and the other two in the Old-bailey for 4 s. and 6 d.</p>
+               <p>Q. How long have you known her?</p>
+               <p>Tomkins. Four years; and she always behaved very well.</p>
+               <p>
+                  <rs id="t17471209-13-verdict64" type="verdictDescription">
+                     <interp inst="t17471209-13-verdict64" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17471209-13-verdict64" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17471209-13-punish65" type="punishmentDescription">
+                     <interp inst="t17471209-13-punish65" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17471209-13-punish65" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17471209-13-defend121 t17471209-13-punish65"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

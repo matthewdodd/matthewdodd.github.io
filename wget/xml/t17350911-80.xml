@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-80">
+               <interp inst="t17350911-80" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-80" type="year" value="1735"></interp>
+               <interp inst="t17350911-80" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-80" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-80-off350-c375" targOrder="Y" targets="t17350911-80-defend549 t17350911-80-off350 t17350911-80-verdict352"></join>
+               <join result="criminalCharge" id="t17350911-80-off350-c376" targOrder="Y" targets="t17350911-80-defend551 t17350911-80-off350 t17350911-80-verdict352"></join>
+         
+               <p>95, 96. 
+               
+                  <persName id="t17350911-80-defend549" type="defendantName">
+                     William 
+                     Hicks 
+                  <interp inst="t17350911-80-defend549" type="surname" value="Hicks"></interp>
+                     <interp inst="t17350911-80-defend549" type="given" value="William"></interp>
+                     <interp inst="t17350911-80-defend549" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350911-80-defend551" type="defendantName">
+                     Susan 
+                     Hicks 
+                  <interp inst="t17350911-80-defend551" type="surname" value="Hicks"></interp>
+                     <interp inst="t17350911-80-defend551" type="given" value="Susan"></interp>
+                     <interp inst="t17350911-80-defend551" type="gender" value="female"></interp>
+                  </persName>
+                
+            , his <rs id="t17350911-80-deflabel349" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350911-80-defend551 t17350911-80-deflabel349"></join>, was indicted for <rs id="t17350911-80-off350" type="offenceDescription">
+                     <interp inst="t17350911-80-off350" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-80-off350" type="offenceSubcategory" value="other"></interp>
+               stealing two Bedsteads, two Blankets, a Mattrass, and a Butt of Beer
+            </rs>, the Goods of 
+               
+                  <persName id="t17350911-80-victim553" type="victimName">
+                     Margaret 
+                     Hutchins 
+                  <interp inst="t17350911-80-victim553" type="surname" value="Hutchins"></interp>
+                     <interp inst="t17350911-80-victim553" type="given" value="Margaret"></interp>
+                     <interp inst="t17350911-80-victim553" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-80-off350 t17350911-80-victim553"></join>
+                  </persName>
+                
+            , <rs id="t17350911-80-cd351" type="crimeDate">July 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-80-off350 t17350911-80-cd351"></join>. <rs id="t17350911-80-verdict352" type="verdictDescription">
+                     <interp inst="t17350911-80-verdict352" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

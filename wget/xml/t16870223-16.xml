@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-16">
+               <interp inst="t16870223-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-16" type="year" value="1687"></interp>
+               <interp inst="t16870223-16" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-16" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-16-off70-c71" targOrder="Y" targets="t16870223-16-defend100 t16870223-16-off70 t16870223-16-verdict75"></join>
+               <join result="criminalCharge" id="t16870223-16-off70-c72" targOrder="Y" targets="t16870223-16-defend102 t16870223-16-off70 t16870223-16-verdict75"></join>
+               <join result="criminalCharge" id="t16870223-16-off70-c73" targOrder="Y" targets="t16870223-16-defend104 t16870223-16-off70 t16870223-16-verdict75"></join>
+               <join result="criminalCharge" id="t16870223-16-off73-c71" targOrder="Y" targets="t16870223-16-defend100 t16870223-16-off73 t16870223-16-verdict75"></join>
+               <join result="criminalCharge" id="t16870223-16-off73-c72" targOrder="Y" targets="t16870223-16-defend102 t16870223-16-off73 t16870223-16-verdict75"></join>
+               <join result="criminalCharge" id="t16870223-16-off73-c73" targOrder="Y" targets="t16870223-16-defend104 t16870223-16-off73 t16870223-16-verdict75"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870223-16-defend100" type="defendantName">
+                     Richard 
+                     Townsend
+                  <interp inst="t16870223-16-defend100" type="surname" value="Townsend"></interp>
+                     <interp inst="t16870223-16-defend100" type="given" value="Richard"></interp>
+                     <interp inst="t16870223-16-defend100" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16870223-16-defend102" type="defendantName">
+                     Thomas 
+                     Small
+                  <interp inst="t16870223-16-defend102" type="surname" value="Small"></interp>
+                     <interp inst="t16870223-16-defend102" type="given" value="Thomas"></interp>
+                     <interp inst="t16870223-16-defend102" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16870223-16-defend104" type="defendantName">
+                     John 
+                     Clark
+                  <interp inst="t16870223-16-defend104" type="surname" value="Clark"></interp>
+                     <interp inst="t16870223-16-defend104" type="given" value="John"></interp>
+                     <interp inst="t16870223-16-defend104" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Arraigned upon two Indictments laid for Felony: The first for <rs id="t16870223-16-off70" type="offenceDescription">
+                     <interp inst="t16870223-16-off70" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-16-off70" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing Fifty Marble Stones, value 30 s.
+            </rs> the Goods of 
+               
+                  <persName id="t16870223-16-victim106" type="victimName">
+                     John 
+                     Steel
+                  <interp inst="t16870223-16-victim106" type="surname" value="Steel"></interp>
+                     <interp inst="t16870223-16-victim106" type="given" value="John"></interp>
+                     <interp inst="t16870223-16-victim106" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16870223-16-crimeloc71">St. Ann Westminster</placeName>
+                  <interp inst="t16870223-16-crimeloc71" type="placeName" value="St. Ann Westminster"></interp>
+                  <interp inst="t16870223-16-crimeloc71" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870223-16-off70 t16870223-16-crimeloc71"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t16870223-16-off73 t16870223-16-crimeloc71"></join>, on the <rs id="t16870223-16-cd72" type="crimeDate">20th. of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-16-off70 t16870223-16-cd72"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-16-off73 t16870223-16-cd72"></join> last.</p>
+               <p>The Second for <rs id="t16870223-16-off73" type="offenceDescription">
+                     <interp inst="t16870223-16-off73" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-16-off73" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing forty Marble Stones, value 30 s.
+            </rs> properly the Goods of Sir 
+               
+                  <persName id="t16870223-16-victim108" type="victimName">
+                     William 
+                     Booth
+                  <interp inst="t16870223-16-victim108" type="surname" value="Booth"></interp>
+                     <interp inst="t16870223-16-victim108" type="given" value="William"></interp>
+                     <interp inst="t16870223-16-victim108" type="gender" value="male"></interp>
+                  </persName>
+               
+            , <rs id="t16870223-16-viclabel74" type="occupation">Kt.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16870223-16-victim106 t16870223-16-viclabel74"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16870223-16-victim108 t16870223-16-viclabel74"></join> of the same Parish, Townsend pleaded guilty to both the Indictments; but Small and Clark puting themselves upon the Jury for their Tryal; it appeared by the Witness, that they had only attempted to take them from off the Ground where they were laid down with Mortar, and thereupon the Court adjudging it but a Trespass, and that they could not be found guilty upon the Indictment for Felony; they extended their favour so far to Townsend, as to suffer him to retract his Plea, who with the rest, putting himself upon the Jury a fresh, was with them <rs id="t16870223-16-verdict75" type="verdictDescription">
+                     <interp inst="t16870223-16-verdict75" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> of that Indictment.</p>
+            </div1>

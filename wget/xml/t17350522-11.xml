@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350522-11">
+               <interp inst="t17350522-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350522-11" type="year" value="1735"></interp>
+               <interp inst="t17350522-11" type="uri" value="sessionsPapers/17350522"></interp>
+               <interp inst="t17350522-11" type="date" value="17350522"></interp>
+               <join result="criminalCharge" id="t17350522-11-off54-c77" targOrder="Y" targets="t17350522-11-defend100 t17350522-11-off54 t17350522-11-verdict56"></join>
+         
+               <p>12. 
+               
+                  <persName id="t17350522-11-defend100" type="defendantName">
+                     Joseph 
+                     Gillam , alias <rs id="t17350522-11-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17350522-11-defend100 t17350522-11-alias-1"></join>Gwillim</rs>
+                     <interp inst="t17350522-11-defend100" type="surname" value="Gillam"></interp>
+                     <interp inst="t17350522-11-defend100" type="given" value="Joseph"></interp>
+                     <interp inst="t17350522-11-defend100" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350522-11-off54" type="offenceDescription">
+                     <interp inst="t17350522-11-off54" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350522-11-off54" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five Loaves, value 9 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17350522-11-victim102" type="victimName"> 
+                     Thomas 
+                     Williams
+                  <interp inst="t17350522-11-victim102" type="surname" value="Williams"></interp>
+                     <interp inst="t17350522-11-victim102" type="given" value="Thomas"></interp>
+                     <interp inst="t17350522-11-victim102" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350522-11-off54 t17350522-11-victim102"></join>
+                  </persName>
+               
+            , <rs id="t17350522-11-cd55" type="crimeDate">April 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350522-11-off54 t17350522-11-cd55"></join>. <rs id="t17350522-11-verdict56" type="verdictDescription">
+                     <interp inst="t17350522-11-verdict56" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910115-3">
+               <interp inst="t16910115-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910115-3" type="year" value="1691"></interp>
+               <interp inst="t16910115-3" type="uri" value="sessionsPapers/16910115"></interp>
+               <interp inst="t16910115-3" type="date" value="16910115"></interp>
+               <join result="criminalCharge" id="t16910115-3-off13-c30" targOrder="Y" targets="t16910115-3-defend30 t16910115-3-off13 t16910115-3-verdict15"></join>
+         
+               <p>
+            
+                  <persName id="t16910115-3-defend30" type="defendantName">
+                  Anne 
+                  Walters
+               <interp inst="t16910115-3-defend30" type="surname" value="Walters"></interp>
+                     <interp inst="t16910115-3-defend30" type="given" value="Anne"></interp>
+                     <interp inst="t16910115-3-defend30" type="gender" value="female"></interp>
+                  </persName>
+             was tryed for <rs id="t16910115-3-off13" type="offenceDescription">
+                     <interp inst="t16910115-3-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910115-3-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Rose-Diamond set in Silver, value 400 l.
+            </rs> from 
+               <persName id="t16910115-3-victim31" type="victimName">
+                  Moses 
+                  Mokatoa
+               <interp inst="t16910115-3-victim31" type="surname" value="Mokatoa"></interp>
+                     <interp inst="t16910115-3-victim31" type="given" value="Moses"></interp>
+                     <interp inst="t16910115-3-victim31" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16910115-3-off13 t16910115-3-victim31"></join>
+                  </persName>
+             Jew: who, after being sworn upon the Old Testament, declared, That the Prisoner was hired to be a <rs id="t16910115-3-deflabel14" type="occupation">Nurse</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910115-3-defend30 t16910115-3-deflabel14"></join> in his House, where having lived about a Month, she went away, her Mrs and her having some small falling out; after she was gone the Prosecutor missed his Diamond: But the Evidence was but Presumptous, so she was <rs id="t16910115-3-verdict15" type="verdictDescription">
+                     <interp inst="t16910115-3-verdict15" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

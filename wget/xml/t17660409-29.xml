@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-29">
+               <interp inst="t17660409-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-29" type="year" value="1766"></interp>
+               <interp inst="t17660409-29" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-29" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-29-off169-c194" targOrder="Y" targets="t17660409-29-defend254 t17660409-29-off169 t17660409-29-verdict173"></join>
+         
+               <p>232. (M.) 
+               
+                  <persName id="t17660409-29-defend254" type="defendantName">
+                     Henry 
+                     Shirley 
+                  <interp inst="t17660409-29-defend254" type="surname" value="Shirley"></interp>
+                     <interp inst="t17660409-29-defend254" type="given" value="Henry"></interp>
+                     <interp inst="t17660409-29-defend254" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17660409-29-off169" type="offenceDescription">
+                     <interp inst="t17660409-29-off169" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660409-29-off169" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cotton gown, value 10 s and one linen apron, value 12 d.
+            </rs> the property of 
+               
+                  <persName id="t17660409-29-victim256" type="victimName">
+                     Henry 
+                     Lack 
+                  <interp inst="t17660409-29-victim256" type="surname" value="Lack"></interp>
+                     <interp inst="t17660409-29-victim256" type="given" value="Henry"></interp>
+                     <interp inst="t17660409-29-victim256" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660409-29-off169 t17660409-29-victim256"></join>
+                  </persName>
+                
+            , <rs id="t17660409-29-cd170" type="crimeDate">March 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-29-off169 t17660409-29-cd170"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660409-29-person257">
+                  Henry 
+                  Lack 
+               <interp inst="t17660409-29-person257" type="surname" value="Lack"></interp>
+                     <interp inst="t17660409-29-person257" type="given" value="Henry"></interp>
+                     <interp inst="t17660409-29-person257" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17660409-29-viclabel171" type="occupation">labouring man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-29-victim256 t17660409-29-viclabel171"></join>, I live at <placeName id="t17660409-29-crimeloc172">Shepherd's-bush</placeName>
+                  <interp inst="t17660409-29-crimeloc172" type="placeName" value="Shepherd's-bush"></interp>
+                  <interp inst="t17660409-29-crimeloc172" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17660409-29-off169 t17660409-29-crimeloc172"></join>; my wife's gown and apron were lost, and found by the prisoner's directions.</p>
+               <p>
+            
+                  <persName id="t17660409-29-person258">
+                  John 
+                  Evans 
+               <interp inst="t17660409-29-person258" type="surname" value="Evans"></interp>
+                     <interp inst="t17660409-29-person258" type="given" value="John"></interp>
+                     <interp inst="t17660409-29-person258" type="gender" value="male"></interp>
+                  </persName>
+            . On the 15th of March, Shirley worked for me at Shepherd's-bush. After it was known that Lack's wife had lost a gown and apron, I went into the stable to the prisoner, and said, Harry, if you know any thing of the woman's things, tell her of them. I was at the searching the prisoner's house; we found several things my property, that he had taken from me. When I told him of this, he fell a crying, and said he would let her have them. Then he went along the road, and crossed some fields, and pulled the gown and apron out of a hedge, tied up in a sacking apron of his own. Then the constable took him to his house; there he owned to the fact.</p>
+               <p>
+            
+                  <persName id="t17660409-29-person259">
+                  John 
+                  Bradford 
+               <interp inst="t17660409-29-person259" type="surname" value="Bradford"></interp>
+                     <interp inst="t17660409-29-person259" type="given" value="John"></interp>
+                     <interp inst="t17660409-29-person259" type="gender" value="male"></interp>
+                  </persName>
+            , the constable, confirmed that of the confession; (the gown and apron produced and deposed to.)</p>
+               <p>Prisoner's defence.</p>
+               <p>I saw these things lying in the hedge; I took them out, and looked at them, and put them in again.</p>
+               <p>
+                  <rs id="t17660409-29-verdict173" type="verdictDescription">
+                     <interp inst="t17660409-29-verdict173" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17660409-29-verdict173" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty. 10 d
+            </rs>. <rs id="t17660409-29-punish174" type="punishmentDescription">
+                     <interp inst="t17660409-29-punish174" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17660409-29-punish174" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660409-29-defend254 t17660409-29-punish174"></join>
+               W
+            </rs>.</p>
+            </div1>

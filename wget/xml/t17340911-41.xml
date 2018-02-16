@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340911-41">
+               <interp inst="t17340911-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340911-41" type="year" value="1734"></interp>
+               <interp inst="t17340911-41" type="uri" value="sessionsPapers/17340911"></interp>
+               <interp inst="t17340911-41" type="date" value="17340911"></interp>
+               <join result="criminalCharge" id="t17340911-41-off194-c212" targOrder="Y" targets="t17340911-41-defend310 t17340911-41-off194 t17340911-41-verdict197"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="173409110018"></xptr>49 
+               
+                  <persName id="t17340911-41-defend310" type="defendantName">
+                     Thomas 
+                     Armson 
+                  <interp inst="t17340911-41-defend310" type="surname" value="Armson"></interp>
+                     <interp inst="t17340911-41-defend310" type="given" value="Thomas"></interp>
+                     <interp inst="t17340911-41-defend310" type="gender" value="male"></interp>
+                  </persName>
+               
+            , a little <rs id="t17340911-41-deflabel193" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17340911-41-defend310 t17340911-41-deflabel193"></join>, was indicted for <rs id="t17340911-41-off194" type="offenceDescription">
+                     <interp inst="t17340911-41-off194" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340911-41-off194" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Guinea, three half Guineas, half a Moidore, and 8 l. 2 s the 8 l. 2 s. the Money of 
+                     
+                        <persName id="t17340911-41-victim312" type="victimName">
+                           William 
+                           Ward 
+                        <interp inst="t17340911-41-victim312" type="surname" value="Ward"></interp>
+                        <interp inst="t17340911-41-victim312" type="given" value="William"></interp>
+                        <interp inst="t17340911-41-victim312" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17340911-41-off194 t17340911-41-victim312"></join>
+                     </persName>
+                      
+                  , in the House of 
+                     <persName id="t17340911-41-person313">
+                        William 
+                        Newman 
+                     <interp inst="t17340911-41-person313" type="surname" value="Newman"></interp>
+                        <interp inst="t17340911-41-person313" type="given" value="William"></interp>
+                        <interp inst="t17340911-41-person313" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, in the Parish of <placeName id="t17340911-41-crimeloc195">Harrow</placeName>
+                  <interp inst="t17340911-41-crimeloc195" type="placeName" value="Harrow"></interp>
+                  <interp inst="t17340911-41-crimeloc195" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17340911-41-off194 t17340911-41-crimeloc195"></join>, <rs id="t17340911-41-cd196" type="crimeDate">Sept. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340911-41-off194 t17340911-41-cd196"></join>.</p>
+               <p>William Ward. I live in William Newman's House, where the Prisoner had work'd a Week; I miss'd the Money in my Chest on Friday Afternoon. I suspected the Prisoner, and charg'd him with taking it. He at first deny'd, but afterwards confess'd it; and pull'd part of it out of his Pocket. He said he had laid out the rest, which was 4 l. in buying a Horse, and some Clothes at Watford; tho' it was then but 7 Hours since he stole it. I found 7 l. 13 s. upon him, and I got the Money again for the Horse, but 36 s. was quite lost.</p>
+               <p>
+            
+                  <persName id="t17340911-41-person314">
+                  William 
+                  Newman 
+               <interp inst="t17340911-41-person314" type="surname" value="Newman"></interp>
+                     <interp inst="t17340911-41-person314" type="given" value="William"></interp>
+                     <interp inst="t17340911-41-person314" type="gender" value="male"></interp>
+                  </persName>
+            . The Boy had been a Haymaking, and I took him in last Wednesday was a Week, to look after my Cows. On Friday Morning he went to fetch the Cows, but did not come back. The Prosecutor came home, and miss'd his Money; upon which I sent a Man and Horse after him, and he was taken at Watford</p>
+               <p>Prisoner. An Irishman (a Haymaker) told me where the Money lay, and bid me take it.</p>
+               <p>The Jury found him <rs id="t17340911-41-verdict197" type="verdictDescription">
+                     <interp inst="t17340911-41-verdict197" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17340911-41-punish198" type="punishmentDescription">
+                     <interp inst="t17340911-41-punish198" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17340911-41-defend310 t17340911-41-punish198"></join>
+               Death
+            </rs>.</p>
+            </div1>

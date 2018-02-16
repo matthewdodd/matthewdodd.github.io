@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480224-30">
+               <interp inst="t17480224-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480224-30" type="year" value="1748"></interp>
+               <interp inst="t17480224-30" type="uri" value="sessionsPapers/17480224"></interp>
+               <interp inst="t17480224-30" type="date" value="17480224"></interp>
+               <join result="criminalCharge" id="t17480224-30-off167-c227" targOrder="Y" targets="t17480224-30-defend279 t17480224-30-off167 t17480224-30-verdict169"></join>
+         
+               <p>152. 
+               
+                  <persName id="t17480224-30-defend279" type="defendantName">
+                     William 
+                     Kibble 
+                  <interp inst="t17480224-30-defend279" type="surname" value="Kibble"></interp>
+                     <interp inst="t17480224-30-defend279" type="given" value="William"></interp>
+                     <interp inst="t17480224-30-defend279" type="gender" value="male"></interp>
+                  </persName>
+               
+             , of <placeName id="t17480224-30-defloc166">Finchley</placeName>
+                  <interp inst="t17480224-30-defloc166" type="placeName" value="Finchley"></interp>
+                  <interp inst="t17480224-30-defloc166" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17480224-30-defend279 t17480224-30-defloc166"></join>, was indicted for <rs id="t17480224-30-off167" type="offenceDescription">
+                     <interp inst="t17480224-30-off167" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480224-30-off167" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing two hens, value 4 s. and a cock, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17480224-30-victim281" type="victimName">
+                     Thomas 
+                     Lawrence 
+                  <interp inst="t17480224-30-victim281" type="surname" value="Lawrence"></interp>
+                     <interp inst="t17480224-30-victim281" type="given" value="Thomas"></interp>
+                     <interp inst="t17480224-30-victim281" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480224-30-off167 t17480224-30-victim281"></join>
+                  </persName>
+                
+            , <rs id="t17480224-30-cd168" type="crimeDate">Feb. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480224-30-off167 t17480224-30-cd168"></join>.</p>
+               <p>
+                  <rs id="t17480224-30-verdict169" type="verdictDescription">
+                     <interp inst="t17480224-30-verdict169" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17480224-30-verdict169" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17480224-30-punish170" type="punishmentDescription">
+                     <interp inst="t17480224-30-punish170" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17480224-30-punish170" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17480224-30-defend279 t17480224-30-punish170"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

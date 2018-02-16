@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-1">
+               <interp inst="t16930426-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-1" type="year" value="1693"></interp>
+               <interp inst="t16930426-1" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-1" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-1-off2-c27" targOrder="Y" targets="t16930426-1-defend27 t16930426-1-off2 t16930426-1-verdict6"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-1-defend27" type="defendantName">
+                  William 
+                  Read
+               <interp inst="t16930426-1-defend27" type="surname" value="Read"></interp>
+                     <interp inst="t16930426-1-defend27" type="given" value="William"></interp>
+                     <interp inst="t16930426-1-defend27" type="gender" value="male"></interp>
+                  </persName>
+            , A Countrey Fellow, who came from <placeName id="t16930426-1-defloc1">Taunton in the West</placeName>
+                  <interp inst="t16930426-1-defloc1" type="placeName" value="Taunton in the West"></interp>
+                  <interp inst="t16930426-1-defloc1" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16930426-1-defend27 t16930426-1-defloc1"></join>, was tried for <rs id="t16930426-1-off2" type="offenceDescription">
+                     <interp inst="t16930426-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-1-off2" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing 18 Weather-sheep, value 30s. each
+            </rs>, on the <rs id="t16930426-1-cd3" type="crimeDate">16th of this Instant April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-1-off2 t16930426-1-cd3"></join>, from one <rs id="t16930426-1-viclabel4" type="occupation">Mr.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930426-1-victim28 t16930426-1-viclabel4"></join> 
+            
+                  <persName id="t16930426-1-victim28" type="victimName">
+                  William 
+                  Sympson
+               <interp inst="t16930426-1-victim28" type="surname" value="Sympson"></interp>
+                     <interp inst="t16930426-1-victim28" type="given" value="William"></interp>
+                     <interp inst="t16930426-1-victim28" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930426-1-off2 t16930426-1-victim28"></join>
+                  </persName>
+            ; who said, that he lost the Sheep out of <placeName id="t16930426-1-crimeloc5">Ham Marshes in Middlesex</placeName>
+                  <interp inst="t16930426-1-crimeloc5" type="placeName" value="Ham Marshes in Middlesex"></interp>
+                  <interp inst="t16930426-1-crimeloc5" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930426-1-off2 t16930426-1-crimeloc5"></join>, and the Sheep were found in the custody of the Prisoner. The Prisoner said, That one 
+               <persName id="t16930426-1-person29">
+                  Thomas 
+                  Williams
+               <interp inst="t16930426-1-person29" type="surname" value="Williams"></interp>
+                     <interp inst="t16930426-1-person29" type="given" value="Thomas"></interp>
+                     <interp inst="t16930426-1-person29" type="gender" value="male"></interp>
+                  </persName>
+             hired him to drive the Sheep to London, but could not produce Williams to prove it. He was found <rs id="t16930426-1-verdict6" type="verdictDescription">
+                     <interp inst="t16930426-1-verdict6" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16930426-1-punish7" type="punishmentDescription">
+                     <interp inst="t16930426-1-punish7" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930426-1-punish7" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-1-defend27 t16930426-1-punish7"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

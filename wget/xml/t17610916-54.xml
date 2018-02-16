@@ -1,3 +1,81 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17610916-54">
+               <interp inst="t17610916-54" type="collection" value="BAILEY"></interp>
+               <interp inst="t17610916-54" type="year" value="1761"></interp>
+               <interp inst="t17610916-54" type="uri" value="sessionsPapers/17610916"></interp>
+               <interp inst="t17610916-54" type="date" value="17610916"></interp>
+               <join result="criminalCharge" id="t17610916-54-off283-c409" targOrder="Y" targets="t17610916-54-defend502 t17610916-54-off283 t17610916-54-verdict286"></join>
+         
+               <p>274 (M) 
+               
+                  <persName id="t17610916-54-defend502" type="defendantName">
+                     Mary 
+                     Dearing 
+                  <interp inst="t17610916-54-defend502" type="surname" value="Dearing"></interp>
+                     <interp inst="t17610916-54-defend502" type="given" value="Mary"></interp>
+                     <interp inst="t17610916-54-defend502" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17610916-54-deflabel282" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610916-54-defend502 t17610916-54-deflabel282"></join>, was indicted for <rs id="t17610916-54-off283" type="offenceDescription">
+                     <interp inst="t17610916-54-off283" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17610916-54-off283" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one table spoon, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17610916-54-victim504" type="victimName">
+                     William 
+                     Hodgson 
+                  <interp inst="t17610916-54-victim504" type="surname" value="Hodgson"></interp>
+                     <interp inst="t17610916-54-victim504" type="given" value="William"></interp>
+                     <interp inst="t17610916-54-victim504" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17610916-54-off283 t17610916-54-victim504"></join>
+                  </persName>
+                
+            , <rs id="t17610916-54-cd284" type="crimeDate">July 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17610916-54-off283 t17610916-54-cd284"></join>.~</p>
+
+               <p>
+            
+                  <persName id="t17610916-54-person505">
+                  William 
+                  Hodgson 
+               <interp inst="t17610916-54-person505" type="surname" value="Hodgson"></interp>
+                     <interp inst="t17610916-54-person505" type="given" value="William"></interp>
+                     <interp inst="t17610916-54-person505" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner lived <rs id="t17610916-54-deflabel285" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17610916-54-defend502 t17610916-54-deflabel285"></join> with me about six weeks, or two months. On the 20th of July, she got up, and went about her business as usual. Between seven and eight o'clock she was gone. My wife miss d a silver spoon. I sent about amongst the pawnbrokers, that if such a person came with a spoon, to stop her. She was stopped at Mr. Smith's in Bishopsgate street, with part of the spoon. The prisoner owned she had broke it, and throwed away the handle-part, where the mark was, in George-yard, Whitechapel. [The bowl-part produced.] She confessed to the taking of it, and her confession was taken in writing before the justice.</p>
+               <p>Q. Was that confession made under any expectation of forgiveness?</p>
+               <p>Hodgson. I had made her no promises of that sort, it was freely and voluntarily; I did not swear to the piece of the spoon, neither could I, it being broke.</p>
+               <p>Q. Were any threats made use of?</p>
+               <p>Hodgson. No, none at all. [The confession produced.] The prisoner signed this freely after it was read over to her in my hearing. [It was read in court; wherein she acknowledges the taking the spoon, her master's property, &amp; c.</p>
+               <p>
+            
+                  <persName id="t17610916-54-person506">
+                  Anne 
+                  Vickers 
+               <interp inst="t17610916-54-person506" type="surname" value="Vickers"></interp>
+                     <interp inst="t17610916-54-person506" type="given" value="Anne"></interp>
+                     <interp inst="t17610916-54-person506" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner brought this bowl of a silver spoon to Mr. Smith's shop, and offered it to sale.</p>
+               <p>The prisoner said nothing in her defence.</p>
+               <p>
+                  <rs id="t17610916-54-verdict286" type="verdictDescription">
+                     <interp inst="t17610916-54-verdict286" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17610916-54-verdict286" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17610916-54-punish287" type="punishmentDescription">
+                     <interp inst="t17610916-54-punish287" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17610916-54-punish287" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17610916-54-defend502 t17610916-54-punish287"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

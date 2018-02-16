@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640222-16">
+               <interp inst="t17640222-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640222-16" type="year" value="1764"></interp>
+               <interp inst="t17640222-16" type="uri" value="sessionsPapers/17640222"></interp>
+               <interp inst="t17640222-16" type="date" value="17640222"></interp>
+               <join result="criminalCharge" id="t17640222-16-off82-c107" targOrder="Y" targets="t17640222-16-defend139 t17640222-16-off82 t17640222-16-verdict86"></join>
+         
+               <p>143. (M.) 
+               
+                  <persName id="t17640222-16-defend139" type="defendantName">
+                     Daniel 
+                     Hussey 
+                  <interp inst="t17640222-16-defend139" type="surname" value="Hussey"></interp>
+                     <interp inst="t17640222-16-defend139" type="given" value="Daniel"></interp>
+                     <interp inst="t17640222-16-defend139" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640222-16-off82" type="offenceDescription">
+                     <interp inst="t17640222-16-off82" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640222-16-off82" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one post-chariot glass, value 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17640222-16-victim141" type="victimName">
+                     Edward 
+                     Traverse 
+                  <interp inst="t17640222-16-victim141" type="surname" value="Traverse"></interp>
+                     <interp inst="t17640222-16-victim141" type="given" value="Edward"></interp>
+                     <interp inst="t17640222-16-victim141" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640222-16-off82 t17640222-16-victim141"></join>
+                  </persName>
+                
+            , <rs id="t17640222-16-viclabel83" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640222-16-victim141 t17640222-16-viclabel83"></join>; <rs id="t17640222-16-cd84" type="crimeDate">February 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640222-16-off82 t17640222-16-cd84"></join>. +</p>
+               <p>
+            
+                  <persName id="t17640222-16-person142">
+                  Bright 
+                  Hemmings 
+               <interp inst="t17640222-16-person142" type="surname" value="Hemmings"></interp>
+                     <interp inst="t17640222-16-person142" type="given" value="Bright"></interp>
+                     <interp inst="t17640222-16-person142" type="gender" value="male"></interp>
+                  </persName>
+            . I am a stable keeper; Mr. Traverse's post-chariot stood in my coach-house, in <placeName id="t17640222-16-crimeloc85">Curson-street, May-fair</placeName>
+                  <interp inst="t17640222-16-crimeloc85" type="placeName" value="Curson-street, May-fair"></interp>
+                  <interp inst="t17640222-16-crimeloc85" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640222-16-off82 t17640222-16-crimeloc85"></join>; the two side glasses were stolen away: I missed them on the 13th of this instant.</p>
+               <p>
+            
+                  <persName id="t17640222-16-person143">
+                  Thomas 
+                  Jones 
+               <interp inst="t17640222-16-person143" type="surname" value="Jones"></interp>
+                     <interp inst="t17640222-16-person143" type="given" value="Thomas"></interp>
+                     <interp inst="t17640222-16-person143" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a public-house; the prisoner brought a coach-glass to my house to sell to an old cloaths-man this day fortnight: I had a frame that would near sit it; and as he said it was given him, I thought he did not steal it, so I agreed with him for it for half-a-crown. When he was gone I took up the news-paper, and there read an advertisement of such a glass being stolen. He had told me his master lived at the Swan at the bottom of Hay-hill,<xptr type="pageFacsimile" doc="176402220009"></xptr> by Brudenell's muse: After dinner I went there to enquire: I found the prisoner was discharged there, and they gave him a very bad character, and that they had forbid him coming there. In the evening there came the other witness and asked to see the glass; he measured it, and said he believed it belonged to the prosecutor. The prisoner came the next evening and called for a pint of beer; I stopped him; he would go with me to his master at the Swan, but he attempted to slip from us as we came near the house. (The glass produced in court.)</p>
+               <p>Bright Hemmings. This is just the size, but I cannot undertake to swear this is the property of the prosecutor.</p>
+               <p>
+                  <rs id="t17640222-16-verdict86" type="verdictDescription">
+                     <interp inst="t17640222-16-verdict86" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

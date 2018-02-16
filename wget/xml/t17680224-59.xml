@@ -1,3 +1,132 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-59">
+               <interp inst="t17680224-59" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-59" type="year" value="1768"></interp>
+               <interp inst="t17680224-59" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-59" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-59-off382-c504" targOrder="Y" targets="t17680224-59-defend637 t17680224-59-off382 t17680224-59-verdict387"></join>
+               <join result="criminalCharge" id="t17680224-59-off382-c505" targOrder="Y" targets="t17680224-59-defend639 t17680224-59-off382 t17680224-59-verdict387"></join>
+         
+               <p>228, 229. (M.) 
+               
+                  <persName id="t17680224-59-defend637" type="defendantName">
+                     Anne 
+                     Martin 
+                  <interp inst="t17680224-59-defend637" type="surname" value="Martin"></interp>
+                     <interp inst="t17680224-59-defend637" type="given" value="Anne"></interp>
+                     <interp inst="t17680224-59-defend637" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t17680224-59-defend639" type="defendantName">
+                     Anne 
+                     Kelly 
+                  <interp inst="t17680224-59-defend639" type="surname" value="Kelly"></interp>
+                     <interp inst="t17680224-59-defend639" type="given" value="Anne"></interp>
+                     <interp inst="t17680224-59-defend639" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17680224-59-deflabel381" type="occupation">spinsters</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-59-defend637 t17680224-59-deflabel381"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-59-defend639 t17680224-59-deflabel381"></join>, were indicted for <rs id="t17680224-59-off382" type="offenceDescription">
+                     <interp inst="t17680224-59-off382" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680224-59-off382" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a leather pocket, value 6 d. six guineas, two half guineas, and 2 s. in money numbered
+            </rs>, the property of 
+               
+                  <persName id="t17680224-59-victim641" type="victimName">
+                     William 
+                     Bignell 
+                  <interp inst="t17680224-59-victim641" type="surname" value="Bignell"></interp>
+                     <interp inst="t17680224-59-victim641" type="given" value="William"></interp>
+                     <interp inst="t17680224-59-victim641" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680224-59-off382 t17680224-59-victim641"></join>
+                  </persName>
+               
+            , <rs id="t17680224-59-cd383" type="crimeDate">Jan. 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-59-off382 t17680224-59-cd383"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680224-59-person642">
+                  William 
+                  Bignell 
+               <interp inst="t17680224-59-person642" type="surname" value="Bignell"></interp>
+                     <interp inst="t17680224-59-person642" type="given" value="William"></interp>
+                     <interp inst="t17680224-59-person642" type="gender" value="male"></interp>
+                  </persName>
+            . I am <rs id="t17680224-59-viclabel384" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-59-victim641 t17680224-59-viclabel384"></join> to Mr. Hankin, a carrier at Sandridge in Hertfordshire. On the 15th of January I met the two prisoners in <placeName id="t17680224-59-crimeloc385">Shoreditch</placeName>
+                  <interp inst="t17680224-59-crimeloc385" type="placeName" value="Shoreditch"></interp>
+                  <interp inst="t17680224-59-crimeloc385" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680224-59-off382 t17680224-59-crimeloc385"></join>, they enticed me into Kelly's house and up stairs; they asked me for something to drink, I gave them 6 d. to get half a pint of gin; we sat down on the side of the bed, Martin on my left-hand, the other on my right; I had six guineas, two half guineas, and 2 s. in a purse in my left-hand breeches pocket, and my pocket-book in my right-hand frock pocket; we had not been in the room but about four minutes, before Martin took my pocket-book, and Kelly my purse with my money.</p>
+               <p>Q. Are you sure they took them?</p>
+               <p>Bignell. I am sure I saw the book and purse in their hands; they ran down stairs, I went to run after them; there stood another woman behind the door (which I had not seen before,) she hindered me by shutting the door, and she pushed me about that I could not get out quick enough; they got off; I took up Martin the next day, she denied it before the Justice; I took up Kelly the Monday following, she owned she had some of the money, but did not take it out of my pocket.</p>
+               <p>Q. from Martin. Who picked you up?</p>
+               <p>Bignell. Kelly did.</p>
+               <p>Q. from Martin. How many persons were in the room?</p>
+               <p>Bignell. I saw only the two prisoners till I found the other behind the door.</p>
+               <p>Q. Which went for the gin?</p>
+               <p>Bignell. Martin did.</p>
+               <p>Q. How long was she gone?</p>
+               <p>Bignell. She was not gone above a minute.</p>
+               <p>Q. Are you sure that third person did not take your money?</p>
+               <p>Bignell. I am sure nobody was near me to touch me but the two prisoners.</p>
+               <p>
+            
+                  <persName id="t17680224-59-person643">
+                  Samuel 
+                  Cherry 
+               <interp inst="t17680224-59-person643" type="surname" value="Cherry"></interp>
+                     <interp inst="t17680224-59-person643" type="given" value="Samuel"></interp>
+                     <interp inst="t17680224-59-person643" type="gender" value="male"></interp>
+                  </persName>
+            . I am an officer, I served the warrant; I took 
+               <persName id="t17680224-59-person644">
+                  Anne 
+                  Martin 
+               <interp inst="t17680224-59-person644" type="surname" value="Martin"></interp>
+                     <interp inst="t17680224-59-person644" type="given" value="Anne"></interp>
+                     <interp inst="t17680224-59-person644" type="gender" value="female"></interp>
+                  </persName>
+             up about four in the afternoon the next day; she denied knowing any thing of the robbery; she was committed to New Prison; she begged of me to take her to the Coach and Horses, I did; there were several of her acquaintances, they desired her to tell what she knew; then she owned that there was a man concerned, and said Kelly took the money out of the prosecutor's<xptr type="pageFacsimile" doc="176802240039"></xptr> pocket. I went and took Kelly up in the Back lane; she said she knew nothing about the pocket-book; coming along she said there was a fellow that belonged to 
+               <persName id="t17680224-59-person645">
+                  Anne 
+                  Martin 
+               <interp inst="t17680224-59-person645" type="surname" value="Martin"></interp>
+                     <interp inst="t17680224-59-person645" type="given" value="Anne"></interp>
+                     <interp inst="t17680224-59-person645" type="gender" value="female"></interp>
+                  </persName>
+            , received some of the money, and she owned that she herself had given part of the money to a man, three guineas and half a crown.</p>
+               <p>Q. Did she say she took it?</p>
+               <p>Cherry. No, he did not.</p>
+               <p>Martin's defence.</p>
+               <p>I know nothing of the money, nor the book neither; this man came up into a two pair of stairs room, I live in the one pair; he sent for half pint of gin, I was called to fetch it; there were three women there, two on the bed with him, and one set on the bed-side; about half an hour after that, he came down stairs, and broke into my room, and said he had lost eighteen guineas; then he went down stairs, and said there he had lost 20 l. and that he would transport or hang whoever had it; he soon came back again to my room, and said, you are the person that robbed me, for you fetched the gin; I said , look at me; he did; then he said, no, I was not the girl. About ten o'clock a clerk at the inn came and said, a man had been robbed of nine guineas and a pocket-book; then the prosecutor came again, and said he could not swear to any body, but said he lost his money in that house; the next day he came and searched the house; when he got into the two pair of stairs room, he said that was the room he was robbed in; I came home from my labour, and was told, the man was there to take me up; I went to him, and said, I am 
+               <persName id="t17680224-59-person646">
+                  Anne 
+                  Martin 
+               <interp inst="t17680224-59-person646" type="surname" value="Martin"></interp>
+                     <interp inst="t17680224-59-person646" type="given" value="Anne"></interp>
+                     <interp inst="t17680224-59-person646" type="gender" value="female"></interp>
+                  </persName>
+            ; first he said I took his money, then he said another took it; then he said, if I would not tell him who took it, he would take my life away; they carried me to New Prison; I had no money to support me; they came seven times to New Prison, and three to Newgate, and told me, if we would give the man three guineas each, they would not appear against me, but acquit us both, and if not, they would cast us; after that, they said, if we would raise a guinea and a half between us, they would not prosecute us.</p>
+               <p>Kelly's defence.</p>
+               <p>I never saw the man till he came and took me up.</p>
+               <p>To Martin's character.</p>
+               <p>Patient Hankey. I have known Martin about sixteen years, she works very hard for her bread in <rs id="t17680224-59-deflabel386" type="occupation">winding of silk</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-59-defend637 t17680224-59-deflabel386"></join>; she worked for me, on and off, for nine years, till within this three months.</p>
+               <p>
+            
+                  <persName id="t17680224-59-person647">
+                  Sarah 
+                  Colwell 
+               <interp inst="t17680224-59-person647" type="surname" value="Colwell"></interp>
+                     <interp inst="t17680224-59-person647" type="given" value="Sarah"></interp>
+                     <interp inst="t17680224-59-person647" type="gender" value="female"></interp>
+                  </persName>
+            . I have employed Martin to wind silk for me, she bore a very good character.</p>
+               <p>Both <rs id="t17680224-59-verdict387" type="verdictDescription">
+                     <interp inst="t17680224-59-verdict387" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

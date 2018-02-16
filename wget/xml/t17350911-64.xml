@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-64">
+               <interp inst="t17350911-64" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-64" type="year" value="1735"></interp>
+               <interp inst="t17350911-64" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-64" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-64-off283-c284" targOrder="Y" targets="t17350911-64-defend426 t17350911-64-off283 t17350911-64-verdict285"></join>
+               <join result="criminalCharge" id="t17350911-64-off283-c285" targOrder="Y" targets="t17350911-64-defend428 t17350911-64-off283 t17350911-64-verdict285"></join>
+         
+               <p>76, 77. 
+               
+                  <persName id="t17350911-64-defend426" type="defendantName">
+                     Mary 
+                     Brown 
+                  <interp inst="t17350911-64-defend426" type="surname" value="Brown"></interp>
+                     <interp inst="t17350911-64-defend426" type="given" value="Mary"></interp>
+                     <interp inst="t17350911-64-defend426" type="gender" value="female"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350911-64-defend428" type="defendantName">
+                     Elizabeth 
+                     Rock 
+                  <interp inst="t17350911-64-defend428" type="surname" value="Rock"></interp>
+                     <interp inst="t17350911-64-defend428" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17350911-64-defend428" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were indicted for <rs id="t17350911-64-off283" type="offenceDescription">
+                     <interp inst="t17350911-64-off283" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-64-off283" type="offenceSubcategory" value="other"></interp>
+               stealing one Sheet
+            </rs>, the Property of 
+               
+                  <persName id="t17350911-64-victim430" type="victimName">
+                     Humphrey 
+                     Coley 
+                  <interp inst="t17350911-64-victim430" type="surname" value="Coley"></interp>
+                     <interp inst="t17350911-64-victim430" type="given" value="Humphrey"></interp>
+                     <interp inst="t17350911-64-victim430" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350911-64-off283 t17350911-64-victim430"></join>
+                  </persName>
+                
+            , <rs id="t17350911-64-cd284" type="crimeDate">August 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-64-off283 t17350911-64-cd284"></join>. <rs id="t17350911-64-verdict285" type="verdictDescription">
+                     <interp inst="t17350911-64-verdict285" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-60">
+               <interp inst="t17351210-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-60" type="year" value="1735"></interp>
+               <interp inst="t17351210-60" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-60" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-60-off257-c337" targOrder="Y" targets="t17351210-60-defend466 t17351210-60-off257 t17351210-60-verdict259"></join>
+         
+               <p>77. 
+               
+                  <persName id="t17351210-60-defend466" type="defendantName">
+                     Elizabeth 
+                     Tooler , alias <rs id="t17351210-60-alias-10" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-60-defend466 t17351210-60-alias-10"></join>Tooley</rs>, alias <rs id="t17351210-60-alias-11" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-60-defend466 t17351210-60-alias-11"></join>Goodbury</rs>, alias <rs id="t17351210-60-alias-12" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-60-defend466 t17351210-60-alias-12"></join>Walton</rs>
+                     <interp inst="t17351210-60-defend466" type="surname" value="Tooler"></interp>
+                     <interp inst="t17351210-60-defend466" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17351210-60-defend466" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17351210-60-off257" type="offenceDescription">
+                     <interp inst="t17351210-60-off257" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-60-off257" type="offenceSubcategory" value="other"></interp>
+               stealing two suits of Head-Clothes, a Shirt, an Apron, a pair of Ruffles and a Napkin
+            </rs>, the Goods of 
+               <persName id="t17351210-60-victim467" type="victimName">
+                  Cecilla 
+                  Watkinson 
+               <interp inst="t17351210-60-victim467" type="surname" value="Watkinson"></interp>
+                     <interp inst="t17351210-60-victim467" type="given" value="Cecilla"></interp>
+                     <interp inst="t17351210-60-victim467" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17351210-60-off257 t17351210-60-victim467"></join>
+                  </persName>
+             , <rs id="t17351210-60-cd258" type="crimeDate">Sept. 8th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-60-off257 t17351210-60-cd258"></join>. <rs id="t17351210-60-verdict259" type="verdictDescription">
+                     <interp inst="t17351210-60-verdict259" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17351210-60-verdict259" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17351210-60-punish260" type="punishmentDescription">
+                     <interp inst="t17351210-60-punish260" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-60-defend466 t17351210-60-punish260"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

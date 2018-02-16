@@ -1,3 +1,170 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460409-4">
+               <interp inst="t17460409-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460409-4" type="year" value="1746"></interp>
+               <interp inst="t17460409-4" type="uri" value="sessionsPapers/17460409"></interp>
+               <interp inst="t17460409-4" type="date" value="17460409"></interp>
+               <join result="criminalCharge" id="t17460409-4-off17-c74" targOrder="Y" targets="t17460409-4-defend81 t17460409-4-off17 t17460409-4-verdict20"></join>
+               <join result="criminalCharge" id="t17460409-4-off17-c75" targOrder="Y" targets="t17460409-4-person82 t17460409-4-off17 t17460409-4-verdict20"></join>
+         
+               <p>134, 135. 
+               <persName id="t17460409-4-defend81" type="defendantName">
+                  
+                     <persName id="t17460409-4-person82" type="defendantName">
+                        
+                             George 
+                              Haughton 
+                         
+                     <interp inst="t17460409-4-person82" type="surname" value="Haughton"></interp>
+                        <interp inst="t17460409-4-person82" type="given" value="George"></interp>
+                        <interp inst="t17460409-4-person82" type="gender" value="male"></interp>
+                     </persName>
+                   and Anne
+                   his 
+                  <rs id="t17460409-4-deflabel16" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17460409-4-defend81 t17460409-4-deflabel16"></join>
+                     <interp inst="t17460409-4-defend81" type="surname" value="Haughton"></interp>
+                     <interp inst="t17460409-4-defend81" type="given" value="Anne"></interp>
+                     <interp inst="t17460409-4-defend81" type="gender" value="female"></interp>
+                  </persName>
+             were indicted for <rs id="t17460409-4-off17" type="offenceDescription">
+                     <interp inst="t17460409-4-off17" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460409-4-off17" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Linnen Sheets and two Pillowbears, Value 6 s.
+            </rs> the Property of 
+               
+                  <persName id="t17460409-4-victim85" type="victimName">
+                     Mary 
+                     Detorse 
+                  <interp inst="t17460409-4-victim85" type="surname" value="Detorse"></interp>
+                     <interp inst="t17460409-4-victim85" type="given" value="Mary"></interp>
+                     <interp inst="t17460409-4-victim85" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17460409-4-off17 t17460409-4-victim85"></join>
+                  </persName>
+                
+            , on the <rs id="t17460409-4-cd18" type="crimeDate">24th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460409-4-off17 t17460409-4-cd18"></join>.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person86">
+                  Q. 
+               <interp inst="t17460409-4-person86" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person86" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460409-4-person87">
+                  Mary 
+                  Detorse 
+               <interp inst="t17460409-4-person87" type="surname" value="Detorse"></interp>
+                     <interp inst="t17460409-4-person87" type="given" value="Mary"></interp>
+                     <interp inst="t17460409-4-person87" type="gender" value="female"></interp>
+                  </persName>
+            .) What have you to say against the Prisoners?</p>
+               <p>Detorse. The Prisoners lodg'd in my House.</p>
+               <p>Q. Where is your House.</p>
+               <p>Detorse. In <placeName id="t17460409-4-crimeloc19">Nightingal-Lane, Wapping</placeName>
+                  <interp inst="t17460409-4-crimeloc19" type="placeName" value="Nightingal-Lane, Wapping"></interp>
+                  <interp inst="t17460409-4-crimeloc19" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17460409-4-off17 t17460409-4-crimeloc19"></join>. When I went up to them on Sunday Morning, the Woman, the Prisoner, said, I am going away; I said when; she said on Sunday Night; I said, How must I come by my Sheets? They would have paid me for Lodging, but I would not take it. Says the Prisoner, d - n your Eyes, it is Sunday and I do not care to make a Noise: She damn'd me for a Bitch, that I should do my worst; and her Husband said, I'll blow your Brains out.</p>
+               <p>Q. What do you know of their having your Sheets?</p>
+               <p>Detrose. I deliver'd the Sheets to them the 24th of January.</p>
+               <p>Q. You deliver'd them to use?</p>
+               <p>Detrose. Yes. my Lord.</p>
+               <p>Q. Do you know who took them away?</p>
+               <p>Detrose. No, my Lord; but the Prisoner appear'd very well, she wore a Couple of Gold Rings upon her Fingers, and I thought they would give me my Sheets again.</p>
+               <p>Q. When did they leave their Lodgings?</p>
+               <p>Detrose. They left their Lodgings about six Weeks ago.</p>
+               <p>Q. When you demanded the Sheets then they gave you this Sort of Language you mention'd?</p>
+               <p>Detorse. Yes, my Lord.</p>
+               <p>Q. Did they go out of the House at all?</p>
+               <p>Detorse. They were going.</p>
+               <p>Q. Did you get the Warrant on Sunday?</p>
+               <p>Detorse. Yes, my Lord.</p>
+               <p>Q. When you went up to them were your Sheets in the Room?</p>
+               <p>Detorse. No, my Lord, I could not find them.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person88">
+                  Q. 
+               <interp inst="t17460409-4-person88" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person88" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460409-4-person89">
+                  Jane 
+                  Heart 
+               <interp inst="t17460409-4-person89" type="surname" value="Heart"></interp>
+                     <interp inst="t17460409-4-person89" type="given" value="Jane"></interp>
+                     <interp inst="t17460409-4-person89" type="gender" value="female"></interp>
+                  </persName>
+            .) What have you to say?</p>
+               <p>Heart. I saw the Landlady of the House deliver the Sheets and Pillowbears to Mrs. Haughton, the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person90">
+                  Q. 
+               <interp inst="t17460409-4-person90" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person90" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460409-4-person91">
+                  Joshua 
+                  Seaman 
+               <interp inst="t17460409-4-person91" type="surname" value="Seaman"></interp>
+                     <interp inst="t17460409-4-person91" type="given" value="Joshua"></interp>
+                     <interp inst="t17460409-4-person91" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say of the Prisoners?</p>
+               <p>Seaman. My Lord, the Prisoner belongs to a Company that I belong'd to some time past, and he is a Man of an extraordinary Character; he always behav'd very well as a Soldier.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person92">
+                  William 
+                  Bland 
+               <interp inst="t17460409-4-person92" type="surname" value="Bland"></interp>
+                     <interp inst="t17460409-4-person92" type="given" value="William"></interp>
+                     <interp inst="t17460409-4-person92" type="gender" value="male"></interp>
+                  </persName>
+            . Please you, my Lord, the Prisoner, Mrs. Haughton, wash'd my Linnen, and when went for it on the Monday they told me that they were gone; and the Woman of the House ask'd me whether I took the Sheets or not; she afterwards said the Prisoner gave the Things to me, and I carry'd them off.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person93">
+                  Q. 
+               <interp inst="t17460409-4-person93" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person93" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460409-4-person94">
+                  John 
+                  Glinden 
+               <interp inst="t17460409-4-person94" type="surname" value="Glinden"></interp>
+                     <interp inst="t17460409-4-person94" type="given" value="John"></interp>
+                     <interp inst="t17460409-4-person94" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say?</p>
+               <p>Glinden. I always heard that they were two as honest People as any that belong'd to the Army; I would almost swear for them: I could take my Oath again, that they are as honest People as any in the Army.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person95">
+                  Q. 
+               <interp inst="t17460409-4-person95" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person95" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoners.) What have you to say?</p>
+               <p>Prisoner. She (the Prosecutor) told me that the Clerk would do any thing for her for a Pot of Beer.</p>
+               <p>
+            
+                  <persName id="t17460409-4-person96">
+                  Q. 
+               <interp inst="t17460409-4-person96" type="given" value="Q."></interp>
+                     <interp inst="t17460409-4-person96" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to the Prisoner.) What do you think became of these Sheets?</p>
+               <p>Prisoner. We have reason to believe that she (the Prosecutor) took them away herself.</p>
+               <p>Bland. When I went to the House the Landlady charg'd me with having the Sheets, and said that I receiv'd them from Mrs. Haughton.</p>
+               <p>
+                  <rs id="t17460409-4-verdict20" type="verdictDescription">
+                     <interp inst="t17460409-4-verdict20" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

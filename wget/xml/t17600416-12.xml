@@ -1,3 +1,389 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17600416-12">
+               <interp inst="t17600416-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17600416-12" type="year" value="1760"></interp>
+               <interp inst="t17600416-12" type="uri" value="sessionsPapers/17600416"></interp>
+               <interp inst="t17600416-12" type="date" value="17600416"></interp>
+               <join result="criminalCharge" id="t17600416-12-off69-c91" targOrder="Y" targets="t17600416-12-defend109 t17600416-12-off69 t17600416-12-verdict72"></join>
+               <join result="criminalCharge" id="t17600416-12-off69-c92" targOrder="Y" targets="t17600416-12-defend111 t17600416-12-off69 t17600416-12-verdict72"></join>
+         
+               <p>141, 142 (M) 
+               
+                  <persName id="t17600416-12-defend109" type="defendantName">
+                     John 
+                     Mackensey 
+                  <interp inst="t17600416-12-defend109" type="surname" value="Mackensey"></interp>
+                     <interp inst="t17600416-12-defend109" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-defend109" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17600416-12-defend111" type="defendantName">
+                     John 
+                     Hawley 
+                  <interp inst="t17600416-12-defend111" type="surname" value="Hawley"></interp>
+                     <interp inst="t17600416-12-defend111" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-defend111" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17600416-12-off69" type="offenceDescription">
+                     <interp inst="t17600416-12-off69" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17600416-12-off69" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one hempen sack, value 6 d. and 70 pounds weight of pimento, value 35 s.
+            </rs> the property of 
+               
+                  <persName id="t17600416-12-victim113" type="victimName">
+                     John 
+                     Read 
+                  <interp inst="t17600416-12-victim113" type="surname" value="Read"></interp>
+                     <interp inst="t17600416-12-victim113" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-victim113" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17600416-12-off69 t17600416-12-victim113"></join>
+                  </persName>
+                
+            , <rs id="t17600416-12-cd70" type="crimeDate">March 3</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17600416-12-off69 t17600416-12-cd70"></join>.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person114">
+                  John 
+                  Read 
+               <interp inst="t17600416-12-person114" type="surname" value="Read"></interp>
+                     <interp inst="t17600416-12-person114" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person114" type="gender" value="male"></interp>
+                  </persName>
+            . I live at St John's, Wapping, and am <rs id="t17600416-12-viclabel71" type="occupation">master of a vessel</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17600416-12-victim113 t17600416-12-viclabel71"></join>, called the St. Mary, lately come from Jamaica She has had a considerable quantity of goods stolen from on board her, and the two prisoners were employed, with others, in unloading her.</p>
+               <p>Q. What was she loaded with?</p>
+               <p>Read. Sugar, rum, ginger, pimento, and other goods.</p>
+               <p>Q. What quantity of pimento did you lose?</p>
+               <p>Read. I lost two or three hundred weight.</p>
+               <p>Q. In what space of time did you lose it?</p>
+               <p>Read. They were about ten days in unloading her; it was in that time some of the bags were broken, and the pimento got out: I employed 
+               <persName id="t17600416-12-person115">
+                  William 
+                  Stent 
+               <interp inst="t17600416-12-person115" type="surname" value="Stent"></interp>
+                     <interp inst="t17600416-12-person115" type="given" value="William"></interp>
+                     <interp inst="t17600416-12-person115" type="gender" value="male"></interp>
+                  </persName>
+             to mend the bags.</p>
+               <p>Q. What reason have you to suspect the prisoners?</p>
+               <p>
+            
+                  <persName id="t17600416-12-person116">
+                  Read 
+                  My 
+               <interp inst="t17600416-12-person116" type="surname" value="My"></interp>
+                     <interp inst="t17600416-12-person116" type="given" value="Read"></interp>
+                     <interp inst="t17600416-12-person116" type="gender" value="male"></interp>
+                  </persName>
+             mate and 
+               <persName id="t17600416-12-person117">
+                  William 
+                  Stent 
+               <interp inst="t17600416-12-person117" type="surname" value="Stent"></interp>
+                     <interp inst="t17600416-12-person117" type="given" value="William"></interp>
+                     <interp inst="t17600416-12-person117" type="gender" value="male"></interp>
+                  </persName>
+             informed me of what they had done.</p>
+               <p>Q. Is your mate here?</p>
+               <p>Read. No, he is not; he is gone to sea.</p>
+               <p>Cross Examination.</p>
+               <p>Q. When were these workmen discharged from the ship?</p>
+               <p>Read. The 3d of March was the last time they were on board.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person118">
+                  William 
+                  Stent 
+               <interp inst="t17600416-12-person118" type="surname" value="Stent"></interp>
+                     <interp inst="t17600416-12-person118" type="given" value="William"></interp>
+                     <interp inst="t17600416-12-person118" type="gender" value="male"></interp>
+                  </persName>
+            . I was employed to mend any of the bags on board that were broken, that is, ginger and pimento bags. On Saturday the 1st of March Mr. Read sent orders on board for the ship to be got over betwixt Gun Dock and Wapping Old Stairs; she did lie next stairs to Execution Dock. On the Monday we moored her, made her cables fast, and went on shore to dinner. Between three and four in the afternoon the mate came, and said we must not stay long, for the lumpers were gone on board, to get out the staves, and clear the ship. I went immediately into the dock yard. Coming down to the water side, the people on board the ship called out to me, and said, they have been robbing your ship. I ran down to the further part of the dock, and saw the two prisoners at the bar in a boat, and Mr. Milemay in the boat rowing them, with a bag of pimento under their legs.</p>
+               <p>Q. What is Milemay?</p>
+               <p>Stent. He is a waterman. I ran out of the dock-yard and call'd the mate, and said there were two of the lumpers coming on shore with a bag. We went into a little alley close to the dock, and seized the two prisoners as they were going into a house with it.</p>
+               <p>Q. Which of them had got the bag?</p>
+               <p>Stent. It was in Mr. Mackensey's hands.</p>
+               <p>Q. Were they both in company?</p>
+               <p>Stent. They were. Mackensey told us if we offered to take the bag from them, they would swear a robbery against us, and transport us, and<xptr type="pageFacsimile" doc="176004160014"></xptr> said that bag did not come out of the ship; this they both told us, and said we should not have it. The mae sent me to call a constable to our assistance. Coming back again I met a custom house officer, whom I desired to come and seize the bag, which he did, and carried it to the custom-house.</p>
+               <p>Q. Where is he?</p>
+               <p>Stent. He is not here. Here is the bag and pimento. (Producing it.) I know this bag well, it having been cut at one corner, and I mended it when the pimento was in it.</p>
+               <p>Q. What is pimento?</p>
+               <p>Stent. It is what they call all-spice.</p>
+               <p>Q. Did you see them come out of your ship?</p>
+               <p>Stent. No.</p>
+               <p>Q. Had you seen them on board the ship that day?</p>
+               <p>Stent. I cannot say that I saw them on board that day.</p>
+               <p>Q. How long had you seen the pimento on board your ship before that time?</p>
+               <p>Stent. I saw it on the Saturday before.</p>
+               <p>Q. What is the value of it?</p>
+               <p>Stent. That I do not know.</p>
+               <p>Cross Examination.</p>
+               <p>Q. What time did the prisoners leave the ship on that Saturday?</p>
+               <p>Stent. It might be about dinner time.</p>
+               <p>Q. Did you see them on board that Saturday?</p>
+               <p>Stent. I did.</p>
+               <p>Q. Do you know that they were on board that ship any day after Saturday?</p>
+               <p>Stent. Of my own knowledge I do not.</p>
+               <p>Q. How many whole bags were there on board the ship?</p>
+               <p>Stent There were but three whole bags. When I came on board I took and fill'd up two more, to make up five, which were the number reported of the ship; they had discharged some bags before I came on board, so that all the found ones were carried on shore but three, and some bags I mended, and some of the pimento I put in other bags.</p>
+               <p>Q. How many might you mend?</p>
+               <p>Stent. I might mend a hundred, but can't tell justly; there was another man came one day in order to help me to mend them.</p>
+               <p>Q. How many bags had pimento in them that you mended?</p>
+               <p>Stent There was never a pimento bag mended but this; there was little or no waste, nothing left but dust and rubbish, about a peck of it.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person119">
+                  John 
+                  Granby 
+               <interp inst="t17600416-12-person119" type="surname" value="Granby"></interp>
+                     <interp inst="t17600416-12-person119" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person119" type="gender" value="male"></interp>
+                  </persName>
+            . I was on board another ship in the dock, about an hundred yards from that ship, on the 3d of March.</p>
+               <p>Q. What are you?</p>
+               <p>Granby. I am a rigger. I saw a parcel of men hand a thing like a bag over that ship into a boat, but I did not see the boat, it was under the stern of the ship.</p>
+               <p>Q. What time of the day was this?</p>
+               <p>Granby. About one or two o'clock.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person120">
+                  William 
+                  Milemay 
+               <interp inst="t17600416-12-person120" type="surname" value="Milemay"></interp>
+                     <interp inst="t17600416-12-person120" type="given" value="William"></interp>
+                     <interp inst="t17600416-12-person120" type="gender" value="male"></interp>
+                  </persName>
+            . I am a waterman.</p>
+               <p>Q. Do you remember what happened on the 3d of March?</p>
+               <p>Milemay. I never was there at all.</p>
+               <p>Q. What do you know about rowing the two prisoners in a boat?</p>
+               <p>Milemay. I know nothing about it.</p>
+               <p>Q. to Stent. Are you sure you saw the two prisoners in a boat with Milemay?</p>
+               <p>Stent. I am.</p>
+               <p>Q. to Milemay. Did you not bring some people in a boat with a bag?</p>
+               <p>Milemay. No, I did not; I know nothing of it.</p>
+               <p>Q. to Stent. To what dock did you see this evidence row them?</p>
+               <p>Stent. To Gun dock.</p>
+               <p>Q. to Milemay. Was you not there at the time this witness mentions?</p>
+               <p>Milemay. I never was at the place.</p>
+               <p>Q. Where was you that day?</p>
+               <p>Milemay. I never overhaul my master's goods, or I could tell where I was that day; I might be plying a sculler.</p>
+               <p>Q. Was you in the vessel belonging to the prosecutor?</p>
+               <p>Milemay. No.</p>
+               <p>Q. Do you know Gun dock?</p>
+               <p>Milemay. I do; I ply at the stairs near there, but was not at the place he mentions, and know nothing of the matter.</p>
+               <p>Q. to Stent. Are you sure this witness is the man you saw rowing in that boat you mention?</p>
+               <p>Stent. He is the man, on I am not standing here.</p>
+               <p>Q. Are you to have any reward for giving your evidence?</p>
+               <p>Stent. No, I am not; I do not expect any.</p>
+               <p>Q. Are you to be paid for your trouble?</p>
+               <p>Stent. I do not know that any body is to pay me.</p>
+               <p>Q. What time of the day was it that you saw them in a boat?</p>
+               <p>Stent. About two or three o'clock in the afternoon.</p>
+               <p>Q. How far was you from the boat?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176004160015"></xptr>Stent. The boat was about three yards from me.</p>
+               <p>Q. May you not be mistaken?</p>
+               <p>Stent. No, I could not; I have seen him a thousand times, and knew his father before him: He look'd me full in the face at the time, and I at him; I am sure I can't be mistaken.</p>
+               <p>Q. to Milemay. Was you, or was you not there?</p>
+               <p>Milemay. I never was at the place. I am a weekly servant, and when I have nothing to do I ply a sculler; I do not know where I was that day.</p>
+               <p>Q. Who is your master?</p>
+               <p>Milemay. His name is Cambden, a sugar baker.</p>
+               <p>Q. How long have you work'd for him?</p>
+               <p>Milemay. About four years.</p>
+               <p>Q. Did you ever see this evidence at all?</p>
+               <p>Milemay. I have seen him go along shore.</p>
+               <p>Q. Do you know the two prisoners?</p>
+               <p>Milemay. I have known them about two or three months, they are lumpers; I have carried fares to that ship, and have carried the captain there; she lay just by our stairs.</p>
+               <p>Q. to Stent. Who took the bag away from the prisoners?</p>
+               <p>Stent. I did.</p>
+               <p>Q. Was Milemay there then?</p>
+               <p>Stent. No, he was gone.</p>
+               <p>Mackensey's Defence.</p>
+               <p>I was not on board that ship for three days before that.</p>
+               <p>Hawley's Defence.</p>
+               <p>I have no more to say than what he has said.</p>
+               <p>For the Prisoners.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person121">
+                  Edward 
+                  Brian 
+               <interp inst="t17600416-12-person121" type="surname" value="Brian"></interp>
+                     <interp inst="t17600416-12-person121" type="given" value="Edward"></interp>
+                     <interp inst="t17600416-12-person121" type="gender" value="male"></interp>
+                  </persName>
+            . I was at work on board that ship from the beginning to the end.</p>
+               <p>Q. Was you on board on the 3d of March?</p>
+               <p>Brian. I was, in getting some staves out.</p>
+               <p>Q. How long was you in getting them out?</p>
+               <p>Brian. About an hour; she was clear'd three days before that.</p>
+               <p>Q. By what particular do you know it was the 3d of March?</p>
+               <p>Brian. I can't mention any particular thing.</p>
+               <p>Q. What day of the week was it?</p>
+               <p>Brian. It was on a Monday.</p>
+               <p>Q. At what hour did you go on board that day?</p>
+               <p>Brian. I believe I went on hoard between one and two o'clock.</p>
+               <p>Q. Were the two prisoners on board that day?</p>
+               <p>Brian. No, they were not.</p>
+               <p>Q. How many were there of you?</p>
+               <p>Brian. There were five, and no soul in the world besides.</p>
+               <p>Q. Do you know 
+               <persName id="t17600416-12-person122">
+                  Murray
+               <interp inst="t17600416-12-person122" type="given" value="Murray"></interp>
+                     <interp inst="t17600416-12-person122" type="gender" value="male"></interp>
+                  </persName>
+             the mate?</p>
+               <p>Brian. I do, and saw him hand two bags out of that ship one day.</p>
+               <p>Q. What day?</p>
+               <p>Brian. I do not know the day.</p>
+               <p>Q. Who were the five that were on board that day?</p>
+               <p>Brian. There were 
+               <persName id="t17600416-12-person123">
+                  Matthew 
+                  Huns 
+               <interp inst="t17600416-12-person123" type="surname" value="Huns"></interp>
+                     <interp inst="t17600416-12-person123" type="given" value="Matthew"></interp>
+                     <interp inst="t17600416-12-person123" type="gender" value="male"></interp>
+                  </persName>
+            , and a strange man, 
+               <persName id="t17600416-12-person124">
+                  Thomas 
+                  Reynolds 
+               <interp inst="t17600416-12-person124" type="surname" value="Reynolds"></interp>
+                     <interp inst="t17600416-12-person124" type="given" value="Thomas"></interp>
+                     <interp inst="t17600416-12-person124" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17600416-12-person125">
+                  John 
+                  Roberts 
+               <interp inst="t17600416-12-person125" type="surname" value="Roberts"></interp>
+                     <interp inst="t17600416-12-person125" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person125" type="gender" value="male"></interp>
+                  </persName>
+            , and myself.</p>
+               <p>Q. Did you see any bag of pimento on board?</p>
+               <p>Brian. No, I did not; I did not think there was such a thing in the ship.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person126">
+                  Read
+               <interp inst="t17600416-12-person126" type="given" value="Read"></interp>
+                     <interp inst="t17600416-12-person126" type="gender" value="male"></interp>
+                  </persName>
+             This bag of pimento I greatly suppose they had hid under the staves, for there was one bag missing; there were several hundreds of staves lay in the hold.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person127">
+                  Thomas 
+                  Reynolds 
+               <interp inst="t17600416-12-person127" type="surname" value="Reynolds"></interp>
+                     <interp inst="t17600416-12-person127" type="given" value="Thomas"></interp>
+                     <interp inst="t17600416-12-person127" type="gender" value="male"></interp>
+                  </persName>
+            . I was on board this vessel, being one of the five men.</p>
+               <p>Q. Were the prisoners, or either of them, on board that day?</p>
+               <p>Reynolds. No, they were not.</p>
+               <p>Q. Have you heard what Brian swore?</p>
+               <p>Reynolds. I have.</p>
+               <p>Q. Is it true or false?</p>
+               <p>Reynolds. It is verily true.</p>
+               <p>Q. When was that ship clear'd?</p>
+               <p>Reynolds. She was clear'd of every thing but the staves on the first of March, and I went to wash the upper deck the day after this affair, being the 4th of March.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person128">
+                  John 
+                  Roberts 
+               <interp inst="t17600416-12-person128" type="surname" value="Roberts"></interp>
+                     <interp inst="t17600416-12-person128" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person128" type="gender" value="male"></interp>
+                  </persName>
+            . I was at work on board this ship from the beginning to the end.</p>
+               <p>Q. Were either of the prisoners on board on the 3d of March?</p>
+               <p>Roberts. No.</p>
+               <p>Q. Whether or no a bag of pimento was handed out of the ship that day?</p>
+               <p>Roberts. There was no bag taken from on board that ship that day; she was clear'd on the Friday or Saturday before</p>
+               <p>Mr. Oliver. I have known 
+               <persName id="t17600416-12-person129">
+                  John 
+                  Mackensey 
+               <interp inst="t17600416-12-person129" type="surname" value="Mackensey"></interp>
+                     <interp inst="t17600416-12-person129" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person129" type="gender" value="male"></interp>
+                  </persName>
+             14 years, but never saw the other prisoner to my knowledge till now. Mackensey work'd on board ships as a lumper, and sometimes he has went a voyage to sea when he has not had business. I live within four or five doors of him, I always look'd upon him to be an honest man, and have proved it by dealing with him.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person130">
+                  John 
+                  Bride 
+               <interp inst="t17600416-12-person130" type="surname" value="Bride"></interp>
+                     <interp inst="t17600416-12-person130" type="given" value="John"></interp>
+                     <interp inst="t17600416-12-person130" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Mackensey 20 years.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176004160016"></xptr>Q. What is his general character?</p>
+               <p>Bride. He has a very good one; he fail'd in a ship where I was mate several voyages, and behaved himself very well.</p>
+               <p>Q. Have you known any thing of him lately?</p>
+               <p>Bride. No.</p>
+               <p>Q. How long is it since he and you fail'd together?</p>
+               <p>Bride. It is about two years ago.</p>
+               <p>Q. Where do you live?</p>
+               <p>Bride. I live in his neighbourhood.</p>
+               <p>Q. What character does he bear in the neighbourhood?</p>
+               <p>Bride. I have not been always at home, but hear nothing of him but what is very good; I have seen him amongst some of the lumpers, and believe he is a lumper.</p>
+               <p>Mr. Somes. I am a waterman and lighterman, I lived in Mackensey's neighbourhood twenty years, and have known him above fourteen.</p>
+               <p>Q. What is his general character?</p>
+               <p>Somes. I never heard any thing ill of him before this; he always took pains to live</p>
+               <p>
+            
+                  <persName id="t17600416-12-person131">
+                  William 
+                  Henry 
+               <interp inst="t17600416-12-person131" type="surname" value="Henry"></interp>
+                     <interp inst="t17600416-12-person131" type="given" value="William"></interp>
+                     <interp inst="t17600416-12-person131" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Mackensey about fourteen or fifteen years?</p>
+               <p>Q. What is his character?</p>
+               <p>Henry. I never knew any thing bad of his character; I have been master of a vessel seven years, he has sail'd with me about twelve or thirteen months and behaved well.</p>
+               <p>
+            
+                  <persName id="t17600416-12-person132">
+                  Gilbert 
+                  Johnson 
+               <interp inst="t17600416-12-person132" type="surname" value="Johnson"></interp>
+                     <interp inst="t17600416-12-person132" type="given" value="Gilbert"></interp>
+                     <interp inst="t17600416-12-person132" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the neighbourhood, and have known Mackensey about twenty years. I sail'd with him two or three years.</p>
+               <p>Q. Did you see him often?</p>
+               <p>Johnson. I have seen him every week; I never heard any body give him a bad character</p>
+               <p>
+            
+                  <persName id="t17600416-12-person133">
+                  James 
+                  Bride 
+               <interp inst="t17600416-12-person133" type="surname" value="Bride"></interp>
+                     <interp inst="t17600416-12-person133" type="given" value="James"></interp>
+                     <interp inst="t17600416-12-person133" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Mackensey about four years, and never knew any thing bad of his character in my life.</p>
+               <p>Serjeant Miller. I have known Hawley about seven years; he is a soldier, and was abroad with us in Flanders; I never knew any ill of him, so much as wronging any body of a hafpenny; I look upon him to be an honest man.</p>
+
+               <p>Q. What regiment does he belong to?</p>
+               <p>Miller. To the third regiment of foot guards, my lord Rowthy's own company</p>
+               <p>George Fishborn. I have known Hawley about four years; his character is extreamly good, I never heard to the contrary till now.</p>
+               <p>Both <rs id="t17600416-12-verdict72" type="verdictDescription">
+                     <interp inst="t17600416-12-verdict72" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

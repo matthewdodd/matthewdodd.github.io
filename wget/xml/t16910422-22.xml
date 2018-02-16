@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-22">
+               <interp inst="t16910422-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-22" type="year" value="1691"></interp>
+               <interp inst="t16910422-22" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-22" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-22-off114-c98" targOrder="Y" targets="t16910422-22-defend98 t16910422-22-off114 t16910422-22-verdict117"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-22-defend98" type="defendantName">
+                  Elizabeth 
+                  Deal
+               <interp inst="t16910422-22-defend98" type="surname" value="Deal"></interp>
+                     <interp inst="t16910422-22-defend98" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16910422-22-defend98" type="gender" value="female"></interp>
+                  </persName>
+            , was tryed for the <rs id="t16910422-22-off114" type="offenceDescription">
+                     <interp inst="t16910422-22-off114" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16910422-22-off114" type="offenceSubcategory" value="infanticide"></interp>
+               Murther of her Female Infant Bastard Child
+            </rs>, on the <rs id="t16910422-22-cd115" type="crimeDate">7th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16910422-22-off114 t16910422-22-cd115"></join> last, on this wise, She went to a Midwife at <placeName id="t16910422-22-crimeloc116">Stepney</placeName>
+                  <interp inst="t16910422-22-crimeloc116" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16910422-22-crimeloc116" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910422-22-off114 t16910422-22-crimeloc116"></join>, and desired to Lye In in private, which the Midwife promised she should, if she would make provision for the Child, which she promised, but did not, but privately made away the Child, throwing it into a Puddle of Water on the backside of the House, in the High-way. She confessing (when taken) that the Child Gasped when it was thrown down; adding that it cryed, and then she pinched it by the Throat and dispatcht it out of the World; this she confest to several Women about her, but upon her Tryal she denyed all, and pleaded that she was Distracted, but never laid any violent Hands upon her Child, neither did she put it into the Water, not pinch it, only what she did was to cover her Shame, begging hard that the Court would pitty her sad Condition She was found <rs id="t16910422-22-verdict117" type="verdictDescription">
+                     <interp inst="t16910422-22-verdict117" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of wilful Murther.</p>
+               <p>
+                  <rs id="t16910422-22-punish118" type="punishmentDescription">
+                     <interp inst="t16910422-22-punish118" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910422-22-defend98 t16910422-22-punish118"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

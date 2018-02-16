@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-15">
+               <interp inst="t16921207-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-15" type="year" value="1692"></interp>
+               <interp inst="t16921207-15" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-15" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-15-off66-c63" targOrder="Y" targets="t16921207-15-defend63 t16921207-15-off66 t16921207-15-verdict68"></join>
+               <join result="criminalCharge" id="t16921207-15-off66-c64" targOrder="Y" targets="t16921207-15-defend64 t16921207-15-off66 t16921207-15-verdict68"></join>
+               <join result="criminalCharge" id="t16921207-15-off66-c65" targOrder="Y" targets="t16921207-15-defend65 t16921207-15-off66 t16921207-15-verdict68"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-15-defend63" type="defendantName">
+                  James 
+                  Green
+               <interp inst="t16921207-15-defend63" type="surname" value="Green"></interp>
+                     <interp inst="t16921207-15-defend63" type="given" value="James"></interp>
+                     <interp inst="t16921207-15-defend63" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16921207-15-defend64" type="defendantName">
+                  Margaret 
+                  Williams
+               <interp inst="t16921207-15-defend64" type="surname" value="Williams"></interp>
+                     <interp inst="t16921207-15-defend64" type="given" value="Margaret"></interp>
+                     <interp inst="t16921207-15-defend64" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t16921207-15-defend65" type="defendantName">
+                  Elizabeth 
+                  Oliver, alias <rs id="t16921207-15-alias-4" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16921207-15-defend65 t16921207-15-alias-4"></join>Harris</rs>
+                     <interp inst="t16921207-15-defend65" type="surname" value="Oliver"></interp>
+                     <interp inst="t16921207-15-defend65" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16921207-15-defend65" type="gender" value="female"></interp>
+                  </persName>
+            , were all three tried for <rs id="t16921207-15-off66" type="offenceDescription">
+                     <interp inst="t16921207-15-off66" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16921207-15-off66" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     <persName id="t16921207-15-victim66" type="victimName">
+                        Thomas 
+                        Southerland
+                     <interp inst="t16921207-15-victim66" type="surname" value="Southerland"></interp>
+                        <interp inst="t16921207-15-victim66" type="given" value="Thomas"></interp>
+                        <interp inst="t16921207-15-victim66" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16921207-15-off66 t16921207-15-victim66"></join>
+                     </persName>
+                  , on the <rs id="t16921207-15-cd67" type="crimeDate">first day of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16921207-15-off66 t16921207-15-cd67"></join> last, and taking away one Black Gown, value 3 l. one pair of Breeches, value 10 s. 3 Cloth Coats, value 4 l. 10 s. and other Goods
+            </rs>; the Prisoners went to the Green Dragon Tavern in Fleetstreet, under a pretence to drink Wine, and after a while Green went up stairs with a Candle in a Dark Lanthorn, and went out at the top of the House over the Houses, and robbed the said Mr. Southerland, and brought the Goods over the Houses, to the Tavern, and the Women fetch'd the Goods down stairs, &amp;c. Upon which the Tavern-keeper, and his Servants, having suspicion of them, (because some Neighbours had been robb'd before) observed their Motions, and stopping them, found the Goods upon them, and a Dark Lanthorn, as aforesaid, besides Chissels and Pick lock Keys; Green said the Goods were given him by a strange man, who he met at Fleet-Bridge, who desir'd him to carry them to the above said Tavern, and he would come to him, but he never came: this was look'd upon to be a fram'd Story; the Woman could say little for themselves, the Evidence was plain; so they were all found <rs id="t16921207-15-verdict68" type="verdictDescription">
+                     <interp inst="t16921207-15-verdict68" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony and Burglary.</p>
+               <p>
+                  <rs id="t16921207-15-punish69" type="punishmentDescription">
+                     <interp inst="t16921207-15-punish69" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-15-defend63 t16921207-15-punish69"></join>
+               
+                     <note>[Green: Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16921207-15-punish70" type="punishmentDescription">
+                     <interp inst="t16921207-15-punish70" type="punishmentCategory" value="death"></interp>
+                     <interp inst="t16921207-15-punish70" type="punishmentSubcategory" value="respitedForPregnancy"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-15-defend64 t16921207-15-punish70"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921207-15-defend65 t16921207-15-punish70"></join>
+               
+                     <note>[Williams, Oliver: Death -respited for pregnancy. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

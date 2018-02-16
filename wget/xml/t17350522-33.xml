@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350522-33">
+               <interp inst="t17350522-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350522-33" type="year" value="1735"></interp>
+               <interp inst="t17350522-33" type="uri" value="sessionsPapers/17350522"></interp>
+               <interp inst="t17350522-33" type="date" value="17350522"></interp>
+               <join result="criminalCharge" id="t17350522-33-off173-c228" targOrder="Y" targets="t17350522-33-defend308 t17350522-33-off173 t17350522-33-verdict174"></join>
+         
+               <p>43. 
+               
+                  <persName id="t17350522-33-defend308" type="defendantName">
+                     Sarah 
+                     How 
+                  <interp inst="t17350522-33-defend308" type="surname" value="How"></interp>
+                     <interp inst="t17350522-33-defend308" type="given" value="Sarah"></interp>
+                     <interp inst="t17350522-33-defend308" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350522-33-off173" type="offenceDescription">
+                     <interp inst="t17350522-33-off173" type="offenceCategory" value="breakingPeace"></interp>
+                     <interp inst="t17350522-33-off173" type="offenceSubcategory" value="assault"></interp>
+               assaulting and violently and inhumanely beating and wounding 
+                     
+                        <persName id="t17350522-33-victim310" type="victimName">
+                           Daniel 
+                           Owen 
+                        <interp inst="t17350522-33-victim310" type="surname" value="Owen"></interp>
+                        <interp inst="t17350522-33-victim310" type="given" value="Daniel"></interp>
+                        <interp inst="t17350522-33-victim310" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350522-33-off173 t17350522-33-victim310"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>.</p>
+               <p>Daniel Owen. I am a Watch Man by St Paul's. My Master Mr. Atkins, the Constable, charged me with the Prisoner, by the King's Arms Tavern. She run as far as the Paul's Head. and fell down, and then I took her up and carried her to the Compter: and as I was putting her in at the Compter Gate. she turned about and gave me two hearty Knocks, and made my Nose bleed - But I believe she was in Liquor, or else she would not have served me so.</p>
+               <p>Prisoner. This Fellow laid hold of me, and swore he'd carry me to the Compter; I asked him for what? he said he had Orders for it, and that was enough. Well then, says I, let me go quietly. D - Ye for B - , says he, I ll lug ye along as I think fit. You dirty Dog, says I, what do ye mean by that? I'll go as I please - Why how now ye F -? Do you resist Authority? I am the King's Servant - You the King's Servant, ye Scrub Rascal? - Then he took me a Knock. I told him he had no business to strike me. He said he would if he pleas'd. I assured him I should take the liberty of striking again, for all his Authority, and so I did. But what harm did I do him? Let him shew his Marks, if he has any.</p>
+               <p>The Jury found her <rs id="t17350522-33-verdict174" type="verdictDescription">
+                     <interp inst="t17350522-33-verdict174" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, and the Court <rs id="t17350522-33-punish175" type="punishmentDescription">
+                     <interp inst="t17350522-33-punish175" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17350522-33-punish175" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350522-33-defend308 t17350522-33-punish175"></join>
+               fined her a Shilling
+            </rs>.</p>
+            </div1>

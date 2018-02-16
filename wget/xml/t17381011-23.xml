@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381011-23">
+               <interp inst="t17381011-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381011-23" type="year" value="1738"></interp>
+               <interp inst="t17381011-23" type="uri" value="sessionsPapers/17381011"></interp>
+               <interp inst="t17381011-23" type="date" value="17381011"></interp>
+               <join result="criminalCharge" id="t17381011-23-off106-c163" targOrder="Y" targets="t17381011-23-defend216 t17381011-23-off106 t17381011-23-verdict108"></join>
+               <join result="criminalCharge" id="t17381011-23-off106-c164" targOrder="Y" targets="t17381011-23-defend218 t17381011-23-off106 t17381011-23-verdict108"></join>
+         
+               <p>26, 27. 
+               
+                  <persName id="t17381011-23-defend216" type="defendantName">
+                     John 
+                     Cane 
+                  <interp inst="t17381011-23-defend216" type="surname" value="Cane"></interp>
+                     <interp inst="t17381011-23-defend216" type="given" value="John"></interp>
+                     <interp inst="t17381011-23-defend216" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17381011-23-defend218" type="defendantName">
+                     William 
+                     Sullivan 
+                  <interp inst="t17381011-23-defend218" type="surname" value="Sullivan"></interp>
+                     <interp inst="t17381011-23-defend218" type="given" value="William"></interp>
+                     <interp inst="t17381011-23-defend218" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17381011-23-off106" type="offenceDescription">
+                     <interp inst="t17381011-23-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17381011-23-off106" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 69 brass Buckles, value 4 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17381011-23-victim220" type="victimName">
+                     Simon 
+                     Thomas 
+                  <interp inst="t17381011-23-victim220" type="surname" value="Thomas"></interp>
+                     <interp inst="t17381011-23-victim220" type="given" value="Simon"></interp>
+                     <interp inst="t17381011-23-victim220" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17381011-23-off106 t17381011-23-victim220"></join>
+                  </persName>
+                
+            , <rs id="t17381011-23-cd107" type="crimeDate">Sept. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-23-off106 t17381011-23-cd107"></join>. Both <rs id="t17381011-23-verdict108" type="verdictDescription">
+                     <interp inst="t17381011-23-verdict108" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-20">
+               <interp inst="t16870831-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-20" type="year" value="1687"></interp>
+               <interp inst="t16870831-20" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-20" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-20-off102-c85" targOrder="Y" targets="t16870831-20-defend111 t16870831-20-off102 t16870831-20-verdict105"></join>
+               <join result="criminalCharge" id="t16870831-20-off103-c85" targOrder="Y" targets="t16870831-20-defend111 t16870831-20-off103 t16870831-20-verdict105"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870831-20-defend111" type="defendantName">
+                     John 
+                     Stafford
+                  <interp inst="t16870831-20-defend111" type="surname" value="Stafford"></interp>
+                     <interp inst="t16870831-20-defend111" type="given" value="John"></interp>
+                     <interp inst="t16870831-20-defend111" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16870831-20-defloc101">St. Giles's in the Fields</placeName>
+                  <interp inst="t16870831-20-defloc101" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t16870831-20-defloc101" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870831-20-defend111 t16870831-20-defloc101"></join>, was Tryed upon two Indictments, for <rs id="t16870831-20-off102" type="offenceDescription">
+                     <interp inst="t16870831-20-off102" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16870831-20-off102" type="offenceSubcategory" value="murder"></interp>
+               Killing 
+                     
+                        <persName id="t16870831-20-victim113" type="victimName">
+                           Robert 
+                           Norman
+                        <interp inst="t16870831-20-victim113" type="surname" value="Norman"></interp>
+                        <interp inst="t16870831-20-victim113" type="given" value="Robert"></interp>
+                        <interp inst="t16870831-20-victim113" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  
+               
+                  </rs> 
+                  <rs id="t16870831-20-off103" type="offenceDescription">
+                     <interp inst="t16870831-20-off103" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16870831-20-off103" type="offenceSubcategory" value="murder"></interp>
+               and 
+                     
+                        <persName id="t16870831-20-victim115" type="victimName">
+                           John 
+                           Grey
+                        <interp inst="t16870831-20-victim115" type="surname" value="Grey"></interp>
+                        <interp inst="t16870831-20-victim115" type="given" value="John"></interp>
+                        <interp inst="t16870831-20-victim115" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , by giving either of them of Mortal Wound in the Thigh by the discharge of a Pistol loaden with Bullet
+            </rs> on the <rs id="t16870831-20-cd104" type="crimeDate">22d of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-20-off102 t16870831-20-cd104"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-20-off103 t16870831-20-cd104"></join> last, upon Tryal it appeared that Mr. Stafford and Mr. Grey, being late abroad, and quarrelling with some of the Watchmen of St. Giles that were upon Duty, after some Scuffles Grey was Knocked down, and had his Head Broke in two places, when being secur'd, and carried to the Watch-house, Stafford that had made his escape; having fetch'd his Pistols, came to demand him with one Pistol Cock'd, and many Threats, but a Chirurgeon that was procured by the Constable being then busie in dressing his Wound, the Constable intreated him to come into the Watch house and stay, and he should be deliver'd to him, when accordingly Grey coming up, Stafford upon pushing the Constable, being struck at by one of the Watchmen, whose Staff fell short, fired his Pistols, so that the Bullet passing through Norman's, Thigh, entred Greys of which Wounds within six days they Dyed. In his excuse, he produced divers Chirurgeons, and several persons of Eminent Quality, to attest that having formerly received a Blow on the Head, for which his Scul was Tree pan'd, he had ever since for the most part been little better than a Distracted Man, but that not appearing at this time; he was found <rs id="t16870831-20-verdict105" type="verdictDescription">
+                     <interp inst="t16870831-20-verdict105" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Murther upon both Indictments.</p>
+               <p>
+                  <rs id="t16870831-20-punish106" type="punishmentDescription">
+                     <interp inst="t16870831-20-punish106" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-20-defend111 t16870831-20-punish106"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

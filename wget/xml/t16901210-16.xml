@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901210-16">
+               <interp inst="t16901210-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901210-16" type="year" value="1690"></interp>
+               <interp inst="t16901210-16" type="uri" value="sessionsPapers/16901210"></interp>
+               <interp inst="t16901210-16" type="date" value="16901210"></interp>
+               <join result="criminalCharge" id="t16901210-16-off82-c71" targOrder="Y" targets="t16901210-16-defend101 t16901210-16-off82 t16901210-16-verdict86"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16901210-16-defend101" type="defendantName">
+                     Richard 
+                     Pee
+                  <interp inst="t16901210-16-defend101" type="surname" value="Pee"></interp>
+                     <interp inst="t16901210-16-defend101" type="given" value="Richard"></interp>
+                     <interp inst="t16901210-16-defend101" type="gender" value="male"></interp>
+                  </persName>
+               
+             was tryed for <rs id="t16901210-16-off82" type="offenceDescription">
+                     <interp inst="t16901210-16-off82" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901210-16-off82" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Piece of Luetstring, valued at 4 l. 4 s.
+            </rs> from 
+               
+                  <persName id="t16901210-16-victim103" type="victimName">
+                     John 
+                     Coniers
+                  <interp inst="t16901210-16-victim103" type="surname" value="Coniers"></interp>
+                     <interp inst="t16901210-16-victim103" type="given" value="John"></interp>
+                     <interp inst="t16901210-16-victim103" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16901210-16-off82 t16901210-16-victim103"></join>
+                  </persName>
+               
+            , of the Parish of <placeName id="t16901210-16-crimeloc83">S. Martins Ludgate</placeName>
+                  <interp inst="t16901210-16-crimeloc83" type="placeName" value="S. Martins Ludgate"></interp>
+                  <interp inst="t16901210-16-crimeloc83" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901210-16-off82 t16901210-16-crimeloc83"></join>, on the <rs id="t16901210-16-cd84" type="crimeDate">30th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16901210-16-off82 t16901210-16-cd84"></join> last: And it appearing that 15 Yards of the Silk was found pawned by the Prisoner at a Brokers in Wich-street, thereupon he was apprehended. To this he pleaded in his Defence, That being a <rs id="t16901210-16-deflabel85" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16901210-16-defend101 t16901210-16-deflabel85"></join> by Trade he had made a Sute of Cloaths for a Person, who after he had finished them told him he had not Money to pay him, but having been a Mercers Man, whose Master had failed, he was obliged to take Silk for his Wages, and therefore, pulling out a Parcel, he desired him to pawn it for 40 s. which he did, and took 25 s. out of it for his Work, giving the other Party the overplus, and since heard he was gone into the Country. He produced many Witnesses to arrest his honest Dealing, and way of Living, whereupon he was <rs id="t16901210-16-verdict86" type="verdictDescription">
+                     <interp inst="t16901210-16-verdict86" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>, and cautiond by the Court to undertake such things no more.</p>
+            </div1>

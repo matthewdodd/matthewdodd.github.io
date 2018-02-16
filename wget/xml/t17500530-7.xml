@@ -1,3 +1,89 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500530-7">
+               <interp inst="t17500530-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500530-7" type="year" value="1750"></interp>
+               <interp inst="t17500530-7" type="uri" value="sessionsPapers/17500530"></interp>
+               <interp inst="t17500530-7" type="date" value="17500530"></interp>
+               <join result="criminalCharge" id="t17500530-7-off30-c64" targOrder="Y" targets="t17500530-7-defend76 t17500530-7-off30 t17500530-7-verdict33"></join>
+         
+               <p>375. 
+               
+                  <persName id="t17500530-7-defend76" type="defendantName">
+                     John 
+                     Hart 
+                  <interp inst="t17500530-7-defend76" type="surname" value="Hart"></interp>
+                     <interp inst="t17500530-7-defend76" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-defend76" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500530-7-off30" type="offenceDescription">
+                     <interp inst="t17500530-7-off30" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500530-7-off30" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing one linen handkerchief, value 6 d.
+            </rs> the goods of 
+               <persName id="t17500530-7-victim77" type="victimName">
+                  John 
+                  Price 
+               <interp inst="t17500530-7-victim77" type="surname" value="Price"></interp>
+                     <interp inst="t17500530-7-victim77" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-victim77" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500530-7-off30 t17500530-7-victim77"></join>
+                  </persName>
+             , <rs id="t17500530-7-cd31" type="crimeDate">April 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500530-7-off30 t17500530-7-cd31"></join>.</p>
+               <p>
+            
+                  <persName id="t17500530-7-person78">
+                  John 
+                  Price 
+               <interp inst="t17500530-7-person78" type="surname" value="Price"></interp>
+                     <interp inst="t17500530-7-person78" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-person78" type="gender" value="male"></interp>
+                  </persName>
+            . On April 19. between nine and ten o'clock, going along <placeName id="t17500530-7-crimeloc32">Snow-hill</placeName>
+                  <interp inst="t17500530-7-crimeloc32" type="placeName" value="Snow-hill"></interp>
+                  <interp inst="t17500530-7-crimeloc32" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17500530-7-off30 t17500530-7-crimeloc32"></join>, 
+               <persName id="t17500530-7-person79">
+                  John 
+                  Leaver 
+               <interp inst="t17500530-7-person79" type="surname" value="Leaver"></interp>
+                     <interp inst="t17500530-7-person79" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-person79" type="gender" value="male"></interp>
+                  </persName>
+             and his brother, who are absent, were there, his brother was fuddled. I desired him to go home with his brother. All on a sudden 
+               <persName id="t17500530-7-person80">
+                  John 
+                  Leaver 
+               <interp inst="t17500530-7-person80" type="surname" value="Leaver"></interp>
+                     <interp inst="t17500530-7-person80" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-person80" type="gender" value="male"></interp>
+                  </persName>
+             miss'd his handkerchief, immediately the prisoner ran away, he ran after him and took hold of him. I put my hand in my pocket and miss'd my handkerchief. Said 
+               <persName id="t17500530-7-person81">
+                  John 
+                  Leaver 
+               <interp inst="t17500530-7-person81" type="surname" value="Leaver"></interp>
+                     <interp inst="t17500530-7-person81" type="given" value="John"></interp>
+                     <interp inst="t17500530-7-person81" type="gender" value="male"></interp>
+                  </persName>
+            , he has got a handkerchief in his hand, which he was going to drop. He had not ran above eight or ten yards before he was taken. I took the handkerchief out of his hand, and found it to be my own. The excuse he made, was, he took it up.</p>
+               <p>Q. When had you your handkerchief last, before you lost it?</p>
+               <p>Price. I had it when I was at Holbourn-bridge, in my left side pocket, and this was before we came to the four lamps.</p>
+               <p>Prisoner's defence. As I was coming home, I saw a mob, I cross'd over the way, this man came over the way and said, I have lost my handkerchief. He could not find any thing about me, the handkerchief was lying by a post.</p>
+               <p>Prosecutor. I took it out of his hand.</p>
+               <p>
+                  <rs id="t17500530-7-verdict33" type="verdictDescription">
+                     <interp inst="t17500530-7-verdict33" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500530-7-punish34" type="punishmentDescription">
+                     <interp inst="t17500530-7-punish34" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500530-7-defend76 t17500530-7-punish34"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-39">
+               <interp inst="t17351210-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-39" type="year" value="1735"></interp>
+               <interp inst="t17351210-39" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-39" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-39-off159-c177" targOrder="Y" targets="t17351210-39-defend258 t17351210-39-off159 t17351210-39-verdict161"></join>
+         
+               <p>49. 
+               
+                  <persName id="t17351210-39-defend258" type="defendantName">
+                     Jane 
+                     Miner 
+                  <interp inst="t17351210-39-defend258" type="surname" value="Miner"></interp>
+                     <interp inst="t17351210-39-defend258" type="given" value="Jane"></interp>
+                     <interp inst="t17351210-39-defend258" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17351210-39-off159" type="offenceDescription">
+                     <interp inst="t17351210-39-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-39-off159" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Watch value four Pound, a pair of Breeches value ten Shillings, and two Shillings and six Pence, the Goods and Money of 
+                     
+                        <persName id="t17351210-39-victim260" type="victimName">
+                           John 
+                           Dickson 
+                        <interp inst="t17351210-39-victim260" type="surname" value="Dickson"></interp>
+                        <interp inst="t17351210-39-victim260" type="given" value="John"></interp>
+                        <interp inst="t17351210-39-victim260" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17351210-39-off159 t17351210-39-victim260"></join>
+                     </persName>
+                      
+                  , in his House
+            </rs>, <rs id="t17351210-39-cd160" type="crimeDate">March 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-39-off159 t17351210-39-cd160"></join>.</p>
+               <p>John Dickson. I went to an Ale-house in Drury Lane, where I met the Prisoner. We drank together, and went to another Ale house in Long Acre, where we staid till past twelve at Night. She said then it was so late, that she should be locked out of her Lodging. I told her she should be welcome to lie in my Maid's Bed. So we went home together. I took her to the Maid's Bed. She asked me where I lay, and I shewed her; she said she liked that better, and so without any more to do, she undrest and went into it. I told her I would not lie out of my own Bed; she answered, I might do as I would, but for her part she would stay where she was. I found there was no remedy, and so I went to bed to her. When I awaked in the Morning, my Lady was gone, and had taken my Breeches with her, and all that was in them: she could not get out at the Yard Door, but by the help of a Ladder, she found the way over the Wall. It was<xptr type="pageFacsimile" doc="173512100014"></xptr> six Months before I could find her again; and then she confest where she had sold my Watch, and to whom she had given my Breeches. <rs id="t17351210-39-verdict161" type="verdictDescription">
+                     <interp inst="t17351210-39-verdict161" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17351210-39-verdict161" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17351210-39-punish162" type="punishmentDescription">
+                     <interp inst="t17351210-39-punish162" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17351210-39-punish162" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-39-defend258 t17351210-39-punish162"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

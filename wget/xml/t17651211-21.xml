@@ -1,3 +1,63 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651211-21">
+               <interp inst="t17651211-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651211-21" type="year" value="1765"></interp>
+               <interp inst="t17651211-21" type="uri" value="sessionsPapers/17651211"></interp>
+               <interp inst="t17651211-21" type="date" value="17651211"></interp>
+               <join result="criminalCharge" id="t17651211-21-off126-c170" targOrder="Y" targets="t17651211-21-defend219 t17651211-21-off126 t17651211-21-verdict130"></join>
+         
+               <p>25. (M.) 
+               
+                  <persName id="t17651211-21-defend219" type="defendantName">
+                     John 
+                     Smith 
+                  <interp inst="t17651211-21-defend219" type="surname" value="Smith"></interp>
+                     <interp inst="t17651211-21-defend219" type="given" value="John"></interp>
+                     <interp inst="t17651211-21-defend219" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17651211-21-off126" type="offenceDescription">
+                     <interp inst="t17651211-21-off126" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651211-21-off126" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two pair of boots, value 20 s. and three pair of mens shoes, value 8 s.
+            </rs> the property of 
+               
+                  <persName id="t17651211-21-victim221" type="victimName">
+                     Daniel 
+                     Bell 
+                  <interp inst="t17651211-21-victim221" type="surname" value="Bell"></interp>
+                     <interp inst="t17651211-21-victim221" type="given" value="Daniel"></interp>
+                     <interp inst="t17651211-21-victim221" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651211-21-off126 t17651211-21-victim221"></join>
+                  </persName>
+                
+            , <rs id="t17651211-21-cd127" type="crimeDate">November 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651211-21-off126 t17651211-21-cd127"></join>. *</p>
+               <p>
+            
+                  <persName id="t17651211-21-person222">
+                  William 
+                  Saunders 
+               <interp inst="t17651211-21-person222" type="surname" value="Saunders"></interp>
+                     <interp inst="t17651211-21-person222" type="given" value="William"></interp>
+                     <interp inst="t17651211-21-person222" type="gender" value="male"></interp>
+                  </persName>
+            . I live with Mr. 
+               <persName id="t17651211-21-person223">
+                  Daniel 
+                  Bell 
+               <interp inst="t17651211-21-person223" type="surname" value="Bell"></interp>
+                     <interp inst="t17651211-21-person223" type="given" value="Daniel"></interp>
+                     <interp inst="t17651211-21-person223" type="gender" value="male"></interp>
+                  </persName>
+            , a <rs id="t17651211-21-viclabel128" type="occupation">coal-merchant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651211-21-victim221 t17651211-21-viclabel128"></join> at <placeName id="t17651211-21-crimeloc129">Stamford-hill</placeName>
+                  <interp inst="t17651211-21-crimeloc129" type="placeName" value="Stamford-hill"></interp>
+                  <interp inst="t17651211-21-crimeloc129" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651211-21-off126 t17651211-21-crimeloc129"></join>: the boots and shoes mentioned in the indictment, were lost out of a little closet in the stable, about five weeks ago; one pair of boots were found upon the prisoner, but I do not think he stole them: I do not think it possible for him to get in at the hole that was broke. I never saw him before he was taken.</p>
+               <p>
+                  <rs id="t17651211-21-verdict130" type="verdictDescription">
+                     <interp inst="t17651211-21-verdict130" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

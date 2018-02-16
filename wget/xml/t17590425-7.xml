@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590425-7">
+               <interp inst="t17590425-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590425-7" type="year" value="1759"></interp>
+               <interp inst="t17590425-7" type="uri" value="sessionsPapers/17590425"></interp>
+               <interp inst="t17590425-7" type="date" value="17590425"></interp>
+               <join result="criminalCharge" id="t17590425-7-off36-c67" targOrder="Y" targets="t17590425-7-defend85 t17590425-7-off36 t17590425-7-verdict39"></join>
+         
+               <p>151. (M.) 
+               
+                  <persName id="t17590425-7-defend85" type="defendantName">
+                     George 
+                     Simons 
+                  <interp inst="t17590425-7-defend85" type="surname" value="Simons"></interp>
+                     <interp inst="t17590425-7-defend85" type="given" value="George"></interp>
+                     <interp inst="t17590425-7-defend85" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17590425-7-off36" type="offenceDescription">
+                     <interp inst="t17590425-7-off36" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590425-7-off36" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one cow calf, value 45 s.
+            </rs> the property of 
+               
+                  <persName id="t17590425-7-victim87" type="victimName">
+                     John 
+                     Jukes 
+                  <interp inst="t17590425-7-victim87" type="surname" value="Jukes"></interp>
+                     <interp inst="t17590425-7-victim87" type="given" value="John"></interp>
+                     <interp inst="t17590425-7-victim87" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590425-7-off36 t17590425-7-victim87"></join>
+                  </persName>
+                
+            , <rs id="t17590425-7-cd37" type="crimeDate">May 7. 1758</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590425-7-off36 t17590425-7-cd37"></join>. *</p>
+               <p>John Jukes. On the 7th of May, either that night or next morning, I lost a cow calf out of my coop, where were three others.</p>
+               <p>Q. What is the use of that coop?</p>
+               <p>Jukes. It is the place where I keep them to feed in.</p>
+               <p>Q. Where do you live?</p>
+               <p>Jukes. I live at <placeName id="t17590425-7-crimeloc38">Edmunton</placeName>
+                  <interp inst="t17590425-7-crimeloc38" type="placeName" value="Edmunton"></interp>
+                  <interp inst="t17590425-7-crimeloc38" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590425-7-off36 t17590425-7-crimeloc38"></join>.</p>
+               <p>Q. When did you see this calf last?</p>
+               <p>Jukes. I saw it over night and suckled it, and missed it at five the next morning: it was worth 45 s. that I was bid for it.</p>
+               <p>Q. Have you found it again?</p>
+               <p>Jukes. No.</p>
+               <p>Q. Why do you charge the prisoner?</p>
+               <p>Jukes. I went and got a warrant, and searched about the parish, and after that, a woman that is here, came to me about seven months after, and said, she saw me as I was going by the prisoner's house, and she went<xptr type="pageFacsimile" doc="175904250007"></xptr> backwards to him, and said, we shall be all hanged, here is Jukes searching about for his calf; she said, the prisoner had just mopped up the blood, and covered the calf up under some wood; I took up the prisoner and charged him with stealing my calf; he told me himself how he took it, and led it away; he said it was in the morning, when the larks were singing as he led it to his house.</p>
+               <p>Q. Did any others hear this confession?</p>
+               <p>Jukes. Yes, there were several other people by at the time.</p>
+               <p>
+            
+                  <persName id="t17590425-7-person88">
+                  John 
+                  Huddle 
+               <interp inst="t17590425-7-person88" type="surname" value="Huddle"></interp>
+                     <interp inst="t17590425-7-person88" type="given" value="John"></interp>
+                     <interp inst="t17590425-7-person88" type="gender" value="male"></interp>
+                  </persName>
+            . The prosecutor keeps a Publick House: I called there, there was the prisoner; the prosecutor charged him with stealing his calf; the prisoner own'd he did, and said, he led it to his home; Mr. Jukes asked him if he had any body to help him; he said, no body but the Devil.</p>
+               <p>Q. When was this?</p>
+               <p>Huddle. I can't say the day of the month.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I never told him any such thing.</p>
+               <p>
+                  <rs id="t17590425-7-verdict39" type="verdictDescription">
+                     <interp inst="t17590425-7-verdict39" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> 
+                  <rs id="t17590425-7-punish40" type="punishmentDescription">
+                     <interp inst="t17590425-7-punish40" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590425-7-defend85 t17590425-7-punish40"></join>
+               Death
+            </rs>.</p>
+            </div1>

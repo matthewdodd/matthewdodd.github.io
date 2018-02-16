@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901210-38">
+               <interp inst="t16901210-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901210-38" type="year" value="1690"></interp>
+               <interp inst="t16901210-38" type="uri" value="sessionsPapers/16901210"></interp>
+               <interp inst="t16901210-38" type="date" value="16901210"></interp>
+               <join result="criminalCharge" id="t16901210-38-off180-c119" targOrder="Y" targets="t16901210-38-defend182 t16901210-38-off180 t16901210-38-verdict182"></join>
+               <join result="criminalCharge" id="t16901210-38-off180-c120" targOrder="Y" targets="t16901210-38-defend183 t16901210-38-off180 t16901210-38-verdict182"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16901210-38-defend182" type="defendantName">
+                     John 
+                     Porter
+                  <interp inst="t16901210-38-defend182" type="surname" value="Porter"></interp>
+                     <interp inst="t16901210-38-defend182" type="given" value="John"></interp>
+                     <interp inst="t16901210-38-defend182" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16901210-38-defloc178">S. Andrews Holborn</placeName>
+                  <interp inst="t16901210-38-defloc178" type="placeName" value="S. Andrews Holborn"></interp>
+                  <interp inst="t16901210-38-defloc178" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16901210-38-defend182 t16901210-38-defloc178"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t16901210-38-defend183 t16901210-38-defloc178"></join>, together with his <rs id="t16901210-38-deflabel179" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16901210-38-defend183 t16901210-38-deflabel179"></join> and one 
+               <persName id="t16901210-38-defend183" type="defendantName">
+                  Margaret 
+                  Seymour
+               <interp inst="t16901210-38-defend183" type="surname" value="Seymour"></interp>
+                     <interp inst="t16901210-38-defend183" type="given" value="Margaret"></interp>
+                     <interp inst="t16901210-38-defend183" type="gender" value="female"></interp>
+                  </persName>
+            , were tryed upon an Indictment of High-Treason, for <rs id="t16901210-38-off180" type="offenceDescription">
+                     <interp inst="t16901210-38-off180" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16901210-38-off180" type="offenceSubcategory" value="coiningOffences"></interp>
+               Cliping, Filing and Deminishing the the current Coyn of this Kingdom
+            </rs>, on the <rs id="t16901210-38-cd181" type="crimeDate">28th of October</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16901210-38-off180 t16901210-38-cd181"></join>, as half Crowns, Shillings, &amp;c. And upon Evidence it appeared, That the latter having borrowed a Pair of Scales, in returning them there were two Pieces of Clipings found hanging on the Strings of them; which occasioned the Search of Porter's House, where Seymour lodged, and there a pair of Shears, Files, and some Cliping, clip'd Money, and other Materials were found; but many Witnesses appearing on their behalf, to testifie they got their Livings by honest Labour and Industry, and they utterly denying any knowledge of the things so found, were <rs id="t16901210-38-verdict182" type="verdictDescription">
+                     <interp inst="t16901210-38-verdict182" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

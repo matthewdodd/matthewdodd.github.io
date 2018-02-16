@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870512-10">
+               <interp inst="t16870512-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870512-10" type="year" value="1687"></interp>
+               <interp inst="t16870512-10" type="uri" value="sessionsPapers/16870512"></interp>
+               <interp inst="t16870512-10" type="date" value="16870512"></interp>
+               <join result="criminalCharge" id="t16870512-10-off51-c51" targOrder="Y" targets="t16870512-10-defend64 t16870512-10-off51 t16870512-10-verdict53"></join>
+         
+               <p>
+            
+                  <persName id="t16870512-10-defend64" type="defendantName">
+                  T - 
+                  M -
+               <interp inst="t16870512-10-defend64" type="surname" value="M -"></interp>
+                     <interp inst="t16870512-10-defend64" type="given" value="T -"></interp>
+                     <interp inst="t16870512-10-defend64" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16870512-10-defloc50">St. Martins in the Fields</placeName>
+                  <interp inst="t16870512-10-defloc50" type="placeName" value="St. Martins in the Fields"></interp>
+                  <interp inst="t16870512-10-defloc50" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870512-10-defend64 t16870512-10-defloc50"></join>, was Tryed upon a like Indictment of High Treason, for <rs id="t16870512-10-off51" type="offenceDescription">
+                     <interp inst="t16870512-10-off51" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16870512-10-off51" type="offenceSubcategory" value="coiningOffences"></interp>
+               Coining on the <rs id="t16870512-10-cd52" type="crimeDate">10th. of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870512-10-off51 t16870512-10-cd52"></join> last, pieces, False and Counterfeit, in imitation of New Mill'd Half-Crowns
+            </rs>, some of which were produced in Court; but the stress of the Evidence only lying upon his puting them away, and not on his Coining them, he was <rs id="t16870512-10-verdict53" type="verdictDescription">
+                     <interp inst="t16870512-10-verdict53" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs> of this Indictment.</p>
+            </div1>

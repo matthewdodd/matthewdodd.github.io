@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17391205-29">
+               <interp inst="t17391205-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17391205-29" type="year" value="1739"></interp>
+               <interp inst="t17391205-29" type="uri" value="sessionsPapers/17391205"></interp>
+               <interp inst="t17391205-29" type="date" value="17391205"></interp>
+               <join result="criminalCharge" id="t17391205-29-off139-c151" targOrder="Y" targets="t17391205-29-defend210 t17391205-29-off139 t17391205-29-verdict141"></join>
+         
+               <p>32. 
+               
+                  <persName id="t17391205-29-defend210" type="defendantName">
+                     Ann 
+                     Bonner 
+                  <interp inst="t17391205-29-defend210" type="surname" value="Bonner"></interp>
+                     <interp inst="t17391205-29-defend210" type="given" value="Ann"></interp>
+                     <interp inst="t17391205-29-defend210" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17391205-29-off139" type="offenceDescription">
+                     <interp inst="t17391205-29-off139" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17391205-29-off139" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Linnen Handkerchiefs, val. 2 s. a Linnen Apron, val. 12 d. the Goods of 
+                     
+                        <persName id="t17391205-29-victim212" type="victimName">
+                           Gabriel 
+                           Marse 
+                        <interp inst="t17391205-29-victim212" type="surname" value="Marse"></interp>
+                        <interp inst="t17391205-29-victim212" type="given" value="Gabriel"></interp>
+                        <interp inst="t17391205-29-victim212" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  ; and a Linden Apron, val. 2. s.
+            </rs> the Goods of 
+               
+                  <persName id="t17391205-29-victim214" type="victimName">
+                     Magdalen 
+                     Fourtee 
+                  <interp inst="t17391205-29-victim214" type="surname" value="Fourtee"></interp>
+                     <interp inst="t17391205-29-victim214" type="given" value="Magdalen"></interp>
+                     <interp inst="t17391205-29-victim214" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17391205-29-cd140" type="crimeDate">Nov. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17391205-29-off139 t17391205-29-cd140"></join>.</p>
+               <p>
+                  <rs id="t17391205-29-verdict141" type="verdictDescription">
+                     <interp inst="t17391205-29-verdict141" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17391205-29-verdict141" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               The Prisoner pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17391205-29-punish142" type="punishmentDescription">
+                     <interp inst="t17391205-29-punish142" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17391205-29-defend210 t17391205-29-punish142"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

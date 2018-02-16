@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871207-15">
+               <interp inst="t16871207-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871207-15" type="year" value="1687"></interp>
+               <interp inst="t16871207-15" type="uri" value="sessionsPapers/16871207"></interp>
+               <interp inst="t16871207-15" type="date" value="16871207"></interp>
+               <join result="criminalCharge" id="t16871207-15-off64-c51" targOrder="Y" targets="t16871207-15-defend77 t16871207-15-off64 t16871207-15-verdict66"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16871207-15-defend77" type="defendantName">
+                     Francis 
+                     Tracey
+                  <interp inst="t16871207-15-defend77" type="surname" value="Tracey"></interp>
+                     <interp inst="t16871207-15-defend77" type="given" value="Francis"></interp>
+                     <interp inst="t16871207-15-defend77" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Indicted for <rs id="t16871207-15-off64" type="offenceDescription">
+                     <interp inst="t16871207-15-off64" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871207-15-off64" type="offenceSubcategory" value="pocketpicking"></interp>
+               Picking the Pocket of 
+                     
+                        <persName id="t16871207-15-victim79" type="victimName">
+                           Charity 
+                           Mathews
+                        <interp inst="t16871207-15-victim79" type="surname" value="Mathews"></interp>
+                        <interp inst="t16871207-15-victim79" type="given" value="Charity"></interp>
+                        <interp inst="t16871207-15-victim79" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16871207-15-off64 t16871207-15-victim79"></join>
+                     </persName>
+                     
+                  , on the <rs id="t16871207-15-cd65" type="crimeDate">11th. of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16871207-15-off64 t16871207-15-cd65"></join> last, of five gold Rings, value 3 l. 8 s. one Meddal, value 9 s. a Purse and three Shillings in Money
+            </rs>; But it appearing that he was a Company-keeper of hers, and it being presumed that she gave them him in the Cellar at Newgate, he was brought in <rs id="t16871207-15-verdict66" type="verdictDescription">
+                     <interp inst="t16871207-15-verdict66" type="verdictCategory" value="notGuilty"></interp>
+               not guilty
+            </rs>.</p>
+            </div1>

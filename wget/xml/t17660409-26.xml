@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660409-26">
+               <interp inst="t17660409-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660409-26" type="year" value="1766"></interp>
+               <interp inst="t17660409-26" type="uri" value="sessionsPapers/17660409"></interp>
+               <interp inst="t17660409-26" type="date" value="17660409"></interp>
+               <join result="criminalCharge" id="t17660409-26-off151-c179" targOrder="Y" targets="t17660409-26-defend233 t17660409-26-off151 t17660409-26-verdict156"></join>
+         
+               <p>229. (M.) 
+               
+                  <persName id="t17660409-26-defend233" type="defendantName">
+                     John 
+                     Minns 
+                  <interp inst="t17660409-26-defend233" type="surname" value="Minns"></interp>
+                     <interp inst="t17660409-26-defend233" type="given" value="John"></interp>
+                     <interp inst="t17660409-26-defend233" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted, for that <rs id="t17660409-26-off151" type="offenceDescription">
+                     <interp inst="t17660409-26-off151" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17660409-26-off151" type="offenceSubcategory" value="highwayRobbery"></interp>
+               he in <placeName id="t17660409-26-crimeloc152">Hyde-park</placeName>
+                     <interp inst="t17660409-26-crimeloc152" type="placeName" value="Hyde-park"></interp>
+                     <interp inst="t17660409-26-crimeloc152" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17660409-26-off151 t17660409-26-crimeloc152"></join>, near the King's highway, on 
+                     
+                        <persName id="t17660409-26-victim235" type="victimName">
+                           William 
+                           Webb 
+                        <interp inst="t17660409-26-victim235" type="surname" value="Webb"></interp>
+                        <interp inst="t17660409-26-victim235" type="given" value="William"></interp>
+                        <interp inst="t17660409-26-victim235" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17660409-26-off151 t17660409-26-victim235"></join>
+                     </persName>
+                      
+                   did make an assault, putting him in corporal fear and danger of his life, and taking from his person 10 s. in money numbered, his property, against his will
+            </rs>, <rs id="t17660409-26-cd153" type="crimeDate">March 31</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660409-26-off151 t17660409-26-cd153"></join>. *</p>
+               <p>
+            
+                  <persName id="t17660409-26-person236">
+                  William 
+                  Webb 
+               <interp inst="t17660409-26-person236" type="surname" value="Webb"></interp>
+                     <interp inst="t17660409-26-person236" type="given" value="William"></interp>
+                     <interp inst="t17660409-26-person236" type="gender" value="male"></interp>
+                  </persName>
+            . I was walking in Hyde-park on Easter Monday, between 3 and 4 o'clock in the afternoon; the prisoner came and took me by the collar, and demanded a guinea of me; I told him I had no such money; he forcibly took two King William's crown pieces from me; he frightened me, by telling me he would knock my soul out; I said I was no more than a <rs id="t17660409-26-viclabel154" type="occupation">journeyman carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-26-victim235 t17660409-26-viclabel154"></join>.</p>
+               <p>Q. Had he any arms with him? (The prisoner is a <rs id="t17660409-26-deflabel155" type="occupation">soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660409-26-defend233 t17660409-26-deflabel155"></join>.)</p>
+               <p>Webb. No, he had not; I saw nothing in his hands.</p>
+               <p>Q. Where do you live?</p>
+               <p>Webb. I live in Berwick-street, and work with Mr. Medley, a builder.</p>
+               <p>Prisoner. I will tell the whole truth, he was along with a woman, doing things that he ought not to do.</p>
+               <p>Q. to prosecutor. Had you been with a woman just before?</p>
+               <p>Prosecutor. I had.</p>
+               <p>Q. Had you picked her up and been lying with her in the park?</p>
+               <p>Prosecutor. I will not answer to that.</p>
+               <p>Q. Did he demand a guinea of you because you had had familiarity with that woman?</p>
+               <p>Prosecutor. He did mention some such thing.</p>
+               <p>
+                  <rs id="t17660409-26-verdict156" type="verdictDescription">
+                     <interp inst="t17660409-26-verdict156" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

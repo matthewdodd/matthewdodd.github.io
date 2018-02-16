@@ -1,3 +1,377 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17450424-42">
+               <interp inst="t17450424-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17450424-42" type="year" value="1745"></interp>
+               <interp inst="t17450424-42" type="uri" value="sessionsPapers/17450424"></interp>
+               <interp inst="t17450424-42" type="date" value="17450424"></interp>
+               <join result="criminalCharge" id="t17450424-42-off255-c414" targOrder="Y" targets="t17450424-42-defend488 t17450424-42-off255 t17450424-42-verdict260"></join>
+               <join result="criminalCharge" id="t17450424-42-off255-c415" targOrder="Y" targets="t17450424-42-defend490 t17450424-42-off255 t17450424-42-verdict259"></join>
+         
+               <p>239. 240. + 
+               <persName id="t17450424-42-defend488" type="defendantName">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-defend488" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-defend488" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-defend488" type="gender" value="male"></interp>
+                  </persName>
+              and 
+               
+                  <persName id="t17450424-42-defend490" type="defendantName">
+                     John 
+                     Smith 
+                  <interp inst="t17450424-42-defend490" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-defend490" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-defend490" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17450424-42-defloc254">St. John the Evangelist</placeName>
+                  <interp inst="t17450424-42-defloc254" type="placeName" value="St. John the Evangelist"></interp>
+                  <interp inst="t17450424-42-defloc254" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17450424-42-defend488 t17450424-42-defloc254"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17450424-42-defend490 t17450424-42-defloc254"></join>, were indicted for the <rs id="t17450424-42-off255" type="offenceDescription">
+                     <interp inst="t17450424-42-off255" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17450424-42-off255" type="offenceSubcategory" value="murder"></interp>
+               murder of 
+                     
+                        <persName id="t17450424-42-victim492" type="victimName">
+                           William 
+                           Worthington 
+                        <interp inst="t17450424-42-victim492" type="surname" value="Worthington"></interp>
+                        <interp inst="t17450424-42-victim492" type="given" value="William"></interp>
+                        <interp inst="t17450424-42-victim492" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17450424-42-off255 t17450424-42-victim492"></join>
+                     </persName>
+                      
+                  , on the <rs id="t17450424-42-cd256" type="crimeDate">1st day of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17450424-42-off255 t17450424-42-cd256"></join> last, by casting and throwing him upon the ground: and when he was lying upon the ground striking and kicking him, on the head, neck, stomach, back and belly; and thereby giving him several mortal wounds and bruises, of which he languished from the said 1st day of March to the 4th day of the same month, and then of the said mortal wounds and bruises died
+            </rs>.</p>
+               <p>They were also charged, on the coroner's inquisition, for feloniously slaying the said 
+               <persName id="t17450424-42-person493">
+                  William 
+                  Worthington 
+               <interp inst="t17450424-42-person493" type="surname" value="Worthington"></interp>
+                     <interp inst="t17450424-42-person493" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person493" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17450424-42-person494">
+                  Gilbert 
+                  Metcalf 
+               <interp inst="t17450424-42-person494" type="surname" value="Metcalf"></interp>
+                     <interp inst="t17450424-42-person494" type="given" value="Gilbert"></interp>
+                     <interp inst="t17450424-42-person494" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the <placeName id="t17450424-42-crimeloc257">Ship</placeName>
+                  <interp inst="t17450424-42-crimeloc257" type="placeName" value="Ship"></interp>
+                  <interp inst="t17450424-42-crimeloc257" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17450424-42-off255 t17450424-42-crimeloc257"></join> in <placeName id="t17450424-42-crimeloc258">Barton-street, Westminster</placeName>
+                  <interp inst="t17450424-42-crimeloc258" type="placeName" value="Barton-street, Westminster"></interp>
+                  <interp inst="t17450424-42-crimeloc258" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17450424-42-off255 t17450424-42-crimeloc258"></join>. 
+               <persName id="t17450424-42-person495">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person495" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person495" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person495" type="gender" value="male"></interp>
+                  </persName>
+             [the Son of 
+               <persName id="t17450424-42-person496">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person496" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person496" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person496" type="gender" value="male"></interp>
+                  </persName>
+            ] and the Deceased were at my house, on the 1st of March, playing at skittles or nine-pins, and afterwards they came into the house, and played seven or eight games at cards. A dispute arising about a shilling, 
+               <persName id="t17450424-42-person497">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person497" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person497" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person497" type="gender" value="male"></interp>
+                  </persName>
+             said that Worthington had taken it up, and the other charged Smith with it. Then they began to have high words; and 
+               <persName id="t17450424-42-person498">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person498" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person498" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person498" type="gender" value="male"></interp>
+                  </persName>
+             said he would have it out of his bones, or words to that purpose; and challenged him to fight: Worthington would not, but got up and went into the skittle-ground, and I thought he had been going home. 
+               <persName id="t17450424-42-person499">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person499" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person499" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person499" type="gender" value="male"></interp>
+                  </persName>
+             pushed by me , and run after him into the street.</p>
+               <p>Q. Did you see them fighting?</p>
+               <p>Metcalf. I saw them pushing at one another.</p>
+               <p>Q. Did you see 
+               <persName id="t17450424-42-person500">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person500" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person500" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person500" type="gender" value="male"></interp>
+                  </persName>
+             strike the Deceased?</p>
+               <p>Metcalf. I saw him make several motions at him: he might strike him for what I know.</p>
+               <p>Q. Did you see the Deceased making water?</p>
+               <p>Metcalf. Yes, and while he was doing it, 
+               <persName id="t17450424-42-person501">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person501" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person501" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person501" type="gender" value="male"></interp>
+                  </persName>
+             fell upon him.</p>
+               <p>Mr. Metcalf's servant. 
+               <persName id="t17450424-42-person502">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person502" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person502" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person502" type="gender" value="male"></interp>
+                  </persName>
+             and Worthington had been playing at cards, and there were eight games due to Smith, and he said, he would have the shilling: the other refused it him. 
+               <persName id="t17450424-42-person503">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person503" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person503" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person503" type="gender" value="male"></interp>
+                  </persName>
+             said, if it was not for the law, he would knock his head off; and Worthington said he would take no other law of him than what his hands gave him. Worthington went out of the house to make water, but before he had done it, 
+               <persName id="t17450424-42-person504">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person504" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person504" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person504" type="gender" value="male"></interp>
+                  </persName>
+             followed him and struck him. They fought, and I took the Deceased up two falls, but the third fall I was not time enough; and the old man [
+               <persName id="t17450424-42-person505">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person505" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person505" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person505" type="gender" value="male"></interp>
+                  </persName>
+            ] said, You dog, what do you mean? and 
+               <persName id="t17450424-42-person506">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person506" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person506" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person506" type="gender" value="male"></interp>
+                  </persName>
+             hit me a slap on the face, and after Worthington had made water, they fell to it again.</p>
+               <p>Q. How long had 
+               <persName id="t17450424-42-person507">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person507" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person507" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person507" type="gender" value="male"></interp>
+                  </persName>
+             been there?</p>
+               <p>Witness. He was but just come in.</p>
+               <p>
+            
+                  <persName id="t17450424-42-person508">
+                  James 
+                  Frazier 
+               <interp inst="t17450424-42-person508" type="surname" value="Frazier"></interp>
+                     <interp inst="t17450424-42-person508" type="given" value="James"></interp>
+                     <interp inst="t17450424-42-person508" type="gender" value="male"></interp>
+                  </persName>
+            . 
+               <persName id="t17450424-42-person509">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person509" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person509" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person509" type="gender" value="male"></interp>
+                  </persName>
+             and Worthington were playing at cards , and Smith said, D - n you, you have taken up the shilling. Worthington said, he had taken nothing but what was his right, and 
+               <persName id="t17450424-42-person510">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person510" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person510" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person510" type="gender" value="male"></interp>
+                  </persName>
+             said, D - n you, if it was not for the law, I would knock your head off your shoulders; and Worthington said, I won't take the law of you. Then the Deceased went out and put himself in a posture for making water, but I don't believe he made any; for at that time 
+               <persName id="t17450424-42-person511">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person511" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person511" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person511" type="gender" value="male"></interp>
+                  </persName>
+             attacked him, and 
+               <persName id="t17450424-42-person512">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person512" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person512" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person512" type="gender" value="male"></interp>
+                  </persName>
+             came in immediately, and bid his son strip.</p>
+               <p>
+            
+                  <persName id="t17450424-42-person513">
+                  James 
+                  Wright 
+               <interp inst="t17450424-42-person513" type="surname" value="Wright"></interp>
+                     <interp inst="t17450424-42-person513" type="given" value="James"></interp>
+                     <interp inst="t17450424-42-person513" type="gender" value="male"></interp>
+                  </persName>
+            . I had taken the deceased up two falls, and I took him up the third, and he said he wanted to make water: Then William Smith pulled his clothes off; and when the Deceased was making water , he fell upon him, and the Deceased had another fall afterwards, which was the last fall. 
+               <persName id="t17450424-42-person514">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person514" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person514" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person514" type="gender" value="male"></interp>
+                  </persName>
+             said to the Deceased , D - n you, if you are a man, why don't you fight?</p>
+               <p>Q. Did they seem to fight by agreement, or did the Deceased seem as if he would have gone away if he could?</p>
+               <p>Wright. They both consented to fight?</p>
+               <p>
+            
+                  <persName id="t17450424-42-person515">
+                  James 
+                  Cooper 
+               <interp inst="t17450424-42-person515" type="surname" value="Cooper"></interp>
+                     <interp inst="t17450424-42-person515" type="given" value="James"></interp>
+                     <interp inst="t17450424-42-person515" type="gender" value="male"></interp>
+                  </persName>
+            . I was at Mr. Metcalf's that evening at the conclusion of this affair.</p>
+               <p>Q. Did you see them fighting?</p>
+               <p>Cooper. No, but I saw one of them fight. The Deceased was not able to fight, and the old man came and held the Deceased up for the young one to beat him, and said, What! do you want to take breath? and they fought again. After they had been fighting, the son endeavoured to strike the Deceased when he was down, and hardly able<xptr type="pageFacsimile" doc="174504240036"></xptr> able to rise off the ground, but I prevented it.</p>
+               <p>Prisoner's Council. You say the old man held the Deceased up to be beat by 
+               <persName id="t17450424-42-person516">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person516" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person516" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person516" type="gender" value="male"></interp>
+                  </persName>
+            ; was the Deceased's back or his face towards him?</p>
+               <p>Cooper. His back was towards 
+               <persName id="t17450424-42-person517">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person517" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person517" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person517" type="gender" value="male"></interp>
+                  </persName>
+            's breast. There were several people by that saw it.</p>
+               <p>Pris. Coun. You say there were several people there, and no body saw this but you: I suppose they were Englishmen; and you say that they stood by, and saw him beat: was that like an Englishman?</p>
+               <p>Cooper. They would not see: but I saw that the Deceased was not able to fight; and there were some people by, who, if they had had either honour or honesty, would have done as I did.</p>
+               <p>
+            
+                  <persName id="t17450424-42-person518">
+                  Ann 
+                  Cleaver 
+               <interp inst="t17450424-42-person518" type="surname" value="Cleaver"></interp>
+                     <interp inst="t17450424-42-person518" type="given" value="Ann"></interp>
+                     <interp inst="t17450424-42-person518" type="gender" value="female"></interp>
+                  </persName>
+            . Hearing a great noise in the street, I went out and saw the Prisoner and the Deceased fighting. Mrs. Worthington desired me to part them. 
+               <persName id="t17450424-42-person519">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person519" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person519" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person519" type="gender" value="male"></interp>
+                  </persName>
+             was hawling him down by the hair of his head. I said, Don't pull him by the hair (for he had a great head of hair) you seem to be too many for him: And somebody who was behind 
+               <persName id="t17450424-42-person520">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person520" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person520" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person520" type="gender" value="male"></interp>
+                  </persName>
+             backed him on to strike the Deceased; and then they fell to fighting. I said to the Deceased, William, come along, don't fight any more: and somebody behind 
+               <persName id="t17450424-42-person521">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person521" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person521" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person521" type="gender" value="male"></interp>
+                  </persName>
+             said, If he won't fight, do you lick him.</p>
+               <p>
+            
+                  <persName id="t17450424-42-person522">
+                  Thomas 
+                  Astley 
+               <interp inst="t17450424-42-person522" type="surname" value="Astley"></interp>
+                     <interp inst="t17450424-42-person522" type="given" value="Thomas"></interp>
+                     <interp inst="t17450424-42-person522" type="gender" value="male"></interp>
+                  </persName>
+            . [apothecary] On the 2d of March last, about six in the morning, I was knocked up to go to the deceased; I found him exceeding full of pain, and he could not make water; he had all the symptons of a mortification upon him, and seemed in a dangerous way; I asked him, where the seat of his complaint was, he said it was about his bladder, and believed it was occasioned by what happened the day before; he said he was in company with one Smith, and they had some words, that he went out to make water, had got his penis in his hand, and was knocked down and pulled back; that Smith obliged him to fight, and in the middle of their fighting he begged to make water, and it was refused him. This he told me, he was as honest a man, and as industrious a man, as any in his capacity.</p>
+               <p>Q. Did you not probe the man?</p>
+               <p>Astley. I went for a surgeon, and I felt of the parts, and found there was no retention of urine, and the surgeon said, he had no great quantity of water in the bladder; and the surgeon did endeavour to cause him to make water; the next morning Mr. Presgrove introduced the Catheter, but there was no water came.</p>
+               <p>
+            
+                  <persName id="t17450424-42-person523">
+                  Robert 
+                  Heathfield 
+               <interp inst="t17450424-42-person523" type="surname" value="Heathfield"></interp>
+                     <interp inst="t17450424-42-person523" type="given" value="Robert"></interp>
+                     <interp inst="t17450424-42-person523" type="gender" value="male"></interp>
+                  </persName>
+             surgeon. I was desired by Mr. Astley to pay a visit to Mr. Worthington, and I found he had a violent pain in the abdomen, which I took to be upon the neck of the bladder; he ordered a somentation in order to relax the parts, and I think Mr. Presgrove was called, and he endeavoured to introduce the Catheter, but could bring away no water. Mr. Presgrove advised him to the warm bath, as he was going there he saw Mr. Cheselden, and he introduced the Catheter, and he brought a little water off his bladder, I believe about three or four ounces. I opened the body, and there was some water in the bladder, and something of an inflammation that extended itself near the bladder. I could not see any bruise on the parts, but in taking off the outward skin, I found there was a mortification on the upper part of the bladder, which I apprehend was occasioned by the retention of urine; his having something of a desire to make water, and holding it so long as he did, must be the occasion of a violent inflammation of the parts, which occasioned the mortification, and I believe that was the occasion of his death.</p>
+               <p>Q. Do you apprehend any of the blows he received in fighting, was the occasion of his death?</p>
+               <p>Heathfield. I don't apprehend that any of them was the occasion of his death. I put my probe into his nose, and there was but a trifling wound; and I found the bone of the nose fractured, which was a surprising thing to me, but I don't think that was the occasion of his death.</p>
+               <p>Q. What other bruises were there upon the body?</p>
+               <p>Heathfield. None that I saw.</p>
+               <p>Q. Had he a retention of urine before?</p>
+               <p>Heathfield . I asked him that question, and he said he had not. 
+               <persName id="t17450424-42-person524">
+                  John 
+                  Smith 
+               <interp inst="t17450424-42-person524" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person524" type="given" value="John"></interp>
+                     <interp inst="t17450424-42-person524" type="gender" value="male"></interp>
+                  </persName>
+             
+                  <rs id="t17450424-42-verdict259" type="verdictDescription">
+                     <interp inst="t17450424-42-verdict259" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>. 
+               <persName id="t17450424-42-person525">
+                  William 
+                  Smith 
+               <interp inst="t17450424-42-person525" type="surname" value="Smith"></interp>
+                     <interp inst="t17450424-42-person525" type="given" value="William"></interp>
+                     <interp inst="t17450424-42-person525" type="gender" value="male"></interp>
+                  </persName>
+            , <rs id="t17450424-42-verdict260" type="verdictDescription">
+                     <interp inst="t17450424-42-verdict260" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17450424-42-verdict260" type="verdictSubcategory" value="manslaughter"></interp>
+               Guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t17450424-42-punish261" type="punishmentDescription">
+                     <interp inst="t17450424-42-punish261" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17450424-42-punish261" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17450424-42-defend488 t17450424-42-punish261"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

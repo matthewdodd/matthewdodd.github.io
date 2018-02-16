@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901015-21">
+               <interp inst="t16901015-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901015-21" type="year" value="1690"></interp>
+               <interp inst="t16901015-21" type="uri" value="sessionsPapers/16901015"></interp>
+               <interp inst="t16901015-21" type="date" value="16901015"></interp>
+               <join result="criminalCharge" id="t16901015-21-off90-c75" targOrder="Y" targets="t16901015-21-defend111 t16901015-21-off90 t16901015-21-verdict91"></join>
+         
+               <p>
+            
+                  <persName id="t16901015-21-defend111" type="defendantName">
+                  Luke 
+                  Braseby
+               <interp inst="t16901015-21-defend111" type="surname" value="Braseby"></interp>
+                     <interp inst="t16901015-21-defend111" type="given" value="Luke"></interp>
+                     <interp inst="t16901015-21-defend111" type="gender" value="male"></interp>
+                  </persName>
+             was tryed for a Misdemeanour, for <rs id="t16901015-21-off90" type="offenceDescription">
+                     <interp inst="t16901015-21-off90" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16901015-21-off90" type="offenceSubcategory" value="coiningOffences"></interp>
+               receiving into his Hand half an Ounce of Clippings, and for Concealing of it, to the great Encouragement of Clippers, &amp;c.
+            </rs> The Evidence swore, That the Clippings were found in the Prisoner's Breeches, in a little Box, and there was a small File found in the Prisoner's House besides. The Prisoner denyed it, but he was found <rs id="t16901015-21-verdict91" type="verdictDescription">
+                     <interp inst="t16901015-21-verdict91" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16901015-21-punish92" type="punishmentDescription">
+                     <interp inst="t16901015-21-punish92" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16901015-21-punish92" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901015-21-defend111 t16901015-21-punish92"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16901015-21-punish93" type="punishmentDescription">
+                     <interp inst="t16901015-21-punish93" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16901015-21-punish93" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16901015-21-defend111 t16901015-21-punish93"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

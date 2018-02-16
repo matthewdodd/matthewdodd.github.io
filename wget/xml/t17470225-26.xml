@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17470225-26">
+               <interp inst="t17470225-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17470225-26" type="year" value="1747"></interp>
+               <interp inst="t17470225-26" type="uri" value="sessionsPapers/17470225"></interp>
+               <interp inst="t17470225-26" type="date" value="17470225"></interp>
+               <join result="criminalCharge" id="t17470225-26-off115-c282" targOrder="Y" targets="t17470225-26-defend341 t17470225-26-off115 t17470225-26-verdict117"></join>
+         
+               <p>159. 
+               
+                  <persName id="t17470225-26-defend341" type="defendantName">
+                     George 
+                     Digby 
+                  <interp inst="t17470225-26-defend341" type="surname" value="Digby"></interp>
+                     <interp inst="t17470225-26-defend341" type="given" value="George"></interp>
+                     <interp inst="t17470225-26-defend341" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17470225-26-off115" type="offenceDescription">
+                     <interp inst="t17470225-26-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17470225-26-off115" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two Copper Porridge-pots, value 5 s.
+            </rs> the Goods and Chattels of 
+               
+                  <persName id="t17470225-26-victim343" type="victimName">
+                     Joseph 
+                     Wright 
+                  <interp inst="t17470225-26-victim343" type="surname" value="Wright"></interp>
+                     <interp inst="t17470225-26-victim343" type="given" value="Joseph"></interp>
+                     <interp inst="t17470225-26-victim343" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17470225-26-off115 t17470225-26-victim343"></join>
+                  </persName>
+                
+            , <rs id="t17470225-26-cd116" type="crimeDate">December 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17470225-26-off115 t17470225-26-cd116"></join>.</p>
+               <p>The principle Evidence against the Prisoner was 
+               <persName id="t17470225-26-person344">
+                  Mary 
+                  Price 
+               <interp inst="t17470225-26-person344" type="surname" value="Price"></interp>
+                     <interp inst="t17470225-26-person344" type="given" value="Mary"></interp>
+                     <interp inst="t17470225-26-person344" type="gender" value="female"></interp>
+                  </persName>
+            , Servant to Mr Wright; she swore positively that the Prisoner was the Man that she saw with the Pots in his Hand, as she went backwards at Twelve o'Clock at Night, that he had one on his Head, and another little one in his Hand; the Maid said she asked him what he wanted, and he d - d her, and put the Girl into a great Surprize, and threatened to throw the Pot at her, and swore he would be revenged of her; the Prisoner made off at that Time, and about a Month after he came to the House again, she was positive he was the Man, though the Goods were not found upon him, but the Prisoner denied it.</p>
+               <p>
+                  <rs id="t17470225-26-verdict117" type="verdictDescription">
+                     <interp inst="t17470225-26-verdict117" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17470225-26-verdict117" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>[A Gentleman came the next Day out of the Country, and gave him a good Character, and the Man was very ill, so he was only ordered to be <rs id="t17470225-26-punish118" type="punishmentDescription">
+                     <interp inst="t17470225-26-punish118" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17470225-26-punish118" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17470225-26-defend341 t17470225-26-punish118"></join>
+               whipped
+            </rs> and discharged.</p>
+            </div1>

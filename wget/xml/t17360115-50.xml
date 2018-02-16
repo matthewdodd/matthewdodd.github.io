@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360115-50">
+               <interp inst="t17360115-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360115-50" type="year" value="1736"></interp>
+               <interp inst="t17360115-50" type="uri" value="sessionsPapers/17360115"></interp>
+               <interp inst="t17360115-50" type="date" value="17360115"></interp>
+               <join result="criminalCharge" id="t17360115-50-off279-c263" targOrder="Y" targets="t17360115-50-defend378 t17360115-50-off279 t17360115-50-verdict280"></join>
+         
+               <p>
+            
+               
+                  <persName id="t17360115-50-defend378" type="defendantName">
+                     Sarah 
+                     Neal 
+                  <interp inst="t17360115-50-defend378" type="surname" value="Neal"></interp>
+                     <interp inst="t17360115-50-defend378" type="given" value="Sarah"></interp>
+                     <interp inst="t17360115-50-defend378" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360115-50-defloc278">St. Margaret's Westminster</placeName>
+                  <interp inst="t17360115-50-defloc278" type="placeName" value="St. Margaret's Westminster"></interp>
+                  <interp inst="t17360115-50-defloc278" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360115-50-defend378 t17360115-50-defloc278"></join>, was indicted for <rs id="t17360115-50-off279" type="offenceDescription">
+                     <interp inst="t17360115-50-off279" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360115-50-off279" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Moidores, value 4l. 1s.
+            </rs> the Goods of 
+               
+                  <persName id="t17360115-50-victim380" type="victimName">
+                     William 
+                     Binnel 
+                  <interp inst="t17360115-50-victim380" type="surname" value="Binnel"></interp>
+                     <interp inst="t17360115-50-victim380" type="given" value="William"></interp>
+                     <interp inst="t17360115-50-victim380" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17360115-50-off279 t17360115-50-victim380"></join>
+                  </persName>
+                
+            . The Jury found <rs id="t17360115-50-verdict280" type="verdictDescription">
+                     <interp inst="t17360115-50-verdict280" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360115-50-verdict280" type="verdictSubcategory" value="theftunder40s"></interp>
+               her guilty to the value of 39s
+            </rs>.</p>
+               <p>
+                  <rs id="t17360115-50-punish281" type="punishmentDescription">
+                     <interp inst="t17360115-50-punish281" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17360115-50-punish281" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360115-50-defend378 t17360115-50-punish281"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

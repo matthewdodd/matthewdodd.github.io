@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480706-36">
+               <interp inst="t17480706-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480706-36" type="year" value="1748"></interp>
+               <interp inst="t17480706-36" type="uri" value="sessionsPapers/17480706"></interp>
+               <interp inst="t17480706-36" type="date" value="17480706"></interp>
+               <join result="criminalCharge" id="t17480706-36-off166-c215" targOrder="Y" targets="t17480706-36-defend283 t17480706-36-off166 "></join>
+         
+               <p>357. 
+               
+                  <persName id="t17480706-36-defend283" type="defendantName">
+                     Ann 
+                     Sharpe 
+                  <interp inst="t17480706-36-defend283" type="surname" value="Sharpe"></interp>
+                     <interp inst="t17480706-36-defend283" type="given" value="Ann"></interp>
+                     <interp inst="t17480706-36-defend283" type="gender" value="female"></interp>
+                  </persName>
+               
+            , otherwise <rs id="t17480706-36-alias-6" type="alias">Sandford</rs>, otherwise <rs id="t17480706-36-alias-7" type="alias">Fitzgerald</rs>, was indicted for <rs id="t17480706-36-off166" type="offenceDescription">
+                     <interp inst="t17480706-36-off166" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480706-36-off166" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a rug, a sheet, a napkin, and a key, all valued at 3 s. 7 d.
+            </rs> the property of 
+               
+                  <persName id="t17480706-36-victim285" type="victimName">
+                     Sarah 
+                     Finley 
+                  <interp inst="t17480706-36-victim285" type="surname" value="Finley"></interp>
+                     <interp inst="t17480706-36-victim285" type="given" value="Sarah"></interp>
+                     <interp inst="t17480706-36-victim285" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480706-36-off166 t17480706-36-victim285"></join>
+                  </persName>
+                
+            , <rs id="t17480706-36-cd167" type="crimeDate">March 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480706-36-off166 t17480706-36-cd167"></join>.</p>
+            </div1>

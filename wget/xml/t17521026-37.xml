@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17521026-37">
+               <interp inst="t17521026-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t17521026-37" type="year" value="1752"></interp>
+               <interp inst="t17521026-37" type="uri" value="sessionsPapers/17521026"></interp>
+               <interp inst="t17521026-37" type="date" value="17521026"></interp>
+               <join result="criminalCharge" id="t17521026-37-off192-c244" targOrder="Y" targets="t17521026-37-defend312 t17521026-37-off192 t17521026-37-verdict195"></join>
+         
+               <p>541. (M.) 
+               <persName id="t17521026-37-defend312" type="defendantName">
+                  Mary, <rs id="t17521026-37-deflabel191" type="occupation">wife of 
+                        <persName id="t17521026-37-person313">
+                           John 
+                           Nicholls 
+                        <interp inst="t17521026-37-person313" type="surname" value="Nicholls"></interp>
+                           <interp inst="t17521026-37-person313" type="given" value="John"></interp>
+                           <interp inst="t17521026-37-person313" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17521026-37-defend312 t17521026-37-deflabel191"></join>
+                     <interp inst="t17521026-37-defend312" type="surname" value="Nicholls"></interp>
+                     <interp inst="t17521026-37-defend312" type="given" value="Mary"></interp>
+                     <interp inst="t17521026-37-defend312" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17521026-37-off192" type="offenceDescription">
+                     <interp inst="t17521026-37-off192" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17521026-37-off192" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing six sheets, val. 10 d. six linen shifts, val. 10 d. three linen gowns, one silk gown, one camblet gown, one silk petticoat, two linen petticoats, one flannel petticoat, six china tea-cups, six china saucers, and other things
+            </rs>, the goods of 
+               <persName id="t17521026-37-victim314" type="victimName">
+                  Elizabeth 
+                  Manning 
+               <interp inst="t17521026-37-victim314" type="surname" value="Manning"></interp>
+                     <interp inst="t17521026-37-victim314" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17521026-37-victim314" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17521026-37-off192 t17521026-37-victim314"></join>
+                  </persName>
+             , <rs id="t17521026-37-viclabel193" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17521026-37-victim314 t17521026-37-viclabel193"></join>, <rs id="t17521026-37-cd194" type="crimeDate">Sept. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17521026-37-off192 t17521026-37-cd194"></join>. ++</p>
+               <p>The prosecutor and prisoner lived both in one house, and the things mentioned were missing September 21. The prisoner was suspected and taken up, some of the goods she had in her room, and the others were found by her direction. The goods were produced in court and deposed to.  <rs id="t17521026-37-verdict195" type="verdictDescription">
+                     <interp inst="t17521026-37-verdict195" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17521026-37-punish196" type="punishmentDescription">
+                     <interp inst="t17521026-37-punish196" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17521026-37-punish196" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17521026-37-defend312 t17521026-37-punish196"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

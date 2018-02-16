@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350702-44">
+               <interp inst="t17350702-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350702-44" type="year" value="1735"></interp>
+               <interp inst="t17350702-44" type="uri" value="sessionsPapers/17350702"></interp>
+               <interp inst="t17350702-44" type="date" value="17350702"></interp>
+               <join result="criminalCharge" id="t17350702-44-off207-c238" targOrder="Y" targets="t17350702-44-defend338 t17350702-44-off207 t17350702-44-verdict210"></join>
+         
+               <p>54. 
+               
+                  <persName id="t17350702-44-defend338" type="defendantName">
+                     Eleanor 
+                     Plasty 
+                  <interp inst="t17350702-44-defend338" type="surname" value="Plasty"></interp>
+                     <interp inst="t17350702-44-defend338" type="given" value="Eleanor"></interp>
+                     <interp inst="t17350702-44-defend338" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350702-44-off207" type="offenceDescription">
+                     <interp inst="t17350702-44-off207" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350702-44-off207" type="offenceSubcategory" value="other"></interp>
+               stealing six Curtains, and five China Dishes
+            </rs>, the Goods of 
+               
+                  <persName id="t17350702-44-victim340" type="victimName">
+                     William 
+                     Gordon 
+                  <interp inst="t17350702-44-victim340" type="surname" value="Gordon"></interp>
+                     <interp inst="t17350702-44-victim340" type="given" value="William"></interp>
+                     <interp inst="t17350702-44-victim340" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350702-44-off207 t17350702-44-victim340"></join>
+                  </persName>
+                
+            , <rs id="t17350702-44-cd208" type="crimeDate">June 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350702-44-off207 t17350702-44-cd208"></join>.</p>
+               <p>The Prisoner had formerly been <rs id="t17350702-44-deflabel209" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350702-44-defend338 t17350702-44-deflabel209"></join> to the Prosecutor, and when his House in Cecil Court was on Fire, she came with a pretence to assist. 
+               <persName id="t17350702-44-person341">
+                  Mary 
+                  Loyd 
+               <interp inst="t17350702-44-person341" type="surname" value="Loyd"></interp>
+                     <interp inst="t17350702-44-person341" type="given" value="Mary"></interp>
+                     <interp inst="t17350702-44-person341" type="gender" value="female"></interp>
+                  </persName>
+             being (as in the last Trial apprehended) she gave them some reason to suspect the Prisoner, and thereupon her Lodgings being searched, the Goods were found.</p>
+               <p>The Jury <rs id="t17350702-44-verdict210" type="verdictDescription">
+                     <interp inst="t17350702-44-verdict210" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

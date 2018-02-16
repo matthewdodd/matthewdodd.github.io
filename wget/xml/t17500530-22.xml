@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500530-22">
+               <interp inst="t17500530-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500530-22" type="year" value="1750"></interp>
+               <interp inst="t17500530-22" type="uri" value="sessionsPapers/17500530"></interp>
+               <interp inst="t17500530-22" type="date" value="17500530"></interp>
+               <join result="criminalCharge" id="t17500530-22-off103-c123" targOrder="Y" targets="t17500530-22-defend164 t17500530-22-off103 t17500530-22-verdict105"></join>
+         
+               <p>391. 
+               
+                  <persName id="t17500530-22-defend164" type="defendantName">
+                     Elizabeth 
+                     Harbottle 
+                  <interp inst="t17500530-22-defend164" type="surname" value="Harbottle"></interp>
+                     <interp inst="t17500530-22-defend164" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17500530-22-defend164" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17500530-22-off103" type="offenceDescription">
+                     <interp inst="t17500530-22-off103" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500530-22-off103" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one apron, seven iron keys, and 30 s. in money
+            </rs>, the goods of 
+               
+                  <persName id="t17500530-22-victim166" type="victimName">
+                     Ann 
+                     Price 
+                  <interp inst="t17500530-22-victim166" type="surname" value="Price"></interp>
+                     <interp inst="t17500530-22-victim166" type="given" value="Ann"></interp>
+                     <interp inst="t17500530-22-victim166" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17500530-22-off103 t17500530-22-victim166"></join>
+                  </persName>
+                
+            , widow, <rs id="t17500530-22-cd104" type="crimeDate">May 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500530-22-off103 t17500530-22-cd104"></join>.</p>
+               <p>
+                  <rs id="t17500530-22-verdict105" type="verdictDescription">
+                     <interp inst="t17500530-22-verdict105" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17500530-22-punish106" type="punishmentDescription">
+                     <interp inst="t17500530-22-punish106" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500530-22-defend164 t17500530-22-punish106"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

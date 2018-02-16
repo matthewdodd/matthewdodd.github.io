@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900903-29">
+               <interp inst="t16900903-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900903-29" type="year" value="1690"></interp>
+               <interp inst="t16900903-29" type="uri" value="sessionsPapers/16900903"></interp>
+               <interp inst="t16900903-29" type="date" value="16900903"></interp>
+               <join result="criminalCharge" id="t16900903-29-off130-c116" targOrder="Y" targets="t16900903-29-defend162 t16900903-29-off130 t16900903-29-verdict132"></join>
+               <join result="criminalCharge" id="t16900903-29-off130-c117" targOrder="Y" targets="t16900903-29-defend164 t16900903-29-off130 t16900903-29-verdict133"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900903-29-defend162" type="defendantName">
+                     Alexander 
+                     Clark
+                  <interp inst="t16900903-29-defend162" type="surname" value="Clark"></interp>
+                     <interp inst="t16900903-29-defend162" type="given" value="Alexander"></interp>
+                     <interp inst="t16900903-29-defend162" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16900903-29-defend164" type="defendantName">
+                     Dorothy 
+                     Smith
+                  <interp inst="t16900903-29-defend164" type="surname" value="Smith"></interp>
+                     <interp inst="t16900903-29-defend164" type="given" value="Dorothy"></interp>
+                     <interp inst="t16900903-29-defend164" type="gender" value="female"></interp>
+                  </persName>
+               
+            , were tryed for <rs id="t16900903-29-off130" type="offenceDescription">
+                     <interp inst="t16900903-29-off130" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900903-29-off130" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Silver Mugg, value 50 s.
+            </rs> the Goods of 
+               
+                  <persName id="t16900903-29-victim166" type="victimName">
+                     Abraham 
+                     Hurle
+                  <interp inst="t16900903-29-victim166" type="surname" value="Hurle"></interp>
+                     <interp inst="t16900903-29-victim166" type="given" value="Abraham"></interp>
+                     <interp inst="t16900903-29-victim166" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900903-29-off130 t16900903-29-victim166"></join>
+                  </persName>
+               
+            . The Evidence was, That the Mugg was lost the <rs id="t16900903-29-cd131" type="crimeDate">22d day of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900903-29-off130 t16900903-29-cd131"></join>: They both came to the House, and after they had drank, Clark took away the Mugg, and gave it to the Woman, who hid it in a Ditch near Hockley in the Hole. All which he could not much deny; and the Woman, Smith, did acknowledge she did receive the Mugg, as they both did before Sir 
+               <persName id="t16900903-29-person167">
+                  William 
+                  Turner
+               <interp inst="t16900903-29-person167" type="surname" value="Turner"></interp>
+                     <interp inst="t16900903-29-person167" type="given" value="William"></interp>
+                     <interp inst="t16900903-29-person167" type="gender" value="male"></interp>
+                  </persName>
+            . He could not prove that he found it, as he would fain have made the Court believe, so he was found <rs id="t16900903-29-verdict132" type="verdictDescription">
+                     <interp inst="t16900903-29-verdict132" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>, but Smith was <rs id="t16900903-29-verdict133" type="verdictDescription">
+                     <interp inst="t16900903-29-verdict133" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16900903-29-punish134" type="punishmentDescription">
+                     <interp inst="t16900903-29-punish134" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900903-29-punish134" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900903-29-defend162 t16900903-29-punish134"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

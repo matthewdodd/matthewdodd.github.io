@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590912-46">
+               <interp inst="t17590912-46" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590912-46" type="year" value="1759"></interp>
+               <interp inst="t17590912-46" type="uri" value="sessionsPapers/17590912"></interp>
+               <interp inst="t17590912-46" type="date" value="17590912"></interp>
+               <join result="criminalCharge" id="t17590912-46-off260-c295" targOrder="Y" targets="t17590912-46-defend383 t17590912-46-off260 t17590912-46-verdict261"></join>
+         
+               <p>293. (L.) 
+               <persName id="t17590912-46-defend383" type="defendantName">
+                  Hannah 
+                  Armstead 
+               <interp inst="t17590912-46-defend383" type="surname" value="Armstead"></interp>
+                     <interp inst="t17590912-46-defend383" type="given" value="Hannah"></interp>
+                     <interp inst="t17590912-46-defend383" type="gender" value="female"></interp>
+                  </persName>
+             was indicted for <rs id="t17590912-46-off260" type="offenceDescription">
+                     <interp inst="t17590912-46-off260" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17590912-46-off260" type="offenceSubcategory" value="perjury"></interp>
+               wilful and corrupt perjury on the trial of 
+                     
+                        <persName id="t17590912-46-victim385" type="victimName">
+                           Ann 
+                           Bennett 
+                        <interp inst="t17590912-46-victim385" type="surname" value="Bennett"></interp>
+                        <interp inst="t17590912-46-victim385" type="given" value="Ann"></interp>
+                        <interp inst="t17590912-46-victim385" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17590912-46-off260 t17590912-46-victim385"></join>
+                     </persName>
+                      
+                   in July Sessions
+            </rs>. ++</p>
+               <p>
+            
+                  <persName id="t17590912-46-person386">
+                  Thomas 
+                  Gurney 
+               <interp inst="t17590912-46-person386" type="surname" value="Gurney"></interp>
+                     <interp inst="t17590912-46-person386" type="given" value="Thomas"></interp>
+                     <interp inst="t17590912-46-person386" type="gender" value="male"></interp>
+                  </persName>
+            , the Short-Hand-Writer, deposed to what she swore in court, on the trial of 
+               <persName id="t17590912-46-person387">
+                  Ann 
+                  Bennett 
+               <interp inst="t17590912-46-person387" type="surname" value="Bennett"></interp>
+                     <interp inst="t17590912-46-person387" type="given" value="Ann"></interp>
+                     <interp inst="t17590912-46-person387" type="gender" value="female"></interp>
+                  </persName>
+            .</p>
+               <p>The Prosecutor and Mrs Carden deposed as before, on the said trial, see to which the reader is referred.</p>
+               <p>
+                  <rs id="t17590912-46-verdict261" type="verdictDescription">
+                     <interp inst="t17590912-46-verdict261" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17590912-46-punish262" type="punishmentDescription">
+                     <interp inst="t17590912-46-punish262" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590912-46-defend383 t17590912-46-punish262"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17590912-46-punish263" type="punishmentDescription">
+                     <interp inst="t17590912-46-punish263" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590912-46-defend383 t17590912-46-punish263"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

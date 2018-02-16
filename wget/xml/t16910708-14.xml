@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910708-14">
+               <interp inst="t16910708-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910708-14" type="year" value="1691"></interp>
+               <interp inst="t16910708-14" type="uri" value="sessionsPapers/16910708"></interp>
+               <interp inst="t16910708-14" type="date" value="16910708"></interp>
+               <join result="criminalCharge" id="t16910708-14-off61-c35" targOrder="Y" targets="t16910708-14-defend35 t16910708-14-off61 t16910708-14-verdict62"></join>
+         
+               <p>
+            
+                  <persName id="t16910708-14-defend35" type="defendantName">
+                  Thomas 
+                  Allen
+               <interp inst="t16910708-14-defend35" type="surname" value="Allen"></interp>
+                     <interp inst="t16910708-14-defend35" type="given" value="Thomas"></interp>
+                     <interp inst="t16910708-14-defend35" type="gender" value="male"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910708-14-off61" type="offenceDescription">
+                     <interp inst="t16910708-14-off61" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910708-14-off61" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing 
+                     <persName id="t16910708-14-victim36" type="victimName">
+                        Symon 
+                        Fanshaw
+                     <interp inst="t16910708-14-victim36" type="surname" value="Fanshaw"></interp>
+                        <interp inst="t16910708-14-victim36" type="given" value="Symon"></interp>
+                        <interp inst="t16910708-14-victim36" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910708-14-off61 t16910708-14-victim36"></join>
+                     </persName>
+                   of two Silver Candlesticks, value 6 l. and other Goods
+            </rs>; but no Evidence appearing against him, he was immediately <rs id="t16910708-14-verdict62" type="verdictDescription">
+                     <interp inst="t16910708-14-verdict62" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t16910708-14-verdict62" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

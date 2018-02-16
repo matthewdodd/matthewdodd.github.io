@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17631207-38">
+               <interp inst="t17631207-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17631207-38" type="year" value="1763"></interp>
+               <interp inst="t17631207-38" type="uri" value="sessionsPapers/17631207"></interp>
+               <interp inst="t17631207-38" type="date" value="17631207"></interp>
+               <join result="criminalCharge" id="t17631207-38-off208-c283" targOrder="Y" targets="t17631207-38-defend362 t17631207-38-off208 t17631207-38-verdict211"></join>
+         
+               <p>42. (M.) 
+               
+                  <persName id="t17631207-38-defend362" type="defendantName">
+                     Alexander 
+                     Low 
+                  <interp inst="t17631207-38-defend362" type="surname" value="Low"></interp>
+                     <interp inst="t17631207-38-defend362" type="given" value="Alexander"></interp>
+                     <interp inst="t17631207-38-defend362" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17631207-38-off208" type="offenceDescription">
+                     <interp inst="t17631207-38-off208" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17631207-38-off208" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one book, intitled, The travels of the Jesuits, &amp;c. value, 2 s. and one ditto, called, The London complete songster, value, 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17631207-38-victim364" type="victimName">
+                     Abraham 
+                     Goring 
+                  <interp inst="t17631207-38-victim364" type="surname" value="Goring"></interp>
+                     <interp inst="t17631207-38-victim364" type="given" value="Abraham"></interp>
+                     <interp inst="t17631207-38-victim364" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17631207-38-off208 t17631207-38-victim364"></join>
+                  </persName>
+                
+            , <rs id="t17631207-38-cd209" type="crimeDate">December 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17631207-38-off208 t17631207-38-cd209"></join>. *</p>
+               <p>
+            
+                  <persName id="t17631207-38-person365">
+                  Ann 
+                  Goring 
+               <interp inst="t17631207-38-person365" type="surname" value="Goring"></interp>
+                     <interp inst="t17631207-38-person365" type="given" value="Ann"></interp>
+                     <interp inst="t17631207-38-person365" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the prosecutor, he is a <rs id="t17631207-38-viclabel210" type="occupation">bookseller</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17631207-38-victim364 t17631207-38-viclabel210"></join>, and lives in May's Buildings. Last Monday, between three and four in the afternoon, the prisoner was looking at these books, and, as the window was open, he asked the price of two others, but we could not agree; he was going off, two of these volumes lay there five minutes before: I observed a book in his left-hand pocket, he was gone six or seven yards, I went and laid hold of him, and said, you thieving fellow, come back and give me the books out of your pocket; he had the two books, mentioned in the indictment, in his pockets; he insisted upon it, they were his own property, and talked of carrying me before a magistrate, the books produced, and deposed to.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was in liquor, how they came into my pocket, I know not.</p>
+               <p>
+                  <rs id="t17631207-38-verdict211" type="verdictDescription">
+                     <interp inst="t17631207-38-verdict211" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17631207-38-punish212" type="punishmentDescription">
+                     <interp inst="t17631207-38-punish212" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17631207-38-punish212" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17631207-38-defend362 t17631207-38-punish212"></join>
+               B
+            </rs>.</p>
+            </div1>

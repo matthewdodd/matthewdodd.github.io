@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17510417-65">
+               <interp inst="t17510417-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17510417-65" type="year" value="1751"></interp>
+               <interp inst="t17510417-65" type="uri" value="sessionsPapers/17510417"></interp>
+               <interp inst="t17510417-65" type="date" value="17510417"></interp>
+               <join result="criminalCharge" id="t17510417-65-off308-c470" targOrder="Y" targets="t17510417-65-defend596 t17510417-65-off308 t17510417-65-verdict311"></join>
+         
+               <p>346. (L.) 
+               
+                  <persName id="t17510417-65-defend596" type="defendantName">
+                     Patrick 
+                     Cane 
+                  <interp inst="t17510417-65-defend596" type="surname" value="Cane"></interp>
+                     <interp inst="t17510417-65-defend596" type="given" value="Patrick"></interp>
+                     <interp inst="t17510417-65-defend596" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17510417-65-off308" type="offenceDescription">
+                     <interp inst="t17510417-65-off308" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17510417-65-off308" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silk handkerchief
+            </rs>, the property of 
+               
+                  <persName id="t17510417-65-victim598" type="victimName">
+                     Noah 
+                     Tittner 
+                  <interp inst="t17510417-65-victim598" type="surname" value="Tittner"></interp>
+                     <interp inst="t17510417-65-victim598" type="given" value="Noah"></interp>
+                     <interp inst="t17510417-65-victim598" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17510417-65-off308 t17510417-65-victim598"></join>
+                  </persName>
+                
+            , <rs id="t17510417-65-cd309" type="crimeDate">April 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17510417-65-off308 t17510417-65-cd309"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17510417-65-person599">
+                  Noah 
+                  Tittner 
+               <interp inst="t17510417-65-person599" type="surname" value="Tittner"></interp>
+                     <interp inst="t17510417-65-person599" type="given" value="Noah"></interp>
+                     <interp inst="t17510417-65-person599" type="gender" value="male"></interp>
+                  </persName>
+            . Last Tuesday about noon going along <placeName id="t17510417-65-crimeloc310">Cornhill</placeName>
+                  <interp inst="t17510417-65-crimeloc310" type="placeName" value="Cornhill"></interp>
+                  <interp inst="t17510417-65-crimeloc310" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17510417-65-off308 t17510417-65-crimeloc310"></join>, I was told by a person that I had been followed by two men, and one of them had picked my pocket, and that he'd shew me the person that did it; when we came over against the Change he shewed me the man, I laid hold of the prisoner and his companion, and took them into a shop; while I was talking to the prisoner's companion, I turned my head and saw my handkerchief lie on the ground near the prisoner's foot. The handkerchief produced in court and deposed to. I never saw the person since, who saw them pick my pocket.</p>
+               <p>
+            
+                  <persName id="t17510417-65-person600">
+                  William Henry 
+                  Shoot 
+               <interp inst="t17510417-65-person600" type="surname" value="Shoot"></interp>
+                     <interp inst="t17510417-65-person600" type="given" value="William Henry"></interp>
+                     <interp inst="t17510417-65-person600" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Cornhill, the prisoner and another person were brought into my shop about 12 o'clock, April 16. I saw the prisoner drop this handkerchief from under his coat, I marked the handkerchief and knowing it again, I took it up and gave it to the prosecutor.</p>
+               <p>Prisoner's Defence.</p>
+               <p>There was a little boy taken when I was, he could give no account of himself, the handkerchief was taken up between us.</p>
+               <p>Prosecutor. The prisoner and the other boy went arm in arm together when I was first shewed them.</p>
+               <p>
+                  <rs id="t17510417-65-verdict311" type="verdictDescription">
+                     <interp inst="t17510417-65-verdict311" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17510417-65-punish312" type="punishmentDescription">
+                     <interp inst="t17510417-65-punish312" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17510417-65-defend596 t17510417-65-punish312"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

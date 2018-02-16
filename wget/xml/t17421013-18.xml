@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17421013-18">
+               <interp inst="t17421013-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17421013-18" type="year" value="1742"></interp>
+               <interp inst="t17421013-18" type="uri" value="sessionsPapers/17421013"></interp>
+               <interp inst="t17421013-18" type="date" value="17421013"></interp>
+               <join result="criminalCharge" id="t17421013-18-off92-c146" targOrder="Y" targets="t17421013-18-defend187 t17421013-18-off92 t17421013-18-verdict94"></join>
+         
+               <p>134. 
+               <persName id="t17421013-18-defend187" type="defendantName">
+                  William 
+                  Cavenagh 
+               <interp inst="t17421013-18-defend187" type="surname" value="Cavenagh"></interp>
+                     <interp inst="t17421013-18-defend187" type="given" value="William"></interp>
+                     <interp inst="t17421013-18-defend187" type="gender" value="male"></interp>
+                  </persName>
+             * was <rs id="t17421013-18-off92" type="offenceDescription">
+                     <interp inst="t17421013-18-off92" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17421013-18-off92" type="offenceSubcategory" value="grandLarceny"></interp>
+               indicted for stealing a Gold Ring, value 16 s.
+            </rs> the Property of 
+               
+                  <persName id="t17421013-18-victim189" type="victimName">
+                     Ann 
+                     Fielding 
+                  <interp inst="t17421013-18-victim189" type="surname" value="Fielding"></interp>
+                     <interp inst="t17421013-18-victim189" type="given" value="Ann"></interp>
+                     <interp inst="t17421013-18-victim189" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17421013-18-off92 t17421013-18-victim189"></join>
+                  </persName>
+                
+            , <rs id="t17421013-18-cd93" type="crimeDate">Oct. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17421013-18-off92 t17421013-18-cd93"></join>. <rs id="t17421013-18-verdict94" type="verdictDescription">
+                     <interp inst="t17421013-18-verdict94" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17421013-18-verdict94" type="verdictSubcategory" value="noProsecutor"></interp>
+               No Prosecutor appearing, he was acquitted
+            </rs>.</p>
+               <p>* He was an Accomplice with, and Evidence against Mat. Mooney, condemned last Sessions for a Robbery on the Highway. He is now detained for a Robbery in Surrey .</p>
+               <p>The Court ordered the Prosecutor's Recognizance to be estreated .</p>
+            </div1>

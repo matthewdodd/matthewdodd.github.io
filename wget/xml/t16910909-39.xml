@@ -1,3 +1,71 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910909-39">
+               <interp inst="t16910909-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910909-39" type="year" value="1691"></interp>
+               <interp inst="t16910909-39" type="uri" value="sessionsPapers/16910909"></interp>
+               <interp inst="t16910909-39" type="date" value="16910909"></interp>
+               <join result="criminalCharge" id="t16910909-39-off178-c119" targOrder="Y" targets="t16910909-39-defend119 t16910909-39-off178 t16910909-39-verdict181"></join>
+               <join result="criminalCharge" id="t16910909-39-off178-c120" targOrder="Y" targets="t16910909-39-defend120 t16910909-39-off178 t16910909-39-verdict181"></join>
+               <join result="criminalCharge" id="t16910909-39-off182-c119" targOrder="Y" targets="t16910909-39-defend119 t16910909-39-off182 t16910909-39-verdict181"></join>
+               <join result="criminalCharge" id="t16910909-39-off182-c120" targOrder="Y" targets="t16910909-39-defend120 t16910909-39-off182 t16910909-39-verdict181"></join>
+         
+               <p>
+            
+                  <persName id="t16910909-39-defend119" type="defendantName">
+                  John 
+                  Sparks
+               <interp inst="t16910909-39-defend119" type="surname" value="Sparks"></interp>
+                     <interp inst="t16910909-39-defend119" type="given" value="John"></interp>
+                     <interp inst="t16910909-39-defend119" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16910909-39-defend120" type="defendantName">
+                  Mary 
+                  Downing
+               <interp inst="t16910909-39-defend120" type="surname" value="Downing"></interp>
+                     <interp inst="t16910909-39-defend120" type="given" value="Mary"></interp>
+                     <interp inst="t16910909-39-defend120" type="gender" value="female"></interp>
+                  </persName>
+             were both Tryed for <rs id="t16910909-39-off178" type="offenceDescription">
+                     <interp inst="t16910909-39-off178" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-39-off178" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910909-39-victim121" type="victimName">
+                        Thomas 
+                        Parkinson
+                     <interp inst="t16910909-39-victim121" type="surname" value="Parkinson"></interp>
+                        <interp inst="t16910909-39-victim121" type="given" value="Thomas"></interp>
+                        <interp inst="t16910909-39-victim121" type="gender" value="male"></interp>
+                     </persName>
+                   in the <placeName id="t16910909-39-crimeloc179">Minories</placeName>
+                     <interp inst="t16910909-39-crimeloc179" type="placeName" value="Minories"></interp>
+                     <interp inst="t16910909-39-crimeloc179" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-39-off178 t16910909-39-crimeloc179"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-39-off182 t16910909-39-crimeloc179"></join> on the <rs id="t16910909-39-cd180" type="crimeDate">10th of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-39-off178 t16910909-39-cd180"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-39-off182 t16910909-39-cd180"></join> last, a pair of Curtains and Vallens, value 30s. a pair of Sheets, forty pound weight of Feathers, a Looking glass. &amp;c.
+            </rs> The Chamber was let to them by the Week, for two Shillings per Week, they came in on the Friday, and went away with the Goods on the Monday following; so the Court being divided in their Opinion, as to point of Law, the matter was left to a <rs id="t16910909-39-verdict181" type="verdictDescription">
+                     <interp inst="t16910909-39-verdict181" type="verdictCategory" value="specialVerdict"></interp>
+               Special Verdict, till further consideration, and they only found Guilty of taking the Goods
+            </rs>.</p>
+               <p>They were a second time Indicted for such another offence, in <rs id="t16910909-39-off182" type="offenceDescription">
+                     <interp inst="t16910909-39-off182" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-39-off182" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing 
+                     <persName id="t16910909-39-victim122" type="victimName">
+                        Lucy 
+                        Page
+                     <interp inst="t16910909-39-victim122" type="surname" value="Page"></interp>
+                        <interp inst="t16910909-39-victim122" type="given" value="Lucy"></interp>
+                        <interp inst="t16910909-39-victim122" type="gender" value="female"></interp>
+                     </persName>
+                  , of <placeName id="t16910909-39-crimeloc183">Whitechappel</placeName>
+                     <interp inst="t16910909-39-crimeloc183" type="placeName" value="Whitechappel"></interp>
+                     <interp inst="t16910909-39-crimeloc183" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-39-off178 t16910909-39-crimeloc183"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t16910909-39-off182 t16910909-39-crimeloc183"></join>, of a Ring, value 7s., two Feather Pillows and a Cubbord cloth, &amp;c.
+            </rs> They came in the same manner to Pages as they did to Parkinson, and hired a Room, and lived two or three days there, and then took away the Goods which were found upon them, it was likewise left to a <rs id="t16910909-39-verdict184" type="verdictDescription">
+                     <interp inst="t16910909-39-verdict184" type="verdictCategory" value="specialVerdict"></interp>
+               Special Verdict
+            </rs>.</p>
+            </div1>

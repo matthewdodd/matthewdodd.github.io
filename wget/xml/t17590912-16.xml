@@ -1,3 +1,107 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590912-16">
+               <interp inst="t17590912-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590912-16" type="year" value="1759"></interp>
+               <interp inst="t17590912-16" type="uri" value="sessionsPapers/17590912"></interp>
+               <interp inst="t17590912-16" type="date" value="17590912"></interp>
+               <join result="criminalCharge" id="t17590912-16-off101-c144" targOrder="Y" targets="t17590912-16-defend179 t17590912-16-off101 t17590912-16-verdict105"></join>
+         
+               <p>262. (M.) 
+               
+                  <persName id="t17590912-16-defend179" type="defendantName">
+                     John 
+                     Rice 
+                  <interp inst="t17590912-16-defend179" type="surname" value="Rice"></interp>
+                     <interp inst="t17590912-16-defend179" type="given" value="John"></interp>
+                     <interp inst="t17590912-16-defend179" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17590912-16-off101" type="offenceDescription">
+                     <interp inst="t17590912-16-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590912-16-off101" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing one Gelding, value 7 l.
+            </rs> the property of 
+               
+                  <persName id="t17590912-16-victim181" type="victimName">
+                     John 
+                     Martin 
+                  <interp inst="t17590912-16-victim181" type="surname" value="Martin"></interp>
+                     <interp inst="t17590912-16-victim181" type="given" value="John"></interp>
+                     <interp inst="t17590912-16-victim181" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590912-16-off101 t17590912-16-victim181"></join>
+                  </persName>
+                
+            , <rs id="t17590912-16-cd102" type="crimeDate">July 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590912-16-off101 t17590912-16-cd102"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17590912-16-person182">
+                  John 
+                  Martin 
+               <interp inst="t17590912-16-person182" type="surname" value="Martin"></interp>
+                     <interp inst="t17590912-16-person182" type="given" value="John"></interp>
+                     <interp inst="t17590912-16-person182" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the parish of <placeName id="t17590912-16-crimeloc103">Funtington, in Sussex</placeName>
+                  <interp inst="t17590912-16-crimeloc103" type="placeName" value="Funtington, in Sussex"></interp>
+                  <interp inst="t17590912-16-crimeloc103" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590912-16-off101 t17590912-16-crimeloc103"></join>, am a <rs id="t17590912-16-viclabel104" type="occupation">farmer</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590912-16-victim181 t17590912-16-viclabel104"></join>; I missed a black horse with two white legs behind, burnt with an N on the near buttock, and a star in his forehead. On the fifteenth of June, in the morning, I and my son took each a horse, and rode, and enquired for him, and stuck up bills at publick places, but could not hear of him. On the 23d of August I was informed he was at Isleworth; there I went and found him in the possession of Mr Farnell; I have him now.</p>
+               <p>
+            
+                  <persName id="t17590912-16-person183">
+                  John 
+                  Farnell 
+               <interp inst="t17590912-16-person183" type="surname" value="Farnell"></interp>
+                     <interp inst="t17590912-16-person183" type="given" value="John"></interp>
+                     <interp inst="t17590912-16-person183" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Isleworth; the prisoner at the bar brought this horse to me to sell, about the 11th or 12th of July last. I gave him 7 l. for him. I had him a week upon trial.</p>
+               <p>Court. Describe the horse.</p>
+               <p>Farnell. He had an N on his near hip, two white heels, and a star in his face. Afterwards<xptr type="pageFacsimile" doc="175909120020"></xptr> Mr. Martin came and described the horse, and swore to him as his property, and I delivered him to him.</p>
+               <p>
+            
+                  <persName id="t17590912-16-person184">
+                  Thomas 
+                  Taylor 
+               <interp inst="t17590912-16-person184" type="surname" value="Taylor"></interp>
+                     <interp inst="t17590912-16-person184" type="given" value="Thomas"></interp>
+                     <interp inst="t17590912-16-person184" type="gender" value="male"></interp>
+                  </persName>
+            . This black gelding has two white feet, an N on his hip, and a star in his forehead. The prisoner came on him to my house in Wandsworth on the 17th or 18th of July; he said, he bought this horse at Chichester; he said, he cost 6 l. You have got some grass; and said, if I would let him be with me, and could sell him for 7 l. what I made above that I should have for myself. I kept him about three weeks. Mr. Rice told me, that Mr. Brookes, at the Red-Lion at Hounslow, wanted to buy a horse, and desired to take him there; I did; there was the prisoner; and Mr Brookes and we could not agree; so I delivered him to the prisoner there in his gate-way.</p>
+               <p>Q. Have you seen him since?</p>
+               <p>Taylor. I saw him since at justice Birkhead's.</p>
+               <p>Q. In whose possession was he in?</p>
+               <p>Taylor. In the possession of Mr. Farnell.</p>
+               <p>Q. What became of him afterwards?</p>
+               <p>Taylor. That I do not know.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I bought this horse of one 
+               <persName id="t17590912-16-person185">
+                  William 
+                  Ling 
+               <interp inst="t17590912-16-person185" type="surname" value="Ling"></interp>
+                     <interp inst="t17590912-16-person185" type="given" value="William"></interp>
+                     <interp inst="t17590912-16-person185" type="gender" value="male"></interp>
+                  </persName>
+             at Westbourn. This is done out of spite against me, to draw me in, for what I did in the year 1747-8. in regard to the smuggling affair.</p>
+               <p>
+                  <rs id="t17590912-16-verdict105" type="verdictDescription">
+                     <interp inst="t17590912-16-verdict105" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17590912-16-punish106" type="punishmentDescription">
+                     <interp inst="t17590912-16-punish106" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590912-16-defend179 t17590912-16-punish106"></join>
+               Death
+            </rs>.</p>
+               <p>Other indictments were against him for stealing 12 other horses.</p>
+               <p>This is the same person that gave evidence by the name of Raise, against Kingsmill, Fairall, Perrin, Lillywhite, and Glover, for breaking the King's Custom-house at Pool, and stealing from thence 30 hundred weight of tea; see their trial in April Sessions-Paper, 1749, in the Mayoralty of Sir 
+               <persName id="t17590912-16-person186">
+                  William 
+                  Calvert 
+               <interp inst="t17590912-16-person186" type="surname" value="Calvert"></interp>
+                     <interp inst="t17590912-16-person186" type="given" value="William"></interp>
+                     <interp inst="t17590912-16-person186" type="gender" value="male"></interp>
+                  </persName>
+            , Knt. and likewise was admitted an evidence against divers persons at Chichester for the barbarous murder of Galley a Custom-house officer; and Chater, a shoemaker of Fording-bridge in the year 1748-9.</p>
+            </div1>

@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341204-6">
+               <interp inst="t17341204-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341204-6" type="year" value="1734"></interp>
+               <interp inst="t17341204-6" type="uri" value="sessionsPapers/17341204"></interp>
+               <interp inst="t17341204-6" type="date" value="17341204"></interp>
+               <join result="criminalCharge" id="t17341204-6-off37-c54" targOrder="Y" targets="t17341204-6-defend65 t17341204-6-off37 t17341204-6-verdict39"></join>
+         
+               <p>7. 
+               
+                  <persName id="t17341204-6-defend65" type="defendantName">
+                     Elizabeth 
+                     Prior 
+                  <interp inst="t17341204-6-defend65" type="surname" value="Prior"></interp>
+                     <interp inst="t17341204-6-defend65" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17341204-6-defend65" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17341204-6-deflabel35" type="occupation">Wife</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341204-6-defend65 t17341204-6-deflabel35"></join> of 
+               <persName id="t17341204-6-person66">
+                  James 
+                  Prior 
+               <interp inst="t17341204-6-person66" type="surname" value="Prior"></interp>
+                     <interp inst="t17341204-6-person66" type="given" value="James"></interp>
+                     <interp inst="t17341204-6-person66" type="gender" value="male"></interp>
+                  </persName>
+            , of <placeName id="t17341204-6-defloc36">St. Giles in the Fields</placeName>
+                  <interp inst="t17341204-6-defloc36" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17341204-6-defloc36" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17341204-6-defend65 t17341204-6-defloc36"></join>, was indicted for <rs id="t17341204-6-off37" type="offenceDescription">
+                     <interp inst="t17341204-6-off37" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17341204-6-off37" type="offenceSubcategory" value="other"></interp>
+               privately stealing 1 Rug, 2 Blankets, 1 Bolster, 1 Pillowbier, 1 Looking-Glass, and 2 Sheets
+            </rs>, the Goods of 
+               
+                  <persName id="t17341204-6-victim68" type="victimName">
+                     William 
+                     Salter 
+                  <interp inst="t17341204-6-victim68" type="surname" value="Salter"></interp>
+                     <interp inst="t17341204-6-victim68" type="given" value="William"></interp>
+                     <interp inst="t17341204-6-victim68" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17341204-6-off37 t17341204-6-victim68"></join>
+                  </persName>
+                
+            , <rs id="t17341204-6-cd38" type="crimeDate">Octob. 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341204-6-off37 t17341204-6-cd38"></join>.</p>
+               <p>William Salter. The Prisoner was my Lodger; she, and her Husband went away on the 14th of October, without giving me notice. When they had been gone 3 Days, I broke open the Door, and mist my Goods. I met with her again, and asked her what she had done with them; she said they were in pawn, but she would not tell me where.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="173412040006"></xptr>
+            
+                  <persName id="t17341204-6-person69">
+                  William 
+                  Smith 
+               <interp inst="t17341204-6-person69" type="surname" value="Smith"></interp>
+                     <interp inst="t17341204-6-person69" type="given" value="William"></interp>
+                     <interp inst="t17341204-6-person69" type="gender" value="male"></interp>
+                  </persName>
+            . I heard her own she had stolen them</p>
+               <p>Martha Williams. She owned to me that she had pawn'd them for 15 s. she was a very honest Woman before this happen'd.</p>
+               <p>The Felony appearing to be done with the Privity of her Husband, the Jury <rs id="t17341204-6-verdict39" type="verdictDescription">
+                     <interp inst="t17341204-6-verdict39" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> her.</p>
+            </div1>

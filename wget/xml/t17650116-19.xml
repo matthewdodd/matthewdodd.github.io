@@ -1,3 +1,243 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650116-19">
+               <interp inst="t17650116-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650116-19" type="year" value="1765"></interp>
+               <interp inst="t17650116-19" type="uri" value="sessionsPapers/17650116"></interp>
+               <interp inst="t17650116-19" type="date" value="17650116"></interp>
+               <join result="criminalCharge" id="t17650116-19-off100-c111" targOrder="Y" targets="t17650116-19-defend150 t17650116-19-off100 t17650116-19-verdict106"></join>
+               <join result="criminalCharge" id="t17650116-19-off102-c114" targOrder="Y" targets="t17650116-19-defend155 t17650116-19-off102 t17650116-19-verdict108"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="176501160012"></xptr>110, 111. (M.) 
+               
+                  <persName id="t17650116-19-defend150" type="defendantName">
+                     Thomas 
+                     Hockley 
+                  <interp inst="t17650116-19-defend150" type="surname" value="Hockley"></interp>
+                     <interp inst="t17650116-19-defend150" type="given" value="Thomas"></interp>
+                     <interp inst="t17650116-19-defend150" type="gender" value="male"></interp>
+                  </persName>
+                
+             was indicted for <rs id="t17650116-19-off100" type="offenceDescription">
+                     <interp inst="t17650116-19-off100" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650116-19-off100" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing (in company with 
+                     <persName id="t17650116-19-person151">
+                        Thomas 
+                        Ridstone 
+                     <interp inst="t17650116-19-person151" type="surname" value="Ridstone"></interp>
+                        <interp inst="t17650116-19-person151" type="given" value="Thomas"></interp>
+                        <interp inst="t17650116-19-person151" type="gender" value="male"></interp>
+                     </persName>
+                  , not taken) thirteen deal boards, value 26 s.
+            </rs> the property of 
+               
+                  <persName id="t17650116-19-victim153" type="victimName">
+                     Charles 
+                     Dingley 
+                  <interp inst="t17650116-19-victim153" type="surname" value="Dingley"></interp>
+                     <interp inst="t17650116-19-victim153" type="given" value="Charles"></interp>
+                     <interp inst="t17650116-19-victim153" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17650116-19-viclabel101" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650116-19-victim153 t17650116-19-viclabel101"></join>; and 
+               
+                  <persName id="t17650116-19-defend155" type="defendantName">
+                     William 
+                     Jeffrey 
+                  <interp inst="t17650116-19-defend155" type="surname" value="Jeffrey"></interp>
+                     <interp inst="t17650116-19-defend155" type="given" value="William"></interp>
+                     <interp inst="t17650116-19-defend155" type="gender" value="male"></interp>
+                  </persName>
+                
+             for <rs id="t17650116-19-off102" type="offenceDescription">
+                     <interp inst="t17650116-19-off102" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650116-19-off102" type="offenceSubcategory" value="receiving"></interp>
+               receiving the same, well knowing them to have been stolen
+            </rs>, <rs id="t17650116-19-cd103" type="crimeDate">December 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650116-19-off100 t17650116-19-cd103"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650116-19-off102 t17650116-19-cd103"></join>. +</p>
+               <p>
+            
+                  <persName id="t17650116-19-person156">
+                  Joseph 
+                  Osboldiston 
+               <interp inst="t17650116-19-person156" type="surname" value="Osboldiston"></interp>
+                     <interp inst="t17650116-19-person156" type="given" value="Joseph"></interp>
+                     <interp inst="t17650116-19-person156" type="gender" value="male"></interp>
+                  </persName>
+            . I am foreman to 
+               <persName id="t17650116-19-person157">
+                  Charles 
+                  Dingley 
+               <interp inst="t17650116-19-person157" type="surname" value="Dingley"></interp>
+                     <interp inst="t17650116-19-person157" type="given" value="Charles"></interp>
+                     <interp inst="t17650116-19-person157" type="gender" value="male"></interp>
+                  </persName>
+            , Esq; he lives in Lothbury: I am at <placeName id="t17650116-19-crimeloc104">Limehouse</placeName>
+                  <interp inst="t17650116-19-crimeloc104" type="placeName" value="Limehouse"></interp>
+                  <interp inst="t17650116-19-crimeloc104" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17650116-19-off100 t17650116-19-crimeloc104"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17650116-19-off102 t17650116-19-crimeloc104"></join>, where the deals were taken from.</p>
+               <p>Q. What is Mr. Dingley?</p>
+               <p>Osboldeston. He is a <rs id="t17650116-19-viclabel105" type="occupation">merchant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17650116-19-victim153 t17650116-19-viclabel105"></join>; the deals were brought in the barges, and delivered into my care: I was very particular in marking them: I chalked them all a-cross the boards: there were three barges of them; there were thirteen deal boards missing.</p>
+               <p>Q. What was the value of them?</p>
+               <p>Osboldeston. They were worth 28 s. as we sell them out of the yard.</p>
+               <p>Q. Do you know who took them?</p>
+               <p>Osboldeston. I was upon some timber, and saw two men, Hockley was one of them, bring them from the barge, in a boat; but I could not pursue: we took Hockley up, and he confess'd he had sold them to Jeffrey: I went and found them in Jeffrey's yard, with my chalk-marks upon them; I told Jeffrey they were Mr. Dingley's property, and took him before Justice Berry: he said he bought them for fifteen shillings and a pot of hot, of 
+               <persName id="t17650116-19-person158">
+                  Thomas 
+                  Hockley 
+               <interp inst="t17650116-19-person158" type="surname" value="Hockley"></interp>
+                     <interp inst="t17650116-19-person158" type="given" value="Thomas"></interp>
+                     <interp inst="t17650116-19-person158" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17650116-19-person159">
+                  Thomas 
+                  Ridstone 
+               <interp inst="t17650116-19-person159" type="surname" value="Ridstone"></interp>
+                     <interp inst="t17650116-19-person159" type="given" value="Thomas"></interp>
+                     <interp inst="t17650116-19-person159" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17650116-19-person160">
+                  William 
+                  Boswell 
+               <interp inst="t17650116-19-person160" type="surname" value="Boswell"></interp>
+                     <interp inst="t17650116-19-person160" type="given" value="William"></interp>
+                     <interp inst="t17650116-19-person160" type="gender" value="male"></interp>
+                  </persName>
+            . I heard Hockley confess, before Justice Berry, that he took the deals from the lighter, and carried them to 
+               <persName id="t17650116-19-person161">
+                  Jeffrey
+               <interp inst="t17650116-19-person161" type="given" value="Jeffrey"></interp>
+                     <interp inst="t17650116-19-person161" type="gender" value="male"></interp>
+                  </persName>
+             the sawyer, and sold them for fifteen shillings.</p>
+               <p>Q. Where did he say the lighter lay?</p>
+               <p>Boswell. He said it lay just by Limehouse-bridge.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person162">
+                  John 
+                  Matthews 
+               <interp inst="t17650116-19-person162" type="surname" value="Matthews"></interp>
+                     <interp inst="t17650116-19-person162" type="given" value="John"></interp>
+                     <interp inst="t17650116-19-person162" type="gender" value="male"></interp>
+                  </persName>
+            . My master and I were making the timber fast: I saw Hockley and Ridstone come from the lighter: I took hold of their boat, and held up my candle and lanthorn; and I knew them very well: they carried away twelve or thirteen deals.</p>
+               <p>Hockley's Defence.</p>
+               <p>I was standing at my master's door; the man came and said, Tom, I want you; I'll give you something to drink, if you will lend me a hand with the boat; he said, he had bought some deals: the tide ran very strong: when we came to Lime-house-bridge, he said he would go and see if Mr. Jeffrey would get them sawed; when we were there we had a pot or two of slip: after that he asked Mr. Jeffrey to buy them, and he sold them to him for half a guinea.</p>
+               <p>For Hockley.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person163">
+                  Henry 
+                  Gardner 
+               <interp inst="t17650116-19-person163" type="surname" value="Gardner"></interp>
+                     <interp inst="t17650116-19-person163" type="given" value="Henry"></interp>
+                     <interp inst="t17650116-19-person163" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Hockley from a child; he has a very good character: I have employed him some years, and never heard he did any thing bad.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person164">
+                  William 
+                  Barsey 
+               <interp inst="t17650116-19-person164" type="surname" value="Barsey"></interp>
+                     <interp inst="t17650116-19-person164" type="given" value="William"></interp>
+                     <interp inst="t17650116-19-person164" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him some time, he has a general good character.</p>
+               <p>For Jeffrey.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person165">
+                  Thomas 
+                  Eades 
+               <interp inst="t17650116-19-person165" type="surname" value="Eades"></interp>
+                     <interp inst="t17650116-19-person165" type="given" value="Thomas"></interp>
+                     <interp inst="t17650116-19-person165" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Jeffrey about ten years; I never heard but that he was a very honest worthy man.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person166">
+                  Samuel 
+                  Dickenson 
+               <interp inst="t17650116-19-person166" type="surname" value="Dickenson"></interp>
+                     <interp inst="t17650116-19-person166" type="given" value="Samuel"></interp>
+                     <interp inst="t17650116-19-person166" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him seven or eight years, and have employed him as a sawyer; he always behaved as an honest man.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person167">
+                  William 
+                  Rogers 
+               <interp inst="t17650116-19-person167" type="surname" value="Rogers"></interp>
+                     <interp inst="t17650116-19-person167" type="given" value="William"></interp>
+                     <interp inst="t17650116-19-person167" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him upwards of twenty years; I never heard the least blemish in his character: I deal for 5 or 600 l. a year for deals: I would not have given above a guinea for the thirteen deals.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person168">
+                  James 
+                  Jones 
+               <interp inst="t17650116-19-person168" type="surname" value="Jones"></interp>
+                     <interp inst="t17650116-19-person168" type="given" value="James"></interp>
+                     <interp inst="t17650116-19-person168" type="gender" value="male"></interp>
+                  </persName>
+            . I never knew Jeffrey before I was fetched to value the goods laid to his charge; there were thirteen of them; I would not have given above a guinea for them, had I bought them out of the yard; there were six single, and six double, and one three inch deal. The intrinsic value of them was not above 3 s. more than he gave for them: they were very coarse sappy stuff.</p>
+               <p>Q. What are you?</p>
+               <p>Jones. I am a carpenter.</p>
+               <p>Q. Is it usual to buy deals by candle-light?</p>
+               <p>Jones. No, it is not.</p>
+               <p>Q. If a couple of young fellows were to come to you in such a manner, would you have bought them?</p>
+               <p>Jones. No, I would not.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person169">
+                  John 
+                  Durham 
+               <interp inst="t17650116-19-person169" type="surname" value="Durham"></interp>
+                     <interp inst="t17650116-19-person169" type="given" value="John"></interp>
+                     <interp inst="t17650116-19-person169" type="gender" value="male"></interp>
+                  </persName>
+            . I have employed Mr. 
+               <persName id="t17650116-19-person170">
+                  Jeffrey
+               <interp inst="t17650116-19-person170" type="given" value="Jeffrey"></interp>
+                     <interp inst="t17650116-19-person170" type="gender" value="male"></interp>
+                  </persName>
+             a good many years, and never found him to wrong me; I have trusted him with hundreds of pounds.</p>
+               <p>For the Prosecution.</p>
+               <p>
+            
+                  <persName id="t17650116-19-person171">
+                  Robert 
+                  Blyth 
+               <interp inst="t17650116-19-person171" type="surname" value="Blyth"></interp>
+                     <interp inst="t17650116-19-person171" type="given" value="Robert"></interp>
+                     <interp inst="t17650116-19-person171" type="gender" value="male"></interp>
+                  </persName>
+            . I was apply'd to by Mr. Dingley's clerk, to set a price on the thirteen deals that lay in the yard, which I was told were the same that were found in Mr. Jeffrey's yard. According to the price he sells deals to me, they came to 1 l. 8 s. 3 d. according to the best of my judgement.</p>
+               <p>Hockley, <rs id="t17650116-19-verdict106" type="verdictDescription">
+                     <interp inst="t17650116-19-verdict106" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17650116-19-punish107" type="punishmentDescription">
+                     <interp inst="t17650116-19-punish107" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650116-19-defend150 t17650116-19-punish107"></join>
+               T
+            </rs>.</p>
+               <p>Jeffrey, <rs id="t17650116-19-verdict108" type="verdictDescription">
+                     <interp inst="t17650116-19-verdict108" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

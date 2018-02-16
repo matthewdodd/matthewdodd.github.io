@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650918-75">
+               <interp inst="t17650918-75" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650918-75" type="year" value="1765"></interp>
+               <interp inst="t17650918-75" type="uri" value="sessionsPapers/17650918"></interp>
+               <interp inst="t17650918-75" type="date" value="17650918"></interp>
+               <join result="criminalCharge" id="t17650918-75-off407-c687" targOrder="Y" targets="t17650918-75-defend837 t17650918-75-off407 t17650918-75-verdict410"></join>
+               <join result="criminalCharge" id="t17650918-75-off407-c688" targOrder="Y" targets="t17650918-75-defend839 t17650918-75-off407 t17650918-75-verdict409"></join>
+         
+               <p>459, 460. (L.) 
+               <persName id="t17650918-75-defend837" type="defendantName">
+                  
+                        
+                           <persName id="t17650918-75-defend839" type="defendantName">
+                              John 
+                              Northfield 
+                           <interp inst="t17650918-75-defend839" type="surname" value="Northfield"></interp>
+                        <interp inst="t17650918-75-defend839" type="given" value="John"></interp>
+                        <interp inst="t17650918-75-defend839" type="gender" value="male"></interp>
+                     </persName>
+                         
+                      and Mary
+                   his 
+                  <rs id="t17650918-75-deflabel406" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17650918-75-defend837 t17650918-75-deflabel406"></join>
+                     <interp inst="t17650918-75-defend837" type="surname" value="Northfield"></interp>
+                     <interp inst="t17650918-75-defend837" type="given" value="Mary"></interp>
+                     <interp inst="t17650918-75-defend837" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17650918-75-off407" type="offenceDescription">
+                     <interp inst="t17650918-75-off407" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650918-75-off407" type="offenceSubcategory" value="receiving"></interp>
+               receiving a yard and three quarters of lawn, and four worsted stockings, well knowing them to have been stolen by 
+                     <persName id="t17650918-75-person840">
+                        Richard 
+                        Gammon 
+                     <interp inst="t17650918-75-person840" type="surname" value="Gammon"></interp>
+                        <interp inst="t17650918-75-person840" type="given" value="Richard"></interp>
+                        <interp inst="t17650918-75-person840" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs>, the property of 
+               
+                  <persName id="t17650918-75-victim842" type="victimName">
+                     Robert 
+                     Short 
+                  <interp inst="t17650918-75-victim842" type="surname" value="Short"></interp>
+                     <interp inst="t17650918-75-victim842" type="given" value="Robert"></interp>
+                     <interp inst="t17650918-75-victim842" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17650918-75-off407 t17650918-75-victim842"></join>
+                  </persName>
+                
+            , <rs id="t17650918-75-cd408" type="crimeDate">April 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650918-75-off407 t17650918-75-cd408"></join>. ++</p>
+               <p>For want of room here, the reader is referred to the trial of Gammon, No. 309, in this mayoralty: the prisoner there goes by the name of Norfolk.</p>
+               <p>John <rs id="t17650918-75-verdict409" type="verdictDescription">
+                     <interp inst="t17650918-75-verdict409" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>Mary <rs id="t17650918-75-verdict410" type="verdictDescription">
+                     <interp inst="t17650918-75-verdict410" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17650918-75-punish411" type="punishmentDescription">
+                     <interp inst="t17650918-75-punish411" type="punishmentCategory" value="noPunish"></interp>
+                     <interp inst="t17650918-75-punish411" type="punishmentSubcategory" value="sentenceRespited"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17650918-75-defend837 t17650918-75-punish411"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

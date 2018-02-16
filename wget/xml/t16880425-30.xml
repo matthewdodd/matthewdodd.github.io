@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880425-30">
+               <interp inst="t16880425-30" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880425-30" type="year" value="1688"></interp>
+               <interp inst="t16880425-30" type="uri" value="sessionsPapers/16880425"></interp>
+               <interp inst="t16880425-30" type="date" value="16880425"></interp>
+               <join result="criminalCharge" id="t16880425-30-off151-c104" targOrder="Y" targets="t16880425-30-defend156 t16880425-30-off151 t16880425-30-verdict153"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880425-30-defend156" type="defendantName">
+                     Thomas 
+                     Birch
+                  <interp inst="t16880425-30-defend156" type="surname" value="Birch"></interp>
+                     <interp inst="t16880425-30-defend156" type="given" value="Thomas"></interp>
+                     <interp inst="t16880425-30-defend156" type="gender" value="male"></interp>
+                  </persName>
+               
+             of <placeName id="t16880425-30-defloc150">St. Andrews Holborn</placeName>
+                  <interp inst="t16880425-30-defloc150" type="placeName" value="St. Andrews Holborn"></interp>
+                  <interp inst="t16880425-30-defloc150" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16880425-30-defend156 t16880425-30-defloc150"></join>, was Indicted for <rs id="t16880425-30-off151" type="offenceDescription">
+                     <interp inst="t16880425-30-off151" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880425-30-off151" type="offenceSubcategory" value="murder"></interp>
+               killing of 
+                     
+                        <persName id="t16880425-30-victim158" type="victimName">
+                           Edward 
+                           Bunny
+                        <interp inst="t16880425-30-victim158" type="surname" value="Bunny"></interp>
+                        <interp inst="t16880425-30-victim158" type="given" value="Edward"></interp>
+                        <interp inst="t16880425-30-victim158" type="gender" value="male"></interp>
+                     </persName>
+                     
+                   and 
+                     
+                        <persName id="t16880425-30-victim160" type="victimName">
+                           Samuel 
+                           Wilson
+                        <interp inst="t16880425-30-victim160" type="surname" value="Wilson"></interp>
+                        <interp inst="t16880425-30-victim160" type="given" value="Samuel"></interp>
+                        <interp inst="t16880425-30-victim160" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  
+               
+                  </rs> on the <rs id="t16880425-30-cd152" type="crimeDate">4th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16880425-30-off151 t16880425-30-cd152"></join>. The Witnesses were positive upon him, that the Boys of the 2 Parishes of St. Andrews-Holborn and Clarkenwel, meeting upon the bounds of the Parishes, and opposing one another as they use to do with Sticks, he bid those of St. Andrews-Holborn goon, and he would stand by them, upon which he cockt his Piece and fired among them, upon a Level, killing the 2 Persons Deceased with one Bullet, shooting one under the left Brest, and the other by the side of the Navel standing behind one another; he was brought in <rs id="t16880425-30-verdict153" type="verdictDescription">
+                     <interp inst="t16880425-30-verdict153" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Murther.</p>
+               <p>
+                  <rs id="t16880425-30-punish154" type="punishmentDescription">
+                     <interp inst="t16880425-30-punish154" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880425-30-defend156 t16880425-30-punish154"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

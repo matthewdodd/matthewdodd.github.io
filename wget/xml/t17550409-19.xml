@@ -1,3 +1,90 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550409-19">
+               <interp inst="t17550409-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550409-19" type="year" value="1755"></interp>
+               <interp inst="t17550409-19" type="uri" value="sessionsPapers/17550409"></interp>
+               <interp inst="t17550409-19" type="date" value="17550409"></interp>
+               <join result="criminalCharge" id="t17550409-19-off100-c132" targOrder="Y" targets="t17550409-19-defend157 t17550409-19-off100 t17550409-19-verdict105"></join>
+         
+               <p>171. (M.) 
+               <persName id="t17550409-19-defend157" type="defendantName">
+                     <interp inst="t17550409-19-defend157" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17550409-19-off100" type="offenceDescription">
+                     <interp inst="t17550409-19-off100" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550409-19-off100" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one hat, value 2 s. one penwig, value 5 s. and one handkerchief, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17550409-19-victim159" type="victimName">
+                     John 
+                     Wright 
+                  <interp inst="t17550409-19-victim159" type="surname" value="Wright"></interp>
+                     <interp inst="t17550409-19-victim159" type="given" value="John"></interp>
+                     <interp inst="t17550409-19-victim159" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17550409-19-off100 t17550409-19-victim159"></join>
+                  </persName>
+                
+             
+                  <rs id="t17550409-19-viclabel101" type="occupation">the younger</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550409-19-victim159 t17550409-19-viclabel101"></join>, <rs id="t17550409-19-cd102" type="crimeDate">Jan. 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550409-19-off100 t17550409-19-cd102"></join>. +</p>
+               <p>
+            
+                  <persName id="t17550409-19-person160">
+                  John 
+                  Wright 
+               <interp inst="t17550409-19-person160" type="surname" value="Wright"></interp>
+                     <interp inst="t17550409-19-person160" type="given" value="John"></interp>
+                     <interp inst="t17550409-19-person160" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner two years and a half; he is an <rs id="t17550409-19-deflabel103" type="occupation">apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17550409-19-defend157 t17550409-19-deflabel103"></join> of my father's, he is a founder on <placeName id="t17550409-19-crimeloc104">Clerkenwel-green</placeName>
+                  <interp inst="t17550409-19-crimeloc104" type="placeName" value="Clerkenwel-green"></interp>
+                  <interp inst="t17550409-19-crimeloc104" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17550409-19-off100 t17550409-19-crimeloc104"></join>; on the 21st day of January we were at work in the shop, he said he would go down to the value, he went down and said; I went to look for him, he was gone away, and put on his own cloaths, and my hat and wig, and a silk handkerchief from out of my coat-pocket. I missed them in less than half an hour's time. I went to his sister at Billingsgate, and told her he was gone away, and desired if he came there to stop him. About six weeks after this, his sister sent word she had stopped him. I went there, he had my wig and hat on his head, and he owned he sold my handkerchief for six-pence.</p>
+               <p>
+            
+                  <persName id="t17550409-19-person161">
+                  Henry 
+                  Clements 
+               <interp inst="t17550409-19-person161" type="surname" value="Clements"></interp>
+                     <interp inst="t17550409-19-person161" type="given" value="Henry"></interp>
+                     <interp inst="t17550409-19-person161" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable. I was charged with the prisoner. (He produced the hat and wig.)</p>
+               <p>Q. to Wright. Are they your property?</p>
+               <p>Wright. They are.</p>
+               <p>Q. What are all the things worth?</p>
+               <p>Wright. They are worth nine shillings.</p>
+               <p>
+            
+                  <persName id="t17550409-19-person162">
+                  John 
+                  Wright 
+               <interp inst="t17550409-19-person162" type="surname" value="Wright"></interp>
+                     <interp inst="t17550409-19-person162" type="given" value="John"></interp>
+                     <interp inst="t17550409-19-person162" type="gender" value="male"></interp>
+                  </persName>
+             the elder. I am father to the first witness; the prisoner was my apprentice; after<xptr type="pageFacsimile" doc="175504090015"></xptr> he had been away six weeks his sister sent me word where he was; I went and found him there.</p>
+               <p>Q. Do you know any thing of his taking the hat and wig?</p>
+               <p>J. Wright. No, I do not; I really think they are my son's. I heard him say he had sold the handkerchief.</p>
+               <p>The prisoner had nothing to say in his defence.</p>
+               <p>
+                  <rs id="t17550409-19-verdict105" type="verdictDescription">
+                     <interp inst="t17550409-19-verdict105" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17550409-19-verdict105" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17550409-19-punish106" type="punishmentDescription">
+                     <interp inst="t17550409-19-punish106" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17550409-19-punish106" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17550409-19-defend157 t17550409-19-punish106"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

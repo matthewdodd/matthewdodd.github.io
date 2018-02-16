@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871012-22">
+               <interp inst="t16871012-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871012-22" type="year" value="1687"></interp>
+               <interp inst="t16871012-22" type="uri" value="sessionsPapers/16871012"></interp>
+               <interp inst="t16871012-22" type="date" value="16871012"></interp>
+               <join result="criminalCharge" id="t16871012-22-off120-c81" targOrder="Y" targets="t16871012-22-defend121 t16871012-22-off120 t16871012-22-verdict121"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16871012-22-defend121" type="defendantName">
+                     William 
+                     Gardener
+                  <interp inst="t16871012-22-defend121" type="surname" value="Gardener"></interp>
+                     <interp inst="t16871012-22-defend121" type="given" value="William"></interp>
+                     <interp inst="t16871012-22-defend121" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16871012-22-off120" type="offenceDescription">
+                     <interp inst="t16871012-22-off120" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t16871012-22-off120" type="offenceSubcategory" value="coiningOffences"></interp>
+               uttering false Mony knowingly, which was made of Brass and other counterfeit Mixtures
+            </rs>; against whom it appeared that he had often done it, and to make it more current or passible, rubed and and wash'd it, and he having nothing material to offer in his own behalf, the Jury found him <rs id="t16871012-22-verdict121" type="verdictDescription">
+                     <interp inst="t16871012-22-verdict121" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Trespass.</p>
+               <p>
+                  <rs id="t16871012-22-punish122" type="punishmentDescription">
+                     <interp inst="t16871012-22-punish122" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16871012-22-punish122" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871012-22-defend121 t16871012-22-punish122"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16871012-22-punish123" type="punishmentDescription">
+                     <interp inst="t16871012-22-punish123" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16871012-22-punish123" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871012-22-defend121 t16871012-22-punish123"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

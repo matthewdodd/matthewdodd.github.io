@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901015-33">
+               <interp inst="t16901015-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901015-33" type="year" value="1690"></interp>
+               <interp inst="t16901015-33" type="uri" value="sessionsPapers/16901015"></interp>
+               <interp inst="t16901015-33" type="date" value="16901015"></interp>
+               <join result="criminalCharge" id="t16901015-33-off146-c103" targOrder="Y" targets="t16901015-33-defend159 t16901015-33-off146 t16901015-33-verdict148"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16901015-33-defend159" type="defendantName">
+                     Susannah 
+                     Stanley
+                  <interp inst="t16901015-33-defend159" type="surname" value="Stanley"></interp>
+                     <interp inst="t16901015-33-defend159" type="given" value="Susannah"></interp>
+                     <interp inst="t16901015-33-defend159" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t16901015-33-off146" type="offenceDescription">
+                     <interp inst="t16901015-33-off146" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901015-33-off146" type="offenceSubcategory" value="pocketpicking"></interp>
+               Picking the Pocket or privily stealing from 
+                     
+                        <persName id="t16901015-33-victim161" type="victimName">
+                           Thomas 
+                           Oliver
+                        <interp inst="t16901015-33-victim161" type="surname" value="Oliver"></interp>
+                        <interp inst="t16901015-33-victim161" type="given" value="Thomas"></interp>
+                        <interp inst="t16901015-33-victim161" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16901015-33-off146 t16901015-33-victim161"></join>
+                     </persName>
+                     
+                   2 s. 6 d. in Mony
+            </rs>, on the 3 d instant, &amp;c. Oliver said, That she met him on <placeName id="t16901015-33-crimeloc147">Tower-Hill</placeName>
+                  <interp inst="t16901015-33-crimeloc147" type="placeName" value="Tower-Hill"></interp>
+                  <interp inst="t16901015-33-crimeloc147" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901015-33-off146 t16901015-33-crimeloc147"></join> and ask'd him to drink, he refusing it she pick'd his Pocket, but none of the Mony was found about her. The Prisoner denyed it, and said that she was Innocent, and the Court thought the Old Man might mistake the Person. She was <rs id="t16901015-33-verdict148" type="verdictDescription">
+                     <interp inst="t16901015-33-verdict148" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

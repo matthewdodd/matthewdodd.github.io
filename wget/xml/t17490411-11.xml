@@ -1,3 +1,84 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490411-11">
+               <interp inst="t17490411-11" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490411-11" type="year" value="1749"></interp>
+               <interp inst="t17490411-11" type="uri" value="sessionsPapers/17490411"></interp>
+               <interp inst="t17490411-11" type="date" value="17490411"></interp>
+               <join result="criminalCharge" id="t17490411-11-off48-c72" targOrder="Y" targets="t17490411-11-defend91 t17490411-11-off48 t17490411-11-verdict51"></join>
+         
+               <note type="special">[Note: this edition of the Proceedings was misdated on the original title page. The correct dates for this meeting of the court are MAY 11, 12 and 13, 1749.]</note>
+               <p>330. 
+               
+                  <persName id="t17490411-11-defend91" type="defendantName">
+                     William 
+                     Pope 
+                  <interp inst="t17490411-11-defend91" type="surname" value="Pope"></interp>
+                     <interp inst="t17490411-11-defend91" type="given" value="William"></interp>
+                     <interp inst="t17490411-11-defend91" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17490411-11-off48" type="offenceDescription">
+                     <interp inst="t17490411-11-off48" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490411-11-off48" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 30 yards of flanel, value 30 s. 100 yards of muslin, val. 8 l.
+            </rs> the goods of 
+               
+                  <persName id="t17490411-11-victim93" type="victimName">
+                     John 
+                     Hopley 
+                  <interp inst="t17490411-11-victim93" type="surname" value="Hopley"></interp>
+                     <interp inst="t17490411-11-victim93" type="given" value="John"></interp>
+                     <interp inst="t17490411-11-victim93" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490411-11-off48 t17490411-11-victim93"></join>
+                  </persName>
+                
+             and others, <rs id="t17490411-11-cd49" type="crimeDate">May the 3 d</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490411-11-off48 t17490411-11-cd49"></join>.</p>
+               <p>
+            
+                  <persName id="t17490411-11-person94">
+                  John 
+                  Hopley 
+               <interp inst="t17490411-11-person94" type="surname" value="Hopley"></interp>
+                     <interp inst="t17490411-11-person94" type="given" value="John"></interp>
+                     <interp inst="t17490411-11-person94" type="gender" value="male"></interp>
+                  </persName>
+             . I am a <rs id="t17490411-11-viclabel50" type="occupation">hosier, and deal in most sorts of woolen goods</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490411-11-victim93 t17490411-11-viclabel50"></join>; this parcel of goods was directed to me, coming by the Rochester-coach, I receiv'd a letter of their coming, but the night they came to the inn I had word brought me by the porter of the inn that they were stolen.</p>
+               <p>
+            
+                  <persName id="t17490411-11-person95">
+                  Richard 
+                  Stradwick 
+               <interp inst="t17490411-11-person95" type="surname" value="Stradwick"></interp>
+                     <interp inst="t17490411-11-person95" type="given" value="Richard"></interp>
+                     <interp inst="t17490411-11-person95" type="gender" value="male"></interp>
+                  </persName>
+            . I am the Rochester coachman, I did not come with the coach that day, but I was then at the Spread-eagle in Grace-church-street , and help'd down with the goods.</p>
+               <p>
+            
+                  <persName id="t17490411-11-person96">
+                  Mary 
+                  Medcalf 
+               <interp inst="t17490411-11-person96" type="surname" value="Medcalf"></interp>
+                     <interp inst="t17490411-11-person96" type="given" value="Mary"></interp>
+                     <interp inst="t17490411-11-person96" type="gender" value="female"></interp>
+                  </persName>
+             . My husband is a porter and bookkeeper. On Wednesday-night the 3d of May these goods came in to Mr. Hopley and Company, Hs, by the coach, while I was stooping to read another direction, this parcel was lying part in the warehouse, and part out; I saw the prisoner at the bar take the parcel by one corner I was surpriz'd, and follow'd him, but had not power to call out for help; he drag'd it about twenty yards ; at last I cry'd out , stop thief! and some persons there seized him.</p>
+               <p>Prisoner's Defence. I was going to do my occasions in the yard, this parcel stood up on one end, and fell down, and she call'd out, thives directly, and they came and took hold of me.</p>
+               <p>
+                  <rs id="t17490411-11-verdict51" type="verdictDescription">
+                     <interp inst="t17490411-11-verdict51" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17490411-11-verdict51" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39s
+            </rs>.</p>
+               <p>
+                  <rs id="t17490411-11-punish52" type="punishmentDescription">
+                     <interp inst="t17490411-11-punish52" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490411-11-defend91 t17490411-11-punish52"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

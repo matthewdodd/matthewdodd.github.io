@@ -1,3 +1,74 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-45">
+               <interp inst="t16870223-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-45" type="year" value="1687"></interp>
+               <interp inst="t16870223-45" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-45" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-45-off211-c155" targOrder="Y" targets="t16870223-45-defend234 t16870223-45-off211 t16870223-45-verdict214"></join>
+               <join result="criminalCharge" id="t16870223-45-off211-c156" targOrder="Y" targets="t16870223-45-defend235 t16870223-45-off211 t16870223-45-verdict214"></join>
+               <join result="criminalCharge" id="t16870223-45-off211-c157" targOrder="Y" targets="t16870223-45-defend237 t16870223-45-off211 t16870223-45-verdict214"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870223-45-defend234" type="defendantName">
+                     Richard 
+                     Edwards
+                  <interp inst="t16870223-45-defend234" type="surname" value="Edwards"></interp>
+                     <interp inst="t16870223-45-defend234" type="given" value="Richard"></interp>
+                     <interp inst="t16870223-45-defend234" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               <persName id="t16870223-45-defend235" type="defendantName">
+                  William 
+                  Donn
+               <interp inst="t16870223-45-defend235" type="surname" value="Donn"></interp>
+                     <interp inst="t16870223-45-defend235" type="given" value="William"></interp>
+                     <interp inst="t16870223-45-defend235" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t16870223-45-defend237" type="defendantName">
+                     William 
+                     Banister
+                  <interp inst="t16870223-45-defend237" type="surname" value="Banister"></interp>
+                     <interp inst="t16870223-45-defend237" type="given" value="William"></interp>
+                     <interp inst="t16870223-45-defend237" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Tryed for <rs id="t16870223-45-off211" type="offenceDescription">
+                     <interp inst="t16870223-45-off211" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-45-off211" type="offenceSubcategory" value="burglary"></interp>
+               stealing wearing Apparrel, as Gowns, Pettycoates, Gold and Silver Lace, to the value of 10 l. from 
+                     <persName id="t16870223-45-victim238" type="victimName">
+                        Ellenor 
+                        Johnson
+                     <interp inst="t16870223-45-victim238" type="surname" value="Johnson"></interp>
+                        <interp inst="t16870223-45-victim238" type="given" value="Ellenor"></interp>
+                        <interp inst="t16870223-45-victim238" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870223-45-off211 t16870223-45-victim238"></join>
+                     </persName>
+                  , of <placeName id="t16870223-45-crimeloc212">St. Martins in the Fields</placeName>
+                     <interp inst="t16870223-45-crimeloc212" type="placeName" value="St. Martins in the Fields"></interp>
+                     <interp inst="t16870223-45-crimeloc212" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870223-45-off211 t16870223-45-crimeloc212"></join>, the <rs id="t16870223-45-cd213" type="crimeDate">22d. of January</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-45-off211 t16870223-45-cd213"></join>, by forcing, or otherwise opening the Lock, in the Night time
+            </rs>: and upon Tryal it appearing they had sold the Goods to a Spaniard in St. Giles's, and each of them received their Dividend of Mony, they were found <rs id="t16870223-45-verdict214" type="verdictDescription">
+                     <interp inst="t16870223-45-verdict214" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870223-45-verdict214" type="verdictSubcategory" value="lesserOffence"></interp>
+               Guilty of the Felony but not of the Burglary
+            </rs>.</p>
+               <p>
+                  <rs id="t16870223-45-punish215" type="punishmentDescription">
+                     <interp inst="t16870223-45-punish215" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870223-45-punish215" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-45-defend234 t16870223-45-punish215"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-45-defend235 t16870223-45-punish215"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-45-defend237 t16870223-45-punish215"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

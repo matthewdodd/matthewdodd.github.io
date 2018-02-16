@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350416-19">
+               <interp inst="t17350416-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350416-19" type="year" value="1735"></interp>
+               <interp inst="t17350416-19" type="uri" value="sessionsPapers/17350416"></interp>
+               <interp inst="t17350416-19" type="date" value="17350416"></interp>
+               <join result="criminalCharge" id="t17350416-19-off80-c79" targOrder="Y" targets="t17350416-19-defend116 t17350416-19-off80 t17350416-19-verdict82"></join>
+         
+               <p>19. 
+               
+                  <persName id="t17350416-19-defend116" type="defendantName">
+                     Mary 
+                     Johnson 
+                  <interp inst="t17350416-19-defend116" type="surname" value="Johnson"></interp>
+                     <interp inst="t17350416-19-defend116" type="given" value="Mary"></interp>
+                     <interp inst="t17350416-19-defend116" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350416-19-off80" type="offenceDescription">
+                     <interp inst="t17350416-19-off80" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350416-19-off80" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing eight Shillings
+            </rs>, the Money of 
+               
+                  <persName id="t17350416-19-victim118" type="victimName">
+                     Elizabeth 
+                     Speed 
+                  <interp inst="t17350416-19-victim118" type="surname" value="Speed"></interp>
+                     <interp inst="t17350416-19-victim118" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17350416-19-victim118" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17350416-19-off80 t17350416-19-victim118"></join>
+                  </persName>
+                
+            , <rs id="t17350416-19-cd81" type="crimeDate">April 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350416-19-off80 t17350416-19-cd81"></join>. <rs id="t17350416-19-verdict82" type="verdictDescription">
+                     <interp inst="t17350416-19-verdict82" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17350416-19-punish83" type="punishmentDescription">
+                     <interp inst="t17350416-19-punish83" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17350416-19-punish83" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350416-19-defend116 t17350416-19-punish83"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

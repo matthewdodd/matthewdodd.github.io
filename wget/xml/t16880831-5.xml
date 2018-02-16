@@ -1,3 +1,102 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16880831-5">
+               <interp inst="t16880831-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t16880831-5" type="year" value="1688"></interp>
+               <interp inst="t16880831-5" type="uri" value="sessionsPapers/16880831"></interp>
+               <interp inst="t16880831-5" type="date" value="16880831"></interp>
+               <join result="criminalCharge" id="t16880831-5-off24-c35" targOrder="Y" targets="t16880831-5-defend40 t16880831-5-off24 t16880831-5-verdict26"></join>
+               <join result="criminalCharge" id="t16880831-5-off24-c36" targOrder="Y" targets="t16880831-5-defend41 t16880831-5-off24 t16880831-5-verdict26"></join>
+               <join result="criminalCharge" id="t16880831-5-off24-c37" targOrder="Y" targets="t16880831-5-defend42 t16880831-5-off24 t16880831-5-verdict26"></join>
+               <join result="criminalCharge" id="t16880831-5-off24-c38" targOrder="Y" targets="t16880831-5-defend44 t16880831-5-off24 t16880831-5-verdict26"></join>
+               <join result="criminalCharge" id="t16880831-5-off24-c39" targOrder="Y" targets="t16880831-5-defend46 t16880831-5-off24 t16880831-5-verdict26"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16880831-5-defend40" type="defendantName">
+                     Robert 
+                     Blandford
+                  <interp inst="t16880831-5-defend40" type="surname" value="Blandford"></interp>
+                     <interp inst="t16880831-5-defend40" type="given" value="Robert"></interp>
+                     <interp inst="t16880831-5-defend40" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               <persName id="t16880831-5-defend41" type="defendantName">
+                  Edmond 
+                  Dashwood
+               <interp inst="t16880831-5-defend41" type="surname" value="Dashwood"></interp>
+                     <interp inst="t16880831-5-defend41" type="given" value="Edmond"></interp>
+                     <interp inst="t16880831-5-defend41" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t16880831-5-defend42" type="defendantName">
+                  John 
+                  Leigh
+               <interp inst="t16880831-5-defend42" type="surname" value="Leigh"></interp>
+                     <interp inst="t16880831-5-defend42" type="given" value="John"></interp>
+                     <interp inst="t16880831-5-defend42" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               
+                  <persName id="t16880831-5-defend44" type="defendantName">
+                     David 
+                     Pattison
+                  <interp inst="t16880831-5-defend44" type="surname" value="Pattison"></interp>
+                     <interp inst="t16880831-5-defend44" type="given" value="David"></interp>
+                     <interp inst="t16880831-5-defend44" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16880831-5-defend46" type="defendantName">
+                     Thomas 
+                     Yeomans
+                  <interp inst="t16880831-5-defend46" type="surname" value="Yeomans"></interp>
+                     <interp inst="t16880831-5-defend46" type="given" value="Thomas"></interp>
+                     <interp inst="t16880831-5-defend46" type="gender" value="male"></interp>
+                  </persName>
+               
+            , all five <rs id="t16880831-5-deflabel23" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-5-defend40 t16880831-5-deflabel23"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-5-defend41 t16880831-5-deflabel23"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-5-defend42 t16880831-5-deflabel23"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-5-defend44 t16880831-5-deflabel23"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16880831-5-defend46 t16880831-5-deflabel23"></join>s, were Indicted and Tried for the <rs id="t16880831-5-off24" type="offenceDescription">
+                     <interp inst="t16880831-5-off24" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16880831-5-off24" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     
+                        <persName id="t16880831-5-victim48" type="victimName">
+                           John 
+                           Snape
+                        <interp inst="t16880831-5-victim48" type="surname" value="Snape"></interp>
+                        <interp inst="t16880831-5-victim48" type="given" value="John"></interp>
+                        <interp inst="t16880831-5-victim48" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16880831-5-off24 t16880831-5-victim48"></join>
+                     </persName>
+                     
+                  , at <placeName id="t16880831-5-crimeloc25">Hackney</placeName>
+                     <interp inst="t16880831-5-crimeloc25" type="placeName" value="Hackney"></interp>
+                     <interp inst="t16880831-5-crimeloc25" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16880831-5-off24 t16880831-5-crimeloc25"></join> in the County of Middlesex, giving him one Mortal Wound near the Left Pap, of the depth of three Inches, of which the said Snape within three days Died
+            </rs>. The Evidence for the King declared, that as the Deceased and some others were Drinking at a Publick-house in Hackney, the Prisoners came thither, and asked the Deceased if he would serve the King, and gave him a Press-shilling; after which the Deceased would have gone away without telling his Name; upon which a further Quarrel arose, and to so high a degree that Snape lost his Life. The Prisoners would have endeavoured to prove that the Town made a Rising against them; and in fine, they denied the Fact; but there being strong Evidence to prove them equally concerned, they were all five found <rs id="t16880831-5-verdict26" type="verdictDescription">
+                     <interp inst="t16880831-5-verdict26" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16880831-5-verdict26" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16880831-5-punish27" type="punishmentDescription">
+                     <interp inst="t16880831-5-punish27" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16880831-5-punish27" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-5-defend40 t16880831-5-punish27"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-5-defend41 t16880831-5-punish27"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-5-defend42 t16880831-5-punish27"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-5-defend44 t16880831-5-punish27"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16880831-5-defend46 t16880831-5-punish27"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

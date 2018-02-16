@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670429-12">
+               <interp inst="t17670429-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670429-12" type="year" value="1767"></interp>
+               <interp inst="t17670429-12" type="uri" value="sessionsPapers/17670429"></interp>
+               <interp inst="t17670429-12" type="date" value="17670429"></interp>
+               <join result="criminalCharge" id="t17670429-12-off56-c95" targOrder="Y" targets="t17670429-12-defend120 t17670429-12-off56 t17670429-12-verdict61"></join>
+         
+               <p>202. (M.) 
+               
+                  <persName id="t17670429-12-defend120" type="defendantName">
+                     Mary 
+                     Bartlett 
+                  <interp inst="t17670429-12-defend120" type="surname" value="Bartlett"></interp>
+                     <interp inst="t17670429-12-defend120" type="given" value="Mary"></interp>
+                     <interp inst="t17670429-12-defend120" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17670429-12-deflabel55" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670429-12-defend120 t17670429-12-deflabel55"></join>, was indicted for <rs id="t17670429-12-off56" type="offenceDescription">
+                     <interp inst="t17670429-12-off56" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670429-12-off56" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing two pair of leather slippers, value 7 s. the property of 
+                     
+                        <persName id="t17670429-12-victim122" type="victimName">
+                           William 
+                           Clements 
+                        <interp inst="t17670429-12-victim122" type="surname" value="Clements"></interp>
+                        <interp inst="t17670429-12-victim122" type="given" value="William"></interp>
+                        <interp inst="t17670429-12-victim122" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17670429-12-off56 t17670429-12-victim122"></join>
+                     </persName>
+                      
+                  , privately in his shop
+            </rs>. <rs id="t17670429-12-cd57" type="crimeDate">Feb. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670429-12-off56 t17670429-12-cd57"></join>. +</p>
+               <p>William Clements. I am a <rs id="t17670429-12-viclabel58" type="occupation">shoemaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670429-12-victim122 t17670429-12-viclabel58"></join>, and live in <placeName id="t17670429-12-crimeloc59">the Strand</placeName>
+                  <interp inst="t17670429-12-crimeloc59" type="placeName" value="the Strand"></interp>
+                  <interp inst="t17670429-12-crimeloc59" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670429-12-off56 t17670429-12-crimeloc59"></join>. On the 23d of February I was in my parlour, and left the other evidence in the shop; he came backwards to me, and in the mean time somebody opened the door. My wife said, Run; then Webb ran out, and took the prisoner with the two pair of slippers, my property upon her. (Produced in court.)</p>
+               <p>
+            
+                  <persName id="t17670429-12-person123">
+                  Edward 
+                  Webb 
+               <interp inst="t17670429-12-person123" type="surname" value="Webb"></interp>
+                     <interp inst="t17670429-12-person123" type="given" value="Edward"></interp>
+                     <interp inst="t17670429-12-person123" type="gender" value="male"></interp>
+                  </persName>
+            . I was journeyman to the prosecutor; I went backwards to my master, somebody was heard to come into the shop; I ran out and catched the prisoner, before she got four yards from the shop door, with these slippers in her right hand. I took hold of her; she threw the slippers down; I brought her and them in, and know them to be my master's property.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was coming by and picked them up from the ground; I was not in the shop at all; I am a <rs id="t17670429-12-deflabel60" type="occupation">glove-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670429-12-defend120 t17670429-12-deflabel60"></join>.</p>
+               <p>
+                  <rs id="t17670429-12-verdict61" type="verdictDescription">
+                     <interp inst="t17670429-12-verdict61" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670429-12-verdict61" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs> 
+                  <rs id="t17670429-12-punish62" type="punishmentDescription">
+                     <interp inst="t17670429-12-punish62" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670429-12-defend120 t17670429-12-punish62"></join>
+               T
+            </rs>.</p>
+            </div1>

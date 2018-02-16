@@ -1,3 +1,104 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580913-36">
+               <interp inst="t17580913-36" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580913-36" type="year" value="1758"></interp>
+               <interp inst="t17580913-36" type="uri" value="sessionsPapers/17580913"></interp>
+               <interp inst="t17580913-36" type="date" value="17580913"></interp>
+               <join result="criminalCharge" id="t17580913-36-off183-c252" targOrder="Y" targets="t17580913-36-defend320 t17580913-36-off183 t17580913-36-verdict190"></join>
+         
+               <p>293. (M.) 
+               
+                  <persName id="t17580913-36-defend320" type="defendantName">
+                     Anne 
+                     Wheatley 
+                  <interp inst="t17580913-36-defend320" type="surname" value="Wheatley"></interp>
+                     <interp inst="t17580913-36-defend320" type="given" value="Anne"></interp>
+                     <interp inst="t17580913-36-defend320" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17580913-36-deflabel182" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580913-36-defend320 t17580913-36-deflabel182"></join>, was indicted for <rs id="t17580913-36-off183" type="offenceDescription">
+                     <interp inst="t17580913-36-off183" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580913-36-off183" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one duffil cloak, value 1 s. one sattin hat, value 6 d. three linen handkerchiefs, value 18 d. one cotton handkerchief, value 6 d. one pair of shoes, value 1 s. two linen aprons, value 2 s. the goods of 
+                     
+                        <persName id="t17580913-36-victim322" type="victimName">
+                           Sarah 
+                           Blacket 
+                        <interp inst="t17580913-36-victim322" type="surname" value="Blacket"></interp>
+                        <interp inst="t17580913-36-victim322" type="given" value="Sarah"></interp>
+                        <interp inst="t17580913-36-victim322" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , <rs id="t17580913-36-viclabel184" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17580913-36-victim322 t17580913-36-viclabel184"></join>; three cotton gowns, value 5 s. one sattin hat, value<xptr type="pageFacsimile" doc="175809130027"></xptr> 6 d. one bays petticoat, one pair of worsted stockings, one quilted petticoat, one pair of shoes, two linen aprons. one pair of silver shoe buckles, one linen handkerchief, and one cotton handkerchief
+            </rs>, the goods of 
+               
+                  <persName id="t17580913-36-victim324" type="victimName">
+                     Elizabeth 
+                     Deighton 
+                  <interp inst="t17580913-36-victim324" type="surname" value="Deighton"></interp>
+                     <interp inst="t17580913-36-victim324" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-36-victim324" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17580913-36-viclabel185" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580913-36-victim324 t17580913-36-viclabel185"></join>, <rs id="t17580913-36-cd186" type="crimeDate">July 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580913-36-off183 t17580913-36-cd186"></join>.*</p>
+               <p>Sarah Blacket. I live in the parish of <placeName id="t17580913-36-crimeloc187">Bethnal-green</placeName>
+                  <interp inst="t17580913-36-crimeloc187" type="placeName" value="Bethnal-green"></interp>
+                  <interp inst="t17580913-36-crimeloc187" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580913-36-off183 t17580913-36-crimeloc187"></join>, and am <rs id="t17580913-36-viclabel188" type="occupation">a cow keeper</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580913-36-victim322 t17580913-36-viclabel188"></join>, about nine weeks ago I lost the things mentioned in the indictment, ( naming them all by name,) some from out of my house and some from out of my wash-house. They are all in court.</p>
+               <p>
+            
+                  <persName id="t17580913-36-person325">
+                  Elizabeth 
+                  Deighton 
+               <interp inst="t17580913-36-person325" type="surname" value="Deighton"></interp>
+                     <interp inst="t17580913-36-person325" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17580913-36-person325" type="gender" value="female"></interp>
+                  </persName>
+            . I am <rs id="t17580913-36-viclabel189" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17580913-36-victim324 t17580913-36-viclabel189"></join> to Mrs. Blacket, I lost my things that are mentioned in the indictment, laid to be my property.</p>
+               <p>Q. Did you ever see them again?</p>
+               <p>Deighton. They are all found again.</p>
+               <p>
+            
+                  <persName id="t17580913-36-person326">
+                  John 
+                  Townshend 
+               <interp inst="t17580913-36-person326" type="surname" value="Townshend"></interp>
+                     <interp inst="t17580913-36-person326" type="given" value="John"></interp>
+                     <interp inst="t17580913-36-person326" type="gender" value="male"></interp>
+                  </persName>
+            . I am a constable, I took the prisoner up, and found these things upon her. (Producing them.)</p>
+               <p>
+            
+                  <persName id="t17580913-36-person327">
+                  William 
+                  Parsons 
+               <interp inst="t17580913-36-person327" type="surname" value="Parsons"></interp>
+                     <interp inst="t17580913-36-person327" type="given" value="William"></interp>
+                     <interp inst="t17580913-36-person327" type="gender" value="male"></interp>
+                  </persName>
+            . I am also a constable, (he produces a gown) this the prisoner had on her back when she was taken up. (The goods deposed to by their respective owners.)</p>
+               <p>The prisoner had nothing to say in her defence.</p>
+               <p>
+                  <rs id="t17580913-36-verdict190" type="verdictDescription">
+                     <interp inst="t17580913-36-verdict190" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17580913-36-verdict190" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17580913-36-punish191" type="punishmentDescription">
+                     <interp inst="t17580913-36-punish191" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17580913-36-punish191" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580913-36-defend320 t17580913-36-punish191"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

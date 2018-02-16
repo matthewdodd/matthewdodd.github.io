@@ -1,3 +1,103 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f5a91d285eb370ac38ae7c28008051ac08957761998667eb489986ea1f8e7fe
-size 739
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360505-85">
+               <interp inst="t17360505-85" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360505-85" type="year" value="1736"></interp>
+               <interp inst="t17360505-85" type="uri" value="sessionsPapers/17360505"></interp>
+               <interp inst="t17360505-85" type="date" value="17360505"></interp>
+               <join result="criminalCharge" id="t17360505-85-off399-c398" targOrder="Y" targets="t17360505-85-defend582 t17360505-85-off399 t17360505-85-verdict401"></join>
+               <join result="criminalCharge" id="t17360505-85-off399-c399" targOrder="Y" targets="t17360505-85-defend584 t17360505-85-off399 t17360505-85-verdict401"></join>
+         
+               <p>99, 100. 
+               
+                  <persName id="t17360505-85-defend582" type="defendantName">
+                     John
+                      Williams otherwise 
+                     <rs id="t17360505-85-alias-12" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17360505-85-defend582 t17360505-85-alias-12"></join>Albridge</rs>
+                     <interp inst="t17360505-85-defend582" type="surname" value="Williams otherwise"></interp>
+                     <interp inst="t17360505-85-defend582" type="given" value="John"></interp>
+                     <interp inst="t17360505-85-defend582" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17360505-85-defend584" type="defendantName">
+                     Richard
+                      Bradford otherwise 
+                     <rs id="t17360505-85-alias-13" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17360505-85-defend584 t17360505-85-alias-13"></join>Riley</rs>
+                     <interp inst="t17360505-85-defend584" type="surname" value="Bradford otherwise"></interp>
+                     <interp inst="t17360505-85-defend584" type="given" value="Richard"></interp>
+                     <interp inst="t17360505-85-defend584" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were indicted for <rs id="t17360505-85-off399" type="offenceDescription">
+                     <interp inst="t17360505-85-off399" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17360505-85-off399" type="offenceSubcategory" value="fraud"></interp>
+               defrauding 
+                     
+                        <persName id="t17360505-85-victim586" type="victimName">
+                           Henry 
+                           Robert 
+                        <interp inst="t17360505-85-victim586" type="surname" value="Robert"></interp>
+                        <interp inst="t17360505-85-victim586" type="given" value="Henry"></interp>
+                        <interp inst="t17360505-85-victim586" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360505-85-off399 t17360505-85-victim586"></join>
+                     </persName>
+                      
+                   of 29s. by false play at Cards
+            </rs>, <rs id="t17360505-85-cd400" type="crimeDate">february 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360505-85-off399 t17360505-85-cd400"></join>.</p>
+               <p>
+            
+                  <persName id="t17360505-85-person587">
+                  Henry 
+                  Roberts 
+               <interp inst="t17360505-85-person587" type="surname" value="Roberts"></interp>
+                     <interp inst="t17360505-85-person587" type="given" value="Henry"></interp>
+                     <interp inst="t17360505-85-person587" type="gender" value="male"></interp>
+                  </persName>
+            : I was born in Wales and came to London in February last. On the 20th of that Month, I met Williams and I asked him to help me to a Place; he said if I would go with him he would: As we went along be pick'd up a Shilling, which he said he would spend, and I should have part of it: Meeting Bradford, he went with us to a Tavern: Bradford pulled out Money, and they went to Cards, and Williams won. Then he would have me go his halves, which I did, 'till they got every Farthing of my Money. Then Bradford went away, and Williams said he would help me to a Place; I mistrusted they had cheated me. and as I went along, I told Williams I would have him before a Justice; we went to a Gin-shop, and he gave me a Knock on the Breast and ran away; I ran after him, he was taken, and a Constable sent for; and as we were going before the Justice, I saw Bradford in the Street, and took him too, and the Justice committed them both.</p>
+               <p>
+            
+                  <persName id="t17360505-85-person588">
+                  Charles 
+                  Foster 
+               <interp inst="t17360505-85-person588" type="surname" value="Foster"></interp>
+                     <interp inst="t17360505-85-person588" type="given" value="Charles"></interp>
+                     <interp inst="t17360505-85-person588" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17360505-85-person589">
+                  William 
+                  Fielder 
+               <interp inst="t17360505-85-person589" type="surname" value="Fielder"></interp>
+                     <interp inst="t17360505-85-person589" type="given" value="William"></interp>
+                     <interp inst="t17360505-85-person589" type="gender" value="male"></interp>
+                  </persName>
+             deposed, that Bradford offered (if they would discharge them) to return the Money won, and to give the Constable a pair of Gloves for his Trouble. Both <rs id="t17360505-85-verdict401" type="verdictDescription">
+                     <interp inst="t17360505-85-verdict401" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17360505-85-punish402" type="punishmentDescription">
+                     <interp inst="t17360505-85-punish402" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17360505-85-punish402" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-85-defend582 t17360505-85-punish402"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-85-defend584 t17360505-85-punish402"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17360505-85-punish403" type="punishmentDescription">
+                     <interp inst="t17360505-85-punish403" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-85-defend582 t17360505-85-punish403"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360505-85-defend584 t17360505-85-punish403"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

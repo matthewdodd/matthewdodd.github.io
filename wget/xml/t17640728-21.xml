@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640728-21">
+               <interp inst="t17640728-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640728-21" type="year" value="1764"></interp>
+               <interp inst="t17640728-21" type="uri" value="sessionsPapers/17640728"></interp>
+               <interp inst="t17640728-21" type="date" value="17640728"></interp>
+               <join result="criminalCharge" id="t17640728-21-off105-c148" targOrder="Y" targets="t17640728-21-defend199 t17640728-21-off105 t17640728-21-verdict108"></join>
+         
+               <p>416. (L.) 
+               
+                  <persName id="t17640728-21-defend199" type="defendantName">
+                     Patrick 
+                     Brewer 
+                  <interp inst="t17640728-21-defend199" type="surname" value="Brewer"></interp>
+                     <interp inst="t17640728-21-defend199" type="given" value="Patrick"></interp>
+                     <interp inst="t17640728-21-defend199" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640728-21-off105" type="offenceDescription">
+                     <interp inst="t17640728-21-off105" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640728-21-off105" type="offenceSubcategory" value="other"></interp>
+               stealing seventeen pounds weight of sugar
+            </rs>, the property of persons unknown, <rs id="t17640728-21-cd106" type="crimeDate">July 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640728-21-off105 t17640728-21-cd106"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17640728-21-person200">
+                  James 
+                  Taylor 
+               <interp inst="t17640728-21-person200" type="surname" value="Taylor"></interp>
+                     <interp inst="t17640728-21-person200" type="given" value="James"></interp>
+                     <interp inst="t17640728-21-person200" type="gender" value="male"></interp>
+                  </persName>
+            . I am a gang-porter. I heard there was a thief taken with some sugar: I went down the gateway that leads to <placeName id="t17640728-21-crimeloc107">Ralph's key</placeName>
+                  <interp inst="t17640728-21-crimeloc107" type="placeName" value="Ralph's key"></interp>
+                  <interp inst="t17640728-21-crimeloc107" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640728-21-off105 t17640728-21-crimeloc107"></join>; there was the prisoner in a mob of people, with his pockets full of sugar. The sugar was taken out of his breeches, coat, and waistcoat pockets, some was spilt: it weighed seventeen pounds and upwards, all clean sugar. We found a hogshead with the head out, and it had been plundered: we weighed it off, and it wanted a quarter, and 14 or 15 lb. the prisoner was not at work there that day.</p>
+               <p>
+            
+                  <persName id="t17640728-21-person201">
+                  Thomas 
+                  Lewis 
+               <interp inst="t17640728-21-person201" type="surname" value="Lewis"></interp>
+                     <interp inst="t17640728-21-person201" type="given" value="Thomas"></interp>
+                     <interp inst="t17640728-21-person201" type="gender" value="male"></interp>
+                  </persName>
+            . I was coming down the gateway, and saw the prisoner jump out of the loophole, and in his fall, he dropped out some sugar: it was one story high, about twelve feet high; I perceived a great deal of sugar upon him: he asked me to let him go, but I would not; I kept him till the gang's-men came.</p>
+               <p>Prisoner's Defence.</p>
+               <p>A man that I had been at work for, in landing some rum and brandy, gave me the sugar, and desired me not to go out at that door, but to go out at the back door, and I fell down, not knowing what I was about, being drunk.</p>
+               <p>
+                  <rs id="t17640728-21-verdict108" type="verdictDescription">
+                     <interp inst="t17640728-21-verdict108" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640728-21-punish109" type="punishmentDescription">
+                     <interp inst="t17640728-21-punish109" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640728-21-defend199 t17640728-21-punish109"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,42 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440510-39">
+               <interp inst="t17440510-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440510-39" type="year" value="1744"></interp>
+               <interp inst="t17440510-39" type="uri" value="sessionsPapers/17440510"></interp>
+               <interp inst="t17440510-39" type="date" value="17440510"></interp>
+               <join result="criminalCharge" id="t17440510-39-off199-c455" targOrder="Y" targets="t17440510-39-defend539 t17440510-39-off199 t17440510-39-verdict201"></join>
+         
+               <p>289. 
+               
+                  <persName id="t17440510-39-defend539" type="defendantName">
+                     William 
+                     Mitchell 
+                  <interp inst="t17440510-39-defend539" type="surname" value="Mitchell"></interp>
+                     <interp inst="t17440510-39-defend539" type="given" value="William"></interp>
+                     <interp inst="t17440510-39-defend539" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440510-39-defloc198">St. Mary Stratford Bow</placeName>
+                  <interp inst="t17440510-39-defloc198" type="placeName" value="St. Mary Stratford Bow"></interp>
+                  <interp inst="t17440510-39-defloc198" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440510-39-defend539 t17440510-39-defloc198"></join>, was indicted for <rs id="t17440510-39-off199" type="offenceDescription">
+                     <interp inst="t17440510-39-off199" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440510-39-off199" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing eleven yards of broad cloth, value 7 l. three pieces of hempen girting, value 1 s. and two bags, value 18 d,
+            </rs> the goods of 
+               
+                  <persName id="t17440510-39-victim541" type="victimName">
+                     Edward 
+                     Becher 
+                  <interp inst="t17440510-39-victim541" type="surname" value="Becher"></interp>
+                     <interp inst="t17440510-39-victim541" type="given" value="Edward"></interp>
+                     <interp inst="t17440510-39-victim541" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440510-39-off199 t17440510-39-victim541"></join>
+                  </persName>
+                
+            , <rs id="t17440510-39-cd200" type="crimeDate">May 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440510-39-off199 t17440510-39-cd200"></join>. <rs id="t17440510-39-verdict201" type="verdictDescription">
+                     <interp inst="t17440510-39-verdict201" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+            </div1>

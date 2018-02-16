@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350226-49">
+               <interp inst="t17350226-49" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350226-49" type="year" value="1735"></interp>
+               <interp inst="t17350226-49" type="uri" value="sessionsPapers/17350226"></interp>
+               <interp inst="t17350226-49" type="date" value="17350226"></interp>
+               <join result="criminalCharge" id="t17350226-49-off246-c262" targOrder="Y" targets="t17350226-49-defend389 t17350226-49-off246 t17350226-49-verdict247"></join>
+         
+               <p>41. 
+               
+                  <persName id="t17350226-49-defend389" type="defendantName">
+                     Hannah 
+                     Wood , alias <rs id="t17350226-49-alias-12" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17350226-49-defend389 t17350226-49-alias-12"></join>Knight</rs>
+                     <interp inst="t17350226-49-defend389" type="surname" value="Wood"></interp>
+                     <interp inst="t17350226-49-defend389" type="given" value="Hannah"></interp>
+                     <interp inst="t17350226-49-defend389" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17350226-49-off246" type="offenceDescription">
+                     <interp inst="t17350226-49-off246" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17350226-49-off246" type="offenceSubcategory" value="coiningOffences"></interp>
+               uttering a counterfeit Shilling to 
+                     
+                        <persName id="t17350226-49-victim391" type="victimName">
+                           Edith 
+                           Shakespear 
+                        <interp inst="t17350226-49-victim391" type="surname" value="Shakespear"></interp>
+                        <interp inst="t17350226-49-victim391" type="given" value="Edith"></interp>
+                        <interp inst="t17350226-49-victim391" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350226-49-off246 t17350226-49-victim391"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>. No Evidence. <rs id="t17350226-49-verdict247" type="verdictDescription">
+                     <interp inst="t17350226-49-verdict247" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17350226-49-verdict247" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

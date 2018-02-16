@@ -1,3 +1,236 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17411014-2">
+               <interp inst="t17411014-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17411014-2" type="year" value="1741"></interp>
+               <interp inst="t17411014-2" type="uri" value="sessionsPapers/17411014"></interp>
+               <interp inst="t17411014-2" type="date" value="17411014"></interp>
+               <join result="criminalCharge" id="t17411014-2-off5-c29" targOrder="Y" targets="t17411014-2-defend32 t17411014-2-off5 t17411014-2-verdict10"></join>
+               <join result="criminalCharge" id="t17411014-2-off5-c30" targOrder="Y" targets="t17411014-2-defend34 t17411014-2-off5 t17411014-2-verdict10"></join>
+               <join result="criminalCharge" id="t17411014-2-off12-c29" targOrder="Y" targets="t17411014-2-defend32 t17411014-2-off12 t17411014-2-verdict10"></join>
+               <join result="criminalCharge" id="t17411014-2-off12-c30" targOrder="Y" targets="t17411014-2-defend34 t17411014-2-off12 t17411014-2-verdict10"></join>
+               <join result="criminalCharge" id="t17411014-2-off15-c30" targOrder="Y" targets="t17411014-2-defend34 t17411014-2-off15 t17411014-2-verdict10"></join>
+         
+               <p>2. 3. 
+               
+                  <persName id="t17411014-2-defend32" type="defendantName">
+                     James 
+                     Buquois 
+                  <interp inst="t17411014-2-defend32" type="surname" value="Buquois"></interp>
+                     <interp inst="t17411014-2-defend32" type="given" value="James"></interp>
+                     <interp inst="t17411014-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17411014-2-defend34" type="defendantName">
+                     Joseph 
+                     Allen 
+                  <interp inst="t17411014-2-defend34" type="surname" value="Allen"></interp>
+                     <interp inst="t17411014-2-defend34" type="given" value="Joseph"></interp>
+                     <interp inst="t17411014-2-defend34" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17411014-2-defloc4">Stoke Newington</placeName>
+                  <interp inst="t17411014-2-defloc4" type="placeName" value="Stoke Newington"></interp>
+                  <interp inst="t17411014-2-defloc4" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17411014-2-defend32 t17411014-2-defloc4"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17411014-2-defend34 t17411014-2-defloc4"></join> , were indicted for <rs id="t17411014-2-off5" type="offenceDescription">
+                     <interp inst="t17411014-2-off5" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17411014-2-off5" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17411014-2-victim36" type="victimName">
+                           Charles 
+                           Wells 
+                        <interp inst="t17411014-2-victim36" type="surname" value="Wells"></interp>
+                        <interp inst="t17411014-2-victim36" type="given" value="Charles"></interp>
+                        <interp inst="t17411014-2-victim36" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   in a certain field and open place near the King's highway, putting him in fear, and taking from him an iron key, value 1 d. a glass ink-bottle cased with brass, value 6 d. and 2 s. 8 d. in money
+            </rs>; <rs id="t17411014-2-cd6" type="crimeDate">Sept. 8th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off5 t17411014-2-cd6"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off12 t17411014-2-cd6"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off15 t17411014-2-cd6"></join>.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person37">
+                  Charles 
+                  Wells 
+               <interp inst="t17411014-2-person37" type="surname" value="Wells"></interp>
+                     <interp inst="t17411014-2-person37" type="given" value="Charles"></interp>
+                     <interp inst="t17411014-2-person37" type="gender" value="male"></interp>
+                  </persName>
+            . On the 8th of September 1741, about five in the evening, I was going from <placeName id="t17411014-2-crimeloc7">Newington-Green</placeName>
+                  <interp inst="t17411014-2-crimeloc7" type="placeName" value="Newington-Green"></interp>
+                  <interp inst="t17411014-2-crimeloc7" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off5 t17411014-2-crimeloc7"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off12 t17411014-2-crimeloc7"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off15 t17411014-2-crimeloc7"></join> to <placeName id="t17411014-2-crimeloc8">Stoke-Newington</placeName>
+                  <interp inst="t17411014-2-crimeloc8" type="placeName" value="Stoke-Newington"></interp>
+                  <interp inst="t17411014-2-crimeloc8" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off5 t17411014-2-crimeloc8"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off12 t17411014-2-crimeloc8"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off15 t17411014-2-crimeloc8"></join> : I came through a lane that is called <placeName id="t17411014-2-crimeloc9">Cut-Throat-Lane</placeName>
+                  <interp inst="t17411014-2-crimeloc9" type="placeName" value="Cut-Throat-Lane"></interp>
+                  <interp inst="t17411014-2-crimeloc9" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off5 t17411014-2-crimeloc9"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off12 t17411014-2-crimeloc9"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17411014-2-off15 t17411014-2-crimeloc9"></join>; - rightly so named I believe: It is a foot-passage leading from Newington-Green to Newington; and there are four fields at the end of the lane which lead to Stoke-Newington . When I came into the first field, I saw the Prisoner Allen entering it, and when I came nearer, he and Buquois closed me between them. Allen immediately pulled out a pistol, and with imprecations usual to this sort of gentry, said, Your money! your money ! I desired him to spare my life, and then Buquois took out of my right-hand pocket two shillings, and this disputable six pence, and out of my other pocket, where I usually carry my half-pence , he took five-pence half-penny and my ink-bottle. When they first came up to me, I endeavoured to make some resistance with my cane: They had each of them pistols, and they asked me how I could offer to resist, when I saw they had got arms? When they had rifled me, they were going away; but I called after them, and desired them to let me have my key again, which they had taken with my money: Upon which Allen twirled it to me, and it fell in the grass. I then desired the prisoners to come back and look for it; they did so, and then went off. I immediately pursued them, and met a gentleman's servant, and told him I had been robb'd, but he like a coward would not assist me. Upon this I went on 'till my spirits were much evaporated, and then I met with one Caton, and desired him to assist me, and die or vanquish. I gave him an exact description of the prisoners, and when I had run with him about two fields farther, I thought I should have burst, and was obliged to give over the pursuit. However several people coming to Caton's assistance, the prisoners were both taken and carried to a public house. When they first came in, there was only a glimmering light, but a better being called for, I knew them to be the persons that robbed me. I desired Buquois to let me see what money he had in his pocket, and he pulled out two shillings and this very sixpence. It is a disputable sixpence, and I have had it a great while, and no body would take it. I told him, that six-pence was mine, and I would have it; and I borrowed sixpence of the landlord, to give him in the room of it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174110140003"></xptr>Q. How long after the robbery did you see these men at the public house?</p>
+               <p>Mr. Wells . Presently afterwards. I am sure they are the men, and I never shall forget them while breath is in my body. I would observe, that Caton was the first man that I called to my aid. I had no weapon but this cane : I struck Allen with it, and in the scussle it was thrown on the grass.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person38">
+                  William 
+                  Corne 
+               <interp inst="t17411014-2-person38" type="surname" value="Corne"></interp>
+                     <interp inst="t17411014-2-person38" type="given" value="William"></interp>
+                     <interp inst="t17411014-2-person38" type="gender" value="male"></interp>
+                  </persName>
+             . I was in the pursuit in the way of taking them. They were in cover under a hedge in a ditch, and the people and I got over the hedge. I had a stick in my hand, and when I got over the hedge, I saw the youngest fellow (Allen) in the ditch. He immediately rushed out of the ditch with a pistol in each hand; one of them was a brass pistol. He presented it at the people that were coming up, and said he would surrender; but instead of that, he turned to running, and then shot the pistol off. The company coming pretty fast, he stepped back about a yard or two from them, dropped his pistols, and surrendered. Then I took up the pistols, and went with Caton's man to take the other prisoner. We went up to the ditch where he was, and told him we would shoot him, if he would not surrender: He made no answer at first, but at last he said, D - n ye , I will kill or be killed, and immediately rushed out of the ditch, and some how or other Caton's man got hold of his cloaths; so that he ( Buquois ) fell on one knee, and we took him.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person39">
+                  John 
+                  Corne 
+               <interp inst="t17411014-2-person39" type="surname" value="Corne"></interp>
+                     <interp inst="t17411014-2-person39" type="given" value="John"></interp>
+                     <interp inst="t17411014-2-person39" type="gender" value="male"></interp>
+                  </persName>
+             . I was coming from town, and was told that two prisoners were upon Hackney Downs , and seeing my neighbour Corne run, I ran too , and just as we came into the field, Allen fired off the brass pistol; then he dropped the other, and he was taken. The other prisoner coming out of the ditch, they took hold of him, and I being a headborough, charged them to aid and assist me, and we took them to the Black-moor's Head at Clapton .</p>
+               <p>
+            
+                  <persName id="t17411014-2-person40">
+                  William 
+                  Caton 
+               <interp inst="t17411014-2-person40" type="surname" value="Caton"></interp>
+                     <interp inst="t17411014-2-person40" type="given" value="William"></interp>
+                     <interp inst="t17411014-2-person40" type="gender" value="male"></interp>
+                  </persName>
+             . The prosecutor came to my shop, and complained of this robbery, and desired me to go to his assistance. He told me, they were gone towards London, and we enquired of some boys, and they informed us, the prisoners were gone towards the Downs . I went after them, and saw them, and my man said, these are the men that robbed the gentleman, which they hearing, immediately drew out their pistols, and swore, if we did not stand off, they would blow our brains out. Notwithstanding this, we pursued them for half an hour to no purpose; but we got more assistance, and then took them. I searched Buquois in the field, and found in his pocket 4 s. 6 d. in silver, and about 5 d. in half-pence. After this we took them to the public house, where Buquois was searched again, and the prosecutor said, he could swear both to this sixpence and to the prisoners.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person41">
+                  James 
+                  Babrooks 
+               <interp inst="t17411014-2-person41" type="surname" value="Babrooks"></interp>
+                     <interp inst="t17411014-2-person41" type="given" value="James"></interp>
+                     <interp inst="t17411014-2-person41" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Caton, and assisted him in taking the prisoners. I had a poker with me, and when I saw the prisoners, I said, those are the two men that robbed the gentleman; which they hearing, pulled out their pistols, and said, they would blow our brains out, if we followed them. We pursued them half an hour or better, and then two or three men came to our assistance, and I sent to Clapton for a gun, and we took them in the ditch.</p>
+               <p>Caton. While I was pursuing them, they came up to me, and said, they would give me a guinea , if I would be civil. I told them, I would have them dead or alive; and then they offered me two guineas, and said they would be honourable.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person42">
+                  Samuel 
+                  Wood 
+               <interp inst="t17411014-2-person42" type="surname" value="Wood"></interp>
+                     <interp inst="t17411014-2-person42" type="given" value="Samuel"></interp>
+                     <interp inst="t17411014-2-person42" type="gender" value="male"></interp>
+                  </persName>
+             the constable produced the pistols.</p>
+               <p>DEFENCE.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person43">
+                  William 
+                  Chipperfield 
+               <interp inst="t17411014-2-person43" type="surname" value="Chipperfield"></interp>
+                     <interp inst="t17411014-2-person43" type="given" value="William"></interp>
+                     <interp inst="t17411014-2-person43" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner Buquois about twenty years: He served his time to his father, who is a weaver. I know nothing of him, but that he is a very honest man; and I always took him to be three parts a natural.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person44">
+                  Francis 
+                  Bellot 
+               <interp inst="t17411014-2-person44" type="surname" value="Bellot"></interp>
+                     <interp inst="t17411014-2-person44" type="given" value="Francis"></interp>
+                     <interp inst="t17411014-2-person44" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him six years and upwards. He has worked at my house three times. The first time he worked with me he behaved well, only he behaved like a lunatick . He hung himself at my house once, and when I asked him the reason of it, he cried, and said he would do so no more; but after that time I found him very various in his manners.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person45">
+                  Nathaniel 
+                  Higgins 
+               <interp inst="t17411014-2-person45" type="surname" value="Higgins"></interp>
+                     <interp inst="t17411014-2-person45" type="given" value="Nathaniel"></interp>
+                     <interp inst="t17411014-2-person45" type="gender" value="male"></interp>
+                  </persName>
+             . I worked with Buquois in the same shop about nine months, and he behaved well, only sometimes he would run down stairs as if he was frighted out of his wits, and call up the apple-people for nothing at all. I never heard that he attempted to destroy himself.</p>
+               <p>
+            
+                  <persName id="t17411014-2-person46">
+                  Thomas 
+                  Whitefield 
+               <interp inst="t17411014-2-person46" type="surname" value="Whitefield"></interp>
+                     <interp inst="t17411014-2-person46" type="given" value="Thomas"></interp>
+                     <interp inst="t17411014-2-person46" type="gender" value="male"></interp>
+                  </persName>
+             . I have known Buquois from a child; he worked for me about five years ago, and I never heard any dishonesty of him.</p>
+               <p>Philip Flamming. Buquois worked with me about seven years ago, and behaved well.</p>
+               <p> - Buquois , the prisoner's father. He has followed his business very well, and never wronged any body of a farthing. He used to carry bodds of mortar or do any thing for a livelihood when he was out of business; and when he had done work; he would behave himself almost like-a-lunatick .</p>
+               <p>Prisoner Buquois . After I was taken, the prosecutor said, he could not swear to either of us, only they persuaded him to it. The butcher (Caton) swears to 4 s. being in my pocket, and he swears to 2 s. 6 d. if you please to take notice of it.</p>
+               <p>Mr. Wills . I lost 2 s. 6 d. and an uncertain number of halfpence, and the money which Buquois pulled out and threw into his hat was 2 s. 6 d. and some halfpence.</p>
+               <p>Caton . When I searched him in the field, I found 4 s. 6 d. in silver and about 6 d. in halfpence. We put it into his pocket again, and then carried<xptr type="pageFacsimile" doc="174110140004"></xptr> him to the alehouse. The jury found the prisoners <rs id="t17411014-2-verdict10" type="verdictDescription">
+                     <interp inst="t17411014-2-verdict10" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> 
+                  <rs id="t17411014-2-punish11" type="punishmentDescription">
+                     <interp inst="t17411014-2-punish11" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17411014-2-defend32 t17411014-2-punish11"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17411014-2-defend34 t17411014-2-punish11"></join>
+               Death
+            </rs>.</p>
+               <p>They were a second time indicted for <rs id="t17411014-2-off12" type="offenceDescription">
+                     <interp inst="t17411014-2-off12" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17411014-2-off12" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17411014-2-victim48" type="victimName">
+                           William 
+                           Johnson 
+                        <interp inst="t17411014-2-victim48" type="surname" value="Johnson"></interp>
+                        <interp inst="t17411014-2-victim48" type="given" value="William"></interp>
+                        <interp inst="t17411014-2-victim48" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the King's highway in the parish of <placeName id="t17411014-2-crimeloc13">St. Mary Stratford-Row</placeName>
+                     <interp inst="t17411014-2-crimeloc13" type="placeName" value="St. Mary Stratford-Row"></interp>
+                     <interp inst="t17411014-2-crimeloc13" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17411014-2-off5 t17411014-2-crimeloc13"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17411014-2-off12 t17411014-2-crimeloc13"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17411014-2-off15 t17411014-2-crimeloc13"></join> , putting him in fear, and taking from him a silver watch, value 3 l. a glass seal set in base metal, val. 2 d.
+            </rs> 
+                  <rs id="t17411014-2-cd14" type="crimeDate">Sept. 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off5 t17411014-2-cd14"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off12 t17411014-2-cd14"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off15 t17411014-2-cd14"></join>.</p>
+               <p>Allen was a third time indicted for <rs id="t17411014-2-off15" type="offenceDescription">
+                     <interp inst="t17411014-2-off15" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17411014-2-off15" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17411014-2-victim50" type="victimName">
+                           Edward 
+                           Lee 
+                        <interp inst="t17411014-2-victim50" type="surname" value="Lee"></interp>
+                        <interp inst="t17411014-2-victim50" type="given" value="Edward"></interp>
+                        <interp inst="t17411014-2-victim50" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   the younger in a certain field and open place near the King's highway, putting him in fear, and taking from him 13 s. in money
+            </rs>; <rs id="t17411014-2-cd16" type="crimeDate">June 7</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off5 t17411014-2-cd16"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off12 t17411014-2-cd16"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-2-off15 t17411014-2-cd16"></join>.</p>
+               <p>The prisoners on their arraignment pleaded not guilty, but being convicted on the former indictment, desired leave to retract their plea; and accordingly <rs id="t17411014-2-verdict17" type="verdictDescription">
+                     <interp inst="t17411014-2-verdict17" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17411014-2-verdict17" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty to each
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640912-4">
+               <interp inst="t17640912-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640912-4" type="year" value="1764"></interp>
+               <interp inst="t17640912-4" type="uri" value="sessionsPapers/17640912"></interp>
+               <interp inst="t17640912-4" type="date" value="17640912"></interp>
+               <join result="criminalCharge" id="t17640912-4-off15-c38" targOrder="Y" targets="t17640912-4-defend43 t17640912-4-off15 t17640912-4-verdict19"></join>
+         
+               <p>479. (M.) 
+               <persName id="t17640912-4-defend43" type="defendantName">
+                  Edward 
+                  Blake 
+               <interp inst="t17640912-4-defend43" type="surname" value="Blake"></interp>
+                     <interp inst="t17640912-4-defend43" type="given" value="Edward"></interp>
+                     <interp inst="t17640912-4-defend43" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17640912-4-off15" type="offenceDescription">
+                     <interp inst="t17640912-4-off15" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640912-4-off15" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver watch, value 30 s.
+            </rs> the property of 
+               
+                  <persName id="t17640912-4-victim45" type="victimName">
+                     Richard 
+                     Howard 
+                  <interp inst="t17640912-4-victim45" type="surname" value="Howard"></interp>
+                     <interp inst="t17640912-4-victim45" type="given" value="Richard"></interp>
+                     <interp inst="t17640912-4-victim45" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640912-4-off15 t17640912-4-victim45"></join>
+                  </persName>
+                
+            , <rs id="t17640912-4-cd16" type="crimeDate">July 29</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640912-4-off15 t17640912-4-cd16"></join>. *</p>
+               <p>
+            
+                  <persName id="t17640912-4-person46">
+                  Richard 
+                  Howard 
+               <interp inst="t17640912-4-person46" type="surname" value="Howard"></interp>
+                     <interp inst="t17640912-4-person46" type="given" value="Richard"></interp>
+                     <interp inst="t17640912-4-person46" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17640912-4-crimeloc17">New Brentford</placeName>
+                  <interp inst="t17640912-4-crimeloc17" type="placeName" value="New Brentford"></interp>
+                  <interp inst="t17640912-4-crimeloc17" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640912-4-off15 t17640912-4-crimeloc17"></join>. On the 29th of July, the prisoner came to my shop, and said, he wanted to buy a watch (I am a <rs id="t17640912-4-viclabel18" type="occupation">watch-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640912-4-victim45 t17640912-4-viclabel18"></join>): I shewed him several, but none would suit; I went to the stair foot, to call to my wife to bring down another, and left five or six before him; after that, we agreed for one, and he offered me a shilling earnest: I said, I expected the money, if he had the watch. I suspected he had no good design; I looked about, and missed a watch, and charged him with taking it, which he absolutely denied, and turned out a tobacco-box from his pocket, and said, you see I have not got it: but when he saw I was for taking him by the collar. then he took my watch out of his pocket, and said, here is your watch; then he was for getting away, but I turned the key upon him, and got assistance, and secured him.</p>
+               <p>
+            
+                  <persName id="t17640912-4-person47">
+                  William 
+                  Shotter 
+               <interp inst="t17640912-4-person47" type="surname" value="Shotter"></interp>
+                     <interp inst="t17640912-4-person47" type="given" value="William"></interp>
+                     <interp inst="t17640912-4-person47" type="gender" value="male"></interp>
+                  </persName>
+            . I saw some people about the prosecutor's door; I went to see what was the matter, and he called me in, and gave me charge of the prisoner: in going along to the justice, he offered to spend a shilling, to make it up.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was fuddled, and do not know what I did.</p>
+               <p>Prosecutor. He might be in liquor for what I know, I never saw him before; he lives at Old Brentford. I have been and enquired his character, and find his neighbours give him a good one. I should be glad to recommend him to favour.</p>
+               <p>
+                  <rs id="t17640912-4-verdict19" type="verdictDescription">
+                     <interp inst="t17640912-4-verdict19" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640912-4-punish20" type="punishmentDescription">
+                     <interp inst="t17640912-4-punish20" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640912-4-defend43 t17640912-4-punish20"></join>
+               T
+            </rs>.</p>
+            </div1>

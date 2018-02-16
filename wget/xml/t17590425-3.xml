@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590425-3">
+               <interp inst="t17590425-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590425-3" type="year" value="1759"></interp>
+               <interp inst="t17590425-3" type="uri" value="sessionsPapers/17590425"></interp>
+               <interp inst="t17590425-3" type="date" value="17590425"></interp>
+               <join result="criminalCharge" id="t17590425-3-off13-c40" targOrder="Y" targets="t17590425-3-defend45 t17590425-3-off13 t17590425-3-verdict17"></join>
+         
+               <p>146. (M). 
+               
+                  <persName id="t17590425-3-defend45" type="defendantName">
+                     Anne 
+                     Feary 
+                  <interp inst="t17590425-3-defend45" type="surname" value="Feary"></interp>
+                     <interp inst="t17590425-3-defend45" type="given" value="Anne"></interp>
+                     <interp inst="t17590425-3-defend45" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17590425-3-deflabel12" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590425-3-defend45 t17590425-3-deflabel12"></join>, was indicted for <rs id="t17590425-3-off13" type="offenceDescription">
+                     <interp inst="t17590425-3-off13" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590425-3-off13" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one copper saucepan, value 3 s.
+            </rs> the property of 
+               
+                  <persName id="t17590425-3-victim47" type="victimName">
+                     Ralph 
+                     Wilkinson 
+                  <interp inst="t17590425-3-victim47" type="surname" value="Wilkinson"></interp>
+                     <interp inst="t17590425-3-victim47" type="given" value="Ralph"></interp>
+                     <interp inst="t17590425-3-victim47" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590425-3-off13 t17590425-3-victim47"></join>
+                  </persName>
+                
+            , <rs id="t17590425-3-cd14" type="crimeDate">April 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590425-3-off13 t17590425-3-cd14"></join>. *</p>
+               <p>Mary Wilkinson. I am wife to 
+               <persName id="t17590425-3-person48">
+                  Ralph 
+                  Wilkinson 
+               <interp inst="t17590425-3-person48" type="surname" value="Wilkinson"></interp>
+                     <interp inst="t17590425-3-person48" type="given" value="Ralph"></interp>
+                     <interp inst="t17590425-3-person48" type="gender" value="male"></interp>
+                  </persName>
+            ; the prisoner used to come to my house, but I had not seen her for above half a year before; she came in on the 10th of this instant, April.</p>
+               <p>Q. What house do you keep.</p>
+               <p>Wilkinson. I <rs id="t17590425-3-viclabel15" type="occupation">keep a publick house</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590425-3-victim47 t17590425-3-viclabel15"></join>, the <placeName id="t17590425-3-crimeloc16">Butchers arms, Kingstreet</placeName>
+                  <interp inst="t17590425-3-crimeloc16" type="placeName" value="Butchers arms, Kingstreet"></interp>
+                  <interp inst="t17590425-3-crimeloc16" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590425-3-off13 t17590425-3-crimeloc16"></join>; my maid had put a saucepan out into the yard, and just after the prisoner was gone we missed it; I, by enquiring about for her, was informed she was seen to carry such a saucepan to a pawnbroker's; I went there, and found it. Produced in court, and deposed to.</p>
+               <p>
+            
+                  <persName id="t17590425-3-person49">
+                  Elizabeth 
+                  Jones 
+               <interp inst="t17590425-3-person49" type="surname" value="Jones"></interp>
+                     <interp inst="t17590425-3-person49" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17590425-3-person49" type="gender" value="female"></interp>
+                  </persName>
+            . My father is a pawnbroker; the prisoner brought this saucepan here produced to our house, and I lent her two shillings and three pence upon it.</p>
+               <p>Q. What is it worth?</p>
+               <p>Jones. The most it would fetch, was it knock'd to pieces, is seven pence halfpenny per pound.</p>
+               <p>
+            
+                  <persName id="t17590425-3-person50">
+                  John 
+                  Noaks 
+               <interp inst="t17590425-3-person50" type="surname" value="Noaks"></interp>
+                     <interp inst="t17590425-3-person50" type="given" value="John"></interp>
+                     <interp inst="t17590425-3-person50" type="gender" value="male"></interp>
+                  </persName>
+            . I am constable; I took the woman up, and then went and found the saucepan at the pawnbroker's, where she had carried it.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175904250005"></xptr>Prisoner's Defence.</p>
+               <p>It is the first fact that ever I did in my life; I was in liquor when I took it, and when she ask'd me where I had carried it, I told her directly.</p>
+               <p>
+                  <rs id="t17590425-3-verdict17" type="verdictDescription">
+                     <interp inst="t17590425-3-verdict17" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17590425-3-verdict17" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+            </div1>

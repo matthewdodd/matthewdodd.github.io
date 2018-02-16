@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920629-26">
+               <interp inst="t16920629-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920629-26" type="year" value="1692"></interp>
+               <interp inst="t16920629-26" type="uri" value="sessionsPapers/16920629"></interp>
+               <interp inst="t16920629-26" type="date" value="16920629"></interp>
+               <join result="criminalCharge" id="t16920629-26-off135-c86" targOrder="Y" targets="t16920629-26-defend86 t16920629-26-off135 t16920629-26-verdict141"></join>
+         
+               <p>
+            
+                  <persName id="t16920629-26-defend86" type="defendantName">
+                  Nath. 
+                  Williams
+               <interp inst="t16920629-26-defend86" type="surname" value="Williams"></interp>
+                     <interp inst="t16920629-26-defend86" type="given" value="Nath."></interp>
+                     <interp inst="t16920629-26-defend86" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16920629-26-defloc133">St. Giles in the Fields</placeName>
+                  <interp inst="t16920629-26-defloc133" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t16920629-26-defloc133" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16920629-26-defend86 t16920629-26-defloc133"></join>, <rs id="t16920629-26-deflabel134" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920629-26-defend86 t16920629-26-deflabel134"></join> was Indicted and Tryed for the <rs id="t16920629-26-off135" type="offenceDescription">
+                     <interp inst="t16920629-26-off135" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16920629-26-off135" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     <persName id="t16920629-26-victim87" type="victimName">
+                        David 
+                        Heard
+                     <interp inst="t16920629-26-victim87" type="surname" value="Heard"></interp>
+                        <interp inst="t16920629-26-victim87" type="given" value="David"></interp>
+                        <interp inst="t16920629-26-victim87" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920629-26-off135 t16920629-26-victim87"></join>
+                     </persName>
+                  , <rs id="t16920629-26-viclabel136" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16920629-26-victim87 t16920629-26-viclabel136"></join> giving him a mortal Wound (with a Rapier, value 5 s.) upon the Right Shoulder near the Right Arm-hole, of the breadth of two Inches, and the length of eight Inches, of which Wound he instantly died
+            </rs>. The Murther was committed on the <rs id="t16920629-26-cd137" type="crimeDate">17th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920629-26-off135 t16920629-26-cd137"></join> last, in manner thus, The Person deceased was at the Horse-shoe Tavern in Drury-Lane, in company with some other Gentlemen, into whom came Mr. Williams, and the Prisoner and the Deceased happened to fall out concerning Fencing, (for they were both <rs id="t16920629-26-deflabel138" type="occupation">
+                     <rs id="t16920629-26-viclabel139" type="occupation">Fencing-Master</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16920629-26-victim87 t16920629-26-viclabel139"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16920629-26-defend86 t16920629-26-deflabel138"></join>s) and immediately upon the hot words, they call'd a Coach, and being come to the backside of <placeName id="t16920629-26-crimeloc140">Southampton-House in Bloomsbury</placeName>
+                  <interp inst="t16920629-26-crimeloc140" type="placeName" value="Southampton-House in Bloomsbury"></interp>
+                  <interp inst="t16920629-26-crimeloc140" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16920629-26-off135 t16920629-26-crimeloc140"></join>, they Fought, and Heard was Kill'd; Other Evidence declared that the deceased had lately taken a Fencing-School, and it might occasion the Prisoner to be jealous, that he would get his Scholars from him, which was partly the occasion of the Quarrel: The Prisoner alledged that the Deceased challenged him to fight for a Wager,<xptr type="pageFacsimile" doc="16920629004"></xptr>and urg'd him to it, and that he only stood on the defensive part, and that he had never any Malice against the Deceased: So he was only found <rs id="t16920629-26-verdict141" type="verdictDescription">
+                     <interp inst="t16920629-26-verdict141" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16920629-26-verdict141" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16920629-26-punish142" type="punishmentDescription">
+                     <interp inst="t16920629-26-punish142" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16920629-26-punish142" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920629-26-defend86 t16920629-26-punish142"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,83 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640502-62">
+               <interp inst="t17640502-62" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640502-62" type="year" value="1764"></interp>
+               <interp inst="t17640502-62" type="uri" value="sessionsPapers/17640502"></interp>
+               <interp inst="t17640502-62" type="date" value="17640502"></interp>
+               <join result="criminalCharge" id="t17640502-62-off363-c465" targOrder="Y" targets="t17640502-62-defend593 t17640502-62-off363 t17640502-62-verdict366"></join>
+         
+               <p>296. (M.) 
+               
+                  <persName id="t17640502-62-defend593" type="defendantName">
+                     Mary Frances 
+                     Perry 
+                  <interp inst="t17640502-62-defend593" type="surname" value="Perry"></interp>
+                     <interp inst="t17640502-62-defend593" type="given" value="Mary Frances"></interp>
+                     <interp inst="t17640502-62-defend593" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640502-62-off363" type="offenceDescription">
+                     <interp inst="t17640502-62-off363" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640502-62-off363" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one camblet gown, value 5 s. half a yard of camblet, a pair of stays, a stuff petticoat, two aprons, a flannel petticoat, a silk handkerchief, a silk and cotton handkerchief, a linen handkerchief, three linen caps, two silk ribbons, a pair of leather gloves, a pair of thread stockings, a pair of worsted stockings, a pair of leather shoes, a pair of stuff pockets, and a linen shift
+            </rs>, the property of 
+               
+                  <persName id="t17640502-62-victim595" type="victimName">
+                     Rebecca 
+                     Sidaway 
+                  <interp inst="t17640502-62-victim595" type="surname" value="Sidaway"></interp>
+                     <interp inst="t17640502-62-victim595" type="given" value="Rebecca"></interp>
+                     <interp inst="t17640502-62-victim595" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640502-62-off363 t17640502-62-victim595"></join>
+                  </persName>
+                
+            , <rs id="t17640502-62-cd364" type="crimeDate">February 28</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640502-62-off363 t17640502-62-cd364"></join>. +</p>
+               <p>
+            
+                  <persName id="t17640502-62-person596">
+                  Rebecca 
+                  Sidaway 
+               <interp inst="t17640502-62-person596" type="surname" value="Sidaway"></interp>
+                     <interp inst="t17640502-62-person596" type="given" value="Rebecca"></interp>
+                     <interp inst="t17640502-62-person596" type="gender" value="female"></interp>
+                  </persName>
+            . I lost the things mentioned in the indictment, on a Tuesday; I cannot justly say the day (she mentions them by name): when I found the prisoner, she had my hat, cloke, shift, handkerchief, petticoat, shoes and stockings upon her; the stays and other things she owned she had sold or pawned, and told me where.</p>
+               <p>Q. Did you know the prisoner before?</p>
+               <p>R. Sidaway. I never saw her, till I went to lodge at a house where she lodged, in <placeName id="t17640502-62-crimeloc365">Westminster</placeName>
+                  <interp inst="t17640502-62-crimeloc365" type="placeName" value="Westminster"></interp>
+                  <interp inst="t17640502-62-crimeloc365" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640502-62-off363 t17640502-62-crimeloc365"></join>: she lay in the same bed with me, and she went away while I was asleep, and the things were missing at the same time.</p>
+               <p>
+            
+                  <persName id="t17640502-62-person597">
+                  James 
+                  Haywood 
+               <interp inst="t17640502-62-person597" type="surname" value="Haywood"></interp>
+                     <interp inst="t17640502-62-person597" type="given" value="James"></interp>
+                     <interp inst="t17640502-62-person597" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker. (He produced a gown, apron, handkerchief, and cap): these were pledged to me by another woman, not the prisoner.</p>
+               <p>Prosecutrix. These are my property.</p>
+               <p>
+            
+                  <persName id="t17640502-62-person598">
+                  Anne 
+                  Short 
+               <interp inst="t17640502-62-person598" type="surname" value="Short"></interp>
+                     <interp inst="t17640502-62-person598" type="given" value="Anne"></interp>
+                     <interp inst="t17640502-62-person598" type="gender" value="female"></interp>
+                  </persName>
+            . The prosecutrix came to me, and said, the prisoner had robbed her of all she had: I saw the prisoner afterwards, with the things on her back, which the prosecutrix mentions, and heard her acknowledge to taking the rest.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I did pawn the things: I was in necessity, and had no money.</p>
+               <p>
+                  <rs id="t17640502-62-verdict366" type="verdictDescription">
+                     <interp inst="t17640502-62-verdict366" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640502-62-punish367" type="punishmentDescription">
+                     <interp inst="t17640502-62-punish367" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640502-62-defend593 t17640502-62-punish367"></join>
+               T
+            </rs>. </p>
+            </div1>

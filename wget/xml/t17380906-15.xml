@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380906-15">
+               <interp inst="t17380906-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380906-15" type="year" value="1738"></interp>
+               <interp inst="t17380906-15" type="uri" value="sessionsPapers/17380906"></interp>
+               <interp inst="t17380906-15" type="date" value="17380906"></interp>
+               <join result="criminalCharge" id="t17380906-15-off79-c89" targOrder="Y" targets="t17380906-15-defend119 t17380906-15-off79 t17380906-15-verdict81"></join>
+         
+               <p>17. 
+               
+                  <persName id="t17380906-15-defend119" type="defendantName">
+                     Benjamin 
+                     Tudman 
+                  <interp inst="t17380906-15-defend119" type="surname" value="Tudman"></interp>
+                     <interp inst="t17380906-15-defend119" type="given" value="Benjamin"></interp>
+                     <interp inst="t17380906-15-defend119" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17380906-15-off79" type="offenceDescription">
+                     <interp inst="t17380906-15-off79" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380906-15-off79" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Cock and 4 Hens
+            </rs>, the Goods of 
+               
+                  <persName id="t17380906-15-victim121" type="victimName">
+                     Thomas 
+                     Bell 
+                  <interp inst="t17380906-15-victim121" type="surname" value="Bell"></interp>
+                     <interp inst="t17380906-15-victim121" type="given" value="Thomas"></interp>
+                     <interp inst="t17380906-15-victim121" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17380906-15-off79 t17380906-15-victim121"></join>
+                  </persName>
+                
+            , <rs id="t17380906-15-cd80" type="crimeDate">Aug. 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380906-15-off79 t17380906-15-cd80"></join>. <rs id="t17380906-15-verdict81" type="verdictDescription">
+                     <interp inst="t17380906-15-verdict81" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17380906-15-verdict81" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17380906-15-punish82" type="punishmentDescription">
+                     <interp inst="t17380906-15-punish82" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17380906-15-punish82" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380906-15-defend119 t17380906-15-punish82"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

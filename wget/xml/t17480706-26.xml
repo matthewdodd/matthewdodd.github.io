@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17480706-26">
+               <interp inst="t17480706-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17480706-26" type="year" value="1748"></interp>
+               <interp inst="t17480706-26" type="uri" value="sessionsPapers/17480706"></interp>
+               <interp inst="t17480706-26" type="date" value="17480706"></interp>
+               <join result="criminalCharge" id="t17480706-26-off127-c183" targOrder="Y" targets="t17480706-26-defend228 t17480706-26-off127 t17480706-26-verdict129"></join>
+               <join result="criminalCharge" id="t17480706-26-off127-c184" targOrder="Y" targets="t17480706-26-defend230 t17480706-26-off127 t17480706-26-verdict129"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="174807060018"></xptr>345, 346. 
+               <persName id="t17480706-26-defend228" type="defendantName">
+                  Honner 
+                  Higgins 
+               <interp inst="t17480706-26-defend228" type="surname" value="Higgins"></interp>
+                     <interp inst="t17480706-26-defend228" type="given" value="Honner"></interp>
+                     <interp inst="t17480706-26-defend228" type="gender" value="female"></interp>
+                  </persName>
+             , and 
+               
+                  <persName id="t17480706-26-defend230" type="defendantName">
+                     Ann 
+                     Fling 
+                  <interp inst="t17480706-26-defend230" type="surname" value="Fling"></interp>
+                     <interp inst="t17480706-26-defend230" type="given" value="Ann"></interp>
+                     <interp inst="t17480706-26-defend230" type="gender" value="female"></interp>
+                  </persName>
+                
+            , otherwise <rs id="t17480706-26-alias-3" type="alias">Garrick</rs>, were indicted for <rs id="t17480706-26-off127" type="offenceDescription">
+                     <interp inst="t17480706-26-off127" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17480706-26-off127" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver watch, value 30 s.
+            </rs> the property of 
+               
+                  <persName id="t17480706-26-victim232" type="victimName">
+                     Stephen 
+                     Freeman 
+                  <interp inst="t17480706-26-victim232" type="surname" value="Freeman"></interp>
+                     <interp inst="t17480706-26-victim232" type="given" value="Stephen"></interp>
+                     <interp inst="t17480706-26-victim232" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17480706-26-off127 t17480706-26-victim232"></join>
+                  </persName>
+                
+            , <rs id="t17480706-26-cd128" type="crimeDate">June 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17480706-26-off127 t17480706-26-cd128"></join>.</p>
+               <p>
+                  <rs id="t17480706-26-verdict129" type="verdictDescription">
+                     <interp inst="t17480706-26-verdict129" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

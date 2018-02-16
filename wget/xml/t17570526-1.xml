@@ -1,3 +1,60 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17570526-1">
+               <interp inst="t17570526-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17570526-1" type="year" value="1757"></interp>
+               <interp inst="t17570526-1" type="uri" value="sessionsPapers/17570526"></interp>
+               <interp inst="t17570526-1" type="date" value="17570526"></interp>
+               <join result="criminalCharge" id="t17570526-1-off2-c28" targOrder="Y" targets="t17570526-1-defend29 t17570526-1-off2 t17570526-1-verdict6"></join>
+         
+               <p>213. 
+               
+                  <persName id="t17570526-1-defend29" type="defendantName">
+                     Margaret 
+                     Chalmers 
+                  <interp inst="t17570526-1-defend29" type="surname" value="Chalmers"></interp>
+                     <interp inst="t17570526-1-defend29" type="given" value="Margaret"></interp>
+                     <interp inst="t17570526-1-defend29" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17570526-1-deflabel1" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570526-1-defend29 t17570526-1-deflabel1"></join>, was indicted for <rs id="t17570526-1-off2" type="offenceDescription">
+                     <interp inst="t17570526-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17570526-1-off2" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one silver gilt snuff-box with an enamel'd picture, value 5 l. one gold case to a watch, value 5 l. one crystal buckle, one piece of silk embroider'd with silver, one silk sack and apron, the goods of 
+                     
+                        <persName id="t17570526-1-victim31" type="victimName">
+                           Henry 
+                           Wilmot 
+                        <interp inst="t17570526-1-victim31" type="surname" value="Wilmot"></interp>
+                        <interp inst="t17570526-1-victim31" type="given" value="Henry"></interp>
+                        <interp inst="t17570526-1-victim31" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , <rs id="t17570526-1-viclabel3" type="occupation">Esq</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17570526-1-victim31 t17570526-1-viclabel3"></join>; one velvet coat, and one pair of velvet breeches
+            </rs>, the goods of 
+               <persName id="t17570526-1-victim32" type="victimName">
+                  Valentine 
+                  Morris 
+               <interp inst="t17570526-1-victim32" type="surname" value="Morris"></interp>
+                     <interp inst="t17570526-1-victim32" type="given" value="Valentine"></interp>
+                     <interp inst="t17570526-1-victim32" type="gender" value="male"></interp>
+                  </persName>
+             , <rs id="t17570526-1-viclabel4" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17570526-1-victim32 t17570526-1-viclabel4"></join>; <rs id="t17570526-1-cd5" type="crimeDate">March 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17570526-1-off2 t17570526-1-cd5"></join>.</p>
+               <p>To which she <rs id="t17570526-1-verdict6" type="verdictDescription">
+                     <interp inst="t17570526-1-verdict6" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17570526-1-verdict6" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17570526-1-punish7" type="punishmentDescription">
+                     <interp inst="t17570526-1-punish7" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17570526-1-defend29 t17570526-1-punish7"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

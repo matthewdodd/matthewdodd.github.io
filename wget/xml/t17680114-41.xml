@@ -1,3 +1,143 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680114-41">
+               <interp inst="t17680114-41" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680114-41" type="year" value="1768"></interp>
+               <interp inst="t17680114-41" type="uri" value="sessionsPapers/17680114"></interp>
+               <interp inst="t17680114-41" type="date" value="17680114"></interp>
+               <join result="criminalCharge" id="t17680114-41-off271-c405" targOrder="Y" targets="t17680114-41-defend501 t17680114-41-off271 t17680114-41-verdict275"></join>
+               <join result="criminalCharge" id="t17680114-41-off271-c407" targOrder="Y" targets="t17680114-41-defend503 t17680114-41-off271 t17680114-41-verdict277"></join>
+         
+               <p>151, 152. (L.) 
+               <persName id="t17680114-41-defend501" type="defendantName">
+                  Alice, <rs id="t17680114-41-deflabel269" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17680114-41-defend501 t17680114-41-deflabel269"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17680114-41-defend503 t17680114-41-deflabel269"></join> of 
+                     <persName id="t17680114-41-person502">
+                        William 
+                        Henland 
+                     <interp inst="t17680114-41-person502" type="surname" value="Henland"></interp>
+                        <interp inst="t17680114-41-person502" type="given" value="William"></interp>
+                        <interp inst="t17680114-41-person502" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17680114-41-defend501" type="surname" value="Henland"></interp>
+                     <interp inst="t17680114-41-defend501" type="given" value="Alice"></interp>
+                     <interp inst="t17680114-41-defend501" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17680114-41-defend503" type="defendantName">
+                  Elizabeth, <rs id="t17680114-41-deflabel270" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17680114-41-defend501 t17680114-41-deflabel270"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17680114-41-defend503 t17680114-41-deflabel270"></join> of 
+                     <persName id="t17680114-41-person504">
+                        Richard 
+                        Kilberry 
+                     <interp inst="t17680114-41-person504" type="surname" value="Kilberry"></interp>
+                        <interp inst="t17680114-41-person504" type="given" value="Richard"></interp>
+                        <interp inst="t17680114-41-person504" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17680114-41-defend503" type="surname" value="Kilberry"></interp>
+                     <interp inst="t17680114-41-defend503" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17680114-41-defend503" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17680114-41-off271" type="offenceDescription">
+                     <interp inst="t17680114-41-off271" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680114-41-off271" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a gold ring with a white cornelian stone, value 20 s.
+            </rs> the property of 
+               
+                  <persName id="t17680114-41-victim506" type="victimName">
+                     John 
+                     Lewis 
+                  <interp inst="t17680114-41-victim506" type="surname" value="Lewis"></interp>
+                     <interp inst="t17680114-41-victim506" type="given" value="John"></interp>
+                     <interp inst="t17680114-41-victim506" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680114-41-off271 t17680114-41-victim506"></join>
+                  </persName>
+                
+            , <rs id="t17680114-41-cd272" type="crimeDate">Jan. 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680114-41-off271 t17680114-41-cd272"></join>. +</p>
+               <p>
+            
+                  <persName id="t17680114-41-person507">
+                  John 
+                  Lewis 
+               <interp inst="t17680114-41-person507" type="surname" value="Lewis"></interp>
+                     <interp inst="t17680114-41-person507" type="given" value="John"></interp>
+                     <interp inst="t17680114-41-person507" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17680114-41-crimeloc273">St. Paul's Church-yard</placeName>
+                  <interp inst="t17680114-41-crimeloc273" type="placeName" value="St. Paul's Church-yard"></interp>
+                  <interp inst="t17680114-41-crimeloc273" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680114-41-off271 t17680114-41-crimeloc273"></join>, I am a <rs id="t17680114-41-viclabel274" type="occupation">comb-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680114-41-victim506 t17680114-41-viclabel274"></join>; the bell was rang for me about three in the afternoon, on the 9th of January, to come into the shop; when I came into the shop, I saw the two prisoners at the bar, at a drawer where was a case of rings; I knew that ring is for an item we have of suspicious persons; there lay eight or ten rings; one of them asked me what I would give for a ring; presently I saw the other with a motion with her hand, drawing the case of rings towards her; then my servant went to replace the rings, I asked him whether he missed one; he said he did; then I said, that woman, meaning Henland, has got it; I looked in her apron and there I saw it; (produced in court, a ring with a white cornelian stone, and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17680114-41-person508">
+                  James 
+                  Brundal 
+               <interp inst="t17680114-41-person508" type="surname" value="Brundal"></interp>
+                     <interp inst="t17680114-41-person508" type="given" value="James"></interp>
+                     <interp inst="t17680114-41-person508" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to Mr. Lewis, last Saturday morning the prisoner Kilberry came to me, and asked me if I would buy a pair of silver tea-tongs; I refused buying them; she came again in the afternoon, the other prisoner was with her, and asked me if I would buy a silver coral; I had had the rings out, she began to pull them about; I rang for my master, then I began to put the rings to rights; my master asked me if I missed any; I said I missed one, then he said that woman had got it, and pointed to Henland; he looked into her apron, and I saw him take this ring here produced out.</p>
+               <p>Henland's defence.</p>
+               <p>The ring lay by my apron, but I never saw it nor touched it.</p>
+               <p>Kilberry's defence.</p>
+               <p>I am not guilty.</p>
+               <p>To Kilberry's character.</p>
+               <p>
+            
+                  <persName id="t17680114-41-person509">
+                  Thomas 
+                  Gobsel 
+               <interp inst="t17680114-41-person509" type="surname" value="Gobsel"></interp>
+                     <interp inst="t17680114-41-person509" type="given" value="Thomas"></interp>
+                     <interp inst="t17680114-41-person509" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Kilberry about five years, I never knew but that she was an honest woman; she lives in Christopher's-court St. Martins-le-grand, her husband is a master taylor.</p>
+               <p>
+            
+                  <persName id="t17680114-41-person510">
+                  Joseph 
+                  Browning 
+               <interp inst="t17680114-41-person510" type="surname" value="Browning"></interp>
+                     <interp inst="t17680114-41-person510" type="given" value="Joseph"></interp>
+                     <interp inst="t17680114-41-person510" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the same court that Kilberry does, I am her opposite neighbour, I believe her to be an honest woman; since she has been under confinement, she has been quite delirious.</p>
+               <p>
+            
+                  <persName id="t17680114-41-person511">
+                  Jane 
+                  Fisher 
+               <interp inst="t17680114-41-person511" type="surname" value="Fisher"></interp>
+                     <interp inst="t17680114-41-person511" type="given" value="Jane"></interp>
+                     <interp inst="t17680114-41-person511" type="gender" value="female"></interp>
+                  </persName>
+            . I have known her six or seven years, she is a very honest woman and bears a very good character.</p>
+               <p>
+            
+                  <persName id="t17680114-41-person512">
+                  Catherine 
+                  Barebrook 
+               <interp inst="t17680114-41-person512" type="surname" value="Barebrook"></interp>
+                     <interp inst="t17680114-41-person512" type="given" value="Catherine"></interp>
+                     <interp inst="t17680114-41-person512" type="gender" value="female"></interp>
+                  </persName>
+            . I have known her four years, she is a very honest woman, I never heard to the contrary.</p>
+               <p>Henland <rs id="t17680114-41-verdict275" type="verdictDescription">
+                     <interp inst="t17680114-41-verdict275" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680114-41-punish276" type="punishmentDescription">
+                     <interp inst="t17680114-41-punish276" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17680114-41-punish276" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680114-41-defend501 t17680114-41-punish276"></join>
+               B
+            </rs>.</p>
+               <p>Kilberry <rs id="t17680114-41-verdict277" type="verdictDescription">
+                     <interp inst="t17680114-41-verdict277" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

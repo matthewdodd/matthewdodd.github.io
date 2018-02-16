@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341204-69">
+               <interp inst="t17341204-69" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341204-69" type="year" value="1734"></interp>
+               <interp inst="t17341204-69" type="uri" value="sessionsPapers/17341204"></interp>
+               <interp inst="t17341204-69" type="date" value="17341204"></interp>
+               <join result="criminalCharge" id="t17341204-69-off337-c371" targOrder="Y" targets="t17341204-69-defend522 t17341204-69-off337 t17341204-69-verdict340"></join>
+         
+               <p>66. 
+               
+                  <persName id="t17341204-69-defend522" type="defendantName">
+                     Elizabeth 
+                     nixon 
+                  <interp inst="t17341204-69-defend522" type="surname" value="nixon"></interp>
+                     <interp inst="t17341204-69-defend522" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17341204-69-defend522" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17341204-69-off337" type="offenceDescription">
+                     <interp inst="t17341204-69-off337" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17341204-69-off337" type="offenceSubcategory" value="robbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17341204-69-victim524" type="victimName">
+                           Richard 
+                           Cartwright 
+                        <interp inst="t17341204-69-victim524" type="surname" value="Cartwright"></interp>
+                        <interp inst="t17341204-69-victim524" type="given" value="Richard"></interp>
+                        <interp inst="t17341204-69-victim524" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17341204-69-off337 t17341204-69-victim524"></join>
+                     </persName>
+                      
+                   in a House unknown, putting him in fear, and taking from him a Watch value 3 l.
+            </rs> 
+                  <rs id="t17341204-69-cd338" type="crimeDate">Octob. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341204-69-off337 t17341204-69-cd338"></join>.</p>
+               <p>
+            
+                  <persName id="t17341204-69-person525">
+                  Richard 
+                  Cartwright 
+               <interp inst="t17341204-69-person525" type="surname" value="Cartwright"></interp>
+                     <interp inst="t17341204-69-person525" type="given" value="Richard"></interp>
+                     <interp inst="t17341204-69-person525" type="gender" value="male"></interp>
+                  </persName>
+            . In <placeName id="t17341204-69-crimeloc339">Johnson's Yard, in Windmill street</placeName>
+                  <interp inst="t17341204-69-crimeloc339" type="placeName" value="Johnson's Yard, in Windmill street"></interp>
+                  <interp inst="t17341204-69-crimeloc339" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17341204-69-off337 t17341204-69-crimeloc339"></join>, where there had been a Fire, two Doors from my own Dwelling, there was a House in which idle Women harbour'd. They had pull'd down one of the Rooms to make a Fire in the other; and so they had set Fire to the Place once. The Neighbours were about getting a Warrant to turn 'em out. I was willing to know what sort of Cattle they were, and going in for that purpose, the Prisoner, and another Woman enticed me up Stairs, and there they fell upon me, and rummaged me about, and got me down - I suppose they had a mind to be great with me, for they ravish'd me - of my Watch: But I can't swear that the Prisoner was one of those that took it. <rs id="t17341204-69-verdict340" type="verdictDescription">
+                     <interp inst="t17341204-69-verdict340" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

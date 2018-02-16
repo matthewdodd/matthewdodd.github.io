@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370420-12">
+               <interp inst="t17370420-12" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370420-12" type="year" value="1737"></interp>
+               <interp inst="t17370420-12" type="uri" value="sessionsPapers/17370420"></interp>
+               <interp inst="t17370420-12" type="date" value="17370420"></interp>
+               <join result="criminalCharge" id="t17370420-12-off61-c89" targOrder="Y" targets="t17370420-12-defend115 t17370420-12-off61 t17370420-12-verdict63"></join>
+         
+
+               <p>13. 
+               
+                  <persName id="t17370420-12-defend115" type="defendantName">
+                     James 
+                     Abbot 
+                  <interp inst="t17370420-12-defend115" type="surname" value="Abbot"></interp>
+                     <interp inst="t17370420-12-defend115" type="given" value="James"></interp>
+                     <interp inst="t17370420-12-defend115" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17370420-12-defloc60">St. Mary le Bone</placeName>
+                  <interp inst="t17370420-12-defloc60" type="placeName" value="St. Mary le Bone"></interp>
+                  <interp inst="t17370420-12-defloc60" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17370420-12-defend115 t17370420-12-defloc60"></join>, was indicted for <rs id="t17370420-12-off61" type="offenceDescription">
+                     <interp inst="t17370420-12-off61" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17370420-12-off61" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 13 Feet of Leaden Pipe, value 26 s. the Goods of 
+                     
+                        <persName id="t17370420-12-victim117" type="victimName">
+                           Walter 
+                           Lee 
+                        <interp inst="t17370420-12-victim117" type="surname" value="Lee"></interp>
+                        <interp inst="t17370420-12-victim117" type="given" value="Walter"></interp>
+                        <interp inst="t17370420-12-victim117" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370420-12-off61 t17370420-12-victim117"></join>
+                     </persName>
+                      
+                  , and fixed to a Freehold belonging to the said Lee
+            </rs> 
+                  <rs id="t17370420-12-cd62" type="crimeDate">March 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370420-12-off61 t17370420-12-cd62"></join>. <rs id="t17370420-12-verdict63" type="verdictDescription">
+                     <interp inst="t17370420-12-verdict63" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17370420-12-punish64" type="punishmentDescription">
+                     <interp inst="t17370420-12-punish64" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17370420-12-defend115 t17370420-12-punish64"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

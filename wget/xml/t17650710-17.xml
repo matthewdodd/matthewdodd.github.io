@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650710-17">
+               <interp inst="t17650710-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650710-17" type="year" value="1765"></interp>
+               <interp inst="t17650710-17" type="uri" value="sessionsPapers/17650710"></interp>
+               <interp inst="t17650710-17" type="date" value="17650710"></interp>
+               <join result="criminalCharge" id="t17650710-17-off88-c139" targOrder="Y" targets="t17650710-17-defend170 t17650710-17-off88 t17650710-17-verdict90"></join>
+         
+               <p>359. (L.) 
+               <persName id="t17650710-17-defend170" type="defendantName">
+                  Mary, <rs id="t17650710-17-deflabel87" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17650710-17-defend170 t17650710-17-deflabel87"></join> of 
+                     <persName id="t17650710-17-person171">
+                        John 
+                        Beckett 
+                     <interp inst="t17650710-17-person171" type="surname" value="Beckett"></interp>
+                        <interp inst="t17650710-17-person171" type="given" value="John"></interp>
+                        <interp inst="t17650710-17-person171" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17650710-17-defend170" type="surname" value="Beckett"></interp>
+                     <interp inst="t17650710-17-defend170" type="given" value="Mary"></interp>
+                     <interp inst="t17650710-17-defend170" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17650710-17-off88" type="offenceDescription">
+                     <interp inst="t17650710-17-off88" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650710-17-off88" type="offenceSubcategory" value="receiving"></interp>
+               receiving six quartern loaves of wheaten bread, the property of 
+                     
+                        <persName id="t17650710-17-victim173" type="victimName">
+                           Robert 
+                           Bagnall 
+                        <interp inst="t17650710-17-victim173" type="surname" value="Bagnall"></interp>
+                        <interp inst="t17650710-17-victim173" type="given" value="Robert"></interp>
+                        <interp inst="t17650710-17-victim173" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17650710-17-off88 t17650710-17-victim173"></join>
+                     </persName>
+                      
+                  , being part of the goods stolen by 
+                     <persName id="t17650710-17-person174">
+                        Walter 
+                        Hart 
+                     <interp inst="t17650710-17-person174" type="surname" value="Hart"></interp>
+                        <interp inst="t17650710-17-person174" type="given" value="Walter"></interp>
+                        <interp inst="t17650710-17-person174" type="gender" value="male"></interp>
+                     </persName>
+                  , well knowing them to have been stolen
+            </rs>, <rs id="t17650710-17-cd89" type="crimeDate">May 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650710-17-off88 t17650710-17-cd89"></join>. ++</p>
+               <p>The evidence here was the same as on the trial of Hart (see No. 299. in last Sessions-Paper). It appearing she received the loaves in company with her husband, so could not be guilty of a felony.</p>
+               <p>She was <rs id="t17650710-17-verdict90" type="verdictDescription">
+                     <interp inst="t17650710-17-verdict90" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

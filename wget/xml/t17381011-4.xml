@@ -1,3 +1,279 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17381011-4">
+               <interp inst="t17381011-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17381011-4" type="year" value="1738"></interp>
+               <interp inst="t17381011-4" type="uri" value="sessionsPapers/17381011"></interp>
+               <interp inst="t17381011-4" type="date" value="17381011"></interp>
+               <join result="criminalCharge" id="t17381011-4-off17-c48" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-off17 t17381011-4-verdict24"></join>
+               <join result="criminalCharge" id="t17381011-4-off17-c49" targOrder="Y" targets="t17381011-4-defend60 t17381011-4-off17 t17381011-4-verdict24"></join>
+               <join result="criminalCharge" id="t17381011-4-off19-c48" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-off19 t17381011-4-verdict24"></join>
+               <join result="criminalCharge" id="t17381011-4-off19-c49" targOrder="Y" targets="t17381011-4-defend60 t17381011-4-off19 t17381011-4-verdict24"></join>
+               <join result="criminalCharge" id="t17381011-4-off21-c48" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-off21 t17381011-4-verdict24"></join>
+               <join result="criminalCharge" id="t17381011-4-off21-c49" targOrder="Y" targets="t17381011-4-defend60 t17381011-4-off21 t17381011-4-verdict24"></join>
+         
+               <p>5, 6. 
+               
+                  <persName id="t17381011-4-defend58" type="defendantName">
+                     John
+                      Fosset alias 
+                     <rs id="t17381011-4-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-alias-2"></join>Powell</rs>
+                     <interp inst="t17381011-4-defend58" type="surname" value="Fosset alias"></interp>
+                     <interp inst="t17381011-4-defend58" type="given" value="John"></interp>
+                     <interp inst="t17381011-4-defend58" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17381011-4-defend60" type="defendantName">
+                     William 
+                     Sylvester 
+                  <interp inst="t17381011-4-defend60" type="surname" value="Sylvester"></interp>
+                     <interp inst="t17381011-4-defend60" type="given" value="William"></interp>
+                     <interp inst="t17381011-4-defend60" type="gender" value="male"></interp>
+                  </persName>
+                
+            , of <placeName id="t17381011-4-defloc16">St. George's Middlesex</placeName>
+                  <interp inst="t17381011-4-defloc16" type="placeName" value="St. George's Middlesex"></interp>
+                  <interp inst="t17381011-4-defloc16" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-defloc16"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17381011-4-defend60 t17381011-4-defloc16"></join>, was indicted for <rs id="t17381011-4-off17" type="offenceDescription">
+                     <interp inst="t17381011-4-off17" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17381011-4-off17" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17381011-4-victim62" type="victimName">
+                           Jane 
+                           Hussey 
+                        <interp inst="t17381011-4-victim62" type="surname" value="Hussey"></interp>
+                        <interp inst="t17381011-4-victim62" type="given" value="Jane"></interp>
+                        <interp inst="t17381011-4-victim62" type="gender" value="female"></interp>
+                     </persName>
+                      
+                   in the King's Highway, putting her in Fear, &amp;c. and taking from her a silver Thimble, value 1 s. and 8 d in Money
+            </rs>, <rs id="t17381011-4-cd18" type="crimeDate">Sept. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off17 t17381011-4-cd18"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off19 t17381011-4-cd18"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off21 t17381011-4-cd18"></join>
+               </p>
+               <p>They were a 2d Time indicted for <rs id="t17381011-4-off19" type="offenceDescription">
+                     <interp inst="t17381011-4-off19" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17381011-4-off19" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17381011-4-victim64" type="victimName">
+                           Henry 
+                           Southall 
+                        <interp inst="t17381011-4-victim64" type="surname" value="Southall"></interp>
+                        <interp inst="t17381011-4-victim64" type="given" value="Henry"></interp>
+                        <interp inst="t17381011-4-victim64" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the King's Highway, &amp;c. and taking from him 6 s. in Money
+            </rs>, <rs id="t17381011-4-cd20" type="crimeDate">Sept. 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off17 t17381011-4-cd20"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off19 t17381011-4-cd20"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off21 t17381011-4-cd20"></join>.</p>
+               <p>They were a 3d Time indicted for <rs id="t17381011-4-off21" type="offenceDescription">
+                     <interp inst="t17381011-4-off21" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17381011-4-off21" type="offenceSubcategory" value="highwayRobbery"></interp>
+               assaulting 
+                     
+                        <persName id="t17381011-4-victim66" type="victimName">
+                           Mary 
+                           Arkin 
+                        <interp inst="t17381011-4-victim66" type="surname" value="Arkin"></interp>
+                        <interp inst="t17381011-4-victim66" type="given" value="Mary"></interp>
+                        <interp inst="t17381011-4-victim66" type="gender" value="female"></interp>
+                     </persName>
+                      
+                   on the King's Highway, and taking from her a linnen Handkerchief, value 6 d
+            </rs> 
+                  <rs id="t17381011-4-cd22" type="crimeDate">Sept 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off17 t17381011-4-cd22"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off19 t17381011-4-cd22"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17381011-4-off21 t17381011-4-cd22"></join>.</p>
+               <p>Mrs. Hussey. On the 5th of Sept. I took Coach at Night with Mr. Southall, and Mrs. Arkin at Pye-Corner, to go into <placeName id="t17381011-4-crimeloc23">Princes-Square in Ratcliff-Highway</placeName>
+                  <interp inst="t17381011-4-crimeloc23" type="placeName" value="Princes-Square in Ratcliff-Highway"></interp>
+                  <interp inst="t17381011-4-crimeloc23" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17381011-4-off17 t17381011-4-crimeloc23"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17381011-4-off19 t17381011-4-crimeloc23"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17381011-4-off21 t17381011-4-crimeloc23"></join>: 'twas 11 o'Clock by that Time we turn'd into the Square. Before we got to our Door, 2 Men came with Pistols, - one on each Side of the Coach, and having stopp'd it, they demanded our Money, Watches and Rings in a Minute, or else they would kill us. To the best of my Knowledge, Sylvester is the Man who was on the Side of the Coach where I sat, I take him to be the Man by his Apparel, Stature and Voice. By his Size I believe Powell to be the Person that was at the other Door. Sylvester was the Man to whom I deliver'd a silver Thimble, worth 1 s. and 6 d. in Silver, and about 2 Penn'orth of Half-pence, for Fear of my Life. I can say more to Sylvester than I can to Powell, for it was dark, and there was no Lamps, nor any Moon; but there was a Light from a Window in a House No. 9 and a Maid came to light 2 Gentlemen out of Doors at No. 6, by which Means I was able to distinguish Sylvester's Face. I never saw him after he had robbed me, 'till I saw him at Justice Farmer's, and there I said he was the Man, to the best of my Knowledge; for when the Light was come to the Door at No. 6, they stood some Minutes, and the Gentlemen who were at that Door were coming to our Assistance, but they bid the Coachman drive on, and they ran away.</p>
+               <p>Powel. Were they Englishmen or Irishmen that robbed you?</p>
+               <p>Mrs. Hussey. I think they were Englishmen, they spoke like such.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person67">
+                  Joseph 
+                  Hatton 
+               <interp inst="t17381011-4-person67" type="surname" value="Hatton"></interp>
+                     <interp inst="t17381011-4-person67" type="given" value="Joseph"></interp>
+                     <interp inst="t17381011-4-person67" type="gender" value="male"></interp>
+                  </persName>
+            , Coachman. On the 5th of Sept. at Night, I was called to carry these two Gentlewomen and Mr. Southall from Pye Corner to Princes-Square. As I turned out of Ratcliff-Highway, I observed two Men following the Coach, and I had not gone far into the Square before they took hold of the Horses, and each of them presenting a Pistol, they said if I stirred an Inch they would shoot my Brains out. Then they went up, (one<xptr type="pageFacsimile" doc="173810110006"></xptr> on each Side) to the Coach Doors, and demanded the Gentlefolks Money, &amp;c. or their Lives were gone in a Minute; while they, were robbing the Coach, a Maid opened a Door, with a Candle to light two Gentlemen out. Then I jumped off my Box, and Mr. Southall got out of the Coach, but the Prisoners ran away and got off. It was dark, and there was no Moon, but it was very Starlight, and the Candle coming out close to the Coach, I took a great deal of Notice of them. Sylvester stood at the off Door, and Powell at the near Door; I am positive and sure that the Prisoners are the Men. After this, Mr. Brown's Chariot was stopped in the Street, and he having got the Prisoners into New Prison, he found me out, and desired me to go and see if I knew them. I went thither, and found 40 or 50 Men and Women in the Yard, whether they were all Prisoners or not I can't tell, but the Minute I went in, I saw Sylvester sitting upon a Bench, smoaking a Pipe; Powell was at Pitch-farthing, and I immediately said they were the Men. They were both of them in Irons indeed, but there were more in Irons beside them.</p>
+               <p>Jury. We would ask whether he knew them by their Voices, or directly upon the Sight of them?</p>
+               <p>Hatton. The People belonging to the Prison did not know what Business I came upon, nor had any one said a Word to me before I pitched upon the Prisoners. I knew them by Sight; - and by their Cloaths.</p>
+               <p>Powell. He came into the Prison not like a Man that would do Justice. He came and took no Notice at all of his Business there, till he was going out. Please to ask him if he did not ask a Creature in the Yard, who were the Men that were there, on Suspicion of robbing a Coach?</p>
+               <p>Haiton. There was a Woman there who asked me to give her a Pot of Beer, and I did so, but it was after I had pointed to the two Prisoners.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person68">
+                  Henry 
+                  Southall 
+               <interp inst="t17381011-4-person68" type="surname" value="Southall"></interp>
+                     <interp inst="t17381011-4-person68" type="given" value="Henry"></interp>
+                     <interp inst="t17381011-4-person68" type="gender" value="male"></interp>
+                  </persName>
+            . I was in the Coach when 'twas robbed in Princes-Square. It stopping suddenly at No. 8. I put my Head out to bid the Coachman drive to the next Light, and immediately a Man came up to me, with his Hat in one Hand, and a Pistol in the other, and cry'd d - mn your Bloods you are all dead, if you don't deliver your Watches and Money this Minute. Powell (I think) is the Man that was on my Side of the Coach, and I sat on the left Hand Side. I don't swear possitively, I only say I believe in my Conscience he was the Man; for he was by me a good while, and gave me 2 or 3 Jobbs on the Belly with his Pistol. As to Sylvester, I can say nothing to him, I am more positive to Powell, for when he had got what he could, he want off a little Way, and then came back again, and told us we had not given him all we had about us. When I heard that Mr. Brown's Coachman had taken two Men for robbing his Coach, I went to New Prison, and the Keepers Wife had about 8 or 10 call'd up; - most of them were in Irons, but I did not much mind that, I looked only at their Faces; and as soon as ever they came up, I said, - Madam I need not give you any farther Trouble, I believe I see the Man that robbed me; and when they were examined before Justice Farmer, I pick'd Powell out again, and said, - he was the Man.</p>
+               <p>Powell. Please to ask him if he did not say before the Justice, that the Men who robb'd the Coach were Irishmen, and were taller and bigger Men than we are?</p>
+               <p>Mr. Southall. No, I said no such Thing; for they damn'd and cursed so fast, that I could not distinguish what Countrymen they were.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person69">
+                  Mary 
+                  Arkin 
+               <interp inst="t17381011-4-person69" type="surname" value="Arkin"></interp>
+                     <interp inst="t17381011-4-person69" type="given" value="Mary"></interp>
+                     <interp inst="t17381011-4-person69" type="gender" value="female"></interp>
+                  </persName>
+            . I was in the Coach at the same Time the 2 Men came up to it. Sylvester I take to be the Man who was on my Side of the Coach. I really believe him to be the Person, from the View I had of him by a Light which I saw at a Distance; I took Notice of his Face, and of his Cloaths; he had then on the same brown Coat that he wears now. I take Powell to be the Man who was on the other side the Coach by his Stature, he had on a brown Wig, and a lightish coloured Coat, - not the same he has on now. As soon as they came up to us, they cryed d - mn you, your Money, Watches and Rings in a Minute. I charged Sylvester with being the Man that was on our Side, when I saw him before the Justice.</p>
+               <p>Defence. 
+               <persName id="t17381011-4-person70">
+                  John 
+                  Miller 
+               <interp inst="t17381011-4-person70" type="surname" value="Miller"></interp>
+                     <interp inst="t17381011-4-person70" type="given" value="John"></interp>
+                     <interp inst="t17381011-4-person70" type="gender" value="male"></interp>
+                  </persName>
+             I am Turnkey of New-Prison; when Hatton the Coachman came to the Goal, he called for a Tankard of Beer, and spoke to a Prisoner; what he said to her I can't tell. I asked him who he wanted, and he told me he came to see the 2 Men that were here, on Suspicion of robbing the Coach in Ratcliff-Highway. Let them have fair Play, says I, and called the Prisoners, I believe 7 or 8 of them were ironed, and these 2 Men in particular were double iron'd. I bid him be sure, for their Lives were depending; upon which he looked round, and pointing to Sylvester, he said, I believe that Man is one. I bid him again be sure, and he asked me whether I would have him say wrong. Then turning himself<xptr type="pageFacsimile" doc="173810110007"></xptr> round, he pitched upon Powell and said, he was the other. I again bid him be sure; upon which he said. - let who will have done the Robbery, these Men shall suffer for it; - I have been accused of it, as if some of my Consorts had done it, and to clear my self, they shall suffer for it. There was another Coachman with him, and he peep'd thro' the Checquers in the Gate, and said he wanted to see the two Men that had robbed his Coach.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person71">
+                  Tho 
+                  Lander 
+               <interp inst="t17381011-4-person71" type="surname" value="Lander"></interp>
+                     <interp inst="t17381011-4-person71" type="given" value="Tho"></interp>
+                     <interp inst="t17381011-4-person71" type="gender" value="male"></interp>
+                  </persName>
+            . I keep the Suttling House in New-Prison, and saw Hatton when he came to the Prison. He has but one Eye, and I know him again. He came directly into my House, and call'd for Beer, and for one or two of the Women Prisoners; and I heard him ask them in the Yard, (not in the House) which were the Men that came in on Suspicion of robbing the Coach? The Women told him they were the Men which were double-iron'd.</p>
+               <p>Q. Was this Discourse between Hatton and the Women, before, or after he had pitch'd upon the Men?</p>
+               <p>Lander. I did not apprehend he had pitch'd on them before. I saw him when he came first into the Prison, and the two Prisoners were then walking about the Yard. I saw neither of them sitting; Sylvester was smoaking, and both he and Powell were walking about. He pitch'd upon them, when the Prisoners were call'd together, but they were both double iron'd.</p>
+               <p>Jury. We desire to know, if he saw the Coachman as soon as he came in at the Gate?</p>
+               <p>Lander. I did not see him come in at the outer Gate; but I saw him and another Man come in at the inner Gate, - the checquer'd Gate. Here's one of the Women he spoke to, before the Prisoners were call'd up.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person72">
+                  Cordelia 
+                  Taylor 
+               <interp inst="t17381011-4-person72" type="surname" value="Taylor"></interp>
+                     <interp inst="t17381011-4-person72" type="given" value="Cordelia"></interp>
+                     <interp inst="t17381011-4-person72" type="gender" value="female"></interp>
+                  </persName>
+            . 'Tis common for People in Jail to stand at the checquer'd Gate, to see if any of their Acquaintance comes; and seeing Hatton, I knew him, and asked him to give me something. He asked me which were the Men that robbed the Coach? I told him they were double iron'd. Aye, says he, here they are, and right or wrong I will swear against them, or else I shall come into bad Bread. He said nothing else, - only that he did not know them; and this Discourse was before he saw them.</p>
+               <p>Jury. How long might Hatton be in the Yard before he went into the Tap-house?</p>
+               <p>Taylor Half a quarter of an Hour.</p>
+               <p>Jury. Because Lander swore he came directly from the Gate into the Tap-house, and call'd in the Women.</p>
+               <p>Taylor. This Discourse was before he went into the Tap-house; and after this I went with him into the Tap-house, but I did not change a Word with him there. Lander was by, (in the Yard) when this Discourse pass'd and he might hear it. He was present when Hatton said he would swear against them, right or wrong, and I believe heard us all the Time. There was a Man came in at the Gate with him, but he walked towards the Tap, while we talked together.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person73">
+                  Eliz 
+                  Fosset 
+               <interp inst="t17381011-4-person73" type="surname" value="Fosset"></interp>
+                     <interp inst="t17381011-4-person73" type="given" value="Eliz"></interp>
+                     <interp inst="t17381011-4-person73" type="gender" value="male"></interp>
+                  </persName>
+            , (the Mother of Powell alias Fosset) I live in Whitechapple, and that's about a Mile cross the Fields from Ratcliff Highway -</p>
+               <p>Jury. 'Tis not above half a Mile.</p>
+               <p>Fosset. From the last Day of August to the 7th of September, my Son was at home every Night from Night-fall to next Morning. I have but one Room, and my Bed and my Daughter's is in the same Room. 'Tis a Cellar, into which we go down 3 or 4 Steps. He had an Ailment upon him, which made it improper for him to continue on Board his Ship, so he came home, and I 'ointed him every Night; he lay in my Daughter's Bed; she lay with me, and if he went to sleep, he could not go out of the Room without my Knowledge, I am sure of it, - from the Bottom of my Heart.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person74">
+                  Ellen 
+                  Fosset 
+               <interp inst="t17381011-4-person74" type="surname" value="Fosset"></interp>
+                     <interp inst="t17381011-4-person74" type="given" value="Ellen"></interp>
+                     <interp inst="t17381011-4-person74" type="gender" value="female"></interp>
+                  </persName>
+            . The Prisoner, Fosset, is my Brother; he lay in my Bed, on Sunday Night, Monday, Tuesday, and Wednesday Nights; my Mother was curing him of a Distemper, and he was at home on Thursday Night too, and was 'nointed for his Rash. I don't know what Month this was, nor the Days of the Month, nor how long it was after this, that he was taken up. - I have no Learning, but I know he was a-bed every Night before I came from Work, and I always left him a-bed in the Morning when I went out.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person75">
+                  Joshua 
+                  Snowden 
+               <interp inst="t17381011-4-person75" type="surname" value="Snowden"></interp>
+                     <interp inst="t17381011-4-person75" type="given" value="Joshua"></interp>
+                     <interp inst="t17381011-4-person75" type="gender" value="male"></interp>
+                  </persName>
+            . I went with Hatton to New-Prison; he went thro' both Gates, and shew'd me Sylvester smoaking a Pipe, and Powell, at the farther End of the Yard, pitching Half-pence, and told me they were the Persons that stopp'd his Coach. I did not see him speak to any Woman, before he fix'd upon the Prisoners; but afterwards we went into the Tap-house and had a Pot of Beer, and then he spoke to a Woman and made her drink. I was with him all the Time, and did not hear him say any thing like what Lander and Taylor has sworn. He only said, - they were the Men. 
+               <persName id="t17381011-4-person76">
+                  Richard 
+                  Anthony 
+               <interp inst="t17381011-4-person76" type="surname" value="Anthony"></interp>
+                     <interp inst="t17381011-4-person76" type="given" value="Richard"></interp>
+                     <interp inst="t17381011-4-person76" type="gender" value="male"></interp>
+                  </persName>
+             was likewise with Hatton and Snowden at New-Prison; he confirm'd exactly their Evidence, and said, that Hatton shew'd them the two Prisoners before he spoke to<xptr type="pageFacsimile" doc="173810110008"></xptr> any Body. He denied that Hatton expressed any Resolution to hang them right or wrong.</p>
+               <p>Then they were tried on the Second Indictment.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person77">
+                  Henry 
+                  Southall 
+               <interp inst="t17381011-4-person77" type="surname" value="Southall"></interp>
+                     <interp inst="t17381011-4-person77" type="given" value="Henry"></interp>
+                     <interp inst="t17381011-4-person77" type="gender" value="male"></interp>
+                  </persName>
+             gave the same Account as in the former Trial, adding, that he was on the left Hand Side of the Coach, with his Face towards the Horses; that upon the Prisoners demanding their Money, he gave 6, 8, or 10 s into the Person's Hat, who was at the Door, next to which he sat; and though there was a Light standing in a Window, yet he rely'd not on that, but rather distinguish'd the Man's Face by the Light of the Night, because it was very near his own for some Time; and as the Attack was on the East Side of the Square, he had more Light into the Coach over the Gardens, by which he discern'd Powell's Face, and thought him to be the Man who attacked that Side on which he sat. He deposed, that Powell curs'd and swore so incessantly, that he took Notice of none but him. And that when he was before Mr. Farmer, Powell declar'd he was on Board the Chester Man of War, on the 5th of September, when the Robbery was committed; but afterwards he seemed to be in Doubt, whether the Prisoner mentioned the 5th of Sept. or no.</p>
+               <p>Hatton the Coachman, gave his Evidence as before. He added, that Sylvester was on the right Hand Side of the Coach, next the Light which the Maid brought to the Door, and that Powell was the first that laid hold of the Horses. He was asked again, (and was reminded that he was on Oath) whether he spoke to any one in New-Prison, before he pitched upon the Prisoner? His Answer was, that he spoke to no one, 'till he fix'd on them; and as for 
+               <persName id="t17381011-4-person78">
+                  Cordelia 
+                  Taylor 
+               <interp inst="t17381011-4-person78" type="surname" value="Taylor"></interp>
+                     <interp inst="t17381011-4-person78" type="given" value="Cordelia"></interp>
+                     <interp inst="t17381011-4-person78" type="gender" value="female"></interp>
+                  </persName>
+            , he never spoke to her at all.</p>
+               <p>The Prisoner asked Hatton, if he had no Discourse with the Captain's Wife, between the Gates of the Prison? and he said he only desired to be let in, and that was all.</p>
+               <p>Mrs. Hussey and Mrs. Arkin spoke as on the former Indictment.</p>
+               <p>
+            
+                  <persName id="t17381011-4-person79">
+                  William 
+                  Bolt 
+               <interp inst="t17381011-4-person79" type="surname" value="Bolt"></interp>
+                     <interp inst="t17381011-4-person79" type="given" value="William"></interp>
+                     <interp inst="t17381011-4-person79" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17381011-4-person80">
+                  William 
+                  Purey 
+               <interp inst="t17381011-4-person80" type="surname" value="Purey"></interp>
+                     <interp inst="t17381011-4-person80" type="given" value="William"></interp>
+                     <interp inst="t17381011-4-person80" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t17381011-4-person81">
+                  Tho.
+                   Moore
+               <interp inst="t17381011-4-person81" type="surname" value="Moore"></interp>
+                     <interp inst="t17381011-4-person81" type="given" value="Tho."></interp>
+                     <interp inst="t17381011-4-person81" type="gender" value="male"></interp>
+                  </persName>
+            , gave Sylvester the Character of an honest, poor, working Fellow. Moore said, he had been faulty on some Occasions, but he did not know that he had been guilty of Thieving.</p>
+               <p>Powell's Mother was sworn again, and begun with her Son's extraordinary good Character, and gave much the same Account as before. She was asked, if she could remember the Day of the Month on which he was taken up? She answered, she could not recollect that, - only she remembered, - it was the Monday after the 7th of September. She was farther asked, whether he lay in her Room from the 7th of September, to the 11th (which was the Day he was taken.) And she could not say he did.</p>
+               <p>Ellen Fossett, (the Sister) spake as before, and could not ascertain the Time of her Brother's coming for Cure from the Ship, nor of his Continuance in her Mother's Room. - He might lye there (she said) about a Week, - then (she said) about a Fortnight, but he could not go out, because she lay at the Foot of her Father and Mother's Bed, and he could not go out (after he was in Bed) without going over their Bed, and though he had gone softly, she must have heard him. She remembered particularly his being anointed by her Mother with Brimstone and Hog's-Lard, every Night.</p>
+               <p>Mr. Southall. Mrs. Fossett came to speak to me about her Son, and to beg that I would be favourable. She told me if I would transport him, she would fall down on her Knees, and pray for me every Time she came by my Door. I told her I did not like to be robb'd with a Pistol; no, my dear Honey, said she, you are mistaken, - he never robb'd with a Pistol in his Life. Why, how did he use then to rob, says I? He seldom robbs on Land, said she; most of the Robberies that he has committed were upon the Water. On Sunday I met the Beadle of the Parish ( Mr. Blowfield ) and I found by him he had a bad Character, - that of a Robber.</p>
+               <p>Fossett (the Mother.) I did go to Mr. Southall, and asked him if he could charge my Son with any Thing (dissaffected?) he told me he had robbed him, and mentioned Pistols. - I don't believe he knows how to handle a Pistol; - however, I said, - if you can't be off from it, but must swear against him, - rather than let him die a shameful Death, endeavour to transport him.</p>
+               <p>Upon each Indictment both <rs id="t17381011-4-verdict24" type="verdictDescription">
+                     <interp inst="t17381011-4-verdict24" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17381011-4-punish25" type="punishmentDescription">
+                     <interp inst="t17381011-4-punish25" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381011-4-defend58 t17381011-4-punish25"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17381011-4-defend60 t17381011-4-punish25"></join>
+               Death
+            </rs>.</p>
+               <p>The Prisoners were not tried upon Mrs. Arkin's Indictment, which was the Third.</p>
+            </div1>

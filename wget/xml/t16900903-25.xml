@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900903-25">
+               <interp inst="t16900903-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900903-25" type="year" value="1690"></interp>
+               <interp inst="t16900903-25" type="uri" value="sessionsPapers/16900903"></interp>
+               <interp inst="t16900903-25" type="date" value="16900903"></interp>
+               <join result="criminalCharge" id="t16900903-25-off115-c108" targOrder="Y" targets="t16900903-25-defend149 t16900903-25-off115 t16900903-25-verdict116"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900903-25-defend149" type="defendantName">
+                     Millicent 
+                     Humberstone
+                  <interp inst="t16900903-25-defend149" type="surname" value="Humberstone"></interp>
+                     <interp inst="t16900903-25-defend149" type="given" value="Millicent"></interp>
+                     <interp inst="t16900903-25-defend149" type="gender" value="female"></interp>
+                  </persName>
+               
+             was tryed for <rs id="t16900903-25-off115" type="offenceDescription">
+                     <interp inst="t16900903-25-off115" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900903-25-off115" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 Lutestring Scarfs, value 8 s. 2 Hoods, value 3 s. another Hood 2 s. and other small things, value all about 16 s.
+            </rs> She was taken coming out at the Door with them, so the matter was plain, and she could not deny it: she was found <rs id="t16900903-25-verdict116" type="verdictDescription">
+                     <interp inst="t16900903-25-verdict116" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900903-25-verdict116" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16900903-25-punish117" type="punishmentDescription">
+                     <interp inst="t16900903-25-punish117" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16900903-25-punish117" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900903-25-defend149 t16900903-25-punish117"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

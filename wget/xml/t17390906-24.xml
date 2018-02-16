@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17390906-24">
+               <interp inst="t17390906-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17390906-24" type="year" value="1739"></interp>
+               <interp inst="t17390906-24" type="uri" value="sessionsPapers/17390906"></interp>
+               <interp inst="t17390906-24" type="date" value="17390906"></interp>
+               <join result="criminalCharge" id="t17390906-24-off109-c119" targOrder="Y" targets="t17390906-24-defend176 t17390906-24-off109 t17390906-24-verdict111"></join>
+         
+
+               <p>453. 
+               
+                  <persName id="t17390906-24-defend176" type="defendantName">
+                     Elizabeth 
+                     Cartwright 
+                  <interp inst="t17390906-24-defend176" type="surname" value="Cartwright"></interp>
+                     <interp inst="t17390906-24-defend176" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17390906-24-defend176" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17390906-24-off109" type="offenceDescription">
+                     <interp inst="t17390906-24-off109" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17390906-24-off109" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Pair of Stays, val. 2 s. a Pair of Boddice, val. 8 s. and a Stomacher, value 2 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17390906-24-victim178" type="victimName">
+                     Mary 
+                     Kirkalder 
+                  <interp inst="t17390906-24-victim178" type="surname" value="Kirkalder"></interp>
+                     <interp inst="t17390906-24-victim178" type="given" value="Mary"></interp>
+                     <interp inst="t17390906-24-victim178" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17390906-24-off109 t17390906-24-victim178"></join>
+                  </persName>
+                
+            , <rs id="t17390906-24-cd110" type="crimeDate">Aug. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17390906-24-off109 t17390906-24-cd110"></join>. <rs id="t17390906-24-verdict111" type="verdictDescription">
+                     <interp inst="t17390906-24-verdict111" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17390906-24-verdict111" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17390906-24-punish112" type="punishmentDescription">
+                     <interp inst="t17390906-24-punish112" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17390906-24-defend176 t17390906-24-punish112"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

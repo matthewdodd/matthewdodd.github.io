@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341016-20">
+               <interp inst="t17341016-20" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341016-20" type="year" value="1734"></interp>
+               <interp inst="t17341016-20" type="uri" value="sessionsPapers/17341016"></interp>
+               <interp inst="t17341016-20" type="date" value="17341016"></interp>
+               <join result="criminalCharge" id="t17341016-20-off101-c136" targOrder="Y" targets="t17341016-20-defend181 t17341016-20-off101 t17341016-20-verdict103"></join>
+         
+               <p>21. 
+               
+                  <persName id="t17341016-20-defend181" type="defendantName">
+                     Thomas 
+                     Cole 
+                  <interp inst="t17341016-20-defend181" type="surname" value="Cole"></interp>
+                     <interp inst="t17341016-20-defend181" type="given" value="Thomas"></interp>
+                     <interp inst="t17341016-20-defend181" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted (with 
+               <persName id="t17341016-20-person182">
+                  James 
+                  Tod 
+               <interp inst="t17341016-20-person182" type="surname" value="Tod"></interp>
+                     <interp inst="t17341016-20-person182" type="given" value="James"></interp>
+                     <interp inst="t17341016-20-person182" type="gender" value="male"></interp>
+                  </persName>
+            , not yet taken) for <rs id="t17341016-20-off101" type="offenceDescription">
+                     <interp inst="t17341016-20-off101" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17341016-20-off101" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing an Iron Crow, value 12 s.
+            </rs> the Property of 
+               
+                  <persName id="t17341016-20-victim184" type="victimName">
+                     Joseph 
+                     Woodman 
+                  <interp inst="t17341016-20-victim184" type="surname" value="Woodman"></interp>
+                     <interp inst="t17341016-20-victim184" type="given" value="Joseph"></interp>
+                     <interp inst="t17341016-20-victim184" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17341016-20-off101 t17341016-20-victim184"></join>
+                  </persName>
+                
+            , <rs id="t17341016-20-cd102" type="crimeDate">September 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341016-20-off101 t17341016-20-cd102"></join>. But no Evidence appearing, he was <rs id="t17341016-20-verdict103" type="verdictDescription">
+                     <interp inst="t17341016-20-verdict103" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17341016-20-verdict103" type="verdictSubcategory" value="noEvidence"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

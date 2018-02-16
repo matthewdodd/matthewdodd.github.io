@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670218-23">
+               <interp inst="t17670218-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670218-23" type="year" value="1767"></interp>
+               <interp inst="t17670218-23" type="uri" value="sessionsPapers/17670218"></interp>
+               <interp inst="t17670218-23" type="date" value="17670218"></interp>
+               <join result="criminalCharge" id="t17670218-23-off130-c160" targOrder="Y" targets="t17670218-23-defend201 t17670218-23-off130 t17670218-23-verdict134"></join>
+         
+               <p>154. (L.) 
+               
+                  <persName id="t17670218-23-defend201" type="defendantName">
+                     William 
+                     Guy 
+                  <interp inst="t17670218-23-defend201" type="surname" value="Guy"></interp>
+                     <interp inst="t17670218-23-defend201" type="given" value="William"></interp>
+                     <interp inst="t17670218-23-defend201" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670218-23-off130" type="offenceDescription">
+                     <interp inst="t17670218-23-off130" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670218-23-off130" type="offenceSubcategory" value="pettyLarceny"></interp>
+               stealing a linen handkerchief, value 10 d.
+            </rs> the property of 
+               
+                  <persName id="t17670218-23-victim203" type="victimName">
+                     John 
+                     Baker 
+                  <interp inst="t17670218-23-victim203" type="surname" value="Baker"></interp>
+                     <interp inst="t17670218-23-victim203" type="given" value="John"></interp>
+                     <interp inst="t17670218-23-victim203" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670218-23-off130 t17670218-23-victim203"></join>
+                  </persName>
+                
+            , <rs id="t17670218-23-viclabel131" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670218-23-victim203 t17670218-23-viclabel131"></join>; <rs id="t17670218-23-cd132" type="crimeDate">Feb. 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670218-23-off130 t17670218-23-cd132"></join>. +</p>
+               <p>
+            
+                  <persName id="t17670218-23-person204">
+                  John 
+                  Baker 
+               <interp inst="t17670218-23-person204" type="surname" value="Baker"></interp>
+                     <interp inst="t17670218-23-person204" type="given" value="John"></interp>
+                     <interp inst="t17670218-23-person204" type="gender" value="male"></interp>
+                  </persName>
+            , Esq; On the 12th of February, between seven and eight in the afternoon, I was going along <placeName id="t17670218-23-crimeloc133">Cheapside, near Bow-church</placeName>
+                  <interp inst="t17670218-23-crimeloc133" type="placeName" value="Cheapside, near Bow-church"></interp>
+                  <interp inst="t17670218-23-crimeloc133" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670218-23-off130 t17670218-23-crimeloc133"></join>, I felt a twitch at my pocket; I turned round, and saw the prisoner withdraw his hand carelessly from my pocket; I saw my handkerchief hanging out of my pocket, ready to fall down; I took the prisoner by the collar, and carried him into a shop, and sent for a constable, and secured him; he had not compleatly taken it out of my pocket.</p>
+               <p>
+                  <rs id="t17670218-23-verdict134" type="verdictDescription">
+                     <interp inst="t17670218-23-verdict134" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

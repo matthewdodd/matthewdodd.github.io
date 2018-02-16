@@ -1,3 +1,48 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-10">
+               <interp inst="t16910218-10" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-10" type="year" value="1691"></interp>
+               <interp inst="t16910218-10" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-10" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-10-off44-c50" targOrder="Y" targets="t16910218-10-defend50 t16910218-10-off44 t16910218-10-verdict47"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-10-defend50" type="defendantName">
+                  Susannah 
+                  Blagrave
+               <interp inst="t16910218-10-defend50" type="surname" value="Blagrave"></interp>
+                     <interp inst="t16910218-10-defend50" type="given" value="Susannah"></interp>
+                     <interp inst="t16910218-10-defend50" type="gender" value="female"></interp>
+                  </persName>
+            , was tryed for <rs id="t16910218-10-off44" type="offenceDescription">
+                     <interp inst="t16910218-10-off44" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-10-off44" type="offenceSubcategory" value="burglary"></interp>
+               breaking the House of 
+                     <persName id="t16910218-10-victim51" type="victimName">
+                        Ann 
+                        East
+                     <interp inst="t16910218-10-victim51" type="surname" value="East"></interp>
+                        <interp inst="t16910218-10-victim51" type="given" value="Ann"></interp>
+                        <interp inst="t16910218-10-victim51" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910218-10-off44 t16910218-10-victim51"></join>
+                     </persName>
+                  , <rs id="t16910218-10-viclabel45" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16910218-10-victim51 t16910218-10-viclabel45"></join>, of <placeName id="t16910218-10-crimeloc46">Harlington</placeName>
+                     <interp inst="t16910218-10-crimeloc46" type="placeName" value="Harlington"></interp>
+                     <interp inst="t16910218-10-crimeloc46" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16910218-10-off44 t16910218-10-crimeloc46"></join>, and took away a Pewter Dish, value 12 d. another Dish, value 2 s.
+            </rs> The Prosecutors House was broke open in the Night-time, and by the footsteps of a Boy and a Woman they saw, the Prisoner was persued and found near Brainford, with the Goods in her custody. The Prisoner denied it, but she was found to have been a begging at the House the Week before, and had no manner of Proof on her side, so she was found <rs id="t16910218-10-verdict47" type="verdictDescription">
+                     <interp inst="t16910218-10-verdict47" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Indictment.</p>
+               <p>
+                  <rs id="t16910218-10-punish48" type="punishmentDescription">
+                     <interp inst="t16910218-10-punish48" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910218-10-defend50 t16910218-10-punish48"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

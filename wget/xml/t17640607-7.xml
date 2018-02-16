@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640607-7">
+               <interp inst="t17640607-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640607-7" type="year" value="1764"></interp>
+               <interp inst="t17640607-7" type="uri" value="sessionsPapers/17640607"></interp>
+               <interp inst="t17640607-7" type="date" value="17640607"></interp>
+               <join result="criminalCharge" id="t17640607-7-off48-c76" targOrder="Y" targets="t17640607-7-defend94 t17640607-7-off48 t17640607-7-verdict53"></join>
+         
+               <p>326. (M.) 
+               
+                  <persName id="t17640607-7-defend94" type="defendantName">
+                     Philip 
+                     Evans 
+                  <interp inst="t17640607-7-defend94" type="surname" value="Evans"></interp>
+                     <interp inst="t17640607-7-defend94" type="given" value="Philip"></interp>
+                     <interp inst="t17640607-7-defend94" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17640607-7-off48" type="offenceDescription">
+                     <interp inst="t17640607-7-off48" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640607-7-off48" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one plane, called a sash sillaster, value 2 s. the property of 
+                     
+                        <persName id="t17640607-7-victim96" type="victimName">
+                           Stephen 
+                           Brown 
+                        <interp inst="t17640607-7-victim96" type="surname" value="Brown"></interp>
+                        <interp inst="t17640607-7-victim96" type="given" value="Stephen"></interp>
+                        <interp inst="t17640607-7-victim96" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  's and one oil-stone
+            </rs>, the property of 
+               <persName id="t17640607-7-victim97" type="victimName">
+                  Marychurch 
+                  Callin 
+               <interp inst="t17640607-7-victim97" type="surname" value="Callin"></interp>
+                     <interp inst="t17640607-7-victim97" type="given" value="Marychurch"></interp>
+                     <interp inst="t17640607-7-victim97" type="gender" value="female"></interp>
+                  </persName>
+             , <rs id="t17640607-7-cd49" type="crimeDate">May 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640607-7-off48 t17640607-7-cd49"></join>. *</p>
+               <p>
+            
+                  <persName id="t17640607-7-person98">
+                  Stephen 
+                  Brown 
+               <interp inst="t17640607-7-person98" type="surname" value="Brown"></interp>
+                     <interp inst="t17640607-7-person98" type="given" value="Stephen"></interp>
+                     <interp inst="t17640607-7-person98" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17640607-7-viclabel50" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640607-7-victim96 t17640607-7-viclabel50"></join>, and was at work in <placeName id="t17640607-7-crimeloc51">Marybone</placeName>
+                  <interp inst="t17640607-7-crimeloc51" type="placeName" value="Marybone"></interp>
+                  <interp inst="t17640607-7-crimeloc51" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640607-7-off48 t17640607-7-crimeloc51"></join>. This day month I missed a sash sillaster, from out of the buildings: the prisoner had worked with us the week before it was missed (he is a <rs id="t17640607-7-deflabel52" type="occupation">carpenter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640607-7-defend94 t17640607-7-deflabel52"></join>): we suspected this man, and went to the place where he was at work, in Long-acre; there I found it upon the bench where he was at work. I asked him what he meant, by taking it? he said nothing, but offered to restore it; (Produced in court. and deposed to): he said he took it to make another by.</p>
+               <p>Marychurch Callin. I missed my oil-stone at the time the plane was missing; I found it on the prisoner's bench, in Long-acre; (produced, and deposed to): when I questioned him about taking it, he said the D - l was in him.</p>
+               <p>
+            
+                  <persName id="t17640607-7-person99">
+                  Edward 
+                  Wade 
+               <interp inst="t17640607-7-person99" type="surname" value="Wade"></interp>
+                     <interp inst="t17640607-7-person99" type="given" value="Edward"></interp>
+                     <interp inst="t17640607-7-person99" type="gender" value="male"></interp>
+                  </persName>
+            . These tools were missed this day month, in the afternoon; the prisoner worked for us, and left us the Saturday before; I went and saw the oil-stone on his bench, and the sash sillaster behind the bench. I asked him whose they were? he said the sillaster was Brown's; that he took it to make one by. I do not know what he said about the oil-stone.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I took them for a week, to make a sash sillaster by it, and return them again.</p>
+               <p>
+                  <rs id="t17640607-7-verdict53" type="verdictDescription">
+                     <interp inst="t17640607-7-verdict53" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17640607-7-punish54" type="punishmentDescription">
+                     <interp inst="t17640607-7-punish54" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640607-7-defend94 t17640607-7-punish54"></join>
+               T
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17590912-42">
+               <interp inst="t17590912-42" type="collection" value="BAILEY"></interp>
+               <interp inst="t17590912-42" type="year" value="1759"></interp>
+               <interp inst="t17590912-42" type="uri" value="sessionsPapers/17590912"></interp>
+               <interp inst="t17590912-42" type="date" value="17590912"></interp>
+               <join result="criminalCharge" id="t17590912-42-off239-c279" targOrder="Y" targets="t17590912-42-defend360 t17590912-42-off239 t17590912-42-verdict243"></join>
+         
+               <p>289. (M.) 
+               
+                  <persName id="t17590912-42-defend360" type="defendantName">
+                     Mary 
+                     Cooper 
+                  <interp inst="t17590912-42-defend360" type="surname" value="Cooper"></interp>
+                     <interp inst="t17590912-42-defend360" type="given" value="Mary"></interp>
+                     <interp inst="t17590912-42-defend360" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17590912-42-deflabel238" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590912-42-defend360 t17590912-42-deflabel238"></join>, was indicted for <rs id="t17590912-42-off239" type="offenceDescription">
+                     <interp inst="t17590912-42-off239" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17590912-42-off239" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 4 cotton gowns, value 10 s. 2 linnen sheets, value 6 s. 2 petticoats, 1 pair of stays, one linnen table-cloth, and 2 linnen aprons
+            </rs>, the goods of 
+               
+                  <persName id="t17590912-42-victim362" type="victimName">
+                     Jane 
+                     Fox 
+                  <interp inst="t17590912-42-victim362" type="surname" value="Fox"></interp>
+                     <interp inst="t17590912-42-victim362" type="given" value="Jane"></interp>
+                     <interp inst="t17590912-42-victim362" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17590912-42-off239 t17590912-42-victim362"></join>
+                  </persName>
+                
+            , <rs id="t17590912-42-viclabel240" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17590912-42-victim362 t17590912-42-viclabel240"></join>, <rs id="t17590912-42-cd241" type="crimeDate">Aug. 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17590912-42-off239 t17590912-42-cd241"></join>.*</p> 
+               <p>Jane Fox. I live in <placeName id="t17590912-42-crimeloc242">Whitechaple</placeName>
+                  <interp inst="t17590912-42-crimeloc242" type="placeName" value="Whitechaple"></interp>
+                  <interp inst="t17590912-42-crimeloc242" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17590912-42-off239 t17590912-42-crimeloc242"></join> parish. I had left my house in the care of 
+               <persName id="t17590912-42-person363">
+                  Eleanor 
+                  Bright 
+               <interp inst="t17590912-42-person363" type="surname" value="Bright"></interp>
+                     <interp inst="t17590912-42-person363" type="given" value="Eleanor"></interp>
+                     <interp inst="t17590912-42-person363" type="gender" value="female"></interp>
+                  </persName>
+            , the goods mentioned were taken out of a chest in my room. The prisoner was taken up with<xptr type="pageFacsimile" doc="175909120038"></xptr> one of the gowns on her back, and she confessed where she had carried the rest of the things; produc'd in court and depos'd to.</p>
+               <p>
+            
+                  <persName id="t17590912-42-person364">
+                  Eleanor 
+                  Bright 
+               <interp inst="t17590912-42-person364" type="surname" value="Bright"></interp>
+                     <interp inst="t17590912-42-person364" type="given" value="Eleanor"></interp>
+                     <interp inst="t17590912-42-person364" type="gender" value="female"></interp>
+                  </persName>
+            . I had the care of Mrs Fox's house. I went out on the rejoicing night, when I returned the house was broke, and the goods mentioned were gone.</p>
+               <p>
+            
+                  <persName id="t17590912-42-person365">
+                  Thomas 
+                  Jigget 
+               <interp inst="t17590912-42-person365" type="surname" value="Jigget"></interp>
+                     <interp inst="t17590912-42-person365" type="given" value="Thomas"></interp>
+                     <interp inst="t17590912-42-person365" type="gender" value="male"></interp>
+                  </persName>
+            , the Constable, Deposed to the taking up the prisoner, and finding the things by her direction.</p>
+               <p>The prisoner said nothing in her defence.</p>
+               <p>
+                  <rs id="t17590912-42-verdict243" type="verdictDescription">
+                     <interp inst="t17590912-42-verdict243" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17590912-42-punish244" type="punishmentDescription">
+                     <interp inst="t17590912-42-punish244" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17590912-42-defend360 t17590912-42-punish244"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

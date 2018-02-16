@@ -1,3 +1,118 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17620224-13">
+               <interp inst="t17620224-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t17620224-13" type="year" value="1762"></interp>
+               <interp inst="t17620224-13" type="uri" value="sessionsPapers/17620224"></interp>
+               <interp inst="t17620224-13" type="date" value="17620224"></interp>
+               <join result="criminalCharge" id="t17620224-13-off69-c165" targOrder="Y" targets="t17620224-13-defend185 t17620224-13-off69 t17620224-13-verdict73"></join>
+         
+               <p>100. (M.) 
+               
+                  <persName id="t17620224-13-defend185" type="defendantName">
+                     James 
+                     Bloor 
+                  <interp inst="t17620224-13-defend185" type="surname" value="Bloor"></interp>
+                     <interp inst="t17620224-13-defend185" type="given" value="James"></interp>
+                     <interp inst="t17620224-13-defend185" type="gender" value="male"></interp>
+                  </persName>
+               
+            . of the parish of <placeName id="t17620224-13-defloc68">St. George, Middlesex</placeName>
+                  <interp inst="t17620224-13-defloc68" type="placeName" value="St. George, Middlesex"></interp>
+                  <interp inst="t17620224-13-defloc68" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17620224-13-defend185 t17620224-13-defloc68"></join>, was indicted for <rs id="t17620224-13-off69" type="offenceDescription">
+                     <interp inst="t17620224-13-off69" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17620224-13-off69" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one quartern loaf, value 4 d. and three shillings numbered in half pence
+            </rs>, the property of 
+               
+                  <persName id="t17620224-13-victim187" type="victimName">
+                     Matthew 
+                     Scarrolt 
+                  <interp inst="t17620224-13-victim187" type="surname" value="Scarrolt"></interp>
+                     <interp inst="t17620224-13-victim187" type="given" value="Matthew"></interp>
+                     <interp inst="t17620224-13-victim187" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17620224-13-off69 t17620224-13-victim187"></join>
+                  </persName>
+                
+            . <rs id="t17620224-13-cd70" type="crimeDate">Feb. 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17620224-13-off69 t17620224-13-cd70"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17620224-13-person188">
+                  Matthew 
+                  Scarrolt 
+               <interp inst="t17620224-13-person188" type="surname" value="Scarrolt"></interp>
+                     <interp inst="t17620224-13-person188" type="given" value="Matthew"></interp>
+                     <interp inst="t17620224-13-person188" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17620224-13-crimeloc71">Gravel-lane in St. George's parish</placeName>
+                  <interp inst="t17620224-13-crimeloc71" type="placeName" value="Gravel-lane in St. George's parish"></interp>
+                  <interp inst="t17620224-13-crimeloc71" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17620224-13-off69 t17620224-13-crimeloc71"></join>. <rs id="t17620224-13-viclabel72" type="occupation">I keep a chandler's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17620224-13-victim187 t17620224-13-viclabel72"></join>, and the prisoner lodged with me. I often lost money, and had some reason to suspect him.</p>
+               <p>Q. How came you to suspect him?</p>
+               <p>Scarrolt. Because he went on faster than I thought<xptr type="pageFacsimile" doc="176202240015"></xptr> he could afford; and I went to an officer, and he told me he would mark me 2 s. in half-pence, and I carried them home to my wife, who put it in the till; and the shop door was locked in the morning, there was a quartern loaf missing, and 3 s. 5 d. gone out of the till; so I called the officer, and he and I went up into the lodger's room, and there we found a quartern loaf; and when I mentioned the loaf, the officer said he would swear to most of the half pence which lay in the chair under his window, and there lay the key also.</p>
+               <p>Q. Where was the prisoner at this time? was he awake?</p>
+               <p>Scarrolt. Yes, and in bed, with his breeches and stockings on.</p>
+               <p>Q. What did you say to him?</p>
+               <p>Scarrolt. Asked him how he came to do so; and he made us no answer.</p>
+               <p>Q. Was the shop door locked on the Sunday morning?</p>
+               <p>Scarrolt. Yes, and I had the key; and this is the key that was found in the chair with the money, and opens the lock of my shop door as well as my own.</p>
+               <p>Q. Is that the key of his room?</p>
+               <p>Scarrolt. Yes.</p>
+               <p>Q. Was it at the time you let him the room?</p>
+               <p>Scarrolt. For aught I know to the contrary.</p>
+               <p>Mrs. Scarrolt.</p>
+               <p>Q. Did you put any marked money into your till?</p>
+               <p>Mrs. Scarrolt. Yes, I put 15 d. in marked halfpence into my till, and 4 s. 9 d. of other, on the 6th of Feb.</p>
+               <p>Q. Of whom did you receive the marked halfpence?</p>
+               <p>Mrs. Scarrolt. From my husband, and the next day there was 3 s. 5 d, missing.</p>
+               <p>Q. What did you do upon finding you were robbed of the marked money?</p>
+               <p>Mrs. Scarrolt. My husband had a search warrant ready, and he went for the officer, and they went up to his room together.</p>
+               <p>Q. Did you go up with them?</p>
+               <p>Mrs. Scarrolt. No, nor sawer knew any thing that passed, till they went thro' my room below stairs to have him to prison.</p>
+               <p>
+            
+                  <persName id="t17620224-13-person189">
+                  Robert 
+                  Blare 
+               <interp inst="t17620224-13-person189" type="surname" value="Blare"></interp>
+                     <interp inst="t17620224-13-person189" type="given" value="Robert"></interp>
+                     <interp inst="t17620224-13-person189" type="gender" value="male"></interp>
+                  </persName>
+            . I am a headborough-man; and, upon application of the prosecutor, I marked 2 s. in halfpence; I marked some with a punch, and some with a file; and when I came to Mr. Scarrolt, by virtue of a search warrant, to search the prisoner's lodging, and told the prisoner my business, I immediately saw a good quantity of half-pence lying in the chair under the window, in the prisoner's room; and, upon looking them over, I found a great many of the half-pence I had marked. When I charged him with the fact, he said he had taken them for his wages. I said, that was his mistake. I then gave the money to Mr. Scarrolt, and we took him for that day to New Prison, and the next day before Sir 
+               <persName id="t17620224-13-person190">
+                  John 
+                  Fielding 
+               <interp inst="t17620224-13-person190" type="surname" value="Fielding"></interp>
+                     <interp inst="t17620224-13-person190" type="given" value="John"></interp>
+                     <interp inst="t17620224-13-person190" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Did he, when before Sir 
+               <persName id="t17620224-13-person191">
+                  John 
+                  Fielding 
+               <interp inst="t17620224-13-person191" type="surname" value="Fielding"></interp>
+                     <interp inst="t17620224-13-person191" type="given" value="John"></interp>
+                     <interp inst="t17620224-13-person191" type="gender" value="male"></interp>
+                  </persName>
+            , acknowledge the fact?</p>
+               <p>Blare. No, nothing of it.</p>
+               <p>Prisoner's Defence.</p>
+               <p>He absolutely denied it.</p>
+               <p>
+                  <rs id="t17620224-13-verdict73" type="verdictDescription">
+                     <interp inst="t17620224-13-verdict73" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17620224-13-punish74" type="punishmentDescription">
+                     <interp inst="t17620224-13-punish74" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17620224-13-defend185 t17620224-13-punish74"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

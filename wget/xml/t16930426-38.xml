@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-38">
+               <interp inst="t16930426-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-38" type="year" value="1693"></interp>
+               <interp inst="t16930426-38" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-38" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-38-off174-c118" targOrder="Y" targets="t16930426-38-defend118 t16930426-38-off174 t16930426-38-verdict177"></join>
+               <join result="criminalCharge" id="t16930426-38-off174-c119" targOrder="Y" targets="t16930426-38-defend119 t16930426-38-off174 t16930426-38-verdict177"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-38-defend118" type="defendantName">
+                  William 
+                  Butler
+               <interp inst="t16930426-38-defend118" type="surname" value="Butler"></interp>
+                     <interp inst="t16930426-38-defend118" type="given" value="William"></interp>
+                     <interp inst="t16930426-38-defend118" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               <persName id="t16930426-38-defend119" type="defendantName">
+                  Robert 
+                  Wayte alias <rs id="t16930426-38-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16930426-38-defend119 t16930426-38-alias-8"></join>Wade</rs>
+                     <interp inst="t16930426-38-defend119" type="surname" value="Wayte"></interp>
+                     <interp inst="t16930426-38-defend119" type="given" value="Robert"></interp>
+                     <interp inst="t16930426-38-defend119" type="gender" value="male"></interp>
+                  </persName>
+            , were Indicted for Felony in <rs id="t16930426-38-off174" type="offenceDescription">
+                     <interp inst="t16930426-38-off174" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-38-off174" type="offenceSubcategory" value="grandLarceny"></interp>
+               Stealing from 
+                     <persName id="t16930426-38-victim120" type="victimName">
+                        Mary 
+                        Wilson
+                     <interp inst="t16930426-38-victim120" type="surname" value="Wilson"></interp>
+                        <interp inst="t16930426-38-victim120" type="given" value="Mary"></interp>
+                        <interp inst="t16930426-38-victim120" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-38-off174 t16930426-38-victim120"></join>
+                     </persName>
+                   
+                     <rs id="t16930426-38-viclabel175" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16930426-38-victim120 t16930426-38-viclabel175"></join> four Alamode Hoods, value 12s. a Pewter Pot, a Rundlet, a Silver Tankard, value 5l. 120l. weight of Soap, value 35s. 200l. weight of Cheese, for Gallons of Stomach Waters, with several other Goods of value
+            </rs>. Some of the Cheese and Waters were found in Butler's House at Puddle-dock, and a Rundlet in the Cellar, but no Goods were found in Wade's Room; Butler called some Witnesses, who said that he was at Covent-Garden when the Robbery was done, which was as the Prosecutor said the <rs id="t16930426-38-cd176" type="crimeDate">4th of April</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-38-off174 t16930426-38-cd176"></join> about Three a Clock in the Morning; but they might possibly be mistaken as to the time; they were both found <rs id="t16930426-38-verdict177" type="verdictDescription">
+                     <interp inst="t16930426-38-verdict177" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16930426-38-punish178" type="punishmentDescription">
+                     <interp inst="t16930426-38-punish178" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930426-38-punish178" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-38-defend118 t16930426-38-punish178"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-38-defend119 t16930426-38-punish178"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

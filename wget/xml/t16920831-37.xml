@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16920831-37">
+               <interp inst="t16920831-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16920831-37" type="year" value="1692"></interp>
+               <interp inst="t16920831-37" type="uri" value="sessionsPapers/16920831"></interp>
+               <interp inst="t16920831-37" type="date" value="16920831"></interp>
+               <join result="criminalCharge" id="t16920831-37-off159-c113" targOrder="Y" targets="t16920831-37-defend113 t16920831-37-off159 t16920831-37-verdict162"></join>
+         
+               <p>
+            
+                  <persName id="t16920831-37-defend113" type="defendantName">
+                  John 
+                  Delamot alias <rs id="t16920831-37-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16920831-37-defend113 t16920831-37-alias-5"></join>Delabowre</rs>
+                     <interp inst="t16920831-37-defend113" type="surname" value="Delamot"></interp>
+                     <interp inst="t16920831-37-defend113" type="given" value="John"></interp>
+                     <interp inst="t16920831-37-defend113" type="gender" value="male"></interp>
+                  </persName>
+            , was Tried for a Cheat, for that he <rs id="t16920831-37-off159" type="offenceDescription">
+                     <interp inst="t16920831-37-off159" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t16920831-37-off159" type="offenceSubcategory" value="fraud"></interp>
+               together with one 
+                     <persName id="t16920831-37-person114">
+                        Edward 
+                        Leepman
+                     <interp inst="t16920831-37-person114" type="surname" value="Leepman"></interp>
+                        <interp inst="t16920831-37-person114" type="given" value="Edward"></interp>
+                        <interp inst="t16920831-37-person114" type="gender" value="male"></interp>
+                     </persName>
+                  , not Taken, did Deceive and Defraud one 
+                     <persName id="t16920831-37-victim115" type="victimName">
+                        Nath. 
+                        Green
+                     <interp inst="t16920831-37-victim115" type="surname" value="Green"></interp>
+                        <interp inst="t16920831-37-victim115" type="given" value="Nath."></interp>
+                        <interp inst="t16920831-37-victim115" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16920831-37-off159 t16920831-37-victim115"></join>
+                     </persName>
+                  , <rs id="t16920831-37-viclabel160" type="occupation">Goldsmith</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16920831-37-victim115 t16920831-37-viclabel160"></join>, of the Sum of 60 l. of Currant Money of England
+            </rs>, on the <rs id="t16920831-37-cd161" type="crimeDate">10th of August</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16920831-37-off159 t16920831-37-cd161"></join> last: The Prisoner and the other Person came to Mr. Green, and brought a Box, wherein were four Gold-Rings set with Diamonds, one Necklace of Pearl, with a Crociate of Diamonds, and desired him to Lend them 60 l. upon the Rings and Diamomds, which Goods were right in their kind; but he putting them off, being the Fast-day, they came on the next day, and brought another Box wherein were Two Farthings, and Three pieces of Lead, stuft with Paper. And before he paid them the Money, they desired to have the Box Sealed, and whilst Mr. Green turn'd his Head from them, to call for a Candle, they put the Trick upon him, and gave him the Box aforesaid, instead of the one Box of Rings, Necklace of Pearls, and Crociate of Diamonds, as aforesaid. The Prisoner could say little in his Defence: So that he was found <rs id="t16920831-37-verdict162" type="verdictDescription">
+                     <interp inst="t16920831-37-verdict162" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Crime.</p>
+               <p>
+                  <rs id="t16920831-37-punish163" type="punishmentDescription">
+                     <interp inst="t16920831-37-punish163" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16920831-37-punish163" type="punishmentSubcategory" value="pillory"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-37-defend113 t16920831-37-punish163"></join>
+               
+                     <note>[Pillory. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16920831-37-punish164" type="punishmentDescription">
+                     <interp inst="t16920831-37-punish164" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16920831-37-punish164" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-37-defend113 t16920831-37-punish164"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t16920831-37-punish165" type="punishmentDescription">
+                     <interp inst="t16920831-37-punish165" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16920831-37-punish165" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16920831-37-defend113 t16920831-37-punish165"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

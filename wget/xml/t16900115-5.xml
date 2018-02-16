@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900115-5">
+               <interp inst="t16900115-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900115-5" type="year" value="1690"></interp>
+               <interp inst="t16900115-5" type="uri" value="sessionsPapers/16900115"></interp>
+               <interp inst="t16900115-5" type="date" value="16900115"></interp>
+               <join result="criminalCharge" id="t16900115-5-off16-c34" targOrder="Y" targets="t16900115-5-defend40 t16900115-5-off16 t16900115-5-verdict18"></join>
+               <join result="criminalCharge" id="t16900115-5-off19-c34" targOrder="Y" targets="t16900115-5-defend40 t16900115-5-off19 t16900115-5-verdict18"></join>
+         
+               <p>
+            
+                  <persName id="t16900115-5-defend40" type="defendantName">
+                  William 
+                  Humphreys
+               <interp inst="t16900115-5-defend40" type="surname" value="Humphreys"></interp>
+                     <interp inst="t16900115-5-defend40" type="given" value="William"></interp>
+                     <interp inst="t16900115-5-defend40" type="gender" value="male"></interp>
+                  </persName>
+             was Indicted for <rs id="t16900115-5-off16" type="offenceDescription">
+                     <interp inst="t16900115-5-off16" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900115-5-off16" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four Silver Spoons, value 30 s.
+            </rs> from 
+               <persName id="t16900115-5-victim41" type="victimName">
+                  Elinor 
+                  Warner
+               <interp inst="t16900115-5-victim41" type="surname" value="Warner"></interp>
+                     <interp inst="t16900115-5-victim41" type="given" value="Elinor"></interp>
+                     <interp inst="t16900115-5-victim41" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900115-5-off16 t16900115-5-victim41"></join>
+                     <join result="offenceVictim" targOrder="Y" targets="t16900115-5-off19 t16900115-5-victim41"></join>
+                  </persName>
+             
+                  <rs id="t16900115-5-viclabel17" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16900115-5-victim41 t16900115-5-viclabel17"></join>, to which he <rs id="t16900115-5-verdict18" type="verdictDescription">
+                     <interp inst="t16900115-5-verdict18" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16900115-5-verdict18" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded guilty
+            </rs>.</p>
+               <p>He was a second time Indicted for a Cheat, in <rs id="t16900115-5-off19" type="offenceDescription">
+                     <interp inst="t16900115-5-off19" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t16900115-5-off19" type="offenceSubcategory" value="forgery"></interp>
+               writing and counterfeiting false Letters
+            </rs>; which was fully prov'd, altho' he deni'd it; yet he was found <rs id="t16900115-5-verdict20" type="verdictDescription">
+                     <interp inst="t16900115-5-verdict20" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of the Cheat.</p>
+               <p>
+                  <rs id="t16900115-5-punish21" type="punishmentDescription">
+                     <interp inst="t16900115-5-punish21" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16900115-5-punish21" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16900115-5-defend40 t16900115-5-punish21"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

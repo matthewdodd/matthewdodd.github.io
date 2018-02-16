@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910527-31">
+               <interp inst="t16910527-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910527-31" type="year" value="1691"></interp>
+               <interp inst="t16910527-31" type="uri" value="sessionsPapers/16910527"></interp>
+               <interp inst="t16910527-31" type="date" value="16910527"></interp>
+               <join result="criminalCharge" id="t16910527-31-off144-c87" targOrder="Y" targets="t16910527-31-defend87 t16910527-31-off144 t16910527-31-verdict145"></join>
+         
+               <p>
+            
+                  <persName id="t16910527-31-defend87" type="defendantName">
+                  Rebekah 
+                  Williams
+               <interp inst="t16910527-31-defend87" type="surname" value="Williams"></interp>
+                     <interp inst="t16910527-31-defend87" type="given" value="Rebekah"></interp>
+                     <interp inst="t16910527-31-defend87" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t16910527-31-deflabel143" type="occupation">Widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910527-31-defend87 t16910527-31-deflabel143"></join>, was Tryed for <rs id="t16910527-31-off144" type="offenceDescription">
+                     <interp inst="t16910527-31-off144" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910527-31-off144" type="offenceSubcategory" value="shoplifting"></interp>
+               Robbing 
+                     <persName id="t16910527-31-victim88" type="victimName">
+                        Edward 
+                        Veron
+                     <interp inst="t16910527-31-victim88" type="surname" value="Veron"></interp>
+                        <interp inst="t16910527-31-victim88" type="given" value="Edward"></interp>
+                        <interp inst="t16910527-31-victim88" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910527-31-off144 t16910527-31-victim88"></join>
+                     </persName>
+                  , on Easter-day last, of Goods to a considerable value. Mr. Veron swore, That his Shop was broke open at Ipswich
+            </rs>, and that the Prisoner offered several of the Goods to sale in London, at a Goldsmiths, where she was taken; but she proving her self a Married Woman, by vertue of the Covering she was <rs id="t16910527-31-verdict145" type="verdictDescription">
+                     <interp inst="t16910527-31-verdict145" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

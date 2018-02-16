@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530906-9">
+               <interp inst="t17530906-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530906-9" type="year" value="1753"></interp>
+               <interp inst="t17530906-9" type="uri" value="sessionsPapers/17530906"></interp>
+               <interp inst="t17530906-9" type="date" value="17530906"></interp>
+               <join result="criminalCharge" id="t17530906-9-off39-c56" targOrder="Y" targets="t17530906-9-defend71 t17530906-9-off39 t17530906-9-verdict41"></join>
+         
+               <p>380. (M) 
+               
+                  <persName id="t17530906-9-defend71" type="defendantName">
+                     Ann 
+                     Brown 
+                  <interp inst="t17530906-9-defend71" type="surname" value="Brown"></interp>
+                     <interp inst="t17530906-9-defend71" type="given" value="Ann"></interp>
+                     <interp inst="t17530906-9-defend71" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17530906-9-deflabel38" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530906-9-defend71 t17530906-9-deflabel38"></join>, was indicted for <rs id="t17530906-9-off39" type="offenceDescription">
+                     <interp inst="t17530906-9-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530906-9-off39" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one linnen quilt, val. 10 s. one silver tea spoon, val. 1 s. the goods of 
+                     
+                        <persName id="t17530906-9-victim73" type="victimName">
+                           William 
+                           Parry 
+                        <interp inst="t17530906-9-victim73" type="surname" value="Parry"></interp>
+                        <interp inst="t17530906-9-victim73" type="given" value="William"></interp>
+                        <interp inst="t17530906-9-victim73" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17530906-9-off39 t17530906-9-victim73"></join>
+                     </persName>
+                      
+                  , in a certain lodging room let by contract, &amp;c
+            </rs>. <rs id="t17530906-9-cd40" type="crimeDate">Aug. 14</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530906-9-off39 t17530906-9-cd40"></join>. ++ <rs id="t17530906-9-verdict41" type="verdictDescription">
+                     <interp inst="t17530906-9-verdict41" type="verdictCategory" value="notGuilty"></interp>
+               Acq
+            </rs>.</p>
+            </div1>

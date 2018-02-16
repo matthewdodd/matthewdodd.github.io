@@ -1,3 +1,95 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17460117-7">
+               <interp inst="t17460117-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17460117-7" type="year" value="1746"></interp>
+               <interp inst="t17460117-7" type="uri" value="sessionsPapers/17460117"></interp>
+               <interp inst="t17460117-7" type="date" value="17460117"></interp>
+               <join result="criminalCharge" id="t17460117-7-off24-c107" targOrder="Y" targets="t17460117-7-defend119 t17460117-7-off24 t17460117-7-verdict26"></join>
+         
+               <p>42. 
+               
+                  <persName id="t17460117-7-defend119" type="defendantName">
+                     Richard 
+                     Saimon 
+                  <interp inst="t17460117-7-defend119" type="surname" value="Saimon"></interp>
+                     <interp inst="t17460117-7-defend119" type="given" value="Richard"></interp>
+                     <interp inst="t17460117-7-defend119" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17460117-7-off24" type="offenceDescription">
+                     <interp inst="t17460117-7-off24" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17460117-7-off24" type="offenceSubcategory" value="other"></interp>
+               stealing nine Pair of Stockings
+            </rs>, the Property of 
+               
+                  <persName id="t17460117-7-victim121" type="victimName">
+                     George 
+                     Evans 
+                  <interp inst="t17460117-7-victim121" type="surname" value="Evans"></interp>
+                     <interp inst="t17460117-7-victim121" type="given" value="George"></interp>
+                     <interp inst="t17460117-7-victim121" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17460117-7-off24 t17460117-7-victim121"></join>
+                  </persName>
+                
+            .</p>
+               <p>
+            
+                  <persName id="t17460117-7-person122">
+                  Q. 
+               <interp inst="t17460117-7-person122" type="given" value="Q."></interp>
+                     <interp inst="t17460117-7-person122" type="gender" value="indeterminate"></interp>
+                  </persName>
+            (to 
+               <persName id="t17460117-7-person123">
+                  George 
+                  Evans 
+               <interp inst="t17460117-7-person123" type="surname" value="Evans"></interp>
+                     <interp inst="t17460117-7-person123" type="given" value="George"></interp>
+                     <interp inst="t17460117-7-person123" type="gender" value="male"></interp>
+                  </persName>
+            .) What have you to say against the Prisoner, with respect to nine Pair of Stockings lost the <rs id="t17460117-7-cd25" type="crimeDate">7th of January</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17460117-7-off24 t17460117-7-cd25"></join>?</p>
+               <p>Evans. My Lord, my little Girl told me, she saw a Man take a Bundle.</p>
+               <p>Q. What Age is your Girl?</p>
+               <p>Evans. Between eleven and twelve. She call'd to me and said a Thief had taken something: With that I pursu'd him: I saw him running up the Court and I overtook him.</p>
+               <p>Q. What pass'd when you took him?</p>
+               <p>Evans. He fell on his Knees and begg'd I would forgive him.</p>
+               <p>Q. Who was the Bundle taken up by? where was it when he was taken?</p>
+               <p>Evans. He threw down the Stockings in the Street, and Coatham took them up.</p>
+               <p>
+            
+                  <persName id="t17460117-7-person124">
+                  Thomas 
+                  Coatham 
+               <interp inst="t17460117-7-person124" type="surname" value="Coatham"></interp>
+                     <interp inst="t17460117-7-person124" type="given" value="Thomas"></interp>
+                     <interp inst="t17460117-7-person124" type="gender" value="male"></interp>
+                  </persName>
+            . I heard them cry stop Thief, as I was coming thro' the Court. and I saw the Prisoner run, with a Bundle and a Stick in his Hand, for which Reason I was afraid to take hold of him.</p>
+               <p>Q. Did you take up the Bundle? Did you shew it to the Prosecutor, and did he own the Stockings.</p>
+               <p>Coatham. Yes, He said they were his. I was at this Time close by the Prisoner, who fell on his Knees and begg'd Forgiveness.</p>
+               <p>
+            
+                  <persName id="t17460117-7-person125">
+                  John 
+                  Manning 
+               <interp inst="t17460117-7-person125" type="surname" value="Manning"></interp>
+                     <interp inst="t17460117-7-person125" type="given" value="John"></interp>
+                     <interp inst="t17460117-7-person125" type="gender" value="male"></interp>
+                  </persName>
+            . As I was coming by, I heard a Cry of stop Thief, and I stopp'd him: I saw him throw down the Stick, but I could not say I saw him throw down the Bundle.</p>
+               <p>Q. What did he say when you took him?</p>
+               <p>Manning. He cry'd out for Mercy and begg'd Forgiveness. <rs id="t17460117-7-verdict26" type="verdictDescription">
+                     <interp inst="t17460117-7-verdict26" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17460117-7-punish27" type="punishmentDescription">
+                     <interp inst="t17460117-7-punish27" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17460117-7-defend119 t17460117-7-punish27"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

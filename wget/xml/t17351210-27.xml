@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-27">
+               <interp inst="t17351210-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-27" type="year" value="1735"></interp>
+               <interp inst="t17351210-27" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-27" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-27-off118-c133" targOrder="Y" targets="t17351210-27-defend191 t17351210-27-off118 t17351210-27-verdict120"></join>
+               <join result="criminalCharge" id="t17351210-27-off118-c134" targOrder="Y" targets="t17351210-27-defend193 t17351210-27-off118 t17351210-27-verdict120"></join>
+         
+               <p>34, 35. 
+               
+                  <persName id="t17351210-27-defend191" type="defendantName">
+                     Elizabeth 
+                     Cherry  alias <rs id="t17351210-27-alias-5" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-27-defend191 t17351210-27-alias-5"></join>Blake</rs>
+                     <interp inst="t17351210-27-defend191" type="surname" value="Cherry"></interp>
+                     <interp inst="t17351210-27-defend191" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17351210-27-defend191" type="gender" value="female"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17351210-27-defend193" type="defendantName">
+                     Martha 
+                     Pomfret 
+                  <interp inst="t17351210-27-defend193" type="surname" value="Pomfret"></interp>
+                     <interp inst="t17351210-27-defend193" type="given" value="Martha"></interp>
+                     <interp inst="t17351210-27-defend193" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17351210-27-off118" type="offenceDescription">
+                     <interp inst="t17351210-27-off118" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17351210-27-off118" type="offenceSubcategory" value="other"></interp>
+               stealing a Sarcenet Hood, a suit of Head Clothes, a Box Iron, and two Heaters
+            </rs>, the Goods of 
+               
+                  <persName id="t17351210-27-victim195" type="victimName">
+                     Thomas 
+                     Pritchard 
+                  <interp inst="t17351210-27-victim195" type="surname" value="Pritchard"></interp>
+                     <interp inst="t17351210-27-victim195" type="given" value="Thomas"></interp>
+                     <interp inst="t17351210-27-victim195" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17351210-27-off118 t17351210-27-victim195"></join>
+                  </persName>
+                
+            , <rs id="t17351210-27-cd119" type="crimeDate">October 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17351210-27-off118 t17351210-27-cd119"></join>. <rs id="t17351210-27-verdict120" type="verdictDescription">
+                     <interp inst="t17351210-27-verdict120" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

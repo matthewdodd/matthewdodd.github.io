@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17511204-18">
+               <interp inst="t17511204-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17511204-18" type="year" value="1751"></interp>
+               <interp inst="t17511204-18" type="uri" value="sessionsPapers/17511204"></interp>
+               <interp inst="t17511204-18" type="date" value="17511204"></interp>
+               <join result="criminalCharge" id="t17511204-18-off106-c138" targOrder="Y" targets="t17511204-18-defend169 t17511204-18-off106 t17511204-18-verdict110"></join>
+         
+               <p>20. (M.) 
+               
+                  <persName id="t17511204-18-defend169" type="defendantName">
+                     Joseph 
+                     Goodman 
+                  <interp inst="t17511204-18-defend169" type="surname" value="Goodman"></interp>
+                     <interp inst="t17511204-18-defend169" type="given" value="Joseph"></interp>
+                     <interp inst="t17511204-18-defend169" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17511204-18-off106" type="offenceDescription">
+                     <interp inst="t17511204-18-off106" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17511204-18-off106" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing one gold ring, value 15 s. one guinea, one half guinea, one French crown, and 10 s. 6 d. in money number'd, the goods and money of 
+                     
+                        <persName id="t17511204-18-victim171" type="victimName">
+                           Thomas 
+                           Pullen 
+                        <interp inst="t17511204-18-victim171" type="surname" value="Pullen"></interp>
+                        <interp inst="t17511204-18-victim171" type="given" value="Thomas"></interp>
+                        <interp inst="t17511204-18-victim171" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17511204-18-off106 t17511204-18-victim171"></join>
+                     </persName>
+                      
+                  , in his dwelling-house
+            </rs>, <rs id="t17511204-18-cd107" type="crimeDate">Oct. 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17511204-18-off106 t17511204-18-cd107"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17511204-18-person172">
+                  Thomas 
+                  Pullen 
+               <interp inst="t17511204-18-person172" type="surname" value="Pullen"></interp>
+                     <interp inst="t17511204-18-person172" type="given" value="Thomas"></interp>
+                     <interp inst="t17511204-18-person172" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17511204-18-viclabel108" type="occupation">keep the <placeName id="t17511204-18-crimeloc109">York-minister at Hyde-park corner</placeName>
+                     <interp inst="t17511204-18-crimeloc109" type="placeName" value="York-minister at Hyde-park corner"></interp>
+                     <interp inst="t17511204-18-crimeloc109" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17511204-18-off106 t17511204-18-crimeloc109"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-18-victim171 t17511204-18-viclabel108"></join>, the prisoner lodged in my house from the latter end of July to the 23d of Oct. he had not money enough to pay for a pint of beer, which I by his desire set up, &amp;c. The next morning my wife and I got up between three and four. The prisoner was just after us, which was what he never used to do. These things mentioned were in a cupboard below; about six we found the door of it open, and the ring and money gone, he then said he had six pence to spend. I had a suspicion of him. I had him taken up. We took him to the Horseshoe and Magpye at the New-Bridge Foot, the justice not being at home; there he confessed, (after I said don't let it be lost, I would have it be of service to somebody) it was not lost, and put his hand into his breeches and pulled them out, wrap'd up in a dirty cloth. The ring had M B B. dated 1728; one of the half guineas was a pale one with a crack in it, produc'd in court and deposed to. He said he opened the lock with a case knife and took the things out.</p>
+               <p>
+            
+                  <persName id="t17511204-18-person173">
+                  Sarah 
+                  Pullen 
+               <interp inst="t17511204-18-person173" type="surname" value="Pullen"></interp>
+                     <interp inst="t17511204-18-person173" type="given" value="Sarah"></interp>
+                     <interp inst="t17511204-18-person173" type="gender" value="female"></interp>
+                  </persName>
+             confirm'd that of her husband, with this addition. That the window shutter in the yard was open, and a clean napkin which lay in the chair near the window, had a print of a foot in it; that the inward door into the room was locked in the morning, that the yard was wall'd round; so that there was no room to doubt but that the prisoner had been down in the yard and in at the window.</p>
+               <p>
+            
+                  <persName id="t17511204-18-person174">
+                  Daniel 
+                  Maclean 
+               <interp inst="t17511204-18-person174" type="surname" value="Maclean"></interp>
+                     <interp inst="t17511204-18-person174" type="given" value="Daniel"></interp>
+                     <interp inst="t17511204-18-person174" type="gender" value="male"></interp>
+                  </persName>
+             the officer confirm'd that of his confession at the Horseshoe and Magpye.</p>
+               <p>
+                  <rs id="t17511204-18-verdict110" type="verdictDescription">
+                     <interp inst="t17511204-18-verdict110" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17511204-18-verdict110" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty, 39 s
+            </rs>.</p>
+               <p>
+                  <rs id="t17511204-18-punish111" type="punishmentDescription">
+                     <interp inst="t17511204-18-punish111" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17511204-18-defend169 t17511204-18-punish111"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

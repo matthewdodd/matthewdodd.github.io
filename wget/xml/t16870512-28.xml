@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870512-28">
+               <interp inst="t16870512-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870512-28" type="year" value="1687"></interp>
+               <interp inst="t16870512-28" type="uri" value="sessionsPapers/16870512"></interp>
+               <interp inst="t16870512-28" type="date" value="16870512"></interp>
+               <join result="criminalCharge" id="t16870512-28-off131-c84" targOrder="Y" targets="t16870512-28-defend117 t16870512-28-off131 t16870512-28-verdict134"></join>
+               <join result="criminalCharge" id="t16870512-28-off132-c84" targOrder="Y" targets="t16870512-28-defend117 t16870512-28-off132 t16870512-28-verdict134"></join>
+               <join result="criminalCharge" id="t16870512-28-off133-c84" targOrder="Y" targets="t16870512-28-defend117 t16870512-28-off133 t16870512-28-verdict134"></join>
+         
+               <p>
+            
+                  <persName id="t16870512-28-defend117" type="defendantName">
+                  Henry 
+                  Rapley
+               <interp inst="t16870512-28-defend117" type="surname" value="Rapley"></interp>
+                     <interp inst="t16870512-28-defend117" type="given" value="Henry"></interp>
+                     <interp inst="t16870512-28-defend117" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted upon <rs id="t16870512-28-off131" type="offenceDescription">
+                     <interp inst="t16870512-28-off131" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870512-28-off131" type="offenceSubcategory" value="animalTheft"></interp>
+               3 several Indictments, for stealing 3 Cows, viz one from 
+                     <persName id="t16870512-28-victim118" type="victimName">
+                        Esther 
+                        Wellefar
+                     <interp inst="t16870512-28-victim118" type="surname" value="Wellefar"></interp>
+                        <interp inst="t16870512-28-victim118" type="given" value="Esther"></interp>
+                        <interp inst="t16870512-28-victim118" type="gender" value="female"></interp>
+                     </persName>
+                  
+               
+                  </rs>, <rs id="t16870512-28-off132" type="offenceDescription">
+                     <interp inst="t16870512-28-off132" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870512-28-off132" type="offenceSubcategory" value="animalTheft"></interp>
+               another from 
+                     
+                        <persName id="t16870512-28-victim120" type="victimName">
+                           Thomas 
+                           Marsh
+                        <interp inst="t16870512-28-victim120" type="surname" value="Marsh"></interp>
+                        <interp inst="t16870512-28-victim120" type="given" value="Thomas"></interp>
+                        <interp inst="t16870512-28-victim120" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  
+               
+                  </rs>, <rs id="t16870512-28-off133" type="offenceDescription">
+                     <interp inst="t16870512-28-off133" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870512-28-off133" type="offenceSubcategory" value="animalTheft"></interp>
+               and a third from 
+                     
+                        <persName id="t16870512-28-victim122" type="victimName">
+                           Mary 
+                           Allan
+                        <interp inst="t16870512-28-victim122" type="surname" value="Allan"></interp>
+                        <interp inst="t16870512-28-victim122" type="given" value="Mary"></interp>
+                        <interp inst="t16870512-28-victim122" type="gender" value="female"></interp>
+                     </persName>
+                     
+                  , in all to the value of 17 l.
+            </rs> to which Indictments upon his Arraignment he <rs id="t16870512-28-verdict134" type="verdictDescription">
+                     <interp inst="t16870512-28-verdict134" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870512-28-verdict134" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t16870512-28-punish135" type="punishmentDescription">
+                     <interp inst="t16870512-28-punish135" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16870512-28-punish135" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870512-28-defend117 t16870512-28-punish135"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,51 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490405-44">
+               <interp inst="t17490405-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490405-44" type="year" value="1749"></interp>
+               <interp inst="t17490405-44" type="uri" value="sessionsPapers/17490405"></interp>
+               <interp inst="t17490405-44" type="date" value="17490405"></interp>
+               <join result="criminalCharge" id="t17490405-44-off198-c221" targOrder="Y" targets="t17490405-44-defend299 t17490405-44-off198 t17490405-44-verdict201"></join>
+         
+               <p>292. 
+               
+                  <persName id="t17490405-44-defend299" type="defendantName">
+                     Thomas 
+                     Nutkins 
+                  <interp inst="t17490405-44-defend299" type="surname" value="Nutkins"></interp>
+                     <interp inst="t17490405-44-defend299" type="given" value="Thomas"></interp>
+                     <interp inst="t17490405-44-defend299" type="gender" value="male"></interp>
+                  </persName>
+               
+             , was indicted for <rs id="t17490405-44-off198" type="offenceDescription">
+                     <interp inst="t17490405-44-off198" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490405-44-off198" type="offenceSubcategory" value="other"></interp>
+               stealing one hundred pound weight of lead
+            </rs>, the goods of 
+               
+                  <persName id="t17490405-44-victim301" type="victimName">
+                     David 
+                     Heath 
+                  <interp inst="t17490405-44-victim301" type="surname" value="Heath"></interp>
+                     <interp inst="t17490405-44-victim301" type="given" value="David"></interp>
+                     <interp inst="t17490405-44-victim301" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17490405-44-off198 t17490405-44-victim301"></join>
+                  </persName>
+                
+             , <rs id="t17490405-44-viclabel199" type="occupation">Esq</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17490405-44-victim301 t17490405-44-viclabel199"></join>; <rs id="t17490405-44-cd200" type="crimeDate">Feb. 23</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490405-44-off198 t17490405-44-cd200"></join>.</p>
+               <p>
+                  <rs id="t17490405-44-verdict201" type="verdictDescription">
+                     <interp inst="t17490405-44-verdict201" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17490405-44-punish202" type="punishmentDescription">
+                     <interp inst="t17490405-44-punish202" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17490405-44-defend299 t17490405-44-punish202"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

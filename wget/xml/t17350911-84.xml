@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350911-84">
+               <interp inst="t17350911-84" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350911-84" type="year" value="1735"></interp>
+               <interp inst="t17350911-84" type="uri" value="sessionsPapers/17350911"></interp>
+               <interp inst="t17350911-84" type="date" value="17350911"></interp>
+               <join result="criminalCharge" id="t17350911-84-off368-c403" targOrder="Y" targets="t17350911-84-defend588 t17350911-84-off368 t17350911-84-verdict370"></join>
+               <join result="criminalCharge" id="t17350911-84-off368-c404" targOrder="Y" targets="t17350911-84-defend590 t17350911-84-off368 t17350911-84-verdict370"></join>
+         
+               <p>104, 
+               
+                  <persName id="t17350911-84-defend588" type="defendantName">
+                     John 
+                     Keeble 
+                  <interp inst="t17350911-84-defend588" type="surname" value="Keeble"></interp>
+                     <interp inst="t17350911-84-defend588" type="given" value="John"></interp>
+                     <interp inst="t17350911-84-defend588" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350911-84-defend590" type="defendantName">
+                     Ishmael 
+                     Taylor 
+                  <interp inst="t17350911-84-defend590" type="surname" value="Taylor"></interp>
+                     <interp inst="t17350911-84-defend590" type="given" value="Ishmael"></interp>
+                     <interp inst="t17350911-84-defend590" type="gender" value="male"></interp>
+                  </persName>
+                
+            , * were indicted for <rs id="t17350911-84-off368" type="offenceDescription">
+                     <interp inst="t17350911-84-off368" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17350911-84-off368" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entring the House of 
+                     
+                        <persName id="t17350911-84-victim592" type="victimName">
+                           William 
+                           Holder 
+                        <interp inst="t17350911-84-victim592" type="surname" value="Holder"></interp>
+                        <interp inst="t17350911-84-victim592" type="given" value="William"></interp>
+                        <interp inst="t17350911-84-victim592" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350911-84-off368 t17350911-84-victim592"></join>
+                     </persName>
+                      
+                  , in the Night, and stealing fifteen pair of Shoes, value three Pound
+            </rs>, <rs id="t17350911-84-cd369" type="crimeDate">May 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350911-84-off368 t17350911-84-cd369"></join>. <rs id="t17350911-84-verdict370" type="verdictDescription">
+                     <interp inst="t17350911-84-verdict370" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>* In April 1733. 
+               <persName id="t17350911-84-person593">
+                  Ishmael 
+                  Taylor 
+               <interp inst="t17350911-84-person593" type="surname" value="Taylor"></interp>
+                     <interp inst="t17350911-84-person593" type="given" value="Ishmael"></interp>
+                     <interp inst="t17350911-84-person593" type="gender" value="male"></interp>
+                  </persName>
+            , was tryed with 
+               <persName id="t17350911-84-person594">
+                  John 
+                  Kemp 
+               <interp inst="t17350911-84-person594" type="surname" value="Kemp"></interp>
+                     <interp inst="t17350911-84-person594" type="given" value="John"></interp>
+                     <interp inst="t17350911-84-person594" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t17350911-84-person595">
+                  Samuel 
+                  Elms 
+               <interp inst="t17350911-84-person595" type="surname" value="Elms"></interp>
+                     <interp inst="t17350911-84-person595" type="given" value="Samuel"></interp>
+                     <interp inst="t17350911-84-person595" type="gender" value="male"></interp>
+                  </persName>
+            , for two Robberies. Elms was capitally Convicted, but Kemp and Taylor were Acquitted,</p>
+               <p>
+                  <rs id="t17350911-84-punish371" type="punishmentDescription">
+                     <interp inst="t17350911-84-punish371" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350911-84-defend588 t17350911-84-punish371"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350911-84-defend590 t17350911-84-punish371"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

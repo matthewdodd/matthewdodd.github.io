@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440728-26">
+               <interp inst="t17440728-26" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440728-26" type="year" value="1744"></interp>
+               <interp inst="t17440728-26" type="uri" value="sessionsPapers/17440728"></interp>
+               <interp inst="t17440728-26" type="date" value="17440728"></interp>
+               <join result="criminalCharge" id="t17440728-26-off154-c295" targOrder="Y" targets="t17440728-26-defend359 t17440728-26-off154 t17440728-26-verdict156"></join>
+               <join result="criminalCharge" id="t17440728-26-off154-c296" targOrder="Y" targets="t17440728-26-defend361 t17440728-26-off154 t17440728-26-verdict156"></join>
+         
+               <p>329, 330. 
+               
+                  <persName id="t17440728-26-defend359" type="defendantName">
+                     John 
+                     Strech 
+                  <interp inst="t17440728-26-defend359" type="surname" value="Strech"></interp>
+                     <interp inst="t17440728-26-defend359" type="given" value="John"></interp>
+                     <interp inst="t17440728-26-defend359" type="gender" value="male"></interp>
+                  </persName>
+                
+             , 
+               
+                  <persName id="t17440728-26-defend361" type="defendantName">
+                     Eleanor 
+                     Strech 
+                  <interp inst="t17440728-26-defend361" type="surname" value="Strech"></interp>
+                     <interp inst="t17440728-26-defend361" type="given" value="Eleanor"></interp>
+                     <interp inst="t17440728-26-defend361" type="gender" value="female"></interp>
+                  </persName>
+               
+             , of <placeName id="t17440728-26-defloc153">St. Mary Whitechapel</placeName>
+                  <interp inst="t17440728-26-defloc153" type="placeName" value="St. Mary Whitechapel"></interp>
+                  <interp inst="t17440728-26-defloc153" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440728-26-defend359 t17440728-26-defloc153"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440728-26-defend361 t17440728-26-defloc153"></join>, were indicted for <rs id="t17440728-26-off154" type="offenceDescription">
+                     <interp inst="t17440728-26-off154" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440728-26-off154" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two sheets, value 3 s.
+            </rs> the goods of 
+               
+                  <persName id="t17440728-26-victim363" type="victimName">
+                     Elizabeth 
+                     Fosset 
+                  <interp inst="t17440728-26-victim363" type="surname" value="Fosset"></interp>
+                     <interp inst="t17440728-26-victim363" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17440728-26-victim363" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440728-26-off154 t17440728-26-victim363"></join>
+                  </persName>
+                
+            , <rs id="t17440728-26-cd155" type="crimeDate">June 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440728-26-off154 t17440728-26-cd155"></join>.</p>
+               <p>
+            
+                  <persName id="t17440728-26-person364">
+                  Elizabeth 
+                  Fosset 
+               <interp inst="t17440728-26-person364" type="surname" value="Fosset"></interp>
+                     <interp inst="t17440728-26-person364" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17440728-26-person364" type="gender" value="female"></interp>
+                  </persName>
+             . I lost a pair of sheets , but I can't say they took them. I met them in the street one day, and charged them with taking them and took them up; my passion overcame my reason, or I should not have done it. <rs id="t17440728-26-verdict156" type="verdictDescription">
+                     <interp inst="t17440728-26-verdict156" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

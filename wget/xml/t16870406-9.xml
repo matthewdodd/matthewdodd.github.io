@@ -1,3 +1,43 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870406-9">
+               <interp inst="t16870406-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870406-9" type="year" value="1687"></interp>
+               <interp inst="t16870406-9" type="uri" value="sessionsPapers/16870406"></interp>
+               <interp inst="t16870406-9" type="date" value="16870406"></interp>
+               <join result="criminalCharge" id="t16870406-9-off47-c52" targOrder="Y" targets="t16870406-9-defend69 t16870406-9-off47 t16870406-9-verdict50"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16870406-9-defend69" type="defendantName">
+                     John 
+                     Shambrook
+                  <interp inst="t16870406-9-defend69" type="surname" value="Shambrook"></interp>
+                     <interp inst="t16870406-9-defend69" type="given" value="John"></interp>
+                     <interp inst="t16870406-9-defend69" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was Tryed for <rs id="t16870406-9-off47" type="offenceDescription">
+                     <interp inst="t16870406-9-off47" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870406-9-off47" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three Trusses of Hay, value 3 s.
+            </rs> from 
+               
+                  <persName id="t16870406-9-victim71" type="victimName">
+                     John 
+                     Wilcock
+                  <interp inst="t16870406-9-victim71" type="surname" value="Wilcock"></interp>
+                     <interp inst="t16870406-9-victim71" type="given" value="John"></interp>
+                     <interp inst="t16870406-9-victim71" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16870406-9-off47 t16870406-9-victim71"></join>
+                  </persName>
+               
+            's, of the Parish of <placeName id="t16870406-9-crimeloc48">Finchly</placeName>
+                  <interp inst="t16870406-9-crimeloc48" type="placeName" value="Finchly"></interp>
+                  <interp inst="t16870406-9-crimeloc48" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16870406-9-off47 t16870406-9-crimeloc48"></join>, on the <rs id="t16870406-9-cd49" type="crimeDate">18th. of Feb.</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16870406-9-off47 t16870406-9-cd49"></join> last. The Witnesses were Wilcocks and others, who deposed that the Hey was taken off from a Hovel by the Prisoner, and afterward found in his Possession, but producing Evidence to testifie his long inhabiting that Parish, together with his Reputation and Behaviour, he was <rs id="t16870406-9-verdict50" type="verdictDescription">
+                     <interp inst="t16870406-9-verdict50" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

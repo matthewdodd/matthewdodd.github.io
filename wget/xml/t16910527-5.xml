@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910527-5">
+               <interp inst="t16910527-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910527-5" type="year" value="1691"></interp>
+               <interp inst="t16910527-5" type="uri" value="sessionsPapers/16910527"></interp>
+               <interp inst="t16910527-5" type="date" value="16910527"></interp>
+               <join result="criminalCharge" id="t16910527-5-off22-c14" targOrder="Y" targets="t16910527-5-defend14 t16910527-5-off22 t16910527-5-verdict24"></join>
+         
+               <p>
+            
+                  <persName id="t16910527-5-defend14" type="defendantName">
+                  Mary 
+                  Hayes alias <rs id="t16910527-5-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t16910527-5-defend14 t16910527-5-alias-2"></join>Harris</rs>
+                     <interp inst="t16910527-5-defend14" type="surname" value="Hayes"></interp>
+                     <interp inst="t16910527-5-defend14" type="given" value="Mary"></interp>
+                     <interp inst="t16910527-5-defend14" type="gender" value="female"></interp>
+                  </persName>
+            , of <placeName id="t16910527-5-defloc21">St. Giles Cripplegate</placeName>
+                  <interp inst="t16910527-5-defloc21" type="placeName" value="St. Giles Cripplegate"></interp>
+                  <interp inst="t16910527-5-defloc21" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16910527-5-defend14 t16910527-5-defloc21"></join>, was tryed for <rs id="t16910527-5-off22" type="offenceDescription">
+                     <interp inst="t16910527-5-off22" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910527-5-off22" type="offenceSubcategory" value="grandLarceny"></interp>
+               Felony, in Robbing 
+                     <persName id="t16910527-5-victim15" type="victimName">
+                        William 
+                        Hitchman
+                     <interp inst="t16910527-5-victim15" type="surname" value="Hitchman"></interp>
+                        <interp inst="t16910527-5-victim15" type="given" value="William"></interp>
+                        <interp inst="t16910527-5-victim15" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910527-5-off22 t16910527-5-victim15"></join>
+                     </persName>
+                  , on the <rs id="t16910527-5-cd23" type="crimeDate">21st of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910527-5-off22 t16910527-5-cd23"></join> last of a Silver Tankard, value 9 l. 15 s. one Spoon, value 9 s. three Gold Rings, value 50 s. one Petticoat, value 3 l. 12 s. one Gown, value 30 s. some Shifts, and other small Goods, &amp;c.
+            </rs> She confest the Matter of Fact upon her Tryal; so she was found <rs id="t16910527-5-verdict24" type="verdictDescription">
+                     <interp inst="t16910527-5-verdict24" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16910527-5-punish25" type="punishmentDescription">
+                     <interp inst="t16910527-5-punish25" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910527-5-defend14 t16910527-5-punish25"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

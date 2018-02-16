@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16901015-22">
+               <interp inst="t16901015-22" type="collection" value="BAILEY"></interp>
+               <interp inst="t16901015-22" type="year" value="1690"></interp>
+               <interp inst="t16901015-22" type="uri" value="sessionsPapers/16901015"></interp>
+               <interp inst="t16901015-22" type="date" value="16901015"></interp>
+               <join result="criminalCharge" id="t16901015-22-off94-c76" targOrder="Y" targets="t16901015-22-defend112 t16901015-22-off94 t16901015-22-verdict97"></join>
+         
+               <p>
+            
+                  <persName id="t16901015-22-defend112" type="defendantName">
+                  Richard 
+                  Haksworth
+               <interp inst="t16901015-22-defend112" type="surname" value="Haksworth"></interp>
+                     <interp inst="t16901015-22-defend112" type="given" value="Richard"></interp>
+                     <interp inst="t16901015-22-defend112" type="gender" value="male"></interp>
+                  </persName>
+             was tryed for <rs id="t16901015-22-off94" type="offenceDescription">
+                     <interp inst="t16901015-22-off94" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16901015-22-off94" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 11 Deal Boards value 9 s. 2 d. 3 Frames 3 s. and 2 wooden Benches 12 d.
+            </rs> on the <rs id="t16901015-22-cd95" type="crimeDate">first of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16901015-22-off94 t16901015-22-cd95"></join> last, from 
+               
+                  <persName id="t16901015-22-victim114" type="victimName">
+                     John 
+                     Hare
+                  <interp inst="t16901015-22-victim114" type="surname" value="Hare"></interp>
+                     <interp inst="t16901015-22-victim114" type="given" value="John"></interp>
+                     <interp inst="t16901015-22-victim114" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16901015-22-off94 t16901015-22-victim114"></join>
+                  </persName>
+               
+             of <placeName id="t16901015-22-crimeloc96">Stepney</placeName>
+                  <interp inst="t16901015-22-crimeloc96" type="placeName" value="Stepney"></interp>
+                  <interp inst="t16901015-22-crimeloc96" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16901015-22-off94 t16901015-22-crimeloc96"></join>; but it appeared that he was employed by the Prosecutor to work for him, and no Felony could be proved, to he was <rs id="t16901015-22-verdict97" type="verdictDescription">
+                     <interp inst="t16901015-22-verdict97" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>,</p>
+            </div1>

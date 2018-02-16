@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17411014-6">
+               <interp inst="t17411014-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17411014-6" type="year" value="1741"></interp>
+               <interp inst="t17411014-6" type="uri" value="sessionsPapers/17411014"></interp>
+               <interp inst="t17411014-6" type="date" value="17411014"></interp>
+               <join result="criminalCharge" id="t17411014-6-off39-c77" targOrder="Y" targets="t17411014-6-defend92 t17411014-6-off39 t17411014-6-verdict41"></join>
+         
+               <p>7. 
+               
+                  <persName id="t17411014-6-defend92" type="defendantName">
+                     Samuel 
+                     Chester 
+                  <interp inst="t17411014-6-defend92" type="surname" value="Chester"></interp>
+                     <interp inst="t17411014-6-defend92" type="given" value="Samuel"></interp>
+                     <interp inst="t17411014-6-defend92" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17411014-6-off39" type="offenceDescription">
+                     <interp inst="t17411014-6-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17411014-6-off39" type="offenceSubcategory" value="other"></interp>
+               stealing a looking-glass, value 12 d. the goods of 
+                     <persName id="t17411014-6-person93">
+                        Edward 
+                        Cannon 
+                     <interp inst="t17411014-6-person93" type="surname" value="Cannon"></interp>
+                        <interp inst="t17411014-6-person93" type="given" value="Edward"></interp>
+                        <interp inst="t17411014-6-person93" type="gender" value="male"></interp>
+                     </persName>
+                   ; a pair of linen sheets, a pair of blankets, a quilt made of cloth patchwork, and a copper saucepan
+            </rs>, the goods of 
+               
+                  <persName id="t17411014-6-victim95" type="victimName">
+                     Peter 
+                     Sinclair 
+                  <interp inst="t17411014-6-victim95" type="surname" value="Sinclair"></interp>
+                     <interp inst="t17411014-6-victim95" type="given" value="Peter"></interp>
+                     <interp inst="t17411014-6-victim95" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17411014-6-off39 t17411014-6-victim95"></join>
+                  </persName>
+                
+             ; <rs id="t17411014-6-cd40" type="crimeDate">September 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17411014-6-off39 t17411014-6-cd40"></join>. <rs id="t17411014-6-verdict41" type="verdictDescription">
+                     <interp inst="t17411014-6-verdict41" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

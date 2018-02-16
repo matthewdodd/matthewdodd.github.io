@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16871207-33">
+               <interp inst="t16871207-33" type="collection" value="BAILEY"></interp>
+               <interp inst="t16871207-33" type="year" value="1687"></interp>
+               <interp inst="t16871207-33" type="uri" value="sessionsPapers/16871207"></interp>
+               <interp inst="t16871207-33" type="date" value="16871207"></interp>
+               <join result="criminalCharge" id="t16871207-33-off154-c94" targOrder="Y" targets="t16871207-33-defend150 t16871207-33-off154 t16871207-33-verdict155"></join>
+               <join result="criminalCharge" id="t16871207-33-off154-c95" targOrder="Y" targets="t16871207-33-defend152 t16871207-33-off154 t16871207-33-verdict155"></join>
+               <join result="criminalCharge" id="t16871207-33-off154-c96" targOrder="Y" targets="t16871207-33-defend154 t16871207-33-off154 t16871207-33-verdict156"></join>
+               <join result="criminalCharge" id="t16871207-33-off154-c97" targOrder="Y" targets="t16871207-33-defend156 t16871207-33-off154 t16871207-33-verdict156"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16871207-33-defend150" type="defendantName">
+                     Patience 
+                     Jones
+                  <interp inst="t16871207-33-defend150" type="surname" value="Jones"></interp>
+                     <interp inst="t16871207-33-defend150" type="given" value="Patience"></interp>
+                     <interp inst="t16871207-33-defend150" type="gender" value="female"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16871207-33-defend152" type="defendantName">
+                     Susan 
+                     Rogers
+                  <interp inst="t16871207-33-defend152" type="surname" value="Rogers"></interp>
+                     <interp inst="t16871207-33-defend152" type="given" value="Susan"></interp>
+                     <interp inst="t16871207-33-defend152" type="gender" value="female"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16871207-33-defend154" type="defendantName">
+                     Edward 
+                     Newby
+                  <interp inst="t16871207-33-defend154" type="surname" value="Newby"></interp>
+                     <interp inst="t16871207-33-defend154" type="given" value="Edward"></interp>
+                     <interp inst="t16871207-33-defend154" type="gender" value="male"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16871207-33-defend156" type="defendantName">
+                     John 
+                     Butler
+                  <interp inst="t16871207-33-defend156" type="surname" value="Butler"></interp>
+                     <interp inst="t16871207-33-defend156" type="given" value="John"></interp>
+                     <interp inst="t16871207-33-defend156" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were Indicted for <rs id="t16871207-33-off154" type="offenceDescription">
+                     <interp inst="t16871207-33-off154" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16871207-33-off154" type="offenceSubcategory" value="shoplifting"></interp>
+               Stealing two Silver Tankards, value 8 l. being the goods of 
+                     
+                        <persName id="t16871207-33-victim158" type="victimName">
+                           Richard 
+                           Taylor
+                        <interp inst="t16871207-33-victim158" type="surname" value="Taylor"></interp>
+                        <interp inst="t16871207-33-victim158" type="given" value="Richard"></interp>
+                        <interp inst="t16871207-33-victim158" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16871207-33-off154 t16871207-33-victim158"></join>
+                     </persName>
+                     
+                  , taken out of his Shop
+            </rs>. The Evidence being strong against the Women, they were found <rs id="t16871207-33-verdict155" type="verdictDescription">
+                     <interp inst="t16871207-33-verdict155" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>, and the men <rs id="t16871207-33-verdict156" type="verdictDescription">
+                     <interp inst="t16871207-33-verdict156" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16871207-33-punish157" type="punishmentDescription">
+                     <interp inst="t16871207-33-punish157" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871207-33-defend150 t16871207-33-punish157"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16871207-33-defend152 t16871207-33-punish157"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

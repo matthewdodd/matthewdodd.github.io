@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17370526-19">
+               <interp inst="t17370526-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t17370526-19" type="year" value="1737"></interp>
+               <interp inst="t17370526-19" type="uri" value="sessionsPapers/17370526"></interp>
+               <interp inst="t17370526-19" type="date" value="17370526"></interp>
+               <join result="criminalCharge" id="t17370526-19-off93-c107" targOrder="Y" targets="t17370526-19-defend149 t17370526-19-off93 t17370526-19-verdict96"></join>
+         
+               <p>20. 
+               
+                  <persName id="t17370526-19-defend149" type="defendantName">
+                     Thomas 
+                     Maynard , otherwise <rs id="t17370526-19-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17370526-19-defend149 t17370526-19-alias-3"></join>Maikell</rs>
+                     <interp inst="t17370526-19-defend149" type="surname" value="Maynard"></interp>
+                     <interp inst="t17370526-19-defend149" type="given" value="Thomas"></interp>
+                     <interp inst="t17370526-19-defend149" type="gender" value="male"></interp>
+                  </persName>
+               
+            , was indicted for feloniously <rs id="t17370526-19-off93" type="offenceDescription">
+                     <interp inst="t17370526-19-off93" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17370526-19-off93" type="offenceSubcategory" value="murder"></interp>
+               assaulting 
+                     <persName id="t17370526-19-victim150" type="victimName">
+                        Mary
+                         the 
+                        <rs id="t17370526-19-viclabel94" type="occupation">Wife</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17370526-19-victim150 t17370526-19-viclabel94"></join>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17370526-19-person151 t17370526-19-viclabel94"></join> of 
+                           <persName id="t17370526-19-person151" type="victimName">
+                              Thomas 
+                              Chandler 
+                           <interp inst="t17370526-19-person151" type="surname" value="Chandler"></interp>
+                           <interp inst="t17370526-19-person151" type="given" value="Thomas"></interp>
+                           <interp inst="t17370526-19-person151" type="gender" value="male"></interp>
+                           <join result="offenceVictim" targOrder="Y" targets="t17370526-19-off93 t17370526-19-person151"></join>
+                        </persName>
+                        
+                        <interp inst="t17370526-19-victim150" type="surname" value="the"></interp>
+                        <interp inst="t17370526-19-victim150" type="given" value="Mary"></interp>
+                        <interp inst="t17370526-19-victim150" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17370526-19-off93 t17370526-19-victim150"></join>
+                     </persName>
+                  , and striking her with an Iron Poker, value 3 d. on the Neck, under the Left Jaw, and giving her one mortal Wound of the Length of two Inches, and the Depth of 4 Inches, of which Wound she instantly died
+            </rs>, <rs id="t17370526-19-cd95" type="crimeDate">January 21</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17370526-19-off93 t17370526-19-cd95"></join>.</p>
+               <p>He was a second Time charged by Virtue of the Coroner's Inquest for the said Murder.</p>
+               <p>
+                  <rs id="t17370526-19-verdict96" type="verdictDescription">
+                     <interp inst="t17370526-19-verdict96" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17370526-19-verdict96" type="verdictSubcategory" value="nonComposMentis"></interp>
+               The Jury found him Lunatick. Acquitted
+            </rs>.</p>
+            </div1>

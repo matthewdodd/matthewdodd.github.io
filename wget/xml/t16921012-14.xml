@@ -1,3 +1,58 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921012-14">
+               <interp inst="t16921012-14" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921012-14" type="year" value="1692"></interp>
+               <interp inst="t16921012-14" type="uri" value="sessionsPapers/16921012"></interp>
+               <interp inst="t16921012-14" type="date" value="16921012"></interp>
+               <join result="criminalCharge" id="t16921012-14-off64-c54" targOrder="Y" targets="t16921012-14-defend54 t16921012-14-off64 t16921012-14-verdict68"></join>
+         
+               <p>
+            
+                  <persName id="t16921012-14-defend54" type="defendantName">
+                  Charles 
+                  Nourse
+               <interp inst="t16921012-14-defend54" type="surname" value="Nourse"></interp>
+                     <interp inst="t16921012-14-defend54" type="given" value="Charles"></interp>
+                     <interp inst="t16921012-14-defend54" type="gender" value="male"></interp>
+                  </persName>
+             of the Parish of <placeName id="t16921012-14-defloc62">St. Giles in the Fields</placeName>
+                  <interp inst="t16921012-14-defloc62" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t16921012-14-defloc62" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16921012-14-defend54 t16921012-14-defloc62"></join> 
+                  <rs id="t16921012-14-deflabel63" type="occupation">Gent.</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921012-14-defend54 t16921012-14-deflabel63"></join> was Tryed for the <rs id="t16921012-14-off64" type="offenceDescription">
+                     <interp inst="t16921012-14-off64" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16921012-14-off64" type="offenceSubcategory" value="murder"></interp>
+               Murder of 
+                     <persName id="t16921012-14-victim55" type="victimName">
+                        George 
+                        Page
+                     <interp inst="t16921012-14-victim55" type="surname" value="Page"></interp>
+                        <interp inst="t16921012-14-victim55" type="given" value="George"></interp>
+                        <interp inst="t16921012-14-victim55" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16921012-14-off64 t16921012-14-victim55"></join>
+                     </persName>
+                   
+                     <rs id="t16921012-14-viclabel65" type="occupation">Gent.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16921012-14-victim55 t16921012-14-viclabel65"></join>
+               
+                  </rs> on the <rs id="t16921012-14-cd66" type="crimeDate">11th day of June</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16921012-14-off64 t16921012-14-cd66"></join> last, in manner thus, The Prisoner and the Deceased were seen to walk in the Fields together, on the Back side of <placeName id="t16921012-14-crimeloc67">Southampton House</placeName>
+                  <interp inst="t16921012-14-crimeloc67" type="placeName" value="Southampton House"></interp>
+                  <interp inst="t16921012-14-crimeloc67" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16921012-14-off64 t16921012-14-crimeloc67"></join>, and on a sudden the Deceased drew his Sword, and the Prisoner drew his also, and made several Passes at each other, after which, Page fell down, and after he was conveyed to a House in King-street, where he Died the next day: The Evidence were not positive that the Prisoner was the Person, being at a distance from him when the thing was done; but the Surgeon being called, declared, that he saw him Write down the Name of Nourse before he departed this World, being ask'd who Kill'd him, which was shewed to the Court; and it was proved that they were in Company together, the same day she said Page was Kill'd, at the Rain bow Coffee house in Fleet-street, and there they had some hot Words together about a Bond of 70 l. odd Mony that Mr. Nourse owed the Deceased, and immediately they both went out together into the Field and there Fought. The Prisoner denied the Matter of Fact, and endeavoured to perswade the Court that he was not the Man, although he was Wounded himself, and went to be Drest at another Surgeons, who he desired to go to see the said Page, who lay ill of his Wound at one Mr. Ridley's a Surgeon in Bloomsbury as abovesaid. There was no precedent Malice proved to have been between them, but rather a sudden heat of Passion; so the Jury having well weighed the Matter, brought him in <rs id="t16921012-14-verdict68" type="verdictDescription">
+                     <interp inst="t16921012-14-verdict68" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16921012-14-verdict68" type="verdictSubcategory" value="manslaughter"></interp>
+               guilty of Manslaughter
+            </rs>.</p>
+               <p>
+                  <rs id="t16921012-14-punish69" type="punishmentDescription">
+                     <interp inst="t16921012-14-punish69" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16921012-14-punish69" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16921012-14-defend54 t16921012-14-punish69"></join>
+               
+                     <note>[Branding. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

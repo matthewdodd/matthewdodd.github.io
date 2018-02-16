@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870831-13">
+               <interp inst="t16870831-13" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870831-13" type="year" value="1687"></interp>
+               <interp inst="t16870831-13" type="uri" value="sessionsPapers/16870831"></interp>
+               <interp inst="t16870831-13" type="date" value="16870831"></interp>
+               <join result="criminalCharge" id="t16870831-13-off71-c70" targOrder="Y" targets="t16870831-13-defend86 t16870831-13-off71 t16870831-13-verdict74"></join>
+         
+               <p>
+            
+                  <persName id="t16870831-13-defend86" type="defendantName">
+                  M - 
+                  R -
+               <interp inst="t16870831-13-defend86" type="surname" value="R -"></interp>
+                     <interp inst="t16870831-13-defend86" type="given" value="M -"></interp>
+                     <interp inst="t16870831-13-defend86" type="gender" value="female"></interp>
+                  </persName>
+             was Tryed for <rs id="t16870831-13-off71" type="offenceDescription">
+                     <interp inst="t16870831-13-off71" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870831-13-off71" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing 10 Yards of Flowerd Silk, value 6 l. from 
+                     
+                        <persName id="t16870831-13-victim88" type="victimName">
+                           Philip 
+                           Gregory
+                        <interp inst="t16870831-13-victim88" type="surname" value="Gregory"></interp>
+                        <interp inst="t16870831-13-victim88" type="given" value="Philip"></interp>
+                        <interp inst="t16870831-13-victim88" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870831-13-off71 t16870831-13-victim88"></join>
+                     </persName>
+                     
+                  , of <placeName id="t16870831-13-crimeloc72">Lumbard street</placeName>
+                     <interp inst="t16870831-13-crimeloc72" type="placeName" value="Lumbard street"></interp>
+                     <interp inst="t16870831-13-crimeloc72" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16870831-13-off71 t16870831-13-crimeloc72"></join>, on the <rs id="t16870831-13-cd73" type="crimeDate">15th of June</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870831-13-off71 t16870831-13-cd73"></join> last: Upon Tryal it appeared, that she coming into the Shop of the Prosecutor upon her departure the Silk was missing
+            </rs>, and soon after discovered at a Shop in Houndsditch, where by her order it had been left, in order to be exposed to Sale; that upon the discovery of it, she sent for it away, which<xptr type="pageFacsimile" doc="16870831003"></xptr>she had owned to one of the Witnesses; so that upon these and other Circumstances, she having nothing material to offer in her own defence, the Jury found her <rs id="t16870831-13-verdict74" type="verdictDescription">
+                     <interp inst="t16870831-13-verdict74" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> of the Felony.</p>
+               <p>
+                  <rs id="t16870831-13-punish75" type="punishmentDescription">
+                     <interp inst="t16870831-13-punish75" type="punishmentCategory" value="noPunish"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870831-13-defend86 t16870831-13-punish75"></join>
+               
+                     <note>[No punishment. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

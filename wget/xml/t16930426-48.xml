@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-48">
+               <interp inst="t16930426-48" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-48" type="year" value="1693"></interp>
+               <interp inst="t16930426-48" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-48" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-48-off220-c143" targOrder="Y" targets="t16930426-48-defend143 t16930426-48-off220 t16930426-48-verdict222"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-48-defend143" type="defendantName">
+                  Peregrin 
+                  Parrot
+               <interp inst="t16930426-48-defend143" type="surname" value="Parrot"></interp>
+                     <interp inst="t16930426-48-defend143" type="given" value="Peregrin"></interp>
+                     <interp inst="t16930426-48-defend143" type="gender" value="male"></interp>
+                  </persName>
+             was tried for Felony and <rs id="t16930426-48-off220" type="offenceDescription">
+                     <interp inst="t16930426-48-off220" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-48-off220" type="offenceSubcategory" value="burglary"></interp>
+               Burglary in breaking open the House of one 
+                     <persName id="t16930426-48-victim144" type="victimName">
+                        Robert 
+                        Kington
+                     <interp inst="t16930426-48-victim144" type="surname" value="Kington"></interp>
+                        <interp inst="t16930426-48-victim144" type="given" value="Robert"></interp>
+                        <interp inst="t16930426-48-victim144" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-48-off220 t16930426-48-victim144"></join>
+                     </persName>
+                  , on the <rs id="t16930426-48-cd221" type="crimeDate">31st of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-48-off220 t16930426-48-cd221"></join>, and taking away one Camblet Cloke, value 4l. one Cloath Coat, value 4l. a pair of Shag Breeches, value 40s. a Petticoat, value 3l. and a great quantity of other wearing Apparel
+            </rs>; he was taken coming out at the Window of one Story high, and two men more, got away, who received the Goods from him; the Burglary was not fully proved, the Prisoner had no good defence to make, having been burnt in the hand before. So he was found <rs id="t16930426-48-verdict222" type="verdictDescription">
+                     <interp inst="t16930426-48-verdict222" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16930426-48-verdict222" type="verdictSubcategory" value="lesserOffence"></interp>
+               guilty of Felony only
+            </rs>.</p>
+               <p>
+                  <rs id="t16930426-48-punish223" type="punishmentDescription">
+                     <interp inst="t16930426-48-punish223" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t16930426-48-punish223" type="punishmentSubcategory" value="militaryNavalDuty"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-48-defend143 t16930426-48-punish223"></join>
+               
+                     <note>[Military/Naval duty. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17341204-65">
+               <interp inst="t17341204-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17341204-65" type="year" value="1734"></interp>
+               <interp inst="t17341204-65" type="uri" value="sessionsPapers/17341204"></interp>
+               <interp inst="t17341204-65" type="date" value="17341204"></interp>
+               <join result="criminalCharge" id="t17341204-65-off318-c358" targOrder="Y" targets="t17341204-65-defend497 t17341204-65-off318 t17341204-65-verdict320"></join>
+               <join result="criminalCharge" id="t17341204-65-off318-c359" targOrder="Y" targets="t17341204-65-defend499 t17341204-65-off318 t17341204-65-verdict320"></join>
+               <join result="criminalCharge" id="t17341204-65-off318-c360" targOrder="Y" targets="t17341204-65-defend501 t17341204-65-off318 t17341204-65-verdict321"></join>
+         
+               <p>63. 
+               
+                  <persName id="t17341204-65-defend497" type="defendantName">
+                     Samuel 
+                     Bowers 
+                  <interp inst="t17341204-65-defend497" type="surname" value="Bowers"></interp>
+                     <interp inst="t17341204-65-defend497" type="given" value="Samuel"></interp>
+                     <interp inst="t17341204-65-defend497" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17341204-65-defend499" type="defendantName">
+                     John 
+                     Bradley 
+                  <interp inst="t17341204-65-defend499" type="surname" value="Bradley"></interp>
+                     <interp inst="t17341204-65-defend499" type="given" value="John"></interp>
+                     <interp inst="t17341204-65-defend499" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17341204-65-defend501" type="defendantName">
+                     William 
+                     Griffith , alias <rs id="t17341204-65-alias-12" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17341204-65-defend501 t17341204-65-alias-12"></join>Shuffle</rs>
+                     <interp inst="t17341204-65-defend501" type="surname" value="Griffith"></interp>
+                     <interp inst="t17341204-65-defend501" type="given" value="William"></interp>
+                     <interp inst="t17341204-65-defend501" type="gender" value="male"></interp>
+                  </persName>
+               
+            , (three <rs id="t17341204-65-deflabel317" type="occupation">Boys</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341204-65-defend497 t17341204-65-deflabel317"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341204-65-defend499 t17341204-65-deflabel317"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17341204-65-defend501 t17341204-65-deflabel317"></join>) were indicted for <rs id="t17341204-65-off318" type="offenceDescription">
+                     <interp inst="t17341204-65-off318" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17341204-65-off318" type="offenceSubcategory" value="other"></interp>
+               stealing two Linen-Frocks, the Goods of Persons unknown, and a Frock and a Coat, the Goods of 
+                     
+                        <persName id="t17341204-65-victim503" type="victimName">
+                           John 
+                           Stormer 
+                        <interp inst="t17341204-65-victim503" type="surname" value="Stormer"></interp>
+                        <interp inst="t17341204-65-victim503" type="given" value="John"></interp>
+                        <interp inst="t17341204-65-victim503" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17341204-65-off318 t17341204-65-victim503"></join>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17341204-65-cd319" type="crimeDate">Nov. 18</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17341204-65-off318 t17341204-65-cd319"></join>. Bowers and Bradley were <rs id="t17341204-65-verdict320" type="verdictDescription">
+                     <interp inst="t17341204-65-verdict320" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>, and Griffith found <rs id="t17341204-65-verdict321" type="verdictDescription">
+                     <interp inst="t17341204-65-verdict321" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17341204-65-punish322" type="punishmentDescription">
+                     <interp inst="t17341204-65-punish322" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17341204-65-defend501 t17341204-65-punish322"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

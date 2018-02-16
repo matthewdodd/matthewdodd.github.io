@@ -1,3 +1,85 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17640502-29">
+               <interp inst="t17640502-29" type="collection" value="BAILEY"></interp>
+               <interp inst="t17640502-29" type="year" value="1764"></interp>
+               <interp inst="t17640502-29" type="uri" value="sessionsPapers/17640502"></interp>
+               <interp inst="t17640502-29" type="date" value="17640502"></interp>
+               <join result="criminalCharge" id="t17640502-29-off159-c189" targOrder="Y" targets="t17640502-29-defend239 t17640502-29-off159 t17640502-29-verdict163"></join>
+         
+               <p>252. (M.) 
+               
+                  <persName id="t17640502-29-defend239" type="defendantName">
+                     Elizabeth 
+                     Addis 
+                  <interp inst="t17640502-29-defend239" type="surname" value="Addis"></interp>
+                     <interp inst="t17640502-29-defend239" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17640502-29-defend239" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17640502-29-deflabel158" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640502-29-defend239 t17640502-29-deflabel158"></join>, was indicted for <rs id="t17640502-29-off159" type="offenceDescription">
+                     <interp inst="t17640502-29-off159" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17640502-29-off159" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one linen sheet, value 2 s. one shirt, value 1 s. and one neckcloth, value 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17640502-29-victim241" type="victimName">
+                     Thomas 
+                     Chapman 
+                  <interp inst="t17640502-29-victim241" type="surname" value="Chapman"></interp>
+                     <interp inst="t17640502-29-victim241" type="given" value="Thomas"></interp>
+                     <interp inst="t17640502-29-victim241" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17640502-29-off159 t17640502-29-victim241"></join>
+                  </persName>
+                
+            , <rs id="t17640502-29-cd160" type="crimeDate">Feb. 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17640502-29-off159 t17640502-29-cd160"></join>. +</p>
+               <p>
+            
+                  <persName id="t17640502-29-person242">
+                  Thomas 
+                  Chpaman 
+               <interp inst="t17640502-29-person242" type="surname" value="Chpaman"></interp>
+                     <interp inst="t17640502-29-person242" type="given" value="Thomas"></interp>
+                     <interp inst="t17640502-29-person242" type="gender" value="male"></interp>
+                  </persName>
+            . I live in the parish of <placeName id="t17640502-29-crimeloc161">Stepney</placeName>
+                  <interp inst="t17640502-29-crimeloc161" type="placeName" value="Stepney"></interp>
+                  <interp inst="t17640502-29-crimeloc161" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17640502-29-off159 t17640502-29-crimeloc161"></join>. My wife was sick in bed: she is a washerwoman: the prisoner came to assist her to <rs id="t17640502-29-deflabel162" type="occupation">fetch and carry out work</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17640502-29-defend239 t17640502-29-deflabel162"></join>. When these things were missing, we took her up. She owned she took the sheet, but not the shirt: but the pawnbroker delivered the shirt up, and we found the neckcloth at the same place.</p>
+               <p>Mrs. Chapman. I hired the prisoner as my nurse, and I sent her out to fetch in the linen to wash, and carry it out again: I missed the sheet: I charged her with it: she owned she had taken that, but would not own to any thing else: but when the pawnbroker delivered that, he delivered the shirt and neckcloth.</p>
+               <p>Q. Did you consent to her pawning them?</p>
+               <p>Mrs. Chapman. No, I did not.</p>
+               <p>
+            
+                  <persName id="t17640502-29-person243">
+                  James 
+                  Ewers 
+               <interp inst="t17640502-29-person243" type="surname" value="Ewers"></interp>
+                     <interp inst="t17640502-29-person243" type="given" value="James"></interp>
+                     <interp inst="t17640502-29-person243" type="gender" value="male"></interp>
+                  </persName>
+            . This sheet, shirt, and neckcloth, were brought to my house by the prisoner at the bar: she told me her name was 
+               <persName id="t17640502-29-person244">
+                  Betty 
+                  Addis 
+               <interp inst="t17640502-29-person244" type="surname" value="Addis"></interp>
+                     <interp inst="t17640502-29-person244" type="given" value="Betty"></interp>
+                     <interp inst="t17640502-29-person244" type="gender" value="female"></interp>
+                  </persName>
+            , and that she was baptized so. (Produced in court, and deposed to.)</p>
+               <p>Prisoner's Defence.</p>
+               <p>After she got me fourteen days in Clerkenwell bridewell, she went and swore this robbery against me out of spight.</p>
+               <p>
+                  <rs id="t17640502-29-verdict163" type="verdictDescription">
+                     <interp inst="t17640502-29-verdict163" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17640502-29-verdict163" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d
+            </rs>. <rs id="t17640502-29-punish164" type="punishmentDescription">
+                     <interp inst="t17640502-29-punish164" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17640502-29-punish164" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17640502-29-defend239 t17640502-29-punish164"></join>
+               W
+            </rs>. </p>
+            </div1>

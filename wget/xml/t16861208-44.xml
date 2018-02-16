@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16861208-44">
+               <interp inst="t16861208-44" type="collection" value="BAILEY"></interp>
+               <interp inst="t16861208-44" type="year" value="1686"></interp>
+               <interp inst="t16861208-44" type="uri" value="sessionsPapers/16861208"></interp>
+               <interp inst="t16861208-44" type="date" value="16861208"></interp>
+               <join result="criminalCharge" id="t16861208-44-off221-c134" targOrder="Y" targets="t16861208-44-defend188 t16861208-44-off221 t16861208-44-verdict223"></join>
+         
+               <p>
+            
+                  <persName id="t16861208-44-defend188" type="defendantName">
+                  John 
+                  Garrell
+               <interp inst="t16861208-44-defend188" type="surname" value="Garrell"></interp>
+                     <interp inst="t16861208-44-defend188" type="given" value="John"></interp>
+                     <interp inst="t16861208-44-defend188" type="gender" value="male"></interp>
+                  </persName>
+            , of the parish of <placeName id="t16861208-44-defloc220">St. Mary Le-Bow</placeName>
+                  <interp inst="t16861208-44-defloc220" type="placeName" value="St. Mary Le-Bow"></interp>
+                  <interp inst="t16861208-44-defloc220" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16861208-44-defend188 t16861208-44-defloc220"></join>, was Indicted for <rs id="t16861208-44-off221" type="offenceDescription">
+                     <interp inst="t16861208-44-off221" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16861208-44-off221" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing a Chesnut Colour Gelding, value 8 l.
+            </rs> the goods of 
+               <persName id="t16861208-44-victim189" type="victimName">
+                  Francis 
+                  Eaere
+               <interp inst="t16861208-44-victim189" type="surname" value="Eaere"></interp>
+                     <interp inst="t16861208-44-victim189" type="given" value="Francis"></interp>
+                     <interp inst="t16861208-44-victim189" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16861208-44-off221 t16861208-44-victim189"></join>
+                  </persName>
+            , on the <rs id="t16861208-44-cd222" type="crimeDate">25th. of July</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16861208-44-off221 t16861208-44-cd222"></join> last. The Witness said that he took the Horse into the Custody of the Prisoner, but could not swear that he stole the Horse, and the Prisoner said he bought the Horse of another person at Cirenester in Glocestershire. As he was going down into the Country, his Horse that he had with him falling Lame, &amp;c. to was immediately <rs id="t16861208-44-verdict223" type="verdictDescription">
+                     <interp inst="t16861208-44-verdict223" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520514-31">
+               <interp inst="t17520514-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520514-31" type="year" value="1752"></interp>
+               <interp inst="t17520514-31" type="uri" value="sessionsPapers/17520514"></interp>
+               <interp inst="t17520514-31" type="date" value="17520514"></interp>
+               <join result="criminalCharge" id="t17520514-31-off165-c249" targOrder="Y" targets="t17520514-31-defend301 t17520514-31-off165 t17520514-31-verdict167"></join>
+         
+               <p>317. (L.) 
+               
+                  <persName id="t17520514-31-defend301" type="defendantName">
+                     Amelia 
+                     Ford 
+                  <interp inst="t17520514-31-defend301" type="surname" value="Ford"></interp>
+                     <interp inst="t17520514-31-defend301" type="given" value="Amelia"></interp>
+                     <interp inst="t17520514-31-defend301" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17520514-31-deflabel164" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520514-31-defend301 t17520514-31-deflabel164"></join>, was indicted for <rs id="t17520514-31-off165" type="offenceDescription">
+                     <interp inst="t17520514-31-off165" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520514-31-off165" type="offenceSubcategory" value="pocketpicking"></interp>
+               privately stealing one silk handkerchief, val. 2 s. the property of 
+                     <persName id="t17520514-31-victim302" type="victimName">
+                        John 
+                        Grahurst 
+                     <interp inst="t17520514-31-victim302" type="surname" value="Grahurst"></interp>
+                        <interp inst="t17520514-31-victim302" type="given" value="John"></interp>
+                        <interp inst="t17520514-31-victim302" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17520514-31-off165 t17520514-31-victim302"></join>
+                     </persName>
+                   , from his person
+            </rs>, <rs id="t17520514-31-cd166" type="crimeDate">April 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520514-31-off165 t17520514-31-cd166"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520514-31-person303">
+                  John 
+                  Grahurst 
+               <interp inst="t17520514-31-person303" type="surname" value="Grahurst"></interp>
+                     <interp inst="t17520514-31-person303" type="given" value="John"></interp>
+                     <interp inst="t17520514-31-person303" type="gender" value="male"></interp>
+                  </persName>
+             On the 11th of April, I was going to take water at the Old Swan, between the hours of twelve and three, as the watermen were round me, the prisoner passed me, I found an uncommon motion, a sort of a jerk at my pocket, I put my hand in and missed my handkerchief immediately.</p>
+               <p>Q. What handkerchief was it?</p>
+               <p>Grahurst. It was a silk one, produced in court and deposed to.</p>
+               <p>Q. When did you see it last before that?</p>
+               <p>Grahurst. I put it clean in my pocket, I believe not an hour and a half before, from out of my buroe: before the woman was got above four or five steps from me, I said, that woman has picked my pocket, a waterman laid hold on her as she was turning into a little alehouse, he turned her cloak on one side, there I saw my handkerchief, he took it from her and gave it to me; she began crying, I don't recollect any thing she said; the watermen were for ducking her.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was going by water, I thought I'd have half a pint of beer, as I was going into an alehouse I picked the handkerchief up, I never found any thing before in my life.</p>
+               <p>Q. to the prosecutor. Did you see her stoop to pick any thing up?</p>
+               <p>Prosecutor. I did not see her, and I had my eye upon her all the while.</p>
+               <p>
+                  <rs id="t17520514-31-verdict167" type="verdictDescription">
+                     <interp inst="t17520514-31-verdict167" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17520514-31-verdict167" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 6 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17520514-31-punish168" type="punishmentDescription">
+                     <interp inst="t17520514-31-punish168" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17520514-31-defend301 t17520514-31-punish168"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

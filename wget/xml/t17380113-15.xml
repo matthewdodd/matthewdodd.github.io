@@ -1,3 +1,138 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17380113-15">
+               <interp inst="t17380113-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17380113-15" type="year" value="1738"></interp>
+               <interp inst="t17380113-15" type="uri" value="sessionsPapers/17380113"></interp>
+               <interp inst="t17380113-15" type="date" value="17380113"></interp>
+               <join result="criminalCharge" id="t17380113-15-off89-c122" targOrder="Y" targets="t17380113-15-defend154 t17380113-15-off89 t17380113-15-verdict93"></join>
+               <join result="criminalCharge" id="t17380113-15-off89-c123" targOrder="Y" targets="t17380113-15-defend156 t17380113-15-off89 t17380113-15-verdict93"></join>
+               <join result="criminalCharge" id="t17380113-15-off91-c122" targOrder="Y" targets="t17380113-15-defend154 t17380113-15-off91 t17380113-15-verdict93"></join>
+               <join result="criminalCharge" id="t17380113-15-off91-c123" targOrder="Y" targets="t17380113-15-defend156 t17380113-15-off91 t17380113-15-verdict93"></join>
+         
+               <p>19, 20. 
+               
+                  <persName id="t17380113-15-defend154" type="defendantName">
+                     John 
+                     Gardiner 
+                  <interp inst="t17380113-15-defend154" type="surname" value="Gardiner"></interp>
+                     <interp inst="t17380113-15-defend154" type="given" value="John"></interp>
+                     <interp inst="t17380113-15-defend154" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17380113-15-defend156" type="defendantName">
+                     Isaac 
+                     Mortished 
+                  <interp inst="t17380113-15-defend156" type="surname" value="Mortished"></interp>
+                     <interp inst="t17380113-15-defend156" type="given" value="Isaac"></interp>
+                     <interp inst="t17380113-15-defend156" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17380113-15-defloc88">St. Peter's, Cornhill</placeName>
+                  <interp inst="t17380113-15-defloc88" type="placeName" value="St. Peter's, Cornhill"></interp>
+                  <interp inst="t17380113-15-defloc88" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17380113-15-defend154 t17380113-15-defloc88"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17380113-15-defend156 t17380113-15-defloc88"></join>, were indicted for <rs id="t17380113-15-off89" type="offenceDescription">
+                     <interp inst="t17380113-15-off89" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380113-15-off89" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a Bond for 100 l. payable to 
+                     <persName id="t17380113-15-person157">
+                        John 
+                        Davis 
+                     <interp inst="t17380113-15-person157" type="surname" value="Davis"></interp>
+                        <interp inst="t17380113-15-person157" type="given" value="John"></interp>
+                        <interp inst="t17380113-15-person157" type="gender" value="male"></interp>
+                     </persName>
+                  , for the Use of 
+                     
+                        <persName id="t17380113-15-victim159" type="victimName">
+                           Simon 
+                           Walmsley 
+                        <interp inst="t17380113-15-victim159" type="surname" value="Walmsley"></interp>
+                        <interp inst="t17380113-15-victim159" type="given" value="Simon"></interp>
+                        <interp inst="t17380113-15-victim159" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , 
+                     
+                        <persName id="t17380113-15-victim161" type="victimName">
+                           Edward 
+                           Merryfield 
+                        <interp inst="t17380113-15-victim161" type="surname" value="Merryfield"></interp>
+                        <interp inst="t17380113-15-victim161" type="given" value="Edward"></interp>
+                        <interp inst="t17380113-15-victim161" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and others. 
+                     <persName id="t17380113-15-victim162" type="victimName">
+                        <interp inst="t17380113-15-victim162" type="gender" value="indeterminate"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17380113-15-off89 t17380113-15-victim162"></join>
+                        <join result="offenceVictim" targOrder="Y" targets="t17380113-15-off91 t17380113-15-victim162"></join>
+                     </persName>
+                  ; and likewise one Promissory Note, signed Ford Beauchamp, dated December 6, value 40 s. and payable on Demand, being the Property of the said 
+                     <persName id="t17380113-15-person163">
+                        Simon 
+                        Walmsley 
+                     <interp inst="t17380113-15-person163" type="surname" value="Walmsley"></interp>
+                        <interp inst="t17380113-15-person163" type="given" value="Simon"></interp>
+                        <interp inst="t17380113-15-person163" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17380113-15-person164">
+                        Edward 
+                        Merryfield 
+                     <interp inst="t17380113-15-person164" type="surname" value="Merryfield"></interp>
+                        <interp inst="t17380113-15-person164" type="given" value="Edward"></interp>
+                        <interp inst="t17380113-15-person164" type="gender" value="male"></interp>
+                     </persName>
+                  , and others, Members of the said Society, in the House of Ford Beauchamp
+            </rs>, <rs id="t17380113-15-cd90" type="crimeDate">Dec. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380113-15-off89 t17380113-15-cd90"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380113-15-off91 t17380113-15-cd90"></join>.</p>
+               <p>They were a 2d Time indicted for <rs id="t17380113-15-off91" type="offenceDescription">
+                     <interp inst="t17380113-15-off91" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17380113-15-off91" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 9 s. 8 d. in Money, and two half Broad Pieces, value 23 s. the Property of the said Society, in the House of Ford Beauchamp
+            </rs>, <rs id="t17380113-15-cd92" type="crimeDate">Dec. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380113-15-off89 t17380113-15-cd92"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17380113-15-off91 t17380113-15-cd92"></join>.</p>
+               <p>Ford Beauchamp. The two Prisoners lodged in my House, and my Son lay with them; on the 26th of December, they two went to Bed about half an Hour after 10, my Son went up in order to go to Bed about a Quarter after 11, and opening the Door, he saw a great many Chips, both upon the Bed and upon the Floor; seeing this, he called me up, and found the 2 Prisoners in Bed, I asked them what they had been doing? they made no Answer at first, but at last Mortished raised his Head, and said, - I know nothing of the Matter, do you, John? No, says Gardiner, we have had a Sleep since we blue the Candle out. I felt the Candle, and found the Wick hot, and the Tallow warm; upon which I got a Constable,<xptr type="pageFacsimile" doc="173712130017"></xptr> and two or three Watchmen; the Prisoners had no Money at all when they went to Bed, but the Watchmen found all the Money which was in the Club-box, upon them, except one crooked Sixpence which was found in the Bed. The Box wherein the Money, the Bond, and Note was lock'd, was in a Closet in the Room where they lay, and the Key of their Chamber opened that Closet. I saw the Box whole in that Closet the same Afternoon, and am positive nobody had been in the Room from that Time till they went to Bed.</p>
+               <p>
+            
+                  <persName id="t17380113-15-person165">
+                  Thomas 
+                  Beauchamp 
+               <interp inst="t17380113-15-person165" type="surname" value="Beauchamp"></interp>
+                     <interp inst="t17380113-15-person165" type="given" value="Thomas"></interp>
+                     <interp inst="t17380113-15-person165" type="gender" value="male"></interp>
+                  </persName>
+             confirmed his Father's Evidence; adding, that he saw the Box with a Hole broke in the Back, and Gardiner's Knife, a Gimblet, (broke in two Pieces) all lying at the Feet of the Bed; and that the Bond was found under Mortished's Pillow.</p>
+               <p>Mr. Wightman, Constable, deposed to the same Effect; and likewise, that upon searching Gardiner's Pockets, they found a Piece of Wood (which exactly fitted into a Part of the Breach in the Box) and one Shilling; that upon Mortished there was found 8 s and Three Half-pence; that the Note was found in the Room, the Bond under his Pillow, and 6 d. in the Bed.</p>
+               <p>The two Watchmen gave the same Account.</p>
+               <p>
+            
+                  <persName id="t17380113-15-person166">
+                  George 
+                  Alderson 
+               <interp inst="t17380113-15-person166" type="surname" value="Alderson"></interp>
+                     <interp inst="t17380113-15-person166" type="given" value="George"></interp>
+                     <interp inst="t17380113-15-person166" type="gender" value="male"></interp>
+                  </persName>
+             proved the Money, Note, and Bond being in the Box, under two Locks, the Property of the Society.</p>
+               <p>Mr. Davis and the Clerk of the Society, proved the Property likewise; and that the Bond was then unsatisfied, and the Note also, when the Fact was committed.</p>
+               <p>The Prisoners had little to say in their Defence, and the Jury found them <rs id="t17380113-15-verdict93" type="verdictDescription">
+                     <interp inst="t17380113-15-verdict93" type="verdictCategory" value="guilty"></interp>
+               Guilty upon the first Indictment
+            </rs>. <rs id="t17380113-15-punish94" type="punishmentDescription">
+                     <interp inst="t17380113-15-punish94" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380113-15-defend154 t17380113-15-punish94"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17380113-15-defend156 t17380113-15-punish94"></join>
+               Death
+            </rs>.</p>
+               <p>The Evidence upon the second Indictment was much to the same Purport as in the former Trial, only some of the Witnesses deposed, that the two Pieces of Gold were found in a Purse, with a Leaden Shilling in the Chimney, the next Morning; all which were sworn to have been in the Box, and were the Property of the Society.</p>
+               <p>The Jury found them both <rs id="t17380113-15-verdict95" type="verdictDescription">
+                     <interp inst="t17380113-15-verdict95" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs> on this Indictment.</p>
+            </div1>

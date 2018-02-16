@@ -1,3 +1,112 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660219-65">
+               <interp inst="t17660219-65" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660219-65" type="year" value="1766"></interp>
+               <interp inst="t17660219-65" type="uri" value="sessionsPapers/17660219"></interp>
+               <interp inst="t17660219-65" type="date" value="17660219"></interp>
+               <join result="criminalCharge" id="t17660219-65-off385-c539" targOrder="Y" targets="t17660219-65-defend700 t17660219-65-off385 t17660219-65-verdict389"></join>
+         
+               <p>197. (L.) 
+               <persName id="t17660219-65-defend700" type="defendantName">
+                  Alice, <rs id="t17660219-65-deflabel384" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17660219-65-defend700 t17660219-65-deflabel384"></join> of 
+                     <persName id="t17660219-65-person701">
+                        John 
+                        Thomas 
+                     <interp inst="t17660219-65-person701" type="surname" value="Thomas"></interp>
+                        <interp inst="t17660219-65-person701" type="given" value="John"></interp>
+                        <interp inst="t17660219-65-person701" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17660219-65-defend700" type="surname" value="Thomas"></interp>
+                     <interp inst="t17660219-65-defend700" type="given" value="Alice"></interp>
+                     <interp inst="t17660219-65-defend700" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17660219-65-off385" type="offenceDescription">
+                     <interp inst="t17660219-65-off385" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660219-65-off385" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 pewter quart pots, value 2 s. and one pewter pint mug, 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17660219-65-victim703" type="victimName">
+                     John 
+                     Thorpe 
+                  <interp inst="t17660219-65-victim703" type="surname" value="Thorpe"></interp>
+                     <interp inst="t17660219-65-victim703" type="given" value="John"></interp>
+                     <interp inst="t17660219-65-victim703" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660219-65-off385 t17660219-65-victim703"></join>
+                  </persName>
+                
+            . <rs id="t17660219-65-cd386" type="crimeDate">Jan. 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660219-65-off385 t17660219-65-cd386"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17660219-65-person704">
+                  John 
+                  Thorp 
+               <interp inst="t17660219-65-person704" type="surname" value="Thorp"></interp>
+                     <interp inst="t17660219-65-person704" type="given" value="John"></interp>
+                     <interp inst="t17660219-65-person704" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17660219-65-viclabel387" type="occupation">keep the Queen's-head Alehouse in the <placeName id="t17660219-65-crimeloc388">Old Baily</placeName>
+                     <interp inst="t17660219-65-crimeloc388" type="placeName" value="Old Baily"></interp>
+                     <interp inst="t17660219-65-crimeloc388" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17660219-65-off385 t17660219-65-crimeloc388"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660219-65-victim703 t17660219-65-viclabel387"></join>. On the 30th of January, between six and seven in the evening, the prisoner was in my tap-room; she was perceived to have something about her concealed, she was searched, and a quart pot and a pint pot were found under her cloaths, my property. We went to her lodgings, and found 7 quart and pint mugs up in a little hole above the cieling; one pint pot was mine. There were three tin things, which I imagine they melted them in (produced in court, with pewter in the insides).</p>
+               <p>
+            
+                  <persName id="t17660219-65-person705">
+                  George 
+                  Hoey 
+               <interp inst="t17660219-65-person705" type="surname" value="Hoey"></interp>
+                     <interp inst="t17660219-65-person705" type="given" value="George"></interp>
+                     <interp inst="t17660219-65-person705" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17660219-65-person706">
+                  James 
+                  Dodson 
+               <interp inst="t17660219-65-person706" type="surname" value="Dodson"></interp>
+                     <interp inst="t17660219-65-person706" type="given" value="James"></interp>
+                     <interp inst="t17660219-65-person706" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17660219-65-person707">
+                  Thomas 
+                  English 
+               <interp inst="t17660219-65-person707" type="surname" value="English"></interp>
+                     <interp inst="t17660219-65-person707" type="given" value="Thomas"></interp>
+                     <interp inst="t17660219-65-person707" type="gender" value="male"></interp>
+                  </persName>
+            , 
+               <persName id="t17660219-65-person708">
+                  Elizabeth 
+                  Cary 
+               <interp inst="t17660219-65-person708" type="surname" value="Cary"></interp>
+                     <interp inst="t17660219-65-person708" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17660219-65-person708" type="gender" value="female"></interp>
+                  </persName>
+            , and 
+               <persName id="t17660219-65-person709">
+                  Mary 
+                  Thomas 
+               <interp inst="t17660219-65-person709" type="surname" value="Thomas"></interp>
+                     <interp inst="t17660219-65-person709" type="given" value="Mary"></interp>
+                     <interp inst="t17660219-65-person709" type="gender" value="female"></interp>
+                  </persName>
+            , her husband's sister, gave her a good character, and declared they believed this was done through want by the ill usage of her husband.</p>
+               <p>
+                  <rs id="t17660219-65-verdict389" type="verdictDescription">
+                     <interp inst="t17660219-65-verdict389" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17660219-65-verdict389" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty, 10 d.
+            </rs> 
+                  <rs id="t17660219-65-punish390" type="punishmentDescription">
+                     <interp inst="t17660219-65-punish390" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17660219-65-punish390" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660219-65-defend700 t17660219-65-punish390"></join>
+               W
+            </rs>.</p>
+               <p>There was another indictment against her.</p>
+            </div1>

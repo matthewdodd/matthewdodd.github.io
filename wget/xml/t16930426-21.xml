@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-21">
+               <interp inst="t16930426-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-21" type="year" value="1693"></interp>
+               <interp inst="t16930426-21" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-21" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-21-off86-c72" targOrder="Y" targets="t16930426-21-defend72 t16930426-21-off86 t16930426-21-verdict90"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-21-defend72" type="defendantName">
+                  Walter 
+                  Stephens
+               <interp inst="t16930426-21-defend72" type="surname" value="Stephens"></interp>
+                     <interp inst="t16930426-21-defend72" type="given" value="Walter"></interp>
+                     <interp inst="t16930426-21-defend72" type="gender" value="male"></interp>
+                  </persName>
+            , a young <rs id="t16930426-21-deflabel85" type="occupation">Youth</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16930426-21-defend72 t16930426-21-deflabel85"></join>, was Indicted for Felony, in <rs id="t16930426-21-off86" type="offenceDescription">
+                     <interp inst="t16930426-21-off86" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-21-off86" type="offenceSubcategory" value="pocketpicking"></interp>
+               secretly Stealing from one 
+                     <persName id="t16930426-21-victim73" type="victimName">
+                        <rs id="t16930426-21-viclabel87" type="occupation">Mr.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t16930426-21-victim73 t16930426-21-viclabel87"></join> 
+                        Beacon
+                     <interp inst="t16930426-21-victim73" type="surname" value="Beacon"></interp>
+                        <interp inst="t16930426-21-victim73" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16930426-21-off86 t16930426-21-victim73"></join>
+                     </persName>
+                   on the <rs id="t16930426-21-cd88" type="crimeDate">14th day of March</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-21-off86 t16930426-21-cd88"></join> last, a Sword with a Silver Handle, value 40s.
+            </rs> Mr. Beacon was going along <placeName id="t16930426-21-crimeloc89">Lombard-street</placeName>
+                  <interp inst="t16930426-21-crimeloc89" type="placeName" value="Lombard-street"></interp>
+                  <interp inst="t16930426-21-crimeloc89" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16930426-21-off86 t16930426-21-crimeloc89"></join>, and the Prisoner was near him when he mist his Sword, which dropt upon the ground; but the Prosecutor said he could not Swear he was the Person that took it from his side; but another Witness proved that the Prisoner dropt the Sword, &amp;c. he was found <rs id="t16930426-21-verdict90" type="verdictDescription">
+                     <interp inst="t16930426-21-verdict90" type="verdictCategory" value="guilty"></interp>
+               guilty
+            </rs> of Felony.</p>
+               <p>
+                  <rs id="t16930426-21-punish91" type="punishmentDescription">
+                     <interp inst="t16930426-21-punish91" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16930426-21-defend72 t16930426-21-punish91"></join>
+               
+                     <note>[Death. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17490906-24">
+               <interp inst="t17490906-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17490906-24" type="year" value="1749"></interp>
+               <interp inst="t17490906-24" type="uri" value="sessionsPapers/17490906"></interp>
+               <interp inst="t17490906-24" type="date" value="17490906"></interp>
+               <join result="criminalCharge" id="t17490906-24-off96-c141" targOrder="Y" targets="t17490906-24-defend191 t17490906-24-off96 t17490906-24-verdict98"></join>
+         
+               <p>511. 
+               <persName id="t17490906-24-defend191" type="defendantName">
+                  Sarah , the <rs id="t17490906-24-deflabel95" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17490906-24-defend191 t17490906-24-deflabel95"></join> of 
+                     <persName id="t17490906-24-person192">
+                        John 
+                        Dixon 
+                     <interp inst="t17490906-24-person192" type="surname" value="Dixon"></interp>
+                        <interp inst="t17490906-24-person192" type="given" value="John"></interp>
+                        <interp inst="t17490906-24-person192" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17490906-24-defend191" type="surname" value="Dixon"></interp>
+                     <interp inst="t17490906-24-defend191" type="given" value="Sarah"></interp>
+                     <interp inst="t17490906-24-defend191" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17490906-24-off96" type="offenceDescription">
+                     <interp inst="t17490906-24-off96" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17490906-24-off96" type="offenceSubcategory" value="theftFromPlace"></interp>
+               robbing her ready furnished lodgings, the goods of 
+                     <persName id="t17490906-24-victim193" type="victimName">
+                        Valentine 
+                        Fitzgerald 
+                     <interp inst="t17490906-24-victim193" type="surname" value="Fitzgerald"></interp>
+                        <interp inst="t17490906-24-victim193" type="given" value="Valentine"></interp>
+                        <interp inst="t17490906-24-victim193" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17490906-24-off96 t17490906-24-victim193"></join>
+                     </persName>
+                   
+               
+                  </rs>, <rs id="t17490906-24-cd97" type="crimeDate">Aug. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17490906-24-off96 t17490906-24-cd97"></join>.</p>
+               <p>
+                  <rs id="t17490906-24-verdict98" type="verdictDescription">
+                     <interp inst="t17490906-24-verdict98" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+            </div1>

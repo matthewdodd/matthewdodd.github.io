@@ -1,3 +1,40 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900226-19">
+               <interp inst="t16900226-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900226-19" type="year" value="1690"></interp>
+               <interp inst="t16900226-19" type="uri" value="sessionsPapers/16900226"></interp>
+               <interp inst="t16900226-19" type="date" value="16900226"></interp>
+               <join result="criminalCharge" id="t16900226-19-off85-c82" targOrder="Y" targets="t16900226-19-defend82 t16900226-19-off85 t16900226-19-verdict87"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16900226003"></xptr>
+            
+                  <persName id="t16900226-19-defend82" type="defendantName">
+                  Henry 
+                  Terry
+               <interp inst="t16900226-19-defend82" type="surname" value="Terry"></interp>
+                     <interp inst="t16900226-19-defend82" type="given" value="Henry"></interp>
+                     <interp inst="t16900226-19-defend82" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16900226-19-defloc84">Fulham</placeName>
+                  <interp inst="t16900226-19-defloc84" type="placeName" value="Fulham"></interp>
+                  <interp inst="t16900226-19-defloc84" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16900226-19-defend82 t16900226-19-defloc84"></join> was Tryed for <rs id="t16900226-19-off85" type="offenceDescription">
+                     <interp inst="t16900226-19-off85" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900226-19-off85" type="offenceSubcategory" value="housebreaking"></interp>
+               breaking the House of one 
+                     <persName id="t16900226-19-victim83" type="victimName">
+                        Thomas 
+                        Barnabey
+                     <interp inst="t16900226-19-victim83" type="surname" value="Barnabey"></interp>
+                        <interp inst="t16900226-19-victim83" type="given" value="Thomas"></interp>
+                        <interp inst="t16900226-19-victim83" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16900226-19-off85 t16900226-19-victim83"></join>
+                     </persName>
+                  , and taking one Silver Probe, value 5s.
+            </rs> on the <rs id="t16900226-19-cd86" type="crimeDate">14 May</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16900226-19-off85 t16900226-19-cd86"></join> last. The Evidence was but single, and spoke very favourable. And the Prisoner said, that he had been drinking. So upon the whole he was <rs id="t16900226-19-verdict87" type="verdictDescription">
+                     <interp inst="t16900226-19-verdict87" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

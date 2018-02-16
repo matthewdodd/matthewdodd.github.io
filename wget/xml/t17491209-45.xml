@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17491209-45">
+               <interp inst="t17491209-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17491209-45" type="year" value="1749"></interp>
+               <interp inst="t17491209-45" type="uri" value="sessionsPapers/17491209"></interp>
+               <interp inst="t17491209-45" type="date" value="17491209"></interp>
+               <join result="criminalCharge" id="t17491209-45-off205-c279" targOrder="Y" targets="t17491209-45-defend369 t17491209-45-off205 t17491209-45-verdict207"></join>
+               <join result="criminalCharge" id="t17491209-45-off205-c280" targOrder="Y" targets="t17491209-45-defend370 t17491209-45-off205 t17491209-45-verdict208"></join>
+         
+               <p>49, 50. 
+               
+                  <persName id="t17491209-45-defend369" type="defendantName">
+                     Edward 
+                     Manallaster 
+                  <interp inst="t17491209-45-defend369" type="surname" value="Manallaster"></interp>
+                     <interp inst="t17491209-45-defend369" type="given" value="Edward"></interp>
+                     <interp inst="t17491209-45-defend369" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               <persName id="t17491209-45-defend370" type="defendantName">
+                  
+                     Elizabeth 
+                     Thompson 
+                   otherwise <rs id="t17491209-45-alias-3" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17491209-45-defend370 t17491209-45-alias-3"></join>Griffith</rs>
+                     <interp inst="t17491209-45-defend370" type="surname" value="Thompson"></interp>
+                     <interp inst="t17491209-45-defend370" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17491209-45-defend370" type="gender" value="female"></interp>
+                  </persName>
+            , were indicted for <rs id="t17491209-45-off205" type="offenceDescription">
+                     <interp inst="t17491209-45-off205" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17491209-45-off205" type="offenceSubcategory" value="other"></interp>
+               stealing 10 oz. of sewing silk
+            </rs>, the goods of 
+               
+                  <persName id="t17491209-45-victim373" type="victimName">
+                     James 
+                     Malket 
+                  <interp inst="t17491209-45-victim373" type="surname" value="Malket"></interp>
+                     <interp inst="t17491209-45-victim373" type="given" value="James"></interp>
+                     <interp inst="t17491209-45-victim373" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17491209-45-off205 t17491209-45-victim373"></join>
+                  </persName>
+                
+            , <rs id="t17491209-45-cd206" type="crimeDate">Nov. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17491209-45-off205 t17491209-45-cd206"></join>.</p>
+               <p>Manallaster, <rs id="t17491209-45-verdict207" type="verdictDescription">
+                     <interp inst="t17491209-45-verdict207" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>Thompson, <rs id="t17491209-45-verdict208" type="verdictDescription">
+                     <interp inst="t17491209-45-verdict208" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t17491209-45-punish209" type="punishmentDescription">
+                     <interp inst="t17491209-45-punish209" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17491209-45-defend369 t17491209-45-punish209"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

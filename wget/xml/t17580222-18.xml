@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17580222-18">
+               <interp inst="t17580222-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17580222-18" type="year" value="1758"></interp>
+               <interp inst="t17580222-18" type="uri" value="sessionsPapers/17580222"></interp>
+               <interp inst="t17580222-18" type="date" value="17580222"></interp>
+               <join result="criminalCharge" id="t17580222-18-off90-c150" targOrder="Y" targets="t17580222-18-defend179 t17580222-18-off90 t17580222-18-verdict93"></join>
+         
+               <p>122. (M.) 
+               
+                  <persName id="t17580222-18-defend179" type="defendantName">
+                     John 
+                     Low 
+                  <interp inst="t17580222-18-defend179" type="surname" value="Low"></interp>
+                     <interp inst="t17580222-18-defend179" type="given" value="John"></interp>
+                     <interp inst="t17580222-18-defend179" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17580222-18-off90" type="offenceDescription">
+                     <interp inst="t17580222-18-off90" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17580222-18-off90" type="offenceSubcategory" value="theftFromPlace"></interp>
+               that he one leaden pump, value 20 s. belonging to 
+                     
+                        <persName id="t17580222-18-victim181" type="victimName">
+                           Charles 
+                           Peridge 
+                        <interp inst="t17580222-18-victim181" type="surname" value="Peridge"></interp>
+                        <interp inst="t17580222-18-victim181" type="given" value="Charles"></interp>
+                        <interp inst="t17580222-18-victim181" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17580222-18-off90 t17580222-18-victim181"></join>
+                     </persName>
+                      
+                  , fix'd to a certain dwelling-house, in the occupation of 
+                     <persName id="t17580222-18-person182">
+                        William 
+                        Chapman 
+                     <interp inst="t17580222-18-person182" type="surname" value="Chapman"></interp>
+                        <interp inst="t17580222-18-person182" type="given" value="William"></interp>
+                        <interp inst="t17580222-18-person182" type="gender" value="male"></interp>
+                     </persName>
+                  , did rip, steal, and carry away
+            </rs>, <rs id="t17580222-18-cd91" type="crimeDate">January 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17580222-18-off90 t17580222-18-cd91"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17580222-18-person183">
+                  Charles 
+                  Peridge 
+               <interp inst="t17580222-18-person183" type="surname" value="Peridge"></interp>
+                     <interp inst="t17580222-18-person183" type="given" value="Charles"></interp>
+                     <interp inst="t17580222-18-person183" type="gender" value="male"></interp>
+                  </persName>
+            . On the 17th of January 
+               <persName id="t17580222-18-person184">
+                  William 
+                  Chapman 
+               <interp inst="t17580222-18-person184" type="surname" value="Chapman"></interp>
+                     <interp inst="t17580222-18-person184" type="given" value="William"></interp>
+                     <interp inst="t17580222-18-person184" type="gender" value="male"></interp>
+                  </persName>
+            , my tenant at <placeName id="t17580222-18-crimeloc92">Harlington</placeName>
+                  <interp inst="t17580222-18-crimeloc92" type="placeName" value="Harlington"></interp>
+                  <interp inst="t17580222-18-crimeloc92" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17580222-18-off90 t17580222-18-crimeloc92"></join>, came and told me my leaden pump was taken away, which was fix'd to the back part of his dwelling-house.</p>
+               <p>Q. Was it fix'd to the wall of the house?</p>
+               <p>Peridge. It was, and the pipe went through into the kitchen, to serve a copper. The prisoner was working there as a day labourer.</p>
+               <p>Q. Did you ever see your pump again?</p>
+               <p>Peridge. There was a leaden pump cried at the market in Brentford; I went there, and found it to be my property.</p>
+               <p>- Priest. I live at Brentford. On the 19th of January the prisoner at the bar brought a leaden pump, with two nossels, to my mistress to sell. She suspecting it to have been stolen, would not buy it, without he'd bring somebody to his character. He went, pretending to bring somebody, but he came no more. Then my mistress had it cried, and the prosecutor came on the Tuesday night and claim'd it.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was not at work at Mr. Chapman's that days I know nothing of the pump.</p>
+               <p>
+                  <rs id="t17580222-18-verdict93" type="verdictDescription">
+                     <interp inst="t17580222-18-verdict93" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17580222-18-punish94" type="punishmentDescription">
+                     <interp inst="t17580222-18-punish94" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17580222-18-defend179 t17580222-18-punish94"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

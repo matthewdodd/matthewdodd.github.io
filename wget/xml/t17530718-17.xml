@@ -1,3 +1,70 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530718-17">
+               <interp inst="t17530718-17" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530718-17" type="year" value="1753"></interp>
+               <interp inst="t17530718-17" type="uri" value="sessionsPapers/17530718"></interp>
+               <interp inst="t17530718-17" type="date" value="17530718"></interp>
+               <join result="criminalCharge" id="t17530718-17-off84-c118" targOrder="Y" targets="t17530718-17-defend148 t17530718-17-off84 t17530718-17-verdict87"></join>
+         
+               <p>332. (M.) 
+               
+                  <persName id="t17530718-17-defend148" type="defendantName">
+                     Mary 
+                     Stevens 
+                  <interp inst="t17530718-17-defend148" type="surname" value="Stevens"></interp>
+                     <interp inst="t17530718-17-defend148" type="given" value="Mary"></interp>
+                     <interp inst="t17530718-17-defend148" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17530718-17-deflabel83" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530718-17-defend148 t17530718-17-deflabel83"></join>, was indicted for <rs id="t17530718-17-off84" type="offenceDescription">
+                     <interp inst="t17530718-17-off84" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530718-17-off84" type="offenceSubcategory" value="pocketpicking"></interp>
+               stealing a guinea, the property of 
+                     
+                        <persName id="t17530718-17-victim150" type="victimName">
+                           John 
+                           Davis 
+                        <interp inst="t17530718-17-victim150" type="surname" value="Davis"></interp>
+                        <interp inst="t17530718-17-victim150" type="given" value="John"></interp>
+                        <interp inst="t17530718-17-victim150" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17530718-17-off84 t17530718-17-victim150"></join>
+                     </persName>
+                      
+                  , privately from his person
+            </rs>, <rs id="t17530718-17-cd85" type="crimeDate">July 5</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530718-17-off84 t17530718-17-cd85"></join>. +</p>
+               <p>
+            
+                  <persName id="t17530718-17-person151">
+                  John 
+                  Davis 
+               <interp inst="t17530718-17-person151" type="surname" value="Davis"></interp>
+                     <interp inst="t17530718-17-person151" type="given" value="John"></interp>
+                     <interp inst="t17530718-17-person151" type="gender" value="male"></interp>
+                  </persName>
+            . On the 5th of July I had been in the city about business, and going home by <placeName id="t17530718-17-crimeloc86">Princes-street</placeName>
+                  <interp inst="t17530718-17-crimeloc86" type="placeName" value="Princes-street"></interp>
+                  <interp inst="t17530718-17-crimeloc86" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530718-17-off84 t17530718-17-crimeloc86"></join>, the prisoner came out of the Sun alehouse and ask'd me to give her a pint of beer, I said I did not care if I did; then I ask'd her where we should go to have a pint, she said in the alley, we went into the alley, and when I came out of it she ask'd me where I was going, I said to get some beer, then she came up to me and put her hand into my pocket and took the guinea out.</p>
+               <p>Q. from the prisoner. Did not you charge two women with taking you money before I was charg'd ?</p>
+               <p>Davis. No, I charg'd nobody but you.</p>
+               <p>
+            
+                  <persName id="t17530718-17-person152">
+                  Samuel 
+                  Turton 
+               <interp inst="t17530718-17-person152" type="surname" value="Turton"></interp>
+                     <interp inst="t17530718-17-person152" type="given" value="Samuel"></interp>
+                     <interp inst="t17530718-17-person152" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman; on the 5th of July, about twelve at night, I heard a person call Watch! watch! I went, and when I came there, the prosecutor charg'd the prisoner with robbing him, then I carry'd her to the watch-house, as I was carrying her along, she said she would give me the guinea, and a half crown she had in her pocket, if I would let her run away.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175307180010"></xptr>Prisoner's Defence.</p>
+               <p>The watchman desir'd the prosecutor to prosecute me to get the reward. He pretended to swear that I had robb'd him. I never saw him in my life, nor his money.</p>
+               <p>
+                  <rs id="t17530718-17-verdict87" type="verdictDescription">
+                     <interp inst="t17530718-17-verdict87" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

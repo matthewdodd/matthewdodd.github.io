@@ -1,3 +1,80 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400116-1">
+               <interp inst="t17400116-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400116-1" type="year" value="1740"></interp>
+               <interp inst="t17400116-1" type="uri" value="sessionsPapers/17400116"></interp>
+               <interp inst="t17400116-1" type="date" value="17400116"></interp>
+               <join result="criminalCharge" id="t17400116-1-off1-c28" targOrder="Y" targets="t17400116-1-defend29 t17400116-1-off1 t17400116-1-verdict4"></join>
+         
+               <p>80.
+               
+                  <persName id="t17400116-1-defend29" type="defendantName">
+                     Thomas 
+                     Dennis 
+                  <interp inst="t17400116-1-defend29" type="surname" value="Dennis"></interp>
+                     <interp inst="t17400116-1-defend29" type="given" value="Thomas"></interp>
+                     <interp inst="t17400116-1-defend29" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17400116-1-off1" type="offenceDescription">
+                     <interp inst="t17400116-1-off1" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400116-1-off1" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Man's Beaver Hat, val. 15 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17400116-1-victim31" type="victimName">
+                     William 
+                     Brownjohn 
+                  <interp inst="t17400116-1-victim31" type="surname" value="Brownjohn"></interp>
+                     <interp inst="t17400116-1-victim31" type="given" value="William"></interp>
+                     <interp inst="t17400116-1-victim31" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400116-1-off1 t17400116-1-victim31"></join>
+                  </persName>
+                
+            , in the Parish of <placeName id="t17400116-1-defloc2">St. Andrew Holborn</placeName>
+                  <interp inst="t17400116-1-defloc2" type="placeName" value="St. Andrew Holborn"></interp>
+                  <interp inst="t17400116-1-defloc2" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400116-1-defend29 t17400116-1-defloc2"></join>, <rs id="t17400116-1-cd3" type="crimeDate">December 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400116-1-off1 t17400116-1-cd3"></join>.</p>
+               <p>William Brownjohn. I can only say, the Hat charged on the Prisoner in the Indictment, is mine. I took it upon this Witness. (
+               <persName id="t17400116-1-person32">
+                  Benjamin 
+                  How 
+               <interp inst="t17400116-1-person32" type="surname" value="How"></interp>
+                     <interp inst="t17400116-1-person32" type="given" value="Benjamin"></interp>
+                     <interp inst="t17400116-1-person32" type="gender" value="male"></interp>
+                  </persName>
+            ) who told the Prisoner in my hearing, that he had brought him into a Premunire. He said, he could not help it, and own'd he sold it, to How. Did not I buy it of you, says How? Yes; and I had it of a Boy in Chick-Lane, said the Prisoner, who asked me 3 d. for it; but I snatch'd it from him, and ran away with it. The Hat hung up against the Side of a Press in my Shop, and I miss'd it from thence, the Night before.</p>
+               <p>Benjamin How. The Prisoner came up into my Room one Night, - I can't remember the particular Time, and told me he had a Hat in pawn for a Shilling, and if I would give him Money to fetch it out, I should have it for a Shilling more: So I gave him one Shilling to redeem the Hat, and he sold it me out-right for another. I believe this is the same Hat I bought of the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17400116-1-person33">
+                  William 
+                  Legg 
+               <interp inst="t17400116-1-person33" type="surname" value="Legg"></interp>
+                     <interp inst="t17400116-1-person33" type="given" value="William"></interp>
+                     <interp inst="t17400116-1-person33" type="gender" value="male"></interp>
+                  </persName>
+            , Constable. The Prisoner and How were both brought before me the Night they were taken. How said in the Prisoner's hearing, He bought the Hat of him, - and the Prisoner did not contradict him at all.</p>
+               <p>Prisoner. I bought it of a Boy in Chick-Lane, who asked me 3 d. for it. I gave him 3 d. and carried it to 
+               <persName id="t17400116-1-person34">
+                  Jemmy 
+                  Birt 
+               <interp inst="t17400116-1-person34" type="surname" value="Birt"></interp>
+                     <interp inst="t17400116-1-person34" type="given" value="Jemmy"></interp>
+                     <interp inst="t17400116-1-person34" type="gender" value="indeterminate"></interp>
+                  </persName>
+             at Com-Cross; he pawn'd it for me, and brought me a Shilling. The next Night I happened to be at this Ben How's, and he wanting a Hat to wear on Christmas-Day, I offer'd him this Hat, for a Shilling more than 'twas pawn'd for. I can't tell where the Boy is, who sold it to me, - but I am as innocent as the Child unborn. <rs id="t17400116-1-verdict4" type="verdictDescription">
+                     <interp inst="t17400116-1-verdict4" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17400116-1-punish5" type="punishmentDescription">
+                     <interp inst="t17400116-1-punish5" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400116-1-defend29 t17400116-1-punish5"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

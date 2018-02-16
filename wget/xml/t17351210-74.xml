@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17351210-74">
+               <interp inst="t17351210-74" type="collection" value="BAILEY"></interp>
+               <interp inst="t17351210-74" type="year" value="1735"></interp>
+               <interp inst="t17351210-74" type="uri" value="sessionsPapers/17351210"></interp>
+               <interp inst="t17351210-74" type="date" value="17351210"></interp>
+               <join result="criminalCharge" id="t17351210-74-off311-c375" targOrder="Y" targets="t17351210-74-defend528 t17351210-74-off311 t17351210-74-verdict312"></join>
+         
+               <p>88. 
+               
+                  <persName id="t17351210-74-defend528" type="defendantName">
+                     Elizabeth 
+                     Walker , alias <rs id="t17351210-74-alias-13" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17351210-74-defend528 t17351210-74-alias-13"></join>Mollineux</rs>
+                     <interp inst="t17351210-74-defend528" type="surname" value="Walker"></interp>
+                     <interp inst="t17351210-74-defend528" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17351210-74-defend528" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for a Misdemeanor, in <rs id="t17351210-74-off311" type="offenceDescription">
+                     <interp inst="t17351210-74-off311" type="offenceCategory" value="miscellaneous"></interp>
+                     <interp inst="t17351210-74-off311" type="offenceSubcategory" value="pervertingJustice"></interp>
+               conspiring with Isabella Eaton alias Hambleton, now at large, to accuse 
+                     
+                        <persName id="t17351210-74-victim530" type="victimName">
+                           Robert 
+                           Willis 
+                        <interp inst="t17351210-74-victim530" type="surname" value="Willis"></interp>
+                        <interp inst="t17351210-74-victim530" type="given" value="Robert"></interp>
+                        <interp inst="t17351210-74-victim530" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , and 
+                     
+                        <persName id="t17351210-74-victim532" type="victimName">
+                           Michael 
+                           Willis 
+                        <interp inst="t17351210-74-victim532" type="surname" value="Willis"></interp>
+                        <interp inst="t17351210-74-victim532" type="given" value="Michael"></interp>
+                        <interp inst="t17351210-74-victim532" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , with a Robbery, and thereby to deprive them of their Fame, and Credit, and Reputation, and subject them to the loss of their Goods and Lives
+            </rs>.</p>
+               <p>The Jury found her <rs id="t17351210-74-verdict312" type="verdictDescription">
+                     <interp inst="t17351210-74-verdict312" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17351210-74-punish313" type="punishmentDescription">
+                     <interp inst="t17351210-74-punish313" type="punishmentCategory" value="imprison"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-74-defend528 t17351210-74-punish313"></join>
+               
+                     <note>[Imprisonment. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17351210-74-punish314" type="punishmentDescription">
+                     <interp inst="t17351210-74-punish314" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17351210-74-punish314" type="punishmentSubcategory" value="fine"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-74-defend528 t17351210-74-punish314"></join>
+               
+                     <note>[Fine. See summary.]</note>
+               
+                  </rs>
+               </p>
+               <p>
+                  <rs id="t17351210-74-punish315" type="punishmentDescription">
+                     <interp inst="t17351210-74-punish315" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17351210-74-punish315" type="punishmentSubcategory" value="sureties"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17351210-74-defend528 t17351210-74-punish315"></join>
+               
+                     <note>[Provide sureties for good behaviour. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

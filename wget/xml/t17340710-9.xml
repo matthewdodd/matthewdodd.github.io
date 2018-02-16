@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17340710-9">
+               <interp inst="t17340710-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17340710-9" type="year" value="1734"></interp>
+               <interp inst="t17340710-9" type="uri" value="sessionsPapers/17340710"></interp>
+               <interp inst="t17340710-9" type="date" value="17340710"></interp>
+               <join result="criminalCharge" id="t17340710-9-off31-c55" targOrder="Y" targets="t17340710-9-defend75 t17340710-9-off31 t17340710-9-verdict33"></join>
+         
+               <p>10. 
+               
+                  <persName id="t17340710-9-defend75" type="defendantName">
+                     Elizabeth 
+                     Townsend 
+                  <interp inst="t17340710-9-defend75" type="surname" value="Townsend"></interp>
+                     <interp inst="t17340710-9-defend75" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17340710-9-defend75" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17340710-9-off31" type="offenceDescription">
+                     <interp inst="t17340710-9-off31" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17340710-9-off31" type="offenceSubcategory" value="other"></interp>
+               stealing two Sheets, and two Pillowbiers
+            </rs>, the Goods of 
+               <persName id="t17340710-9-victim76" type="victimName">
+                  Stephen 
+                  Reader 
+               <interp inst="t17340710-9-victim76" type="surname" value="Reader"></interp>
+                     <interp inst="t17340710-9-victim76" type="given" value="Stephen"></interp>
+                     <interp inst="t17340710-9-victim76" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17340710-9-off31 t17340710-9-victim76"></join>
+                  </persName>
+             , <rs id="t17340710-9-cd32" type="crimeDate">June 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17340710-9-off31 t17340710-9-cd32"></join>. No Evidence, <rs id="t17340710-9-verdict33" type="verdictDescription">
+                     <interp inst="t17340710-9-verdict33" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17340710-9-verdict33" type="verdictSubcategory" value="noEvidence"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

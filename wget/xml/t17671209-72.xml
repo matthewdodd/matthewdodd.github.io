@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17671209-72">
+               <interp inst="t17671209-72" type="collection" value="BAILEY"></interp>
+               <interp inst="t17671209-72" type="year" value="1767"></interp>
+               <interp inst="t17671209-72" type="uri" value="sessionsPapers/17671209"></interp>
+               <interp inst="t17671209-72" type="date" value="17671209"></interp>
+               <join result="criminalCharge" id="t17671209-72-off384-c495" targOrder="Y" targets="t17671209-72-defend646 t17671209-72-off384 t17671209-72-verdict387"></join>
+         
+               <p>89. (L.) 
+               
+                  <persName id="t17671209-72-defend646" type="defendantName">
+                     Stephen 
+                     Cogigian 
+                  <interp inst="t17671209-72-defend646" type="surname" value="Cogigian"></interp>
+                     <interp inst="t17671209-72-defend646" type="given" value="Stephen"></interp>
+                     <interp inst="t17671209-72-defend646" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17671209-72-off384" type="offenceDescription">
+                     <interp inst="t17671209-72-off384" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671209-72-off384" type="offenceSubcategory" value="other"></interp>
+               stealing four ounces of green tea
+            </rs>, the property of 
+               <persName id="t17671209-72-victim647" type="victimName">
+                  the 
+                  <rs id="t17671209-72-viclabel385" type="occupation">Company of Merchants trading to the East-Indies</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17671209-72-victim647 t17671209-72-viclabel385"></join>
+                     <interp inst="t17671209-72-victim647" type="given" value="the"></interp>
+                     <interp inst="t17671209-72-victim647" type="gender" value="indeterminate"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17671209-72-off384 t17671209-72-victim647"></join>
+                  </persName>
+            , <rs id="t17671209-72-cd386" type="crimeDate">Nov. 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671209-72-off384 t17671209-72-cd386"></join>. ++</p>
+               <p>
+                  <rs id="t17671209-72-verdict387" type="verdictDescription">
+                     <interp inst="t17671209-72-verdict387" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

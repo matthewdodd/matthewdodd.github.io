@@ -1,3 +1,826 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17591024-18">
+               <interp inst="t17591024-18" type="collection" value="BAILEY"></interp>
+               <interp inst="t17591024-18" type="year" value="1759"></interp>
+               <interp inst="t17591024-18" type="uri" value="sessionsPapers/17591024"></interp>
+               <interp inst="t17591024-18" type="date" value="17591024"></interp>
+               <join result="criminalCharge" id="t17591024-18-off87-c147" targOrder="Y" targets="t17591024-18-defend179 t17591024-18-off87 t17591024-18-verdict90"></join>
+         
+               <p>317. (L.) 
+               <persName id="t17591024-18-defend179" type="defendantName">
+                  
+                     Thomas 
+                     Usher 
+                  , otherwise <rs id="t17591024-18-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17591024-18-defend179 t17591024-18-alias-1"></join>Clark</rs>
+                     <interp inst="t17591024-18-defend179" type="surname" value="Usher"></interp>
+                     <interp inst="t17591024-18-defend179" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-defend179" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17591024-18-off87" type="offenceDescription">
+                     <interp inst="t17591024-18-off87" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17591024-18-off87" type="offenceSubcategory" value="forgery"></interp>
+               falsely forging an acceptance to a bill of exchange, with the name 
+                     <persName id="t17591024-18-person181">
+                        Anthony 
+                        Merry 
+                     <interp inst="t17591024-18-person181" type="surname" value="Merry"></interp>
+                        <interp inst="t17591024-18-person181" type="given" value="Anthony"></interp>
+                        <interp inst="t17591024-18-person181" type="gender" value="male"></interp>
+                     </persName>
+                   thereunto, for the payment of 250 l. and for publishing the same, knowing it to be forged, with intent to defraud 
+                     <persName id="t17591024-18-victim182" type="victimName">
+                        <rs id="t17591024-18-viclabel88" type="occupation">Sir 
+                              <persName id="t17591024-18-person183">
+                                 Charles 
+                                 Asgill 
+                              <interp inst="t17591024-18-person183" type="surname" value="Asgill"></interp>
+                              <interp inst="t17591024-18-person183" type="given" value="Charles"></interp>
+                              <interp inst="t17591024-18-person183" type="gender" value="male"></interp>
+                           </persName>
+                            and Co.</rs>
+                        <join result="persNameOccupation" targOrder="Y" targets="t17591024-18-victim182 t17591024-18-viclabel88"></join>
+                        <interp inst="t17591024-18-victim182" type="surname" value="Asgill"></interp>
+                        <interp inst="t17591024-18-victim182" type="given" value="Charles"></interp>
+                        <interp inst="t17591024-18-victim182" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17591024-18-off87 t17591024-18-victim182"></join>
+                     </persName>
+                  
+               
+                  </rs> 
+                  <rs id="t17591024-18-cd89" type="crimeDate">May 30. 1758</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17591024-18-off87 t17591024-18-cd89"></join>. +</p>
+               <p>
+            
+                  <persName id="t17591024-18-person184">
+                  William 
+                  Nightingale 
+               <interp inst="t17591024-18-person184" type="surname" value="Nightingale"></interp>
+                     <interp inst="t17591024-18-person184" type="given" value="William"></interp>
+                     <interp inst="t17591024-18-person184" type="gender" value="male"></interp>
+                  </persName>
+            . I am brother to Mr Nightingale the Banker, and live with him.</p>
+               <p>Q. Look at this bill; tell whether you remember that bill being brought to you for payment?</p>
+               <p>Nightingale. It was brought on the 9th of May, 1758; as appears by our books.</p>
+               <p>Q. Do you know who brought it?</p>
+               <p>Nightingale. No, I do not; it was brought for payment, and it was paid.</p>
+               <p>Q. Do you know Mr Merry's hand-writing ?</p>
+               <p>Nightingale. I do.</p>
+               <p>Q. Have you seen him write?</p>
+               <p>Nightingale. I have.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person185">
+                  Constantine 
+                  Keen 
+               <interp inst="t17591024-18-person185" type="surname" value="Keen"></interp>
+                     <interp inst="t17591024-18-person185" type="given" value="Constantine"></interp>
+                     <interp inst="t17591024-18-person185" type="gender" value="male"></interp>
+                  </persName>
+            . I carried a bill to Sir Charles Asgill's for payment.</p>
+               <p>Q. Look at this bill. He takes it in his hand.</p>
+               <p>Keen. This is it; here is my assignment for receiving the money.</p>
+               <p>Q. What did you receive at Sir 
+               <persName id="t17591024-18-person186">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person186" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person186" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person186" type="gender" value="male"></interp>
+                  </persName>
+            's, money or notes ?</p>
+               <p>Keen. I received Bank notes there; then I went to the Bank and there received the money.</p>
+               <p>Q. What sum was the bill for?</p>
+               <p>Keen. It was for 250 l.</p>
+               <p>Q. Do you remember of whom you received it?</p>
+
+               <p>Keen. I'll tell you from the first beginning of it; I liv'd as porter to Mess. More and Smith, Stock-brokers in Pope's-head Alley; there came a gentleman-like man; my master was gone out, so was the clerk; he said, is Mr More or Mr Smith in the way?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175910240019"></xptr>Q. Do you know that gentleman?</p>
+               <p>Keen. I saw him since before Mr Fielding.</p>
+               <p>Q. Look about you; see if you see him.</p>
+               <p>Keen. That gentleman at the bar is the height of the man; to the best of my knowledge he was something fuller in the body: I believe him to be the man, but will not positively swear to him it is so long ago. When he came into the office there were nobody there but myself. When he asked for my masters, I said they were gone to dinner, and they will not be here 'till to-morrow between ten, and half an hour after two; he said, Because I want to lay out 2 or 300 l. in stock with them. He went out at the door, and came in again, and said, Sir, I have a favour to beg of you, and put his hand into his pocket and pull'd out this bill, I should have gone myself, but am to meet a gentleman at the Victualling Office, but shall be too late, do you go to Sir Charles Asgill's, and there, I imagine, you will have notes for this bill, producing it, and then go to the Bank and get cash for them. I said, Pray, what is your name? he said, 
+               <persName id="t17591024-18-person187">
+                  William 
+                  Thomas 
+               <interp inst="t17591024-18-person187" type="surname" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person187" type="given" value="William"></interp>
+                     <interp inst="t17591024-18-person187" type="gender" value="male"></interp>
+                  </persName>
+            ; because I said, I must say who I receive the money for, and sign it. Accordingly I was going; Stop, said he, he put his hand in his pocket and pull'd out a money-bag, and said, take this, and when you have got the money carry the bag before you in both your hands. I said, when I have got the money I'll take care of it (I receive a great deal of money, I know how to take care of it ). Said he, I shall take it as a favour if you will carry it so before you. He order'd me to come to him with it at Browne's Coffee-House in Fenchurch-Street, and if I was there before him I was to wait for him; and if he was there first he would wait for me. I went to Sir 
+               <persName id="t17591024-18-person188">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person188" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person188" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person188" type="gender" value="male"></interp>
+                  </persName>
+            's, and got notes for the bill; then I went to the Bank, then to Browne's Coffee-House. I looked about and he was not there; I said to the gentlewoman of the house, I have got some money for a gentleman, and if I got here before him I was to wait. She said, sit down; in about half an hour he came in; I went to the end of the table and throw'd the money down before him; he fell to scraping it over: I have seen thousands of pounds told over, but I never saw money told so fast in my life. I went and sat down just opposite to him, and looked at him, to see how he told it. When he had told it twice over he put it in the bag, and paid me, and I came away about my business. About three weeks after, a gentleman at the Coffee-House was reading the News-paper over; he took the daily-paper in his hand and show'd me the advertisement, and said, Do you know any thing of this advertisement? I said I receiv'd the money; then I went to Sir 
+               <persName id="t17591024-18-person189">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person189" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person189" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person189" type="gender" value="male"></interp>
+                  </persName>
+            's and described the man that sent me.</p>
+               <p>Q. How soon after was this?</p>
+               <p>Keen. That was about the distance of three weeks.</p>
+               <p>Q. Who did you see there?</p>
+               <p>Keen. I saw Mr Nightingale and others.</p>
+               <p>Q. At that time had you the remembrance of the man's person, so as to be able to give a description of him?</p>
+               <p>Keen. At that time I had, and did: and when I came to Mr Fielding, which was since, I said, the prisoner resembled the man, but he has sell off his flesh. When I waited upon Mr Merry he asked me, whether the person had a fear on his forehead. His hat was not off when he was with me, so I could see no scar.</p>
+               <p>Q. Do you remember this man being in custody, and afterwards being before Mr Fielding?</p>
+               <p>Keen. I do: Mr Nightingale told me the man is taken, and you must be at Mr Fielding's to morrow about nine o'clock. When he came there to the bar, I was sitting in a chair, and took a full view at his face. The first question that was asked him was, pray what is your name. My name is 
+               <persName id="t17591024-18-person190">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person190" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person190" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person190" type="gender" value="male"></interp>
+                  </persName>
+            , said he. The next was, Where do you come from. - I come from Bristol. - How long have you been in London - I have been in London seven weeks. - Was you never in London before. - No.</p>
+               <p>Q. Who was there at the time?</p>
+               <p>Keen. Mr Merry was, and his clerk. When Mr Fielding thought I had had a full sight of him he called me in.</p>
+               <p>Q. Was Mr Merry mentioned?</p>
+               <p>Keen No, he was not at all: nor did I hear him say a word.</p>
+               <p>Q. Was Mr Nightingale there?</p>
+               <p>Keen. He was. Mr Fielding called me in, and I was sworn. He asked me what I thought<xptr type="pageFacsimile" doc="175910240020"></xptr> of the man. I said, he was fuller in the body, and fatter than at that time, and his dress was altered. I desired to see him with his hat on as it was on when I saw him before, and stopping. He put it on. I do think it is the same person, but I do not swear that.</p>
+               <p>Cross Examination.</p>
+               <p>Q. Mention any one particular description, by which the persons to whom you then spoke, might suppose him to be the man?</p>
+               <p>Keen. He answers to the best of my knowledge.</p>
+               <p>Q. What was the description you gave of him?</p>
+               <p>Keen. I told them when I first described him, that he was of a brownish complexion, roundish face, and his nose had a little poine turned up.</p>
+               <p>Q. Have not you met with a thousand people that answer that description that you have given: did you percieve any thing remarkable in him?</p>
+               <p>Keen. In the first place, what made me take notice of him was, because of his talking of laying out two or three hundred pounds with my master in stocks. I then looked him fuller in the face.</p>
+               <p>Q. Is there any thing so remarkable in his face, that by this description he may be known from another person.</p>
+               <p>Keen. I did not percieve any thing remarkable in his face.</p>
+               <p>Council for the Crown. Did you give a better description of him then, than you do now?</p>
+               <p>Keen. When I came to the bankers, I had a better remembrance of his features than now. I could then have pointed him out from amongst five hundred people.</p>
+               <p>Q. When did you see him at Mr Fielding's?</p>
+               <p>Keen. He was off I believe thirteen months.</p>
+               <p>Q. When was he taken?</p>
+               <p>Keen. He has been in goal ever since, I believe it is about eight or nine weeks ago. He was taken the last day of the last sessions held here but one, that was in July.</p>
+               <p>Q. Did he ever own any other name that he had, before Justice Fielding, besides that of 
+               <persName id="t17591024-18-person191">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person191" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person191" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person191" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Keen. No, Sir.</p>
+               <p>Q. Did he before he was committed own he had been in London before?</p>
+               <p>Keen. While he was before Mr. Fielding, he never altered in that. He said, he had never been in London but seven weeks.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person192">
+                  Henry 
+                  Matteson 
+               <interp inst="t17591024-18-person192" type="surname" value="Matteson"></interp>
+                     <interp inst="t17591024-18-person192" type="given" value="Henry"></interp>
+                     <interp inst="t17591024-18-person192" type="gender" value="male"></interp>
+                  </persName>
+            . I am clerk to Mr 
+               <persName id="t17591024-18-person193">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person193" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person193" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person193" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner at the bar ever since the 18th of November 1755.</p>
+               <p>Q. Was he ever in the capacity of a servant under Mr Merry?</p>
+               <p>Matteson. He was his Book-Keeper, and Cash-Keeper.</p>
+               <p>Q. How long was he in that capacity?</p>
+               <p>Matteson. He was from the 22 d of July 1755, to the 7th of May 1757. He was absent in that time about two months.</p>
+               <p>Q. Did you live there in November 1755?</p>
+               <p>Matteson. I did from November 1755 'till now.</p>
+               <p>Q. Where is Mr Merry's office?</p>
+               <p>Matteson. It is in Laurence-Pountney-Lane.</p>
+               <p>Q. Are you sure the prisoner is the same person, or is it a matter of belief?</p>
+               <p>Matteson. I am certain of that.</p>
+               <p>Q. What name did he go by then?</p>
+               <p>Matteson. He went by the name of 
+               <persName id="t17591024-18-person194">
+                  Thomas 
+                  Usher 
+               <interp inst="t17591024-18-person194" type="surname" value="Usher"></interp>
+                     <interp inst="t17591024-18-person194" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person194" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Do you remember Mr. Quilty of Malaga as a correspondent of Mr Merry?</p>
+               <p>Matteson. I do.</p>
+               <p>Q. Does this correspondency continue?</p>
+               <p>Matteson. It was closed the 19th of April 1757.</p>
+               <p>Q. Were there no other correspondency between them, - no draughts after that time?</p>
+               <p>Matteson. All correspondence ceased between them, except a letter or two. There was no letter passed between them since the 2 d of August 1757.</p>
+               <p>Q. Was that transaction the closing accounts between them?</p>
+               <p>Matteson. It was.</p>
+         
+               <p>The Second Part of these Proceedings will be published in a few Days.</p>
+         
+               <div1 type="frontMatter" id="t17591024-18">
+                  <interp inst="t17591024-18" type="collection" value="BAILEY"></interp>
+                  <interp inst="t17591024-18" type="year" value="1759"></interp>
+                  <interp inst="t17591024-18" type="uri" value="sessionsPapers/17591024"></interp>
+                  <interp inst="t17591024-18" type="date" value="17591024"></interp>
+            
+                  <p>
+                     <xptr type="pageFacsimile" doc="175910240021"></xptr>THE PROCEEDINGS ON THE King's Commissions of the Peace, Oyer and Terminer, and Gaol Delivery FOR THE CITY of LONDON, And also the Gaol Delivery for the County of MIDDLESEX, HELD AT JUSTICE-HALL in the OLD-BAILEY, On Wednesday the 24th, Thursday the 25th, and Friday the 26th, of OCTOBER, 1759.</p>
+                  <p>In the Thirty-third Year of His MAJESTY'S Reign. NUMBER VIII. PART II. for the YEAR 1759. Being the eighth SESSIONS in the MAYORALTY of The Right Honble Sir 
+                  <persName id="t17591024-18-person195">
+                     RICHARD 
+                     GLYN 
+                  <interp inst="t17591024-18-person195" type="surname" value="GLYN"></interp>
+                        <interp inst="t17591024-18-person195" type="given" value="RICHARD"></interp>
+                        <interp inst="t17591024-18-person195" type="gender" value="male"></interp>
+                     </persName>
+               , Knt. and Bart. LORD-MAYOR of the CITY of LONDON.</p>
+                  <p>LONDON:</p>
+                  <p>Printed, and sold by M. COOPER, at the Globe in Pater-noster-Row; 1759.</p>
+                  <p>[Price Four-Pence.]</p>
+
+                  <p>
+                     <xptr type="pageFacsimile" doc="175910240022"></xptr>THE PROCEEDINGS ON THE King's Commissions of the Peace, Oyer and Terminer, and Gaol Delivery held for the City of LONDON, &amp;c.</p>
+               </div1>
+               <p>Q. HAVE you seen any bill drawn upon Mr Merry by Mr Quilty since that?</p>
+               <p>Matteson. No: I generally go to the Post-Office; if there had been any letters I should have seen them.</p>
+               <p>Q. Do you remember the evidence, Keen, coming to your office?</p>
+               <p>Matteson. I do: it was about ten days after the bill was paid; he gave me a description of the person who sent him with the bill to Sir Charles Asgill's.</p>
+               <p>Q. What was your opinion of that description?</p>
+               <p>Matteson. The description that he gave to my master, in my presence, made us positively think, that that was the prisoner at the bar, without doubt; we did not doubt in the least but that it was he, both with regard to his person and dress.</p>
+               <p>Q. Is there any alteration between his appearance now, and what he was when he went away?</p>
+               <p>Matteson. Only he is fallen-away.</p>
+               <p>Q. Do you remember being before Justice Fielding ?</p>
+               <p>Matteson. That was on the Saturday, the last day of the last sessions but one?</p>
+               <p>Q. Before he quitted Mr Merry's service, did you ever hear any name he went by than that of 
+               <persName id="t17591024-18-person196">
+                  Thomas 
+                  Usher 
+               <interp inst="t17591024-18-person196" type="surname" value="Usher"></interp>
+                     <interp inst="t17591024-18-person196" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person196" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Matteson. No, Sir.</p>
+               <p>Q. When he was before Mr. Fielding, who did he say he was?</p>
+               <p>Matteson. He said he was 
+               <persName id="t17591024-18-person197">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person197" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person197" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person197" type="gender" value="male"></interp>
+                  </persName>
+            ; Mr Fielding ask'd him how long he had been in London; he said about seven weeks, and never before.</p>
+               <p>Q. Was he ask'd about Mr Merry ?</p>
+               <p>Matteson. He was: and said he never knew any such name, or any such person.</p>
+               <p>Q. Was he shew'd to Mr Merry?</p>
+               <p>Matteson. He was: Mr Merry sat by him; Mr Fielding ask'd him whether he knew Mr Merry; he denied him, when he saw him.</p>
+               <p>Q. Where did he see him?</p>
+               <p>Matteson. He saw him there; I was his fellow-clerk; Mr Fielding bid him look at me; he did; and denied knowing of me, or having ever seen me.</p>
+               <p>Q. Is there any particular mark upon the prisoner's face that you can tell him by?</p>
+               <p>Matteson. I have no doubt of him.</p>
+               <p>Q. If there is a mark, you can given an account of it?</p>
+               <p>Matteson. When he was in the compting-house, I used to observe a scar in his forehead, just above his nose; I described that to Mr Fielding.</p>
+               <p>Q. Could a man conceal that scar if he drew his hat over his face?</p>
+               <p>Matteson. It is so high, I believe he could.</p>
+               <p>Q. Do you know where he lived?</p>
+               <p>Matteson. At that time he liv'd with Mr Merry, he lodg'd in Lemon-street, Goodman's-fields.</p>
+               <p>Q. Is he a good penman?</p>
+               <p>Matteson. He is a very compleat penman.</p>
+               <p>Q. Did you know the house he liv'd at in Lemon-street, Goodman's-fields ?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175910240023"></xptr>Matteson. I did.</p>
+               <p>Q. Look at this acceptance. he takes the bill in 'his hand.</p>
+               <p>Matteson. This is a very great similitude to Mr Merry's hand-writing (I mean the name), but I really believe it is not from circumstances that I know.</p>
+               <p>Q. During the time that the correspondence was carried on, was it usual to have letters of advice?</p>
+               <p>Matteson. Yes, it was, very often.</p>
+               <p>Q. Had you ever a bill of Mr Quilty's to your master but what always had a letter of advice?</p>
+               <p>Matteson. No, never.</p>
+               <p>Q. Was there any advice of this bill now in question?</p>
+               <p>Matteson. No.</p>
+               <p>Q. There is the name. 
+               <persName id="t17591024-18-person198">
+                  Thomas 
+                  Hobson 
+               <interp inst="t17591024-18-person198" type="surname" value="Hobson"></interp>
+                     <interp inst="t17591024-18-person198" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person198" type="gender" value="male"></interp>
+                  </persName>
+             is indorsed on the back of the bill, look at that.</p>
+               <p>Matteson. He looks at it. I really believe the indorsement, 
+               <persName id="t17591024-18-person199">
+                  Thomas 
+                  Hobson 
+               <interp inst="t17591024-18-person199" type="surname" value="Hobson"></interp>
+                     <interp inst="t17591024-18-person199" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person199" type="gender" value="male"></interp>
+                  </persName>
+            , to be the prisoner's hand-writing, it is very much like it. I do not see my master's bill-book mark upon this bill; here is none here.</p>
+               <p>Q. May any of the indorsements be wrote by the same person. Is there any thing of a likeness to that name, 
+               <persName id="t17591024-18-person200">
+                  Thomas 
+                  Hobson 
+               <interp inst="t17591024-18-person200" type="surname" value="Hobson"></interp>
+                     <interp inst="t17591024-18-person200" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person200" type="gender" value="male"></interp>
+                  </persName>
+             ?</p>
+               <p>Matteson. No, there is no other; that I think to be the prisoner's.</p>
+               <p>Q. Does it seem to have the air of a real bill, or does it appear to have been done by one and the same hand?</p>
+               <p>Matteson. As to that I can't say. The book deliver'd in. This is the book kept by Sir 
+               <persName id="t17591024-18-person201">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person201" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person201" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person201" type="gender" value="male"></interp>
+                  </persName>
+            , where it is folded down it is wrote off by one of Sir 
+               <persName id="t17591024-18-person202">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person202" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person202" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person202" type="gender" value="male"></interp>
+                  </persName>
+            's servants.</p>
+               <p>Q. When was it wrote?</p>
+               <p>Matteson. It was wrote on the 10th of May.</p>
+               <p>Q. Has Sir 
+               <persName id="t17591024-18-person203">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person203" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person203" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person203" type="gender" value="male"></interp>
+                  </persName>
+             given Mr Merry credit for the sum of 250 l?</p>
+               <p>Matteson. He had made him debtor, but now he has taken it off.</p>
+               <p>Q. How came that to be wrote off?</p>
+               <p>Matteson. It seems he was fully perswaded that it was forgery; therefore it was wrote on again, as his giving him credit for 250 l. again, in order to ballance this.</p>
+               <p>Q. Do you know the reason of it?</p>
+               <p>Matteson. My master insisted on it's being a forgery.</p>
+               <p>Q. Considering the circumstances of this transaction, are these the only circumstances on which you are induced to believe this is not the hand-writing of Mr Merry?</p>
+               <p>Matteson. No, Sir; when he was suspected to be the person that forged the bill, there was a search-warrant taken out, and in his house there were found many papers belonging to Mr Merry.</p>
+               <p>Q. What papers were they?</p>
+               <p>Matteson. Some of them were invoyces and bills of lading, and letters from different parts, where my master corresponded; and amongst the rest, bills of exchange, and my master's hand that had been to a letter, and cut off (that is my master's name). There was also a letter drawn by this same Qullty, a real bill.</p>
+               <p>Q. Was you at the finding of the pa pers?</p>
+               <p>Matteson. No; I did not see them found, I saw the papers afterwards. The prisoner was trusted with my master's cash, and always made up the accounts, 'till October 1756; then there was a deficiency of 49 l. 11 s. 8 d. which he made himself debtor for in my master's books.</p>
+               <p>Q. Upon all those circumstances, are you induced to believe it is not Mr Merry's handwriting?</p>
+               <p>Matteson. I am.</p>
+               <p>Q. Strip yourself of them; what should you have believed if an indifferent person had brought it?</p>
+               <p>Matteson. I should have thought it had been Mr Merry's hand-writing.</p>
+               <p>Q. Upon what occasion did the prisoner leave your master?</p>
+               <p>Matteson. I cannot tell the occasion; he went away two or three times.</p>
+               <p>Q. When did he leave his house the last time?</p>
+               <p>Matteson. That I cannot say.</p>
+               <p>Q. After May 1757, was he employed for your master?</p>
+               <p>Matteson. Yes, he has come to translate Spanish for him; he understood Spanish very well.</p>
+               <p>Q. Before the forgery, do you remember he was sent for?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175910240024"></xptr>Matteson. Yes, my Master sent me for him to come to make up the account; he made excuses of being lame, and master sent me with a coach after that.</p>
+               <p>Q. When he left your master, was he then debtor to your master?</p>
+               <p>Matteson. He was; but it has been since made up; he was debtor 48 l. 9 s. 8 d.</p>
+               <p>Q. Look at this book again; is this the customary manner in which they write them off?</p>
+               <p>Matteson. That I do not know.</p>
+               <p>Q. What is this book?</p>
+               <p>Matteson. This is Mr Merry's, kept at Sir 
+               <persName id="t17591024-18-person204">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person204" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person204" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person204" type="gender" value="male"></interp>
+                  </persName>
+            's.</p>
+               <p>Q. to Nightingale. Do you know whether Mr Merry has credit for that 250 l.</p>
+               <p>Nightingale. He takes the book in his hand. This is wrote by one of the clerks that is now with Sir 
+               <persName id="t17591024-18-person205">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person205" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person205" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person205" type="gender" value="male"></interp>
+                  </persName>
+             and Co. that wrote it here; he acted for them. I take it for granted it was by some of the partners directions, or he would not have wrote in this manner.</p>
+               <p>Q. Whose writing is it?</p>
+               <p>Nightingale. It is wrote by one Barnard, he lives there now.</p>
+               <p>Q. What you do call this ?</p>
+               <p>Nightingale. This is writing on; by virtue of this entry it will be increased 250 l. It is wrote in this way on presumption of it's being a forgery.</p>
+               <p>Q. Are the partners satisfied it is a forgery ?</p>
+               <p>Nightingale. They are.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person206">
+                  Thomas 
+                  Nuthall 
+               <interp inst="t17591024-18-person206" type="surname" value="Nuthall"></interp>
+                     <interp inst="t17591024-18-person206" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person206" type="gender" value="male"></interp>
+                  </persName>
+            , Esq; We had a warrant granted to search the prisoner's house in Goodman's-Fields. I went there. We searched, and found a prodigious number of letters, invoices, bills of lading, and other papers, which appeared to be received by Mr Merry from Portugal and Hamburgh. All these papers appeared to be Mr Merry's which the prisoner could have no right to, as I should presume. I found in a private drawer in his bureau, wrapped up in a piece of clean paper, these words, Your humble servant 
+               <persName id="t17591024-18-person207">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person207" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person207" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person207" type="gender" value="male"></interp>
+                  </persName>
+            . It appeared to be the conclusion of a letter that he had wrote. This was not with the other bills.</p>
+               <p>Q. to Matteson. Look at this. - (The words your humble servant 
+               <persName id="t17591024-18-person208">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person208" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person208" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person208" type="gender" value="male"></interp>
+                  </persName>
+            .) Whose hand-writing do you look upon it to be?</p>
+               <p>Matteson. I believe it to be Mr Merry's hand-writing: this was Mr Merry's paper, and did not belong to the prisoner.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person209">
+                  William 
+                  Bowman 
+               <interp inst="t17591024-18-person209" type="surname" value="Bowman"></interp>
+                     <interp inst="t17591024-18-person209" type="given" value="William"></interp>
+                     <interp inst="t17591024-18-person209" type="gender" value="male"></interp>
+                  </persName>
+            . I saw the prisoner at the bar in July last.</p>
+               <p>Q. How long have you known him?</p>
+               <p>Bowman. I have known him ten or twelve years.</p>
+               <p>Q. Are you certain you know him?</p>
+               <p>Bowman. I am: I make no doubt of that at all.</p>
+               <p>Q. Where did you see him in July last?</p>
+               <p>Bowman. Just by Mr Whitfield's tabernacle: when I first saw him he amazed me. I was considering in myself what I should do. I had been informed of the forgery by Mr Merry. I went back there, and enquired what he had been doing there, and they showed me a letter that he had left, and I acquainted Mr Nightingale with it, and I heard nothing more 'till the 13th of July last. Then I went with Mr Nightingale to the place where the paper directed, by the name of 
+               <persName id="t17591024-18-person210">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person210" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person210" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person210" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+
+               <p>Q. Look at this paper. - A paper is put into his hand.</p>
+               <p>Bowman. This is the letter that was left at the tabernacle. I believe it to be his own handwriting. The direction is his writing.</p>
+               <p>It is read.</p>
+               <p>Directed to the Reverend Mr Davis, These.</p>
+               <p>Pond-street, 2 July 1759.</p>
+               <p>Reverend Sir,</p>
+               <p>BEing an utter stranger is this part of the kingdom, and destitute of any friends in that we came from, (capable of helping us now in our unhappy and forlorn condition) we have no other way left (by God's blessing we have this) but to make our deplorable situation known to those whom our gracious Lord Jesus Christ has vouchsaseed to call, and that follow him as his stock: to these, Blessed Ones, we would wish (I mean myself and wife) our wretchedness was known, not doubting of their readiness for their Glorious Redeemer's sake, to give us some present succour, but they would likewise prevent my remaining longer out of the employ of my own business, that I might by it, through their kind means, get an honest livelihood.<xptr type="pageFacsimile" doc="175910240025"></xptr> But as we are equally unknown to them here, and having heard of your charitable readiness to help the distressed for Jesus Christ's sake, we, in his most precious name, do beg and heseech you, most kind and Reverend Sir, on bended knees, to give us leave, without offence, thus to address you, and crave, that you will please to pity us, and by your worthy endeavours, let our cries reach such tender Christians souls, as will afford us relief, O! dear Sir, pray do us this good for the Lord Jesus Christ's sake. Our lives throughout, shall give proof of our gratitude, in continually imploring the eternal Father of Spirits, to repay your tender concern for us distress'd pilgrims, with rewards eternal in glory. We once more beg on bended knees, to lay our moans before you. I am for wife and self with profoundest deference,</p>
+               <p>Reverend Sir,</p>
+               <p>Your most humble and obedient Servant in distress, 
+               <persName id="t17591024-18-person211">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person211" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person211" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person211" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>P. S. Reverend Sir, the inclosed (as you'll perceive) is our wretched case, drawn up to serve to show to whom you shall please,</p>
+               <p>Ut supra.</p>
+               <p>J. Clark.</p>
+               <p>Q. Did you see the prisoner after he was taken up?</p>
+               <p>Bowman. I did.</p>
+               <p>Q. What did the prisoner say his name was?</p>
+               <p>Bowman. He said his name was 
+               <persName id="t17591024-18-person212">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person212" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person212" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person212" type="gender" value="male"></interp>
+                  </persName>
+            . I asked him how he did, by the name of 
+               <persName id="t17591024-18-person213">
+                  Thomas 
+                  Usher 
+               <interp inst="t17591024-18-person213" type="surname" value="Usher"></interp>
+                     <interp inst="t17591024-18-person213" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person213" type="gender" value="male"></interp>
+                  </persName>
+            . He got up and was going to shake hands with me, as I believe, but he sat down again very much confounded: then he said, his name was 
+               <persName id="t17591024-18-person214">
+                  John 
+                  Clark 
+               <interp inst="t17591024-18-person214" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person214" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person214" type="gender" value="male"></interp>
+                  </persName>
+            , and he denied that he had ever known me, or Mr Roberts, or Mr Merry.</p>
+               <p>Counsel for the Crown. Call Mr Merry.</p>
+               <p>Counsel for the Prisoner. I object to Mr Merry's being called as a witness. The question is, whether he is at all interested in this matter or not?</p>
+               <p>It appearing to the court that Sir 
+               <persName id="t17591024-18-person215">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person215" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person215" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person215" type="gender" value="male"></interp>
+                  </persName>
+            , and Co. were thoroughly satisfied this was a forgery, and had settled their accounts, not charging Mr Merry debtor on the account of that bill, so that if the prisoner should be guilty or acquitted, there could be no demand upon Mr Merry for that 250 l. The court over-ruled that and he was called.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person216">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person216" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person216" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person216" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner once lived servant with me.</p>
+               <p>Q. How long was he your servant?</p>
+               <p>Merry. About two years.</p>
+               <p>Q. Had he frequent opportunities of seeing you write?</p>
+               <p>Merry. He had very frequent opportunities.</p>
+               <p>Q. Is he a good penman?</p>
+               <p>Merry. He is a very extraordinary penman.</p>
+               <p>Q. When did he quit your service for good?</p>
+               <p>Merry. It was some time in May 1757: he was a little faulty in making up his cash, something deficient, and I insisted upon his coming and making it up. He is a compleat proficient in the Spanish language; so I said, I would not apply to his security, but he should work the money out, so he came some times and translated some few letters in the year 1758.</p>
+               <p>Q. Was Mr Quilty once a correspondent of your's</p>
+               <p>Merry. He was.</p>
+               <p>Q. When did that correspondence cease?</p>
+               <p>Merry. That ceased about August 1757.</p>
+               <p>Q. Does the prisoner appear the same now, as when in your service?</p>
+               <p>Merry. When I last saw him he looked better in flesh, and was better in cloaths than now. After he left me he appeared shabby in cloaths.</p>
+               <p>Q. Do you remember 
+               <persName id="t17591024-18-person217">
+                  Constantine 
+                  Keen 
+               <interp inst="t17591024-18-person217" type="surname" value="Keen"></interp>
+                     <interp inst="t17591024-18-person217" type="given" value="Constantine"></interp>
+                     <interp inst="t17591024-18-person217" type="gender" value="male"></interp>
+                  </persName>
+             giving you any description of a person, that he had carried a bill for to Sir 
+               <persName id="t17591024-18-person218">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person218" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person218" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person218" type="gender" value="male"></interp>
+                  </persName>
+            's?</p>
+               <p>Merry. I do. I then judged it to be the prisoner.</p>
+               <p>Q. Look at this bill. - He takes it in his hand. Did you accept that bill?</p>
+               <p>Merry. No. I did not.</p>
+               <p>Q. Are you certain?</p>
+               <p>Merry. I am. I am positive I did not; this name 
+               <persName id="t17591024-18-person219">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person219" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person219" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person219" type="gender" value="male"></interp>
+                  </persName>
+             is certainly forged.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="175910240026"></xptr>Q. Do you judge it to be the prisoner at the bar, meerly by his going to the porter?</p>
+               <p>Merry. By the case, and the description he gave. But I was in some measure convinced it was he before I saw the porter; because in turning my book over, I set my lad to cast it up, and I cast up the other, and found there were 250 l. difference. Then I took the book and looked it over myself, and found it the same. When I came to look over the bills I was vasty startled, having had no business with Mr Quilty for some time. I own the hand on the bill has some strong resemblance of my own hand.</p>
+               <p>Q. Was you at the searching the prisoner's house?</p>
+               <p>Merry. I was. And saw these papers found there. I saw the name 
+               <persName id="t17591024-18-person220">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person220" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person220" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person220" type="gender" value="male"></interp>
+                  </persName>
+             on one of the papers.</p>
+               <p>Q. Do you believe that to be your own hand writing?</p>
+               <p>Merry. I believe it is. These papers were what he had no business with; he must take them for some use or purpose; there were some letters of every gentleman almost abroad, that I correspond with; a vast number of invoices: upon looking for some real bills, in order to compare with this, I found the second bill a real bill of Mr Quilty's. The acceptance on the first was for 177 l. that bill was taken away, and I cannot find it in my compting-house; that bill is drawn in the same favour as this is, in the same name; when I came to turn the bill, and look at the endorsements, I am of opinion, that the name 
+               <persName id="t17591024-18-person221">
+                  Thomas 
+                  Hobson 
+               <interp inst="t17591024-18-person221" type="surname" value="Hobson"></interp>
+                     <interp inst="t17591024-18-person221" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person221" type="gender" value="male"></interp>
+                  </persName>
+            , was wrote by the prisoner at the bar; and the name 
+               <persName id="t17591024-18-person222">
+                  John 
+                  Smith 
+               <interp inst="t17591024-18-person222" type="surname" value="Smith"></interp>
+                     <interp inst="t17591024-18-person222" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person222" type="gender" value="male"></interp>
+                  </persName>
+            , though it is flourished, it is flourished by him, that confirmed me strongly in it.</p>
+               <p>Q. Did you see the prisoner at Justice Fielding's?</p>
+               <p>Merry. I did.</p>
+               <p>Q. Would he know you there?</p>
+               <p>Merry. No; he would not; he was desired to go round the room to see if he knew me. He gave an extraordinary account of himself. That his name was 
+               <persName id="t17591024-18-person223">
+                  Thomas 
+                  Clark 
+               <interp inst="t17591024-18-person223" type="surname" value="Clark"></interp>
+                     <interp inst="t17591024-18-person223" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person223" type="gender" value="male"></interp>
+                  </persName>
+            . That he had never been in London but seven weeks.</p>
+               <p>Cross Examination.</p>
+               <p>Q. Was he in debt at the time he left you?</p>
+               <p>Merry. He was, I believe.</p>
+               <p>Q. Do you know of any action brought against him?</p>
+               <p>Merry. I know of one.</p>
+
+               <p>Q. At whose suit?</p>
+               <p>Merry. I do not know the name; the person keeps the Bull in Thames-street.</p>
+               <p>Matteson. His name is 
+               <persName id="t17591024-18-person224">
+                  Charles 
+                  Walker 
+               <interp inst="t17591024-18-person224" type="surname" value="Walker"></interp>
+                     <interp inst="t17591024-18-person224" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person224" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Q. to Mr Merry. When was that action brought against him?</p>
+               <p>Merry. That was when he lived with me.</p>
+               <p>Q. When was the bill detected?</p>
+               <p>Merry. That was in May 1758.</p>
+               <p>The bill read.</p>
+               <p>Laos Deo, Malaga, 5 Feb. 1758.</p>
+               <p>Exa. per 250 Sterling.</p>
+               <p>At Usance and half, pay this our first, per Exchange, to Mr 
+               <persName id="t17591024-18-person225">
+                  Domingo 
+                  Gneico 
+               <interp inst="t17591024-18-person225" type="surname" value="Gneico"></interp>
+                     <interp inst="t17591024-18-person225" type="given" value="Domingo"></interp>
+                     <interp inst="t17591024-18-person225" type="gender" value="male"></interp>
+                  </persName>
+            , or Order, 250. Sterling, value received of the same. Which place to account, as per advice from</p>
+               <p>
+            
+                  <persName id="t17591024-18-person226">
+                  Thomas 
+                  Quilty 
+               <interp inst="t17591024-18-person226" type="surname" value="Quilty"></interp>
+                     <interp inst="t17591024-18-person226" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person226" type="gender" value="male"></interp>
+                  </persName>
+             and Co.</p>
+               <p>To Mr 
+               <persName id="t17591024-18-person227">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person227" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person227" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person227" type="gender" value="male"></interp>
+                  </persName>
+            , Merchant in London.</p>
+               <p>Accepted Payable at Sir 
+               <persName id="t17591024-18-person228">
+                  Charles 
+                  Asgill 
+               <interp inst="t17591024-18-person228" type="surname" value="Asgill"></interp>
+                     <interp inst="t17591024-18-person228" type="given" value="Charles"></interp>
+                     <interp inst="t17591024-18-person228" type="gender" value="male"></interp>
+                  </persName>
+            's and Co.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person229">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person229" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person229" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person229" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>Prisoner's defence.</p>
+               <p>I am quite ignorant of the bill. In regard to the hand-writing being like mine, hands are frequently alike. I know nothing about that letter produced, said to be left at the Tabernacle. I was in Mr Merry's service the time he mentions; and left it about the time he mentions; in the mean time he has employed me in translating letters. As to this affair, I know nothing of it. As to the name 
+               <persName id="t17591024-18-person230">
+                  Anthony 
+                  Merry 
+               <interp inst="t17591024-18-person230" type="surname" value="Merry"></interp>
+                     <interp inst="t17591024-18-person230" type="given" value="Anthony"></interp>
+                     <interp inst="t17591024-18-person230" type="gender" value="male"></interp>
+                  </persName>
+             being found, is easily accounted for;<xptr type="pageFacsimile" doc="175910240027"></xptr> because from time to time I used to receive letters from him, for me to do so and so. I am totally innocent, and know nothing at all about it.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person231">
+                  Thomas 
+                  Deming 
+               <interp inst="t17591024-18-person231" type="surname" value="Deming"></interp>
+                     <interp inst="t17591024-18-person231" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person231" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner at the bar, I believe, a dozen or fourteen years. I married a relation of his wife's about four years ago.</p>
+               <p>Q. Are you acquainted with his circumstances?</p>
+               <p>
+            
+                  <persName id="t17591024-18-person232">
+                  Thomas 
+                  Deming 
+               <interp inst="t17591024-18-person232" type="surname" value="Deming"></interp>
+                     <interp inst="t17591024-18-person232" type="given" value="Thomas"></interp>
+                     <interp inst="t17591024-18-person232" type="gender" value="male"></interp>
+                  </persName>
+            . I am very sensibly acquainted with them: he was so much in debt that he could not stay, and I maintained his family when he was away; he took with him, even his old shirts and old shoes. This was in May was twelve month. I heard in the family that he owed above a hundred pounds, to a man at the Bull, ten pound borrowed money, who frequently came to his house, and threatened to arrest him.</p>
+               <p>Q. Do you look upon it that he went away for debt?</p>
+               <p>Deming. I do believe he went away absolutely for debt. I was sent for when the house was searched. I asked Mr Merry, when this thing was done; and told him, I wondered, if he was guilty of the crime, that he should be seen publickly; for I saw him several times.</p>
+               <p>Q. What time did he abscond from his family?</p>
+               <p>Deming. I believe it was about the middle of May was twelve month. I had, I believe, five or six letters from him.</p>
+               <p>Q. How did they come?</p>
+               <p>Deming. They came by the Post. He wrote me a letter that he should be at the Monument in Blackmore-street, on the 26th of April last, at three in the afternoon; I went there, he was standing in the public alehouse smoaking his pipe; I shook my head at him, and said, For God's sake what do you do here ? Why said he. Do not you know, said I, the crime that you are charged with, that will take away your life. I took him to the window, and charged him with it. He said - </p>
+               <p>Court. What he said is not evidence.</p>
+               <p>Deming. I saw him often during the month of May 58, in destitute circumstances, poorer than he has been since, because I have maintained him since.</p>
+               <p>Q. Has he paid any of his debts since?</p>
+               <p>Deming. Of my own knowledge he has not.</p>
+               <p>Q. Do you know any thing of his going by the name of Clark?</p>
+               <p>Deming. I know nothing of that.</p>
+               <p>Q. What has been his moral character?</p>
+               <p>Deming. I thought him an honest industrious man.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person233">
+                  John 
+                  Major 
+               <interp inst="t17591024-18-person233" type="surname" value="Major"></interp>
+                     <interp inst="t17591024-18-person233" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person233" type="gender" value="male"></interp>
+                  </persName>
+            . I was formerly the prisoner's master; he came to me in the year 1743 as a clerk, and lived with me 'till Michaelmas 48; and behaved soberly and honestly; he has paid and received several sums of money for me.</p>
+               <p>Q. Had you any security for him?</p>
+               <p>Major. No. I had not.</p>
+               <p>Q. to Mr Merry. Had you any security for the prisoner?</p>
+               <p>Merry. I had. The bond is in Court.</p>
+               <p>Mr Oldfield. I have known the prisoner at the bar, seventeen years; I believe he was in very bad circumstances in the year 58.</p>
+               <p>Q. Have you relieved him?</p>
+               <p>Oldfield. I have. I did in April last; I accidentally met with him in the Borough of Southwark, in very deplorable circumstances and relieved him; he pulled a rowl out of his pocket, and said, He had only that bread to eat. I saw him about the middle of May 58, he was then in distressed circumstances.</p>
+               <p>Q. What is his general character?</p>
+               <p>Oldfield. I never knew any thing bad of him in my life; his character was that of an honest man.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person234">
+                  John 
+                  Ede 
+               <interp inst="t17591024-18-person234" type="surname" value="Ede"></interp>
+                     <interp inst="t17591024-18-person234" type="given" value="John"></interp>
+                     <interp inst="t17591024-18-person234" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner ever since the year 42; I employed him about two years; the last time I saw him, was about three years ago, at Mr Merry's compting-house.</p>
+               <p>Q. What was his general character the time you knew him.</p>
+               <p>Ede. He had a very good character. I never heard any thing amiss of him; he came recommended to me with a good character, to keep my books, and he behaved extreamly well all the time I employed him.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person235">
+                  Cecil 
+                  Waring 
+               <interp inst="t17591024-18-person235" type="surname" value="Waring"></interp>
+                     <interp inst="t17591024-18-person235" type="given" value="Cecil"></interp>
+                     <interp inst="t17591024-18-person235" type="gender" value="male"></interp>
+                  </persName>
+            . I have known him sixteen or seventeen years.</p>
+
+               <p>
+                  <xptr type="pageFacsimile" doc="175910240028"></xptr>Q. What is his general character ?</p>
+               <p>Waring. Nothing amiss.</p>
+               <p>Q. Did you ever hear any thing of him?</p>
+               <p>Waring. I know his circumstances were low, and have been several years.</p>
+               <p>Q. Did he appear in May 1758. to be in bad circumstances?</p>
+               <p>Waring. Yes, he did; I am pretty well assured Mr Deming maintained his family then.</p>
+               <p>Mr Enderbury. I have known the prisoner at the bar about nineteen years.</p>
+               <p>Q. What is his general character?</p>
+               <p>Enderbury. That of an honest man; his circumstances were but poor. In the month of May 1758, he applied to me to borrow 10 l. but I refus'd him. I never heard any thing amiss of him 'till this affair in question.</p>
+               <p>Mr. Johnson. I live in Lemon-Street, Goodman's Fields; the prisoner was my next-door neighbour; he lived there about twelve years; he always behaved himself very civilly and friendly.</p>
+               <p>Q. What is his general character?</p>
+               <p>Johnson. I know no harm of him.</p>
+               <p>Q. Had he a good or a bad character?</p>
+               <p>Johnson. The best of people are sometimes aspersed.</p>
+               <p>Q. Was he reckoned a rich or a poor man?</p>
+               <p>Johnson. He was reckoned a very poor man. Mr Deming has supported his family two years; they were in great distress during all last year.</p>
+               <p>Q. What was the cause of his distressed circumstances?</p>
+               <p>Johnson. I suppose he could not maintain himself; I believe he was out of employment.</p>
+               <p>Q. What wages had he of Mr Merry?</p>
+               <p>Johnson. I do not know.</p>
+               <p>Metteson. He had 80 l. per year.</p>
+               <p>Q. to Deming. What do you think was the cause of his distress?</p>
+               <p>Deming. I believe it was about a hundred pounds bond; and his family coming on, he has a wife and three children, and she big again. I never look'd upon him to be a negligent man; a good man: I have heard say, he used to take his family to prayers.</p>
+               <p>
+            
+                  <persName id="t17591024-18-person236">
+                  William 
+                  Scullet 
+               <interp inst="t17591024-18-person236" type="surname" value="Scullet"></interp>
+                     <interp inst="t17591024-18-person236" type="given" value="William"></interp>
+                     <interp inst="t17591024-18-person236" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner at the bar about ten years. I can't say I know much of his family.</p>
+               <p>Q. What is his general character?</p>
+               <p>Scullet. That of a sober, honest, industrious man.</p>
+               <p>
+                  <rs id="t17591024-18-verdict90" type="verdictDescription">
+                     <interp inst="t17591024-18-verdict90" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

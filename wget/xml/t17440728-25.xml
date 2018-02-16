@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440728-25">
+               <interp inst="t17440728-25" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440728-25" type="year" value="1744"></interp>
+               <interp inst="t17440728-25" type="uri" value="sessionsPapers/17440728"></interp>
+               <interp inst="t17440728-25" type="date" value="17440728"></interp>
+               <join result="criminalCharge" id="t17440728-25-off150-c293" targOrder="Y" targets="t17440728-25-defend355 t17440728-25-off150 t17440728-25-verdict152"></join>
+         
+               <p>328. 
+               
+                  <persName id="t17440728-25-defend355" type="defendantName">
+                     Elizabeth 
+                     Lees 
+                  <interp inst="t17440728-25-defend355" type="surname" value="Lees"></interp>
+                     <interp inst="t17440728-25-defend355" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17440728-25-defend355" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440728-25-defloc149">St. James's Westminster</placeName>
+                  <interp inst="t17440728-25-defloc149" type="placeName" value="St. James's Westminster"></interp>
+                  <interp inst="t17440728-25-defloc149" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440728-25-defend355 t17440728-25-defloc149"></join> , was indicted for <rs id="t17440728-25-off150" type="offenceDescription">
+                     <interp inst="t17440728-25-off150" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440728-25-off150" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one cotton gown, value 7 s. a quilted petticoat, value 1 s. and 12 wooden dolls , value 1 s
+            </rs>. the goods of 
+               
+                  <persName id="t17440728-25-victim357" type="victimName">
+                     Joseph 
+                     Witcomb 
+                  <interp inst="t17440728-25-victim357" type="surname" value="Witcomb"></interp>
+                     <interp inst="t17440728-25-victim357" type="given" value="Joseph"></interp>
+                     <interp inst="t17440728-25-victim357" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440728-25-off150 t17440728-25-victim357"></join>
+                  </persName>
+                
+            , <rs id="t17440728-25-cd151" type="crimeDate">June 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440728-25-off150 t17440728-25-cd151"></join>.</p>
+               <p>The <rs id="t17440728-25-verdict152" type="verdictDescription">
+                     <interp inst="t17440728-25-verdict152" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17440728-25-verdict152" type="verdictSubcategory" value="noProsecutor"></interp>
+               Prosecutor not appearing she was acquitted
+            </rs>.</p>
+            </div1>

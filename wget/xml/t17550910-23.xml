@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17550910-23">
+               <interp inst="t17550910-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17550910-23" type="year" value="1755"></interp>
+               <interp inst="t17550910-23" type="uri" value="sessionsPapers/17550910"></interp>
+               <interp inst="t17550910-23" type="date" value="17550910"></interp>
+               <join result="criminalCharge" id="t17550910-23-off110-c155" targOrder="Y" targets="t17550910-23-defend196 t17550910-23-off110 t17550910-23-verdict112"></join>
+               <join result="criminalCharge" id="t17550910-23-off110-c156" targOrder="Y" targets="t17550910-23-defend197 t17550910-23-off110 t17550910-23-verdict112"></join>
+         
+               <p>324. (M.) 
+               <persName id="t17550910-23-defend196" type="defendantName">
+                  Mary 
+                  Colley 
+               <interp inst="t17550910-23-defend196" type="surname" value="Colley"></interp>
+                     <interp inst="t17550910-23-defend196" type="given" value="Mary"></interp>
+                     <interp inst="t17550910-23-defend196" type="gender" value="female"></interp>
+                  </persName>
+             , and 
+               <persName id="t17550910-23-defend197" type="defendantName">
+                  Frances, <rs id="t17550910-23-deflabel109" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17550910-23-defend197 t17550910-23-deflabel109"></join> of 
+                     <persName id="t17550910-23-person198">
+                        Robert 
+                        Cockerill 
+                     <interp inst="t17550910-23-person198" type="surname" value="Cockerill"></interp>
+                        <interp inst="t17550910-23-person198" type="given" value="Robert"></interp>
+                        <interp inst="t17550910-23-person198" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17550910-23-defend197" type="surname" value="Cockerill"></interp>
+                     <interp inst="t17550910-23-defend197" type="given" value="Frances"></interp>
+                     <interp inst="t17550910-23-defend197" type="gender" value="female"></interp>
+                  </persName>
+             , were indicted for <rs id="t17550910-23-off110" type="offenceDescription">
+                     <interp inst="t17550910-23-off110" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17550910-23-off110" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing two blankets, value 4 s. one pair of linen sheets, a copper sauce-pan, a pewter sauce-pan, a copper stew-pan, the goods of 
+                     
+                        <persName id="t17550910-23-victim200" type="victimName">
+                           William 
+                           Lloyd 
+                        <interp inst="t17550910-23-victim200" type="surname" value="Lloyd"></interp>
+                        <interp inst="t17550910-23-victim200" type="given" value="William"></interp>
+                        <interp inst="t17550910-23-victim200" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17550910-23-off110 t17550910-23-victim200"></join>
+                     </persName>
+                      
+                   , in a certain lodging room, let by contract
+            </rs>, &amp;c. <rs id="t17550910-23-cd111" type="crimeDate">August 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17550910-23-off110 t17550910-23-cd111"></join>.</p>
+               <p>++ Both <rs id="t17550910-23-verdict112" type="verdictDescription">
+                     <interp inst="t17550910-23-verdict112" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

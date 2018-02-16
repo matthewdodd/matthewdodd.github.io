@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16861208-37">
+               <interp inst="t16861208-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16861208-37" type="year" value="1686"></interp>
+               <interp inst="t16861208-37" type="uri" value="sessionsPapers/16861208"></interp>
+               <interp inst="t16861208-37" type="date" value="16861208"></interp>
+               <join result="criminalCharge" id="t16861208-37-off186-c116" targOrder="Y" targets="t16861208-37-defend164 t16861208-37-off186 t16861208-37-verdict189"></join>
+         
+               <p>
+                  <xptr type="pageFacsimile" doc="16861208004"></xptr>
+            
+                  <persName id="t16861208-37-defend164" type="defendantName">
+                  John 
+                  Pargiter
+               <interp inst="t16861208-37-defend164" type="surname" value="Pargiter"></interp>
+                     <interp inst="t16861208-37-defend164" type="given" value="John"></interp>
+                     <interp inst="t16861208-37-defend164" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16861208-37-defloc185">Hackney</placeName>
+                  <interp inst="t16861208-37-defloc185" type="placeName" value="Hackney"></interp>
+                  <interp inst="t16861208-37-defloc185" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16861208-37-defend164 t16861208-37-defloc185"></join>, in the County of Middlesex, was Indicted for that he, <rs id="t16861208-37-off186" type="offenceDescription">
+                     <interp inst="t16861208-37-off186" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16861208-37-off186" type="offenceSubcategory" value="grandLarceny"></interp>
+               together with one 
+                     <persName id="t16861208-37-person165">
+                        Samuel 
+                        Bomet
+                     <interp inst="t16861208-37-person165" type="surname" value="Bomet"></interp>
+                        <interp inst="t16861208-37-person165" type="given" value="Samuel"></interp>
+                        <interp inst="t16861208-37-person165" type="gender" value="male"></interp>
+                     </persName>
+                  , not yet taken, did steal on the <rs id="t16861208-37-cd187" type="crimeDate">19th. of October</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16861208-37-off186 t16861208-37-cd187"></join> last. one Damask Table-Cloath, value 40 s.
+            </rs> the goods of the Reverend Father in God, 
+               <persName id="t16861208-37-victim166" type="victimName">
+                  Thomas 
+                  <rs id="t16861208-37-viclabel188" type="occupation">Bishop</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16861208-37-victim166 t16861208-37-viclabel188"></join> of Litchfield and Coventry<interp inst="t16861208-37-victim166" type="given" value="Thomas"></interp>
+                     <interp inst="t16861208-37-victim166" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16861208-37-off186 t16861208-37-victim166"></join>
+                  </persName>
+            , &amp;c. The Witnesses against the Prisoner, Evidenced that he was seen to take the Table-Cloath off from a Hedge, where it was hanging to dry, and being pursued he drop'd it; the Prisoner denyed the Fact, so was found <rs id="t16861208-37-verdict189" type="verdictDescription">
+                     <interp inst="t16861208-37-verdict189" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16861208-37-verdict189" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16861208-37-punish190" type="punishmentDescription">
+                     <interp inst="t16861208-37-punish190" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16861208-37-punish190" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16861208-37-defend164 t16861208-37-punish190"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

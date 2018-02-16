@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17660219-24">
+               <interp inst="t17660219-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17660219-24" type="year" value="1766"></interp>
+               <interp inst="t17660219-24" type="uri" value="sessionsPapers/17660219"></interp>
+               <interp inst="t17660219-24" type="date" value="17660219"></interp>
+               <join result="criminalCharge" id="t17660219-24-off135-c197" targOrder="Y" targets="t17660219-24-defend252 t17660219-24-off135 t17660219-24-verdict138"></join>
+         
+               <p>138. (M.) 
+               <persName id="t17660219-24-defend252" type="defendantName">
+                  Anne, <rs id="t17660219-24-deflabel133" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17660219-24-defend252 t17660219-24-deflabel133"></join> of 
+                     <persName id="t17660219-24-person253">
+                        Joseph 
+                        Morley 
+                     <interp inst="t17660219-24-person253" type="surname" value="Morley"></interp>
+                        <interp inst="t17660219-24-person253" type="given" value="Joseph"></interp>
+                        <interp inst="t17660219-24-person253" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise 
+                        <rs id="t17660219-24-alias-2" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17660219-24-defend252 t17660219-24-alias-2"></join>Anne Waley</rs>
+                     
+                     <interp inst="t17660219-24-defend252" type="surname" value="Morley"></interp>
+                     <interp inst="t17660219-24-defend252" type="given" value="Anne"></interp>
+                     <interp inst="t17660219-24-defend252" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17660219-24-deflabel134" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660219-24-defend252 t17660219-24-deflabel134"></join>, was indicted for <rs id="t17660219-24-off135" type="offenceDescription">
+                     <interp inst="t17660219-24-off135" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17660219-24-off135" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing two linen bed-curtains, value 2 s. 6 d. two linen sheets, value 2 s. 6 d. a copper tea-kettle, value 2 s. and a man's hat, value 12 d.
+            </rs> the property of 
+               
+                  <persName id="t17660219-24-victim256" type="victimName">
+                     Charles 
+                     Jeenes 
+                  <interp inst="t17660219-24-victim256" type="surname" value="Jeenes"></interp>
+                     <interp inst="t17660219-24-victim256" type="given" value="Charles"></interp>
+                     <interp inst="t17660219-24-victim256" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17660219-24-off135 t17660219-24-victim256"></join>
+                  </persName>
+                
+            , <rs id="t17660219-24-cd136" type="crimeDate">February 11</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17660219-24-off135 t17660219-24-cd136"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17660219-24-person257">
+                  Charles 
+                  Jeenes 
+               <interp inst="t17660219-24-person257" type="surname" value="Jeenes"></interp>
+                     <interp inst="t17660219-24-person257" type="given" value="Charles"></interp>
+                     <interp inst="t17660219-24-person257" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17660219-24-viclabel137" type="occupation">I keep a pork-shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17660219-24-victim256 t17660219-24-viclabel137"></join> in Golden-lane, the prisoner was a lodger of mine; she came to me as a married woman, and has since declared she is not married. I have lost many things, but I charge her with nothing but what we found and brought here; they were pledged in her name.</p>
+               <p>
+            
+                  <persName id="t17660219-24-person258">
+                  Daniel 
+                  Getens 
+               <interp inst="t17660219-24-person258" type="surname" value="Getens"></interp>
+                     <interp inst="t17660219-24-person258" type="given" value="Daniel"></interp>
+                     <interp inst="t17660219-24-person258" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker, I took these things in of the prisoner at the bar; I lent her the same money upon them as is mentioned in the indictment.</p>
+               <p>Prisoner's defence.</p>
+               <p>I did not quit my lodgings, I pawned them for want.</p>
+               <p>
+                  <rs id="t17660219-24-verdict138" type="verdictDescription">
+                     <interp inst="t17660219-24-verdict138" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17660219-24-punish139" type="punishmentDescription">
+                     <interp inst="t17660219-24-punish139" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17660219-24-defend252 t17660219-24-punish139"></join>
+               T
+            </rs>.</p>
+            </div1>

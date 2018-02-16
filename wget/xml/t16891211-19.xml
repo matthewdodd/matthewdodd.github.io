@@ -1,3 +1,64 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16891211-19">
+               <interp inst="t16891211-19" type="collection" value="BAILEY"></interp>
+               <interp inst="t16891211-19" type="year" value="1689"></interp>
+               <interp inst="t16891211-19" type="uri" value="sessionsPapers/16891211"></interp>
+               <interp inst="t16891211-19" type="date" value="16891211"></interp>
+               <join result="criminalCharge" id="t16891211-19-off84-c69" targOrder="Y" targets="t16891211-19-defend98 t16891211-19-off84 t16891211-19-verdict88"></join>
+               <join result="criminalCharge" id="t16891211-19-off84-c70" targOrder="Y" targets="t16891211-19-defend100 t16891211-19-off84 t16891211-19-verdict88"></join>
+               <join result="criminalCharge" id="t16891211-19-off84-c71" targOrder="Y" targets="t16891211-19-defend102 t16891211-19-off84 t16891211-19-verdict88"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16891211-19-defend98" type="defendantName">
+                     Henry 
+                     Lawrence
+                  <interp inst="t16891211-19-defend98" type="surname" value="Lawrence"></interp>
+                     <interp inst="t16891211-19-defend98" type="given" value="Henry"></interp>
+                     <interp inst="t16891211-19-defend98" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t16891211-19-defend100" type="defendantName">
+                     Elizabeth 
+                     Lawrence
+                  <interp inst="t16891211-19-defend100" type="surname" value="Lawrence"></interp>
+                     <interp inst="t16891211-19-defend100" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16891211-19-defend100" type="gender" value="female"></interp>
+                  </persName>
+               
+             and 
+               
+                  <persName id="t16891211-19-defend102" type="defendantName">
+                     Henry 
+                     Ward
+                  <interp inst="t16891211-19-defend102" type="surname" value="Ward"></interp>
+                     <interp inst="t16891211-19-defend102" type="given" value="Henry"></interp>
+                     <interp inst="t16891211-19-defend102" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were all three Indicted for <rs id="t16891211-19-off84" type="offenceDescription">
+                     <interp inst="t16891211-19-off84" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16891211-19-off84" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing 
+                     <persName id="t16891211-19-victim103" type="victimName">
+                        Joh 
+                        Pensick
+                     <interp inst="t16891211-19-victim103" type="surname" value="Pensick"></interp>
+                        <interp inst="t16891211-19-victim103" type="given" value="Joh"></interp>
+                        <interp inst="t16891211-19-victim103" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16891211-19-off84 t16891211-19-victim103"></join>
+                     </persName>
+                   of <placeName id="t16891211-19-crimeloc85">Chatham</placeName>
+                     <interp inst="t16891211-19-crimeloc85" type="placeName" value="Chatham"></interp>
+                     <interp inst="t16891211-19-crimeloc85" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16891211-19-off84 t16891211-19-crimeloc85"></join>, on the <rs id="t16891211-19-cd86" type="crimeDate">27th of Novemb.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16891211-19-off84 t16891211-19-cd86"></join> last, of 40 Yards of Serge value 5 l. 4 s. 5 yards of Crimson shag value 50 s. 17 yards of Drugget-Stuff value Fifty Shillings. Twenty Seven yards of Crape value 39 s. 27 yards of Norwich Stuff value 29 s. 120 yards of Coloured Stuff value 9 l. 8 Gowns value 6 l. 8 Petticoats value 4 l. one stript Silk Woman's Gown value 12 s. one Covering for a Bed value 20 s. 5 Pair of Stockins value 20 s. 3 Silk Wastcoats trim'd with Gold value 3 l. two pair of Breeches trim'd with Gold value 45 s. with several other Goods of great value
+            </rs>. The Evidence declared, that the Prisoners were Intrusted to work with the Prosecutor, (he being a <rs id="t16891211-19-viclabel87" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16891211-19-victim103 t16891211-19-viclabel87"></join>,) at Chatham, and whilst Mr. Pensick was at London, they took their opportunity to Murther the Servant who was Intrusted in Chief, tying a piece of Tape twice about his Neck; with which he was strangled, and laid in the Cellar; after which they carried away the Goods to London, and were found upon them in White-Fryars, which they did he ways deny. So they viz. the two Men were found Guilty, but the Woman <rs id="t16891211-19-verdict88" type="verdictDescription">
+                     <interp inst="t16891211-19-verdict88" type="verdictCategory" value="notGuilty"></interp>
+               discharged
+            </rs>.</p>
+            </div1>

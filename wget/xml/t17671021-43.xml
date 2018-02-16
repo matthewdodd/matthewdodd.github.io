@@ -1,3 +1,591 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17671021-43">
+               <interp inst="t17671021-43" type="collection" value="BAILEY"></interp>
+               <interp inst="t17671021-43" type="year" value="1767"></interp>
+               <interp inst="t17671021-43" type="uri" value="sessionsPapers/17671021"></interp>
+               <interp inst="t17671021-43" type="date" value="17671021"></interp>
+               <join result="criminalCharge" id="t17671021-43-off222-c334" targOrder="Y" targets="t17671021-43-defend427 t17671021-43-off222 t17671021-43-verdict226"></join>
+               <join result="criminalCharge" id="t17671021-43-off222-c335" targOrder="Y" targets="t17671021-43-defend429 t17671021-43-off222 t17671021-43-verdict228"></join>
+               <join result="criminalCharge" id="t17671021-43-off229-c334" targOrder="Y" targets="t17671021-43-defend427 t17671021-43-off229 t17671021-43-verdict226"></join>
+               <join result="criminalCharge" id="t17671021-43-off229-c335" targOrder="Y" targets="t17671021-43-defend429 t17671021-43-off229 t17671021-43-verdict228"></join>
+               <join result="criminalCharge" id="t17671021-43-off235-c334" targOrder="Y" targets="t17671021-43-defend427 t17671021-43-off235 t17671021-43-verdict226"></join>
+               <join result="criminalCharge" id="t17671021-43-off235-c335" targOrder="Y" targets="t17671021-43-defend429 t17671021-43-off235 t17671021-43-verdict228"></join>
+               <join result="criminalCharge" id="t17671021-43-off241-c334" targOrder="Y" targets="t17671021-43-defend427 t17671021-43-off241 t17671021-43-verdict226"></join>
+               <join result="criminalCharge" id="t17671021-43-off241-c335" targOrder="Y" targets="t17671021-43-defend429 t17671021-43-off241 t17671021-43-verdict228"></join>
+         
+               <p>573. 574. (M.) 
+               
+                  <persName id="t17671021-43-defend427" type="defendantName">
+                     William 
+                     Edwards 
+                  <interp inst="t17671021-43-defend427" type="surname" value="Edwards"></interp>
+                     <interp inst="t17671021-43-defend427" type="given" value="William"></interp>
+                     <interp inst="t17671021-43-defend427" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17671021-43-defend429" type="defendantName">
+                     Mary 
+                     Dunderdell 
+                  <interp inst="t17671021-43-defend429" type="surname" value="Dunderdell"></interp>
+                     <interp inst="t17671021-43-defend429" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-defend429" type="gender" value="female"></interp>
+                  </persName>
+                
+             were indicted for <rs id="t17671021-43-off222" type="offenceDescription">
+                     <interp inst="t17671021-43-off222" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-43-off222" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a glove, value 2 d. and 81 l. 10 s. 6 d. in money numbered, the property of 
+                     
+                        <persName id="t17671021-43-victim431" type="victimName">
+                           Daniel 
+                           Lucas 
+                        <interp inst="t17671021-43-victim431" type="surname" value="Lucas"></interp>
+                        <interp inst="t17671021-43-victim431" type="given" value="Daniel"></interp>
+                        <interp inst="t17671021-43-victim431" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in the dwelling-house of the said Daniel
+            </rs>, <rs id="t17671021-43-cd223" type="crimeDate">August 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off222 t17671021-43-cd223"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off229 t17671021-43-cd223"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off235 t17671021-43-cd223"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off241 t17671021-43-cd223"></join>. +</p>
+               <p>
+            
+                  <persName id="t17671021-43-person432">
+                  Daniel 
+                  Lucas 
+               <interp inst="t17671021-43-person432" type="surname" value="Lucas"></interp>
+                     <interp inst="t17671021-43-person432" type="given" value="Daniel"></interp>
+                     <interp inst="t17671021-43-person432" type="gender" value="male"></interp>
+                  </persName>
+            . <rs id="t17671021-43-viclabel224" type="occupation">I keep <placeName id="t17671021-43-crimeloc225">the Fox and Crown upon Highgate hill</placeName>
+                     <interp inst="t17671021-43-crimeloc225" type="placeName" value="the Fox and Crown upon Highgate hill"></interp>
+                     <interp inst="t17671021-43-crimeloc225" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off222 t17671021-43-crimeloc225"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off229 t17671021-43-crimeloc225"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off235 t17671021-43-crimeloc225"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off241 t17671021-43-crimeloc225"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim431 t17671021-43-viclabel224"></join>; on the 6th of August the two prisoners, and 
+               <persName id="t17671021-43-person433">
+                  Richard 
+                  Thomas 
+               <interp inst="t17671021-43-person433" type="surname" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person433" type="given" value="Richard"></interp>
+                     <interp inst="t17671021-43-person433" type="gender" value="male"></interp>
+                  </persName>
+            , and another young woman not taken, came to my house; Edwards came in first, and immediately ran up stairs; Dunderdell followed him, and then the other two, they were there some considerable ti me; we had two chaises in the yard, and some men playing at skettles; I said to my wife, do you mind the company above stairs, and I will mind them in the yard; I saw 
+               <persName id="t17671021-43-person434">
+                  Mary 
+                  Dunderdell 
+               <interp inst="t17671021-43-person434" type="surname" value="Dunderdell"></interp>
+                     <interp inst="t17671021-43-person434" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-person434" type="gender" value="female"></interp>
+                  </persName>
+             two or three times standing on the middle of the stairs, calling, where are the onions, then, where are the cucumbers, saying, I will give you no trouble, I will take them of you, and carry them up stairs; there was not one person up in that room but those four people all that day; my bed-chamber is opposite that room-door; when they came down stairs. Edwards came first, and said, Lucas, make me a shilling's worth of punch; I made it, and offered them glasses; they refused them, and drank it standing at the bar; Dunderdell asked my wife if she drank tea in the afternoon; my wife answered, sometimes she did, and sometimes she did not; said she, if it is not too much trouble put on the tea kettle, we will be back very soon; they went away, but never returned; after they were gone, I found the lock of my room-door where I lie, broke, and the lock of my bureau in that room broke; there were four locks broke in all; I missed fifty-three guineas in a woman's glove, and a purse which had 20 l. in it. On the 24th of August there came a tall lusty woman to my house, and told me she came from Newgate, from Mr. Edwards; she brought a fowl with her; I took her into the back-parlour, there we dined; she put her hand into her pocket before dinner, and proposed to me to make up my loss, in case I would not prosecute Edwards; I took no money of her; she came again on the 25th with a letter; I went to Newgate on the 26th to Edwards; I took three persons with me; he was asked by one of them, whether he was willing to make up my loss; he said, he would do anything to save life, and I dare say<xptr type="pageFacsimile" doc="176710210026"></xptr> you could do the same any of you; we had a couple of bottles of wine; I told him I had a woman sent to me (that woman was then by) and she had told me down 20 l. upon the table, and had more in her hand, but I refused to take it; he said he knew it very well.</p>
+               <p>Q. What did the woman say?</p>
+               <p>Lucas. She said she came down on purpose to solicit for that unhappy man Edwards, and she would do to the utmost of her power; you shall have it, do but save his life, he does not mind going abroad; I was not willing to take the money; I went to Sir 
+               <persName id="t17671021-43-person435">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person435" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person435" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person435" type="gender" value="male"></interp>
+                  </persName>
+            's, I told his clerk the same I have here, and when she proposed to come again, he said, you may depend upon it you shall have somebody at your house at the time she comes again; she came rather sooner than after her time; Mr. Marsden came in soon after her, she came with a woman that was with her before; when Mr. Marsden came in, I told him they were in the back-parlour, and the money is recoverable, she had told me it was; said he, you must not take it; I put Mr. Marsden in the fore-parlour, that he might hear what she said, they were not above a yard and a half distance; she said she had seen Edwards, and let him know what you said, and here I have got a letter from him, and desired I would go one half hour to speak to him; accordingly I did, which was on the 26th, as I mentioned before; there I told Edwards of the letter brought by the woman on the 25th, as I mentioned before; after the woman and I had had some talk in the parlour, I came out, and said to Mr. Marsden, farmer, how does the harvest go on in the country; he said, it goes on very well; I said, I hope we shall have things cheaper; then I went in again to the woman, and began to talk about Edwards again; she made me promise I would go to him the next morning; I went to Sir John first, and went there afterwards; when at Newgate, Edwards told me he thought he was worth about 40 l. and his goods and effects about 40 l. more, and he would do any thing to save life; I should have mentioned I saw the print of a narrow chissel, which had been put in, in order to wrench my chamber-door open.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person436">
+                  Alice 
+                  Lucas 
+               <interp inst="t17671021-43-person436" type="surname" value="Lucas"></interp>
+                     <interp inst="t17671021-43-person436" type="given" value="Alice"></interp>
+                     <interp inst="t17671021-43-person436" type="gender" value="female"></interp>
+                  </persName>
+            . I am the prosecutor's wife; the prisoner Edwards, and the woman by him, which goes for his servant, and another woman, which they call his sister, and 
+               <persName id="t17671021-43-person437">
+                  Thomas
+               <interp inst="t17671021-43-person437" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person437" type="gender" value="male"></interp>
+                  </persName>
+             the evidence, came to our house; Edwards, at coming in, flew quick up stairs; after him the others went up; then I went up to see what they wanted; they ordered a bottle of Burton ale, and three pennyworth of bread and cheese; the woman at the bar asked me if we had any cucumbers; I sent out, but could get none; she said to Edwards, you might have let me brought some from home; they asked me for plates and onions.</p>
+               <p>Q. Did you know them before?</p>
+               <p>A. Lucas. Edwards and his father had been at our house before several times, and brought their victuals in their pockets; the prisoners, and the other two, were in that room I believe an hour, or an hour and a half; the woman was waiting about the middle of the stairs often; when I brought the onions she was there, and took them, and said to me, you are in a hurry, I will take them; she carried them up stairs; there was no body in the tap-room below, or up stairs, but themselves; there were two chaises stopt, and I ran out with the bottle of Burton ale to them; I was not out of the house above a minute; my husband served the people in the skettle-ground, and I in the house; when the prisoners and their company came down, he called for a shilling's worth of punch, they stood and drank it without glasses; then the woman at the bar said, we are going to the sign of the Flask, set on the tea-kettle, we shall soon be back again, but they never returned; it was not half an hour before that we had all the money, it was all my husband and I had been working for for twenty-five years; after we missed it, I not knowing their names, or where they lived, with a great deal to do I found out one Mrs. Preston, who directed me to Edwards, who lived by Litchfield-street, Seven Dials; he is a painter and glazier; Mr. Preston was a glazier, and they had come together to my house; there were all manner of clothes, enough to dress out twenty beggars, which we found under a bed; I took some of Sir 
+               <persName id="t17671021-43-person438">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person438" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person438" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person438" type="gender" value="male"></interp>
+                  </persName>
+            's men with me; when we were in fight of the door, we saw a woman standing, but when we got up she was gone in; I charged the men with her and Edwards; this was on the 7th of August.</p>
+               <p>Richard Thomas. Edwards asked me to go with him to Kentish Town, on the 6th of August; he had some painting to do there for an attorney, I helped him to do it, there was the woman at the bar, and another woman with us; then we went to the Fox and Crown at Highgate, we went into a room up stairs; after we had been there some time, Edwards said to me, I wish you would go down and order some Burton ale; he was then<xptr type="pageFacsimile" doc="176710210027"></xptr> standing at the chamber-door, opposite to the room where we were; when the woman was bringing it up, Dunderdell ordered me to order her not to bring Burton ale, but some punch; I staid talking with him while he was making it, in the mean time the two women and he came down stairs; after that we drank the punch, and went out of the house; when we were going along, Edwards said he had got some money, he knew I was short of money; I desired he would let me have five guineas; he did, and gave the other woman that is not here, one guinea to buy her a new gown.</p>
+               <p>Q. Did he tell you where he got the money?</p>
+               <p>Thomas. He did, he said he got it at that house out of the room, opposite to that we went into.</p>
+               <p>Q. Did he tell you how much he had got?</p>
+               <p>Thomas. No, he did not, we went with that design; when we first went out, he said he should go there for some money.</p>
+               <p>Q. Did he say the man owned him any money?</p>
+               <p>Thomas. No, he did not; he told me he knew the man had money.</p>
+               <p>Q. What is 
+               <persName id="t17671021-43-person439">
+                  Mary 
+                  Dunderdell 
+               <interp inst="t17671021-43-person439" type="surname" value="Dunderdell"></interp>
+                     <interp inst="t17671021-43-person439" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-person439" type="gender" value="female"></interp>
+                  </persName>
+            ?</p>
+               <p>Thomas. She is his maid; I saw something in his hand, when he gave me the money, like a woman's glove; I remember hearing Dunderdell mention something about drinking tea, and talked about calling as she came back.</p>
+               <p>Q. When was you taken up?</p>
+               <p>Thomas. I was taken up with Mr. Edwards; I am a vintner by trade, and after that I made this discovery to Sir 
+               <persName id="t17671021-43-person440">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person440" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person440" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person440" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17671021-43-person441">
+                  Joseph 
+                  Stevenson 
+               <interp inst="t17671021-43-person441" type="surname" value="Stevenson"></interp>
+                     <interp inst="t17671021-43-person441" type="given" value="Joseph"></interp>
+                     <interp inst="t17671021-43-person441" type="gender" value="male"></interp>
+                  </persName>
+            . I found these things in Edward's apartment (producing a screw-driver, a picklock key, and a piece of steel turned like a hook, very proper for picking locks.)</p>
+               <p>Thomas. I have seen this key and hook before in Edwards's possession.</p>
+               <p>On his cross examination he was showed a letter which he owned he wrote to Edwards in prison, that the paper, pen, and ink, was brought to him by a fat tall woman.</p>
+               <p>Prisoner's defence.</p>
+               <p>I have known this evidence two or three years, he had been in the King's Bench; when he came to me he came without any thing on his back; I took him to work with me, I was painting at an attorney's house at Kentish Town; when we had done the job, we went up to Lucas's and drank; there were two or three post-chaises at the door, and people at skettles; the place was full below, the woman bid us go up stairs; there was a bottle and glasses on the table, we had some ale, and bread and cheese, and came down and had a shilling's worth of punch, and drank it; then we came away home.</p>
+               <p>Dunderdell's defence.</p>
+               <p>I never saw a robbery done in my life.</p>
+               <p>For the prisoners.</p>
+               <p>The letter read, directed for Mr. William Edwards, Newgate.</p>
+               <p>Mr. Edwards,</p>
+               <p>Aug. 24, 1767.</p>
+               <p>"I am very sorry, it was by persuasion I was</p>
+               <p>"an evidence before Sir 
+               <persName id="t17671021-43-person442">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person442" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person442" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person442" type="gender" value="male"></interp>
+                  </persName>
+             against</p>
+               <p>"you, which I never should, had it not been for</p>
+               <p>"his people; as for that robbery at Highgate,</p>
+               <p>"which you are in Newgate for on suspicion, I</p>
+               <p>"never did see you do it; I never saw you break</p>
+               <p>"no locks nor doors there, nor any other place;</p>
+               <p>"and as for Manning's, I did not see you break</p>
+               <p>"any doors, nor never did I know that you had</p>
+               <p>"any money but what was your own property;</p>
+               <p>"and what I said before Sir John at the time, I</p>
+               <p>"was much in liquor.</p>
+               <p>"
+               <persName id="t17671021-43-person443">
+                  Richard 
+                  Thomas 
+               <interp inst="t17671021-43-person443" type="surname" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person443" type="given" value="Richard"></interp>
+                     <interp inst="t17671021-43-person443" type="gender" value="male"></interp>
+                  </persName>
+            ."</p>
+               <p>
+            
+                  <persName id="t17671021-43-person444">
+                  John 
+                  Cooper 
+               <interp inst="t17671021-43-person444" type="surname" value="Cooper"></interp>
+                     <interp inst="t17671021-43-person444" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person444" type="gender" value="male"></interp>
+                  </persName>
+            . I am a glazier; this mohawk instrument (the crooked piece of steel) is made use of in our business in the lead work; I worked for the prisoner last June in Oxford-road.</p>
+               <p>Q. Is that a proper glazier's tool?</p>
+               <p>Cooper. We can do very well without it.</p>
+               <p>Q. Upon your oath, did you ever use one of these tools in your life?</p>
+               <p>Cooper. No, I never did.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person445">
+                  John 
+                  Wood 
+               <interp inst="t17671021-43-person445" type="surname" value="Wood"></interp>
+                     <interp inst="t17671021-43-person445" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person445" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Edwards above four years; I am an oilman in Bishopsgate-street, I never heard any dishonesty by him before this.</p>
+               <p>Mr. Edwards. I keep a public-house, I have known him ever since he was in business, which is five years and a half; I never heard any bad character of him.</p>
+               <p>Q. In that five years and a half, how many different places has he lived at?</p>
+               <p>Edwards. I know of two.</p>
+               <p>Q. How many more?</p>
+               <p>Edwards. I will not tell any thing about him.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person446">
+                  Thomas 
+                  Cutlin 
+               <interp inst="t17671021-43-person446" type="surname" value="Cutlin"></interp>
+                     <interp inst="t17671021-43-person446" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person446" type="gender" value="male"></interp>
+                  </persName>
+            . I am a butcher in Newport market; I have known him above three years; he has a very good character.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person447">
+                  Peter 
+                  Dawson 
+               <interp inst="t17671021-43-person447" type="surname" value="Dawson"></interp>
+                     <interp inst="t17671021-43-person447" type="given" value="Peter"></interp>
+                     <interp inst="t17671021-43-person447" type="gender" value="male"></interp>
+                  </persName>
+            . I am a draper and salesman in Monmouth street; I have known him eleven or<xptr type="pageFacsimile" doc="176710210028"></xptr> twelve years; we were young fellows; together; I always looked upon him to be a very honest industrious young fellow, and particularly latterly.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person448">
+                  Charles 
+                  Mardon 
+               <interp inst="t17671021-43-person448" type="surname" value="Mardon"></interp>
+                     <interp inst="t17671021-43-person448" type="given" value="Charles"></interp>
+                     <interp inst="t17671021-43-person448" type="gender" value="male"></interp>
+                  </persName>
+             a cane merchant in Fleet-street, who had known him upwards of twenty five years; 
+               <persName id="t17671021-43-person449">
+                  James 
+                  Dowley 
+               <interp inst="t17671021-43-person449" type="surname" value="Dowley"></interp>
+                     <interp inst="t17671021-43-person449" type="given" value="James"></interp>
+                     <interp inst="t17671021-43-person449" type="gender" value="male"></interp>
+                  </persName>
+             of Gerrard street, 
+               <persName id="t17671021-43-person450">
+                  John 
+                  Bass 
+               <interp inst="t17671021-43-person450" type="surname" value="Bass"></interp>
+                     <interp inst="t17671021-43-person450" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person450" type="gender" value="male"></interp>
+                  </persName>
+             a dealer in coals, 
+               <persName id="t17671021-43-person451">
+                  William 
+                  Chapman 
+               <interp inst="t17671021-43-person451" type="surname" value="Chapman"></interp>
+                     <interp inst="t17671021-43-person451" type="given" value="William"></interp>
+                     <interp inst="t17671021-43-person451" type="gender" value="male"></interp>
+                  </persName>
+             of Stanhope-street, 
+               <persName id="t17671021-43-person452">
+                  John 
+                  Whinnel 
+               <interp inst="t17671021-43-person452" type="surname" value="Whinnel"></interp>
+                     <interp inst="t17671021-43-person452" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person452" type="gender" value="male"></interp>
+                  </persName>
+             a lapidary, in King-street, St. Anne's, and 
+               <persName id="t17671021-43-person453">
+                  Sarah 
+                  Chapman 
+               <interp inst="t17671021-43-person453" type="surname" value="Chapman"></interp>
+                     <interp inst="t17671021-43-person453" type="given" value="Sarah"></interp>
+                     <interp inst="t17671021-43-person453" type="gender" value="female"></interp>
+                  </persName>
+            , gave him a good character; and 
+               <persName id="t17671021-43-person454">
+                  Francis 
+                  Assin 
+               <interp inst="t17671021-43-person454" type="surname" value="Assin"></interp>
+                     <interp inst="t17671021-43-person454" type="given" value="Francis"></interp>
+                     <interp inst="t17671021-43-person454" type="gender" value="male"></interp>
+                  </persName>
+            , who keeps the Montpelier coffee-house, deposed, he had known him almost seven years; he had employed him, and never found any thing amiss of him; but never enquired much into his character.</p>
+               <p>Edwards <rs id="t17671021-43-verdict226" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict226" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17671021-43-punish227" type="punishmentDescription">
+                     <interp inst="t17671021-43-punish227" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17671021-43-defend427 t17671021-43-punish227"></join>
+               Death
+            </rs>.</p>
+               <p>Dunderdell <rs id="t17671021-43-verdict228" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict228" type="verdictCategory" value="notGuilty"></interp>
+               Acq.
+            </rs>
+               </p>
+               <p>(M.) They were a second time indicted for <rs id="t17671021-43-off229" type="offenceDescription">
+                     <interp inst="t17671021-43-off229" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-43-off229" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a gold watch, with the outside metal, covered with shagreen, value 10 l. and 40 l. in money, the property of 
+                     
+                        <persName id="t17671021-43-victim456" type="victimName">
+                           Elizabeth 
+                           Bartholomew 
+                        <interp inst="t17671021-43-victim456" type="surname" value="Bartholomew"></interp>
+                        <interp inst="t17671021-43-victim456" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17671021-43-victim456" type="gender" value="female"></interp>
+                     </persName>
+                      
+                  , <rs id="t17671021-43-viclabel230" type="occupation">widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim456 t17671021-43-viclabel230"></join>, in the dwelling of her the said Elizabeth
+            </rs>, <rs id="t17671021-43-cd231" type="crimeDate">August 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off222 t17671021-43-cd231"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off229 t17671021-43-cd231"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off235 t17671021-43-cd231"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off241 t17671021-43-cd231"></join>. +</p>
+               <p>
+            
+                  <persName id="t17671021-43-person457">
+                  Elizabeth 
+                  Bartholomew 
+               <interp inst="t17671021-43-person457" type="surname" value="Bartholomew"></interp>
+                     <interp inst="t17671021-43-person457" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17671021-43-person457" type="gender" value="female"></interp>
+                  </persName>
+            . <rs id="t17671021-43-viclabel232" type="occupation">I keep <placeName id="t17671021-43-crimeloc233">the White Conduit-house</placeName>
+                     <interp inst="t17671021-43-crimeloc233" type="placeName" value="the White Conduit-house"></interp>
+                     <interp inst="t17671021-43-crimeloc233" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off222 t17671021-43-crimeloc233"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off229 t17671021-43-crimeloc233"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off235 t17671021-43-crimeloc233"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off241 t17671021-43-crimeloc233"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim456 t17671021-43-viclabel232"></join>. On the 6th of August, two men and two women past me, as I sat at the bar, and went up stairs, but I should not know them; I know there was nobody up stairs that day, but that company; I fetched some money down that day about six in the evening, to pay a butter bill; then the money was all in my bed-room in a bureau chest of drawers, under two locks; about a quarter after ten I went to wind my watch up, and it was gone; then I turned about to the drawers; the key would not go into the lock, I found that broke; the drawers were unlocked; then I missed my money, 49 l. in silver, in a canvas-bag; I found afterwards there were two crown pieces missing from a little drawer, but I did not miss them immediately; I sent word to the Angel inn, which my son keeps, that there had been a company of four people, two men and two women, up in them rooms, and called for a bottle of wine; it was up one pair of stairs; they went into the one pair of stairs, but my bed-room is up two pair; I sent to Sir 
+               <persName id="t17671021-43-person458">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person458" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person458" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person458" type="gender" value="male"></interp>
+                  </persName>
+            , and had the watch advertised, but never heard any thing of it since, neither have I recovered any part of my money.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person459">
+                  Charles 
+                  Mason 
+               <interp inst="t17671021-43-person459" type="surname" value="Mason"></interp>
+                     <interp inst="t17671021-43-person459" type="given" value="Charles"></interp>
+                     <interp inst="t17671021-43-person459" type="gender" value="male"></interp>
+                  </persName>
+            . I am a waiter at the White Conduit-house; I waited on the prisoner, there was a man and two women with him; Edwards and Thomas were the two men; there was only that company up in that room that day; I carried them up a bottle of wine.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person460">
+                  Catharine 
+                  Burdett 
+               <interp inst="t17671021-43-person460" type="surname" value="Burdett"></interp>
+                     <interp inst="t17671021-43-person460" type="given" value="Catharine"></interp>
+                     <interp inst="t17671021-43-person460" type="gender" value="female"></interp>
+                  </persName>
+            . I live at the house; I can swear Edwards was one of the four, but I cannot speak as to the woman; there was no other company up stairs that day but that company.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person461">
+                  Charles 
+                  Martin 
+               <interp inst="t17671021-43-person461" type="surname" value="Martin"></interp>
+                     <interp inst="t17671021-43-person461" type="given" value="Charles"></interp>
+                     <interp inst="t17671021-43-person461" type="gender" value="male"></interp>
+                  </persName>
+            . I was at the White Conduit-house that evening; I saw them all four come down stairs about 8 o'clock; there were the two prisoners at the bar, and 
+               <persName id="t17671021-43-person462">
+                  Thomas
+               <interp inst="t17671021-43-person462" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person462" type="gender" value="male"></interp>
+                  </persName>
+             the evidence; I remember I was speaking about Mr. Manning being robbed at the same time.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person463">
+                  Richard 
+                  Thomas 
+               <interp inst="t17671021-43-person463" type="surname" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person463" type="given" value="Richard"></interp>
+                     <interp inst="t17671021-43-person463" type="gender" value="male"></interp>
+                  </persName>
+            . As we came from Highgate that night, we went in at the White Conduit-house, for a bottle of syllabub, and a bottle of wine; Mr. Edwards went up another pair of stairs, and staid there till we had drank some syllabub; he came down again; and as we were going home said, he had found a couple of crown pieces, that would do towards paying the reckoning; I know nothing more of any money, neither had I any part of the crown pieces.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person464">
+                  John 
+                  Heley 
+               <interp inst="t17671021-43-person464" type="surname" value="Heley"></interp>
+                     <interp inst="t17671021-43-person464" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person464" type="gender" value="male"></interp>
+                  </persName>
+            . I am one of Sir 
+               <persName id="t17671021-43-person465">
+                  John 
+                  Fielding 
+               <interp inst="t17671021-43-person465" type="surname" value="Fielding"></interp>
+                     <interp inst="t17671021-43-person465" type="given" value="John"></interp>
+                     <interp inst="t17671021-43-person465" type="gender" value="male"></interp>
+                  </persName>
+            's people, I was at the taking Edwards; when at Sir John's, Sir John ordered him to be searched; I searched him; we found five guineas, a quarter guinea, thirty-one half-crown, a crown piece, fourteen shillings, and twenty-eight six-pences upon him; he begged of Sir John to let him have some money to keep him in goal; Sir John ordered him the five guineas, which was delivered to him; and the quarter guinea to the evidence Thomas.</p>
+               <p>Edwards's defence.</p>
+               <p>I am very innocent of what they alledge against me; I was there, but was never up stairs from the company.</p>
+               <p>Both <rs id="t17671021-43-verdict234" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict234" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(M.) They were a third time indicted, together with 
+               <persName id="t17671021-43-person466">
+                  Elizabeth 
+                  Edwards 
+               <interp inst="t17671021-43-person466" type="surname" value="Edwards"></interp>
+                     <interp inst="t17671021-43-person466" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17671021-43-person466" type="gender" value="female"></interp>
+                  </persName>
+             (not taken,) for <rs id="t17671021-43-off235" type="offenceDescription">
+                     <interp inst="t17671021-43-off235" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-43-off235" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a silk gown and petticoat, value 50 s. a pair of silk breeches, value 10 s. a linen cap, value 20 s. five silk ribbons, value 2 s. a silver stock-buckle, value 2 s. and a crown piece, the property of 
+                     
+                        <persName id="t17671021-43-victim468" type="victimName">
+                           Thomas 
+                           Prigg 
+                        <interp inst="t17671021-43-victim468" type="surname" value="Prigg"></interp>
+                        <interp inst="t17671021-43-victim468" type="given" value="Thomas"></interp>
+                        <interp inst="t17671021-43-victim468" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in the dwelling-house of the said Thomas
+            </rs>, <rs id="t17671021-43-cd236" type="crimeDate">July 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off222 t17671021-43-cd236"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off229 t17671021-43-cd236"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off235 t17671021-43-cd236"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off241 t17671021-43-cd236"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17671021-43-person469">
+                  Thomas 
+                  Prigg 
+               <interp inst="t17671021-43-person469" type="surname" value="Prigg"></interp>
+                     <interp inst="t17671021-43-person469" type="given" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person469" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17671021-43-viclabel237" type="occupation">keep <placeName id="t17671021-43-crimeloc238">the Blue Anchor, in Whitechapel</placeName>
+                     <interp inst="t17671021-43-crimeloc238" type="placeName" value="the Blue Anchor, in Whitechapel"></interp>
+                     <interp inst="t17671021-43-crimeloc238" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off222 t17671021-43-crimeloc238"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off229 t17671021-43-crimeloc238"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off235 t17671021-43-crimeloc238"></join>
+                     <join result="offencePlace" targOrder="Y" targets="t17671021-43-off241 t17671021-43-crimeloc238"></join>
+                  </rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim468 t17671021-43-viclabel237"></join>; the prisoners came to my house and went up stairs; they had some liquor and supped; they paid the reckoning and went away; when I went to bed about eleven, I went to open the drawer where I keep my money; I could not unlock it: they had been in a one pair of stairs room, my bed-room joins it; I put my money in the middle drawer of the chest, and I found that unlocked;<xptr type="pageFacsimile" doc="176710210029"></xptr> I went to lock that and could not; I went to bed, and said nothing to my wife; I said nothing about it, I think, till the Wednesday following, this was Monday the 17th of July; then I missed two crown pieces, four half crowns, and my silver stock-buckle; we went to bed that night, and the next morning we went to see what was lost; then we missed a white silk gown and petticoat, and a pair of silk breeches, some caps and neckcloths; we have found the gown and petticoat again, and some caps and neckcloths.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person470">
+                  Anne 
+                  Prigg 
+               <interp inst="t17671021-43-person470" type="surname" value="Prigg"></interp>
+                     <interp inst="t17671021-43-person470" type="given" value="Anne"></interp>
+                     <interp inst="t17671021-43-person470" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the prosecutor; I lost a silk gown and petticoat, caps, ribbons, a pair of white worsted stockings, and other things, but cannot say I know either of the prisoners.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person471">
+                  Joseph 
+                  Stevenson 
+               <interp inst="t17671021-43-person471" type="surname" value="Stevenson"></interp>
+                     <interp inst="t17671021-43-person471" type="given" value="Joseph"></interp>
+                     <interp inst="t17671021-43-person471" type="gender" value="male"></interp>
+                  </persName>
+            . I found the silk gown and petticoat in a box in Edwards's apartment; Dunderdell said it was her box; she lived with him as a maid-servant.</p>
+               <p>Rich. Thomas. I was with the two prisoners at that time at that house; there was only us three there; Edwards gave me the gown and petticoat to bring home, and he gave me half a guinea afterwards; he said he got them out of a room adjacent to the room we were in.</p>
+               <p>Edwards's defence.</p>
+               <p>I have two witnesses here, that can prove Thomas said it was his wife's gown; at that time I believe he had not been above a fortnight out of the King's-Bench; he said he gave three guineas for it.</p>
+               <p>Edwards <rs id="t17671021-43-verdict239" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict239" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17671021-43-verdict239" type="verdictSubcategory" value="theftunder40s"></interp>
+               Guilty 39 s.
+            </rs>
+               </p>
+               <p>Dunderdell. <rs id="t17671021-43-verdict240" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict240" type="verdictCategory" value="notGuilty"></interp>
+               Acq.
+            </rs>
+               </p>
+               <p>(M.) They were a fourth time indicted for <rs id="t17671021-43-off241" type="offenceDescription">
+                     <interp inst="t17671021-43-off241" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17671021-43-off241" type="offenceSubcategory" value="other"></interp>
+               stealing a linen cap, a silk gown, and a handkerchief
+            </rs>, the property of 
+               
+                  <persName id="t17671021-43-victim473" type="victimName">
+                     Mary 
+                     Trevett 
+                  <interp inst="t17671021-43-victim473" type="surname" value="Trevett"></interp>
+                     <interp inst="t17671021-43-victim473" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-victim473" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17671021-43-viclabel242" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim473 t17671021-43-viclabel242"></join>, <rs id="t17671021-43-cd243" type="crimeDate">August 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off222 t17671021-43-cd243"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off229 t17671021-43-cd243"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off235 t17671021-43-cd243"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17671021-43-off241 t17671021-43-cd243"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17671021-43-person474">
+                  Mary 
+                  Trevett 
+               <interp inst="t17671021-43-person474" type="surname" value="Trevett"></interp>
+                     <interp inst="t17671021-43-person474" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-person474" type="gender" value="female"></interp>
+                  </persName>
+            . I am <rs id="t17671021-43-viclabel244" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17671021-43-victim473 t17671021-43-viclabel244"></join> of Mr. Treble at <placeName id="t17671021-43-crimeloc245">the Bull in the Pound, Coldbath-fields</placeName>
+                  <interp inst="t17671021-43-crimeloc245" type="placeName" value="the Bull in the Pound, Coldbath-fields"></interp>
+                  <interp inst="t17671021-43-crimeloc245" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17671021-43-off222 t17671021-43-crimeloc245"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17671021-43-off229 t17671021-43-crimeloc245"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17671021-43-off235 t17671021-43-crimeloc245"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17671021-43-off241 t17671021-43-crimeloc245"></join>. On the 4th of August in the evening, the two prisoners and evidence, and another woman, came to our house; they were in a room up stairs, and nobody else that evening; after they were gone, I missed a silk gown, a cap, and handkerchief from out of my box in my room, up two pair of stairs; there was a neighbour in the house that shook hands with Edwards, and called him by his name; I told my master and mistress what I had lost, and my master went round among the pawnbrokers; then we heard of the White Conduit-house being robbed; we found by that neighbour where Edwards lived; I went with the constable to his room, there I found my cap and handkerchief, and a pawnbroker's duplicate of the gown where it was in pawn; when I saw the prisoners again; I was sure, and am now, that they were two of the people who were up stairs that evening.</p>
+               <p>
+            
+                  <persName id="t17671021-43-person475">
+                  Richard 
+                  Blake 
+               <interp inst="t17671021-43-person475" type="surname" value="Blake"></interp>
+                     <interp inst="t17671021-43-person475" type="given" value="Richard"></interp>
+                     <interp inst="t17671021-43-person475" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawnbroker, servant to Mr. Alison in Friday's-court, Leicester-fields; the woman at the bar pledged this gown by the name of 
+               <persName id="t17671021-43-person476">
+                  Mary 
+                  Edwards 
+               <interp inst="t17671021-43-person476" type="surname" value="Edwards"></interp>
+                     <interp inst="t17671021-43-person476" type="given" value="Mary"></interp>
+                     <interp inst="t17671021-43-person476" type="gender" value="female"></interp>
+                  </persName>
+             to me, (produced and deposed to.)</p>
+               <p>
+            
+                  <persName id="t17671021-43-person477">
+                  Richard 
+                  Thomas 
+               <interp inst="t17671021-43-person477" type="surname" value="Thomas"></interp>
+                     <interp inst="t17671021-43-person477" type="given" value="Richard"></interp>
+                     <interp inst="t17671021-43-person477" type="gender" value="male"></interp>
+                  </persName>
+            . I and the two prisoners went to this house; we went up into a small room; Edwards went up from us, and brought down gowns and other things; he gave me this gown to carry home; when we got home, he sent the woman at the bar out to pawn it; she returned and said, she had pawned it for 15 s. and 9 d.</p>
+               <p>Edwards's defence.</p>
+               <p>I am innocent of it; I do not deny being in the house with this man; we went up into a one pair of stairs room, and drank a shilling's worth of punch; while we were there Thomas went out of the room once or twice, then he asked me if I would go, I said I would; he said, do you pay the reckoning; he was gone on before; we overtook him about Bagnigge-wells; he said he had forgot something, and must go back; I, and Dunderdell went on, and got home about 9 o'clock; he came to my house, and brought this gown with him, and said it was one of his wife's gowns, and said he should be glad if I would pawn it for him; accordingly I sent the girl to pawn it; she went and brought a guinea upon it.</p>
+               <p>Edwards <rs id="t17671021-43-verdict246" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict246" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>Dunderdell <rs id="t17671021-43-verdict247" type="verdictDescription">
+                     <interp inst="t17671021-43-verdict247" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

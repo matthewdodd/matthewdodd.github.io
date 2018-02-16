@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670603-8">
+               <interp inst="t17670603-8" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670603-8" type="year" value="1767"></interp>
+               <interp inst="t17670603-8" type="uri" value="sessionsPapers/17670603"></interp>
+               <interp inst="t17670603-8" type="date" value="17670603"></interp>
+               <join result="criminalCharge" id="t17670603-8-off39-c82" targOrder="Y" targets="t17670603-8-defend104 t17670603-8-off39 t17670603-8-verdict43"></join>
+               <join result="criminalCharge" id="t17670603-8-off39-c83" targOrder="Y" targets="t17670603-8-defend105 t17670603-8-off39 t17670603-8-verdict43"></join>
+               <join result="criminalCharge" id="t17670603-8-off39-c84" targOrder="Y" targets="t17670603-8-person106 t17670603-8-off39 t17670603-8-verdict43"></join>
+         
+               <p>284. (M.) 
+               <persName id="t17670603-8-defend104" type="defendantName">
+                  Sarah, 
+                     <persName id="t17670603-8-defend105" type="defendantName">
+                        wife
+                     <interp inst="t17670603-8-defend105" type="given" value="wife"></interp>
+                        <interp inst="t17670603-8-defend105" type="gender" value="female"></interp>
+                     </persName>
+                   of 
+                     <persName id="t17670603-8-person106" type="defendantName">
+                        John 
+                        Wilson 
+                     <interp inst="t17670603-8-person106" type="surname" value="Wilson"></interp>
+                        <interp inst="t17670603-8-person106" type="given" value="John"></interp>
+                        <interp inst="t17670603-8-person106" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17670603-8-defend104" type="surname" value="Wilson"></interp>
+                     <interp inst="t17670603-8-defend104" type="given" value="Sarah"></interp>
+                     <interp inst="t17670603-8-defend104" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17670603-8-off39" type="offenceDescription">
+                     <interp inst="t17670603-8-off39" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670603-8-off39" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a copper tea-kettle, value 2 s. a gridiron, value 10 d. and a hanging iron, value 4 d.
+            </rs> the property of 
+               
+                  <persName id="t17670603-8-victim108" type="victimName">
+                     Gerard 
+                     Vandergucht 
+                  <interp inst="t17670603-8-victim108" type="surname" value="Vandergucht"></interp>
+                     <interp inst="t17670603-8-victim108" type="given" value="Gerard"></interp>
+                     <interp inst="t17670603-8-victim108" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670603-8-off39 t17670603-8-victim108"></join>
+                  </persName>
+                
+            , <rs id="t17670603-8-cd40" type="crimeDate">May 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670603-8-off39 t17670603-8-cd40"></join>. *</p>
+               <p>
+            
+                  <persName id="t17670603-8-person109">
+                  Gerard 
+                  Vandergucht 
+               <interp inst="t17670603-8-person109" type="surname" value="Vandergucht"></interp>
+                     <interp inst="t17670603-8-person109" type="given" value="Gerard"></interp>
+                     <interp inst="t17670603-8-person109" type="gender" value="male"></interp>
+                  </persName>
+            . I live at <placeName id="t17670603-8-crimeloc41">St. Mary-le-bone</placeName>
+                  <interp inst="t17670603-8-crimeloc41" type="placeName" value="St. Mary-le-bone"></interp>
+                  <interp inst="t17670603-8-crimeloc41" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670603-8-off39 t17670603-8-crimeloc41"></join>, and <rs id="t17670603-8-viclabel42" type="occupation">keep a broker's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670603-8-victim108 t17670603-8-viclabel42"></join>. On the 13th of May, the things mentioned in the indictment were taken from my door, where they were set out for sale; I was not at home at the time; she was taken with the gridiron and hanging iron, and brought back immediately; when I came home, I having missed a tea-kettle, asked her what she had done with that; she owned she had taken and sold it, to Mr. Clark, a brazier in Mary-le-bone parish; I and found it there; it was a very old one, and it was broke up as old metal.</p>
+               <p>Mr. Clark. The prisoner sold me a tea-kettle; she said she and her mother had had it twenty-five years; it weighed but sixteen ounces and a half when taken to pieces; I gave her 9 d. for it. The prosecutor and she came together the next day for it; we went before Justice Spinnage, there she acknowledged she stole it from the prosecutor.</p>
+               <p>Prisoner's defence.</p>
+               <p>Coming along Oxford-road, I picked up a tea-kettle which had a bruise on the side; as to the gridiron and hanging iron, I know no more of them than the honourable gentlemen of the Court. I sold the tea-kettle for 9 d.</p>
+               <p>Prosecutor. The prisoner acknowledged before Justice Spinnage, that she stole the three articles. <rs id="t17670603-8-verdict43" type="verdictDescription">
+                     <interp inst="t17670603-8-verdict43" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17670603-8-verdict43" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 4 d
+            </rs>. <rs id="t17670603-8-punish44" type="punishmentDescription">
+                     <interp inst="t17670603-8-punish44" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17670603-8-punish44" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670603-8-defend104 t17670603-8-punish44"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670603-8-defend105 t17670603-8-punish44"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670603-8-person106 t17670603-8-punish44"></join>
+               W
+            </rs>.</p>
+            </div1>

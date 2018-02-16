@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17650227-38">
+               <interp inst="t17650227-38" type="collection" value="BAILEY"></interp>
+               <interp inst="t17650227-38" type="year" value="1765"></interp>
+               <interp inst="t17650227-38" type="uri" value="sessionsPapers/17650227"></interp>
+               <interp inst="t17650227-38" type="date" value="17650227"></interp>
+               <join result="criminalCharge" id="t17650227-38-off237-c332" targOrder="Y" targets="t17650227-38-defend426 t17650227-38-off237 t17650227-38-verdict239"></join>
+         
+               <p>204. (M.) 
+               <persName id="t17650227-38-defend426" type="defendantName">
+                  Barbara, <rs id="t17650227-38-deflabel236" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17650227-38-defend426 t17650227-38-deflabel236"></join> of 
+                     <persName id="t17650227-38-person427">
+                        John 
+                        Harris 
+                     <interp inst="t17650227-38-person427" type="surname" value="Harris"></interp>
+                        <interp inst="t17650227-38-person427" type="given" value="John"></interp>
+                        <interp inst="t17650227-38-person427" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17650227-38-defend426" type="surname" value="Harris"></interp>
+                     <interp inst="t17650227-38-defend426" type="given" value="Barbara"></interp>
+                     <interp inst="t17650227-38-defend426" type="gender" value="female"></interp>
+                  </persName>
+             was indicted for <rs id="t17650227-38-off237" type="offenceDescription">
+                     <interp inst="t17650227-38-off237" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17650227-38-off237" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing a pair of sheets, value 2 s. two blankets, two pillows, two Chints curtains, a poker, and a trivet, the property of 
+                     
+                        <persName id="t17650227-38-victim429" type="victimName">
+                           Theophilus 
+                           Friend 
+                        <interp inst="t17650227-38-victim429" type="surname" value="Friend"></interp>
+                        <interp inst="t17650227-38-victim429" type="given" value="Theophilus"></interp>
+                        <interp inst="t17650227-38-victim429" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17650227-38-off237 t17650227-38-victim429"></join>
+                     </persName>
+                      
+                  , out of her ready furnished lodgings
+            </rs>, <rs id="t17650227-38-cd238" type="crimeDate">January 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17650227-38-off237 t17650227-38-cd238"></join>. *</p>
+               <p>
+                  <rs id="t17650227-38-verdict239" type="verdictDescription">
+                     <interp inst="t17650227-38-verdict239" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

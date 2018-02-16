@@ -1,3 +1,68 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910909-37">
+               <interp inst="t16910909-37" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910909-37" type="year" value="1691"></interp>
+               <interp inst="t16910909-37" type="uri" value="sessionsPapers/16910909"></interp>
+               <interp inst="t16910909-37" type="date" value="16910909"></interp>
+               <join result="criminalCharge" id="t16910909-37-off167-c114" targOrder="Y" targets="t16910909-37-defend114 t16910909-37-off167 t16910909-37-verdict169"></join>
+               <join result="criminalCharge" id="t16910909-37-off170-c114" targOrder="Y" targets="t16910909-37-defend114 t16910909-37-off170 t16910909-37-verdict169"></join>
+         
+               <p>
+            
+                  <persName id="t16910909-37-defend114" type="defendantName">
+                  Elizabeth 
+                  Cripps
+               <interp inst="t16910909-37-defend114" type="surname" value="Cripps"></interp>
+                     <interp inst="t16910909-37-defend114" type="given" value="Elizabeth"></interp>
+                     <interp inst="t16910909-37-defend114" type="gender" value="female"></interp>
+                  </persName>
+            , was Tryed for <rs id="t16910909-37-off167" type="offenceDescription">
+                     <interp inst="t16910909-37-off167" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-37-off167" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing from 
+                     <persName id="t16910909-37-victim115" type="victimName">
+                        William 
+                        Farmer
+                     <interp inst="t16910909-37-victim115" type="surname" value="Farmer"></interp>
+                        <interp inst="t16910909-37-victim115" type="given" value="William"></interp>
+                        <interp inst="t16910909-37-victim115" type="gender" value="male"></interp>
+                     </persName>
+                  , on the <rs id="t16910909-37-cd168" type="crimeDate">21st of May</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-37-off167 t16910909-37-cd168"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-37-off170 t16910909-37-cd168"></join> last, one Smock, value 7s. a Silk Pettycoat, value 3s. and an Amber Necklace, with other Goods
+            </rs>, which was fully prov'd, so she was found <rs id="t16910909-37-verdict169" type="verdictDescription">
+                     <interp inst="t16910909-37-verdict169" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910909-37-verdict169" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10d.
+            </rs>
+               </p>
+               <p>She was a Second time Indicted for <rs id="t16910909-37-off170" type="offenceDescription">
+                     <interp inst="t16910909-37-off170" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910909-37-off170" type="offenceSubcategory" value="grandLarceny"></interp>
+               Robbing one 
+                     <persName id="t16910909-37-victim116" type="victimName">
+                        William 
+                        Jones
+                     <interp inst="t16910909-37-victim116" type="surname" value="Jones"></interp>
+                        <interp inst="t16910909-37-victim116" type="given" value="William"></interp>
+                        <interp inst="t16910909-37-victim116" type="gender" value="male"></interp>
+                     </persName>
+                  , on the <rs id="t16910909-37-cd171" type="crimeDate">25th of March last</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-37-off167 t16910909-37-cd171"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16910909-37-off170 t16910909-37-cd171"></join>, of five Holland Sheets, value 40s. two Guineas, some wearing Apparel, and 28l. in Money
+            </rs>. Mr. Jones swore that the prisoner was his <rs id="t16910909-37-deflabel172" type="occupation">Servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16910909-37-defend114 t16910909-37-deflabel172"></join>, and had lived some time with him, and that he had lost Money oftentimes, but he could not positively charge it upon her for want of Evidence, what he said was only suppositions, so she was <rs id="t16910909-37-verdict173" type="verdictDescription">
+                     <interp inst="t16910909-37-verdict173" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>
+                  <rs id="t16910909-37-punish174" type="punishmentDescription">
+                     <interp inst="t16910909-37-punish174" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16910909-37-punish174" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910909-37-defend114 t16910909-37-punish174"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

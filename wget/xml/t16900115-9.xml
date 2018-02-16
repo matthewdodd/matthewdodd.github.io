@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16900115-9">
+               <interp inst="t16900115-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t16900115-9" type="year" value="1690"></interp>
+               <interp inst="t16900115-9" type="uri" value="sessionsPapers/16900115"></interp>
+               <interp inst="t16900115-9" type="date" value="16900115"></interp>
+               <join result="criminalCharge" id="t16900115-9-off31-c44" targOrder="Y" targets="t16900115-9-defend53 t16900115-9-off31 t16900115-9-verdict33"></join>
+         
+               <p>
+            
+               
+                  <persName id="t16900115-9-defend53" type="defendantName">
+                     Thomas 
+                     Walters
+                  <interp inst="t16900115-9-defend53" type="surname" value="Walters"></interp>
+                     <interp inst="t16900115-9-defend53" type="given" value="Thomas"></interp>
+                     <interp inst="t16900115-9-defend53" type="gender" value="male"></interp>
+                  </persName>
+               
+             was Arraign'd for <rs id="t16900115-9-off31" type="offenceDescription">
+                     <interp inst="t16900115-9-off31" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16900115-9-off31" type="offenceSubcategory" value="other"></interp>
+               picking the poors Box, at the <placeName id="t16900115-9-crimeloc32">Poultrey Compter</placeName>
+                     <interp inst="t16900115-9-crimeloc32" type="placeName" value="Poultrey Compter"></interp>
+                     <interp inst="t16900115-9-crimeloc32" type="type" value="crimeLocation"></interp>
+                     <join result="offencePlace" targOrder="Y" targets="t16900115-9-off31 t16900115-9-crimeloc32"></join>
+               
+                  </rs>, but proceeding somewhat out of Malice, he was <rs id="t16900115-9-verdict33" type="verdictDescription">
+                     <interp inst="t16900115-9-verdict33" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

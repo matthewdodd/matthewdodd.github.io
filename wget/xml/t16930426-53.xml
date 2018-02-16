@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16930426-53">
+               <interp inst="t16930426-53" type="collection" value="BAILEY"></interp>
+               <interp inst="t16930426-53" type="year" value="1693"></interp>
+               <interp inst="t16930426-53" type="uri" value="sessionsPapers/16930426"></interp>
+               <interp inst="t16930426-53" type="date" value="16930426"></interp>
+               <join result="criminalCharge" id="t16930426-53-off247-c157" targOrder="Y" targets="t16930426-53-defend157 t16930426-53-off247 t16930426-53-verdict249"></join>
+               <join result="criminalCharge" id="t16930426-53-off247-c158" targOrder="Y" targets="t16930426-53-defend158 t16930426-53-off247 t16930426-53-verdict249"></join>
+         
+               <p>
+            
+                  <persName id="t16930426-53-defend157" type="defendantName">
+                  Charles 
+                  Toms
+               <interp inst="t16930426-53-defend157" type="surname" value="Toms"></interp>
+                     <interp inst="t16930426-53-defend157" type="given" value="Charles"></interp>
+                     <interp inst="t16930426-53-defend157" type="gender" value="male"></interp>
+                  </persName>
+             and 
+               <persName id="t16930426-53-defend158" type="defendantName">
+                  John 
+                  Manuing
+               <interp inst="t16930426-53-defend158" type="surname" value="Manuing"></interp>
+                     <interp inst="t16930426-53-defend158" type="given" value="John"></interp>
+                     <interp inst="t16930426-53-defend158" type="gender" value="male"></interp>
+                  </persName>
+             were both tried for <rs id="t16930426-53-off247" type="offenceDescription">
+                     <interp inst="t16930426-53-off247" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16930426-53-off247" type="offenceSubcategory" value="animalTheft"></interp>
+               stealing two Ducks
+            </rs> on the <rs id="t16930426-53-cd248" type="crimeDate">18th of March</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t16930426-53-off247 t16930426-53-cd248"></join> last from 
+               <persName id="t16930426-53-victim159" type="victimName">
+                  Thomas 
+                  Coats
+               <interp inst="t16930426-53-victim159" type="surname" value="Coats"></interp>
+                     <interp inst="t16930426-53-victim159" type="given" value="Thomas"></interp>
+                     <interp inst="t16930426-53-victim159" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16930426-53-off247 t16930426-53-victim159"></join>
+                  </persName>
+            ; they drove the Ducks out of Coats's Yard into a Coach-house, and cut off the Heads, and sealed them up in a Paper, and directed it thus: These for Thomas Coats a Yorkshire-man; the Prisoners denied, and said, they knew nothing of the matter; it was on a Sunday, and they said they were at Church waiting upon their Masters with their Coaches; there was somewhat of Malice appear'd; so they were both <rs id="t16930426-53-verdict249" type="verdictDescription">
+                     <interp inst="t16930426-53-verdict249" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

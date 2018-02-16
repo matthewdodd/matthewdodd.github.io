@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17581025-6">
+               <interp inst="t17581025-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17581025-6" type="year" value="1758"></interp>
+               <interp inst="t17581025-6" type="uri" value="sessionsPapers/17581025"></interp>
+               <interp inst="t17581025-6" type="date" value="17581025"></interp>
+               <join result="criminalCharge" id="t17581025-6-off29-c57" targOrder="Y" targets="t17581025-6-defend67 t17581025-6-off29 t17581025-6-verdict31"></join>
+         
+               <p>329. (M.) 
+               <persName id="t17581025-6-defend67" type="defendantName">
+                  William 
+                  Richardson 
+               <interp inst="t17581025-6-defend67" type="surname" value="Richardson"></interp>
+                     <interp inst="t17581025-6-defend67" type="given" value="William"></interp>
+                     <interp inst="t17581025-6-defend67" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17581025-6-off29" type="offenceDescription">
+                     <interp inst="t17581025-6-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17581025-6-off29" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one peruke, value 12 s. one silver stock buckle, value 2 s. one stock, value 6 d. and one book of Common Prayer, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17581025-6-victim69" type="victimName">
+                     Daniel 
+                     Bunning 
+                  <interp inst="t17581025-6-victim69" type="surname" value="Bunning"></interp>
+                     <interp inst="t17581025-6-victim69" type="given" value="Daniel"></interp>
+                     <interp inst="t17581025-6-victim69" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17581025-6-off29 t17581025-6-victim69"></join>
+                  </persName>
+                
+            . <rs id="t17581025-6-cd30" type="crimeDate">October 16</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17581025-6-off29 t17581025-6-cd30"></join>.*</p>
+               <p>Daniel Bunning. When I took my room of my landlord I was to lie alone, and none to lie with me without my consent; after that my<xptr type="pageFacsimile" doc="175810250007"></xptr> landlord took in the prisoner, and said he knew him to be a very honest man, so I let him lie with me; when he and the things were missing then my landlord said he did not know any thing of him, although before he said he was his acquaintance; I found the prisoner two or three weeks after, and before justice Welch he confessed he had taken my things.</p>
+               <p>Q. What things?</p>
+               <p>Bunning. A peruke, a silver stock buckle, a stock, and Common Prayer book.</p>
+               <p>Q. Did he say what he had done with them?</p>
+               <p>Bunning. He did.</p>
+               <p>Q. What is the value of them?</p>
+               <p>Bunning. They are worth sixteen shillings and six-pence, which is what they are laid at in the indictment.</p>
+               <p>
+            
+                  <persName id="t17581025-6-person70">
+                  Hugh 
+                  Lawrence 
+               <interp inst="t17581025-6-person70" type="surname" value="Lawrence"></interp>
+                     <interp inst="t17581025-6-person70" type="given" value="Hugh"></interp>
+                     <interp inst="t17581025-6-person70" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner brought a stock buckle to pawn and my master took it in, (he produced one,) I can't swear that he brought it to my master.</p>
+               <p>Q. Where is your master?</p>
+               <p>Lawrence. He is about particular business, so he sent me.</p>
+               <p>Prosecutor, This is my stock buckle.</p>
+               <p>The prisoner said nothing in his defence.</p>
+               <p>
+                  <rs id="t17581025-6-verdict31" type="verdictDescription">
+                     <interp inst="t17581025-6-verdict31" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17581025-6-verdict31" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17581025-6-punish32" type="punishmentDescription">
+                     <interp inst="t17581025-6-punish32" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17581025-6-punish32" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17581025-6-defend67 t17581025-6-punish32"></join>
+               
+                     <note>[Whipping.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

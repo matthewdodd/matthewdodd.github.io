@@ -1,3 +1,59 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670429-31">
+               <interp inst="t17670429-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670429-31" type="year" value="1767"></interp>
+               <interp inst="t17670429-31" type="uri" value="sessionsPapers/17670429"></interp>
+               <interp inst="t17670429-31" type="date" value="17670429"></interp>
+               <join result="criminalCharge" id="t17670429-31-off179-c204" targOrder="Y" targets="t17670429-31-defend271 t17670429-31-off179 t17670429-31-verdict182"></join>
+         
+               <p>224. (M.) 
+               
+                  <persName id="t17670429-31-defend271" type="defendantName">
+                     Henry 
+                     Black 
+                  <interp inst="t17670429-31-defend271" type="surname" value="Black"></interp>
+                     <interp inst="t17670429-31-defend271" type="given" value="Henry"></interp>
+                     <interp inst="t17670429-31-defend271" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670429-31-off179" type="offenceDescription">
+                     <interp inst="t17670429-31-off179" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670429-31-off179" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a cloth coat, value 4 s. a cloth waistcoat, value 2 s. and a pair of velvet breeches, value 2 s.
+            </rs> the property of 
+               
+                  <persName id="t17670429-31-victim273" type="victimName">
+                     Samuel 
+                     Standen 
+                  <interp inst="t17670429-31-victim273" type="surname" value="Standen"></interp>
+                     <interp inst="t17670429-31-victim273" type="given" value="Samuel"></interp>
+                     <interp inst="t17670429-31-victim273" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670429-31-off179 t17670429-31-victim273"></join>
+                  </persName>
+                
+            , <rs id="t17670429-31-cd180" type="crimeDate">March 26</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670429-31-off179 t17670429-31-cd180"></join>. ||</p>
+               <p>
+            
+                  <persName id="t17670429-31-person274">
+                  Samuel 
+                  Standen 
+               <interp inst="t17670429-31-person274" type="surname" value="Standen"></interp>
+                     <interp inst="t17670429-31-person274" type="given" value="Samuel"></interp>
+                     <interp inst="t17670429-31-person274" type="gender" value="male"></interp>
+                  </persName>
+            . On the 26th of March I lost a coat, waistcoat, and a pair of sheepskin breeches. (The indictment is wrong, I did not lose velvet breeches.) I found my things again at Mr. Master's, a pawnbroker, about three hours after they were taken. My apprentice had seen the prisoner go in there with a bundle; he came and told me. I am a <rs id="t17670429-31-viclabel181" type="occupation">shoemaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670429-31-victim273 t17670429-31-viclabel181"></join>; the prisoner lodged with me, and worked for me. I desired him to stop him if he came again.</p>
+               <p>Mr. Masters. The prisoner brought a coat, waistcoat, and a pair of leather breeches, and pledged them to me the 26th of March; the prosecutor came and owned them, and desired me to stop him if he came again. He came again in about three hours after for more money, and I stopt him. I asked him how he came to take his master's things; he said he did it in order to keep it up; that is, I suppose, to keep up his frolick. He was very drunk.</p>
+               <p>Prisoner's defence.</p>
+               <p>What I did I did with honesty; I did not do it with intent to defraud.</p>
+               <p>
+                  <rs id="t17670429-31-verdict182" type="verdictDescription">
+                     <interp inst="t17670429-31-verdict182" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17670429-31-punish183" type="punishmentDescription">
+                     <interp inst="t17670429-31-punish183" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670429-31-defend271 t17670429-31-punish183"></join>
+               T
+            </rs>.</p>
+            </div1>

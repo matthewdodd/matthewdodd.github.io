@@ -1,3 +1,49 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17501205-24">
+               <interp inst="t17501205-24" type="collection" value="BAILEY"></interp>
+               <interp inst="t17501205-24" type="year" value="1750"></interp>
+               <interp inst="t17501205-24" type="uri" value="sessionsPapers/17501205"></interp>
+               <interp inst="t17501205-24" type="date" value="17501205"></interp>
+               <join result="criminalCharge" id="t17501205-24-off125-c168" targOrder="Y" targets="t17501205-24-defend221 t17501205-24-off125 t17501205-24-verdict128"></join>
+         
+               <p>30. (L.) 
+               <persName id="t17501205-24-defend221" type="defendantName">
+                  Hannah 
+                  <rs id="t17501205-24-deflabel124" type="occupation">wife of 
+                        <persName id="t17501205-24-person222">
+                           Thomas 
+                           Philips 
+                        <interp inst="t17501205-24-person222" type="surname" value="Philips"></interp>
+                           <interp inst="t17501205-24-person222" type="given" value="Thomas"></interp>
+                           <interp inst="t17501205-24-person222" type="gender" value="male"></interp>
+                        </persName>
+                     
+                     </rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17501205-24-defend221 t17501205-24-deflabel124"></join>
+                     <interp inst="t17501205-24-defend221" type="surname" value="Philips"></interp>
+                     <interp inst="t17501205-24-defend221" type="given" value="Hannah"></interp>
+                     <interp inst="t17501205-24-defend221" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17501205-24-off125" type="offenceDescription">
+                     <interp inst="t17501205-24-off125" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17501205-24-off125" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing five calves skins
+            </rs>, the goods of 
+               
+                  <persName id="t17501205-24-victim224" type="victimName">
+                     William 
+                     Crosse 
+                  <interp inst="t17501205-24-victim224" type="surname" value="Crosse"></interp>
+                     <interp inst="t17501205-24-victim224" type="given" value="William"></interp>
+                     <interp inst="t17501205-24-victim224" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17501205-24-off125 t17501205-24-victim224"></join>
+                  </persName>
+                
+            , <rs id="t17501205-24-cd126" type="crimeDate">Nov. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17501205-24-off125 t17501205-24-cd126"></join>. +</p>
+               <p>The prosecutor is a <rs id="t17501205-24-viclabel127" type="occupation">shoemaker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17501205-24-victim224 t17501205-24-viclabel127"></join>, his warehouse for his skins is up one pair of stairs; the prisoner lodged on the same floor, next house to the prosecutor's dwelling house. Win Markham, who lives in the same house up two pair of heard the warehouse door unlock and somebody go in he went down, and, with the key which the prisoner had left in the door, locked her in; the prosecutor was sent for, and found her there ; then he had her room searched, and found five calves skins there under her bed among some foul linen ; the prosecutor deposed, he had but one key to that warehouse, which was with many others, at that time, in his house. The two keys were produced in court. The prisoner's defence was she had the key of the prosecutor's son, and went into the warehouse by his direction; and the prisoner having a husband, and the goods being found in his room. she was <rs id="t17501205-24-verdict128" type="verdictDescription">
+                     <interp inst="t17501205-24-verdict128" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

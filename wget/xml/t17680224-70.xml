@@ -1,3 +1,628 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680224-70">
+               <interp inst="t17680224-70" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680224-70" type="year" value="1768"></interp>
+               <interp inst="t17680224-70" type="uri" value="sessionsPapers/17680224"></interp>
+               <interp inst="t17680224-70" type="date" value="17680224"></interp>
+               <join result="criminalCharge" id="t17680224-70-off444-c593" targOrder="Y" targets="t17680224-70-defend749 t17680224-70-off444 t17680224-70-verdict450"></join>
+               <join result="criminalCharge" id="t17680224-70-off444-c594" targOrder="Y" targets="t17680224-70-defend751 t17680224-70-off444 t17680224-70-verdict450"></join>
+               <join result="criminalCharge" id="t17680224-70-off444-c595" targOrder="Y" targets="t17680224-70-defend753 t17680224-70-off444 t17680224-70-verdict450"></join>
+         
+               <p>242, 243, 244. (L.) 
+               
+                  <persName id="t17680224-70-defend749" type="defendantName">
+                     William 
+                     Bear 
+                  <interp inst="t17680224-70-defend749" type="surname" value="Bear"></interp>
+                     <interp inst="t17680224-70-defend749" type="given" value="William"></interp>
+                     <interp inst="t17680224-70-defend749" type="gender" value="male"></interp>
+                  </persName>
+               
+            , 
+               
+                  <persName id="t17680224-70-defend751" type="defendantName">
+                     John 
+                     Aldridge 
+                  <interp inst="t17680224-70-defend751" type="surname" value="Aldridge"></interp>
+                     <interp inst="t17680224-70-defend751" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-defend751" type="gender" value="male"></interp>
+                  </persName>
+               
+            , and 
+               
+                  <persName id="t17680224-70-defend753" type="defendantName">
+                     Walter 
+                     Stoaks 
+                  <interp inst="t17680224-70-defend753" type="surname" value="Stoaks"></interp>
+                     <interp inst="t17680224-70-defend753" type="given" value="Walter"></interp>
+                     <interp inst="t17680224-70-defend753" type="gender" value="male"></interp>
+                  </persName>
+               
+            , were indicted, for <rs id="t17680224-70-off444" type="offenceDescription">
+                     <interp inst="t17680224-70-off444" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17680224-70-off444" type="offenceSubcategory" value="murder"></interp>
+               that 
+                     <persName id="t17680224-70-person754">
+                        Daniel 
+                        Asgood 
+                     <interp inst="t17680224-70-person754" type="surname" value="Asgood"></interp>
+                        <interp inst="t17680224-70-person754" type="given" value="Daniel"></interp>
+                        <interp inst="t17680224-70-person754" type="gender" value="male"></interp>
+                     </persName>
+                   (who was tried and capitally convicted in January Sessions) did wilfully, and of malice aforethought, murder 
+                     
+                        <persName id="t17680224-70-victim756" type="victimName">
+                           William 
+                           Ridley 
+                        <interp inst="t17680224-70-victim756" type="surname" value="Ridley"></interp>
+                        <interp inst="t17680224-70-victim756" type="given" value="William"></interp>
+                        <interp inst="t17680224-70-victim756" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17680224-70-off444 t17680224-70-victim756"></join>
+                     </persName>
+                     
+                  , and they were present in aiding, assisting, comforting, and abetting him to commit the said murder
+            </rs>, <rs id="t17680224-70-cd445" type="crimeDate">Dec. 10</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680224-70-off444 t17680224-70-cd445"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680224-70-person757">
+                  Robert 
+                  Newton 
+               <interp inst="t17680224-70-person757" type="surname" value="Newton"></interp>
+                     <interp inst="t17680224-70-person757" type="given" value="Robert"></interp>
+                     <interp inst="t17680224-70-person757" type="gender" value="male"></interp>
+                  </persName>
+            . I did keep <placeName id="t17680224-70-crimeloc446">the Last and Sugar-loaf, Water-lane, Black-friars</placeName>
+                  <interp inst="t17680224-70-crimeloc446" type="placeName" value="the Last and Sugar-loaf, Water-lane, Black-friars"></interp>
+                  <interp inst="t17680224-70-crimeloc446" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680224-70-off444 t17680224-70-crimeloc446"></join>. On December the 10th, about twenty minutes before eleven o'clock at night, five <rs id="t17680224-70-deflabel447" type="occupation">bargemen</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend749 t17680224-70-deflabel447"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend751 t17680224-70-deflabel447"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend753 t17680224-70-deflabel447"></join>, or <rs id="t17680224-70-deflabel448" type="occupation">lightermen</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend749 t17680224-70-deflabel448"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend751 t17680224-70-deflabel448"></join>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-defend753 t17680224-70-deflabel448"></join>, came into my house, and called for a pot of beer; they had it; they said it stunk; I cannot be particular which said that, whether the person executed, or either of these men.</p>
+               <p>Q. Are the prisoners of the five?</p>
+               <p>Newton. I cannot charge my memory with the knowledge of any one man of them, I knew Asgood that is executed; I never saw him before that night, but I saw him the day after he was apprehended, then I knew him, as well as I did the evidence that surrendered; no body contradicted them; they wrangled among themselves, and made a quarrel with one 
+               <persName id="t17680224-70-person758">
+                  Charles 
+                  Duncomb 
+               <interp inst="t17680224-70-person758" type="surname" value="Duncomb"></interp>
+                     <interp inst="t17680224-70-person758" type="given" value="Charles"></interp>
+                     <interp inst="t17680224-70-person758" type="gender" value="male"></interp>
+                  </persName>
+             that was in the house, without any provocation, telling him, that he brought them there on purpose to breed a riot in the house.</p>
+               <p>Q. Did Duncomb come in with them?</p>
+               <p>Newton. He had been in the house most part of the evening, he had no concern with them; they drank that pot of beer, and wanted another; it was then eleven o'clock, I did not chese to draw them any more; then they asked if they might have any gin; they had a penny glass of gin each at the bar; they began to wrangle with me; the deceased called me Bougre; one said, we will pay you; then Daniel Asgood said he would pay me, and came and beat me; he struck me twice upon the ribs; they had been riotous before, and swore and blasphemed a great deal that I had sent for the constable; 
+               <persName id="t17680224-70-person759">
+                  Charles 
+                  Duncomb 
+               <interp inst="t17680224-70-person759" type="surname" value="Duncomb"></interp>
+                     <interp inst="t17680224-70-person759" type="given" value="Charles"></interp>
+                     <interp inst="t17680224-70-person759" type="gender" value="male"></interp>
+                  </persName>
+             was knocked down with his head across the sender.</p>
+               <p>Q. Was that before or after you was struck?</p>
+               <p>Newton. That was just after I was struck; I said I would go and call the watch; I said they were welcome to go without paying, provided they would go peaceably; two of them, when they heard me say I would go and call the watch, were beating one 
+               <persName id="t17680224-70-person760">
+                  Edward 
+                  Crowther 
+               <interp inst="t17680224-70-person760" type="surname" value="Crowther"></interp>
+                     <interp inst="t17680224-70-person760" type="given" value="Edward"></interp>
+                     <interp inst="t17680224-70-person760" type="gender" value="male"></interp>
+                  </persName>
+            , Asgood was one of them, one on one side, the other on the other, benting him.</p>
+               <p>Q. Who is Crowther?</p>
+               <p>Newton. He was a lodger in my house; I went out to call the watch, then three of them followed me, Asgood was one of them.</p>
+               <p>Q. Had they any weapons?</p>
+               <p>Newton. I did not see any among them; the first <rs id="t17680224-70-viclabel449" type="occupation">watchman</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17680224-70-victim756 t17680224-70-viclabel449"></join> I passed was 
+               <persName id="t17680224-70-person761">
+                  Ridley
+               <interp inst="t17680224-70-person761" type="given" value="Ridley"></interp>
+                     <interp inst="t17680224-70-person761" type="gender" value="male"></interp>
+                  </persName>
+             the deceased. he was going his round at eleven o'clock; I met him about 100 yards from my door, I told him to n to my house, I expected murder was or would be committed; I went farther on, still calling watch; Ridley ran on with his staff and lanthorn; then another watchmen, named Bartene, met me, I told him the same I did Ridley; I went farther on; then I returned back, with intent of going to the assistance of the watchmen, but a little on this side of my house my maid servant told me my wife was in fits; I went into the house to her (they were all gone out of my house) my wife was very ill; I did not go out; in about a quarter of an hour came 
+               <persName id="t17680224-70-person762">
+                  William 
+                  Ridley 
+               <interp inst="t17680224-70-person762" type="surname" value="Ridley"></interp>
+                     <interp inst="t17680224-70-person762" type="given" value="William"></interp>
+                     <interp inst="t17680224-70-person762" type="gender" value="male"></interp>
+                  </persName>
+             and Bartene knocking at my door, they were let in; Ridley said, I hope Mr. Newton you will see me righted, for I have been cruelly beat upon this occasion; they drank a pint of beer; he pulled up his wig, and put his little finger in his ear, and pulled out a clot of blood, and threw it on the floor, saying, see how cruelly I have been used by five men; he said they took the staff out of his hand, and beat him with it.</p>
+               <p>Q. Did he use the word they or he?</p>
+               <p>Newton. To the best of my knowledge, the expression was they.</p>
+               <p>Q. Whether he said the men, or whether he charged any particular one man?</p>
+               <p>Newton. I think he said the men, to the best of my knowledge.</p>
+               <p>Q. When did Ridley die?</p>
+               <p>Newton. This was the Thursday evening, and he died on the Saturday morning, I believe between nine and ten; I never saw him afterwards.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person763">
+                  Edward 
+                  Crowther 
+               <interp inst="t17680224-70-person763" type="surname" value="Crowther"></interp>
+                     <interp inst="t17680224-70-person763" type="given" value="Edward"></interp>
+                     <interp inst="t17680224-70-person763" type="gender" value="male"></interp>
+                  </persName>
+            . On the 10th of December I was a lodger in Mr. Newton's house.</p>
+               <p>Q. What are you?</p>
+               <p>Crowther. I am a shoemaker. About twenty minutes before 11 on that night, five bargemen or lightermen came into the house, I believe the three prisoners to be part of the five, they called for a<xptr type="pageFacsimile" doc="176802240051"></xptr> pot of beer; they drank part of it, and then complained it stank.</p>
+               <p>Q. Which of them complained?</p>
+               <p>Crowther. I do not know which; no body gave them any contradiction of any sort; 
+               <persName id="t17680224-70-person764">
+                  Daniel 
+                  Asgood 
+               <interp inst="t17680224-70-person764" type="surname" value="Asgood"></interp>
+                     <interp inst="t17680224-70-person764" type="given" value="Daniel"></interp>
+                     <interp inst="t17680224-70-person764" type="gender" value="male"></interp>
+                  </persName>
+             began upbraiding of one 
+               <persName id="t17680224-70-person765">
+                  Charles 
+                  Duncomb 
+               <interp inst="t17680224-70-person765" type="surname" value="Duncomb"></interp>
+                     <interp inst="t17680224-70-person765" type="given" value="Charles"></interp>
+                     <interp inst="t17680224-70-person765" type="gender" value="male"></interp>
+                  </persName>
+            , a customer that usually used the house, he was none of their company; Asgood told him, he was a deceitful man, and upon the whole he said he should like to put him on the fire and broil him; upon that Mr. Newton said, gentlemen, you behave very badly. I do not chuse to have this sort of behaviour in my house; if you behave in this insolent manner, I must certainly call for an officer; he sent his servant-maid out for one; she returned, and said he was not a home.</p>
+               <p>Q. Did the five people hear him bid her go for an officer?</p>
+               <p>Crowther. They must hear him bid her go for a constable; in the mean time Asgood got up, and struck Mr. Newton twice on the ribs; Mrs. Newton seeing that, said to me, for God's sake do stop them; I then got up; then Asgood came to me and said, are you the man that is to stop us, and struck me on my right eye, and gave me a very bad eye; they left me, and went out of the house; Mr. Newton was then out of the house, calling the watch.</p>
+               <p>Q. Did Mr. Newton say any thing at going out?</p>
+               <p>Crowther. He said, are we to be beat and murdered in our own house, and then went out; I went out of the house about 30 yards, and heard him, almost up at the watch-house, calling the watch.</p>
+               <p>Q. What became of the prisoners?</p>
+               <p>Crowther. They were ran down the alley by the house side, called the Paved-alley, it goes down to Fleet-ditch.</p>
+               <p>Q. How many of them were in the house when you was struck?</p>
+               <p>Crowther. To the best of my knowledge there were three, if not four of them, gone out of the house when I was struck; Stoaks went to the bar, and said, do not make disputes about the reckoning, I will pay the reckoning; he then came back again from the bar, and struck me.</p>
+               <p>Q. How long was this after Asgood struck you?</p>
+               <p>Crowther. This was immediately after Asgood struck me, then Newton was out of the house; Stoaks quitted the house immediately after he struck me; I went to the door, and heard them run down the alley; I went about 30 or 40 yards towards Mr. Newton, I met the two watchmen coming about 40 yards from the house, I told them they are gone down the alley; they immediately went after them, and I followed them to the top of the stairs at the bottom of the alley; the watchmen were both gone down, the barge-men were secreted under the corner of the house; I did not go down as the watchmen went down, they immediately flew out upon them, there was no light, but I could see something of them, but could not distinguish one from the other; I could not distinguish hardly any thing, only I heard a great noise at the bottom of the steps; I can only say I saw the shadow of some men, and heard the scuffle; I thought I had the glimpse of some men, I thought there were something like blows passing, and it seemed as if there were a great many men all scuffling one among another; I then returned back again to Mr. Newton's.</p>
+               <p>Q. How long might you stay on the steps?</p>
+               <p>Crowther. I suppose I might stay a minute, or rather more, I did not go down the steps; the deceased and Bartene came into the house between eleven and twelve; the deceased said, see here Mr. Newton, we have been cruelly used, and sadly beat, and I hope you will see us righted; Mr. Newton said, I will do all in my power to see you righted; Mr. Newton ordered them a pint of beer; the deceased pulled up his wig, and the blood stood in his right ear; they drank up the beer, and returned out of the house.</p>
+               <p>Q. Was any thing else said by the deceased?</p>
+               <p>Crowther. Ridley said the man had taken his staff from him, and beat him with it, that was almost as soon as he came into the house.</p>
+               <p>Q. What became of Duncomb?</p>
+               <p>Crowther. He went with me to the head of the steps.</p>
+               <p>Q. What was the reason you did not go farther?</p>
+               <p>Crowther. By reason I had been ill used enough already, and they were very powerful men, and I thought myself in danger.</p>
+               <p>Q. Did you see any body use Duncomb ill in the house?</p>
+               <p>Crowther. I saw 
+               <persName id="t17680224-70-person766">
+                  Daniel 
+                  Asgood 
+               <interp inst="t17680224-70-person766" type="surname" value="Asgood"></interp>
+                     <interp inst="t17680224-70-person766" type="given" value="Daniel"></interp>
+                     <interp inst="t17680224-70-person766" type="gender" value="male"></interp>
+                  </persName>
+             knock him down with his head against the sender.</p>
+               <p>Q. Did any body else strike him?</p>
+               <p>Crowther. I did not see any body else strike him, Stoaks went away immediately without paying the reckoning.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person767">
+                  John 
+                  Catlin 
+               <interp inst="t17680224-70-person767" type="surname" value="Catlin"></interp>
+                     <interp inst="t17680224-70-person767" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person767" type="gender" value="male"></interp>
+                  </persName>
+            . I can say nothing against the prisoners, no farther than being in company; there were five of us went into the house of Mr. Newton, Asgood, I, and the three prisoners; we had<xptr type="pageFacsimile" doc="176802240052"></xptr> come from a society, and went in there to have a parting pot; the beer was found fault with.</p>
+               <p>Q. By who?</p>
+               <p>Catlin. I cannot say justly by who; I said we did not like the beer, we would have a dram a piece; there was 
+               <persName id="t17680224-70-person768">
+                  Charles 
+                  Duncomb 
+               <interp inst="t17680224-70-person768" type="surname" value="Duncomb"></interp>
+                     <interp inst="t17680224-70-person768" type="given" value="Charles"></interp>
+                     <interp inst="t17680224-70-person768" type="gender" value="male"></interp>
+                  </persName>
+             sitting by the fire, Asgood took him up in discourse; I charged Asgood to be easy, and let it all drop; he was in a riotous manner abusing Duncomb, and swore at him, and got up and struck him; I never saw the three prisoners strike at all, I saw Asgood strike Mr. Newton, and was going out of the house without paying the reckoning; I said, no, if no body will pay the reckoning I will, and have a shilling down upon the table: in the hurlyburly betwixt Duncomb, Newton, and Asgood, I took my shilling up again; I told Duncomb I was very sorry for what was past, and would come and pay the reckoning on the morrow; I desired Asgood to be quiet and easy, I said it would be all laid upon me, I was so well known in the parish; Mr. Newton sent for the constable, the constable was not at home; then we were all for going; they all went out of the house before me; we went down the Paved-alley, they all four stopped; I went as far as the breadth of the court beyond them, going to walk along about my business.</p>
+               <p>Q. What was the occasion of their stopping?</p>
+               <p>Catlin. I cannot tell that, it might be to make water; the watch was sent for, they came down the court after them in about two minutes or less; I came back to them, Asgood drawed the staff out of the watchman's hand, and made a blow at him.</p>
+               <p>Q. Where were the three prisoners then?</p>
+               <p>Catlin. They were all together.</p>
+               <p>Q. How many watchmen came down the steps?</p>
+               <p>Catlin. I saw only Ridley the deceased.</p>
+               <p>Q. Was any thing said by Ridley, or any of the prisoners, before Asgood took the staff?</p>
+               <p>Catlin. I heard no words, I saw Asgood make a blow at Ridley, but whether it hit him or not I cannot say.</p>
+               <p>Q. Was there no light?</p>
+               <p>Catlin. There was a lanthorn, but the candle was gone out.</p>
+               <p>Q. What occasioned it to go out?</p>
+               <p>Catlin. It might be by his fall, very likely.</p>
+               <p>Q. Did you see Ridley fall?</p>
+               <p>Catlin. I saw him on the ground.</p>
+               <p>Q. Where were the prisoners then?</p>
+               <p>Catlin. We were all five together then.</p>
+               <p>Q. Were any blows struck after he was on the ground?</p>
+               <p>Catlin. No, there were not as I saw.</p>
+               <p>Q. What became of the lanthorn?</p>
+               <p>Catlin. I cannot say, the light was out when the watchman was on the ground.</p>
+               <p>Q. What became of you five after Ridley was on the ground?</p>
+               <p>Catlin. We went about our business; 
+               <persName id="t17680224-70-person769">
+                  John 
+                  Aldridge 
+               <interp inst="t17680224-70-person769" type="surname" value="Aldridge"></interp>
+                     <interp inst="t17680224-70-person769" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person769" type="gender" value="male"></interp>
+                  </persName>
+             went on board his barge below bridge, he separated from us at the top of Fleet-ditch.</p>
+               <p>Q. Did you stay till the deceased got up?</p>
+               <p>Catlin. I cannot tell whether I did or not.</p>
+               <p>Q. Did any body endeavour to prevent Asgood striking Ridley?</p>
+               <p>Catlin. The prisoners might for what I know, I saw them standing by him.</p>
+               <p>Q. Was any body near you at the time?</p>
+               <p>Catlin. Thompson's wife was there, she was vastly frightened; Asgood was soul on Thompson, he had got him down on the ground; she said, for God's sake do not kill my husband; I went and took Thompson from Asgood.</p>
+               <p>Q. Was any words past at the time Ridley was knocked down?</p>
+               <p>Catlin. I heard none.</p>
+               <p>Q. How near was the watchman to you when at the bottom of the steps?</p>
+               <p>Catlin. He was at the bottom, about two or three steps from Asgood; I was walking gently home from them, we were going home about our business, I was down the steps before them.</p>
+               <p>Q. Did they stop any time?</p>
+               <p>Catlin. They did not seem to stop.</p>
+               <p>Q. Where do the steps-lead to?</p>
+               <p>Catlin. They came down towards Fleet-ditch.</p>
+               <p>Q. Was all your ways home through that Paved-alley?</p>
+               <p>Catlin. Yes.</p>
+               <p>Q. Was the blow made at Ridley before the candle was out?</p>
+               <p>Catlin. It was.</p>
+               <p>Cross examination.</p>
+               <p>Q. Had either of the prisoners any weapon in their hands?</p>
+               <p>Catlin. No, neither of them had any weapon.</p>
+               <p>Q. Was there any stop made by either of the prisoners to do any thing to the watchmen?</p>
+               <p>Catlin. No, there was not.</p>
+               <p>Q. Did you hear them mention any thing of that sort?</p>
+               <p>Catlin. No, I did not, I cannot justly tell what they might say to Asgood.</p>
+               <p>Q. Did you see either of the prisoners strike a blow at any body?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176802240053"></xptr>Catlin. No, I did not, neither in the house or out of the house, or mention any bad words.</p>
+               <p>Q. Was you so near them that you should have heard them if they had?</p>
+               <p>Catlin. I was.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person770">
+                  Joseph 
+                  Thompson 
+               <interp inst="t17680224-70-person770" type="surname" value="Thompson"></interp>
+                     <interp inst="t17680224-70-person770" type="given" value="Joseph"></interp>
+                     <interp inst="t17680224-70-person770" type="gender" value="male"></interp>
+                  </persName>
+            . I live on the side of the Fleet-market, but at that time I did live near the Red Lion in Fleet-lane; I was coming from the Queen's Head, Black-friars, I went down that Paved-alley at about half an hour after eleven that night, there was nobody at the stops, but turning round on the right-hand just at the bottom of the steps, there stood five men altogether; I went to go by them, my wife followed me; Asgood, one of the five said, where are you going; I said, my friend, I'm going home; he with an oath said, I'll go with you, and struck me several blows with his fist over my head, and knocked me down two or three times; I can't say but that I was struck once or twice, or more, by one of the others; Asgood went away from me, and the other four stood over me, after they gave me some blows, for the space of a minute; then Asgood returned back with a staff in his hand, to the best of my knowledge it was a deal one, it looked white, about four feet or better long; he made a blow or two at me, I fell down to save the blow, and catched hold of the body of the staff, and Asgood to the best of my knowledge, and all of them laid hold of it, and dragged me about; I said, good gentlemen, I have done nothing to you, do not beat me no more; one of them said, don't beat him any more; then they let me go about my business, they followed me.</p>
+               <p>Q. Did Catlin strike you?</p>
+               <p>Thompson. I cannot say that, but I believe all of them strove to wrench the staff out of my hands.</p>
+               <p>Q. Did you see the deceased Ridley?</p>
+               <p>Thompson. No, I saw nothing of him, nor heard nothing of him.</p>
+               <p>Q. Did you see any staff when you came first there?</p>
+               <p>Thompson. No, I did not; the other men stood over me while Asgood went for that; they stood two on one side and two on the other.</p>
+               <p>Q. How long was Asgood gone for the staff?</p>
+               <p>Thompson. This was just at the turning at the bottom of the steps; he was gone about a minute.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person771">
+                  Hannah 
+                  Ridley 
+               <interp inst="t17680224-70-person771" type="surname" value="Ridley"></interp>
+                     <interp inst="t17680224-70-person771" type="given" value="Hannah"></interp>
+                     <interp inst="t17680224-70-person771" type="gender" value="female"></interp>
+                  </persName>
+            . The deceased was my husband; he was led home that night by one of the watchmen; I asked him the meaning of his coming home so soon, he had a bit of a candle in his hand; he said he had been beat in a most cruel manner by five villainous fellows; I asked him where his staff and lanthorn was; he said he believed his staff had been his death; he held the candle and lifted up his wig, and shewed me his right ear running down with blood, and his right nostril; I persuaded him to come to bed and compose himself; he said he believed he was so bad he could not come to bed; with great persuasion I did with my help get him into bed; after he was laid about four or five minutes he cried out, Hannah, my head, my poor head! I begged of him to compose himself and go to sleep, saying he would be better then; in about eight or nine minutes he called upon the Lord to look down upon his poor children, and said, O Lord, was I but sit to die! and I never heard him speak a word after, nor saw him open his eyes.</p>
+               <p>Q. When did he die?</p>
+               <p>H. Ridley. He died on the Saturday morning, about half an hour after nine o'clock.</p>
+               <p>Q. Can you recollect any thing else that he said?</p>
+               <p>H. Ridley. He said he believed he had got his fatal stroke.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person772">
+                  George 
+                  Bartene 
+               <interp inst="t17680224-70-person772" type="surname" value="Bartene"></interp>
+                     <interp inst="t17680224-70-person772" type="given" value="George"></interp>
+                     <interp inst="t17680224-70-person772" type="gender" value="male"></interp>
+                  </persName>
+            . I am a watchman. On the 10th of last month, about half an hour after eleven o'clock at night, I was called to go to Mr. Newton's; Mr. Ridley went to the house, and I followed him to the door; the people were gone out of the house, we were told they were gone down the Paved-alley; Ridley went down after them, I went with him to the bottom of the first steps, there are two flights of steps, I stood upon the top of the second flight going down.</p>
+               <p>Q. How many steps may there be in the lower flight?</p>
+               <p>Bartene. I believe there may be about a dozen.</p>
+               <p>Q. Did you go no lower?</p>
+               <p>Bartene. No, I did not; Ridley went down with his lanthorn and staff in his hand, there is a lamp at the bottom.</p>
+               <p>Q. Could you as you stood see what was done at the bottom?</p>
+               <p>Bartene. I could see nobody, but I heard he was knocked down; I heard him knocked down.</p>
+               <p>Q. How do you know it was him that was knocked down?</p>
+               <p>Bartene. Because I missed him some time, and then he came to the watch-house.</p>
+               <p>Q. How long did you stay upon the steps?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176802240054"></xptr>Bartene. I staid on the steps about a quarter of an hour; we had lost him a good while, and I went up to the watch house to see if I could find him.</p>
+               <p>Q. Why did you not go down?</p>
+               <p>Bartene. I was afraid to go down.</p>
+               <p>Q. Tell the Court what you heard when you was upon the steps, did you hear any scuffle?</p>
+               <p>Bartene. No, I heard no scuffle.</p>
+               <p>Q. Nor nothing said?</p>
+               <p>Bartene. No, nor no words.</p>
+               <p>Q. Could you discern who was at the bottom?</p>
+               <p>Bartene. No, I could not.</p>
+               <p>Q. What do you know of what passed?</p>
+               <p>Bartene. I heard the tongues of people at the bottom all the time I stood on the steps.</p>
+               <p>Q. When did you see Ridley next?</p>
+               <p>Bartene. That was at the watch-house.</p>
+               <p>Q. What did you hear him say at the watch-house?</p>
+               <p>Bartene. He said he had been very ill used by two or three men, knocked down, and his lanthorn beat to pieces; then I went with him to Mr. Newton's.</p>
+               <p>Q. Where was your lanthorn?</p>
+               <p>Bartene. I had no lanthorn, I had only a staff; I could notice Ridley when he was at the bottom, for he was all in darkness in a minute; I believe he was knocked down as soon as he got to the bottom of the steps; he brought his lanthorn up to the watch-house, it was knocked all to pieces.</p>
+               <p>Q. Did he mention how many blows he had bad?</p>
+               <p>Bartene. No, he did not, I saw his ear full of blood?</p>
+               <p>Q. to 
+               <persName id="t17680224-70-person773">
+                  Hannah 
+                  Ridley 
+               <interp inst="t17680224-70-person773" type="surname" value="Ridley"></interp>
+                     <interp inst="t17680224-70-person773" type="given" value="Hannah"></interp>
+                     <interp inst="t17680224-70-person773" type="gender" value="female"></interp>
+                  </persName>
+            . How was your husband as to health?</p>
+               <p>H. Ridley. He was in good health before, he ailed nothing before.</p>
+               <p>Q. What do you think was the occasion of his death?</p>
+               <p>H. Ridley. His death must most cerainly be by the blow; I saw him after he was deceased; I was at the hospital where he died, when he fetched his last breath.</p>
+               <p>Bear's defence.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person774">
+                  Daniel 
+                  Asgood 
+               <interp inst="t17680224-70-person774" type="surname" value="Asgood"></interp>
+                     <interp inst="t17680224-70-person774" type="given" value="Daniel"></interp>
+                     <interp inst="t17680224-70-person774" type="gender" value="male"></interp>
+                  </persName>
+             was very much in liquor; he struck the blow before we knew any thing at all of the matter; it was he that made the racket and disturbance in the house.</p>
+               <p>Aldridge's defence.</p>
+               <p>I never struck a blow, nor never saw a blow struck but what 
+               <persName id="t17680224-70-person775">
+                  Daniel 
+                  Asgood 
+               <interp inst="t17680224-70-person775" type="surname" value="Asgood"></interp>
+                     <interp inst="t17680224-70-person775" type="given" value="Daniel"></interp>
+                     <interp inst="t17680224-70-person775" type="gender" value="male"></interp>
+                  </persName>
+             struck.</p>
+               <p>Stoaks's defence.</p>
+               <p>I was making water at the time that Asgood ran from us, and took the staff out of the watchman's hand, and struck the blows.</p>
+               <p>To there characters.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person776">
+                  John 
+                  Brooks 
+               <interp inst="t17680224-70-person776" type="surname" value="Brooks"></interp>
+                     <interp inst="t17680224-70-person776" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person776" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear fifteen years, he was servant to me about twelve months; he was a very dutiful apprentice to his father and mother; he did my business very well, and was a very good servant to me; I never heard a bad character of him in my life. I have known Stoaks as long, I never heard any ill of him, he was always peaceable and quiet. I have known Aldridge four or five years, I never heard the least ill of him.</p>
+               <p>Q. What are you?</p>
+               <p>Brooks. I served my time at Hammersmith, and I am master of three or four craft at Fulham.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person777">
+                  Martha 
+                  Newman 
+               <interp inst="t17680224-70-person777" type="surname" value="Newman"></interp>
+                     <interp inst="t17680224-70-person777" type="given" value="Martha"></interp>
+                     <interp inst="t17680224-70-person777" type="gender" value="female"></interp>
+                  </persName>
+            . I have known Bear twelve years, he has worked for me five; he worked a barge for me, and has occasionally gone with my horses; I never knew him to be spiteful or quarrelsome.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person778">
+                  George 
+                  Stuff 
+               <interp inst="t17680224-70-person778" type="surname" value="Stuff"></interp>
+                     <interp inst="t17680224-70-person778" type="given" value="George"></interp>
+                     <interp inst="t17680224-70-person778" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Aldridge seventeen or eighteen years; he is a very sober hard working lad, never given to quarrelling, quite the reverse.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person779">
+                  Samuel 
+                  Hurlock 
+               <interp inst="t17680224-70-person779" type="surname" value="Hurlock"></interp>
+                     <interp inst="t17680224-70-person779" type="given" value="Samuel"></interp>
+                     <interp inst="t17680224-70-person779" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear from an infant, and Stoaks eighteen years; they are both well-behaved persons, I never knew them quarrelsome; as for Stoaks, there is never a quieter man upon the river; I have been in his company many a time betwixt here and Gravesend.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person780">
+                  Henry 
+                  Hawes 
+               <interp inst="t17680224-70-person780" type="surname" value="Hawes"></interp>
+                     <interp inst="t17680224-70-person780" type="given" value="Henry"></interp>
+                     <interp inst="t17680224-70-person780" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Stoaks fourteen or fifteen years; he is a careful fellow, and a very good servant; they are all three of them very good servants, I never heard them riotous or quarrelsome, they always went as quiet about their business as any three men in the kingdom.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person781">
+                  John 
+                  Nicholls 
+               <interp inst="t17680224-70-person781" type="surname" value="Nicholls"></interp>
+                     <interp inst="t17680224-70-person781" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person781" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Stoaks nine or ten years, I have known Aldridge three or four, and I never knew any harm of them in my life; they have been peaceable men.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person782">
+                  George 
+                  Walker 
+               <interp inst="t17680224-70-person782" type="surname" value="Walker"></interp>
+                     <interp inst="t17680224-70-person782" type="given" value="George"></interp>
+                     <interp inst="t17680224-70-person782" type="gender" value="male"></interp>
+                  </persName>
+            . Stoaks has done business for me at times this two years; I have lived in Hammersmith fourteen years, I never heard any thing bad of him or Bear; I have heard in general they are good tempered men as any in the world, I never heard of their being quarrelsome.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person783">
+                  John 
+                  Holland 
+               <interp inst="t17680224-70-person783" type="surname" value="Holland"></interp>
+                     <interp inst="t17680224-70-person783" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person783" type="gender" value="male"></interp>
+                  </persName>
+            . Stoaks and Bear I speak to in particular, I know the other also; the characters of Stoaks and Bear from my own observation, is that of quiet men; I have seen them prevent quarrels rather than breed them; I have seen them often do it.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person784">
+                  Thomas 
+                  Noyse 
+               <interp inst="t17680224-70-person784" type="surname" value="Noyse"></interp>
+                     <interp inst="t17680224-70-person784" type="given" value="Thomas"></interp>
+                     <interp inst="t17680224-70-person784" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear about eleven years.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176802240055"></xptr>Q. What are you?</p>
+               <p>Noyse. I keep a public-house; he has prevented quarrels oftener than made quarrels; I have known him prevent them; not above six weeks or a month ago, he took the man away in his arms, and said, we'll have no quarrelling.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person785">
+                  Robert 
+                  Hurlock 
+               <interp inst="t17680224-70-person785" type="surname" value="Hurlock"></interp>
+                     <interp inst="t17680224-70-person785" type="given" value="Robert"></interp>
+                     <interp inst="t17680224-70-person785" type="gender" value="male"></interp>
+                  </persName>
+            . I know all the three prisoners extremely well; I have known Bear eighteen years, the others ten or twelve; they are industrious, hard-working young men; I have been in company with them many times, I never saw them offend any body in my life.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person786">
+                  Henry 
+                  Smith 
+               <interp inst="t17680224-70-person786" type="surname" value="Smith"></interp>
+                     <interp inst="t17680224-70-person786" type="given" value="Henry"></interp>
+                     <interp inst="t17680224-70-person786" type="gender" value="male"></interp>
+                  </persName>
+            . I have known them all three a considerable time; I work upon the river the same as they do; I never heard an angry word from any of them, nor no body give them one.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person787">
+                  Charles 
+                  Fort 
+               <interp inst="t17680224-70-person787" type="surname" value="Fort"></interp>
+                     <interp inst="t17680224-70-person787" type="given" value="Charles"></interp>
+                     <interp inst="t17680224-70-person787" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear and Stoaks several years; Bear has been a dutiful child, and Stoaks a good servant to his master; I never knew either of them quarrelsome.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person788">
+                  Samuel 
+                  Churchill 
+               <interp inst="t17680224-70-person788" type="surname" value="Churchill"></interp>
+                     <interp inst="t17680224-70-person788" type="given" value="Samuel"></interp>
+                     <interp inst="t17680224-70-person788" type="gender" value="male"></interp>
+                  </persName>
+            . I know them all three; I never heard any harm of them in my life; they are good neighbours, civil and quiet fellows as are in all the country.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person789">
+                  James 
+                  Pond 
+               <interp inst="t17680224-70-person789" type="surname" value="Pond"></interp>
+                     <interp inst="t17680224-70-person789" type="given" value="James"></interp>
+                     <interp inst="t17680224-70-person789" type="gender" value="male"></interp>
+                  </persName>
+            . I know them all three, I never heard of their being quarrelsome.</p>
+               <p>Q. What is your business?</p>
+               <p>Pond. I work upon the river as they do.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person790">
+                  Isaac 
+                  Manley 
+               <interp inst="t17680224-70-person790" type="surname" value="Manley"></interp>
+                     <interp inst="t17680224-70-person790" type="given" value="Isaac"></interp>
+                     <interp inst="t17680224-70-person790" type="gender" value="male"></interp>
+                  </persName>
+            . I know them all three, but Bear more particularly; he has a very good honest character, a sober young man; I never heard he was quarrelsome in my life, and the other two bear the same character.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person791">
+                  John 
+                  Stockwell 
+               <interp inst="t17680224-70-person791" type="surname" value="Stockwell"></interp>
+                     <interp inst="t17680224-70-person791" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person791" type="gender" value="male"></interp>
+                  </persName>
+            . I have known them fourteen or fifteen years, I never knew them wrangling or quarrelsome in my life, very hard working young men.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person792">
+                  Robert 
+                  Ball 
+               <interp inst="t17680224-70-person792" type="surname" value="Ball"></interp>
+                     <interp inst="t17680224-70-person792" type="given" value="Robert"></interp>
+                     <interp inst="t17680224-70-person792" type="gender" value="male"></interp>
+                  </persName>
+            . I work on the river as the prisoners do; I know them all three, they bear very good characters; I never saw them quarrelsome in my life.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person793">
+                  William 
+                  Bradshaw 
+               <interp inst="t17680224-70-person793" type="surname" value="Bradshaw"></interp>
+                     <interp inst="t17680224-70-person793" type="given" value="William"></interp>
+                     <interp inst="t17680224-70-person793" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear and Stocks fourteen or fifteen years, I have been in their company several times, they were always good natured and civil.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person794">
+                  Joseph 
+                  Bradshaw 
+               <interp inst="t17680224-70-person794" type="surname" value="Bradshaw"></interp>
+                     <interp inst="t17680224-70-person794" type="given" value="Joseph"></interp>
+                     <interp inst="t17680224-70-person794" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Bear and Stoaks fourteen or fifteen years; they have very good characters, I never saw them disguised in liquor or quarrelsome in my life.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person795">
+                  Thomas 
+                  Harrington 
+               <interp inst="t17680224-70-person795" type="surname" value="Harrington"></interp>
+                     <interp inst="t17680224-70-person795" type="given" value="Thomas"></interp>
+                     <interp inst="t17680224-70-person795" type="gender" value="male"></interp>
+                  </persName>
+            . Aldridge has done business for me, I never heard an ill character of him in my life.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person796">
+                  James 
+                  Trimmer 
+               <interp inst="t17680224-70-person796" type="surname" value="Trimmer"></interp>
+                     <interp inst="t17680224-70-person796" type="given" value="James"></interp>
+                     <interp inst="t17680224-70-person796" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Aldridge about four years; he was a dutiful son, a kind husband. a tender parent in every respect as any I know, I know him to be very sober and very honest.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person797">
+                  Robert 
+                  Bagshaw 
+               <interp inst="t17680224-70-person797" type="surname" value="Bagshaw"></interp>
+                     <interp inst="t17680224-70-person797" type="given" value="Robert"></interp>
+                     <interp inst="t17680224-70-person797" type="gender" value="male"></interp>
+                  </persName>
+            . I know Stoaks and Bear, they have very good characters; Stoaks works for me; he is a good servant as ever any body had, there never was a better servant I believe to a master; I do not know for two years there has been a shilling damage done me. Bear has helped to support his father and mother, and a family of children; they have been peaceable and orderly, that is their general characters every where.</p>
+               <p>
+            
+                  <persName id="t17680224-70-person798">
+                  John 
+                  Thompson 
+               <interp inst="t17680224-70-person798" type="surname" value="Thompson"></interp>
+                     <interp inst="t17680224-70-person798" type="given" value="John"></interp>
+                     <interp inst="t17680224-70-person798" type="gender" value="male"></interp>
+                  </persName>
+            . I live at Brentford, I know them all three; I never saw them in liquor in my life; they are very orderly people.</p>
+               <p>All three <rs id="t17680224-70-verdict450" type="verdictDescription">
+                     <interp inst="t17680224-70-verdict450" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910218-2">
+               <interp inst="t16910218-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910218-2" type="year" value="1691"></interp>
+               <interp inst="t16910218-2" type="uri" value="sessionsPapers/16910218"></interp>
+               <interp inst="t16910218-2" type="date" value="16910218"></interp>
+               <join result="criminalCharge" id="t16910218-2-off8-c32" targOrder="Y" targets="t16910218-2-defend32 t16910218-2-off8 t16910218-2-verdict10"></join>
+         
+               <p>
+            
+                  <persName id="t16910218-2-defend32" type="defendantName">
+                  R - 
+                  S -
+               <interp inst="t16910218-2-defend32" type="surname" value="S -"></interp>
+                     <interp inst="t16910218-2-defend32" type="given" value="R -"></interp>
+                     <interp inst="t16910218-2-defend32" type="gender" value="male"></interp>
+                  </persName>
+            , was Indicted for <rs id="t16910218-2-off8" type="offenceDescription">
+                     <interp inst="t16910218-2-off8" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16910218-2-off8" type="offenceSubcategory" value="other"></interp>
+               cutting 10 Silver Buttons off of Mr. Pearses Coat
+            </rs> as he was standing in Pinners Hall, who swore that the Prisoner owned to have cut them off when taken, and fell upon his Knees asking 
+               <persName id="t16910218-2-victim33" type="victimName">
+                     <rs id="t16910218-2-viclabel9" type="occupation">Mr.</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16910218-2-victim33 t16910218-2-viclabel9"></join> 
+                  Pearse
+               <interp inst="t16910218-2-victim33" type="surname" value="Pearse"></interp>
+                     <interp inst="t16910218-2-victim33" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t16910218-2-off8 t16910218-2-victim33"></join>
+                  </persName>
+             forgiveness. He denied the Fact at the Tryal, yet upon the whole he was brought in <rs id="t16910218-2-verdict10" type="verdictDescription">
+                     <interp inst="t16910218-2-verdict10" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16910218-2-verdict10" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs> the Jury having a severe Check given them for the same.</p>
+               <p>
+                  <rs id="t16910218-2-punish11" type="punishmentDescription">
+                     <interp inst="t16910218-2-punish11" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16910218-2-punish11" type="punishmentSubcategory" value="publicWhipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16910218-2-defend32 t16910218-2-punish11"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

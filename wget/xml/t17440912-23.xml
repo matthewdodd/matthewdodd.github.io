@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440912-23">
+               <interp inst="t17440912-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440912-23" type="year" value="1744"></interp>
+               <interp inst="t17440912-23" type="uri" value="sessionsPapers/17440912"></interp>
+               <interp inst="t17440912-23" type="date" value="17440912"></interp>
+               <join result="criminalCharge" id="t17440912-23-off117-c164" targOrder="Y" targets="t17440912-23-defend206 t17440912-23-off117 t17440912-23-verdict119"></join>
+         
+               <p>375. 
+               
+                  <persName id="t17440912-23-defend206" type="defendantName">
+                     Sarah 
+                     Stewart 
+                  <interp inst="t17440912-23-defend206" type="surname" value="Stewart"></interp>
+                     <interp inst="t17440912-23-defend206" type="given" value="Sarah"></interp>
+                     <interp inst="t17440912-23-defend206" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440912-23-defloc116">St. Sepulchre's</placeName>
+                  <interp inst="t17440912-23-defloc116" type="placeName" value="St. Sepulchre's"></interp>
+                  <interp inst="t17440912-23-defloc116" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440912-23-defend206 t17440912-23-defloc116"></join>, was indicted for <rs id="t17440912-23-off117" type="offenceDescription">
+                     <interp inst="t17440912-23-off117" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440912-23-off117" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a copper sauce-pan and cover, value 10 s. and a candlestick, 12 d.
+            </rs> the goods of 
+               
+                  <persName id="t17440912-23-victim208" type="victimName">
+                     John 
+                     Parkes 
+                  <interp inst="t17440912-23-victim208" type="surname" value="Parkes"></interp>
+                     <interp inst="t17440912-23-victim208" type="given" value="John"></interp>
+                     <interp inst="t17440912-23-victim208" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440912-23-off117 t17440912-23-victim208"></join>
+                  </persName>
+                
+            , <rs id="t17440912-23-cd118" type="crimeDate">July 27</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440912-23-off117 t17440912-23-cd118"></join>.</p>
+               <p>Alex Carless. I saw the Prisoner take down a large sauce pan, and put it under her petticoat, while the maid went down to draw a pint of beer. When she came up, I asked her whether the Prisoner belonged to the house, and she said she did not. I said she had a sauce-pan under her petticoat, and the maid took it away from her.</p>
+               <p>Doborah Baker. I took my master's sauce-pan from under the prisoner's petticoat. <rs id="t17440912-23-verdict119" type="verdictDescription">
+                     <interp inst="t17440912-23-verdict119" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17440912-23-verdict119" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17440912-23-punish120" type="punishmentDescription">
+                     <interp inst="t17440912-23-punish120" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440912-23-defend206 t17440912-23-punish120"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

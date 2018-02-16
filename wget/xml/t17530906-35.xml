@@ -1,3 +1,72 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17530906-35">
+               <interp inst="t17530906-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17530906-35" type="year" value="1753"></interp>
+               <interp inst="t17530906-35" type="uri" value="sessionsPapers/17530906"></interp>
+               <interp inst="t17530906-35" type="date" value="17530906"></interp>
+               <join result="criminalCharge" id="t17530906-35-off176-c181" targOrder="Y" targets="t17530906-35-defend249 t17530906-35-off176 t17530906-35-verdict181"></join>
+         
+               <p>412. (M.) 
+               <persName id="t17530906-35-defend249" type="defendantName">
+                  Elizabeth, <rs id="t17530906-35-deflabel175" type="occupation">wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17530906-35-defend249 t17530906-35-deflabel175"></join> of 
+                     <persName id="t17530906-35-person250">
+                        Abraham 
+                        Enslow 
+                     <interp inst="t17530906-35-person250" type="surname" value="Enslow"></interp>
+                        <interp inst="t17530906-35-person250" type="given" value="Abraham"></interp>
+                        <interp inst="t17530906-35-person250" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17530906-35-defend249" type="surname" value="Enslow"></interp>
+                     <interp inst="t17530906-35-defend249" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17530906-35-defend249" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17530906-35-off176" type="offenceDescription">
+                     <interp inst="t17530906-35-off176" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17530906-35-off176" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one camblet petticoat, value 15 d. one holland shirt, one pair of stays, one linnen handkerchief, two cambrick hoods laced, one linnen shirt, one pound and a half of linnen rags
+            </rs>; the goods of 
+               
+                  <persName id="t17530906-35-victim252" type="victimName">
+                     Nicholas 
+                     Carey 
+                  <interp inst="t17530906-35-victim252" type="surname" value="Carey"></interp>
+                     <interp inst="t17530906-35-victim252" type="given" value="Nicholas"></interp>
+                     <interp inst="t17530906-35-victim252" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17530906-35-off176 t17530906-35-victim252"></join>
+                  </persName>
+                
+            , <rs id="t17530906-35-cd177" type="crimeDate">June 9</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17530906-35-off176 t17530906-35-cd177"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17530906-35-person253">
+                  Nicholas 
+                  Carey 
+               <interp inst="t17530906-35-person253" type="surname" value="Carey"></interp>
+                     <interp inst="t17530906-35-person253" type="given" value="Nicholas"></interp>
+                     <interp inst="t17530906-35-person253" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17530906-35-viclabel178" type="occupation">porter</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530906-35-victim252 t17530906-35-viclabel178"></join>, and live in <placeName id="t17530906-35-crimeloc179">Shoreditch</placeName>
+                  <interp inst="t17530906-35-crimeloc179" type="placeName" value="Shoreditch"></interp>
+                  <interp inst="t17530906-35-crimeloc179" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17530906-35-off176 t17530906-35-crimeloc179"></join>; on the 9th of June I was robbed of all the goods mentioned in the indictment, I missed them the same night the prisoner lived <rs id="t17530906-35-deflabel180" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17530906-35-defend249 t17530906-35-deflabel180"></join> with me, she was missing also; I took her up, and charged her with taking them away; then she said if I would be easy, she would get me them all again, but she never did, she has the petticoat on her now.</p>
+               <p>
+            
+                  <persName id="t17530906-35-person254">
+                  Susannah 
+                  Carey 
+               <interp inst="t17530906-35-person254" type="surname" value="Carey"></interp>
+                     <interp inst="t17530906-35-person254" type="given" value="Susannah"></interp>
+                     <interp inst="t17530906-35-person254" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the prosecutor, I hired the prisoner by the week, and left her in full charge of my house and things, and my young child with her; I came home about six o'clock on the 9th of June, I found my child in the street, and the prisoner and things gone; about six weeks after, she came and surrendered herself to my husband, then in his and my hearing she acknowledged several times, she took all the goods mentioned, and said she was very uneasy in her mind, on account of her character being talked on so much about it, so that she could get no work.</p>
+               <p>Prisoner's Defence.</p>
+               <p>She lent me the gown, <rs id="t17530906-35-verdict181" type="verdictDescription">
+                     <interp inst="t17530906-35-verdict181" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

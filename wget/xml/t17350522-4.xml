@@ -1,3 +1,46 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350522-4">
+               <interp inst="t17350522-4" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350522-4" type="year" value="1735"></interp>
+               <interp inst="t17350522-4" type="uri" value="sessionsPapers/17350522"></interp>
+               <interp inst="t17350522-4" type="date" value="17350522"></interp>
+               <join result="criminalCharge" id="t17350522-4-off22-c52" targOrder="Y" targets="t17350522-4-defend59 t17350522-4-off22 t17350522-4-verdict24"></join>
+         
+               <p>4. 
+               
+                  <persName id="t17350522-4-defend59" type="defendantName">
+                     William 
+                     Hughs 
+                  <interp inst="t17350522-4-defend59" type="surname" value="Hughs"></interp>
+                     <interp inst="t17350522-4-defend59" type="given" value="William"></interp>
+                     <interp inst="t17350522-4-defend59" type="gender" value="male"></interp>
+                  </persName>
+               
+             (a <rs id="t17350522-4-deflabel21" type="occupation">Soldier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17350522-4-defend59 t17350522-4-deflabel21"></join>,) of St. Martins in the Fields was indicted for the <rs id="t17350522-4-off22" type="offenceDescription">
+                     <interp inst="t17350522-4-off22" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17350522-4-off22" type="offenceSubcategory" value="murder"></interp>
+               Murder of 
+                     
+                        <persName id="t17350522-4-victim61" type="victimName">
+                           Catherine 
+                           Jones 
+                        <interp inst="t17350522-4-victim61" type="surname" value="Jones"></interp>
+                        <interp inst="t17350522-4-victim61" type="given" value="Catherine"></interp>
+                        <interp inst="t17350522-4-victim61" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350522-4-off22 t17350522-4-victim61"></join>
+                     </persName>
+                      
+                   (his own Mother) by wilfully discharging a Musket loaded with Powder and a Leaden Bullet, and thereby giving her one Mortal Wound in the right side of the Head above the right Ear of the breadth of six Inches and depth of five Inches, of which Mortal Wound she instantly died
+            </rs>, <rs id="t17350522-4-cd23" type="crimeDate">May 8</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350522-4-off22 t17350522-4-cd23"></join>.</p>
+               <p>He was a second time indicted on the Coroner's Inquisition for the said Murder to both which Indictments he <rs id="t17350522-4-verdict24" type="verdictDescription">
+                     <interp inst="t17350522-4-verdict24" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17350522-4-verdict24" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>; and thereupon receiv'd Sentence of <rs id="t17350522-4-punish25" type="punishmentDescription">
+                     <interp inst="t17350522-4-punish25" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17350522-4-defend59 t17350522-4-punish25"></join>
+               Death
+            </rs>.</p>
+            </div1>

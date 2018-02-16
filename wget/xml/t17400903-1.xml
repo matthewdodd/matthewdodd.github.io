@@ -1,3 +1,123 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400903-1">
+               <interp inst="t17400903-1" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400903-1" type="year" value="1740"></interp>
+               <interp inst="t17400903-1" type="uri" value="sessionsPapers/17400903"></interp>
+               <interp inst="t17400903-1" type="date" value="17400903"></interp>
+               <join result="criminalCharge" id="t17400903-1-off2-c28" targOrder="Y" targets="t17400903-1-defend29 t17400903-1-off2 t17400903-1-verdict7"></join>
+               <join result="criminalCharge" id="t17400903-1-off2-c29" targOrder="Y" targets="t17400903-1-defend31 t17400903-1-off2 t17400903-1-verdict7"></join>
+         
+               <p>362, 363. 
+               
+                  <persName id="t17400903-1-defend29" type="defendantName">
+                     Thomas 
+                     Cane 
+                  <interp inst="t17400903-1-defend29" type="surname" value="Cane"></interp>
+                     <interp inst="t17400903-1-defend29" type="given" value="Thomas"></interp>
+                     <interp inst="t17400903-1-defend29" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17400903-1-defend31" type="defendantName">
+                     Thomas 
+                     Dennet 
+                  <interp inst="t17400903-1-defend31" type="surname" value="Dennet"></interp>
+                     <interp inst="t17400903-1-defend31" type="given" value="Thomas"></interp>
+                     <interp inst="t17400903-1-defend31" type="gender" value="male"></interp>
+                  </persName>
+                
+             (a little <rs id="t17400903-1-deflabel1" type="occupation">Boy</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17400903-1-defend31 t17400903-1-deflabel1"></join>) were indicted for <rs id="t17400903-1-off2" type="offenceDescription">
+                     <interp inst="t17400903-1-off2" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400903-1-off2" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 2 Mens Hats, val. 21 s.
+            </rs> the Goods of 
+               <persName id="t17400903-1-victim32" type="victimName">
+                  George 
+                  Ithill 
+               <interp inst="t17400903-1-victim32" type="surname" value="Ithill"></interp>
+                     <interp inst="t17400903-1-victim32" type="given" value="George"></interp>
+                     <interp inst="t17400903-1-victim32" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400903-1-off2 t17400903-1-victim32"></join>
+                  </persName>
+              , in the Parish of <placeName id="t17400903-1-defloc3">St Ann's Aldersgate</placeName>
+                  <interp inst="t17400903-1-defloc3" type="placeName" value="St Ann's Aldersgate"></interp>
+                  <interp inst="t17400903-1-defloc3" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400903-1-defend29 t17400903-1-defloc3"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17400903-1-defend31 t17400903-1-defloc3"></join>, <rs id="t17400903-1-cd4" type="crimeDate">July 15</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400903-1-off2 t17400903-1-cd4"></join>.</p>
+               <p>George Ithill . I was out of Town when the Fact was done; I only say the Goods were mine; I saw them at the Constable's House; but I know nothing of the Prisoners: I never saw them before.</p>
+               <p>
+            
+                  <persName id="t17400903-1-person33">
+                  Mary 
+                  Cross 
+               <interp inst="t17400903-1-person33" type="surname" value="Cross"></interp>
+                     <interp inst="t17400903-1-person33" type="given" value="Mary"></interp>
+                     <interp inst="t17400903-1-person33" type="gender" value="female"></interp>
+                  </persName>
+            . I saw the Man at the Bar (Cane) take the 2 Hats out of the Shop-Window, in <placeName id="t17400903-1-crimeloc5">St Martin's</placeName>
+                  <interp inst="t17400903-1-crimeloc5" type="placeName" value="St Martin's"></interp>
+                  <interp inst="t17400903-1-crimeloc5" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17400903-1-off2 t17400903-1-crimeloc5"></join>, - I can't remember the day of the Month.</p>
+               <p>Ithill . It was the 15th of July.</p>
+               <p>Cross. The Hats were just going to be pack'd up, in order to be sent to Bristol. I know Cane is the Man who took them, for I saw his face, and he was taken immediately, - within a quarter of an Hour - at a Barber's Shop, just at the next Door.</p>
+               <p>
+            
+                  <persName id="t17400903-1-person34">
+                  Joseph 
+                  Monday 
+               <interp inst="t17400903-1-person34" type="surname" value="Monday"></interp>
+                     <interp inst="t17400903-1-person34" type="given" value="Joseph"></interp>
+                     <interp inst="t17400903-1-person34" type="gender" value="male"></interp>
+                  </persName>
+            . I was Mr Ithill's Apprentice, and was packing up Goods in the Shop, at the time these 2 Hats were stole. Mrs Cross sat near the Window from whence they were taken; and while I was busy, she cryed out, - a Man has taken a Hat, and has run away with it! I ran to the Door, but saw no body near; She made a Motion with her hand, to shew me which way he went, so I looked towards Angel-Street, and saw a Boy, (the Prisoner Dennet) putting something under his apron. I pursued him 4 or 5 Doors up Angel-Street and seized him. I asked him what he had got under his Apron, and he told me he had nothing; but upon my turning up his Apron, there were these two Hats. I am sure they are Mr Ithill's, for here are the Marks which I put upon them; and I am positive Dennet is the Boy I took them from; for I took the Goods from him, and brought him back to our Shop, and as I passed by the Barber's Shop at next Door, the Barber called me in, and told me he believed he had got the Boy's Confederate; so I took both the Man and the Boy into our Shop, and charged a Constable with them. We asked them if they knew one another, and they said no, they did not; and denied that they knew any thing of the matter, only the Boy said, he picked them up under the Shop-Window. Upon this we carried them before the Lord-Mayor, and being obliged to wait a little while for a Hearing, we went to the Fleece Alehouse , and there the Prisoner Cane desired us to speak favourably of him before my Lord-Mayor, and then he would go to Sea directly, and would never be seen again here. The Barber asked him<xptr type="pageFacsimile" doc="174009030003"></xptr> twice if his name was not Perkins ? He told him, it was not. Yes it is, says the Barber, and you * was tryed last Sessions for stealing wet Linnen. He was asked again what his name was, and he said it was Thomas Cane.</p>
+               <p>* Thomas Perkins and 
+               <persName id="t17400903-1-person35">
+                  John 
+                  Cable 
+               <interp inst="t17400903-1-person35" type="surname" value="Cable"></interp>
+                     <interp inst="t17400903-1-person35" type="given" value="John"></interp>
+                     <interp inst="t17400903-1-person35" type="gender" value="male"></interp>
+                  </persName>
+             were tryed last Sessions, for stealing 2 Shirts. Perkins was then acquitted , and Cable cast for transportation.</p>
+               <p>
+            
+                  <persName id="t17400903-1-person36">
+                  Thomas 
+                  Parker 
+               <interp inst="t17400903-1-person36" type="surname" value="Parker"></interp>
+                     <interp inst="t17400903-1-person36" type="given" value="Thomas"></interp>
+                     <interp inst="t17400903-1-person36" type="gender" value="male"></interp>
+                  </persName>
+            . I am a Peruke-maker, and live next Door to Mr Ithill. I saw the 2 Prisoners, the Man and the Boy, talking together about 2 Minutes at my Window, and very soon after this the Man (Cane) chopp'd into my Shop, and seemed to be very much surpriz'd, which gave me a suspicion that he was a Thief. I had seen Mr Ithill's Man run past my Window, and seeing him come back again with the Boy, I asked him to come into my Shop, for I believed I had got the Boy's Companion. I did not see any thing of the Robbery, only the Man came into my Shop in a Flurry, and pull'd off his Wig, and desired me to comb it, tho' it looked as if it had been just comb'd, and having seen him talk to the Boy but a little before at my Window, it made me suspect they were Confederates.</p>
+               <p>Prisoner Dennet. Ask him if he is sure I was the Boy that Cane was talking to?</p>
+               <p>Parker. Yes, I am.</p>
+               <p>
+            
+                  <persName id="t17400903-1-person37">
+                  Joseph 
+                  Monday 
+               <interp inst="t17400903-1-person37" type="surname" value="Monday"></interp>
+                     <interp inst="t17400903-1-person37" type="given" value="Joseph"></interp>
+                     <interp inst="t17400903-1-person37" type="gender" value="male"></interp>
+                  </persName>
+            . I am sure he was the Boy I took the Hats from, in Angel street.</p>
+               <p>Prisoner Cane. I was going along St Martin's, and a Cart coming by, I went in at the Barber's to have my Wig powdered, and called for Water to wash my Hands and Face: while I was in the Shop they took this Boy, and bringing him back, the Barber went out to know what was the Matter, and so he brought the People in, to see if I was not the Man who took the Hats. The Woman (Mrs Cross) said she knew me by my blue Coat; I told her, that was very hard, - because many others wear blue Coats; but then she looked in my Face, and said, she would swear I was the Man who took them, tho' I am a <rs id="t17400903-1-deflabel6" type="occupation">Chair-maker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17400903-1-defend29 t17400903-1-deflabel6"></join> by Trade, and work hard for every Bit of Bread I eat.</p>
+               <p>Dennet the Boy. I was but just come out of the Country, and was going down St Martin's to see my Aunt, and a Cart coming by had like to have gone over the Hats, but I was for picking them up, and then I put them under my Apron. The young Man followed me, and asked me what I had got? I told him I had got two Hats, and that I had found them; so I gave them to him directly. I have no Friends here; they are all at Charlton in Kent. Both <rs id="t17400903-1-verdict7" type="verdictDescription">
+                     <interp inst="t17400903-1-verdict7" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17400903-1-punish8" type="punishmentDescription">
+                     <interp inst="t17400903-1-punish8" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400903-1-defend29 t17400903-1-punish8"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400903-1-defend31 t17400903-1-punish8"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

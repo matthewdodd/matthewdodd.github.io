@@ -1,3 +1,413 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17641212-51">
+               <interp inst="t17641212-51" type="collection" value="BAILEY"></interp>
+               <interp inst="t17641212-51" type="year" value="1764"></interp>
+               <interp inst="t17641212-51" type="uri" value="sessionsPapers/17641212"></interp>
+               <interp inst="t17641212-51" type="date" value="17641212"></interp>
+               <join result="criminalCharge" id="t17641212-51-off259-c266" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off259-c267" targOrder="Y" targets="t17641212-51-person367 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off259-c268" targOrder="Y" targets="t17641212-51-person368 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off259-c269" targOrder="Y" targets="t17641212-51-person369 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off259-c270" targOrder="Y" targets="t17641212-51-person370 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off259-c271" targOrder="Y" targets="t17641212-51-person371 t17641212-51-off259 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c266" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-off264 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c267" targOrder="Y" targets="t17641212-51-person367 t17641212-51-off264 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c268" targOrder="Y" targets="t17641212-51-person368 t17641212-51-off264 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c269" targOrder="Y" targets="t17641212-51-person369 t17641212-51-off264 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c270" targOrder="Y" targets="t17641212-51-person370 t17641212-51-off264 t17641212-51-verdict263"></join>
+               <join result="criminalCharge" id="t17641212-51-off264-c271" targOrder="Y" targets="t17641212-51-person371 t17641212-51-off264 t17641212-51-verdict263"></join>
+         
+               <p>53. (M.) 
+               <persName id="t17641212-51-defend366" type="defendantName">
+                  Sarah
+                   Lane, <rs id="t17641212-51-deflabel258" type="occupation">spinster</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-deflabel258"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-person367 t17641212-51-deflabel258"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-person368 t17641212-51-deflabel258"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-person369 t17641212-51-deflabel258"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-person370 t17641212-51-deflabel258"></join>
+                     <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-person371 t17641212-51-deflabel258"></join>, otherwise Sarah, wife of 
+                     <persName id="t17641212-51-person367" type="defendantName">
+                        William 
+                        <rs id="t17641212-51-alias-3" type="alias">
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-alias-3"></join>
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-person367 t17641212-51-alias-3"></join>Merchant</rs>
+                        <interp inst="t17641212-51-person367" type="given" value="William"></interp>
+                        <interp inst="t17641212-51-person367" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise wife of 
+                     <persName id="t17641212-51-person368" type="defendantName">
+                        George 
+                        <rs id="t17641212-51-alias-4" type="alias">
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-alias-4"></join>
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-person368 t17641212-51-alias-4"></join>Errington</rs>
+                        <interp inst="t17641212-51-person368" type="given" value="George"></interp>
+                        <interp inst="t17641212-51-person368" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise wife of 
+                     <persName id="t17641212-51-person369" type="defendantName">
+                        Thomas 
+                        <rs id="t17641212-51-alias-5" type="alias">
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-alias-5"></join>
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-person369 t17641212-51-alias-5"></join>Flint</rs>
+                        <interp inst="t17641212-51-person369" type="given" value="Thomas"></interp>
+                        <interp inst="t17641212-51-person369" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise wife of 
+                     <persName id="t17641212-51-person370" type="defendantName">
+                        Thomas 
+                        <rs id="t17641212-51-alias-6" type="alias">
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-alias-6"></join>
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-person370 t17641212-51-alias-6"></join>Morgan</rs>
+                        <interp inst="t17641212-51-person370" type="given" value="Thomas"></interp>
+                        <interp inst="t17641212-51-person370" type="gender" value="male"></interp>
+                     </persName>
+                  , otherwise wife of 
+                     <persName id="t17641212-51-person371" type="defendantName">
+                        Henry
+                         Adam 
+                        <rs id="t17641212-51-alias-7" type="alias">
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-alias-7"></join>
+                           <join result="nameAlias" targOrder="Y" targets="t17641212-51-person371 t17641212-51-alias-7"></join>Stedman</rs>
+                        <interp inst="t17641212-51-person371" type="surname" value="Adam"></interp>
+                        <interp inst="t17641212-51-person371" type="given" value="Henry"></interp>
+                        <interp inst="t17641212-51-person371" type="gender" value="male"></interp>
+                     </persName>
+                  
+                     <interp inst="t17641212-51-defend366" type="surname" value="Lane"></interp>
+                     <interp inst="t17641212-51-defend366" type="given" value="Sarah"></interp>
+                     <interp inst="t17641212-51-defend366" type="gender" value="female"></interp>
+                  </persName>
+            , was indicted for <rs id="t17641212-51-off259" type="offenceDescription">
+                     <interp inst="t17641212-51-off259" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17641212-51-off259" type="offenceSubcategory" value="theftFromPlace"></interp>
+               stealing 20 yards of thread lace, value 3 l. 50 yards of silk ribbon, value 20 s. three pair of leather gloves, value 3 s. and two yards of muslin, value 8 s. the property of 
+                     
+                        <persName id="t17641212-51-victim373" type="victimName">
+                           Richard 
+                           Groom 
+                        <interp inst="t17641212-51-victim373" type="surname" value="Groom"></interp>
+                        <interp inst="t17641212-51-victim373" type="given" value="Richard"></interp>
+                        <interp inst="t17641212-51-victim373" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , in his dwelling house
+            </rs>, <rs id="t17641212-51-cd260" type="crimeDate">September 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-51-off259 t17641212-51-cd260"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-51-off264 t17641212-51-cd260"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17641212-51-person374">
+                  Elizabeth 
+                  Groom 
+               <interp inst="t17641212-51-person374" type="surname" value="Groom"></interp>
+                     <interp inst="t17641212-51-person374" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17641212-51-person374" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to 
+               <persName id="t17641212-51-person375">
+                  Richard 
+                  Groom 
+               <interp inst="t17641212-51-person375" type="surname" value="Groom"></interp>
+                     <interp inst="t17641212-51-person375" type="given" value="Richard"></interp>
+                     <interp inst="t17641212-51-person375" type="gender" value="male"></interp>
+                  </persName>
+            ; he is a <rs id="t17641212-51-viclabel261" type="occupation">haberdasher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17641212-51-victim373 t17641212-51-viclabel261"></join>; we live in <placeName id="t17641212-51-crimeloc262">Berwick-street</placeName>
+                  <interp inst="t17641212-51-crimeloc262" type="placeName" value="Berwick-street"></interp>
+                  <interp inst="t17641212-51-crimeloc262" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17641212-51-off259 t17641212-51-crimeloc262"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17641212-51-off264 t17641212-51-crimeloc262"></join>: on the 10th of July the prisoner took a lodging for a month up one pair of stairs: a gentleman came with her, who she said she was to be married to at the month's end, named Flint. She was frequently in my shop; sometimes she has been in my house when I have been out; she assisted my husband at fairs: I miss'd goods about the latter end of August; Flint was then gone; she left her lodging the first of September; my husband went to see after her, for money he lent her, and for rent: I had information there were some of my goods at 
+               <persName id="t17641212-51-person376">
+                  Ann 
+                  Willis 
+               <interp inst="t17641212-51-person376" type="surname" value="Willis"></interp>
+                     <interp inst="t17641212-51-person376" type="given" value="Ann"></interp>
+                     <interp inst="t17641212-51-person376" type="gender" value="female"></interp>
+                  </persName>
+            's, in Holborn Court, No. 7. there I found fine lace, ribbons, and gloves: at that time I was informed there were more goods in the Savoy, at Mrs. Harris's house; there I found seven pieces of ribbon, and about twenty yards of lace: she used frequently to assist us in the shop.</p>
+         
+               <p>N. B. The LAST PART of these PROCEEDINGS will be published in a few Days.</p>
+         
+               <div1 type="frontMatter" id="t17641212-51">
+                  <interp inst="t17641212-51" type="collection" value="BAILEY"></interp>
+                  <interp inst="t17641212-51" type="year" value="1764"></interp>
+                  <interp inst="t17641212-51" type="uri" value="sessionsPapers/17641212"></interp>
+                  <interp inst="t17641212-51" type="date" value="17641212"></interp>
+            
+                  <p>
+                     <xptr type="pageFacsimile" doc="176412120025"></xptr>THE WHOLE PROCEEDINGS ON THE King's Commission of the Peace, Oyer and Terminer, and Gaol-Delivery FOR THE CITY of LONDON; And also the Gaol-Delivery for the County of MIDDLESEX, HELD AT JUSTICE-HALL in the OLD-BAILEY, On Wednesday the 12th, Thursday the 13th, Friday the 14th, Saturday the 15th, and Monday the 17th of DECEMBER.</p>
+                  <p>In the Fifth Year of His MAJESTY's Reign. Being the First SESSION in the MAYORALTY of The Right Honble Sir 
+                  <persName id="t17641212-51-person377">
+                     William 
+                     Stephenson 
+                  <interp inst="t17641212-51-person377" type="surname" value="Stephenson"></interp>
+                        <interp inst="t17641212-51-person377" type="given" value="William"></interp>
+                        <interp inst="t17641212-51-person377" type="gender" value="male"></interp>
+                     </persName>
+               , Knt. LORD-MAYOR of the CITY of LONDON.</p>
+                  <p>NUMBER I. PART II. for the YEAR 1764.</p>
+                  <p>LONDON:</p>
+                  <p>Sold by W. NICOLL, in St. Paul's Church-yard.</p>
+                  <p>[Price SIX-PENCE.]</p>
+                  <p>
+                     <xptr type="pageFacsimile" doc="176412120026"></xptr>THE PROCEEDINGS ON THE</p>
+                  <p>King's Commission of the Peace, Oyer and Terminer, and Gaol-Delivery, held for the City of LONDON, &amp;c.</p>
+               </div1>
+               <p>[Continuation of the Trial of S. Lane.]</p>
+               <p>E. Groom. THE goods were taken into custody by the constable; then we went to see for the prisoner; she was taken in the Savoy, and brought to Sir 
+               <persName id="t17641212-51-person378">
+                  John 
+                  Fielding 
+               <interp inst="t17641212-51-person378" type="surname" value="Fielding"></interp>
+                     <interp inst="t17641212-51-person378" type="given" value="John"></interp>
+                     <interp inst="t17641212-51-person378" type="gender" value="male"></interp>
+                  </persName>
+            ; the goods and things were examined there; I swore to my goods; some were pawned in King-street, Seven-dials (Lace and ribbons produced in court); these were found at Mrs. Harris's: I know this lace by the joining, by the quantity, and by the pattern, to be mine; the ribbons are pieces of ribbons, the same patterns as I missed; (a piece of plain muslin produced); I have the same as this at home; I am certain to it; this is trifling, to what I lost.</p>
+               <p>Q. Are there not abundance of lace and muslin of the same pattern and quality to be met with?</p>
+               <p>E. Groom. There may; I was very particular to the lace.</p>
+               <p>Q. What did the prisoner say, when you charg'd her at Sir 
+               <persName id="t17641212-51-person379">
+                  John 
+                  Fielding 
+               <interp inst="t17641212-51-person379" type="surname" value="Fielding"></interp>
+                     <interp inst="t17641212-51-person379" type="given" value="John"></interp>
+                     <interp inst="t17641212-51-person379" type="gender" value="male"></interp>
+                  </persName>
+            's?</p>
+               <p>E. Groom. She said but little.</p>
+               <p>Q. from prisoner. Whether you did not much solicit me, divers times, to come and assist you in your shop?</p>
+               <p>E. Groom. She was frequently to and fro, with my consent.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person380">
+                  Richard 
+                  Groom 
+               <interp inst="t17641212-51-person380" type="surname" value="Groom"></interp>
+                     <interp inst="t17641212-51-person380" type="given" value="Richard"></interp>
+                     <interp inst="t17641212-51-person380" type="gender" value="male"></interp>
+                  </persName>
+            . I am the prosecutor. I trusted the prisoner in the manner my wife has informed the court: the things were first missed in the latter end of August; we had several search-warrants before we could find them out; we found some at the Savoy, which we missed.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person381">
+                  Anne 
+                  Harris 
+               <interp inst="t17641212-51-person381" type="surname" value="Harris"></interp>
+                     <interp inst="t17641212-51-person381" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person381" type="gender" value="female"></interp>
+                  </persName>
+            . I keep a public-house, the Golden anchor, in the Savoy. The prisoner came to my house, and said, she was going out of town, and desired me to lend her half a guinea; she said she had quarrelled with her sister, and could not get her money nor cloaths. I said she was a stranger to me, and I did not care to lend any thing without something for security. She said she had nothing, but she would get her things, and then she would pay me. I lent her half a guinea; this I believe was in November; she said she had lace and ribbons in pawn in King-street, Seven-dials, and if I would take them out, she would pay me: I sent and got them out.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person382">
+                  Alice 
+                  Wright 
+               <interp inst="t17641212-51-person382" type="surname" value="Wright"></interp>
+                     <interp inst="t17641212-51-person382" type="given" value="Alice"></interp>
+                     <interp inst="t17641212-51-person382" type="gender" value="female"></interp>
+                  </persName>
+            . I was out of place, and at Mrs. Harris's house: she desired me to go with the prisoner, to fetch these things out of pawn; I went into King-street with the prisoner; she called for them, and brought them to Mrs. Harris; and the prisoner gave me this bit of lace for my trouble;<xptr type="pageFacsimile" doc="176412120027"></xptr> (produced in court): here is four yards of it: she gave me also a bit of ribbon.</p>
+               <p>E. Groom. I can swear this lace is my property.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person383">
+                  Anne 
+                  Willis 
+               <interp inst="t17641212-51-person383" type="surname" value="Willis"></interp>
+                     <interp inst="t17641212-51-person383" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person383" type="gender" value="female"></interp>
+                  </persName>
+            . The prisoner gave me two yards and a quarter of lace, a pair of leather gloves, and a few ribbons. (Produced in court).</p>
+               <p>Q. When did she give you these?</p>
+               <p>
+            
+                  <persName id="t17641212-51-person384">
+                  Anne 
+                  Willis 
+               <interp inst="t17641212-51-person384" type="surname" value="Willis"></interp>
+                     <interp inst="t17641212-51-person384" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person384" type="gender" value="female"></interp>
+                  </persName>
+            . About a fortnight before she was taken up.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I had these things of 
+               <persName id="t17641212-51-person385">
+                  Jane 
+                  Bullock 
+               <interp inst="t17641212-51-person385" type="surname" value="Bullock"></interp>
+                     <interp inst="t17641212-51-person385" type="given" value="Jane"></interp>
+                     <interp inst="t17641212-51-person385" type="gender" value="female"></interp>
+                  </persName>
+            , before I came to Mr. Groom's house. In the month of April, I bought ribbons, tapes, laces, and divers things to sell again: I trusted, so that I could not go to market again. In July, I came to the prosecutor's, and I pledged divers pieces of ribbon, when I was short of money: this lace I had last Christmas was twelvemonths; here is a gentleman in court, will prove where I bought these things.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person386">
+                  Jane 
+                  Bullock 
+               <interp inst="t17641212-51-person386" type="surname" value="Bullock"></interp>
+                     <interp inst="t17641212-51-person386" type="given" value="Jane"></interp>
+                     <interp inst="t17641212-51-person386" type="gender" value="female"></interp>
+                  </persName>
+            . To the best of my Knowledge, I have seen this lace before (taking up a handkerchief) I mean the lace round this; I live at Mill-bank.</p>
+               <p>Q. Where did you see it before?</p>
+               <p>J. Bullock. In the hands of the prisoner, the latter end of February; then it was new lace: she was about a week or ten days in the house where I was.</p>
+               <p>Q. Are you a judge of lace?</p>
+               <p>J. Bullock. No: I am a washerwoman, I cannot swear this is it.</p>
+               <p>Q. What is the price of it?</p>
+               <p>J. Bullock. I don't know. I have known her four months.</p>
+               <p>Q. What business was she?</p>
+               <p>J. Bullock. She never did any work, as I know of.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person387">
+                  Dorothy 
+                  Wells 
+               <interp inst="t17641212-51-person387" type="surname" value="Wells"></interp>
+                     <interp inst="t17641212-51-person387" type="given" value="Dorothy"></interp>
+                     <interp inst="t17641212-51-person387" type="gender" value="female"></interp>
+                  </persName>
+            . I keep a lodging-house, at Newington, in Surry; the prisoner was at my house seven or eight months ago, and lodged there; she sold ribbons, lace, tapes, thread, and something of every thing. She carried them about in her hand, in a handkerchief.</p>
+               <p>Q. What sort of laces did she sell?</p>
+               <p>Wells. I never examined what sort. I have bought laces to lace stays with of her.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person388">
+                  Anne 
+                  Gray 
+               <interp inst="t17641212-51-person388" type="surname" value="Gray"></interp>
+                     <interp inst="t17641212-51-person388" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person388" type="gender" value="female"></interp>
+                  </persName>
+            . I live in Dutchy-lane, in the Savoy. I pledged ribbons for the prisoner in King-street, Seven-dials, before she went to live with Mr. Groom.</p>
+               <p>Q. What are you?</p>
+               <p>Willis. I am a washerwoman, and scour and iron.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person389">
+                  Thomas 
+                  Armitage 
+               <interp inst="t17641212-51-person389" type="surname" value="Armitage"></interp>
+                     <interp inst="t17641212-51-person389" type="given" value="Thomas"></interp>
+                     <interp inst="t17641212-51-person389" type="gender" value="male"></interp>
+                  </persName>
+            . I live in St. Martin's-le-grand. I did once live with a haberdasher, at Holborn-bridge, at Messrs. Jones and Cross's; (he produced two bills of parcels): they are for threads, tapes, laces, needles, pins, and such like: one is dated the 3d of April, 1764, and the other the 4th of April, 1764.</p>
+               <p>Q. What sort of laces?</p>
+               <p>Armitage. Half penny and penny laces.</p>
+               <p>Q. Any fine laces?</p>
+               <p>Armitage. No.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person390">
+                  Sarah 
+                  Rogers 
+               <interp inst="t17641212-51-person390" type="surname" value="Rogers"></interp>
+                     <interp inst="t17641212-51-person390" type="given" value="Sarah"></interp>
+                     <interp inst="t17641212-51-person390" type="gender" value="female"></interp>
+                  </persName>
+            . I am a lodger at Mrs. Groom's house. I never heard Mrs. Groom say she had lost any thing, till after the quarrel between the prisoner and Mrs. Willis.</p>
+               <p>Q. When was that quarrel?</p>
+               <p>Rogers. I do not know.</p>
+               <p>Q. Was it before or since the prisoner was in custody?</p>
+               <p>Rogers. It was since. There was an old woman, that came to the door, told Mrs. Groom she came from Mrs. Willis, and that she said the prisoner had robbed Mrs. Groom. Mrs. Groom's daughter told me that 
+               <persName id="t17641212-51-person391">
+                  Anne 
+                  Willis 
+               <interp inst="t17641212-51-person391" type="surname" value="Willis"></interp>
+                     <interp inst="t17641212-51-person391" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person391" type="gender" value="female"></interp>
+                  </persName>
+             would pay for transporting the prisoner, rather than lose her friend, that was a man that kept her.</p>
+               <p>
+            
+                  <persName id="t17641212-51-person392">
+                  Sarah 
+                  Joyner 
+               <interp inst="t17641212-51-person392" type="surname" value="Joyner"></interp>
+                     <interp inst="t17641212-51-person392" type="given" value="Sarah"></interp>
+                     <interp inst="t17641212-51-person392" type="gender" value="female"></interp>
+                  </persName>
+            . I live at the Hampshire-hog, in Berwick-street. I heard Mrs. Groom say (when somebody said the prisoner was a very handsome woman) that she was a very honest woman.</p>
+               <p>Q. to 
+               <persName id="t17641212-51-person393">
+                  Anne 
+                  Willis 
+               <interp inst="t17641212-51-person393" type="surname" value="Willis"></interp>
+                     <interp inst="t17641212-51-person393" type="given" value="Anne"></interp>
+                     <interp inst="t17641212-51-person393" type="gender" value="female"></interp>
+                  </persName>
+            . Did you ever quarrel with the prisoner?</p>
+               <p>Willis. No, never in my life. Mr. Groom came to enquire after the prisoner, and said she owed him nine guineas. I asked him to go up into my room; there he saw a pair of gloves, and said they were his. I said the prisoner gave them to me, and she had given me two yards and a half of lace: I shewed him that; he said his wife could swear to it, but he could not; upon which he sent for his wife. I took ten laced handkerchiefs out of a drawer, and bid her look over the lace; she did, and laid her hand on this handkerchief here produced, and said the lace upon it was her property, the same lace the prisoner gave to me.</p>
+               <p>
+                  <rs id="t17641212-51-verdict263" type="verdictDescription">
+                     <interp inst="t17641212-51-verdict263" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>She was a second time indicted, by the name of 
+               <persName id="t17641212-51-person394">
+                     <rs id="t17641212-51-alias-8" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17641212-51-person394 t17641212-51-alias-8"></join>Ann Powell</rs>
+                  </persName>
+            , spinster; otherwise Ann, the wife of 
+               <persName id="t17641212-51-person395">
+                  Thomas 
+                  Flint 
+               <interp inst="t17641212-51-person395" type="surname" value="Flint"></interp>
+                     <interp inst="t17641212-51-person395" type="given" value="Thomas"></interp>
+                     <interp inst="t17641212-51-person395" type="gender" value="male"></interp>
+                  </persName>
+            , for <rs id="t17641212-51-off264" type="offenceDescription">
+                     <interp inst="t17641212-51-off264" type="offenceCategory" value="sexual"></interp>
+                     <interp inst="t17641212-51-off264" type="offenceSubcategory" value="bigamy"></interp>
+               that she was married to the said 
+                     
+                        <persName id="t17641212-51-victim397" type="victimName">
+                           Thomas 
+                           Flint 
+                        <interp inst="t17641212-51-victim397" type="surname" value="Flint"></interp>
+                        <interp inst="t17641212-51-victim397" type="given" value="Thomas"></interp>
+                        <interp inst="t17641212-51-victim397" type="gender" value="male"></interp>
+                     </persName>
+                      
+                   on the 4th of June, in the 2d year of his present Majesty; and afterwards on the <rs id="t17641212-51-cd265" type="crimeDate">22d of March, in the 3d year of his present Majesty</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-51-off259 t17641212-51-cd265"></join>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17641212-51-off264 t17641212-51-cd265"></join>,<xptr type="pageFacsimile" doc="176412120028"></xptr> did marry 
+                     
+                        <persName id="t17641212-51-victim399" type="victimName">
+                           Henry Adam 
+                           Stedman 
+                        <interp inst="t17641212-51-victim399" type="surname" value="Stedman"></interp>
+                        <interp inst="t17641212-51-victim399" type="given" value="Henry Adam"></interp>
+                        <interp inst="t17641212-51-victim399" type="gender" value="male"></interp>
+                     </persName>
+                     
+                  , her former husband being then living
+            </rs>.</p>
+               <p>To which she <rs id="t17641212-51-verdict266" type="verdictDescription">
+                     <interp inst="t17641212-51-verdict266" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17641212-51-verdict266" type="verdictSubcategory" value="pleadedGuilty"></interp>
+               pleaded Guilty
+            </rs>. <rs id="t17641212-51-punish267" type="punishmentDescription">
+                     <interp inst="t17641212-51-punish267" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17641212-51-punish267" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-punish267"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person367 t17641212-51-punish267"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person368 t17641212-51-punish267"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person369 t17641212-51-punish267"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person370 t17641212-51-punish267"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person371 t17641212-51-punish267"></join>
+               B
+            </rs>. <rs id="t17641212-51-punish268" type="punishmentDescription">
+                     <interp inst="t17641212-51-punish268" type="punishmentCategory" value="imprison"></interp>
+                     <interp inst="t17641212-51-punish268" type="punishmentSubcategory" value="newgate"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-defend366 t17641212-51-punish268"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person367 t17641212-51-punish268"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person368 t17641212-51-punish268"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person369 t17641212-51-punish268"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person370 t17641212-51-punish268"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17641212-51-person371 t17641212-51-punish268"></join>
+               Im.
+            </rs>
+               </p>
+            </div1>

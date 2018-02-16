@@ -1,3 +1,41 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17511204-50">
+               <interp inst="t17511204-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17511204-50" type="year" value="1751"></interp>
+               <interp inst="t17511204-50" type="uri" value="sessionsPapers/17511204"></interp>
+               <interp inst="t17511204-50" type="date" value="17511204"></interp>
+               <join result="criminalCharge" id="t17511204-50-off276-c380" targOrder="Y" targets="t17511204-50-defend486 t17511204-50-off276 t17511204-50-verdict278"></join>
+               <join result="criminalCharge" id="t17511204-50-off276-c381" targOrder="Y" targets="t17511204-50-defend488 t17511204-50-off276 t17511204-50-verdict278"></join>
+         
+               <p>61. 62. 
+               
+                  <persName id="t17511204-50-defend486" type="defendantName">
+                     Ann 
+                     Knight 
+                  <interp inst="t17511204-50-defend486" type="surname" value="Knight"></interp>
+                     <interp inst="t17511204-50-defend486" type="given" value="Ann"></interp>
+                     <interp inst="t17511204-50-defend486" type="gender" value="female"></interp>
+                  </persName>
+                
+            , <rs id="t17511204-50-deflabel275" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17511204-50-defend486 t17511204-50-deflabel275"></join>, and 
+               
+                  <persName id="t17511204-50-defend488" type="defendantName">
+                     Patrick 
+                     Riley 
+                  <interp inst="t17511204-50-defend488" type="surname" value="Riley"></interp>
+                     <interp inst="t17511204-50-defend488" type="given" value="Patrick"></interp>
+                     <interp inst="t17511204-50-defend488" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were <rs id="t17511204-50-off276" type="offenceDescription">
+                     <interp inst="t17511204-50-off276" type="offenceCategory" value="royalOffences"></interp>
+                     <interp inst="t17511204-50-off276" type="offenceSubcategory" value="coiningOffences"></interp>
+               indicted for making one piece of false, feign'd, and counterfeit money, in the likeness and similitade of a shilling
+            </rs>, <rs id="t17511204-50-cd277" type="crimeDate">August 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17511204-50-off276 t17511204-50-cd277"></join>.  No Evidence appeared, both <rs id="t17511204-50-verdict278" type="verdictDescription">
+                     <interp inst="t17511204-50-verdict278" type="verdictCategory" value="notGuilty"></interp>
+                     <interp inst="t17511204-50-verdict278" type="verdictSubcategory" value="noEvidence"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,125 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17651016-28">
+               <interp inst="t17651016-28" type="collection" value="BAILEY"></interp>
+               <interp inst="t17651016-28" type="year" value="1765"></interp>
+               <interp inst="t17651016-28" type="uri" value="sessionsPapers/17651016"></interp>
+               <interp inst="t17651016-28" type="date" value="17651016"></interp>
+               <join result="criminalCharge" id="t17651016-28-off156-c259" targOrder="Y" targets="t17651016-28-defend313 t17651016-28-off156 t17651016-28-verdict161"></join>
+         
+               <p>544. (L.) 
+               
+                  <persName id="t17651016-28-defend313" type="defendantName">
+                     Thomas
+                      M'Manus
+                  <interp inst="t17651016-28-defend313" type="surname" value="M'Manus"></interp>
+                     <interp inst="t17651016-28-defend313" type="given" value="Thomas"></interp>
+                     <interp inst="t17651016-28-defend313" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17651016-28-off156" type="offenceDescription">
+                     <interp inst="t17651016-28-off156" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17651016-28-off156" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing three pounds weight of copper, value 2 s. 6 d. and twenty pounds weight of lead, value 2 s. 6 d.
+            </rs> the property of 
+               
+                  <persName id="t17651016-28-victim315" type="victimName">
+                     John 
+                     Dodson 
+                  <interp inst="t17651016-28-victim315" type="surname" value="Dodson"></interp>
+                     <interp inst="t17651016-28-victim315" type="given" value="John"></interp>
+                     <interp inst="t17651016-28-victim315" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17651016-28-off156 t17651016-28-victim315"></join>
+                  </persName>
+                
+            . <rs id="t17651016-28-cd157" type="crimeDate">September 24</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17651016-28-off156 t17651016-28-cd157"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17651016-28-person316">
+                  John 
+                  Dodson 
+               <interp inst="t17651016-28-person316" type="surname" value="Dodson"></interp>
+                     <interp inst="t17651016-28-person316" type="given" value="John"></interp>
+                     <interp inst="t17651016-28-person316" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17651016-28-viclabel158" type="occupation">smith</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651016-28-victim315 t17651016-28-viclabel158"></join>, and live in <placeName id="t17651016-28-crimeloc159">Threadneedle-street</placeName>
+                  <interp inst="t17651016-28-crimeloc159" type="placeName" value="Threadneedle-street"></interp>
+                  <interp inst="t17651016-28-crimeloc159" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17651016-28-off156 t17651016-28-crimeloc159"></join>: the prisoner is my <rs id="t17651016-28-deflabel160" type="occupation">apprentice</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17651016-28-defend313 t17651016-28-deflabel160"></join>: I came home from the country on the 23d of last month, about eleven or twelve o'clock: I went up stairs, and found some deficiency among my victuals and drink: I made enquiry how it was gone: upon which I was informed the prisoner used to bring 
+               <persName id="t17651016-28-person317">
+                  Joshua 
+                  Turner 
+               <interp inst="t17651016-28-person317" type="surname" value="Turner"></interp>
+                     <interp inst="t17651016-28-person317" type="given" value="Joshua"></interp>
+                     <interp inst="t17651016-28-person317" type="gender" value="male"></interp>
+                  </persName>
+            , senior, to eat and drink, and take victuals away; and that he had suffered him to lie there: having missed a great many things out of my shop. I came down and hit the prisoner a slight stroke on the back; he turned about and went away: after he was gone, my foreman told me he had a long story to tell me: that he had gone on in such a practice that he was under a necessity of telling me that the prisoner had robbed me several times; he mentioned in particular in November last, at a time that I ordered him and another to clean out the shop, that they had found eight or ten pounds of copper, and wanted my foreman to be concerned with him; and that 
+               <persName id="t17651016-28-person318">
+                  Richard 
+                  Twigg 
+               <interp inst="t17651016-28-person318" type="surname" value="Twigg"></interp>
+                     <interp inst="t17651016-28-person318" type="given" value="Richard"></interp>
+                     <interp inst="t17651016-28-person318" type="gender" value="male"></interp>
+                  </persName>
+             sold it, and the prisoner received the money: he farther told me the prisoner had robbed me of twenty pounds weight of lead, and cast it into a jack-weight; and had made a present of it to 
+               <persName id="t17651016-28-person319">
+                  Joshua 
+                  Turner 
+               <interp inst="t17651016-28-person319" type="surname" value="Turner"></interp>
+                     <interp inst="t17651016-28-person319" type="given" value="Joshua"></interp>
+                     <interp inst="t17651016-28-person319" type="gender" value="male"></interp>
+                  </persName>
+            , senior. About eight o'clock, a summons came from the Chamberlain's office, for striking him that one stroke: I went to the Mansion-house; My Lord being here attending this court, I could not get a warrant: while I was waiting at Guildhall, Mr. Alderman Cockayne came in: I got a warrant: I went before the Chamberlain, he heard the boy's complaint, and likewise heard what two men had to say, who went there to prove his neglecting my business: I had a constable ready to take him with the warrant before Mr. Alderman Cockayne: when I had him in the matted gallery, he said, if I would forgive him he would confess all: I said, I should not, but should bring him to justice: he confessed before the Alderman his taking the lead away, and that he had given it to 
+               <persName id="t17651016-28-person320">
+                  Joshua 
+                  Turner 
+               <interp inst="t17651016-28-person320" type="surname" value="Turner"></interp>
+                     <interp inst="t17651016-28-person320" type="given" value="Joshua"></interp>
+                     <interp inst="t17651016-28-person320" type="gender" value="male"></interp>
+                  </persName>
+            : while we were there, a message came desiring Mr. Cockayne's attendance here: then we brought him here before my Lord Mayor; before whom he acknowledged he had to do with<xptr type="pageFacsimile" doc="176510160029"></xptr> the copper, but they had spent the money in the shop. I had a warrant from my Lord Mayor to bring Turner before him: I went and took him: and a gentleman past his word to see him forth coming: he sent me the weight. (Produced in court.)</p>
+               <p>Cross Examination.</p>
+               <p>Q. Had you not often quarrels with the lad?</p>
+               <p>Godson. No; never but one with him before.</p>
+               <p>Q. Did he not once summons you before my Lord Mayor?</p>
+               <p>Godson. He did.</p>
+               <p>Q. How long has he been your apprentice?</p>
+               <p>Godson. About five years.</p>
+               <p>Q. Did he say nothing in his defence?</p>
+               <p>Godson. All he said in his defence was, that my man cast the weight for him.</p>
+               <p>
+            
+                  <persName id="t17651016-28-person321">
+                  Robert 
+                  Pearson 
+               <interp inst="t17651016-28-person321" type="surname" value="Pearson"></interp>
+                     <interp inst="t17651016-28-person321" type="given" value="Robert"></interp>
+                     <interp inst="t17651016-28-person321" type="gender" value="male"></interp>
+                  </persName>
+            . On the 16th or 17th of November last, the prisoner and his fellow 'prentice came out of the cellar, where our master had sent them: they told me in clearing it out, they had found a prize; that it was copper, and they were sure master knew nothing of it, for it must have laid there a great while: the prisoner asked me what it was worth a pound: I said, I believed it would fetch 10 d. a pound: he asked me if I would sell it: I said, no: then Richard Twiggy, that worked in the shop with the prisoner, went and sold it; and after that a quarrel ensued about the money; he that sold it expected a part of the money; and after that they had a pot of beer together: I saw the lead weighed that this weight was made of, there might be about 24 pounds of it.</p>
+               <p>Q. How long is this ago?</p>
+               <p>Pearson. This is about five or six months ago: there is now 22 pounds of the weight.</p>
+               <p>Q. Are you foreman to the prosecutor?</p>
+               <p>Prosecutor. Pearson is the man that I leave my business with when I am absent.</p>
+               <p>Court to Pearson. I wish you stood in the place where the boy does: you ought to have spoke to him, and told him, if he did not put it to his master's account, you would tell your master: you deserve punishment ten times more than the boy does.</p>
+               <p>Q. to Prosecutor. How old is the prisoner?</p>
+               <p>Prosecutor. He is about nineteen or twenty years of age.</p>
+               <p>Prisoner's Defence.</p>
+               <p>Some time last winter, one 
+               <persName id="t17651016-28-person322">
+                  Richard 
+                  Twiggy 
+               <interp inst="t17651016-28-person322" type="surname" value="Twiggy"></interp>
+                     <interp inst="t17651016-28-person322" type="given" value="Richard"></interp>
+                     <interp inst="t17651016-28-person322" type="gender" value="male"></interp>
+                  </persName>
+             and I were digging the cellar to lower it; we found four or five pounds weight of copper; we threw it on one side, and I never saw it after; only I know Twiggy and Pearson drank in the shop on account of it: with regard to the lead weight, my Mrs. that I had lived with was very good to me; I, to make her amends, last Christmas bought a little brass jack, with money that I saved up: I said to Pearson, I should be very glad when you go to the ironmongers, if you would enquire what a cast iron weight will come to: he said, it would cost about half a crown, or 3 s. but said, you fool, what occasion for that, there is lead enough about the shop, I'll cast you one: he went into the cellar and cast one, and gave it me, and said, all you have to do is to take and clean it: I set it on the forge: he said, what do you set it there for, and took and put it under the forge; and there it lay a good while before I carried it out of the shop.</p>
+               <p>He called eight people to his character, who all gave him an exceeding good one, for sobriety, diligence and honestly.</p>
+               <p>
+                  <rs id="t17651016-28-verdict161" type="verdictDescription">
+                     <interp inst="t17651016-28-verdict161" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

@@ -1,3 +1,118 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17520514-15">
+               <interp inst="t17520514-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17520514-15" type="year" value="1752"></interp>
+               <interp inst="t17520514-15" type="uri" value="sessionsPapers/17520514"></interp>
+               <interp inst="t17520514-15" type="date" value="17520514"></interp>
+               <join result="criminalCharge" id="t17520514-15-off71-c104" targOrder="Y" targets="t17520514-15-defend129 t17520514-15-off71 t17520514-15-verdict75"></join>
+         
+               <p>296 (M.) 
+               
+                  <persName id="t17520514-15-defend129" type="defendantName">
+                     Mary 
+                     Martin 
+                  <interp inst="t17520514-15-defend129" type="surname" value="Martin"></interp>
+                     <interp inst="t17520514-15-defend129" type="given" value="Mary"></interp>
+                     <interp inst="t17520514-15-defend129" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17520514-15-deflabel70" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520514-15-defend129 t17520514-15-deflabel70"></join>, was indicted for <rs id="t17520514-15-off71" type="offenceDescription">
+                     <interp inst="t17520514-15-off71" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17520514-15-off71" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver spoon, value 2 s.
+            </rs> the goods of 
+               
+                  <persName id="t17520514-15-victim131" type="victimName">
+                     Henrietta 
+                     Martin 
+                  <interp inst="t17520514-15-victim131" type="surname" value="Martin"></interp>
+                     <interp inst="t17520514-15-victim131" type="given" value="Henrietta"></interp>
+                     <interp inst="t17520514-15-victim131" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17520514-15-off71 t17520514-15-victim131"></join>
+                  </persName>
+                
+            , <rs id="t17520514-15-viclabel72" type="occupation">Spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17520514-15-victim131 t17520514-15-viclabel72"></join>, <rs id="t17520514-15-cd73" type="crimeDate">April 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17520514-15-off71 t17520514-15-cd73"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17520514-15-person132">
+                  Mary 
+                  Moody 
+               <interp inst="t17520514-15-person132" type="surname" value="Moody"></interp>
+                     <interp inst="t17520514-15-person132" type="given" value="Mary"></interp>
+                     <interp inst="t17520514-15-person132" type="gender" value="female"></interp>
+                  </persName>
+            . I live in <placeName id="t17520514-15-crimeloc74">New Bond-street</placeName>
+                  <interp inst="t17520514-15-crimeloc74" type="placeName" value="New Bond-street"></interp>
+                  <interp inst="t17520514-15-crimeloc74" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17520514-15-off71 t17520514-15-crimeloc74"></join> with 
+               <persName id="t17520514-15-person133">
+                  Henrietta 
+                  Martin 
+               <interp inst="t17520514-15-person133" type="surname" value="Martin"></interp>
+                     <interp inst="t17520514-15-person133" type="given" value="Henrietta"></interp>
+                     <interp inst="t17520514-15-person133" type="gender" value="female"></interp>
+                  </persName>
+            , Spinster, who lodges at Mr. Jones's house. Mr. Jason, a pawn-broker, came and informed us he had stopp'd such a person and spoon, I went with him, there was the prisoner and spoon. [The spoon produced in court, and depos'd to as her mistress's property by the crest and mark.] We had not miss'd it 'till the pawnbroker came. The prisoner confessed she took it from off the dresser about three weeks ago when I was gone out.</p>
+               <p>
+            
+                  <persName id="t17520514-15-person134">
+                  John 
+                  Jason 
+               <interp inst="t17520514-15-person134" type="surname" value="Jason"></interp>
+                     <interp inst="t17520514-15-person134" type="given" value="John"></interp>
+                     <interp inst="t17520514-15-person134" type="gender" value="male"></interp>
+                  </persName>
+            . I am a pawn-broker; a woman brought this spoon to me on the 30th of April; I examined her seeing a crest upon it. She said she had it of a woman, and would fetch her; in about a quarter of an hour the same person came and desir'd to have it again, but I would not let her. In a little time after came the prisoner at the bar and another woman (not the woman that came first).</p>
+               <p>Q. What is her name that came first?</p>
+               <p>Jason. Her name is 
+               <persName id="t17520514-15-person135">
+                  Jane 
+                  Mackaley 
+               <interp inst="t17520514-15-person135" type="surname" value="Mackaley"></interp>
+                     <interp inst="t17520514-15-person135" type="given" value="Jane"></interp>
+                     <interp inst="t17520514-15-person135" type="gender" value="female"></interp>
+                  </persName>
+            .</p>
+               <p>Q. What is the other woman's name that came with the prisoner?</p>
+               <p>Jason. Her name is Wilson; she begged hard that I would deliver the spoon that Mackaley brought to the prisoner. Then I ask'd the prisoner how she came by it: She said she had it of Mr. Jones's maid in Bond-street, to pawn for money for her to go to the play with, and that her name was 
+               <persName id="t17520514-15-person136">
+                  Mary 
+                  Cooper 
+               <interp inst="t17520514-15-person136" type="surname" value="Cooper"></interp>
+                     <interp inst="t17520514-15-person136" type="given" value="Mary"></interp>
+                     <interp inst="t17520514-15-person136" type="gender" value="female"></interp>
+                  </persName>
+            .</p>
+               <p>Q. Did they see the spoon at that time?</p>
+               <p>Jason. I shewed it to them then: Then I sent my wife to Mr. Jones's, and 
+               <persName id="t17520514-15-person137">
+                  Mary 
+                  Moody 
+               <interp inst="t17520514-15-person137" type="surname" value="Moody"></interp>
+                     <interp inst="t17520514-15-person137" type="given" value="Mary"></interp>
+                     <interp inst="t17520514-15-person137" type="gender" value="female"></interp>
+                  </persName>
+            , and Mr. Jones, and two young ladies, came to<xptr type="pageFacsimile" doc="175205140014"></xptr> my house, and then the prisoner confessed taking this spoon before us all.</p>
+               <p>
+            
+                  <persName id="t17520514-15-person138">
+                  John 
+                  Hartly 
+               <interp inst="t17520514-15-person138" type="surname" value="Hartly"></interp>
+                     <interp inst="t17520514-15-person138" type="given" value="John"></interp>
+                     <interp inst="t17520514-15-person138" type="gender" value="male"></interp>
+                  </persName>
+             confirm'd that of her confession.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I know nothing of it, they kept me between eight and nine hours, and look'd over the plate, and searched the room, and then discharged me, and bid me go where I had a mind; but yesterday was 7 night Mr Hartly met with me at my landlord's house, and desir'd to have me detain'd till a constable came, saying, I had no business to say any thing about him and Mrs. Moody, in saying I went to buy salmon for them. I said they had no need to send for a constable, I'll go along with you any where; he call'd a coa, and took me to a justice, and I was sent to prison.</p>
+               <p>Q. to Mrs. Moody. Was she discharged on the 31st of April ?</p>
+               <p>M. Moody. She was, and we bid her go about her business, after which she went on in a very scandalous manner, and said that I was the person that gave her the spoon to pawn. I should not have taken her up again, if she had not gone on in that manner, she sent people to mob, me, and made scandalous reports of me, which was the reason I took her up again.</p>
+               <p>
+                  <rs id="t17520514-15-verdict75" type="verdictDescription">
+                     <interp inst="t17520514-15-verdict75" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

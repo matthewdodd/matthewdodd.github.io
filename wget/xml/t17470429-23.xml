@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17470429-23">
+               <interp inst="t17470429-23" type="collection" value="BAILEY"></interp>
+               <interp inst="t17470429-23" type="year" value="1747"></interp>
+               <interp inst="t17470429-23" type="uri" value="sessionsPapers/17470429"></interp>
+               <interp inst="t17470429-23" type="date" value="17470429"></interp>
+               <join result="criminalCharge" id="t17470429-23-off95-c156" targOrder="Y" targets="t17470429-23-defend199 t17470429-23-off95 t17470429-23-verdict97"></join>
+         
+               <p>201. 
+               
+                  <persName id="t17470429-23-defend199" type="defendantName">
+                     Susannah 
+                     Williams 
+                  <interp inst="t17470429-23-defend199" type="surname" value="Williams"></interp>
+                     <interp inst="t17470429-23-defend199" type="given" value="Susannah"></interp>
+                     <interp inst="t17470429-23-defend199" type="gender" value="female"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17470429-23-off95" type="offenceDescription">
+                     <interp inst="t17470429-23-off95" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17470429-23-off95" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a Cotton Gown, value 10 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17470429-23-victim201" type="victimName">
+                     Mary 
+                     Cole 
+                  <interp inst="t17470429-23-victim201" type="surname" value="Cole"></interp>
+                     <interp inst="t17470429-23-victim201" type="given" value="Mary"></interp>
+                     <interp inst="t17470429-23-victim201" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17470429-23-off95 t17470429-23-victim201"></join>
+                  </persName>
+                
+            , <rs id="t17470429-23-cd96" type="crimeDate">March 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17470429-23-off95 t17470429-23-cd96"></join>.</p>
+               <p>Q. to 
+               <persName id="t17470429-23-person202">
+                  Mary 
+                  Cole 
+               <interp inst="t17470429-23-person202" type="surname" value="Cole"></interp>
+                     <interp inst="t17470429-23-person202" type="given" value="Mary"></interp>
+                     <interp inst="t17470429-23-person202" type="gender" value="female"></interp>
+                  </persName>
+            . Have you lost any Gown?</p>
+               <p>Cole. Yes, on the 19th of March I lost a Cotton Gown.</p>
+               <p>Q. Where did you lose it from?</p>
+               <p>Cole. It was lost out of the Yard, Sir, in the Neighbourhood where I hung it to dry.</p>
+               <p>Q. When did you find it?</p>
+               <p>Cole. We found it the next Day; she owned it the same Day that she took it; she knew it was mine.</p>
+               <p>Q. Did you find the Gown upon her?</p>
+               <p>Cole. No, my Lord, she pawned it; she brought me to the Place where she had pawned it for Five Shillings.</p>
+               <p>Q. What is the Worth of it?</p>
+               <p>Cole. It was worth 10 s. it was the first Time it was wetted ; it cost me 15 s.</p>
+               <p>Q. What is this Woman, do you know her?</p>
+               <p>Cole. She lives in the Neighbourhood; she goes a Charing.</p>
+               <p>Prisoner. My Lord, the Woman where she carried it to dry, sent me with it to pawn.</p>
+               <p>Q. to 
+               <persName id="t17470429-23-person203">
+                  George 
+                  Bowing 
+               <interp inst="t17470429-23-person203" type="surname" value="Bowing"></interp>
+                     <interp inst="t17470429-23-person203" type="given" value="George"></interp>
+                     <interp inst="t17470429-23-person203" type="gender" value="male"></interp>
+                  </persName>
+            . What have you to say against the Prisoner at the Bar? Do you keep a Pawnbroker's Shop?</p>
+               <p>Bowing. I don't, but my Father does, he keeps a Pawnbroker's Shop in East Smithfield.</p>
+               <p>Q. Do you know the Prisoner ?</p>
+               <p>Bowing. She has brought things several times for the same Person, she pawned it in the Name of Gregory.</p>
+               <p>
+                  <rs id="t17470429-23-verdict97" type="verdictDescription">
+                     <interp inst="t17470429-23-verdict97" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17470429-23-verdict97" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17470429-23-punish98" type="punishmentDescription">
+                     <interp inst="t17470429-23-punish98" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17470429-23-punish98" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17470429-23-defend199 t17470429-23-punish98"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

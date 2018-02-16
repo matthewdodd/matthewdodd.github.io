@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16870223-39">
+               <interp inst="t16870223-39" type="collection" value="BAILEY"></interp>
+               <interp inst="t16870223-39" type="year" value="1687"></interp>
+               <interp inst="t16870223-39" type="uri" value="sessionsPapers/16870223"></interp>
+               <interp inst="t16870223-39" type="date" value="16870223"></interp>
+               <join result="criminalCharge" id="t16870223-39-off184-c139" targOrder="Y" targets="t16870223-39-defend208 t16870223-39-off184 t16870223-39-verdict187"></join>
+         
+               <p>
+            
+                  <persName id="t16870223-39-defend208" type="defendantName">
+                  Samuel 
+                  Bushel
+               <interp inst="t16870223-39-defend208" type="surname" value="Bushel"></interp>
+                     <interp inst="t16870223-39-defend208" type="given" value="Samuel"></interp>
+                     <interp inst="t16870223-39-defend208" type="gender" value="male"></interp>
+                  </persName>
+            , of the Parish of <placeName id="t16870223-39-defloc183">St. Leanords Shoreditch</placeName>
+                  <interp inst="t16870223-39-defloc183" type="placeName" value="St. Leanords Shoreditch"></interp>
+                  <interp inst="t16870223-39-defloc183" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16870223-39-defend208 t16870223-39-defloc183"></join>, was Tryed for <rs id="t16870223-39-off184" type="offenceDescription">
+                     <interp inst="t16870223-39-off184" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t16870223-39-off184" type="offenceSubcategory" value="theftFromPlace"></interp>
+               entering the House of 
+                     
+                        <persName id="t16870223-39-victim210" type="victimName">
+                           Catherine 
+                           Stepwell
+                        <interp inst="t16870223-39-victim210" type="surname" value="Stepwell"></interp>
+                        <interp inst="t16870223-39-victim210" type="given" value="Catherine"></interp>
+                        <interp inst="t16870223-39-victim210" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16870223-39-off184 t16870223-39-victim210"></join>
+                     </persName>
+                     
+                  , <rs id="t16870223-39-viclabel185" type="occupation">Widow</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16870223-39-victim210 t16870223-39-viclabel185"></join>, on the <rs id="t16870223-39-cd186" type="crimeDate">6th. of Feb.</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16870223-39-off184 t16870223-39-cd186"></join> about 3 in the Afternoon, when She and her Family were abroad, and stealing thence 12 Cambrick Handkerchiefs, value 13 s. 2 Laced Coifs, value 10 s. a Laced Handkerchief, value 5 s. a Cap with Bone Lace, value 5 s. a Drugget pair of Curtains and Vallance, value 3 l. 10 s. with other Things of value
+            </rs>, part of which Goods, being found in his Custody, and he looked upon as a pilfring Fellow, not able to give any good Account of himself, was found <rs id="t16870223-39-verdict187" type="verdictDescription">
+                     <interp inst="t16870223-39-verdict187" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t16870223-39-verdict187" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty to the value of 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t16870223-39-punish188" type="punishmentDescription">
+                     <interp inst="t16870223-39-punish188" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t16870223-39-punish188" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t16870223-39-defend208 t16870223-39-punish188"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

@@ -1,3 +1,50 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17350702-31">
+               <interp inst="t17350702-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17350702-31" type="year" value="1735"></interp>
+               <interp inst="t17350702-31" type="uri" value="sessionsPapers/17350702"></interp>
+               <interp inst="t17350702-31" type="date" value="17350702"></interp>
+               <join result="criminalCharge" id="t17350702-31-off156-c170" targOrder="Y" targets="t17350702-31-defend242 t17350702-31-off156 t17350702-31-verdict158"></join>
+               <join result="criminalCharge" id="t17350702-31-off156-c171" targOrder="Y" targets="t17350702-31-defend244 t17350702-31-off156 t17350702-31-verdict158"></join>
+         
+               <p>38 39. 
+               
+                  <persName id="t17350702-31-defend242" type="defendantName">
+                     William 
+                     King 
+                  <interp inst="t17350702-31-defend242" type="surname" value="King"></interp>
+                     <interp inst="t17350702-31-defend242" type="given" value="William"></interp>
+                     <interp inst="t17350702-31-defend242" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17350702-31-defend244" type="defendantName">
+                     Rachel 
+                     Gardener 
+                  <interp inst="t17350702-31-defend244" type="surname" value="Gardener"></interp>
+                     <interp inst="t17350702-31-defend244" type="given" value="Rachel"></interp>
+                     <interp inst="t17350702-31-defend244" type="gender" value="female"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17350702-31-off156" type="offenceDescription">
+                     <interp inst="t17350702-31-off156" type="offenceCategory" value="violentTheft"></interp>
+                     <interp inst="t17350702-31-off156" type="offenceSubcategory" value="highwayRobbery"></interp>
+               Assaulting 
+                     
+                        <persName id="t17350702-31-victim246" type="victimName">
+                           Eliz.
+                            Dearing
+                        <interp inst="t17350702-31-victim246" type="surname" value="Dearing"></interp>
+                        <interp inst="t17350702-31-victim246" type="given" value="Eliz."></interp>
+                        <interp inst="t17350702-31-victim246" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17350702-31-off156 t17350702-31-victim246"></join>
+                     </persName>
+                     
+                   in Moorfields, and robbing her of a Hat and a Mob
+            </rs>, <rs id="t17350702-31-cd157" type="crimeDate">June 30</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17350702-31-off156 t17350702-31-cd157"></join>. <rs id="t17350702-31-verdict158" type="verdictDescription">
+                     <interp inst="t17350702-31-verdict158" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

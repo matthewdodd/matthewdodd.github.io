@@ -1,3 +1,277 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17481012-31">
+               <interp inst="t17481012-31" type="collection" value="BAILEY"></interp>
+               <interp inst="t17481012-31" type="year" value="1748"></interp>
+               <interp inst="t17481012-31" type="uri" value="sessionsPapers/17481012"></interp>
+               <interp inst="t17481012-31" type="date" value="17481012"></interp>
+               <join result="criminalCharge" id="t17481012-31-off174-c213" targOrder="Y" targets="t17481012-31-defend273 t17481012-31-off174 t17481012-31-verdict179"></join>
+         
+               <p>+ 511. 
+               
+                  <persName id="t17481012-31-defend273" type="defendantName">
+                     Thomas 
+                     Presgrove 
+                  <interp inst="t17481012-31-defend273" type="surname" value="Presgrove"></interp>
+                     <interp inst="t17481012-31-defend273" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-31-defend273" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17481012-31-defloc173">Allhallows London Wall</placeName>
+                  <interp inst="t17481012-31-defloc173" type="placeName" value="Allhallows London Wall"></interp>
+                  <interp inst="t17481012-31-defloc173" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17481012-31-defend273 t17481012-31-defloc173"></join>, was indicted for <rs id="t17481012-31-off174" type="offenceDescription">
+                     <interp inst="t17481012-31-off174" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17481012-31-off174" type="offenceSubcategory" value="burglary"></interp>
+               breaking open the dwelling-house of 
+                     
+                        <persName id="t17481012-31-victim275" type="victimName">
+                           Judith 
+                           Lazarus 
+                        <interp inst="t17481012-31-victim275" type="surname" value="Lazarus"></interp>
+                        <interp inst="t17481012-31-victim275" type="given" value="Judith"></interp>
+                        <interp inst="t17481012-31-victim275" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17481012-31-off174 t17481012-31-victim275"></join>
+                     </persName>
+                      
+                  , in the night time, and stealing a large quantity of silver ware, one gold ring set with diamonds, several gold rings; and rings set with chrystal stones, and a large parcel of hard ware, in all amounting (at the prosecutor's computation) to near two hundred pound
+            </rs>; the property of 
+               <persName id="t17481012-31-person276">
+                  Judith 
+                  Lazarus 
+               <interp inst="t17481012-31-person276" type="surname" value="Lazarus"></interp>
+                     <interp inst="t17481012-31-person276" type="given" value="Judith"></interp>
+                     <interp inst="t17481012-31-person276" type="gender" value="female"></interp>
+                  </persName>
+            , <rs id="t17481012-31-cd175" type="crimeDate">Sept. 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17481012-31-off174 t17481012-31-cd175"></join>.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person277">
+                  Judith 
+                  Lazarus 
+               <interp inst="t17481012-31-person277" type="surname" value="Lazarus"></interp>
+                     <interp inst="t17481012-31-person277" type="given" value="Judith"></interp>
+                     <interp inst="t17481012-31-person277" type="gender" value="female"></interp>
+                  </persName>
+            . I am a <rs id="t17481012-31-viclabel176" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17481012-31-victim275 t17481012-31-viclabel176"></join>, I live in <placeName id="t17481012-31-crimeloc177">Camomile Court, in Camomile Street</placeName>
+                  <interp inst="t17481012-31-crimeloc177" type="placeName" value="Camomile Court, in Camomile Street"></interp>
+                  <interp inst="t17481012-31-crimeloc177" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17481012-31-off174 t17481012-31-crimeloc177"></join>, last Tuesday night I went out of my house.</p>
+               <p>Q. Are you a house-keeper.</p>
+               <p>Lazarus. Yes; I went out about six o'clock in the evening, and staid till nine, I locked my door when I went out, and left two boxes of silver hard ware, and I left the key of my room up one pair of stairs with a woman, who is now in trouble on suspicion, her name is Rosamoud is Bannister.</p>
+               <p>[Bannister was commited on the oath of 
+               <persName id="t17481012-31-person278">
+                  Thomas 
+                  Presgrove 
+               <interp inst="t17481012-31-person278" type="surname" value="Presgrove"></interp>
+                     <interp inst="t17481012-31-person278" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-31-person278" type="gender" value="male"></interp>
+                  </persName>
+            .]</p>
+               <p>Q. What are you?</p>
+               <p>Lazarus. I am a <rs id="t17481012-31-viclabel178" type="occupation">hawker and pedlar</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17481012-31-victim275 t17481012-31-viclabel178"></join>. and have paid for many a licence to the king.</p>
+               <p>Q. When you came home, how did you find your house?</p>
+               <p>Lazarus. I went to put the key into the door, and I found all was loose; (I did not know the door was broke open before I put the key in) the lock was loose, the nails were out, and a piece of wood was cut out.</p>
+               <p>Q. What did you lose?</p>
+               <p>Lazarus . I missed two boxes where all my things were, and a bundle.</p>
+               <p>Q. Tell us what you lost?</p>
+               <p>Lazarus. There was one gold ring set with diamonds, and ten gold rings set with chrystal stones, there was at least two hundred pounds worth of things.</p>
+               <p>Q. Have you found your things uagain?</p>
+               <p>Lazarus. Some of them we found about four days after the robbery was committed; there is a man that sells old cloaths, gave us information of them, and I got a search warrant, and found them. The prisoner offered the goods to sale to a man that is here, and the prisoner owned he was at my apartment, and he did confess he took two boxes away, and that he had two others to help him to carry them: the prisoner was carried before Justice Withers, and he confessed he took the things.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person279">
+                  Thomas 
+                  Westley 
+               <interp inst="t17481012-31-person279" type="surname" value="Westley"></interp>
+                     <interp inst="t17481012-31-person279" type="given" value="Thomas"></interp>
+                     <interp inst="t17481012-31-person279" type="gender" value="male"></interp>
+                  </persName>
+             , Clerk to Justice Withers . This is the Portmanteau that was found in the house, according to the information, and has been in Mr. Withers's custody ever since.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person280">
+                  Q.
+                   Abraham Foster
+               <interp inst="t17481012-31-person280" type="surname" value="Abraham Foster"></interp>
+                     <interp inst="t17481012-31-person280" type="given" value="Q."></interp>
+                     <interp inst="t17481012-31-person280" type="gender" value="indeterminate"></interp>
+                  </persName>
+            . I am a constable, on the 26th of September, I had a search warrant granted me by Justice Withers, one Aaron brought me the search warrant.</p>
+               <p>Q. How came you by that Portmanteau?</p>
+               <p>Foster. I found it in Blue Anchor Alley, at the house of one Mr. Broadstreet, he lets the house out in tenements; and this portmanteau was concealed in a dark closet.</p>
+               <p>Q. Who was with you then?</p>
+               <p>Foster. The proprietor of the goods.</p>
+               <p>Q. Was Mrs. Lazarus there?</p>
+               <p>Foster. Yes; and the gentleman of the house ordered the portmanteau to be broke open, and as soon as Mrs. Lazarus saw the portmanteau opened, she said these are my goods, these are my goods. I am ruined, I am ruined: she said that was her quilt, and in that bag were two licences.</p>
+               <p>Q. Are these things yours?</p>
+               <p>Lazarus. Yes; they are mine.</p>
+               <p>Q. Was the portmanteau open in the house?</p>
+               <p>Foster. It was opened in the house, and she said there was not half what she had lost.</p>
+               <p>Q. How came you to take up the prisoner?</p>
+               <p>Foster. I was not concerned in it.</p>
+               <p>Justice Withers sworn.</p>
+               <p>Q. Do you know any thing of the trunk or the bundle?</p>
+               <p>Withers. They were brought to my house the 26th of September, they have been in my house ever since, and they have never been opened that I know of. The prisoner said, that 
+               <persName id="t17481012-31-person281">
+                  John 
+                  White 
+               <interp inst="t17481012-31-person281" type="surname" value="White"></interp>
+                     <interp inst="t17481012-31-person281" type="given" value="John"></interp>
+                     <interp inst="t17481012-31-person281" type="gender" value="male"></interp>
+                  </persName>
+            , otherwise Cokey, [who is not taken] and 
+               <persName id="t17481012-31-person282">
+                  Rosamond 
+                  Bannister 
+               <interp inst="t17481012-31-person282" type="surname" value="Bannister"></interp>
+                     <interp inst="t17481012-31-person282" type="given" value="Rosamond"></interp>
+                     <interp inst="t17481012-31-person282" type="gender" value="female"></interp>
+                  </persName>
+            , were concerned with him, in taking the things away.</p>
+               <p>Q. To Mrs. Lazarus. Was the prisoner asked where he took them from;</p>
+               <p>Lazarus. Yes; and he said he took them out of a house in Camomile Court, in Camomile Street.</p>
+               <p>Prisoner. Ask the gentleman, whether I told him I took them out of the house, or whether they were delivered to me by a Jew?</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174810120025"></xptr>Justice Withers : I think he said, that White took them out of the house, and delivered them to him.</p>
+               <p>Q. To 
+               <persName id="t17481012-31-person283">
+                  Judith 
+                  Lazarus 
+               <interp inst="t17481012-31-person283" type="surname" value="Lazarus"></interp>
+                     <interp inst="t17481012-31-person283" type="given" value="Judith"></interp>
+                     <interp inst="t17481012-31-person283" type="gender" value="female"></interp>
+                  </persName>
+            . Are these the things you lost?</p>
+               <p>Lazarus. Yes; there was a large pair of silver buckles which he owned.</p>
+               <p>Q. How many pair of shoe buckles did you lose?</p>
+               <p>Lazarus. There were two drawers full of shoe buckles, and I do not think there were five pair found ; and Presgrove owned he pawned one pair for 8 s. (they burnt the boxes) there was a diamond ring with a shagreen case, and ten common gold rings set with chrystal stones, a large silver spoon, a dozen and eight tea spoons, and a great many other things .</p>
+               <p>Prisoner. Did I tell you I pawned those buckles?</p>
+               <p>Lazarus. He said he pawned them himself, and took 2 s. himself, and gave six shillings to the Jew.</p>
+               <p>Hyam Aaron . On the 20th of September, a woman who lives a little way off me, sent for me, I found the Court all in an uproar; and I heard that Mrs. Lazarus was robbed; 
+               <persName id="t17481012-31-person284">
+                  Reuben 
+                  Isaac 
+               <interp inst="t17481012-31-person284" type="surname" value="Isaac"></interp>
+                     <interp inst="t17481012-31-person284" type="given" value="Reuben"></interp>
+                     <interp inst="t17481012-31-person284" type="gender" value="male"></interp>
+                  </persName>
+             told us, he was walking in Moor Fields, and saw the prisoner with a Jew man that goes by the name of White, but his name is Cokey Levi.</p>
+               <p>Q. Did you hear the prisoner say any thing?</p>
+               <p>Aaron. I heard him say, he was concerned in the robbery, and was concerned in carrying the things off.</p>
+               <p>Q. Did he say he was in the house?</p>
+               <p>Aaron. He did not say that, but he said this Cokey Levi and his wife, robbed him of a bundle of things; and that 
+               <persName id="t17481012-31-person285">
+                  John 
+                  White 
+               <interp inst="t17481012-31-person285" type="surname" value="White"></interp>
+                     <interp inst="t17481012-31-person285" type="given" value="John"></interp>
+                     <interp inst="t17481012-31-person285" type="gender" value="male"></interp>
+                  </persName>
+             gave the prisoner at the bar one bundle to carry for him, and White gave his wife another bundle, and carried one bundle himself, and the prisoner at the bar said, that 
+               <persName id="t17481012-31-person286">
+                  John 
+                  White 
+               <interp inst="t17481012-31-person286" type="surname" value="White"></interp>
+                     <interp inst="t17481012-31-person286" type="given" value="John"></interp>
+                     <interp inst="t17481012-31-person286" type="gender" value="male"></interp>
+                  </persName>
+             told him, he would carry these things to Holland, and when he returned, he would give him ten guineas; and he said White had 8 s. of him, and returned him two shillings, and that was all he had for carrying the things.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person287">
+                  Reuben 
+                  Isaac 
+               <interp inst="t17481012-31-person287" type="surname" value="Isaac"></interp>
+                     <interp inst="t17481012-31-person287" type="given" value="Reuben"></interp>
+                     <interp inst="t17481012-31-person287" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner at the bar, and another fellow that goes by the name of 
+               <persName id="t17481012-31-person288">
+                  John 
+                  White 
+               <interp inst="t17481012-31-person288" type="surname" value="White"></interp>
+                     <interp inst="t17481012-31-person288" type="given" value="John"></interp>
+                     <interp inst="t17481012-31-person288" type="gender" value="male"></interp>
+                  </persName>
+            , but his name is Cokey Levi, were walking in Moor Fields, I think about the 23d of September, and they asked me whether I would buy any caps, stockings and handkerchiefs, or silver, or mettle buckles, and other things; I told them I was willing to go and see what they were.</p>
+               <p>Q. Where did you go with them?</p>
+               <p>Isaac. I went to the house by Moor Fields, where the things were; I told them I had not money enough, and I did not ask the price. I went to my father's, and I told him some persons had showed me some things, and I told him what sort of goods they were; and he said he believed they were the poor woman's goods, and we went directly and got a search warrant, and went to the house, but we did not meet with the prisoner at home.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person289">
+                  Solomon 
+                  Symon 
+               <interp inst="t17481012-31-person289" type="surname" value="Symon"></interp>
+                     <interp inst="t17481012-31-person289" type="given" value="Solomon"></interp>
+                     <interp inst="t17481012-31-person289" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner owned he helped to carry part of the goods away.</p>
+               <p>Q. Is Mr. Symon partner with you?</p>
+               <p>Lazarus. No; he is my own brother, and I set him up; he travels with a licence.</p>
+               <p>Q. When was the prisoner taken?</p>
+               <p>Symon . He was taken the 27th, by the information of Bannister, the woman that is in custody.</p>
+               <p>Prisoner. This White, or Cokey Levi, gave this Rose Bannister a bundle, and gave me a bundle, and took a bundle himself.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person290">
+                  John 
+                  Poultney 
+               <interp inst="t17481012-31-person290" type="surname" value="Poultney"></interp>
+                     <interp inst="t17481012-31-person290" type="given" value="John"></interp>
+                     <interp inst="t17481012-31-person290" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner twelve years.</p>
+               <p>Q. What Business are you?</p>
+               <p>Poultney. I am an Innholder.</p>
+               <p>Q. Where do you live?</p>
+               <p>Poultney. At the White Horse at London Wall.</p>
+               <p>Q. What is the prisoner's character?</p>
+               <p>Poultney. I never heard any thing amiss of him, his father and he have worked for me, but he has not worked for me these four or five years; I find he works at his business still; he owned to Justice Wither's clerks, that he was hired to carry those goods, I heard him say so.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person291">
+                  Joseph 
+                  Churchman 
+               <interp inst="t17481012-31-person291" type="surname" value="Churchman"></interp>
+                     <interp inst="t17481012-31-person291" type="given" value="Joseph"></interp>
+                     <interp inst="t17481012-31-person291" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Aldermanbury, I have work'd with him in several places, and take him to be a very honest man.</p>
+               <p>Q. Does he follow his business now?</p>
+               <p>Churchman. Yes; I do know that he has worked at his business within a short time, and I have worked with him at moving of Goods, for we carpenters move goods, as well as ticket porters.</p>
+               <p>Q. But you would not do it in the night time, in this clandestine manner?</p>
+               <p>Churchman. No; I would not in any clandestine way.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person292">
+                  Robert 
+                  Gyles 
+               <interp inst="t17481012-31-person292" type="surname" value="Gyles"></interp>
+                     <interp inst="t17481012-31-person292" type="given" value="Robert"></interp>
+                     <interp inst="t17481012-31-person292" type="gender" value="male"></interp>
+                  </persName>
+            . I am a weaver, I have known the Prisoner upwards of twenty years, and I never heard any harm of him.</p>
+               <p>
+            
+                  <persName id="t17481012-31-person293">
+                  Samuel 
+                  Gyles 
+               <interp inst="t17481012-31-person293" type="surname" value="Gyles"></interp>
+                     <interp inst="t17481012-31-person293" type="given" value="Samuel"></interp>
+                     <interp inst="t17481012-31-person293" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner twenty years, we were play-fellows together.</p>
+               <p>Q. And have you known him the latter part of the time?</p>
+               <p>Gyles. I have known him all the time, continued down to this time; and I take him to be an<xptr type="pageFacsimile" doc="174810120026"></xptr> honest man, and if he was acquitted to night I would employ him to morrow.</p>
+               <p>Joseph Green. I have known him these twenty years, and he always behaved in an honest way.</p>
+               <p>Q. What are you?</p>
+               <p>Green. I keep a house at Hoxton, for people that are disordered in their senses, he has worked in Hoxton Town within these three months.</p>
+               <p>
+                  <rs id="t17481012-31-verdict179" type="verdictDescription">
+                     <interp inst="t17481012-31-verdict179" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

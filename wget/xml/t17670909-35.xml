@@ -1,3 +1,73 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17670909-35">
+               <interp inst="t17670909-35" type="collection" value="BAILEY"></interp>
+               <interp inst="t17670909-35" type="year" value="1767"></interp>
+               <interp inst="t17670909-35" type="uri" value="sessionsPapers/17670909"></interp>
+               <interp inst="t17670909-35" type="date" value="17670909"></interp>
+               <join result="criminalCharge" id="t17670909-35-off213-c350" targOrder="Y" targets="t17670909-35-defend423 t17670909-35-off213 t17670909-35-verdict218"></join>
+         
+               <p>447. (M.) 
+               
+                  <persName id="t17670909-35-defend423" type="defendantName">
+                     Jonas 
+                     Knowles 
+                  <interp inst="t17670909-35-defend423" type="surname" value="Knowles"></interp>
+                     <interp inst="t17670909-35-defend423" type="given" value="Jonas"></interp>
+                     <interp inst="t17670909-35-defend423" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17670909-35-off213" type="offenceDescription">
+                     <interp inst="t17670909-35-off213" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17670909-35-off213" type="offenceSubcategory" value="other"></interp>
+               stealing an iron rat-trap, a tobacco-box, half a peck of canary seeds, two dozen pair of bootstraps, and a hempen bag
+            </rs>, the property of 
+               
+                  <persName id="t17670909-35-victim425" type="victimName">
+                     Daniel 
+                     Richardson 
+                  <interp inst="t17670909-35-victim425" type="surname" value="Richardson"></interp>
+                     <interp inst="t17670909-35-victim425" type="given" value="Daniel"></interp>
+                     <interp inst="t17670909-35-victim425" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17670909-35-off213 t17670909-35-victim425"></join>
+                  </persName>
+                
+            , <rs id="t17670909-35-cd214" type="crimeDate">Sept. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17670909-35-off213 t17670909-35-cd214"></join>. *</p>
+               <p>
+            
+                  <persName id="t17670909-35-person426">
+                  Daniel 
+                  Richardson 
+               <interp inst="t17670909-35-person426" type="surname" value="Richardson"></interp>
+                     <interp inst="t17670909-35-person426" type="given" value="Daniel"></interp>
+                     <interp inst="t17670909-35-person426" type="gender" value="male"></interp>
+                  </persName>
+            . I live in <placeName id="t17670909-35-crimeloc215">Spitalfields</placeName>
+                  <interp inst="t17670909-35-crimeloc215" type="placeName" value="Spitalfields"></interp>
+                  <interp inst="t17670909-35-crimeloc215" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17670909-35-off213 t17670909-35-crimeloc215"></join>, and <rs id="t17670909-35-viclabel216" type="occupation">keep a corn chandler's shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670909-35-victim425 t17670909-35-viclabel216"></join>; I lost the things mentioned in the indictment; I found them at the prisoner's lodgings, I took him before Justice Fielding, there he owned he had taken them.</p>
+               <p>Prisoner's defence.</p>
+               <p>I was in liquor.</p>
+               <p>
+            
+                  <persName id="t17670909-35-person427">
+                  William 
+                  Tapp 
+               <interp inst="t17670909-35-person427" type="surname" value="Tapp"></interp>
+                     <interp inst="t17670909-35-person427" type="given" value="William"></interp>
+                     <interp inst="t17670909-35-person427" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the prisoner between three and four years, he always was a very regular man upon duty; he <rs id="t17670909-35-deflabel217" type="occupation">belongs to the third regiment</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17670909-35-defend423 t17670909-35-deflabel217"></join>, he always bore the name of an honest man.</p>
+               <p>
+                  <rs id="t17670909-35-verdict218" type="verdictDescription">
+                     <interp inst="t17670909-35-verdict218" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17670909-35-punish219" type="punishmentDescription">
+                     <interp inst="t17670909-35-punish219" type="punishmentCategory" value="miscPunish"></interp>
+                     <interp inst="t17670909-35-punish219" type="punishmentSubcategory" value="branding"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17670909-35-defend423 t17670909-35-punish219"></join>
+               B
+            </rs>.</p>
+            </div1>

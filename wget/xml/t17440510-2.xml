@@ -1,3 +1,82 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17440510-2">
+               <interp inst="t17440510-2" type="collection" value="BAILEY"></interp>
+               <interp inst="t17440510-2" type="year" value="1744"></interp>
+               <interp inst="t17440510-2" type="uri" value="sessionsPapers/17440510"></interp>
+               <interp inst="t17440510-2" type="date" value="17440510"></interp>
+               <join result="criminalCharge" id="t17440510-2-off7-c36" targOrder="Y" targets="t17440510-2-defend39 t17440510-2-off7 t17440510-2-verdict9"></join>
+         
+               <p>243. 
+               
+                  <persName id="t17440510-2-defend39" type="defendantName">
+                     John 
+                     Long 
+                  <interp inst="t17440510-2-defend39" type="surname" value="Long"></interp>
+                     <interp inst="t17440510-2-defend39" type="given" value="John"></interp>
+                     <interp inst="t17440510-2-defend39" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17440510-2-defloc6">St. Giles's in the Fields</placeName>
+                  <interp inst="t17440510-2-defloc6" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t17440510-2-defloc6" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17440510-2-defend39 t17440510-2-defloc6"></join>, was indicted for <rs id="t17440510-2-off7" type="offenceDescription">
+                     <interp inst="t17440510-2-off7" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17440510-2-off7" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing four sheets, value 6s. a shirt, value 4s. four pillowbeers, value 1 s. two aprons, value 1 s. 6 d. a waistcoat, value 6 d. and three handkerchiefs, value 6 d.
+            </rs> the Goods of 
+               
+                  <persName id="t17440510-2-victim41" type="victimName">
+                     Charles 
+                     King 
+                  <interp inst="t17440510-2-victim41" type="surname" value="King"></interp>
+                     <interp inst="t17440510-2-victim41" type="given" value="Charles"></interp>
+                     <interp inst="t17440510-2-victim41" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17440510-2-off7 t17440510-2-victim41"></join>
+                  </persName>
+                
+            , <rs id="t17440510-2-cd8" type="crimeDate">April 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17440510-2-off7 t17440510-2-cd8"></join>.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="174405100003"></xptr>
+            
+                  <persName id="t17440510-2-person42">
+                  Elizabeth 
+                  King 
+               <interp inst="t17440510-2-person42" type="surname" value="King"></interp>
+                     <interp inst="t17440510-2-person42" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17440510-2-person42" type="gender" value="female"></interp>
+                  </persName>
+            . I had put this linen into a pan ready for ironing, and set it upon the counter; I heard somebody come into the shop, and run out again; I went into the shop, and missing the linen, run out, and cried I was robbed; upon which 
+               <persName id="t17440510-2-person43">
+                  John 
+                  King 
+               <interp inst="t17440510-2-person43" type="surname" value="King"></interp>
+                     <interp inst="t17440510-2-person43" type="given" value="John"></interp>
+                     <interp inst="t17440510-2-person43" type="gender" value="male"></interp>
+                  </persName>
+             run after the Prisoner, and took him.</p>
+               <p>
+            
+                  <persName id="t17440510-2-person44">
+                  John 
+                  King 
+               <interp inst="t17440510-2-person44" type="surname" value="King"></interp>
+                     <interp inst="t17440510-2-person44" type="given" value="John"></interp>
+                     <interp inst="t17440510-2-person44" type="gender" value="male"></interp>
+                  </persName>
+            . I was looking out at a one pair of stairs window, and heard my aunt cry she was robbed, and somebody said here is a boy with a bundle of linen. I went up to him, and he laid the bundle down and run away, I run after him, and took him, and he called out several times for his case of pistols to shoot me; whether he had any gang with him I cannot tell, but I saw nobody but himself; it was pretty dark, I believe it was between eight and nine in the evening. <rs id="t17440510-2-verdict9" type="verdictDescription">
+                     <interp inst="t17440510-2-verdict9" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17440510-2-verdict9" type="verdictSubcategory" value="theftunder5s"></interp>
+               Guilty 4 s. 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17440510-2-punish10" type="punishmentDescription">
+                     <interp inst="t17440510-2-punish10" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17440510-2-defend39 t17440510-2-punish10"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

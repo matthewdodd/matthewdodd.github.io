@@ -1,3 +1,77 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17471209-6">
+               <interp inst="t17471209-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17471209-6" type="year" value="1747"></interp>
+               <interp inst="t17471209-6" type="uri" value="sessionsPapers/17471209"></interp>
+               <interp inst="t17471209-6" type="date" value="17471209"></interp>
+               <join result="criminalCharge" id="t17471209-6-off26-c52" targOrder="Y" targets="t17471209-6-defend62 t17471209-6-off26 t17471209-6-verdict29"></join>
+         
+               <p>6. 
+               
+                  <persName id="t17471209-6-defend62" type="defendantName">
+                     Ann 
+                     Neal 
+                  <interp inst="t17471209-6-defend62" type="surname" value="Neal"></interp>
+                     <interp inst="t17471209-6-defend62" type="given" value="Ann"></interp>
+                     <interp inst="t17471209-6-defend62" type="gender" value="female"></interp>
+                  </persName>
+               
+            , was indicted for <rs id="t17471209-6-off26" type="offenceDescription">
+                     <interp inst="t17471209-6-off26" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17471209-6-off26" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing 1 pair of stockings, value 18 d.
+            </rs> the goods and chattels of 
+               
+                  <persName id="t17471209-6-victim64" type="victimName">
+                     Roger 
+                     Baston 
+                  <interp inst="t17471209-6-victim64" type="surname" value="Baston"></interp>
+                     <interp inst="t17471209-6-victim64" type="given" value="Roger"></interp>
+                     <interp inst="t17471209-6-victim64" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17471209-6-off26 t17471209-6-victim64"></join>
+                  </persName>
+                
+            , <rs id="t17471209-6-cd27" type="crimeDate">November the 9th</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17471209-6-off26 t17471209-6-cd27"></join>.</p>
+               <p>
+            
+                  <persName id="t17471209-6-person65">
+                  Roger 
+                  Baston 
+               <interp inst="t17471209-6-person65" type="surname" value="Baston"></interp>
+                     <interp inst="t17471209-6-person65" type="given" value="Roger"></interp>
+                     <interp inst="t17471209-6-person65" type="gender" value="male"></interp>
+                  </persName>
+            . I live by <placeName id="t17471209-6-crimeloc28">Turnstile, Holbourn</placeName>
+                  <interp inst="t17471209-6-crimeloc28" type="placeName" value="Turnstile, Holbourn"></interp>
+                  <interp inst="t17471209-6-crimeloc28" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17471209-6-off26 t17471209-6-crimeloc28"></join>. On Monday the 9th of November I lost a pair of stockings from off my compter, she lookt over several stockings; I mist this pair and went after her; and found them between two fish baskets, which she brought with her into the shop.</p>
+               <p>
+            
+                  <persName id="t17471209-6-person66">
+                  Mary 
+                  Haddock 
+               <interp inst="t17471209-6-person66" type="surname" value="Haddock"></interp>
+                     <interp inst="t17471209-6-person66" type="given" value="Mary"></interp>
+                     <interp inst="t17471209-6-person66" type="gender" value="female"></interp>
+                  </persName>
+            . I was in the shop when the gentleman brought the woman back, and he took up one basket and found the stockings.</p>
+               <p>The Prisoner in her defence said, she believed they were dropt into her basket.</p>
+               <p>
+                  <rs id="t17471209-6-verdict29" type="verdictDescription">
+                     <interp inst="t17471209-6-verdict29" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17471209-6-verdict29" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17471209-6-punish30" type="punishmentDescription">
+                     <interp inst="t17471209-6-punish30" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17471209-6-punish30" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17471209-6-defend62 t17471209-6-punish30"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

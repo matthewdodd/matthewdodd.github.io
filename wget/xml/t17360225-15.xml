@@ -1,3 +1,53 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:160bce61b08aa8587865b82ef2258672d79b3b8ff8823271daf161c7ad250691
-size 713
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17360225-15">
+               <interp inst="t17360225-15" type="collection" value="BAILEY"></interp>
+               <interp inst="t17360225-15" type="year" value="1736"></interp>
+               <interp inst="t17360225-15" type="uri" value="sessionsPapers/17360225"></interp>
+               <interp inst="t17360225-15" type="date" value="17360225"></interp>
+               <join result="criminalCharge" id="t17360225-15-off99-c93" targOrder="Y" targets="t17360225-15-defend122 t17360225-15-off99 t17360225-15-verdict101"></join>
+         
+               <p>19. 
+               
+                  <persName id="t17360225-15-defend122" type="defendantName">
+                     John 
+                     Williams 
+                  <interp inst="t17360225-15-defend122" type="surname" value="Williams"></interp>
+                     <interp inst="t17360225-15-defend122" type="given" value="John"></interp>
+                     <interp inst="t17360225-15-defend122" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17360225-15-defloc98">St. Martin in the Fields</placeName>
+                  <interp inst="t17360225-15-defloc98" type="placeName" value="St. Martin in the Fields"></interp>
+                  <interp inst="t17360225-15-defloc98" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17360225-15-defend122 t17360225-15-defloc98"></join>, was indicted for <rs id="t17360225-15-off99" type="offenceDescription">
+                     <interp inst="t17360225-15-off99" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17360225-15-off99" type="offenceSubcategory" value="shoplifting"></interp>
+               privately stealing a Gammon of Bacon, value 2s. the Goods of 
+                     
+                        <persName id="t17360225-15-victim124" type="victimName">
+                           Elizabeth 
+                           Brocas 
+                        <interp inst="t17360225-15-victim124" type="surname" value="Brocas"></interp>
+                        <interp inst="t17360225-15-victim124" type="given" value="Elizabeth"></interp>
+                        <interp inst="t17360225-15-victim124" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17360225-15-off99 t17360225-15-victim124"></join>
+                     </persName>
+                      
+                  , out of her Shop
+            </rs> the <rs id="t17360225-15-cd100" type="crimeDate">17th of February</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17360225-15-off99 t17360225-15-cd100"></join>. <rs id="t17360225-15-verdict101" type="verdictDescription">
+                     <interp inst="t17360225-15-verdict101" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17360225-15-verdict101" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17360225-15-punish102" type="punishmentDescription">
+                     <interp inst="t17360225-15-punish102" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17360225-15-defend122 t17360225-15-punish102"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

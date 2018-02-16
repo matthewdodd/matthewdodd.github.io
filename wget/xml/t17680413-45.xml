@@ -1,3 +1,75 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17680413-45">
+               <interp inst="t17680413-45" type="collection" value="BAILEY"></interp>
+               <interp inst="t17680413-45" type="year" value="1768"></interp>
+               <interp inst="t17680413-45" type="uri" value="sessionsPapers/17680413"></interp>
+               <interp inst="t17680413-45" type="date" value="17680413"></interp>
+               <join result="criminalCharge" id="t17680413-45-off253-c348" targOrder="Y" targets="t17680413-45-defend435 t17680413-45-off253 t17680413-45-verdict256"></join>
+               <join result="criminalCharge" id="t17680413-45-off253-c349" targOrder="Y" targets="t17680413-45-defend437 t17680413-45-off253 t17680413-45-verdict256"></join>
+         
+               <p>300, 301. (L.) 
+               
+                  <persName id="t17680413-45-defend435" type="defendantName">
+                     Stephen 
+                     Field 
+                  <interp inst="t17680413-45-defend435" type="surname" value="Field"></interp>
+                     <interp inst="t17680413-45-defend435" type="given" value="Stephen"></interp>
+                     <interp inst="t17680413-45-defend435" type="gender" value="male"></interp>
+                  </persName>
+                
+             and 
+               
+                  <persName id="t17680413-45-defend437" type="defendantName">
+                     Benjamin 
+                     Evans 
+                  <interp inst="t17680413-45-defend437" type="surname" value="Evans"></interp>
+                     <interp inst="t17680413-45-defend437" type="given" value="Benjamin"></interp>
+                     <interp inst="t17680413-45-defend437" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17680413-45-off253" type="offenceDescription">
+                     <interp inst="t17680413-45-off253" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17680413-45-off253" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silk handkerchief, value 4 s.
+            </rs> the property of 
+               
+                  <persName id="t17680413-45-victim439" type="victimName">
+                     William 
+                     Read 
+                  <interp inst="t17680413-45-victim439" type="surname" value="Read"></interp>
+                     <interp inst="t17680413-45-victim439" type="given" value="William"></interp>
+                     <interp inst="t17680413-45-victim439" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17680413-45-off253 t17680413-45-victim439"></join>
+                  </persName>
+                
+            , <rs id="t17680413-45-cd254" type="crimeDate">April 12</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17680413-45-off253 t17680413-45-cd254"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17680413-45-person440">
+                  William 
+                  Read 
+               <interp inst="t17680413-45-person440" type="surname" value="Read"></interp>
+                     <interp inst="t17680413-45-person440" type="given" value="William"></interp>
+                     <interp inst="t17680413-45-person440" type="gender" value="male"></interp>
+                  </persName>
+            . On Tuesday last I was coming along Thames-street, about two o'clock in the day, the two lads at the bar followed me some time; when I got near <placeName id="t17680413-45-crimeloc255">Billingsgate</placeName>
+                  <interp inst="t17680413-45-crimeloc255" type="placeName" value="Billingsgate"></interp>
+                  <interp inst="t17680413-45-crimeloc255" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17680413-45-off253 t17680413-45-crimeloc255"></join>, I found a hand at my pocket; I looked round and saw Field have my handkerchief in his hand, he gave it to the other prisoner, who put it behind his coat; I asked him what he had there; he said nothing; I took it from him, he said he h ad just picked it up; I had hold of him, the other ran down a gateway; I called to a person who secured him.</p>
+               <p>Field's defence.</p>
+               <p>I was standing by the water-side, looking at a ship, when a man came and took hold of me.</p>
+               <p>Evans's defence.</p>
+               <p>This gentleman asked me if I had his handkerchief; I saw it lie, and took it up and gave it him.</p>
+               <p>To Evans's character.</p>
+               <p>Sarah Allen. Evans's father and mother keeps a public-house, I never knew him dishonest.</p>
+               <p>Both <rs id="t17680413-45-verdict256" type="verdictDescription">
+                     <interp inst="t17680413-45-verdict256" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17680413-45-punish257" type="punishmentDescription">
+                     <interp inst="t17680413-45-punish257" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680413-45-defend435 t17680413-45-punish257"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17680413-45-defend437 t17680413-45-punish257"></join>
+               T
+            </rs>.</p>
+            </div1>

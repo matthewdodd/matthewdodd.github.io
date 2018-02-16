@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17560528-5">
+               <interp inst="t17560528-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17560528-5" type="year" value="1756"></interp>
+               <interp inst="t17560528-5" type="uri" value="sessionsPapers/17560528"></interp>
+               <interp inst="t17560528-5" type="date" value="17560528"></interp>
+               <join result="criminalCharge" id="t17560528-5-off21-c72" targOrder="Y" targets="t17560528-5-defend86 t17560528-5-off21 t17560528-5-verdict25"></join>
+         
+               <p>179. 
+               
+                  <persName id="t17560528-5-defend86" type="defendantName">
+                     Elizabeth 
+                     Ellis 
+                  <interp inst="t17560528-5-defend86" type="surname" value="Ellis"></interp>
+                     <interp inst="t17560528-5-defend86" type="given" value="Elizabeth"></interp>
+                     <interp inst="t17560528-5-defend86" type="gender" value="female"></interp>
+                  </persName>
+               
+            , <rs id="t17560528-5-deflabel20" type="occupation">spinster</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560528-5-defend86 t17560528-5-deflabel20"></join>, was indicted for <rs id="t17560528-5-off21" type="offenceDescription">
+                     <interp inst="t17560528-5-off21" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17560528-5-off21" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing one woman's beaver that, value 6 d. one pair of woman's stays, value 6 d. one linen apron, value 3 d. one woolen petticoat, value 3 d. and one silk and cotton handkerchief
+            </rs>, the goods of 
+               
+                  <persName id="t17560528-5-victim88" type="victimName">
+                     Charles 
+                     Rogers 
+                  <interp inst="t17560528-5-victim88" type="surname" value="Rogers"></interp>
+                     <interp inst="t17560528-5-victim88" type="given" value="Charles"></interp>
+                     <interp inst="t17560528-5-victim88" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17560528-5-off21 t17560528-5-victim88"></join>
+                  </persName>
+                
+            , <rs id="t17560528-5-cd22" type="crimeDate">January 6</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17560528-5-off21 t17560528-5-cd22"></join> *</p> 
+               <p>Charles Rogers. I am a <rs id="t17560528-5-viclabel23" type="occupation">milk-man</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560528-5-victim88 t17560528-5-viclabel23"></join>. I hired the prisoner, as <rs id="t17560528-5-deflabel24" type="occupation">servant</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17560528-5-defend86 t17560528-5-deflabel24"></join> on the 6th of January. I filled<xptr type="pageFacsimile" doc="175605280007"></xptr> ber belly, and put her to bed to my children. In the morning she was gone, and the things mention'd in the indictment. Some time after she was taken, and upon my charging her with taking the things. she confessed she took them away, and had pawned some of them, and told me for what money, but would not tell me where. I never had any of the things again. She had the apron and petticoat on when taken, and own'd them to be my property.</p>
+               <p>
+            
+                  <persName id="t17560528-5-person89">
+                  Ann 
+                  Rogers 
+               <interp inst="t17560528-5-person89" type="surname" value="Rogers"></interp>
+                     <interp inst="t17560528-5-person89" type="given" value="Ann"></interp>
+                     <interp inst="t17560528-5-person89" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to the prosecutor. On the 18th of last February I was coming through Thames-Street, and met the prisoner, and laid hold of her; then I accused her with robbing me on the 6th of January. I took her into a house; there she confess'd, and said she would help me to my things, saying they were pawn'd somewhere in Thieving-Lane, but would not tell me the person's name. She had my apron and petticoat on, which she own'd to be mine.</p>
+               <p>Prisoner's defence. I know nothing of what they lay to my charge.</p>
+               <p>
+                  <rs id="t17560528-5-verdict25" type="verdictDescription">
+                     <interp inst="t17560528-5-verdict25" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>.</p>
+               <p>
+                  <rs id="t17560528-5-punish26" type="punishmentDescription">
+                     <interp inst="t17560528-5-punish26" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17560528-5-defend86 t17560528-5-punish26"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

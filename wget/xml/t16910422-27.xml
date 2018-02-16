@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16910422-27">
+               <interp inst="t16910422-27" type="collection" value="BAILEY"></interp>
+               <interp inst="t16910422-27" type="year" value="1691"></interp>
+               <interp inst="t16910422-27" type="uri" value="sessionsPapers/16910422"></interp>
+               <interp inst="t16910422-27" type="date" value="16910422"></interp>
+               <join result="criminalCharge" id="t16910422-27-off135-c108" targOrder="Y" targets="t16910422-27-defend108 t16910422-27-off135 t16910422-27-verdict138"></join>
+         
+               <p>
+            
+                  <persName id="t16910422-27-defend108" type="defendantName">
+                  S - 
+                  F -
+               <interp inst="t16910422-27-defend108" type="surname" value="F -"></interp>
+                     <interp inst="t16910422-27-defend108" type="given" value="S -"></interp>
+                     <interp inst="t16910422-27-defend108" type="gender" value="male"></interp>
+                  </persName>
+            , was tryed for the <rs id="t16910422-27-off135" type="offenceDescription">
+                     <interp inst="t16910422-27-off135" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16910422-27-off135" type="offenceSubcategory" value="murder"></interp>
+               Murther of one 
+                     <persName id="t16910422-27-victim109" type="victimName">
+                        John 
+                        Charleton
+                     <interp inst="t16910422-27-victim109" type="surname" value="Charleton"></interp>
+                        <interp inst="t16910422-27-victim109" type="given" value="John"></interp>
+                        <interp inst="t16910422-27-victim109" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16910422-27-off135 t16910422-27-victim109"></join>
+                     </persName>
+                  , an <rs id="t16910422-27-viclabel136" type="occupation">Assistant to one of the Sheriff's Officers</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16910422-27-victim109 t16910422-27-viclabel136"></join> for the County of Middlesex
+            </rs>, the Evidence swore that the Officer went to his Chamber in <placeName id="t16910422-27-crimeloc137">Fullers Rents</placeName>
+                  <interp inst="t16910422-27-crimeloc137" type="placeName" value="Fullers Rents"></interp>
+                  <interp inst="t16910422-27-crimeloc137" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16910422-27-off135 t16910422-27-crimeloc137"></join> to serve the Prisoner with an Execution, at the Suit of one Mr. Matthews, for 200 l. and when they were entred, and had Charged the Prisoner, he seemed to be submissive at first, telling the Officer that he would go any where with him: but immediately he arose and went behind his Bed, pretending to put off his Gown or some such business, but instead of that, he brought a Brase of Pistols and shot one off at Charleton, and gave him a Mortal Wound near the Navel of the Depth of 2 Inches, of which he dyed within few days after; the other Pistol he presented towards Mr. Constable the Officer, but one in the Company obstructed his design, and Mr. Constable gave the Prisoner a Wound in his Breast, which he confest in Court. The Prisoner in his Defence proved, That the Officer and others came to his Chamber door and broke it open, and assaulted him in a violent manner, making a pass at him and wounded him, running him in at one Breast and out at the other, before they gave the word of Arrest to him, and then he made haste to get his Pistols in his own Defence. This Mr. F proved for himself. Then the Jury was very distinctly charged to enquire, and being withdrawn about a quarter of an hour, they brought him in <rs id="t16910422-27-verdict138" type="verdictDescription">
+                     <interp inst="t16910422-27-verdict138" type="verdictCategory" value="notGuilty"></interp>
+               Not Guilty
+            </rs>; but the Court clearing them further to consider of it, they went out again, and returning, gave the same Verdict, which was Recorded in Court.</p>
+            </div1>

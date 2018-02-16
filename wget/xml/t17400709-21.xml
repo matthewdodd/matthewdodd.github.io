@@ -1,3 +1,57 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17400709-21">
+               <interp inst="t17400709-21" type="collection" value="BAILEY"></interp>
+               <interp inst="t17400709-21" type="year" value="1740"></interp>
+               <interp inst="t17400709-21" type="uri" value="sessionsPapers/17400709"></interp>
+               <interp inst="t17400709-21" type="date" value="17400709"></interp>
+               <join result="criminalCharge" id="t17400709-21-off110-c156" targOrder="Y" targets="t17400709-21-defend196 t17400709-21-off110 t17400709-21-verdict113"></join>
+         
+               <p>311. 
+               
+                  <persName id="t17400709-21-defend196" type="defendantName">
+                     Richard 
+                     Cheshire 
+                  <interp inst="t17400709-21-defend196" type="surname" value="Cheshire"></interp>
+                     <interp inst="t17400709-21-defend196" type="given" value="Richard"></interp>
+                     <interp inst="t17400709-21-defend196" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17400709-21-off110" type="offenceDescription">
+                     <interp inst="t17400709-21-off110" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17400709-21-off110" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a silver Spoon, val.11 s.
+            </rs> the Goods of 
+               
+                  <persName id="t17400709-21-victim198" type="victimName">
+                     William 
+                     Hunter 
+                  <interp inst="t17400709-21-victim198" type="surname" value="Hunter"></interp>
+                     <interp inst="t17400709-21-victim198" type="given" value="William"></interp>
+                     <interp inst="t17400709-21-victim198" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17400709-21-off110 t17400709-21-victim198"></join>
+                  </persName>
+                
+            . <rs id="t17400709-21-cd111" type="crimeDate">July 1</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17400709-21-off110 t17400709-21-cd111"></join>.</p>
+               <p>William Hunter. I <rs id="t17400709-21-viclabel112" type="occupation">keep the Crown-Inn in Holborn</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17400709-21-victim198 t17400709-21-viclabel112"></join>, and lost a silver Spoon last Wednesday was sevennight; and it being Term-time, we were very busy, so we did not miss it,'till 3 Days afterwards. The Prisoner used to clean Boots and Shoes, and I used to give him our broken Victuals: I did not suspect he had taken the Spoon, till he absconded, and left his Shop (that is, his Brushes and Blacking) in our Stable. Upon this I enquired after him, and a Poulterer in the Neighbourhood gave me Intelligence where to find him. As soon as I found him, I asked him why he did not come to our Inn, as usual? Why Master (says he) they say you have lost something, and that you'll put me in Goal. No, no, said I; I want to send you with a Horse to Rumford , so I took him with me, and shewed him the Fellow to the Spoon? I had lost, asking him if he knew that Spoon? Indeed Master say's he, I have not the Spoon. I asked him where it was? He told me he had sold it for 10 s. at the Silversmith's Shop at Holborn-Bridge. To the best of my Knowledge I gave 13 s.6 d. for it, as second Hand. He went with me, and shewed me the Shop; and told the Silversmith, he had given him 2 Half-crowns and five Shillings for it: but the Silversmith denied it, and would not let me see it, telling me he would sue me for making a Rout, and charging him for buying it.</p>
+               <p>Prisoner. Yes, Sir, I did own it.</p>
+               <p>Mr Hunter. The Prisoner is foolish; for I could not get a Constable the Day I took him, but he kept along with me, and I could not get rid of him all Day. I set a little Child of 6 Years old to look after him.'till I got an Officer, and he look'd more after the Child, than the Child after him. He own'd the Fact.</p>
+               <p>Prisoner. No, Sir,- no, Sir.</p>
+               <p>Mr Hunter. I have entrusted him several Times, with Half a Dozen Pair of Silver Spurs, and have bid him clean them cleverly, and he has brought them me again honestly. The Silversmith is to blame to buy such a Thing, of a poor Fellow without either Hat or Shoes. I believe 'tis his first Fact. <rs id="t17400709-21-verdict113" type="verdictDescription">
+                     <interp inst="t17400709-21-verdict113" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17400709-21-verdict113" type="verdictSubcategory" value="theftunder1s"></interp>
+               Guilty 10 d.
+            </rs>
+               </p>
+               <p>
+                  <rs id="t17400709-21-punish114" type="punishmentDescription">
+                     <interp inst="t17400709-21-punish114" type="punishmentCategory" value="corporal"></interp>
+                     <interp inst="t17400709-21-punish114" type="punishmentSubcategory" value="whipping"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17400709-21-defend196 t17400709-21-punish114"></join>
+               
+                     <note>[Whipping. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

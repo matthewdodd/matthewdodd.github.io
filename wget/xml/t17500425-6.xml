@@ -1,3 +1,91 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17500425-6">
+               <interp inst="t17500425-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17500425-6" type="year" value="1750"></interp>
+               <interp inst="t17500425-6" type="uri" value="sessionsPapers/17500425"></interp>
+               <interp inst="t17500425-6" type="date" value="17500425"></interp>
+               <join result="criminalCharge" id="t17500425-6-off27-c50" targOrder="Y" targets="t17500425-6-defend59 t17500425-6-off27 t17500425-6-verdict29"></join>
+               <join result="criminalCharge" id="t17500425-6-off27-c51" targOrder="Y" targets="t17500425-6-defend61 t17500425-6-off27 t17500425-6-verdict29"></join>
+               <join result="criminalCharge" id="t17500425-6-off27-c52" targOrder="Y" targets="t17500425-6-defend62 t17500425-6-off27 t17500425-6-verdict29"></join>
+         
+               <p>296, 297, 298. 
+               
+                  <persName id="t17500425-6-defend59" type="defendantName">
+                     James 
+                     Fenton 
+                  <interp inst="t17500425-6-defend59" type="surname" value="Fenton"></interp>
+                     <interp inst="t17500425-6-defend59" type="given" value="James"></interp>
+                     <interp inst="t17500425-6-defend59" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17500425-6-defend61" type="defendantName">
+                     James 
+                     Hartley 
+                  <interp inst="t17500425-6-defend61" type="surname" value="Hartley"></interp>
+                     <interp inst="t17500425-6-defend61" type="given" value="James"></interp>
+                     <interp inst="t17500425-6-defend61" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               <persName id="t17500425-6-defend62" type="defendantName">
+                  Richard 
+                  Bambrick 
+               <interp inst="t17500425-6-defend62" type="surname" value="Bambrick"></interp>
+                     <interp inst="t17500425-6-defend62" type="given" value="Richard"></interp>
+                     <interp inst="t17500425-6-defend62" type="gender" value="male"></interp>
+                  </persName>
+             , were indicted <rs id="t17500425-6-off27" type="offenceDescription">
+                     <interp inst="t17500425-6-off27" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17500425-6-off27" type="offenceSubcategory" value="grandLarceny"></interp>
+               for stealing one linnen sheet, val. 2 s. the goods of 
+                     
+                        <persName id="t17500425-6-victim64" type="victimName">
+                           William 
+                           Fowler 
+                        <interp inst="t17500425-6-victim64" type="surname" value="Fowler"></interp>
+                        <interp inst="t17500425-6-victim64" type="given" value="William"></interp>
+                        <interp inst="t17500425-6-victim64" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , one linnen shift, the goods of 
+                     
+                        <persName id="t17500425-6-victim66" type="victimName">
+                           William 
+                           Varse 
+                        <interp inst="t17500425-6-victim66" type="surname" value="Varse"></interp>
+                        <interp inst="t17500425-6-victim66" type="given" value="William"></interp>
+                        <interp inst="t17500425-6-victim66" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  , one linnen shift
+            </rs> the goods of 
+               
+                  <persName id="t17500425-6-victim68" type="victimName">
+                     William 
+                     Underwood 
+                  <interp inst="t17500425-6-victim68" type="surname" value="Underwood"></interp>
+                     <interp inst="t17500425-6-victim68" type="given" value="William"></interp>
+                     <interp inst="t17500425-6-victim68" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17500425-6-cd28" type="crimeDate">March 2</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17500425-6-off27 t17500425-6-cd28"></join>.</p>
+               <p>Each <rs id="t17500425-6-verdict29" type="verdictDescription">
+                     <interp inst="t17500425-6-verdict29" type="verdictCategory" value="guilty"></interp>
+                     <interp inst="t17500425-6-verdict29" type="verdictSubcategory" value="theftunder1s"></interp>
+               guilty 10 d
+            </rs>.</p>
+               <p>
+                  <rs id="t17500425-6-punish30" type="punishmentDescription">
+                     <interp inst="t17500425-6-punish30" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500425-6-defend59 t17500425-6-punish30"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500425-6-defend61 t17500425-6-punish30"></join>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17500425-6-defend62 t17500425-6-punish30"></join>
+               
+                     <note>[Transportation. See summary.]</note>
+               
+                  </rs>
+               </p>
+            </div1>

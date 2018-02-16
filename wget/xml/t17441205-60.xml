@@ -1,3 +1,277 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17441205-60">
+               <interp inst="t17441205-60" type="collection" value="BAILEY"></interp>
+               <interp inst="t17441205-60" type="year" value="1744"></interp>
+               <interp inst="t17441205-60" type="uri" value="sessionsPapers/17441205"></interp>
+               <interp inst="t17441205-60" type="date" value="17441205"></interp>
+               <join result="criminalCharge" id="t17441205-60-off388-c600" targOrder="Y" targets="t17441205-60-defend741 t17441205-60-off388 t17441205-60-verdict391"></join>
+         
+               <p>105. + 
+               
+                  <persName id="t17441205-60-defend741" type="defendantName">
+                     William 
+                     Harding 
+                  <interp inst="t17441205-60-defend741" type="surname" value="Harding"></interp>
+                     <interp inst="t17441205-60-defend741" type="given" value="William"></interp>
+                     <interp inst="t17441205-60-defend741" type="gender" value="male"></interp>
+                  </persName>
+               
+            , of <placeName id="t17441205-60-defloc386">St. Botolph without Aldgate</placeName>
+                  <interp inst="t17441205-60-defloc386" type="placeName" value="St. Botolph without Aldgate"></interp>
+                  <interp inst="t17441205-60-defloc386" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-60-defend741 t17441205-60-defloc386"></join>, London <rs id="t17441205-60-deflabel387" type="occupation">Victualler</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-60-defend741 t17441205-60-deflabel387"></join>, was indicted, for that <rs id="t17441205-60-off388" type="offenceDescription">
+                     <interp inst="t17441205-60-off388" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t17441205-60-off388" type="offenceSubcategory" value="murder"></interp>
+               he, together with 
+                     <persName id="t17441205-60-person742">
+                        Michael 
+                        Burchall 
+                     <interp inst="t17441205-60-person742" type="surname" value="Burchall"></interp>
+                        <interp inst="t17441205-60-person742" type="given" value="Michael"></interp>
+                        <interp inst="t17441205-60-person742" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person743">
+                        James
+                        <xptr type="pageFacsimile" doc="174412050053"></xptr> Diamond<interp inst="t17441205-60-person743" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person743" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person744">
+                        Edward 
+                        Morgan 
+                     <interp inst="t17441205-60-person744" type="surname" value="Morgan"></interp>
+                        <interp inst="t17441205-60-person744" type="given" value="Edward"></interp>
+                        <interp inst="t17441205-60-person744" type="gender" value="male"></interp>
+                     </persName>
+                  *, and divers other persons, to the Jurors unknown, upon 
+                     
+                        <persName id="t17441205-60-victim746" type="victimName">
+                           James 
+                           Sparkes 
+                        <interp inst="t17441205-60-victim746" type="surname" value="Sparkes"></interp>
+                        <interp inst="t17441205-60-victim746" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-victim746" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17441205-60-off388 t17441205-60-victim746"></join>
+                     </persName>
+                      
+                  , in the peace of God, &amp;c. feloniously, wilfully, and of their malice aforethought, did make an assault; and that he, the said 
+                     <persName id="t17441205-60-person747">
+                        Michael 
+                        Burchall 
+                     <interp inst="t17441205-60-person747" type="surname" value="Burchall"></interp>
+                        <interp inst="t17441205-60-person747" type="given" value="Michael"></interp>
+                        <interp inst="t17441205-60-person747" type="gender" value="male"></interp>
+                     </persName>
+                  , with a certain wooden stick, which he had and held in his right hand, he the said 
+                     <persName id="t17441205-60-person748">
+                        James 
+                        Sparkes 
+                     <interp inst="t17441205-60-person748" type="surname" value="Sparkes"></interp>
+                        <interp inst="t17441205-60-person748" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person748" type="gender" value="male"></interp>
+                     </persName>
+                  , upon the backpart of the head, feloniously, wilfully, &amp;c. did strike, giving him a mortal wound of the breadth of one inch, and the depth of a quarter of an inch, of which he languished from the said <rs id="t17441205-60-cd389" type="crimeDate">21st day of August</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-60-off388 t17441205-60-cd389"></join> to the 7th day of September, on which said 7th day of September, the said 
+                     <persName id="t17441205-60-person749">
+                        James 
+                        Sparkes 
+                     <interp inst="t17441205-60-person749" type="surname" value="Sparkes"></interp>
+                        <interp inst="t17441205-60-person749" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person749" type="gender" value="male"></interp>
+                     </persName>
+                  , in the parish of St. Mary, Whitechapel, of the said mortal wound died; and that they, the said 
+                     <persName id="t17441205-60-person750">
+                        James 
+                        Diamond 
+                     <interp inst="t17441205-60-person750" type="surname" value="Diamond"></interp>
+                        <interp inst="t17441205-60-person750" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person750" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person751">
+                        William 
+                        Harding 
+                     <interp inst="t17441205-60-person751" type="surname" value="Harding"></interp>
+                        <interp inst="t17441205-60-person751" type="given" value="William"></interp>
+                        <interp inst="t17441205-60-person751" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person752">
+                        Edward 
+                        Morgan 
+                     <interp inst="t17441205-60-person752" type="surname" value="Morgan"></interp>
+                        <interp inst="t17441205-60-person752" type="given" value="Edward"></interp>
+                        <interp inst="t17441205-60-person752" type="gender" value="male"></interp>
+                     </persName>
+                  , &amp;c. were aiding, assisting, abetting, comforting, and maintaining the said 
+                     <persName id="t17441205-60-person753">
+                        Michael 
+                        Burchall 
+                     <interp inst="t17441205-60-person753" type="surname" value="Burchall"></interp>
+                        <interp inst="t17441205-60-person753" type="given" value="Michael"></interp>
+                        <interp inst="t17441205-60-person753" type="gender" value="male"></interp>
+                     </persName>
+                   to commit the said murder; and therefore that they, the said 
+                     <persName id="t17441205-60-person754">
+                        Michael 
+                        Burchall 
+                     <interp inst="t17441205-60-person754" type="surname" value="Burchall"></interp>
+                        <interp inst="t17441205-60-person754" type="given" value="Michael"></interp>
+                        <interp inst="t17441205-60-person754" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person755">
+                        James 
+                        Diamond 
+                     <interp inst="t17441205-60-person755" type="surname" value="Diamond"></interp>
+                        <interp inst="t17441205-60-person755" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person755" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person756">
+                        William 
+                        Harding 
+                     <interp inst="t17441205-60-person756" type="surname" value="Harding"></interp>
+                        <interp inst="t17441205-60-person756" type="given" value="William"></interp>
+                        <interp inst="t17441205-60-person756" type="gender" value="male"></interp>
+                     </persName>
+                  , 
+                     <persName id="t17441205-60-person757">
+                        Edward 
+                        Morgan 
+                     <interp inst="t17441205-60-person757" type="surname" value="Morgan"></interp>
+                        <interp inst="t17441205-60-person757" type="given" value="Edward"></interp>
+                        <interp inst="t17441205-60-person757" type="gender" value="male"></interp>
+                     </persName>
+                  , and divers other persons, to the Jurors unknown, the said 
+                     <persName id="t17441205-60-person758">
+                        James 
+                        Sparkes 
+                     <interp inst="t17441205-60-person758" type="surname" value="Sparkes"></interp>
+                        <interp inst="t17441205-60-person758" type="given" value="James"></interp>
+                        <interp inst="t17441205-60-person758" type="gender" value="male"></interp>
+                     </persName>
+                  , feloniously, wilfully, and of their malice aforethought, did kill, and murder, against his Majesty's peace
+            </rs>, &amp;c.</p>
+               <p>* Edward Morgan was tried last Sessions for the same murder, and acquitted. See Page 257. Trial 466.</p>
+               <p>There was no indictment against him on the Coroner's inquisition.</p>
+               <p>At the request of the Prisoner's Council, the witnesses were examined apart.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person759">
+                  Thomas 
+                  Dadley 
+               <interp inst="t17441205-60-person759" type="surname" value="Dadley"></interp>
+                     <interp inst="t17441205-60-person759" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-60-person759" type="gender" value="male"></interp>
+                  </persName>
+             sworn.</p>
+               <p>Q. What have you to say against the Prisoner, with relation to the murder of one 
+               <persName id="t17441205-60-person760">
+                  James 
+                  Sparkes 
+               <interp inst="t17441205-60-person760" type="surname" value="Sparkes"></interp>
+                     <interp inst="t17441205-60-person760" type="given" value="James"></interp>
+                     <interp inst="t17441205-60-person760" type="gender" value="male"></interp>
+                  </persName>
+            ?</p>
+               <p>Dadley. And please your honour, as to the murder of Sparkes, I can give no account; for I was not present at the time he received his wounds. - I have nothing to say any farther; I don't know the Prisoner, nor I can't say I saw him there - The first beginning of the fray was this, on the 21st of August last, as I was beating the hour of eleven, about eight or ten persons came along, and one of them struck my lanthorn. I asked him why he struck my lanthorn; and then another of them came up to me, gave me the cross buttock, and hove me down backwards: some of them, but I can't tell who, hit me with their canes or sticks. I called out for the watch, being just at the watch-house, and they came to my assistance. Cartwright (one of the watchmen) said, there's one of them gone up <placeName id="t17441205-60-crimeloc390">Checquer-yard</placeName>
+                  <interp inst="t17441205-60-crimeloc390" type="placeName" value="Checquer-yard"></interp>
+                  <interp inst="t17441205-60-crimeloc390" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-60-off388 t17441205-60-crimeloc390"></join>, let us follow him. When we went there they followed us, and there I lost my staff, and was cut over the hand, (as I suppose with a hanger) and I received a blow.</p>
+               <p>Lancelot Howlett. After the blow was given to Sparkes, I went down almost to Mr. Rawlinson's door, and saw Mr. Morgan flourishing a watchman's staff - I do presume he took it away from some of our men. As Mr. Rawlinson was standing at his door, two or three of our men went towards him, with a design to hit him a blow. I said, don't strike him, for I know who he is. We enquired if he knew any of them, and Mr. Rawlinson said, don't be in a passion, and I'll tell you who they are: one is Morgan, who lives in Whitechapel; and another is Harding at Stepney - I know no more of the matter, only that 
+               <persName id="t17441205-60-person761">
+                  James 
+                  Sparkes 
+               <interp inst="t17441205-60-person761" type="surname" value="Sparkes"></interp>
+                     <interp inst="t17441205-60-person761" type="given" value="James"></interp>
+                     <interp inst="t17441205-60-person761" type="gender" value="male"></interp>
+                  </persName>
+            , one of our watchmen, was wounded, and died of his wounds - I don't know the Prisoner; I will say no more than I know.</p>
+               <p>Ebenczer Cartwright. On the 21st of August I was in the watchhouse, and heard an outcry of watch. I went out, and saw Dadley just by with several people striking at him; I can't tell whether it was with sticks or cutlasses; several of the sticks came over my head. I said to Dadley, there is one of them gone up Checquer-yard; we will make sure of him. When we went up the yard, several of them came after us with staves and hangers, and knock'd us both down: my head was cut in several places, and one 
+               <persName id="t17441205-60-person762">
+                  Thomas 
+                  Rawlinson 
+               <interp inst="t17441205-60-person762" type="surname" value="Rawlinson"></interp>
+                     <interp inst="t17441205-60-person762" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-60-person762" type="gender" value="male"></interp>
+                  </persName>
+             said -</p>
+               <p>Coun. You must not mention what he said.</p>
+               <p>Cartwright. I desire you would remember what he said, for I am afraid he will forget himself - I don't know any thing of the prisoner's being there.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person763">
+                  Robert 
+                  Robinson 
+               <interp inst="t17441205-60-person763" type="surname" value="Robinson"></interp>
+                     <interp inst="t17441205-60-person763" type="given" value="Robert"></interp>
+                     <interp inst="t17441205-60-person763" type="gender" value="male"></interp>
+                  </persName>
+            . - I don't know any thing of the prisoner, I only heard his name mentioned as being there - I did not see any of the blows given.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person764">
+                  Eleanor 
+                  Sparkes 
+               <interp inst="t17441205-60-person764" type="surname" value="Sparkes"></interp>
+                     <interp inst="t17441205-60-person764" type="given" value="Eleanor"></interp>
+                     <interp inst="t17441205-60-person764" type="gender" value="female"></interp>
+                  </persName>
+            . My husband came home the 21st of August between 11 and 12 at night very much abused, and said he was a dead man - he repeated it to me several times afterwards that he should die of those wounds.</p>
+               <p>Q. Did he say who were the authors of his murder, or any thing in relation to the prisoner?</p>
+               <p>Sparkes. He said the prisoner was just by him when he was wounded, and Mr. Morgan was; but he could not tell who killed him.</p>
+               <p>- A kinswoman of the deceased. The deceased was my uncle, I went to visit him in the Infirmary, he was sadly wounded, I asked him how he came into that miserable state, he told me he was wronged and abused by a parcel of men, who came in a riotous manner as he was upon his watch. I asked him if he knew any of those men who wounded<xptr type="pageFacsimile" doc="174412050054"></xptr> him; he said he knew three of the company; I asked him who they were; he said, Mr. Rawlinson was one, Mr. Harding at the Spring-Garden at Stepney, and Mr. Morgan in Whitechapel. I asked him if he could tell which of those men wounded him: he said, Mr. Morgan and Mr. Harding were the two nearest to him when he was wounded, but he could not tell which of them did it - he said this about six days after the thing happened.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person765">
+                  William 
+                  Day 
+               <interp inst="t17441205-60-person765" type="surname" value="Day"></interp>
+                     <interp inst="t17441205-60-person765" type="given" value="William"></interp>
+                     <interp inst="t17441205-60-person765" type="gender" value="male"></interp>
+                  </persName>
+            . Upon Tuesday the 21st of August last (as I am beadle of the ward) I sat my watch according to custom and left the constable and all the watchmen sober; the next morning I heard there had been a dismal affray, that the watchmen had been sadly used, and that the deceased and one Parker were dismally wounded, and I got them into the Infirmary; therewere warrants granted to take up Harding and Morgan, for Sparkes had said that they were two of the company.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person766">
+                  Thomas 
+                  Rawlinson 
+               <interp inst="t17441205-60-person766" type="surname" value="Rawlinson"></interp>
+                     <interp inst="t17441205-60-person766" type="given" value="Thomas"></interp>
+                     <interp inst="t17441205-60-person766" type="gender" value="male"></interp>
+                  </persName>
+            . When the quarrel first began I was forty yards distant, and they ran down Checquer yard.</p>
+               <p>Q. Who ran down Checquer yard ?</p>
+               <p>Rawlinson. I saw Mr. Harding and one Diamond run down; they were several yards down Checquer yard, and there was a cry of murder; the other watchmen came to assist those who went down the yard. Mr. Burchall stood at the end of Checquer yard and drew his hanger, said I, for God's sake don't do anyharm with your hanger; he said, by God I will fight for my king and my country.</p>
+               <p>Q. Had the prisoner any weapon?</p>
+               <p>Rawlinson. I did not see any.</p>
+               <p>Q. If he had had a cutlass or a weapon do you think you should have seen it?</p>
+               <p>Rawlinson. I could not see into Checquer yard.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person767">
+                  William 
+                  Day 
+               <interp inst="t17441205-60-person767" type="surname" value="Day"></interp>
+                     <interp inst="t17441205-60-person767" type="given" value="William"></interp>
+                     <interp inst="t17441205-60-person767" type="gender" value="male"></interp>
+                  </persName>
+            . They have said that I wanted the reward +; I might have taken the prisoner up but I scorned the reward.</p>
+               <p>
+            
+                  <persName id="t17441205-60-person768">
+                  Arthur 
+                  Parker 
+               <interp inst="t17441205-60-person768" type="surname" value="Parker"></interp>
+                     <interp inst="t17441205-60-person768" type="given" value="Arthur"></interp>
+                     <interp inst="t17441205-60-person768" type="gender" value="male"></interp>
+                  </persName>
+            . - I have nothing to say against the prisoner nor any body else; I received several wounds, but I can't say who wounded me. <rs id="t17441205-60-verdict391" type="verdictDescription">
+                     <interp inst="t17441205-60-verdict391" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>The Court admonished the prisoner to take care of his behaviour for the future, and not to engage in any such affray, and recommended it to him to make all the satisfaction in his power to the widow of the deceased for the loss she had sustained.</p>
+            </div1>

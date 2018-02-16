@@ -1,3 +1,126 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17441205-50">
+               <interp inst="t17441205-50" type="collection" value="BAILEY"></interp>
+               <interp inst="t17441205-50" type="year" value="1744"></interp>
+               <interp inst="t17441205-50" type="uri" value="sessionsPapers/17441205"></interp>
+               <interp inst="t17441205-50" type="date" value="17441205"></interp>
+               <join result="criminalCharge" id="t17441205-50-off326-c524" targOrder="Y" targets="t17441205-50-defend647 t17441205-50-off326 t17441205-50-verdict330"></join>
+               <join result="criminalCharge" id="t17441205-50-off326-c525" targOrder="Y" targets="t17441205-50-defend649 t17441205-50-off326 t17441205-50-verdict330"></join>
+         
+               <p>85, 86. + 
+               <persName id="t17441205-50-defend647" type="defendantName">
+                  Benjamin
+                   David Woolf
+               <interp inst="t17441205-50-defend647" type="surname" value="David Woolf"></interp>
+                     <interp inst="t17441205-50-defend647" type="given" value="Benjamin"></interp>
+                     <interp inst="t17441205-50-defend647" type="gender" value="male"></interp>
+                  </persName>
+            , and 
+               
+                  <persName id="t17441205-50-defend649" type="defendantName">
+                     Hannah*
+                      Moses, otherwise <rs id="t17441205-50-alias-18" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17441205-50-defend649 t17441205-50-alias-18"></join>Samuel</rs>
+                     <interp inst="t17441205-50-defend649" type="surname" value="Moses"></interp>
+                     <interp inst="t17441205-50-defend649" type="given" value="Hannah*"></interp>
+                     <interp inst="t17441205-50-defend649" type="gender" value="female"></interp>
+                  </persName>
+               
+            , of <placeName id="t17441205-50-defloc325">St. Giles in the Fields</placeName>
+                  <interp inst="t17441205-50-defloc325" type="placeName" value="St. Giles in the Fields"></interp>
+                  <interp inst="t17441205-50-defloc325" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-50-defend647 t17441205-50-defloc325"></join>
+                  <join result="persNamePlace" targOrder="Y" targets="t17441205-50-defend649 t17441205-50-defloc325"></join>, were indicted for <rs id="t17441205-50-off326" type="offenceDescription">
+                     <interp inst="t17441205-50-off326" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17441205-50-off326" type="offenceSubcategory" value="shoplifting"></interp>
+               stealing a skillet of silver, weighing 57 ounces, 12 peny weight, val. 16 l. 6 s. 4 s. 3/4, the property of 
+                     
+                        <persName id="t17441205-50-victim651" type="victimName">
+                           John 
+                           Barbe 
+                        <interp inst="t17441205-50-victim651" type="surname" value="Barbe"></interp>
+                        <interp inst="t17441205-50-victim651" type="given" value="John"></interp>
+                        <interp inst="t17441205-50-victim651" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17441205-50-off326 t17441205-50-victim651"></join>
+                     </persName>
+                      
+                  , in his shop
+            </rs>, <rs id="t17441205-50-cd327" type="crimeDate">Nov. 19</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17441205-50-off326 t17441205-50-cd327"></join>.</p>
+               <p>* She is the reputed widow of 
+               <persName id="t17441205-50-person652">
+                  Samuel 
+                  Moses 
+               <interp inst="t17441205-50-person652" type="surname" value="Moses"></interp>
+                     <interp inst="t17441205-50-person652" type="given" value="Samuel"></interp>
+                     <interp inst="t17441205-50-person652" type="gender" value="male"></interp>
+                  </persName>
+            , who was convicted for a Burglary last December Sessions, [Page 30, Trial 74] and executed the 17th of February.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person653">
+                  John 
+                  Barbe 
+               <interp inst="t17441205-50-person653" type="surname" value="Barbe"></interp>
+                     <interp inst="t17441205-50-person653" type="given" value="John"></interp>
+                     <interp inst="t17441205-50-person653" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17441205-50-viclabel328" type="occupation">silversmith</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17441205-50-victim651 t17441205-50-viclabel328"></join> by the <placeName id="t17441205-50-crimeloc329">Seven Dials</placeName>
+                  <interp inst="t17441205-50-crimeloc329" type="placeName" value="Seven Dials"></interp>
+                  <interp inst="t17441205-50-crimeloc329" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17441205-50-off326 t17441205-50-crimeloc329"></join>; on the 19th of November the prisoners came into my shop, and asked for some silver spoons, I told them I had none, but should the next day; they asked me to shew them a pair of falts which hung up in the window, (I had the piece of silver in question in my hand, for I was looking whether it had any flaws, and laid it down on the work board.) I had no suspicion of them because they were well dressed; she took it into her hand, whispered two or three words to him, and then found fault with the plate: he said he was a Hamburgh merchant, and exported a great deal of plate, and desired I would give him a direction where I lived; the woman went away in about two minutes, and the man desired I would come and drink with him in the neighbourhood; I desired him to drink at my house, but he refused it; when I had put the salts up I missed the skillet of silver, and no body had been in the shop but them; I got information of them that night, and found them the next night at the Black Boy and Trumpet on Tower-hill; they denied that they knew any thing of the matter;<xptr type="pageFacsimile" doc="174412050046"></xptr> the woman owned she was in the shop, but the man denied it. I never heard of the silver again.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person654">
+                  Benjamin 
+                  Harper 
+               <interp inst="t17441205-50-person654" type="surname" value="Harper"></interp>
+                     <interp inst="t17441205-50-person654" type="given" value="Benjamin"></interp>
+                     <interp inst="t17441205-50-person654" type="gender" value="male"></interp>
+                  </persName>
+            . Mr. Barbe told me he had lost a skillet of silver, and desired I would go with him to see after the Prisoners; he, his man and I, took a couple of daggers, or swords, or cutlasses, and went to the Black Boy and Trumpet on Tower-hill: Woolf was there; when Mr. Barbe spoke to him, he said he never saw him before with his eyes; I left Woolf in custody, and found the woman [Moses] at her own lodging about seven or eight at night; her landlord at first denied that she was at home, and did not care to let us in, but I said I had a search warrant, forced open the door, and went up stairs: she was unwilling to open the door at first; when I went in I asked her whether she was not at the Seven Dials; she said, yes, she went to buy a pair of salts; she denied that she knew any thing of the silver; she said before the Justice she did not know but she might be there, or she might not be there.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person655">
+                  John 
+                  Gray 
+               <interp inst="t17441205-50-person655" type="surname" value="Gray"></interp>
+                     <interp inst="t17441205-50-person655" type="given" value="John"></interp>
+                     <interp inst="t17441205-50-person655" type="gender" value="male"></interp>
+                  </persName>
+            . I am Mr. Barbe's Apprentice; the Prisoners were at our shop; I was left in charge of Woolf at the Black Boy and Trumpet; he delivered some keys and a watch to his Landlord: the watch has since been owned.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person656">
+                  Richard 
+                  Sell 
+               <interp inst="t17441205-50-person656" type="surname" value="Sell"></interp>
+                     <interp inst="t17441205-50-person656" type="given" value="Richard"></interp>
+                     <interp inst="t17441205-50-person656" type="gender" value="male"></interp>
+                  </persName>
+            . I have known the Prisoners about three or four months, - I don't know what character they have, I only know them by their calling for a pint of beer now and then.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person657">
+                  John 
+                  Faire 
+               <interp inst="t17441205-50-person657" type="surname" value="Faire"></interp>
+                     <interp inst="t17441205-50-person657" type="given" value="John"></interp>
+                     <interp inst="t17441205-50-person657" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Woolf ever since he came to England, my mother kept a public house, he used it all that time, I never heard any thing amiss of him.</p>
+               <p>
+            
+                  <persName id="t17441205-50-person658">
+                  Barbara 
+                  Page 
+               <interp inst="t17441205-50-person658" type="surname" value="Page"></interp>
+                     <interp inst="t17441205-50-person658" type="given" value="Barbara"></interp>
+                     <interp inst="t17441205-50-person658" type="gender" value="female"></interp>
+                  </persName>
+            . I have known the Prisoner twelve months and better; he has frequented my house many a time; I never saw any thing that was amiss by him: I have seen the woman at different times, and never saw any thing but what was fair and just; I never had any dealings with her. <rs id="t17441205-50-verdict330" type="verdictDescription">
+                     <interp inst="t17441205-50-verdict330" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

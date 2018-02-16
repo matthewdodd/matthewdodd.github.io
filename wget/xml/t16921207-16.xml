@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:322109d9b0cde8e31ebeb1bfa4ff4b4e8a0966937e6052a746cdfa5e81e493c3
-size 738
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t16921207-16">
+               <interp inst="t16921207-16" type="collection" value="BAILEY"></interp>
+               <interp inst="t16921207-16" type="year" value="1692"></interp>
+               <interp inst="t16921207-16" type="uri" value="sessionsPapers/16921207"></interp>
+               <interp inst="t16921207-16" type="date" value="16921207"></interp>
+               <join result="criminalCharge" id="t16921207-16-off73-c67" targOrder="Y" targets="t16921207-16-defend67 t16921207-16-off73 t16921207-16-verdict77"></join>
+         
+               <p>
+            
+                  <persName id="t16921207-16-defend67" type="defendantName">
+                  Thomas 
+                  Austin
+               <interp inst="t16921207-16-defend67" type="surname" value="Austin"></interp>
+                     <interp inst="t16921207-16-defend67" type="given" value="Thomas"></interp>
+                     <interp inst="t16921207-16-defend67" type="gender" value="male"></interp>
+                  </persName>
+             of <placeName id="t16921207-16-defloc71">Christ Church</placeName>
+                  <interp inst="t16921207-16-defloc71" type="placeName" value="Christ Church"></interp>
+                  <interp inst="t16921207-16-defloc71" type="type" value="defendantHome"></interp>
+                  <join result="persNamePlace" targOrder="Y" targets="t16921207-16-defend67 t16921207-16-defloc71"></join> in London, <rs id="t16921207-16-deflabel72" type="occupation">Taylor</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t16921207-16-defend67 t16921207-16-deflabel72"></join>, was indicted and tried for <rs id="t16921207-16-off73" type="offenceDescription">
+                     <interp inst="t16921207-16-off73" type="offenceCategory" value="kill"></interp>
+                     <interp inst="t16921207-16-off73" type="offenceSubcategory" value="other"></interp>
+               poysoning his <rs id="t16921207-16-viclabel74" type="occupation">Wife</rs>
+                     <join result="persNameOccupation" targOrder="Y" targets="t16921207-16-victim68 t16921207-16-viclabel74"></join> 
+                  
+                     <persName id="t16921207-16-victim68" type="victimName">
+                        Katherine 
+                        Austin
+                     <interp inst="t16921207-16-victim68" type="surname" value="Austin"></interp>
+                        <interp inst="t16921207-16-victim68" type="given" value="Katherine"></interp>
+                        <interp inst="t16921207-16-victim68" type="gender" value="female"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t16921207-16-off73 t16921207-16-victim68"></join>
+                     </persName>
+                  , on the <rs id="t16921207-16-cd75" type="crimeDate">13th day of November</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t16921207-16-off73 t16921207-16-cd75"></join> last, by putting white Mercury into a pint of Ale, of which she immediately died
+            </rs>. The manner of his doing of it was thus; That the Prisoner did not live with his Wife at the time, but appointed her to meet him to dine together, which she did; but when they came to the House, being the <placeName id="t16921207-16-crimeloc76">King's-Arms in St. Martins Legrand</placeName>
+                  <interp inst="t16921207-16-crimeloc76" type="placeName" value="King's-Arms in St. Martins Legrand"></interp>
+                  <interp inst="t16921207-16-crimeloc76" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t16921207-16-off73 t16921207-16-crimeloc76"></join>, he would needs give her a Hot pot, which was Brandy, Ale, Eggs and Sugar, mix'd together; but it being not warm enough, he desired his Wife to go down Stairs, and warm half of it for him, which she did, and in the mean time he might put the Mercury into the remaining half which was left alone, which she drank, when she came up Stairs again; upon which she immediately fell very sick, and vomited, and died within three or four days afterwards; she taxed her Husband with it presently, and told him, that he had poysoned her; upon which he replied, That he knew nothing of it; but withal, would not drink any of it himself. The Chyrurgion, who dissectect her, gave his Opinion, and said, That the Liver was discoloured, and the Stomach expoliated, and very black in four or five places; which discolouration must be effected by some Corrosive Matter thrown into the Stomach, and must proceed from Poyson. Other Witnesses declared, That the Prisoner was reported to have had more affection for another Woman, than he had for the Deceased Katharine, but that was not made appear. The Prisoner said his Wife was a very ill woman, and had an Evil Tongue, and sought his Ruine, and would not live with him, therefore she had out of spight brought this upon him; to prove which, he called some Witnesses, who confirmed what he said, and that she was a very debauched woman, given much to drinking, and had been troubled with the Foul Disease, and was oftentimes sickly; there was no one that see the Poyson put into the Ale; so upon the whole the Gentlemen of the Jury <rs id="t16921207-16-verdict77" type="verdictDescription">
+                     <interp inst="t16921207-16-verdict77" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs> the Prisoner.</p>
+            </div1>
