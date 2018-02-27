@@ -1,0 +1,55 @@
+;;; 
+Export: Release 12.1.0.2.0 - Production on Mon Nov 6 09:30:06 2017
+
+Copyright (c) 1982, 2016, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Connected to: Oracle Database 12c Enterprise Edition Release 12.1.0.2.0 - 64bit Production
+With the Partitioning, OLAP, Advanced Analytics, Real Application Testing
+and Unified Auditing options
+Starting "SYSTEM"."SYS_EXPORT_SCHEMA_01":  system/******** directory=P1DBINFODEV_DUMP dumpfile=EXPDP_DODD_DATA.DMP logfile=EXPDP_DODD_DATA.log schemas=DODD METRICS=Y 
+Startup took 5 seconds
+Estimate in progress using BLOCKS method...
+Processing object type SCHEMA_EXPORT/TABLE/TABLE_DATA
+     Estimated 11 TABLE_DATA objects in 7 seconds
+Total estimation using BLOCKS method: 78.81 MB
+Processing object type SCHEMA_EXPORT/USER
+     Completed 1 USER objects in 0 seconds
+Processing object type SCHEMA_EXPORT/DEFAULT_ROLE
+     Completed 1 DEFAULT_ROLE objects in 1 seconds
+Processing object type SCHEMA_EXPORT/TABLESPACE_QUOTA
+     Completed 1 TABLESPACE_QUOTA objects in 0 seconds
+Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+     Completed 1 PROCACT_SCHEMA objects in 1 seconds
+Processing object type SCHEMA_EXPORT/TABLE/TABLE
+     Completed 11 TABLE objects in 23 seconds
+Processing object type SCHEMA_EXPORT/VIEW/VIEW
+     Completed 5 VIEW objects in 5 seconds
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/INDEX
+     Completed 10 INDEX objects in 4 seconds
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+     Completed 10 CONSTRAINT objects in 6 seconds
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+     Completed 10 INDEX_STATISTICS objects in 0 seconds
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+     Completed 8 REF_CONSTRAINT objects in 2 seconds
+Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+     Completed 11 TABLE_STATISTICS objects in 2 seconds
+Processing object type SCHEMA_EXPORT/STATISTICS/MARKER
+     Completed 1 MARKER objects in 33 seconds
+. . exported "DODD"."INTERP"                             45.50 MB 1131851 rows in 2 seconds
+. . exported "DODD"."PRIMARY"                            696.6 KB   40481 rows in 0 seconds
+. . exported "DODD"."CRIME"                              2.672 MB   40481 rows in 0 seconds
+. . exported "DODD"."PLACE"                              2.122 MB   28965 rows in 1 seconds
+. . exported "DODD"."DATESTAMP"                          1013. KB   40481 rows in 0 seconds
+. . exported "DODD"."PERSON"                             1.395 MB   22924 rows in 0 seconds
+. . exported "DODD"."PLACE_COORD"                        447.3 KB   10791 rows in 0 seconds
+. . exported "DODD"."OFFENCE_CATEGORY"                   5.765 KB       9 rows in 0 seconds
+. . exported "DODD"."OFFENCE_SUBCATEGORY"                6.804 KB      41 rows in 1 seconds
+. . exported "DODD"."PUNISHMENT_CATEGORY"                5.671 KB       6 rows in 0 seconds
+. . exported "DODD"."PUNISHMENT_SUBCATEGORY"             6.132 KB      19 rows in 0 seconds
+     Completed 11 SCHEMA_EXPORT/TABLE/TABLE_DATA objects in 4 seconds
+Master table "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully loaded/unloaded
+******************************************************************************
+Dump file set for SYSTEM.SYS_EXPORT_SCHEMA_01 is:
+  D:\DUMPFILES\P1DBINFODEV\EXPDP_DODD_DATA.DMP
+Job "SYSTEM"."SYS_EXPORT_SCHEMA_01" successfully completed at Mon Nov 6 09:31:57 2017 elapsed 0 00:01:40
