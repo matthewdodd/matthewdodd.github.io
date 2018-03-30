@@ -1,0 +1,24 @@
+tabHom = as.table(rbind(c(27,91),c(35,30)))
+tabHomGen = as.table(rbind(c(75,91),c(79,30)))
+tabInf = as.table(rbind(c(4,33),c(0,481)))
+
+names(dimnames(tabInf)) = c("Gender","Infanticide")
+names(dimnames(tabHom)) = c("Years","Guilt")
+names(dimnames(tabHomGen)) = c("Years","Guilt")
+
+colnames(tabHom) = c("Guilty","Not Guilty")
+colnames(tabHomGen) = c("Guilty","Not Guilty")
+colnames(tabInf) = c("Infanticide","Not Infanticide")
+
+rownames(tabHomGen) = c("pre-1740","post-1740")
+rownames(tabHom) = c("1660-1740","1740-1802")
+rownames(tabInf) = c("Female","Not Female")
+
+mosaic(tabInf, shade=T, legend=T)
+assoc(tabInf, shade=T, legend=T)
+
+mosaic(tabHom, shade=T, legend=T)
+assoc(tabHom, shade=T, legend=T)
+
+mosaic(tabHomGen, shade=T, legend=T)
+assoc(tabHomGen, shade=T, legend=T)
